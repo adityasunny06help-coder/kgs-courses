@@ -1,0 +1,723 @@
+{
+  "subject_name": "Biology by Amrita Ma'am",
+  "subject_id": 8278,
+  "video_count": 51,
+  "note_count": 51,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Jr9efmtsW3Q",
+      "hd_video_url": "https://www.youtube.com/embed/Jr9efmtsW3Q",
+      "thumbnail": "https://i.ytimg.com/vi/Jr9efmtsW3Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4737d52f-e09d-4137-b343-bf6892941443.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Cell Biology (Part-01) || कोशिका जीव विज्ञान (भाग-01)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vKjwffYIelI",
+      "hd_video_url": "https://www.youtube.com/embed/vKjwffYIelI",
+      "thumbnail": "https://i.ytimg.com/vi/vKjwffYIelI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Cell Biology (Part-01) || कोशिका जीव विज्ञान (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f487170-d6d8-4c01-94c0-c46c0871dc89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Cell Biology (Part-02) || कोशिका जीव विज्ञान (भाग-02)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4q4o3xJ6GjI",
+      "hd_video_url": "https://www.youtube.com/embed/4q4o3xJ6GjI",
+      "thumbnail": "https://i.ytimg.com/vi/4q4o3xJ6GjI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Cell Biology (Part-02) || कोशिका जीव विज्ञान (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb56d7f8-0417-4bda-b313-6507eb5dcc08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Cell Biology (Part-03) || कोशिका जीव विज्ञान (भाग-03)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/hSfu2U22klQ",
+      "hd_video_url": "https://www.youtube.com/embed/hSfu2U22klQ",
+      "thumbnail": "https://i.ytimg.com/vi/hSfu2U22klQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Cell Biology (Part-03) || कोशिका जीव विज्ञान (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7eb7349-698d-4b36-a4bc-72807c1380b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Cell Biology (Part-04) || कोशिका जीव विज्ञान (भाग-04)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/478y7uf3o10",
+      "hd_video_url": "https://www.youtube.com/embed/478y7uf3o10",
+      "thumbnail": "https://i.ytimg.com/vi/478y7uf3o10/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Cell Biology (Part-04) || कोशिका जीव विज्ञान (भाग-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51ba1648-7e39-426d-9efd-8fcf06c76b5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Cell Biology (Part-05) || कोशिका जीव विज्ञान (भाग-05)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/42Jh122Azvk",
+      "hd_video_url": "https://www.youtube.com/embed/42Jh122Azvk",
+      "thumbnail": "https://i.ytimg.com/vi/42Jh122Azvk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Cell Biology (Part-05) || कोशिका जीव विज्ञान (भाग-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2cb03ff8-a668-4539-a2ab-ceece1c241a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07|| Cell Biology (Part-06) || कोशिका जीव विज्ञान (भाग-06)",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/W8bkOKzUL9Q",
+      "hd_video_url": "https://www.youtube.com/embed/W8bkOKzUL9Q",
+      "thumbnail": "https://i.ytimg.com/vi/W8bkOKzUL9Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07|| Cell Biology (Part-06) || कोशिका जीव विज्ञान (भाग-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d14084cd-9262-46c5-b1c3-981940ce533e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Tissue (Part 01) || ऊतक (भाग 01)",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/BWueFdugvDE",
+      "hd_video_url": "https://www.youtube.com/embed/BWueFdugvDE",
+      "thumbnail": "https://i.ytimg.com/vi/BWueFdugvDE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Tissue (Part 01) || ऊतक (भाग 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99c6af60-8daa-4ba4-8ba7-fc51469d5698.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Tissue (Part 02) || ऊतक (भाग 02)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/hW5ZT_p6oH0",
+      "hd_video_url": "https://www.youtube.com/embed/hW5ZT_p6oH0",
+      "thumbnail": "https://i.ytimg.com/vi/hW5ZT_p6oH0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Tissue (Part 02) || ऊतक (भाग 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/757f1462-85ac-46ee-aba6-ca84795c4e69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || DNA & RNA (Part 01) || डीएनए और आरएनए (भाग 01)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qzRdrpR7L5A",
+      "hd_video_url": "https://www.youtube.com/embed/qzRdrpR7L5A",
+      "thumbnail": "https://i.ytimg.com/vi/qzRdrpR7L5A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || DNA & RNA (Part 01) || डीएनए और आरएनए (भाग 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d44af775-af54-428e-9319-a6bd8f01220f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || DNA & RNA (Part 02) || डीएनए और आरएनए (भाग 02)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/VwjT-NH2iTw",
+      "hd_video_url": "https://www.youtube.com/embed/VwjT-NH2iTw",
+      "thumbnail": "https://i.ytimg.com/vi/VwjT-NH2iTw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || DNA & RNA (Part 02) || डीएनए और आरएनए (भाग 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c28fb384-2a3e-4964-9b90-51bd99c66970.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || DNA & RNA (Part 03) || डीएनए और आरएनए (भाग 03)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/AnwKpyOfcoc",
+      "hd_video_url": "https://www.youtube.com/embed/AnwKpyOfcoc",
+      "thumbnail": "https://i.ytimg.com/vi/AnwKpyOfcoc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || DNA & RNA (Part 03) || डीएनए और आरएनए (भाग 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aabd8a7-bb2e-4a71-b465-dd3336c48c7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Skeletal System (Part 01)  || कंकाल तन्त्र (भाग 01)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/b2ougjxTzJA",
+      "hd_video_url": "https://www.youtube.com/embed/b2ougjxTzJA",
+      "thumbnail": "https://i.ytimg.com/vi/b2ougjxTzJA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Skeletal System (Part 01)  || कंकाल तन्त्र (भाग 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5073b884-1fab-4d8a-9e66-3e3cf902a9b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Skeletal System  || कंकाल तन्त्र (भाग 02)",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Og1Pz20YrOs",
+      "hd_video_url": "https://www.youtube.com/embed/Og1Pz20YrOs",
+      "thumbnail": "https://i.ytimg.com/vi/Og1Pz20YrOs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Skeletal System  || कंकाल तन्त्र (भाग 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4a04225-acb6-4ac8-9c01-da0911e191dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Skeletal System (Part 03) || कंकाल तन्त्र (भाग 03)",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/TRCDoUaXEvY",
+      "hd_video_url": "https://www.youtube.com/embed/TRCDoUaXEvY",
+      "thumbnail": "https://i.ytimg.com/vi/TRCDoUaXEvY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Skeletal System (Part 03) || कंकाल तन्त्र (भाग 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fb7fb0b-cfe0-4eb0-a298-3acbff8057e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Nutrition &Vitamins (Part -01) || पोषण और विटामिन (भाग-01)",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/FXI3w84CrH0",
+      "hd_video_url": "https://www.youtube.com/embed/FXI3w84CrH0",
+      "thumbnail": "https://i.ytimg.com/vi/FXI3w84CrH0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Nutrition &Vitamins (Part -01) || पोषण और विटामिन (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5169c3e1-9d95-4fa0-a67b-f3c40384777b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Nutrition & Vitamins (Part -02) || पोषण और विटामिन (भाग-02)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/s6ivdNOtns8",
+      "hd_video_url": "https://www.youtube.com/embed/s6ivdNOtns8",
+      "thumbnail": "https://i.ytimg.com/vi/s6ivdNOtns8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Nutrition & Vitamins (Part -02) || पोषण और विटामिन (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24bd2104-b38a-4d1d-9f0d-9b7703486e2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Nutrition & Vitamins (Part -03) || पोषण और विटामिन (भाग-03)",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/zhhHoxhRFts",
+      "hd_video_url": "https://www.youtube.com/embed/zhhHoxhRFts",
+      "thumbnail": "https://i.ytimg.com/vi/zhhHoxhRFts/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Nutrition & Vitamins (Part -03) || पोषण और विटामिन (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67794b94-b91e-499e-a5a8-7fd3a7f799a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Nutrition & Vitamins (Part -04) || पोषण और विटामिन (भाग-04)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cF4VJCaPeqg",
+      "hd_video_url": "https://www.youtube.com/embed/cF4VJCaPeqg",
+      "thumbnail": "https://i.ytimg.com/vi/cF4VJCaPeqg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Nutrition & Vitamins (Part -04) || पोषण और विटामिन (भाग-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b7e96c6-3b6f-4531-8300-0afd9025f0cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Nutrition & Vitamins (Part -05) || पोषण और विटामिन (भाग-05)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Jn33T3c0mj0",
+      "hd_video_url": "https://www.youtube.com/embed/Jn33T3c0mj0",
+      "thumbnail": "https://i.ytimg.com/vi/Jn33T3c0mj0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Nutrition & Vitamins (Part -05) || पोषण और विटामिन (भाग-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4c73c42-1b69-49b9-8c61-ed04abbf17c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Nutrition & Vitamins (Part -06) || पोषण और विटामिन (भाग-06)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/uMOjDJ_gG5Y",
+      "hd_video_url": "https://www.youtube.com/embed/uMOjDJ_gG5Y",
+      "thumbnail": "https://i.ytimg.com/vi/uMOjDJ_gG5Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Nutrition & Vitamins (Part -06) || पोषण और विटामिन (भाग-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31cfbbed-70c1-465c-beee-bef0d82b15e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Digestive System (Part-01) || पाचन तंत्र (भाग-01)",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7zvsMyb7byI",
+      "hd_video_url": "https://www.youtube.com/embed/7zvsMyb7byI",
+      "thumbnail": "https://i.ytimg.com/vi/7zvsMyb7byI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Digestive System (Part-01) || पाचन तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eed7dfc-2038-43b8-8eff-7ec3bf2dad7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Digestive System (Part-02) || पाचन तंत्र (भाग-02)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/33Yw7cvxaZE",
+      "hd_video_url": "https://www.youtube.com/embed/33Yw7cvxaZE",
+      "thumbnail": "https://i.ytimg.com/vi/33Yw7cvxaZE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Digestive System (Part-02) || पाचन तंत्र (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07b86247-cf33-4d30-bb90-ad759e2982ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Digestive System (Part-03) || पाचन तंत्र (भाग-03)",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/yEZGueK-Jx4",
+      "hd_video_url": "https://www.youtube.com/embed/yEZGueK-Jx4",
+      "thumbnail": "https://i.ytimg.com/vi/yEZGueK-Jx4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Digestive System (Part-03) || पाचन तंत्र (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7611edbe-538f-4c85-ae83-272859b05a40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Blood Circulatory System (Part-01) || रक्त संचार तंत्र (भाग-01)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/BQ77HX39lbI",
+      "hd_video_url": "https://www.youtube.com/embed/BQ77HX39lbI",
+      "thumbnail": "https://i.ytimg.com/vi/BQ77HX39lbI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Blood Circulatory System (Part-01) || रक्त संचार तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/311dab8e-b984-4524-8b5b-65eb974e692d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Blood Circulatory System (Part-02) || रक्त संचार तंत्र (भाग-02)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/OrPRBEiMic0",
+      "hd_video_url": "https://www.youtube.com/embed/OrPRBEiMic0",
+      "thumbnail": "https://i.ytimg.com/vi/OrPRBEiMic0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Blood Circulatory System (Part-02) || रक्त संचार तंत्र (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8483945-73e7-461c-a248-49743f1d249d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Blood Circulatory System (Part-03) || रक्त संचार तंत्र (भाग-03)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/BV-Lu_0YpmA",
+      "hd_video_url": "https://www.youtube.com/embed/BV-Lu_0YpmA",
+      "thumbnail": "https://i.ytimg.com/vi/BV-Lu_0YpmA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Blood Circulatory System (Part-03) || रक्त संचार तंत्र (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d4b34f7-df36-4b19-8562-4f518529f44f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Blood Circulatory System (Part-04) || रक्त संचार तंत्र (भाग-04)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/D1cMfXuUp1E",
+      "hd_video_url": "https://www.youtube.com/embed/D1cMfXuUp1E",
+      "thumbnail": "https://i.ytimg.com/vi/D1cMfXuUp1E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Blood Circulatory System (Part-04) || रक्त संचार तंत्र (भाग-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/094a5c94-3fc9-435e-a901-fa3152c6c270.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Blood Circulatory System (Part-05) || रक्त संचार तंत्र (भाग-05)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/GvVB3yJq4yk",
+      "hd_video_url": "https://www.youtube.com/embed/GvVB3yJq4yk",
+      "thumbnail": "https://i.ytimg.com/vi/GvVB3yJq4yk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Blood Circulatory System (Part-05) || रक्त संचार तंत्र (भाग-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5dbf1f3-4775-4d29-8d28-6eceb00c5048.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Blood Circulatory System (Part-06) || रक्त संचार तंत्र (भाग-06)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7bjkIHaQ3Pw",
+      "hd_video_url": "https://www.youtube.com/embed/7bjkIHaQ3Pw",
+      "thumbnail": "https://i.ytimg.com/vi/7bjkIHaQ3Pw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Blood Circulatory System (Part-06) || रक्त संचार तंत्र (भाग-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/216fcdd7-d483-421a-ab55-f7ae447226d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Blood Circulatory System (Part-07) || रक्त संचार तंत्र (भाग-07)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/oay6Qg0_Ark",
+      "hd_video_url": "https://www.youtube.com/embed/oay6Qg0_Ark",
+      "thumbnail": "https://i.ytimg.com/vi/oay6Qg0_Ark/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Blood Circulatory System (Part-07) || रक्त संचार तंत्र (भाग-07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/149cf141-5c26-4182-887d-ec2d666b83c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Respiratory System (Part -01) || श्वसन तंत्र (भाग-01)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/lMDziFuCnzE",
+      "hd_video_url": "https://www.youtube.com/embed/lMDziFuCnzE",
+      "thumbnail": "https://i.ytimg.com/vi/lMDziFuCnzE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Respiratory System (Part -01) || श्वसन तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/daee451b-70e8-4e23-9583-e0a267bc61d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || Respiratory System (Part -02) || श्वसन तंत्र (भाग-02)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-Pe0-3CmJjo",
+      "hd_video_url": "https://www.youtube.com/embed/-Pe0-3CmJjo",
+      "thumbnail": "https://i.ytimg.com/vi/-Pe0-3CmJjo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Respiratory System (Part -02) || श्वसन तंत्र (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd6d710c-1b53-4bba-bdda-4595b7a3b5a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || Excretory System (Part-01) || उत्सर्जक तंत्र (भाग-01)",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/1a3VggtPtsI",
+      "hd_video_url": "https://www.youtube.com/embed/1a3VggtPtsI",
+      "thumbnail": "https://i.ytimg.com/vi/1a3VggtPtsI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Excretory System (Part-01) || उत्सर्जक तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3afed5e-ec34-4978-a39b-36a6aeeae02b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || Nervous System (Part-01) || तंत्रिका तंत्र (भाग-01)",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Y0I4VjCwavE",
+      "hd_video_url": "https://www.youtube.com/embed/Y0I4VjCwavE",
+      "thumbnail": "https://i.ytimg.com/vi/Y0I4VjCwavE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Nervous System (Part-01) || तंत्रिका तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b567895-ed7a-4865-bd2b-1a034f5a00c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || Nervous System (Part-02) || तंत्रिका तंत्र (भाग-02)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/hd5CkusrXiE",
+      "hd_video_url": "https://www.youtube.com/embed/hd5CkusrXiE",
+      "thumbnail": "https://i.ytimg.com/vi/hd5CkusrXiE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Nervous System (Part-02) || तंत्रिका तंत्र (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf85db19-39ad-4485-9bab-3b8ddd47c6b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || Endocrine System (Part-01) || अन्तःस्त्रावी तंत्र (भाग-01)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/XfpZs6ik3MU",
+      "hd_video_url": "https://www.youtube.com/embed/XfpZs6ik3MU",
+      "thumbnail": "https://i.ytimg.com/vi/XfpZs6ik3MU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Endocrine System (Part-01) || अन्तःस्त्रावी तंत्र (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c5c8775-da30-413b-8bc4-a5fe40621a40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || Endocrine System (Part-02) || अन्तःस्त्रावी तंत्र (भाग-02)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/90XxpR0eArE",
+      "hd_video_url": "https://www.youtube.com/embed/90XxpR0eArE",
+      "thumbnail": "https://i.ytimg.com/vi/90XxpR0eArE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Endocrine System (Part-02) || अन्तःस्त्रावी तंत्र (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa3eedf7-5ae6-4b2a-b011-eede8b3c26c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || Endocrine System (Part-03) || अन्तःस्त्रावी तंत्र (भाग-03)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/-oAWpgBym6s",
+      "hd_video_url": "https://www.youtube.com/embed/-oAWpgBym6s",
+      "thumbnail": "https://i.ytimg.com/vi/-oAWpgBym6s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Endocrine System (Part-03) || अन्तःस्त्रावी तंत्र (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57f9eacf-9e10-44b3-9d9a-42f88a1bfbb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || REPRODUCTIVE SYSTEM || प्रजनन तंत्र",
+      "published_date": "06 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/RQ7_83GlR1E",
+      "hd_video_url": "https://www.youtube.com/embed/RQ7_83GlR1E",
+      "thumbnail": "https://i.ytimg.com/vi/RQ7_83GlR1E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || REPRODUCTIVE SYSTEM || प्रजनन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d13bd96b-e0d7-4cd2-9bd0-aab174c55a75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || IVF/Test tube baby & Taxonomy",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/E-5j84SHaBg",
+      "hd_video_url": "https://www.youtube.com/embed/E-5j84SHaBg",
+      "thumbnail": "https://i.ytimg.com/vi/E-5j84SHaBg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || IVF/Test tube baby & Taxonomy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e7c6a69-2af5-4281-acaa-53d47af119ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || Five Kingdom Classification || पाँच जगत वर्गीकरण",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/nyTdyzB5JVo",
+      "hd_video_url": "https://www.youtube.com/embed/nyTdyzB5JVo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RhVCBxj3xHQ6mwBoO3pbkaQyoEIq9CD1wxq3iRZB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Five Kingdom Classification || पाँच जगत वर्गीकरण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/614a9058-e3be-4343-8de2-d251a181ffb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || Animal Kingdom || पशु जगत",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EoRE6vYMjFc",
+      "hd_video_url": "https://www.youtube.com/embed/EoRE6vYMjFc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vZaSiDuJAs3uYii1SM5FTzGXjEE9dgeI5QK8v3uw.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Animal Kingdom || पशु जगत",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/180cd137-a5f1-4f33-8dc9-4ac69aa02609.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || Chordates",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/-f57w8hTqrM",
+      "hd_video_url": "https://www.youtube.com/embed/-f57w8hTqrM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qVr1cK6cQJhbjDDbbwSHjTwhP6pUoiDQ0qlJtHor.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Chordates",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58623b7d-2aae-4d68-b48e-2cd999561f1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || Non Chordates",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/-SE16xAMnLo",
+      "hd_video_url": "https://www.youtube.com/embed/-SE16xAMnLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dFs0qsWIecMWuHevlHtJmVYheiuRciX4KDyT1oGJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Non Chordates",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b762309-1d0e-4a94-bdec-ea4a26a3be20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || Plant Kingdom Classification (Part-01) || पादप जगत वर्गीकरण (भाग-01)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/pe2Y_Cg95NU",
+      "hd_video_url": "https://www.youtube.com/embed/pe2Y_Cg95NU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RTjyZtGKUsF7Cp5mPJeL8zYvukRJGPjQwVj9pyMO.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Plant Kingdom Classification (Part-01) || पादप जगत वर्गीकरण (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c3213bf-f10b-4260-86dd-fd5da923390e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 || Plant Kingdom Classification (Part-02) || पादप जगत वर्गीकरण (भाग-02)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OX3v0wAPdis",
+      "hd_video_url": "https://www.youtube.com/embed/OX3v0wAPdis",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/U7VQw0opxsoMOLG3CIaGp0QMm9Cy9cSMqIa50NjV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 || Plant Kingdom Classification (Part-02) || पादप जगत वर्गीकरण (भाग-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60eef976-5630-434a-a8d5-0d2259e47f5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 || Flower & Pollination || फूल & परागण",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/BCfoeU65Btg",
+      "hd_video_url": "https://www.youtube.com/embed/BCfoeU65Btg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5KHuobOu8XMnYr5SeAY1Xpuf49JXgrRY5dm6h7pD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Flower & Pollination || फूल & परागण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99a8d112-4969-4019-94ff-af0ded9e4ca5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 || Fruits || फल",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sOMQuHUo1i0",
+      "hd_video_url": "https://www.youtube.com/embed/sOMQuHUo1i0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JzmjzW8RGYYpUOSGsHAMNkCzDXPmGwIWMK5g6wq4.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Fruits || फल",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb89732c-4622-4aa5-b183-80cc9c5ef30a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 || Human Diseases || मानव रोग",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zAThHZVegpo",
+      "hd_video_url": "https://www.youtube.com/embed/zAThHZVegpo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gbH4sOQTcYJipTuncmDRcT7QoJoSzvrHILusX1ai.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Human Diseases || मानव रोग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22a0d254-ba7e-44b8-bc72-1269a34de6ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 ||  Genetic Diseases ||  आनुवांशिक रोग",
+      "published_date": "20 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Ppe2DS0fQmk",
+      "hd_video_url": "https://www.youtube.com/embed/Ppe2DS0fQmk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QBb0vWRFYutwzJEsA03wbDkhQ59BhMFbcgGQCkr7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 51 ||  Genetic Diseases ||  आनुवांशिक रोग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80c80ec9-c91c-492a-8d91-6382e29da7fb.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,329 @@
+{
+  "subject_name": "Biology  by Avinash sir",
+  "subject_id": 5587,
+  "video_count": 30,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Biology",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/fdfq-00zcdk",
+      "hd_video_url": "https://www.youtube.com/embed/fdfq-00zcdk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//155be2ad-4a58-44bd-80d7-e6b6d4d0904b.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Circulatory System Heart (Part-01)",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/z1uf2-b3KMU",
+      "hd_video_url": "https://www.youtube.com/embed/z1uf2-b3KMU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fa58fd68-9cd1-4741-8760-8b414813c019.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Circulatory System Heart (Part-02)",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/hO_PU8UveTI",
+      "hd_video_url": "https://www.youtube.com/embed/hO_PU8UveTI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//91093dbb-9ec2-401f-bf15-8f1a778144f4.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Blood (Part-01)",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/sKA9gYv43ws",
+      "hd_video_url": "https://www.youtube.com/embed/sKA9gYv43ws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//57268ba6-f5b7-4795-85c3-78b50291ad64.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Blood (Part-02)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/qsdTz2pK5M0",
+      "hd_video_url": "https://www.youtube.com/embed/qsdTz2pK5M0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//637bf372-cd38-4aa4-b903-478596823384.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Respiratory system (Part-01)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/wm-uzAzM-Fw",
+      "hd_video_url": "https://www.youtube.com/embed/wm-uzAzM-Fw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1defbf9f-68eb-4616-b011-3065fa4c356d.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Respiratory System (Part-02)",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/8bNPyPFloAU",
+      "hd_video_url": "https://www.youtube.com/embed/8bNPyPFloAU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//78e858ca-8362-472e-b124-0dd078f506a7.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Digestive System (Part-01)",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/l4xLbSmT11U",
+      "hd_video_url": "https://www.youtube.com/embed/l4xLbSmT11U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//868fb7b5-b121-4f13-8425-f0248ce9683b.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Digestive System (Part-02)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/t5Kc-cD3MLg",
+      "hd_video_url": "https://www.youtube.com/embed/t5Kc-cD3MLg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fd4ce768-2b11-474d-ab26-c06afaef347a.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Excretory System",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43984/kgss-1704362908-v43984.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d-NHrVu9ql4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7cfda987-589c-420b-a545-699ce1a9ffbb.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Skeleton  System (Part-01)",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44265/kgss-1704449577-v44265.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IMluACgqvwQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c7c35324-4f88-4c8b-9a42-b2fa27229269.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Skeleton System (Part-02)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/BQGfELIrWxI",
+      "hd_video_url": "https://www.youtube.com/embed/BQGfELIrWxI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//05c44662-1d56-42ef-8128-b83dfef42d2d.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Cell and Tissue (Part-01)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/JkaKkZwrOPU",
+      "hd_video_url": "https://www.youtube.com/embed/JkaKkZwrOPU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6fd4236b-f17b-4d29-b012-1e9c6a837b01.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Cell and Tissue (Part-02)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/8QPaQsZku-4",
+      "hd_video_url": "https://www.youtube.com/embed/8QPaQsZku-4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cad6b6e7-af14-49d8-84f7-4a8ce563099f.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Cell and Tissue (Part-03)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/5EoKb4nqKT4",
+      "hd_video_url": "https://www.youtube.com/embed/5EoKb4nqKT4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ac1996ff-3b4b-4aa3-b492-d036254b1e20.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Endocrine System (Part-01)",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/cjB_vOglUws",
+      "hd_video_url": "https://www.youtube.com/embed/cjB_vOglUws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c1f0e188-07b2-4c7a-bef2-c65ca38c2146.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Endocrine Gland (Part-02)",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/acPmA7LqfAU",
+      "hd_video_url": "https://www.youtube.com/embed/acPmA7LqfAU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a4921a2a-77cf-404d-92d5-b9eb47b12b2a.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Endocrine Gland (Part-03)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/N4B4bncRaxU",
+      "hd_video_url": "https://www.youtube.com/embed/N4B4bncRaxU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/u3YaAUyUg8v9IoSasRD48rQAdQgntd708yo9CA5s.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Endocrine Gland (Part-04)",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/1ywZVXNYTmM",
+      "hd_video_url": "https://www.youtube.com/embed/1ywZVXNYTmM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IrfHCKeqrlbG9N9oJzoZRqMZpf3yLAyPkkbO8cfB.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Nutrition (Part-01)",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/aZt7k2niba8",
+      "hd_video_url": "https://www.youtube.com/embed/aZt7k2niba8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NFeNzEvGrByh3sLtvnEIJeQaMco8Fcku0KZlcBHe.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Nutrition (Part-02)",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/gjW5xfv3prw",
+      "hd_video_url": "https://www.youtube.com/embed/gjW5xfv3prw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EqOrGHemWdMiHEouJHtP9xDAEEYydVEmRzwCvTGy.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Nutrition Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/591ee580-2a06-450c-81cd-3b090c6725c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Nutrition (Part-03)",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/FLc1Kc3lY70",
+      "hd_video_url": "https://www.youtube.com/embed/FLc1Kc3lY70",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VZ6lG15Y09Pr1SIPib9DvYPdG2k2kNUNEbXQD5gS.png",
+      "notes": [
+        {
+          "title": "Lecture-22  Nutrition (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f6329cb2-964a-4d5e-aa98-7775ec7e9a7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Plant & Animal Kingdom (Part-01)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/a5iGvwcbXIA",
+      "hd_video_url": "https://www.youtube.com/embed/a5iGvwcbXIA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/LYqSqg1VpwlF57MeseD15epzwxlxOPWE4OPidHnB.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Plant & Animal Kingdom (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c100af84-7bdb-4a10-b5d4-126f71fd6581.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Plant & Animal Kingdom (Part-02)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/q-fD9eXYEc4",
+      "hd_video_url": "https://www.youtube.com/embed/q-fD9eXYEc4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UqH0VcnRIkcyl0IFI5A3lP0X05PbJQ7NOWSzww9Y.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Plant & Animal Kingdom (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a87fc78-47bc-454d-ad25-a924d47b94c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Nervous System (Part-01)",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/XhZt0ugpcss",
+      "hd_video_url": "https://www.youtube.com/embed/XhZt0ugpcss",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/zEA420F6gmYVaDxounYXuBFC9CJAFD7hMJ2g2Ham.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Nervous System (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/cca9836d-be1d-4e3a-9829-46c762518271.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Nervous System (Part-02)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Tv2QpD7sS2I",
+      "hd_video_url": "https://www.youtube.com/embed/Tv2QpD7sS2I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/snfDlzOFblq9pqmzjs8PkpjLbbcOtR1rtDqHUrEq.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Nervous System (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1fe1125b-5605-45c1-86b9-c765758dcc97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Human Disease (Part-01)",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ZacToaSyV80",
+      "hd_video_url": "https://www.youtube.com/embed/ZacToaSyV80",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xI18aCyElbaUEK5EwNP0cnBi9ISYGho5ANXgbifV.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Disease (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fc541543-e4f9-4744-a7ad-752ee84f2221.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Human Disease (Part-02)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/LhdQivt9Y3U",
+      "hd_video_url": "https://www.youtube.com/embed/LhdQivt9Y3U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CIt6EVnSXDgNHVtxCsunDfOI4r1YTBZKEyzGV4rw.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Human Disease (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bbc42ff2-050c-4232-b1f6-138558afdaa8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Human Disease (Part-03)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/sGBlWbCkaP8",
+      "hd_video_url": "https://www.youtube.com/embed/sGBlWbCkaP8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/n5518Ledu2yoQX7NIWSV7SVmztXUTHb2uV6G2UnG.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || Human Disease (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c4d15915-7810-42c0-a023-13a57c11314c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Plant Disease",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/8VxX1CGHnTc",
+      "hd_video_url": "https://www.youtube.com/embed/8VxX1CGHnTc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vmkN3WJY3Ig3tyc4lE2wOJ0YD5zQ2uK1vzKWVxq3.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || Plant Disease",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ea487bcf-ee5b-4424-8557-d6cf19472ebc.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

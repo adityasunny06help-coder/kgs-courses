@@ -1,0 +1,63 @@
+{
+  "subject_name": "Arts & Culture By Jaswant Sir",
+  "subject_id": 1193,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01: पटना कलम चित्रकला",
+      "published_date": "18 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-01/l-01-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kurr8ldtR9U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//db9f0765-3b49-4cd2-a07c-ff12170d2d27.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02: मौर्य कला",
+      "published_date": "19 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-02/l-02-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fKTIaM5zdiU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fe786e4c-ba36-42c9-96b8-302d9b7e62ef.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03: लोक कला / जन कला",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-03/l-03-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RaFCVtrHbwc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//47d2e3fc-fab5-49d3-9695-2bd7ea47f57c.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04: पाल कला",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-04/l-04-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GXsu6h8SWRY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0b54ea88-519a-446b-a4f8-f7cee074bb01.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05: मधुबनी चित्रकला",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-05/l-05-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Wf-2ZHXRCBw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5d7a385d-cc12-4e63-9bcf-f2df3ebbba16.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06: थंका चित्रशैली",
+      "published_date": "23 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/arts-culture/l-06/l-06-art-cult-jaswant-sir-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NB3Qz7QGr0s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3423ce13-7a04-4ef7-8216-1c1904ebc206.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

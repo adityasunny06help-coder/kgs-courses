@@ -1,0 +1,55 @@
+{
+  "subject_name": "Chemistry by Shekhar Sir",
+  "subject_id": 8211,
+  "video_count": 4,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Introduction Class",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/DYa3oywiDQw",
+      "hd_video_url": "https://www.youtube.com/embed/DYa3oywiDQw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3ewEuzqnGPDKgkqShsOZZZAHuL3GGFWf7J7lqHzl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || General Organic Chemistry Part 1",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Y73pgw1-mAk",
+      "hd_video_url": "https://www.youtube.com/embed/Y73pgw1-mAk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VNbYSaxfIH2aGY2z7BoMGygs8H5cGwnwGMNCFETX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 ||  General Organic Chemistry Part 2",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/AQ9dZ9poqzM",
+      "hd_video_url": "https://www.youtube.com/embed/AQ9dZ9poqzM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QGIMa7gGx4XRrR5jcY7Jh6d2YeSkarMvduzNw9sQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Chemistry by Shekhar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/856c45f5-1f1c-4288-bcfb-ac3ee0b0eb56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Chemistry by Shekhar Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/h3Bhrjq6irU",
+      "hd_video_url": "https://www.youtube.com/embed/h3Bhrjq6irU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tW6WXzHKqZq34wjJO0aL9nKExPQFrwoHFjHFqNKd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Chemistry by Shekhar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79890189-c860-4261-a8e4-7d52a8800ca6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

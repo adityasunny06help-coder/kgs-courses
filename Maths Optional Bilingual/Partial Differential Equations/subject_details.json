@@ -1,0 +1,325 @@
+{
+  "subject_name": "Partial Differential Equations",
+  "subject_id": 4656,
+  "video_count": 20,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-107 || Partial Differential Equations",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/169305/kgss-1734695791-v169305.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dwmPuEY60GE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769a05911.jpg",
+      "notes": [
+        {
+          "title": "Lecture-107 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9eb04c06-cfc1-473f-bad2-a38a46a10b64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-108 || PDE of first degree",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/169707/kgss-1734782379-v169707.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Cd4JP0sp7Pw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769978312.jpg",
+      "notes": [
+        {
+          "title": "Lecture-108 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4aa01413-f155-46ec-9a16-e8917e11e6c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-109 || Lagrange's  Mathod",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/170093/kgss-1734954598-v170093.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZPuFl30L2gk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987698f1800.jpg",
+      "notes": [
+        {
+          "title": "Lecture-109 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33bc67cd-9a4b-43be-b4e9-0803a4befc09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-110 || Generalisation of Lagrange's Theorem",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/170703/kgss-1735024914-v170703.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZM4KL15Bxqg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769876b22.jpg",
+      "notes": [
+        {
+          "title": "Lecture-110 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9063db4a-63db-49c9-b6d8-068ec09a3eb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-111 || Charpit's method",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/171198/kgss-1735109949-v171198.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cTt9uxHxBxc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987697f0fe9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-111 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81bf867d-f58c-4746-9d74-2e293ffff60d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-112 || Reducible to Type-1st, 2nd and 3rd",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/171600/kgss-1735195993-v171600.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Pz4MLK7mADE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769776693.jpg",
+      "notes": [
+        {
+          "title": "Lecture-112 || Reducible to Type-1st, 2nd and 3rd",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9da77497-6588-4498-b64a-489c5626ddda.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-113 ||  Linear PDE with Constent Cofficient-1",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/172250/kgss-1735282168-v172250.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SX_VulPrHuw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987696f1e65.jpg",
+      "notes": [
+        {
+          "title": "Lecture-113 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9dbaf47-1b4a-4678-93a9-b76b0077353d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-114 ||  Linear PDE with Constent Cofficient-2",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/173398/kgss-1735627736-v173398.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/v7lK9U0WSZE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689876966dbef.jpg",
+      "notes": [
+        {
+          "title": "Lecture-114 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2bf1771-1e15-48e9-94e3-1668d1435ef0.pdf"
+        },
+        {
+          "title": "Linear PDE with constant coefficients question part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea9cf6f0-aadf-4744-a1cf-3a121e64af74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-115 ||  Linear PDE with Constent Cofficient-3",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/173668/kgss-1735801079-v173668.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hF_ngXDhVjs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987695e794e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-115 || Linear PDE with Constent Cofficient-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8fd6217-da84-4fc4-ac53-d28724f633cf.pdf"
+        },
+        {
+          "title": "Rules to Find CF",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0f99933-12aa-47cb-81f6-656aa7da8af1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-116 || Linear PDE with Constent Cofficient-4",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/173978/kgss-1735887512-v173978.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cDMI2oVSlqg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689876956d37c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-116 || Linear PDE with Constent Cofficient-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ec9864d-45a7-4b8d-a145-88fb1e1ea76f.pdf"
+        },
+        {
+          "title": "Practice Questions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a01adbeb-eadb-46ad-8e12-eaa98cb186f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-117 ||  Linear PDE with Constent Cofficient -5",
+      "published_date": "04 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174344/kgss-1735973861-v174344.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MxUv5TDjYrI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987694e6a19.jpg",
+      "notes": [
+        {
+          "title": "Lecture-117 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe39f24e-4312-4c0f-92b1-c680b20c3ac9.pdf"
+        },
+        {
+          "title": "Euler Cauchy Practice Questions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce59e43e-26d2-40dd-b3bb-5bc898101637.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-118 ||  PDE of Order two with variable Cofficient-1",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174692/kgss-1736145985-v174692.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Pbc5ny0403A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689876946a2fa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-118 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5bd2aae-db46-4c5d-9015-196d948ac5a1.pdf"
+        },
+        {
+          "title": "Problems related to geometrical conditions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96b14f69-ad72-4bcd-92b0-b17edbd2a41e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-119 ||  PDE of Order two with variable Cofficient-2",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/175286/kgss-1736232790-v175286.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lK3079mmyP0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987693e5347.jpg",
+      "notes": [
+        {
+          "title": "Lecture-119 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ca22e8b-7f14-40c2-804a-674c17c8a99b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-120 ||  PDE of Order two with variable Cofficient-3",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176136/kgss-1736319135-v176136.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QkhGiiggXW4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769369fba.jpg",
+      "notes": [
+        {
+          "title": "Lecture-120 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fddc357e-e0ec-4d35-b74d-66cd22138174.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-121 || Heat, Wave and Laplas's Equation-1",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176529/kgss-1736404944-v176529.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7lKVslon3oQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987692e4ef4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-121 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7222382-69ce-4c56-9a52-ef467f7def0c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-122 || Heat, Wave and Laplas's Equation-2",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177020/kgss-1736491717-v177020.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dcUP1_3Mf5k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769266450.jpg",
+      "notes": [
+        {
+          "title": "Lecture-122 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcd34dac-7588-4ee5-a60c-87ee330aa602.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-123 || Heat, Wave and Laplas's Equation-3",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177505/kgss-1736577137-v177505.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OGv30pwxvFY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987691e177c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-123 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/543ff4c4-75ca-4251-8c42-ef71476cf005.pdf"
+        },
+        {
+          "title": "Heat Equation practice questions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03bb57a4-358a-42e7-8a1c-ddd76cb5bf7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-124 || Heat, Wave and Laplas's Equation-4",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177883/kgss-1736750913-v177883.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q9gO5TXuNQs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769166c14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-124 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b2d551b-d72f-4eba-a82c-e4c01b38325b.pdf"
+        },
+        {
+          "title": "Previous class Home work question",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7036ad25-d5a8-4786-85ad-5d0d8335b614.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-125 || Heat, Wave and Laplas's Equation-5",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178415/kgss-1736837422-v178415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lasNSyySe8Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68987690db6ed.jpg",
+      "notes": [
+        {
+          "title": "Lecture-125 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10ca258e-51c6-4ea9-8612-a7d96c9b1be7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-126 || Heat, Wave and Laplas's Equation-6",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178854/kgss-1736923543-v178854.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CA7bLqNGGWU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6898769028f93.jpg",
+      "notes": [
+        {
+          "title": "Lecture-126 || Heat, Wave and Laplas's Equation-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e72d2399-40c3-41ba-8f5f-71c619aca7ce.pdf"
+        },
+        {
+          "title": "Laplace Equations problems Cartesian coordinated",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/002ae21d-edfc-4cd4-ac9b-1ed4cafb1d23.pdf"
+        },
+        {
+          "title": "Wave equation practice problems",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29bcb200-45a7-41af-9ff2-5f4e22a33e22.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

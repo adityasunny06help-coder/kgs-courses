@@ -1,0 +1,83 @@
+{
+  "subject_name": "Geography by Vishal Sir",
+  "subject_id": 8344,
+  "video_count": 6,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Geography Introduction Class",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/9tjPgy80jgg",
+      "hd_video_url": "https://www.youtube.com/embed/9tjPgy80jgg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/J8UpLiFtQzMFt0MuO3mnfyuXbOahUTw8JauYlZqS.jpg",
+      "notes": [
+        {
+          "title": "Geography Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f591fde5-c265-4ed8-b00e-10d390afd80e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-01 || Geography",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/j5R5w2vL4Rg",
+      "hd_video_url": "https://www.youtube.com/embed/j5R5w2vL4Rg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u4yuVbLezRncm8oxVrxEnJQ9DBOju8ICTfpW7zNV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8451cf8c-58b0-4c0e-9472-008fc129a8b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-02 || Geography",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PQAsTWcKBO8",
+      "hd_video_url": "https://www.youtube.com/embed/PQAsTWcKBO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5gOgTJOGsOMstTW84LsM9h4dJcvf1ujjsJZgATV8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20635349-70ac-4e88-95dc-67cee8d81d3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-03 || Geography",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZqQ2hpt5jCU",
+      "hd_video_url": "https://www.youtube.com/embed/ZqQ2hpt5jCU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1LIjFNiz4dfuXAkenmn20FGTbjfhoS3rRYFk4oZq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bd27658-bd69-4735-8a66-0e504654391a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-04 || Geography",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GHA8dzoxO8euetBUq6HfKK6Oi3xsYGsYBLsuNfkx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-05 || Geography",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pksEbCKBFC1o3QqIvRJi4a063hCMFuaRHJYMktdu.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

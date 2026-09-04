@@ -1,0 +1,37 @@
+{
+  "subject_name": "Coordinate Geometry",
+  "subject_id": 3347,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Coordinate Geometry-01",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113587/kgss-1725336726-v113587.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K5vfoeNIU_g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6sNpZoaK9qEh6jDPoJbC8rMyV0XJS1yFY1WiZQ9R.jpg",
+      "notes": [
+        {
+          "title": "Coordinate Geometry-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d35b069b-f9ee-4da9-a99a-a12f6276f452.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Coordinate Geometry-02",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113858/kgss-1725375317-v113858.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DtXoV-zP264",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wor9VfuU3C04By9Kk9SOP3X3ePXGA7idGetkxC3s.jpg",
+      "notes": [
+        {
+          "title": "Coordinate Geometry-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/064e3ab8-2cd7-4792-b84b-b53e323d6ad4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

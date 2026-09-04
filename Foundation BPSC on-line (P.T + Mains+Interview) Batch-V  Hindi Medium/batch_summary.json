@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Foundation BPSC on-line (P.T + Mains+Interview) Batch-V  Hindi Medium",
+    "price": "4500",
+    "id": "614",
+    "extracted_date": "2025-08-27T14:07:00.516526"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class",
+      "id": 6645,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 6668,
+      "video_count": 47,
+      "note_count": 47
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 6670,
+      "video_count": 56,
+      "note_count": 51
+    },
+    {
+      "name": "Current Affairs by SKC Sir",
+      "id": 6852,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Economy by Dr.  Bharat Sir",
+      "id": 7486,
+      "video_count": 26,
+      "note_count": 26
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "batch_info": {
+    "title": "UPPSC RO/ARO-2024 Crash Course",
+    "price": "499",
+    "id": "445",
+    "extracted_date": "2025-08-27T15:21:33.251994"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class",
+      "id": 3882,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Reasoning by Shantanu Sir",
+      "id": 3892,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Hindi by Jitendra Sir",
+      "id": 3893,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 3894,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 3895,
+      "video_count": 69,
+      "note_count": 68
+    },
+    {
+      "name": "UP Special by Abhishek Sir",
+      "id": 3949,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "Current Affairs by Shivam Sir",
+      "id": 4173,
+      "video_count": 49,
+      "note_count": 49
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 4250,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Maths by Amit Sir",
+      "id": 4404,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "History by Shweta Ma'am",
+      "id": 4539,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Polity by Abhishek Tripathi Sir",
+      "id": 4571,
+      "video_count": 13,
+      "note_count": 13
+    },
+    {
+      "name": "Science by Sushant Sir",
+      "id": 5133,
+      "video_count": 39,
+      "note_count": 38
+    },
+    {
+      "name": "Environment & Ecology by Abhishek Sir",
+      "id": 5164,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 5852,
+      "video_count": 51,
+      "note_count": 50
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "subject_name": "Hindi CSAT by Ajay Anurag Sir",
+  "subject_id": 4480,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || हिन्दी भाषा",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/jffb12Crzvo",
+      "hd_video_url": "https://www.youtube.com/embed/jffb12Crzvo",
+      "thumbnail": "https://i.ytimg.com/vi/jffb12Crzvo/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || वर्ण विचार",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/kNX7qwMaZGQ",
+      "hd_video_url": "https://www.youtube.com/embed/kNX7qwMaZGQ",
+      "thumbnail": "https://i.ytimg.com/vi/kNX7qwMaZGQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || वर्ण विचार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65861566-64e8-413a-a798-a2f2483b4c82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || शब्द रूप",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/AF-LAN3JAEI",
+      "hd_video_url": "https://www.youtube.com/embed/AF-LAN3JAEI",
+      "thumbnail": "https://i.ytimg.com/vi/AF-LAN3JAEI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || शब्द रूप",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b109968-5ebb-43f3-b6b7-5798562dde4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || आविकारी शब्द",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/5k4qiQU_0_A",
+      "hd_video_url": "https://www.youtube.com/embed/5k4qiQU_0_A",
+      "thumbnail": "https://i.ytimg.com/vi/5k4qiQU_0_A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || आविकारी शब्द",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2788422b-bf53-4129-8241-85b20317cd1d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

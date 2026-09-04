@@ -1,0 +1,675 @@
+{
+  "subject_name": "Biology by Satpreet Ma'am",
+  "subject_id": 3176,
+  "video_count": 47,
+  "note_count": 49,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ms1XffsZCf8",
+      "hd_video_url": "https://www.youtube.com/embed/ms1XffsZCf8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8e76f46-40a6-4576-b14d-15f36df80526.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Branches of Biology (Part-1)",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/6AAN8q_VCVE",
+      "hd_video_url": "https://www.youtube.com/embed/6AAN8q_VCVE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Introduction Class-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30c90bb2-b25a-436b-b049-546df7e215c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Branches of Biology (Part-2)",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Ha94zSwRyoE",
+      "hd_video_url": "https://www.youtube.com/embed/Ha94zSwRyoE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Branches of Biology (Part -2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a354e759-6f0f-4b03-a39d-7dc208d1d1aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Branches of Biology Question Practice",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/bZV5hxDeYs0",
+      "hd_video_url": "https://www.youtube.com/embed/bZV5hxDeYs0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Branches of Biology Question Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fa13869-9ad7-4955-8ee4-144212aa296c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Cell || कोशिका (Part-1)",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/LWilN2gYVcY",
+      "hd_video_url": "https://www.youtube.com/embed/LWilN2gYVcY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Cell (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6595f6f5-6c0b-49c7-aa35-cfeeb11b44c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Cell || कोशिका (Part-2)",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Ex28wXnFiwc",
+      "hd_video_url": "https://www.youtube.com/embed/Ex28wXnFiwc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-06 || Cell || कोशिका (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a7de92a-3b16-4007-ab95-520f01e23207.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Cell || कोशिका (Part-3)",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/qWoQr2Qxzy0",
+      "hd_video_url": "https://www.youtube.com/embed/qWoQr2Qxzy0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 || Cell (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aaa3d23-5f0f-4726-b18a-fa558ed85494.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Cell || कोशिका (Part-4)",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Bslnw4SMidM",
+      "hd_video_url": "https://www.youtube.com/embed/Bslnw4SMidM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 || Cell (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8717d97-2ce7-4f2a-9e83-265e208ef7dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Cell || कोशिका (Part-5)",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/3mOTBqqUHMM",
+      "hd_video_url": "https://www.youtube.com/embed/3mOTBqqUHMM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-09 || Cell || कोशिका (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e795ab7e-1f4b-4ec5-a0fb-8a6749f50377.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Cell || कोशिका (Part-6)",
+      "published_date": "20 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/NXJ6Ed0FrOU",
+      "hd_video_url": "https://www.youtube.com/embed/NXJ6Ed0FrOU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-10 || Cell (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/436a0b8c-1f1b-402f-9a22-5941b4294df6.pdf"
+        },
+        {
+          "title": "Lecture-10 || Cell (Part-6) Special PDF",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/567b7c4a-56fd-4b2f-a9f5-cd71fc6ca941.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Human Body || मानव शरीर (Part-1)",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/RBacnn298zM",
+      "hd_video_url": "https://www.youtube.com/embed/RBacnn298zM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c7ec4ee-7858-495e-b68c-032576cffee9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Human Body || मानव शरीर (Part-2)",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/zvwPVOGe6p4",
+      "hd_video_url": "https://www.youtube.com/embed/zvwPVOGe6p4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ae5d834-9668-4f1b-a9e2-85cf24d09bab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Human Body || मानव शरीर (Part-3)",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/l-znjFqi5dk",
+      "hd_video_url": "https://www.youtube.com/embed/l-znjFqi5dk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fb68368-d8ce-465f-a8c3-18277b6e7df6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Human Body || मानव शरीर (Part-4)",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/aYBgXBZHJNc",
+      "hd_video_url": "https://www.youtube.com/embed/aYBgXBZHJNc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ef63f09-81eb-4266-a428-28155c78ce5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Human Body || मानव शरीर (Part-5)",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/NJ9hnEpMlEM",
+      "hd_video_url": "https://www.youtube.com/embed/NJ9hnEpMlEM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-15 || Human Body (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1c2e95e-233c-4bee-9ed5-755f7e6bb799.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Human Body || मानव शरीर (Part-6)",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/P_xVB6m4Dy4",
+      "hd_video_url": "https://www.youtube.com/embed/P_xVB6m4Dy4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c6b9c8b-ce79-4ca6-bea6-dccd42da2277.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Human Body || मानव शरीर (Part-7)",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ba4gGDnz0Os",
+      "hd_video_url": "https://www.youtube.com/embed/ba4gGDnz0Os",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-17 || Human Body || मानव शरीर (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ef233b7-91d0-4fc2-afa3-3b87f8f5f48d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Human Body || मानव शरीर (Part-8)",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/JTXzUyUMm20",
+      "hd_video_url": "https://www.youtube.com/embed/JTXzUyUMm20",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-18 || Human Body (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e673dce-390a-4ca6-be5a-7bf3a10536ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Human Body || मानव शरीर (Part-9)",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/XNfoiWNqvoA",
+      "hd_video_url": "https://www.youtube.com/embed/XNfoiWNqvoA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-19 || Human Body || मानव शरीर (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31421088-5879-4312-9c4c-e076cf915d3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Human Body || मानव शरीर (Part-10)",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/FaN_fo2Uf9c",
+      "hd_video_url": "https://www.youtube.com/embed/FaN_fo2Uf9c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || Human Body (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a762b66-ea2b-4804-8922-cd6f3bd1977e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Human Body || मानव शरीर (Part-11)",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/pTKHNxDBSp8",
+      "hd_video_url": "https://www.youtube.com/embed/pTKHNxDBSp8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-21 || Human Body || मानव शरीर (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75f4076f-d28d-4296-af0d-1edaa87251d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Human Body || मानव शरीर (Part-12)",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/WithY-Diz4Q",
+      "hd_video_url": "https://www.youtube.com/embed/WithY-Diz4Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-22 || Human Body (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53afa660-2399-466e-8307-cd111ba5119c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Human Body || मानव शरीर (Part-13)",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/eqSLEJLtego",
+      "hd_video_url": "https://www.youtube.com/embed/eqSLEJLtego",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-23 || Human Body || मानव शरीर (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef966e7a-59fa-4990-bcaa-96ce15588513.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Human Body || मानव शरीर (Part-14)",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/dVE6t05Krwo",
+      "hd_video_url": "https://www.youtube.com/embed/dVE6t05Krwo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UmNktBXtifKHByjYDo7xU6cccwU85VLVmiPtjwGg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Human Body || मानव शरीर (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90e29d53-52ab-4224-a0b5-af99182a7dce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Human Body || मानव शरीर (Part-15)",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/4z467jIENbs",
+      "hd_video_url": "https://www.youtube.com/embed/4z467jIENbs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SVhGGJwJoKiFkXUXpbNkAO0trlMGNf5JaRmQ381G.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Human Body || मानव शरीर (Part-15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9c7a4a3-a5eb-4eee-90b1-fcaf0c592ba1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Human Body || मानव शरीर (Part-16)",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/u9FZDTvC27Q",
+      "hd_video_url": "https://www.youtube.com/embed/u9FZDTvC27Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jHTqSyH2jPqoOmfFfKf3OE4WOP8wJPa56C63DXiS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Human Body || मानव शरीर (Part-16)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01af6bf1-5413-4ddb-9a17-9486d0174e87.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Human Body || मानव शरीर (Part-17)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/axDquPJaVLw",
+      "hd_video_url": "https://www.youtube.com/embed/axDquPJaVLw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tumjC5lo47McklUEZmNSRuWml65la6NksIe62pVB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Human Body || मानव शरीर (Part-17)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e50bfba-8c9d-47ef-809c-a2451d8a098c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Human Body || मानव शरीर (Part-18)",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qZospWKmBz8",
+      "hd_video_url": "https://www.youtube.com/embed/qZospWKmBz8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u6etyhOPRZpKvzLq0K6TuqZMgsHPP1ArbzeKVDlS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Human Body || मानव शरीर (Part-18)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f7c2b6f-f67a-4b1c-8bae-1aa5e8b2af5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Human Body || मानव शरीर (Part-19)",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/3gEz10qFotM",
+      "hd_video_url": "https://www.youtube.com/embed/3gEz10qFotM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vRkWbVTDcxxlcitAwiTLiYrbibblrOpzf2d84tlm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Human Body || मानव शरीर (Part-19)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26761ab5-1206-414d-a547-879d13ae5170.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Human Body || मानव शरीर (Part-20)",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/GV2vIf-2I8k",
+      "hd_video_url": "https://www.youtube.com/embed/GV2vIf-2I8k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eYU75UMeru1yDE5chQdwTzhvDJVrLYVv60FWLcPe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Human Body || मानव शरीर (Part-20)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a063d14a-e428-4150-9490-a1bd0e0678ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Human Body || मानव शरीर (Part-21)",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/xaQwTvNFT2s",
+      "hd_video_url": "https://www.youtube.com/embed/xaQwTvNFT2s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8UcgCaC0JtX78WAXpzWNGI0b1IJi1lu2YYCBlVTc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Human Body || मानव शरीर (Part-21)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b27ef63-801f-4ed1-9ac8-003dcf53b812.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Reproduction  || प्रजनन (Part-01)",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/uT5jnbS0EJY",
+      "hd_video_url": "https://www.youtube.com/embed/uT5jnbS0EJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ayPAYd2uiX6T76o50fuhRhXTJ2TCmo9OAIJMf8Zr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Reproduction || प्रजनन (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0947d508-8ee7-4c9e-a6d4-213ce32abe59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Reproduction  || प्रजनन (Part-02)",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Xb19Nb_7QfI",
+      "hd_video_url": "https://www.youtube.com/embed/Xb19Nb_7QfI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gGG19mrcux2IamgkRfNcjryHlcrN8hb8bWHTcQ7C.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Reproduction || प्रजनन (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8086f816-3353-4e17-99e8-7d2d69638cbc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Tissue || ऊतक (Part-01)",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/tBG6kGkBinA",
+      "hd_video_url": "https://www.youtube.com/embed/tBG6kGkBinA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Wq4rXIgvOtFE5Js77S69xAHdCNbyDYZvvrfI0DEh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Tissue || ऊतक (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d922ad64-397a-4067-84f1-1c6bd90b9a7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Tissue || ऊतक (Part-02)",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/9ABI3-s7rHs",
+      "hd_video_url": "https://www.youtube.com/embed/9ABI3-s7rHs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nuV1sS6jdnoHAmsJwKZheBC2CdKVrUF0YtCM4H8Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Tissue || ऊतक (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bee5218-0905-4cfd-8f18-524c1cb19dab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Revision Class || रिवीजन कक्षा",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-6XV8p39QfA",
+      "hd_video_url": "https://www.youtube.com/embed/-6XV8p39QfA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9Hz2fitWaFj7NeViH9RuEuzhLi95bwkY3n3Yfxze.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Revision Class || रिवीजन कक्षा",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e328e3df-8fb0-4c70-bea5-ac79b72e3b6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Disease || रोग (Part-01)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/7cP-vTeVj2Y",
+      "hd_video_url": "https://www.youtube.com/embed/7cP-vTeVj2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kDFx2cASQjnQPsp02T0zSaTz3ty1PXZQccRt4EpX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Disease || बीमारी (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81c7b550-91a9-4494-a5e3-16f1981c308b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Disease || रोग (Part-02)",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/iVepUJAJ71I",
+      "hd_video_url": "https://www.youtube.com/embed/iVepUJAJ71I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7ArL1yN3C3LgQG6jXtBA9sCgOt7qu4P5vY0utZ3K.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Disease || बीमारी (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/704a1f8a-36d8-4944-8300-cc78b879897b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Disease || रोग (Part-03)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/NQNxzl7vGvM",
+      "hd_video_url": "https://www.youtube.com/embed/NQNxzl7vGvM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yJc434nvQYPzlbCmPcggfWgHKBFiDzbyAJenHZ5t.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Disease || रोग (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/016c7003-c994-40b2-b929-5b8c0ded9e7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Five-kingdom classification || पांच जगत वर्गीकरण (Part-01)",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/NbYldOmqNZU",
+      "hd_video_url": "https://www.youtube.com/embed/NbYldOmqNZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vrAvZCuadDOLSxCkAFSIgNjc8QwhtFw7yU91nXeN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Five Kingdom Classification (part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e30993e8-b6e3-4606-8ed1-744eb7562cab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Five-kingdom classification || पांच जगत वर्गीकरण (Part-02)",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/yzJmt17uYVA",
+      "hd_video_url": "https://www.youtube.com/embed/yzJmt17uYVA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5khXJXl3FaJgeeOSbona2UUMeJ8p3kkjkEiYnI6d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Five Kingdom Classification (part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/181e217d-1102-4ce5-ae87-14f478bc1aeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Five-kingdom classification || पांच जगत वर्गीकरण (Part-03)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/h9N_bWW9gG8",
+      "hd_video_url": "https://www.youtube.com/embed/h9N_bWW9gG8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XNqFwYnLOWM4avL02rpBGTeGOBqFWsNb8egLRySF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Five Kingdom Classification (part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fdcd8058-bdaa-44d0-b235-a7d15330b2d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Food Nutrition Balanced Diet, Vitamin || खाद्य पोषण संतुलित आहार, विटामिन",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/TGVCZ7ath5s",
+      "hd_video_url": "https://www.youtube.com/embed/TGVCZ7ath5s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Gpknw6hW85eHqCximZlSUklrXwxyYS43AnVuUrlZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Food Nutrition Balanced Diet, Vitamin",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f65ddb42-4649-477e-916d-316db98574e1.pdf"
+        },
+        {
+          "title": "Nutrition || पोषण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b8bd737-3dde-4d69-b478-dd1a329f21df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Heredity || आनुवंशिकता",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/a4-X1hossd8",
+      "hd_video_url": "https://www.youtube.com/embed/a4-X1hossd8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YNJbuEqDGZyaQXPWGg4bJmF39xljWFks1xtE4VXy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Heredity || आनुवंशिकता",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a14836b-e877-4788-8947-315ce4cfa117.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Cell Division || कोशिका-विभाजन",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/nlA3gJCb2GI",
+      "hd_video_url": "https://www.youtube.com/embed/nlA3gJCb2GI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FPvNIA6j2f5QYtAnaIofbZDnbXdpX5CYY2MwfXqL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Cell Division || कोशिका विभाजन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1b7a1e1-6291-45f1-bd20-39a39c1c55f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Miscellaneous || विविध (Part-01)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/9i6pCGIThEc",
+      "hd_video_url": "https://www.youtube.com/embed/9i6pCGIThEc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/88HqssqU40QMNQBRKgqedU2kSquYDa41KEQSFbje.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Miscellaneous (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7227ba91-4ee8-4a70-859e-b93e1d056d64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Miscellaneous || विविध (Part-02)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/3rgYuk_FWZU",
+      "hd_video_url": "https://www.youtube.com/embed/3rgYuk_FWZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WGIcrTsByKWZjAvCWuhjjUYVksJSVynQAMBb1dCE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Miscellaneous (Part -2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba508695-5881-4a55-af7d-0ee67fc0de48.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

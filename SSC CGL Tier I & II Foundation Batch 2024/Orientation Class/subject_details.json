@@ -1,0 +1,77 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 916,
+  "video_count": 7,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Reasoning",
+      "published_date": "10 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/CCy3JJMOWfI",
+      "hd_video_url": "https://www.youtube.com/embed/qMifrlZUKpM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e4284d29-da58-47fd-8ee5-af82ea9e5271.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Introduction of Geography",
+      "published_date": "10 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/7EtS_tXfinQ",
+      "hd_video_url": "https://www.youtube.com/embed/VYqhYordTQo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//68292960-9e8a-4e34-8e17-4535199fa07e.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Introduction of English",
+      "published_date": "10 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/E_qlHRwmlMk",
+      "hd_video_url": "https://www.youtube.com/embed/Rf-aKwDzGwU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ba06cdb0-e11b-4ac3-9332-02721e614030.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Introduction of Maths (Arithmetic)",
+      "published_date": "10 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/3n3sG1GzYdQ",
+      "hd_video_url": "https://www.youtube.com/embed/3n3sG1GzYdQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e53505c3-9b06-4c49-b358-8f58e1254cff.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Introduction of Advance Maths",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/c4ARuRBHLEY",
+      "hd_video_url": "https://www.youtube.com/embed/c4ARuRBHLEY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//75477905-8577-4594-8ae4-956d72b7563c.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Introduction of Biology",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/fdfq-00zcdk",
+      "hd_video_url": "https://www.youtube.com/embed/fdfq-00zcdk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9e53cf35-9c41-4a90-9e30-887189ad271c.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Polity Update & Introduction Class by Ram Sir",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Y_Hoy2MJ2Nk",
+      "hd_video_url": "https://www.youtube.com/embed/Y_Hoy2MJ2Nk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Polity Update & Introduction Class by Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fafe3cb7-c437-40e8-b092-e9a57fcd5a07.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

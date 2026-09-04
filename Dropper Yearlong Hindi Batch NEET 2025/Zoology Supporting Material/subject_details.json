@@ -1,0 +1,51 @@
+{
+  "subject_name": "Zoology Supporting Material",
+  "subject_id": 2584,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. मानव जनन  (NEET Flashback) : Video Solution",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "hd_video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - मानव जनन (NEET Flashback) : Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c25dd87e-fbb6-4584-a8b5-5616772af593.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. मानव जनन : DPP : Video Solution",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kAb3pfpCYkw",
+      "hd_video_url": "https://www.youtube.com/embed/kAb3pfpCYkw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - मानव जनन : DPP : VIDEO SOLUTION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61e8e3d8-ed47-47cc-867a-16c36f02483f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. मानव जनन & जनन स्वास्थ्य (Ranker's Stuff) : Video Solution",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/i36rX5olcPc",
+      "hd_video_url": "https://www.youtube.com/embed/i36rX5olcPc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes -  मानव जनन & जनन स्वास्थ्य (Ranker's Stuff) : Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43163159-41ec-46c0-925b-cfb2c8ab174d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

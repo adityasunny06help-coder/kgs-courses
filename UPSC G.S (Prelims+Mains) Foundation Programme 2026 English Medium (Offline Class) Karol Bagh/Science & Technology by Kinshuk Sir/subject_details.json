@@ -1,0 +1,72 @@
+{
+  "subject_name": "Science & Technology by Kinshuk Sir",
+  "subject_id": 8351,
+  "video_count": 7,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Chromosome",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/326297/kgss-1755674084-v326297.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xLlTSojDHuU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NInU3S0kZICY3uYCLsgA714ubYNez04PFCzX0fvC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || DNA",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/327255/kgss-1755760240-v327255.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FkbwT3MGV2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zYep3RT6XDv4ioG8gb5iOJJiN6dzR1y6Ls8a3q78.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Car-T cell therapy",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/328682/kgss-1755845965-v328682.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dN6C9RLqAhA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rohMBdNbTuz4zWjRT9dwfSOx678coivplScKCQlG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || GM crops (Part-1)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/330372/kgss-1756105300-v330372.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o9hqKG9pIno",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZNCykGa2okHwchXHlV1h1mmejZkUbkiDKcbWUI7B.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || GM crops (Part-2)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331179/kgss-1756193337-v331179.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uxAjDIn7F-8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FLZLI8tl9jbB7B7yRfAJqcHFSOhInFAe8rL85mk1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Science & Technology by Kinshuk Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/332328/kgss-1756278029-v332328.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U4BylLgMFx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HkPodWf2p55dsmB5P6ejxu57n63A5O4tafvUg7Sl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Science & Technology by Kinshuk Sir",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZY2aqQPQopxrTIyGxjC74jQVSTuB1o046eMMx2FM.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

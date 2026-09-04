@@ -1,0 +1,37 @@
+{
+  "subject_name": "Zoology Supporting Material",
+  "subject_id": 2538,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "जनन स्वास्थ्य (Flashback)",
+      "published_date": "15 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/7Z2HFJdtFnE",
+      "hd_video_url": "https://www.youtube.com/embed/7Z2HFJdtFnE",
+      "thumbnail": "https://i.ytimg.com/vi/7Z2HFJdtFnE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes -जनन स्वास्थ्य (Flashback)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a9c5651-e61a-4d93-968b-6ca686e70a14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "मानव जनन (NEET Flashback)",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "hd_video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "thumbnail": "https://i.ytimg.com/vi/pFGYVN-jDcE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - मानव जनन (NEET Flashback)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c25dd87e-fbb6-4584-a8b5-5616772af593.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

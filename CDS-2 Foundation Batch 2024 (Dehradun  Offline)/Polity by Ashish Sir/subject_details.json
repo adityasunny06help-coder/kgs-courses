@@ -1,0 +1,410 @@
+{
+  "subject_name": "Polity by Ashish Sir",
+  "subject_id": 2304,
+  "video_count": 29,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientation Class",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/wvdwgtvlWYo",
+      "hd_video_url": "https://www.youtube.com/embed/wvdwgtvlWYo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 01 || Orientation Class",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5a4d1c90-b01d-4814-ad8a-2fe6b24d9c5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 06 || Indian Polity",
+      "published_date": "04 May 2024",
+      "video_url": "https://www.youtube.com/embed/y0WJjmL_frE",
+      "hd_video_url": "https://www.youtube.com/embed/y0WJjmL_frE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Indian Polity",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ec049c22-d95a-448d-8663-1ed9f0c9d174.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 07 || Battle of Buxar",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/wmAmV0wyAsU",
+      "hd_video_url": "https://www.youtube.com/embed/wmAmV0wyAsU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || Battle of Buxar",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ec049c22-d95a-448d-8663-1ed9f0c9d174.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 08 || Constitutional development of India Part 1",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/faPW_So-0Ls",
+      "hd_video_url": "https://www.youtube.com/embed/faPW_So-0Ls",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 08 || Constitutional development of India Part 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/776262f9-0c40-4c80-83d5-e7b88e3c2162.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 09 || Constitutional development of India Part 2",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/0rNjQkY3tDc",
+      "hd_video_url": "https://www.youtube.com/embed/0rNjQkY3tDc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 09 || Constitutional development of India Part 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/29282806-b40d-4d7a-8ae0-a961669ff2bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 10 || CABINET MISSION PLAN",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/65cLmxGuygE",
+      "hd_video_url": "https://www.youtube.com/embed/65cLmxGuygE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 10 || CABINET MISSION PLAN",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a2613a72-8e2c-43e0-a7b7-4e5e1ae9e98f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 11 || CABINET MISSION PLAN",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/49su8t1NR9I",
+      "hd_video_url": "https://www.youtube.com/embed/49su8t1NR9I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || CABINET MISSION PLAN",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/29800b80-f502-4643-a18f-d1c7bc64bf29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 12 || CONSTITUTION ASSEMBLY",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/PFzPb3BEeIY",
+      "hd_video_url": "https://www.youtube.com/embed/PFzPb3BEeIY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || CONSTITUTION ASSEMBLY",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e0f5206f-e3a2-4f79-94f0-d51cedf045ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 13 || CONSTITUTION ASSEMBLY",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/DYtxKywAHvI",
+      "hd_video_url": "https://www.youtube.com/embed/DYtxKywAHvI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || CONSTITUTION ASSEMBLY",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6a0ab399-04f3-482c-992c-99578d037a25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 14 || Schedule",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/J7zgvvqvYM4",
+      "hd_video_url": "https://www.youtube.com/embed/J7zgvvqvYM4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || Schedule",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c9c62b83-2248-40dd-90ee-1a9924174e53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 15 || Preamble",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/dl7sgVcshTA",
+      "hd_video_url": "https://www.youtube.com/embed/dl7sgVcshTA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || Preamble",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5d058e6e-f319-4171-8142-ed50936bae14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 16 || State Formation - Article 01",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/F8GpabOFNsg",
+      "hd_video_url": "https://www.youtube.com/embed/F8GpabOFNsg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || State Formation - Article 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/59793071-c889-47f4-90bc-29119dfd3a65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 17 || State Reorganization",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/WDRlW2nzlTo",
+      "hd_video_url": "https://www.youtube.com/embed/WDRlW2nzlTo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || State Reorganization",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/92e31824-f221-4ba2-9c34-1ce488a2abb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 18 || Citizenship",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/9XAtnCQlIOs",
+      "hd_video_url": "https://www.youtube.com/embed/9XAtnCQlIOs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 19 || Fundamental Right",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/WCs4l5uGaGQ",
+      "hd_video_url": "https://www.youtube.com/embed/WCs4l5uGaGQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || Fundamental Right",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bb7ec9d9-3db6-4400-bddc-f71846ee72b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 20 || Art 17 18 and Right to Freedom (Article 19 20)",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/rXCqs3Fr5_g",
+      "hd_video_url": "https://www.youtube.com/embed/rXCqs3Fr5_g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || Art 17 18 and Right to Freedom (Article 19 20)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a449f191-487e-4bd0-bfc5-17032023c3f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 21 || Art 21-30",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5n0lkUkKWRw",
+      "hd_video_url": "https://www.youtube.com/embed/5n0lkUkKWRw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || Art 21-30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51f668cc-d68b-40af-9659-f9f9a439f56f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 22 || Right to freedom of religion and writs",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/JZstQBcS6iU",
+      "hd_video_url": "https://www.youtube.com/embed/JZstQBcS6iU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 22 || Right to freedom of religion and writs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92851587-c2ad-4ea2-a4c1-13f814b4a289.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 23 || DPSP",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/kVlf_ArumXU",
+      "hd_video_url": "https://www.youtube.com/embed/kVlf_ArumXU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || DPSP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3485cf8-04e7-4b10-b061-266f57aa0091.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 24 || Gandhian Principles",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/lk_YVIbColE",
+      "hd_video_url": "https://www.youtube.com/embed/lk_YVIbColE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Gandhian Principles",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/668fb80f-2ea9-43ab-8d11-f264912be042.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 25 || Parliament",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5MlcR2kg8E0",
+      "hd_video_url": "https://www.youtube.com/embed/5MlcR2kg8E0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Parliament",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfb54b9c-22ef-4b4b-8451-92df47048c75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 26 || Loksabha  and Rajyasabha",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/v-LDgbPN1Js",
+      "hd_video_url": "https://www.youtube.com/embed/v-LDgbPN1Js",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Loksabha  and Rajyasabha",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bee0bae6-5094-4370-a324-49308e87e588.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 27 || Presiding of Parliament",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/kbCzJbJwYoM",
+      "hd_video_url": "https://www.youtube.com/embed/kbCzJbJwYoM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 27 || Presiding of Parliament",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db322a66-9ffa-44e9-8e2d-a943f35832ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 28 || Council of minister",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/0mfPhVNkv2I",
+      "hd_video_url": "https://www.youtube.com/embed/0mfPhVNkv2I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 28 || Council of minister",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72d661d6-60e8-4371-9fa1-0ae099fe947f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 29 || President",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/WpRQkCI_yCA",
+      "hd_video_url": "https://www.youtube.com/embed/WpRQkCI_yCA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 29 || President",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c0de061-8c9c-4a9e-ab5c-f874b200a87d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 30 || CAG, UPSC, Solicitor general",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/aqxXbrfiOtQ",
+      "hd_video_url": "https://www.youtube.com/embed/aqxXbrfiOtQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 30 || CAG, UPSC, Solicitor general",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a421848e-22bf-4679-bab8-adb2f0259ae9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 31 || Judiciary",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/FvKlXyVMcD8",
+      "hd_video_url": "https://www.youtube.com/embed/FvKlXyVMcD8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 31 || Judiciary",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f8c38dd-02cb-44e4-9db9-f52e241b29ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 32 || Panchayati Rajya",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/sJOUl-6sRUA",
+      "hd_video_url": "https://www.youtube.com/embed/sJOUl-6sRUA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 32 || Panchayati Rajya",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1554d0b1-ba26-42c3-8b37-3da69d3d848f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 33 || State legislature",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/zwghY7vpEqA",
+      "hd_video_url": "https://www.youtube.com/embed/zwghY7vpEqA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 33 || State legislature",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f66a29a8-ebbb-4577-9c81-e4054c937613.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

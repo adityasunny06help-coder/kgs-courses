@@ -1,0 +1,443 @@
+{
+  "subject_name": "Biology by Krati Ma'am",
+  "subject_id": 4797,
+  "video_count": 31,
+  "note_count": 31,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1|| Introduction Class",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qZgtt1Tjfos",
+      "hd_video_url": "https://www.youtube.com/embed/qZgtt1Tjfos",
+      "thumbnail": "https://i.ytimg.com/vi/qZgtt1Tjfos/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1|| Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87cae826-6f8b-4bca-ab5d-6200336cb8b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Origin of Life and Cytology (Part 1)",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ng3cIwDswck",
+      "hd_video_url": "https://www.youtube.com/embed/ng3cIwDswck",
+      "thumbnail": "https://i.ytimg.com/vi/ng3cIwDswck/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be490850-764e-4867-b372-78adb9b85ed4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Origin of Life and Cytology (Part 2)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/oRf4rcbTyu8",
+      "hd_video_url": "https://www.youtube.com/embed/oRf4rcbTyu8",
+      "thumbnail": "https://i.ytimg.com/vi/oRf4rcbTyu8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d57fc68-a723-4fc3-9f35-448b151e55aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Plant Kingdom (Part 1)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/WZkvkQbQ7Ug",
+      "hd_video_url": "https://www.youtube.com/embed/WZkvkQbQ7Ug",
+      "thumbnail": "https://i.ytimg.com/vi/WZkvkQbQ7Ug/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a7938c1-6b62-4f44-b659-8d69c53b57e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Plant Kingdom (Part 2)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/PpZqa5UgZLc",
+      "hd_video_url": "https://www.youtube.com/embed/PpZqa5UgZLc",
+      "thumbnail": "https://i.ytimg.com/vi/PpZqa5UgZLc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0bbe5b9-2657-4a72-8967-5542206391d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Plant Kingdom (Part 3)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/YetgQiP66Hk",
+      "hd_video_url": "https://www.youtube.com/embed/YetgQiP66Hk",
+      "thumbnail": "https://i.ytimg.com/vi/YetgQiP66Hk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d17d735-a729-4230-a8c9-ba5da4c30481.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Plant Physiology (Part 1)",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/RadORfb21x0",
+      "hd_video_url": "https://www.youtube.com/embed/RadORfb21x0",
+      "thumbnail": "https://i.ytimg.com/vi/RadORfb21x0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73bf3790-a866-4736-8ab2-172df3015879.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Plant Physiology (Part 2)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qBF5anOpOHI",
+      "hd_video_url": "https://www.youtube.com/embed/qBF5anOpOHI",
+      "thumbnail": "https://i.ytimg.com/vi/qBF5anOpOHI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7b13700-7617-4bfd-9394-bb653dd2c933.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Plant Physiology (Part 3)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LkalsoyVzC8",
+      "hd_video_url": "https://www.youtube.com/embed/LkalsoyVzC8",
+      "thumbnail": "https://i.ytimg.com/vi/LkalsoyVzC8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/622bcc79-7d28-450d-a5cd-b40b1bde8689.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Economic Botany",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/d3ovj4w3-w8",
+      "hd_video_url": "https://www.youtube.com/embed/d3ovj4w3-w8",
+      "thumbnail": "https://i.ytimg.com/vi/d3ovj4w3-w8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9eb99e7a-cae8-4ca7-87a8-a0bb0aacfb8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Animal Kingdom (Part 1)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/t_l-WSPD3Vw",
+      "hd_video_url": "https://www.youtube.com/embed/t_l-WSPD3Vw",
+      "thumbnail": "https://i.ytimg.com/vi/t_l-WSPD3Vw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e7a7f47-884a-4b11-bf3b-301b82271d5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Animal Kingdom (Part 2)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/5mNGkJ9rZOs",
+      "hd_video_url": "https://www.youtube.com/embed/5mNGkJ9rZOs",
+      "thumbnail": "https://i.ytimg.com/vi/5mNGkJ9rZOs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/994b965a-d91b-4e3d-bbb9-66ed960ff130.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Animal Kingdom (Part 3)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vcZtwsimGRM",
+      "hd_video_url": "https://www.youtube.com/embed/vcZtwsimGRM",
+      "thumbnail": "https://i.ytimg.com/vi/vcZtwsimGRM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60a8f8cd-f1b5-4018-884a-715f8e37cfc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Animal  Physiology (Part 1)",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/P1a5rnKvpK8",
+      "hd_video_url": "https://www.youtube.com/embed/P1a5rnKvpK8",
+      "thumbnail": "https://i.ytimg.com/vi/P1a5rnKvpK8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c8fe679-010e-459a-91eb-684e5442ca14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Animal  Physiology  (Part 2)",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/kAtMtP1hnYk",
+      "hd_video_url": "https://www.youtube.com/embed/kAtMtP1hnYk",
+      "thumbnail": "https://i.ytimg.com/vi/kAtMtP1hnYk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90a54cc6-7dec-43be-8480-9103616a1c4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Human Imunity (Part 1)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/4fpKoHYQq_w",
+      "hd_video_url": "https://www.youtube.com/embed/4fpKoHYQq_w",
+      "thumbnail": "https://i.ytimg.com/vi/4fpKoHYQq_w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a71aefd9-2970-4782-867e-31111d21556f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Human Imunity (Part 2)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/N14Rc-IYf1Q",
+      "hd_video_url": "https://www.youtube.com/embed/N14Rc-IYf1Q",
+      "thumbnail": "https://i.ytimg.com/vi/N14Rc-IYf1Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d83addfa-cae8-40ae-bd31-d66f7145e2fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Genetics (Part 1)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/JLR4z5Xysn0",
+      "hd_video_url": "https://www.youtube.com/embed/JLR4z5Xysn0",
+      "thumbnail": "https://i.ytimg.com/vi/JLR4z5Xysn0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6454f5ee-8568-4460-9892-7855ab642f9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Genetics (Part 2)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/p7jKDxvLKjs",
+      "hd_video_url": "https://www.youtube.com/embed/p7jKDxvLKjs",
+      "thumbnail": "https://i.ytimg.com/vi/p7jKDxvLKjs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e71c0467-760d-460b-96e1-b6638f1f6089.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Genetics (Part 3)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/emilLhptfnU",
+      "hd_video_url": "https://www.youtube.com/embed/emilLhptfnU",
+      "thumbnail": "https://i.ytimg.com/vi/emilLhptfnU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68e21661-2aba-486d-b6d8-d8b40232e1c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Organic Evolution (Part 1)",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/jjYXrlahQ5I",
+      "hd_video_url": "https://www.youtube.com/embed/jjYXrlahQ5I",
+      "thumbnail": "https://i.ytimg.com/vi/jjYXrlahQ5I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6764e027-6f52-4587-8bd5-fb26004131dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Organic Evolution (Part 2)",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/MoXf-5Z2uJ8",
+      "hd_video_url": "https://www.youtube.com/embed/MoXf-5Z2uJ8",
+      "thumbnail": "https://i.ytimg.com/vi/MoXf-5Z2uJ8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd1a75d1-22dd-4a2c-a11d-5bf166d8f001.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Human Reproduction",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/FxT_0W-qvCw",
+      "hd_video_url": "https://www.youtube.com/embed/FxT_0W-qvCw",
+      "thumbnail": "https://i.ytimg.com/vi/FxT_0W-qvCw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d7f605b-707b-4525-b618-5e6c7e398a49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Developmental Biology",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/iLa3t7EA2M4",
+      "hd_video_url": "https://www.youtube.com/embed/iLa3t7EA2M4",
+      "thumbnail": "https://i.ytimg.com/vi/iLa3t7EA2M4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c84281c9-9325-40c6-93b1-0ccb076aca0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Ecology",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QIBW2Hu9-2M",
+      "hd_video_url": "https://www.youtube.com/embed/QIBW2Hu9-2M",
+      "thumbnail": "https://i.ytimg.com/vi/QIBW2Hu9-2M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cfb86ef-9af6-4074-9762-84268503f4b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Ecosystem",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/74UCOCe9wIA",
+      "hd_video_url": "https://www.youtube.com/embed/74UCOCe9wIA",
+      "thumbnail": "https://i.ytimg.com/vi/74UCOCe9wIA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/503cdb5b-0c34-4e61-8710-15a5ea613c25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Biodiversity & Conservation (Part 1)",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ksrZRbqnj4s",
+      "hd_video_url": "https://www.youtube.com/embed/ksrZRbqnj4s",
+      "thumbnail": "https://i.ytimg.com/vi/ksrZRbqnj4s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1777544d-38a4-45ea-bd3f-b4550672bdaa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Biodiversity & Conservation (Part 2)",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/TzwIjtqXYfs",
+      "hd_video_url": "https://www.youtube.com/embed/TzwIjtqXYfs",
+      "thumbnail": "https://i.ytimg.com/vi/TzwIjtqXYfs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e1be18d-22bf-472f-9a55-f32880e7c33f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Biostatistical (Part 1)",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/8kBO_5dyknE",
+      "hd_video_url": "https://www.youtube.com/embed/8kBO_5dyknE",
+      "thumbnail": "https://i.ytimg.com/vi/8kBO_5dyknE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3de0e953-e2c4-4a86-a041-05dca758ff0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Biostatistical (Part 2)",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bLY4BYW2Lcw",
+      "hd_video_url": "https://www.youtube.com/embed/bLY4BYW2Lcw",
+      "thumbnail": "https://i.ytimg.com/vi/bLY4BYW2Lcw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2344e6db-0f63-4e7d-8209-e420b61d7a57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Animal Behaviour",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/v69B1WLvxl0",
+      "hd_video_url": "https://www.youtube.com/embed/v69B1WLvxl0",
+      "thumbnail": "https://i.ytimg.com/vi/v69B1WLvxl0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Biology by Krati Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/447babee-1ece-4f9d-9722-42eea0c148af.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

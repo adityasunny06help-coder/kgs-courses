@@ -1,0 +1,303 @@
+{
+  "subject_name": "Chemistry by Sushant Sir",
+  "subject_id": 6423,
+  "video_count": 21,
+  "note_count": 21,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Atoms and it's Structure || परमाणु और इसकी संरचना",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QepzTJ-ZlbI",
+      "hd_video_url": "https://www.youtube.com/embed/QepzTJ-ZlbI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/f16hZdyEfWwSwjzRwMEZQ537OZzTEAzJgY0M8qsz.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Atoms and it's Structure || परमाणु और इसकी संरचना",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cfb6ac6-9eb2-451b-9b66-ea7b9aa12293.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Atomic Model || परमाणु मॉडल",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/I_BTFZcV4ow",
+      "hd_video_url": "https://www.youtube.com/embed/I_BTFZcV4ow",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7dvLcx1NnqjznJuvpVitnv44XXMok7OhS0eA2BAE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Atomic Model || परमाणु मॉडल",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8eed461e-0fc7-4e73-b436-a6fbbd53287f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Periodic table || आवर्त सारणी (Part-01)",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/FawWErusJY0",
+      "hd_video_url": "https://www.youtube.com/embed/FawWErusJY0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/59GvBs62D3HMwdaSoShKycW3c19TTFGFjGavq6xL.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Periodic table || आवर्त सारणी (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d47b3caf-c8db-42eb-a51b-a65cee1b4f58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Periodic table || आवर्त सारणी (Part-02)",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/hNxeNZW1C5c",
+      "hd_video_url": "https://www.youtube.com/embed/hNxeNZW1C5c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BAwe5BUGfDTojxBzVqse9r54eYBOwoM5HnHId9OP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Periodic table || आवर्त सारणी (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82158864-13e3-4ced-a357-f84af9ac604b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Hydrogen and Helium || हाइड्रोजन और हीलियम",
+      "published_date": "04 May 2025",
+      "video_url": "https://www.youtube.com/embed/7TgEIH8WOak",
+      "hd_video_url": "https://www.youtube.com/embed/7TgEIH8WOak",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/X7iXYO0P35W2FsbkcOJ8y2dX8T4Cic50LRvuXycw.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Hydrogen and Helium || हाइड्रोजन और हीलियम",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9a21d88-b362-410c-a3d8-37bfc8a7cfaa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || Nuclear Physics || परमाणु भौतिकी",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/BZSD6oS1_-0",
+      "hd_video_url": "https://www.youtube.com/embed/BZSD6oS1_-0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xnFnxIswtMHxGRLKuTfs5hkfPe9a8PV4X3HcPx44.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 06 || Nuclear Physics || परमाणु भौतिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bbda0e8-c42b-44f3-8c41-ad95f8a0cf9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || Carbon and its compounds || कार्बन और उसके यौगिक (Part-01)",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/qWTEQq76S8c",
+      "hd_video_url": "https://www.youtube.com/embed/qWTEQq76S8c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/k3yUe9Mi64L6icscgAjHZxsfMA6Lrl1B1IXrSdDa.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Carbon and its compounds || कार्बन और उसके यौगिक (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e55fb4ae-6669-480d-927b-ff9a367374af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || Carbon and its compounds || कार्बन और उसके यौगिक (Part-02)",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/Z37jFa-gjH4",
+      "hd_video_url": "https://www.youtube.com/embed/Z37jFa-gjH4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8YjcePxEtyXMIPXJPR7QH9otucyLLfhpZtPQaT56.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 08 || Carbon and its compounds || कार्बन और उसके यौगिक (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79e46106-3cbd-4b60-9f61-be286877f53f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || pH scale and acid || पीएच स्केल और एसिड (Part-01)",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/W6RWLaP-mpU",
+      "hd_video_url": "https://www.youtube.com/embed/W6RWLaP-mpU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/y0dsYvWZYVfxBb4BQPqTGKqI8P6RBt3nvU3SMjh1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 09 || pH scale and acid || पीएच स्केल और एसिड (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad61b0af-e021-4215-92c8-9551436aec6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || pH scale and acid || पीएच स्केल और एसिड (Part-02)",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/iR7XGe0KQV8",
+      "hd_video_url": "https://www.youtube.com/embed/iR7XGe0KQV8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4rwY5cBPuSlQdBuGISmwKM9q1JrmodDunDOgAhDb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || pH scale and acid || पीएच स्केल और एसिड (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4886c371-16bc-48de-b627-79ea332d66ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || pH scale and acid || पीएच स्केल और एसिड (Part-03)",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/mqla0JVz_sY",
+      "hd_video_url": "https://www.youtube.com/embed/mqla0JVz_sY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Q0I67DfNzsqJmFb0hx48wIRbd78zJQX6sJt2dTNa.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || pH scale and acid || पीएच स्केल और एसिड (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8cc3b47-7229-4e11-a3b1-9df61509fe62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Metals and their Ores || धातुएं और उनके अयस्क (Part-01)",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/44B0lDdnGPU",
+      "hd_video_url": "https://www.youtube.com/embed/44B0lDdnGPU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VxHVBrjoWhBcdPI7we9DmltfwGGLeVaoX7MeAFsV.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Metals and their Ores || धातुएं और उनके अयस्क (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd3bff8f-d5ce-475a-9bc1-9969072521fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Metals and their Ores || धातुएं और उनके अयस्क (Part-02)",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/yrLuEDrxGmg",
+      "hd_video_url": "https://www.youtube.com/embed/yrLuEDrxGmg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kslKHeE6yVMlQ8lWybz2vByuQ4uLjCE6hFiS6Ees.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Metals and their Ores || धातुएं और उनके अयस्क (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48733125-07d7-4109-b10c-309a07487908.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Metals and their Ores || धातुएं और उनके अयस्क (Part-03)",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/oQFQB49eIM0",
+      "hd_video_url": "https://www.youtube.com/embed/oQFQB49eIM0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/awE6WQKP0EOXJWoBZ5NTjGMdk4BUQTl4HkMjdCmp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Metals and their Ores || धातुएं और उनके अयस्क (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5ad7eaf-1717-4bde-acd7-605d925883e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Alloy and Polymer || मिश्र धातु और बहुलक",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/JA2uMk0uO9M",
+      "hd_video_url": "https://www.youtube.com/embed/JA2uMk0uO9M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SxcYQc4VwMprlDZSynkn5rol2TjMXPK5PApgz4sQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Alloy and Polymer || मिश्र धातु और बहुलक",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1ee8c5c-a8d4-4cb0-ae9e-c63d7a1e03e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Polymer and Fuel || पॉलिमर और ईंधन",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/kxJz5MJJ0a0",
+      "hd_video_url": "https://www.youtube.com/embed/kxJz5MJJ0a0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ghA9V5dAzGt55fJlmQGuA0y8a3I49w06vWWx47U1.jpg",
+      "notes": [
+        {
+          "title": "L7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/814ea8bc-0b65-4bbc-ad63-0244f99cbe61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Fuel and Solutions || ईंधन और समाधान",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/wDSEYacrm64",
+      "hd_video_url": "https://www.youtube.com/embed/wDSEYacrm64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EbMK7B87GCRoBkItTKK2tdwjnulZFa20Whdj5O8Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Fuel and Solutions || ईंधन और समाधान",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5149cd99-5468-44fe-98aa-b5383e910d58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Chemical bonding and Redox process || रासायनिक बंधन और रेडॉक्स प्रक्रिया",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/B79WVAGpxkA",
+      "hd_video_url": "https://www.youtube.com/embed/B79WVAGpxkA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6C9BWFXorDpPx5xhVQrtO4OhwvwelOTjb5iN5bQx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Chemical bonding and Redox process || रासायनिक बंधन और रेडॉक्स प्रक्रिया",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2663f06-29b6-4f6a-b0b1-a0ca9087e52e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Physical and Chemical changes || भौतिक और रासायनिक परिवर्तन",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/yDEEyWMrl_Q",
+      "hd_video_url": "https://www.youtube.com/embed/yDEEyWMrl_Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R4RRlGto8w53HrJL4emvgLjWpq6UeSmTRsJdYp4c.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Physical and Chemical changes || भौतिक और रासायनिक परिवर्तन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da960269-bba2-4f43-a1f9-d6c7a16edd1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Glass Cement Soap and Detergent || ग्लास सीमेंट साबुन और डिटर्जेंट (Part-01)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Ou4ltkSaFlo",
+      "hd_video_url": "https://www.youtube.com/embed/Ou4ltkSaFlo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uvwhD9vWCAI9HuvH1xDw4Gl8pcgO2KBXeYbOPVJJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Glass Cement Soap and Detergent || ग्लास सीमेंट साबुन और डिटर्जेंट (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ce434c3-d0db-491e-96f6-6b7249e7be6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Glass Cement Soap and Detergent || ग्लास सीमेंट साबुन और डिटर्जेंट (Part-02)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/M6TSiiR28rc",
+      "hd_video_url": "https://www.youtube.com/embed/M6TSiiR28rc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XRo6yp6wUucC24U0HrxWvKXMWRLquqjG54VvpUBt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Glass Cement Soap and Detergent || ग्लास सीमेंट साबुन और डिटर्जेंट (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46d9ec77-5331-4428-a9a4-fba2f4908b72.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

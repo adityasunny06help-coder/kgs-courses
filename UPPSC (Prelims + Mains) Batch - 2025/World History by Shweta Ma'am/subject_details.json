@@ -1,0 +1,177 @@
+{
+  "subject_name": "World History by Shweta Ma'am",
+  "subject_id": 3516,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || विश्व इतिहास परिचय",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116989/kgss-1726055534-v116989.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/p3uOSXV18kk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066b1ea73.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || कक्षा  परिचय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5de72e8-4020-455f-95f0-cd8840609fb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || प्राचीन विश्व का इतिहास",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117431/kgss-1726142366-v117431.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/m-M-gGlDhkg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066a96635.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || दुनिया के इतिहास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2a8bd63-e195-4b1a-b16b-b6602cad91e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || मध्यकालीन विश्व का इतिहास",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117786/kgss-1726228393-v117786.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Kbj5zyGwSgk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066a1a5e8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || विश्व इतिहास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfb98b35-026f-4aae-824a-47fede044982.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || सप्तावर्षीय युद्ध",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118229/kgss-1726314696-v118229.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dholqK6cvMM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830669918bf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || विश्व इतिहास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eac07e63-65a3-4975-8a96-ea2b4fa265ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || अमेरिकी क्रांति",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119242/kgss-1726574088-v119242.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mUNDJy4p2sI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066914c6e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || अमेरिकी क्रांति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44327dee-8260-4138-84d2-0ca18d372dc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || फ़्रांस की क्रांति (भाग -01)",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119912/kgss-1726660568-v119912.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GasNfo_qEvI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066889d94.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || फ़्रांस की क्रांति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/577adfc3-0eb7-467e-98c1-b515cdae36b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || फ़्रांस की क्रांत(भाग -02)",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/120308/kgss-1726746961-v120308.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QwLd_Kttd4Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688306680d09a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || फ़्रांस की क्रांति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e0f5839-20eb-4e06-b1f0-e01840b8f09d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08  || फ़्रांस की क्रांति (भाग -03 )",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/121093/kgss-1726833480-v121093.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JgMVttbRae0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830667862cb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08  || इटली का एकीकरण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6df2ff2e-2e4e-4465-b21c-db6beae30f48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || जर्मनी का एकीकरण",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/121509/kgss-1726919523-v121509.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d9G2RHBXviI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066708226.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || जर्मनी का एकीकरण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b975399-fdd0-4905-b409-89682d4e1e8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || औद्योगिक क्रांति",
+      "published_date": "22 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/121996/kgss-1726998286-v121996.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c4UTbhrTDuY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688306667f3c7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || जर्मनी का एकीकरण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b975399-fdd0-4905-b409-89682d4e1e8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || विश्व युद्ध (भाग-01) ||",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/124857/kgss-1727514570-v124857.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_pDDeFmIl6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688306660352d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || विश्व युद्ध ||",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdfc7c3d-acdc-469b-b46c-2f4c7eff9c05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || विश्व युद्ध (भाग-02) ||",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140805/kgss-1729933539-v140805.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MNAsWXezVr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6883066540b15.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || विश्व युद्ध ||",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75210079-6a20-4120-938b-8ff848f4da64.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

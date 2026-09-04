@@ -1,0 +1,72 @@
+{
+  "subject_name": "Oceanography",
+  "subject_id": 5071,
+  "video_count": 7,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 74 || Introduction and Evolution",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/186544/kgss-1738207665-v186544.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xpFCuAbr36k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9WNvAcjqYOhB0mcVzVllXY4isCuqQa0zzbyR2Lxh.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 75 || Evolution of Oceanography",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/187482/kgss-1738381449-v187482.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xUQx9S_L_d0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VMKeCPRIMczfIB5kpUPqGQFKqMMMgrFGfHw6wSVH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 76 || Hypsographic Curve",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188075/kgss-1738555055-v188075.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hjjn_3B9KZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tUMKAiCj5bn2Ez3dKVlOBSCWWyPpbtrYTfMxZ0Gi.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 77 || Ocean Wise OBR",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188669/kgss-1738641499-v188669.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jaXEp8Gv17U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mozpyd3cdJMuf2n7vboAHtfR73TfNg9E1ngd7JQ8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 78 || Sea Level Changes and Coastal Landscape",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189353/kgss-1738727670-v189353.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W2AsTPdVo6I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/x6DmD5EbKpCpagaUUHWypRqBl58dgZpZOvfoqFqd.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 79 || Sea Level Changes",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189676/kgss-1738815422-v189676.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wnqM3J33Yco",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1GGlST3402izRAbx929l47LuMKZpEF894HeTsw6f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 80 || Ocean Deposits : Marine Sediments",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190304/kgss-1738905861-v190304.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZSXo7b7sJK4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/V6M9Rylrp69dQEMkduA285UgMgcFtkNV1FRrLWIw.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

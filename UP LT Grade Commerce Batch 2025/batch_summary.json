@@ -1,0 +1,58 @@
+{
+  "batch_info": {
+    "title": "UP LT Grade Commerce Batch 2025",
+    "price": "799",
+    "id": "777",
+    "extracted_date": "2025-08-27T13:18:44.952937"
+  },
+  "subjects": [
+    {
+      "name": "Mathematics by Deepankar Sir (General Studies)",
+      "id": 8165,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "Current Affairs by Yadvendra Sir",
+      "id": 8164,
+      "video_count": 12,
+      "note_count": 11
+    },
+    {
+      "name": "General Science by Avinash Sir",
+      "id": 8163,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Prabhu Sir (General Studies)",
+      "id": 8162,
+      "video_count": 9,
+      "note_count": 11
+    },
+    {
+      "name": "Economics by Sukesh Sir (General Studies)",
+      "id": 8161,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Geography by Abhishek Sir (General Studies)",
+      "id": 8160,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "History by Anjali Ma'am (General Studies)",
+      "id": 8159,
+      "video_count": 10,
+      "note_count": 9
+    },
+    {
+      "name": "Commerce by Pooja Ma'am",
+      "id": 8158,
+      "video_count": 9,
+      "note_count": 9
+    }
+  ]
+}

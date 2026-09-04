@@ -1,0 +1,27 @@
+{
+  "subject_name": "Special Session Of SSB By Arun Sir",
+  "subject_id": 4672,
+  "video_count": 2,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || OIR(Officer Intelligence Rating) Part-01",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/XidMlYdlL_I",
+      "hd_video_url": "https://www.youtube.com/embed/XidMlYdlL_I",
+      "thumbnail": "https://i.ytimg.com/vi/XidMlYdlL_I/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || OIR(Officer Intelligence Rating) Part-02",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9balStsWhNE",
+      "hd_video_url": "https://www.youtube.com/embed/9balStsWhNE",
+      "thumbnail": "https://i.ytimg.com/vi/9balStsWhNE/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

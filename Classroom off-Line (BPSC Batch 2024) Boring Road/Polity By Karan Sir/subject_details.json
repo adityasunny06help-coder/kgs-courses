@@ -1,0 +1,875 @@
+{
+  "subject_name": "Polity By Karan Sir",
+  "subject_id": 677,
+  "video_count": 79,
+  "note_count": 31,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-31 || Centre State Relation || केंद्र-राज्य संबंध (Part-5)",
+      "published_date": null,
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -01 ।। Polity Orientation Class",
+      "published_date": "08 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc-2/polity/l-01/l-01-polity-bpsc2.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc-2/polity/l-01/l-01-polity-bpsc2.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3f1f4641-eace-4fa4-9450-a0fed1df4a47.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-02 ।। Making of the Indian constitution ।। भारतीय संविधान का निर्माण (Part-1)",
+      "published_date": "21 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/H1zxbpbQp60",
+      "hd_video_url": "https://www.youtube.com/embed/H1zxbpbQp60",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dfa31e00-134a-4ada-a39f-ef0f1f78a9a0.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ।। Making of the Indian constitution ।। भारतीय संविधान का निर्माण (Part-3)",
+      "published_date": "22 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/v3GLSN84f8M",
+      "hd_video_url": "https://www.youtube.com/embed/v3GLSN84f8M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6a6239bb-c783-408f-8b99-8855375430f2.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-03 ।। Making of the Indian constitution ।। भारतीय संविधान का निर्माण (Part-2)",
+      "published_date": "22 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/alRLMLMAHCE",
+      "hd_video_url": "https://www.youtube.com/embed/alRLMLMAHCE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d743a9b4-2818-48f5-aefb-2d57256dcb2b.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-05 ।। Making of the Indian constitution ।। भारतीय संविधान का निर्माण (Part-4)",
+      "published_date": "24 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/v7oIwwnyYIs",
+      "hd_video_url": "https://www.youtube.com/embed/v7oIwwnyYIs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//efe83434-89a2-47d2-9c60-be7f69463a5b.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-06 ।। Preamble ।। प्रस्तावना (Part-1)",
+      "published_date": "25 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/ytXqoEtxgpQ",
+      "hd_video_url": "https://www.youtube.com/embed/ytXqoEtxgpQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bd853974-3324-468a-a875-dbc325d65c71.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-07 ।। Preamble ।। प्रस्तावना (Part-2)",
+      "published_date": "28 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/y4bRlxquplQ",
+      "hd_video_url": "https://www.youtube.com/embed/y4bRlxquplQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d9580ac1-0b11-4a12-af92-8d05df60b5a3.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-08 ।। Preamble ।। प्रस्तावना (Part-3)",
+      "published_date": "29 Aug 2023",
+      "video_url": "https://www.youtube.com/embed/iYknp26yf00",
+      "hd_video_url": "https://www.youtube.com/embed/iYknp26yf00",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2f9847a9-3577-4ac1-ad73-84e1eb1ecbdd.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-09 ।। Question Paper Discussion",
+      "published_date": "04 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/44ox4f0McE8",
+      "hd_video_url": "https://www.youtube.com/embed/44ox4f0McE8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5d47084f-0ae9-48e4-96fe-a9d54adcf0a3.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-10 ।। Union and its Territories।। संघ और उसका राज्य क्षेत्र (Part-1)",
+      "published_date": "06 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/yXwY3MdLD0Q",
+      "hd_video_url": "https://www.youtube.com/embed/yXwY3MdLD0Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//356c6fda-c4d0-4fec-b7af-4c894f0911f6.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-11 ।। Union and its Territories।। संघ और उसका राज्य क्षेत्र (Part-2)",
+      "published_date": "07 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/5fESfVV3H6I",
+      "hd_video_url": "https://www.youtube.com/embed/5fESfVV3H6I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e776e9b3-1d82-4528-98b2-e9bbceccb2ea.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-12 ।। Union and its Territories।। संघ और उसका राज्य क्षेत्र (Part-3)",
+      "published_date": "08 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/EgsidTapV7c",
+      "hd_video_url": "https://www.youtube.com/embed/EgsidTapV7c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6de6b8ce-0401-47b6-aae6-2edbf37a5155.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-13 ।। Citizenship।। नागरिकता (Part-1)",
+      "published_date": "11 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/51VrUaL4jE8",
+      "hd_video_url": "https://www.youtube.com/embed/51VrUaL4jE8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a58ea711-07cb-4f94-bd66-71457f120afe.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-14 ।। Citizenship।। नागरिकता (Part-2)",
+      "published_date": "12 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/MgxX-0xpO6c",
+      "hd_video_url": "https://www.youtube.com/embed/MgxX-0xpO6c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d63083a6-bde9-4b19-8760-fdae94b6549d.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-15 ।। Citizenship।। नागरिकता (Part-3)",
+      "published_date": "13 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/dZRWsbub4To",
+      "hd_video_url": "https://www.youtube.com/embed/dZRWsbub4To",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2932e0a4-e80a-4252-9323-bd3fb5f636b8.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-16 ।। Citizenship।। नागरिकता (Part-4)",
+      "published_date": "14 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/HA0ZY7uxxb0",
+      "hd_video_url": "https://www.youtube.com/embed/HA0ZY7uxxb0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f8865720-ad0c-408d-bf25-d0cb8c53c50b.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-17 ।। Fundamental Rights ।। मौलिक अधिकार (Part-1)",
+      "published_date": "15 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/EvuwQgM3qMk",
+      "hd_video_url": "https://www.youtube.com/embed/EvuwQgM3qMk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//443314bc-ea90-4172-977b-49826a532bc5.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-18 ।। Fundamental Rights ।। मौलिक अधिकार (Part-2)",
+      "published_date": "18 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/eRkhwPI5Cuc",
+      "hd_video_url": "https://www.youtube.com/embed/eRkhwPI5Cuc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6b43a13e-a6a0-4219-96fe-05ce4a33bf2d.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-19 ।। Fundamental Rights ।। मौलिक अधिकार (Part-3)",
+      "published_date": "19 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/xeONsK1rxPA",
+      "hd_video_url": "https://www.youtube.com/embed/xeONsK1rxPA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b3c4a6db-13b0-4902-a56c-60c786cd3b70.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-20 ।। Fundamental Rights ।। मौलिक अधिकार (Part-4)",
+      "published_date": "20 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/-rG7QGHS5CU",
+      "hd_video_url": "https://www.youtube.com/embed/-rG7QGHS5CU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9acce2b4-2e89-41a5-9bb7-28ad9d251672.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-21 ।। Fundamental Rights ।। मौलिक अधिकार (Part-5)",
+      "published_date": "21 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/c0mQ8RNUs24",
+      "hd_video_url": "https://www.youtube.com/embed/c0mQ8RNUs24",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//36e44ab4-1c42-4d18-ae91-949ddd139991.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-22 ।। Preamble (प्रस्तावना)",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/nOXMNKM3xJI",
+      "hd_video_url": "https://www.youtube.com/embed/nOXMNKM3xJI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b2a01e41-4295-44e2-b1c8-5983575a1ae9.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-23 ।। Preamble ।। प्रस्तावना (Part-1)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/Z83jGXefTEo",
+      "hd_video_url": "https://www.youtube.com/embed/Z83jGXefTEo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//527823e1-892d-492f-849d-45045ed39693.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-24 ।। Preamble  ।। प्रस्तावना (Part-2)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/ZFGU4yOCeNU",
+      "hd_video_url": "https://www.youtube.com/embed/ZFGU4yOCeNU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a6dca22d-83da-454a-a71d-fff05e896e19.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-25 ।। The union and its territory ।। संघ और उसका राज्य क्षेत्र",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/YaJKiAIcGi4",
+      "hd_video_url": "https://www.youtube.com/embed/YaJKiAIcGi4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//687e51a8-cd77-4af4-baef-b91aee03b53c.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-26 ।। Reorganization of states ।। राज्यों का पुनर्गठन",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/EQLBtmkwgnI",
+      "hd_video_url": "https://www.youtube.com/embed/EQLBtmkwgnI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6723fde3-5f5c-4659-afd3-266a0f3b55b6.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-27 ।। Citizenship ।। नागरिकता (Part-1)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/xQOM6_AWXpE",
+      "hd_video_url": "https://www.youtube.com/embed/xQOM6_AWXpE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ceefedf3-0f74-413e-a728-f197415404a3.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-28 ।। Citizenship ।। नागरिकता (Part-2)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/KiWu1418NxU",
+      "hd_video_url": "https://www.youtube.com/embed/KiWu1418NxU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//529ddbf6-4a14-45a6-a2f2-cb9d969e6b41.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-29 ।। Fundamental Rights ।। मौलिक अधिकार (Part-1)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/zhGjS3tGWuk",
+      "hd_video_url": "https://www.youtube.com/embed/zhGjS3tGWuk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1607d79d-0e39-4e6e-9570-54d355ce5bc7.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-30 ।। Fundamental Rights ।। मौलिक अधिकार (Part-2)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/ALJ7obOwG_c",
+      "hd_video_url": "https://www.youtube.com/embed/ALJ7obOwG_c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ed6d2548-35ab-4de4-af5e-96ec1f7f4c31.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-31 ।। Fundamental Rights ।। मौलिक अधिकार (Part-3)",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/PZNZ-aWVD6U",
+      "hd_video_url": "https://www.youtube.com/embed/PZNZ-aWVD6U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9e252b60-51e2-477e-8dba-b1e69dd4ab95.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-32 ।। Fundamental Rights ।। मौलिक अधिकार (Part-4)",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/-jGwyF4j-KM",
+      "hd_video_url": "https://www.youtube.com/embed/-jGwyF4j-KM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4f49aece-95b5-42cf-9d43-3c64b20525ea.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-33 ।। Fundamental Rights ।। मौलिक अधिकार (Part-5)",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/32R0dYuTmE4",
+      "hd_video_url": "https://www.youtube.com/embed/32R0dYuTmE4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//254319e1-a9b9-43f0-9c22-3d778075b333.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-34 ।। Fundamental Rights ।। मौलिक अधिकार  (Part-6)",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/y0LEHrf1gZA",
+      "hd_video_url": "https://www.youtube.com/embed/y0LEHrf1gZA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//01bb0b93-fccc-4abe-8525-282059153d73.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-35 ।। Fundamental Rights ।। मौलिक अधिकार (Part-7)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/5GY__1vrKSw",
+      "hd_video_url": "https://www.youtube.com/embed/5GY__1vrKSw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//351f2042-1c85-49b4-9b79-e17dc484bd1a.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 ।। Fundamental Rights ।। मौलिक अधिकार (Part-8)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/p_EG38nUTYA",
+      "hd_video_url": "https://www.youtube.com/embed/p_EG38nUTYA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6BaTsFGGk7XsvY84d0EQAZKShn5VqNqVMWBFoTcx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-37 ।। Fundamental Rights ।। मौलिक अधिकार ( Part-9)",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/U-W54dbZ-B4",
+      "hd_video_url": "https://www.youtube.com/embed/U-W54dbZ-B4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wXQ85U7rzWhwIYazCV2YL2T3ffuodr336NDeXaeE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-38 (1) ।। Fundamental Rights ।। मौलिक अधिकार ( Part-10)",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/gLXxK6rT5cg",
+      "hd_video_url": "https://www.youtube.com/embed/gLXxK6rT5cg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Bvhex9tnae8awMR1mFNfAIcrrAyxOI0TONwSkLgH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-38 (2) ।। Fundamental Rights ।। मौलिक अधिकार ( Part-10)",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/n5KKXLd2nE8",
+      "hd_video_url": "https://www.youtube.com/embed/n5KKXLd2nE8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QF79XnlqUXiDVCIfbfvJCb5TuzLfevlbuRU1Uecq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-39 ।। Directive Principles of State ।। राज्य के नीति निदेशक सिद्धांत",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/D8--UY-xiw8",
+      "hd_video_url": "https://www.youtube.com/embed/D8--UY-xiw8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QpJ6NOk0jr7UdXbyNUzYcGFdOBVE4WJoBp76xnDc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-40 ।। Fundamental Duties ।। मौलिक कर्तव्य",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/e5k9cnq_dMY",
+      "hd_video_url": "https://www.youtube.com/embed/e5k9cnq_dMY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7JRlGF09oVVB9BsZ0aXyRLdqS0sxMZYDIwQU8Tng.jpg",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-41 ।। President ।। राष्ट्रपति (Part-1)",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/z_ClCF2pkF8",
+      "hd_video_url": "https://www.youtube.com/embed/z_ClCF2pkF8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hH7dCe8ix2ZpWQPO3LXfMqkpXC6f6nCnnMhHizTO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-42 ।। President ।। राष्ट्रपति (Part-2)",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/mI6WHDaeYd4",
+      "hd_video_url": "https://www.youtube.com/embed/mI6WHDaeYd4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Y8kroI0c16jXzKv9wc0IYRk0XY3HPkqso8OE0npD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-43 ।। President ।। राष्ट्रपति (Part-3)",
+      "published_date": "08 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ushH9Ew1sNw",
+      "hd_video_url": "https://www.youtube.com/embed/ushH9Ew1sNw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/neIM0BR67uQmgKsBicHDc2AlUyGeoZkZHq0y1KJw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-44 ।। President ।। राष्ट्रपति (Part-4)",
+      "published_date": "09 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/tndbxLlx8GI",
+      "hd_video_url": "https://www.youtube.com/embed/tndbxLlx8GI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2tbrotDGmhkXjq847Geynwl42pFs12JKlxoSs3jV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-45 ।। President ।। राष्ट्रपति (Part-5)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/goE5d4iC514",
+      "hd_video_url": "https://www.youtube.com/embed/goE5d4iC514",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VG6NeHrlAf6DRAJmgIJVFm8eamFr5X1Q1OhkXMQc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-46 ।। President and Vice President ।। राष्ट्रपति और  उपराष्ट्रपति",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/cx6YDH5J8oM",
+      "hd_video_url": "https://www.youtube.com/embed/cx6YDH5J8oM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/G4vyWBeML7HjF753EUBryGaXBathxHKyK1SLquBE.jpg",
+      "notes": [
+        {
+          "title": "President ।। राष्ट्रपति (Part-6)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/337dd4b4-b612-42b5-af31-458c48f56734.02"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-47 ।। Vice President and Prime Minister।। उपराष्ट्रपति और प्रधानमंत्री",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/TvPuhoJdJV8",
+      "hd_video_url": "https://www.youtube.com/embed/TvPuhoJdJV8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Dsdh8z63VWRd2EqmAFu4wMD4xXQnc9RzfJ4KrHJG.jpg",
+      "notes": [
+        {
+          "title": "Vice President and Prime Minister।। उपराष्ट्रपति और प्रधानमंत्री",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/476b8c0b-fcbf-40c2-81d0-a794ccc007dd.02"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-48 ।। Prime Minister।। प्रधानमंत्री",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/zTz-o725tsw",
+      "hd_video_url": "https://www.youtube.com/embed/zTz-o725tsw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/lpG4IIr2qM43dlDINgiRzGX3zZL8OZCKC4EfvoZg.jpg",
+      "notes": [
+        {
+          "title": "Prime Minister।। प्रधानमंत्री",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2bf10307-9494-49d7-9d8e-b11dd2f531e6.02"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-49 ।। Attorney General ।। महान्यायवादी",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/5QSbJjT7ZWE",
+      "hd_video_url": "https://www.youtube.com/embed/5QSbJjT7ZWE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FjpJwXfTvuFwcdOrf74CaUYXzABgB6z5wqakT8nA.jpg",
+      "notes": [
+        {
+          "title": "Attorney General ।। महान्यायवादी",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bb58b8f1-ea45-4d7a-9c2b-8ebe3dab4990.02"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-50 ।। Union Legislature ।। संघ विधायिका (Part-1)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/wiPKGqkIDys",
+      "hd_video_url": "https://www.youtube.com/embed/wiPKGqkIDys",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JalvelFlbngjVKeFHMW1nL2Ozszg1icCIGYhpTHL.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a55b5a3c-93d2-4c5b-9670-fd2fbbffa66e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-51 ।। Union Legislature ।। संघ विधायिका (Part-2)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/peetHK85AAY",
+      "hd_video_url": "https://www.youtube.com/embed/peetHK85AAY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sIN2EC7pB8wUFgUfJcIu3XDOAfiPWMDQba264oH3.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1f52fe4c-3bb3-4924-b88e-7176503381f7.02"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-52 ।। Union Legislature ।। संघ विधायिका (Part-3)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/emtHCf5LOwQ",
+      "hd_video_url": "https://www.youtube.com/embed/emtHCf5LOwQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XxVkzyrj6lBlBKICaAnqzc6vUFeLhuHiKlpFtCEb.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d2592217-a812-46a5-a3ff-0e95d4df4a83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-53 ।। Union Legislature ।। संघ विधायिका (Part-4)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/oyIQclDSU-o",
+      "hd_video_url": "https://www.youtube.com/embed/oyIQclDSU-o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8xwGzT1qxlXYSHnDxzDzqNI0d16oHLOfOBtUHa5v.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d5cae835-6dff-4a87-9026-3a3f3f572e1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-54 ।। Union Legislature ।। संघ विधायिका (Part-5)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/vLWESA6VGag",
+      "hd_video_url": "https://www.youtube.com/embed/vLWESA6VGag",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hqkmffjtGMSWuBqavFqTBKTmLnpfWDsdqo6eUh5v.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/95f3cb10-4834-483f-909a-46cbbe153bbf.03"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-55 ।। Union Legislature ।। संघ विधायिका (Part-6)",
+      "published_date": "02 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/1GE2h3AlcMU",
+      "hd_video_url": "https://www.youtube.com/embed/1GE2h3AlcMU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mCVMcQRWukXQlttzyHrjUqvZpigSZway5emL6afC.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-06 & 7)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0b78ab6a-e1fb-420b-8475-e08c1f851fc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-56 ।। Union Legislature ।। संघ विधायिका (Part-7)",
+      "published_date": "02 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/OkxHs637yYI",
+      "hd_video_url": "https://www.youtube.com/embed/OkxHs637yYI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7SDnpfx7aFxgnBVF4HoGheVxtApiIqAc04ZUQroZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-57 ।। Union Legislature ।। संघ विधायिका (Part-8)",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/cdeoO4Tw5do",
+      "hd_video_url": "https://www.youtube.com/embed/cdeoO4Tw5do",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/l24vLGviRc82BlP6JRgp7zab4dwga4jNuqWvynCJ.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-08)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fe6bd433-1f4f-4d4d-81b7-eba257d5d206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-58 ।। Union Legislature ।। संघ विधायिका (Part-9)",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/EA_GrCLQrrY",
+      "hd_video_url": "https://www.youtube.com/embed/EA_GrCLQrrY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FzYS6La6BQbe2DvaLMMyX5kgWNGT73FNTh7lbJTV.jpg",
+      "notes": [
+        {
+          "title": "Union Legislature ।। संघ विधायिका (Part-09)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fcbfd453-ae80-448f-b358-e927c1de9093.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-59 ।। State Executive ।। राज्य की कार्यपालिका (Part-1)",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/ce9xkv98JpQ",
+      "hd_video_url": "https://www.youtube.com/embed/ce9xkv98JpQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/zgPsquXbJP7Dn86wzwEG3qp4Qlb7KBGHiyVC401O.jpg",
+      "notes": [
+        {
+          "title": "State Executive ।। राज्य की कार्यपालिका (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5b5bb413-eed3-4e69-a13d-1df6ed1b3c7b.03"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-60 ।। State Executive ।। राज्य की कार्यपालिका (Part-2)",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/sRrwJd9W2gM",
+      "hd_video_url": "https://www.youtube.com/embed/sRrwJd9W2gM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tCEdoU0rFt8qF7AtECqltzEgEBOq4YmpL9WG8TRY.jpg",
+      "notes": [
+        {
+          "title": "State Executive ।। राज्य की कार्यपालिका (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/06d4c8de-8ebb-45bf-a8c2-9b150db91a51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-61 ।। State Legislature ।। राज्य की विधायिका (Part-1)",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/4_SwL3_Nx90",
+      "hd_video_url": "https://www.youtube.com/embed/4_SwL3_Nx90",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jCm67yx3QuOl8jUmvK2kVknxetZRXOBvaBHjxRWS.jpg",
+      "notes": [
+        {
+          "title": "State Legislature ।। राज्य की विधायिका (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a4de53e-d1eb-4fd4-871b-3faefbaf338c.03"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-62 ।। State Legislature ।। राज्य की विधायिका (Part-2)",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/sl5W6I3xGlo",
+      "hd_video_url": "https://www.youtube.com/embed/sl5W6I3xGlo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uQLwuHn7AS3wQiGl4DWqsGV7bw9oCnEgBvOYYhme.jpg",
+      "notes": [
+        {
+          "title": "State Legislature ।। राज्य की विधायिका (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9fab4579-1834-4653-8842-6e63ae297418.03"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-63 ।। Judiciary ।। न्यायपालिका  (Part-1)",
+      "published_date": "10 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/jXXkGAgBoh0",
+      "hd_video_url": "https://www.youtube.com/embed/jXXkGAgBoh0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/p23RlZXHGqcq0wivokcLzXnOOre6ig5np2YUQNMn.jpg",
+      "notes": [
+        {
+          "title": "Judiciary ।। न्यायपालिका  (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5abc0680-edd1-4668-aaf8-71080017fdc3.03"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-64 ।। Judiciary ।। न्यायपालिका (Part-2)",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/6RjAdNkhc4M",
+      "hd_video_url": "https://www.youtube.com/embed/6RjAdNkhc4M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/BX8ODUBoclCQBhIGGok3fB2sEXZ5baK1eMc9y0eV.jpg",
+      "notes": [
+        {
+          "title": "Judiciary ।। न्यायपालिका (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/32df0832-0c96-427c-9c6f-3bdae5b2f79c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-65 ।। Judiciary ।। न्यायपालिका (Part-3)",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/WOCidY4HJ18",
+      "hd_video_url": "https://www.youtube.com/embed/WOCidY4HJ18",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8k9paEyR1WSIBN4WghZ2wQAtUrQTisjJ8Dj9OMN2.jpg",
+      "notes": [
+        {
+          "title": "Judiciary ।। न्यायपालिका (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b5cd8b9d-3456-402e-a946-ac05f26beb36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-66 ।। Judiciary ।। न्यायपालिका (Part-4)",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/cjrFPDKf6jU",
+      "hd_video_url": "https://www.youtube.com/embed/cjrFPDKf6jU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/PGdUhFbhxozAbnfFHeTJ341kpPh0DOof36MSANYa.jpg",
+      "notes": [
+        {
+          "title": "Judiciary ।। न्यायपालिका (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7545050a-f0e5-4891-9d3c-015a44316988.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-67 ।। Judiciary ।। न्यायपालिका (Part-5)",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/LFXC0WewGhg",
+      "hd_video_url": "https://www.youtube.com/embed/LFXC0WewGhg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MgHRqGWXmQ4EdzApwS0DhZqa7u29z8lr1g07h0nM.jpg",
+      "notes": [
+        {
+          "title": "Judiciary ।। न्यायपालिका (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4ea7a04e-55e2-4d68-bd5b-23c05020d4c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-68 ।। Local Self Government ।। स्थानीय स्वशासन (Part-1)",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Idipj0Jvq74",
+      "hd_video_url": "https://www.youtube.com/embed/Idipj0Jvq74",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MnO7O5wgywVjFfgI2SmjApWzKpOqSzEp7FMrtnJ2.jpg",
+      "notes": [
+        {
+          "title": "Local Self Government ।। स्थानीय स्वशासन (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b1755324-9054-440c-8c01-358b097b35cd.03"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-69 ।। Local Self Government ।। स्थानीय स्वशासन (Part-2)",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/jRCRkdgC3dQ",
+      "hd_video_url": "https://www.youtube.com/embed/jRCRkdgC3dQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/u4SlA3frn0Dx8zLpgCz02YTF1qg1IGJuXdWp6wNv.jpg",
+      "notes": [
+        {
+          "title": "Local Self Government ।। स्थानीय स्वशासन (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/59baf72b-3782-4493-8e88-a2cc847beece.03"
+        }
+      ]
+    },
+    {
+      "serial": 72,
+      "title": "Lecture-70 ।। Local Self Government ।। स्थानीय स्वशासन (Part-3)",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/I3yXWyeg4Z8",
+      "hd_video_url": "https://www.youtube.com/embed/I3yXWyeg4Z8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MDfY7YIbrejyfCgox4G6ndTLOhaLAwBrUdwL2cRT.jpg",
+      "notes": [
+        {
+          "title": "Local Self Government ।। स्थानीय स्वशासन (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0b3643ad-c45e-43f3-bc8e-a488b2cdce2e.03"
+        }
+      ]
+    },
+    {
+      "serial": 73,
+      "title": "Lecture-71 ।। National Emergency ।। राष्ट्रीय आपातकाल",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/WnDAxM3Xdz0",
+      "hd_video_url": "https://www.youtube.com/embed/WnDAxM3Xdz0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2skCPeJjo4iTNA2iHOpTAxpyjVAJcG8aX3ygd6hw.jpg",
+      "notes": [
+        {
+          "title": "National Emergency ।। राष्ट्रीय आपातकाल",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f8bc96c4-8c16-429d-9d98-8b75f95d12b9.03"
+        }
+      ]
+    },
+    {
+      "serial": 74,
+      "title": "Lecture-72 ।। केंद्र-राज्य संबंध ।। Centre-State Relations",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/-HoDU8MEhLE",
+      "hd_video_url": "https://www.youtube.com/embed/-HoDU8MEhLE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/P3UGNLWLVvC5LoF7kIQIJTxqmRXhhRrlnr3z5e0a.jpg",
+      "notes": [
+        {
+          "title": "केंद्र-राज्य संबंध ।। Centre-State Relations",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/af878f58-9df6-47c0-8488-662fddb6af3b.04"
+        }
+      ]
+    },
+    {
+      "serial": 75,
+      "title": "Lecture-73 ।। Union Territories and Schedules ।। केंद्र शासित प्रदेश और अनुसूचियाँ",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/J4-0E9S8ppc",
+      "hd_video_url": "https://www.youtube.com/embed/J4-0E9S8ppc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NwsbMCi9yTdfMIxHSXLgJ6bzSgTGB0EEggJ12kOl.jpg",
+      "notes": [
+        {
+          "title": "Union Territories and Schedules ।। केंद्र शासित प्रदेश और अनुसूचियाँ",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e9cad736-2d7e-474d-95c5-5575017fafba.04"
+        }
+      ]
+    },
+    {
+      "serial": 76,
+      "title": "Lecture-74 ।। Official Language and commission ।। राजभाषा और आयोग",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/vgH2js3_0JU",
+      "hd_video_url": "https://www.youtube.com/embed/vgH2js3_0JU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XgfbwBX9V8tXBcNE4yFAEUenYWfSQEQ6R8Qkhdnm.jpg",
+      "notes": [
+        {
+          "title": "Official Language and commission ।। राजभाषा और आयोग",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b24fefb9-e900-46a4-a109-a696b4f8fc93.04"
+        }
+      ]
+    },
+    {
+      "serial": 77,
+      "title": "Lecture-75 ।। Various Commissions and Institutions in India ।। भारत में विभिन्न आयोग और संस्थाएँ",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/OQK2u2o60g8",
+      "hd_video_url": "https://www.youtube.com/embed/OQK2u2o60g8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XNBk5h1WKWC4kZczogHPqFsPtD2nsAQcfutEt1PP.jpg",
+      "notes": [
+        {
+          "title": "Various Commissions and Institutions in India ।। भारत में विभिन्न आयोग और संस्थाएँ",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8ac3f382-bac9-4599-a5ca-a14c19bd8277.04"
+        }
+      ]
+    },
+    {
+      "serial": 78,
+      "title": "Lecture-76 ।। Constitutional Amendment and Company Act ।। संवैधानिक संशोधन और कंपनी अधिनियम",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/VsoodiHAoOI",
+      "hd_video_url": "https://www.youtube.com/embed/VsoodiHAoOI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/L8hQ8gB5sI6Y4kS6NgkLuhCgLB4Oz7jPexlpPQBF.jpg",
+      "notes": [
+        {
+          "title": "Constitutional Amendment and Company Act ।। संवैधानिक संशोधन और कंपनी अधिनियम",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c4d9f593-6ed2-4e73-a8ac-73b636a00d9d.04"
+        }
+      ]
+    },
+    {
+      "serial": 79,
+      "title": "Lecture-32 || Judiciary || न्यायालय (Part-2)",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210910/kgss-1741582795-v210910.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GVvgyZQsnik",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Centre State Relation || केंद्र-राज्य संबंध (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff2d396b-dbb1-4df6-8d58-9def2e95725b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

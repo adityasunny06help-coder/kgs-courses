@@ -1,0 +1,51 @@
+{
+  "subject_name": "Polity by Vishal kumar Sir",
+  "subject_id": 8371,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientation",
+      "published_date": "20 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 01 || Orientation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3f1a175-b6d0-4d6f-94e7-e4720450d33e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Basics",
+      "published_date": "21 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 02 || Basics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/990ff4f3-cc6c-455d-adf4-a37020c6e952.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Syllabus Discussion",
+      "published_date": "22 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 03 || Syllabus Discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70ca70fc-c53d-4e23-8560-bffded0bb2ec.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

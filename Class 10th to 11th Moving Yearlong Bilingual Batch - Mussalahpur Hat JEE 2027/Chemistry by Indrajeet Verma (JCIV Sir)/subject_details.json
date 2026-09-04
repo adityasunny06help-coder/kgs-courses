@@ -1,0 +1,65 @@
+{
+  "subject_name": "Chemistry by Indrajeet Verma (JCIV Sir)",
+  "subject_id": 8230,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Revision",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZQ1AvTD_ijs",
+      "hd_video_url": "https://www.youtube.com/embed/ZQ1AvTD_ijs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CGscB2T0Iq6BiDhwPiQwNrQQz0gg40lSulvzjF3Q.jpg",
+      "notes": [
+        {
+          "title": "Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce3b0e36-9956-420b-9670-96c15e475e73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Revision",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YFVTfd2ewPY",
+      "hd_video_url": "https://www.youtube.com/embed/YFVTfd2ewPY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LIu7hwRBnhytQLcVBUbIf1vcKzg4oQZTcWbJolvL.jpg",
+      "notes": [
+        {
+          "title": "Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0233f77-426d-4a40-87ae-2a50463c4525.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Revision",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7wbt-8k7bKQ",
+      "hd_video_url": "https://www.youtube.com/embed/7wbt-8k7bKQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZIpYS3SfYZaikz6ziqHZTEQ8FrK5nGHvil37OyTm.jpg",
+      "notes": [
+        {
+          "title": "Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ade170a-fde8-484d-a098-a7f1f7a9cb55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Revision",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/pf8XjXc0Efg",
+      "hd_video_url": "https://www.youtube.com/embed/pf8XjXc0Efg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TZqthD8gBoqzjrL787bOBieZCODA8B6ymcZZNdlP.jpg",
+      "notes": [
+        {
+          "title": "Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3034db04-2306-460a-a504-d1e1a3d4a2df.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,634 @@
+{
+  "subject_name": "Physics by Deepa Ma'am",
+  "subject_id": 3911,
+  "video_count": 45,
+  "note_count": 44,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-08 || Mechanics (Part-5)",
+      "published_date": null,
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2s5QykDJWnKvSTyhQ5DffFLZjV3JfzMWcYJ6lzgL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-1 || Introduction Class",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/A_wN4hB5f28",
+      "hd_video_url": "https://www.youtube.com/embed/A_wN4hB5f28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RNgGOxvvpH6T2RTm2d3pEWH8wLTd4TrXeP8hC02Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d6bcc546-77f4-48c1-bf17-58df0cfed589.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-02 || Unit & Dimension",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/lPO8eHA6_dg",
+      "hd_video_url": "https://www.youtube.com/embed/lPO8eHA6_dg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZlVKIVjti7N0bp9LIcp8kXfboU9qE3iT0FnOVXAE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Unit and Dimension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53af42d2-fdb7-4411-8fb3-2eae12f37f31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-03 || Unit & Dimension (Part-2)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/reCiV38sp54",
+      "hd_video_url": "https://www.youtube.com/embed/reCiV38sp54",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nlSZdEQ4RkRXy7NiX67n3TXlsOYDG0JFEAtDJsS0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Unit & Dimension (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a73e4289-2d9b-48bd-a849-fb1f18d1df2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-04 || Mechanics",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/25zzqzD4JWw",
+      "hd_video_url": "https://www.youtube.com/embed/25zzqzD4JWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1fBFxER7fMbO0yJ4L5tgBYjqvk7gLuqcVrr2cfSU.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Mechanics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d641036-48df-49c2-a274-94958b74c3cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-05 || Mechanics (Part-2)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zMJL3q7IaYs",
+      "hd_video_url": "https://www.youtube.com/embed/zMJL3q7IaYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hFDGKVjvDasCws4DnyGosTMHXv8JrBbHCzOv1OgZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Mechanics (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2f22393-534e-48e5-8c1e-3578e7993b66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-06 || Mechanics (Part-3)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/gH9nqud2TtE",
+      "hd_video_url": "https://www.youtube.com/embed/gH9nqud2TtE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nwJ31ztphS81YLCQUt2TuFQieQbKOj3hfkgAzd8W.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Mechanics (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24e6a3c6-e814-435c-9690-973fdb034f77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-07 || Mechanics (Part-4)",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zsHpIsTjLEg",
+      "hd_video_url": "https://www.youtube.com/embed/zsHpIsTjLEg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/knxhqbQLpaJwxTIKXWbx6IMC447kfKua838MIgx8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Mechanics (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d07bb193-51d5-4592-93f2-84d4cbacf5f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-08 || Mechanics (Part-5)",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/wbjvxi97we4",
+      "hd_video_url": "https://www.youtube.com/embed/wbjvxi97we4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lVe95FQIeNfklZ6PmNzFBPI1lLnJPu1QJTe1WPV2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Mechanics (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efe16f0e-6f04-48f0-8195-e5d7910a7c1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-09 || Mechanics (Part-6)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/HO0Mbgtmsu8",
+      "hd_video_url": "https://www.youtube.com/embed/HO0Mbgtmsu8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6vK3f4WzeDk8bqQIiNB6Mfrx5BsDCYRTFKhIAqmM.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Mechanics (part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a583758-5b1b-44e0-a1e8-cb4c6e3d6888.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-10 || Mechanics (Part-7)",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/YJvCbqTeXaA",
+      "hd_video_url": "https://www.youtube.com/embed/YJvCbqTeXaA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ehRrTenKTO0cbSgZWBsJtMyZEETwwge0yytGbwi1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Mechanics (part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45f6fc66-20a3-4722-bdf6-342952c7eda8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-11 || Mechanics (Part-8)",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Ak_hJMvXSbw",
+      "hd_video_url": "https://www.youtube.com/embed/Ak_hJMvXSbw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WlsFmu1thq0hjFNdvUrYNkXjccuGG0XRSkHa86mg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Mechanics (part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9e8b4dc-40df-4f32-b695-1827d213f1c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-12 || Mechanics (Part-9)",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/LvwtxSrOhTM",
+      "hd_video_url": "https://www.youtube.com/embed/LvwtxSrOhTM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0VMo2JWTzjDS95y0qc5II5MMEjCVPcvgX3IV1GH8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Mechanics (part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fbf92f7-f47f-4648-803e-2eac0322fd53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-13 || Mechanics (Part-10)",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/RprLY24x8Nc",
+      "hd_video_url": "https://www.youtube.com/embed/RprLY24x8Nc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Jn93t8XYx15t9yhsk2XCUtZOrDOJgelCJOEG20JN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Mechanics (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/201fbaf4-8fd2-494b-9bc4-3fbf5f717559.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-14 || Mechanics (Part-11)",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/AwxPFTYdy_A",
+      "hd_video_url": "https://www.youtube.com/embed/AwxPFTYdy_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YAgQxNFkNxyd2E7bbAxzWgQw934i7ovrLScnBbId.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Mechanics (part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ca11547-6081-4023-8763-58c3f1ef6fe2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-15 || Mechanics (Part-12)",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/aX69NlIOduc",
+      "hd_video_url": "https://www.youtube.com/embed/aX69NlIOduc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Sdn7j0uhVp4o3hzEGfAlwtcFOkM4jOmVbA9lH666.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Mechanics (part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40f96dac-ed38-4e70-be90-b14e049e001c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-16 || Mechanics (Part-13)",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/W3YYmTlHw0o",
+      "hd_video_url": "https://www.youtube.com/embed/W3YYmTlHw0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wIG7D6j1KQSPBqPefUUPbuI4nps5yaS7nh8jopte.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Mechanics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb0ec6b8-0271-46ec-9c56-53bc9c405df3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-17 || Mechanics (Part-14)",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/YXPj2wUodNQ",
+      "hd_video_url": "https://www.youtube.com/embed/YXPj2wUodNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l92Jzy28pGIgt9cHW62e1LxgztMu1ubOczJH8Qjf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Mechanics (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2df7dd5-39a2-4082-a4cb-9aef3a0532a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-18 || Optics(Part-1)",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/i15W-1ygYpQ",
+      "hd_video_url": "https://www.youtube.com/embed/i15W-1ygYpQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2jGw2GKnpFMTUpM6BhNG6RCVXWSAjRWMdypqKM70.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Optics(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5688a107-2478-4e96-8a81-e4be76e320dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-19 || Optics(Part-2)",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/WkFBnYStaLs",
+      "hd_video_url": "https://www.youtube.com/embed/WkFBnYStaLs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7i4ua5PtO8cUNS0h9irLztVUzmHNB13onDXWezxS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Optics(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5da9ee3-29c2-4ca7-8f7d-3154156c33cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-20 || Optics(Part-3)",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/QViGm6QYaS4",
+      "hd_video_url": "https://www.youtube.com/embed/QViGm6QYaS4",
+      "thumbnail": "https://i.ytimg.com/vi/QViGm6QYaS4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Optics(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3daa18d-7f05-4246-8824-4a8da9a8fc39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-21 || Optics(Part-4)",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/RjcVgp61gkw",
+      "hd_video_url": "https://www.youtube.com/embed/RjcVgp61gkw",
+      "thumbnail": "https://i.ytimg.com/vi/RjcVgp61gkw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Optics(Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ebd9e96-e57a-4b70-afc1-e3e29e9fceb0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-22 || Optics(Part-5)",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/tbO4xj69tbc",
+      "hd_video_url": "https://www.youtube.com/embed/tbO4xj69tbc",
+      "thumbnail": "https://i.ytimg.com/vi/tbO4xj69tbc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Optics(Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/296fa200-2a29-4928-8a90-ea0a352ae50f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-23 || Optics(Part-6)",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/d7T-rJnJ-2c",
+      "hd_video_url": "https://www.youtube.com/embed/d7T-rJnJ-2c",
+      "thumbnail": "https://i.ytimg.com/vi/d7T-rJnJ-2c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Optics(Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c755dfef-6f08-4954-81a5-ab7b76d0d716.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-24 || Optics(Part-6)",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JRG2e73WUm4",
+      "hd_video_url": "https://www.youtube.com/embed/JRG2e73WUm4",
+      "thumbnail": "https://i.ytimg.com/vi/JRG2e73WUm4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Optics(Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e0955f3-b103-4039-8c23-3473f69dde17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-25 || Optics(Part-8)",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Vn5Cb65oFV0",
+      "hd_video_url": "https://www.youtube.com/embed/Vn5Cb65oFV0",
+      "thumbnail": "https://i.ytimg.com/vi/Vn5Cb65oFV0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Optics(Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dae9830-b5ab-426d-ac22-4cfbf7d41e14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-26 || Optics(Part-9)",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/vITsh3ZfhJY",
+      "hd_video_url": "https://www.youtube.com/embed/vITsh3ZfhJY",
+      "thumbnail": "https://i.ytimg.com/vi/vITsh3ZfhJY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Optics(Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a24270f-5b67-4334-a599-607f894cc11c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-27 || Optics(Part-10)",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/H8PKfheby0E",
+      "hd_video_url": "https://www.youtube.com/embed/H8PKfheby0E",
+      "thumbnail": "https://i.ytimg.com/vi/H8PKfheby0E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Optics(Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58b8ffb8-b37d-470d-b672-267e702e8553.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-28 || Optics(Part-11)",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Lh1NDoaShMM",
+      "hd_video_url": "https://www.youtube.com/embed/Lh1NDoaShMM",
+      "thumbnail": "https://i.ytimg.com/vi/Lh1NDoaShMM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Optics(Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1ce9ba3-4998-47fb-b81b-c83f117e6a03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-29 || Optics(Part-12)",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/BqzqrDGi8lU",
+      "hd_video_url": "https://www.youtube.com/embed/BqzqrDGi8lU",
+      "thumbnail": "https://i.ytimg.com/vi/BqzqrDGi8lU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Optics(Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ea3ae65-d6eb-4273-8cac-1c0260df8b4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-30 || Optics(Part-13)",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/IaXudUz9Mr0",
+      "hd_video_url": "https://www.youtube.com/embed/IaXudUz9Mr0",
+      "thumbnail": "https://i.ytimg.com/vi/IaXudUz9Mr0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Optics (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/570cb725-3983-4956-8c03-67c4af747009.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-31 || Sound (Part-1)",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/yZRK7QI3w_g",
+      "hd_video_url": "https://www.youtube.com/embed/yZRK7QI3w_g",
+      "thumbnail": "https://i.ytimg.com/vi/yZRK7QI3w_g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Sound (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f3adb49-14be-464a-9a7c-0a7c259da467.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-32 || Sound (Part-2)",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Y8JhtNmi9dM",
+      "hd_video_url": "https://www.youtube.com/embed/Y8JhtNmi9dM",
+      "thumbnail": "https://i.ytimg.com/vi/Y8JhtNmi9dM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Sound (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4ea24f3-a5a4-4bdf-84ed-49fbf346edd7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-33 || Sound (Part-3)",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/4Nn-YgXhq5s",
+      "hd_video_url": "https://www.youtube.com/embed/4Nn-YgXhq5s",
+      "thumbnail": "https://i.ytimg.com/vi/4Nn-YgXhq5s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Sound (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cb97e70-3f62-431c-b590-dbbb75b5eb25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-34 || Sound (Part-4)",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/D0U6Lw1w758",
+      "hd_video_url": "https://www.youtube.com/embed/D0U6Lw1w758",
+      "thumbnail": "https://i.ytimg.com/vi/D0U6Lw1w758/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Sound (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d5a5ba9-0d3b-4bbf-b0cd-7331cadca847.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-35 || Sound (Part-5)",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/06lZ4H3GhWU",
+      "hd_video_url": "https://www.youtube.com/embed/06lZ4H3GhWU",
+      "thumbnail": "https://i.ytimg.com/vi/06lZ4H3GhWU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Sound (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7951d211-7e0b-45c2-96fc-a774f0c10f3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 || Sound (Part-6)",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9YdV6OYko-o",
+      "hd_video_url": "https://www.youtube.com/embed/9YdV6OYko-o",
+      "thumbnail": "https://i.ytimg.com/vi/9YdV6OYko-o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Sound (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7d2ef2d-6bfa-4b40-80de-d504a919faee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-37 || Electricity (Part -1)",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/SFU96jnhGDU",
+      "hd_video_url": "https://www.youtube.com/embed/SFU96jnhGDU",
+      "thumbnail": "https://i.ytimg.com/vi/SFU96jnhGDU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Electricity (Part -1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ff9cb87-8d15-4ea0-a308-71802c8ead13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-38 || Electricity (Part -2)",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/B0L9Ms0Juuo",
+      "hd_video_url": "https://www.youtube.com/embed/B0L9Ms0Juuo",
+      "thumbnail": "https://i.ytimg.com/vi/B0L9Ms0Juuo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Electricity (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe19b782-3286-440b-8234-bbab8037c319.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-39 || Electricity (Part -3)",
+      "published_date": "07 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/SPP_G1gF4SQ",
+      "hd_video_url": "https://www.youtube.com/embed/SPP_G1gF4SQ",
+      "thumbnail": "https://i.ytimg.com/vi/SPP_G1gF4SQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Electricity (Part -3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a944297-0924-4c30-b315-c705e3ceaf72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-40 || Electricity (Part -4)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/rIWVpliT6cU",
+      "hd_video_url": "https://www.youtube.com/embed/rIWVpliT6cU",
+      "thumbnail": "https://i.ytimg.com/vi/rIWVpliT6cU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Electricity (Part -4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/964d8442-06d8-48f7-9f40-d713f4e57d8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-41 || Electricity (Part -5)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/gd8vnji9kmw",
+      "hd_video_url": "https://www.youtube.com/embed/gd8vnji9kmw",
+      "thumbnail": "https://i.ytimg.com/vi/gd8vnji9kmw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Electricity (Part -5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf4898fc-7d7c-46dc-996d-50cb3222b3ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-42 || Electricity (Part-6)",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/pSZwhtVQnbs",
+      "hd_video_url": "https://www.youtube.com/embed/pSZwhtVQnbs",
+      "thumbnail": "https://i.ytimg.com/vi/pSZwhtVQnbs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Electricity (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ad0d960-1471-478f-b131-74deb5bb4ebe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-43 || Electricity (Part-7)",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/j6C5gSsDH9g",
+      "hd_video_url": "https://www.youtube.com/embed/j6C5gSsDH9g",
+      "thumbnail": "https://i.ytimg.com/vi/j6C5gSsDH9g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Electricity (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/143844aa-396e-4129-9068-554da823c9aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-44 || Gravitation",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/8QazTFQUp8U",
+      "hd_video_url": "https://www.youtube.com/embed/8QazTFQUp8U",
+      "thumbnail": "https://i.ytimg.com/vi/8QazTFQUp8U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Gravitation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b354d38a-0d7a-49d5-9d2e-21ee6e67debe.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "subject_name": "Race",
+  "subject_id": 3187,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Race (Part-01) Recorded",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/I7tK1vWCOfk",
+      "hd_video_url": "https://www.youtube.com/embed/I7tK1vWCOfk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Race (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6e8ed21-3424-4f4a-a70d-565c3603acb7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Race (Part-02) Recorded",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/H7WePfZ9Iwc",
+      "hd_video_url": "https://www.youtube.com/embed/H7WePfZ9Iwc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Race (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/388363f1-08b5-4879-8261-e23eb2d2c5cd.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

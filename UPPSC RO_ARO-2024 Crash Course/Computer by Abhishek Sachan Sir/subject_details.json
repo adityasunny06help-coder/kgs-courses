@@ -1,0 +1,289 @@
+{
+  "subject_name": "Computer by Abhishek Sachan Sir",
+  "subject_id": 3894,
+  "video_count": 20,
+  "note_count": 20,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Computer Fundamentals (Part-1)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JMxlJD4s4zA",
+      "hd_video_url": "https://www.youtube.com/embed/JMxlJD4s4zA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe983b5b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Computer Fundamentals (Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80cdda27-d874-413b-915d-e733a4fe4138.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Computer Fundamentals (Part-2)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132664/kgss-1729160721-v132664.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q702iCyPxB0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe909ed5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Computer Fundamentals (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc56062e-b216-4228-bf02-3f9122be907a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Computer Fundamentals (Part-3)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/133611/kgss-1729249131-v133611.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/46I2MzhCXgw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe884c20.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Computer Fundamentals (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97223108-cd61-4c4f-8b62-5b1ca32b3929.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Computer Fundamentals (Part-4)",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/134099/kgss-1729334141-v134099.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SsXS2ZinkZM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe809c82.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Computer Fundamentals (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1e81b49-37aa-418b-884b-0cbd21304293.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Computer Fundamentals (Part-5)",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/137751/kgss-1729504363-v137751.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CwMOw4hDJH4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe78480e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Computer Fundamentals (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b74b335a-c5a8-42b4-9456-9855c4f02abc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Computer Fundamentals (Part-6)",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138125/kgss-1729508187-v138125.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bfzVTVJczTY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe70ac09.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Computer Fundamentals (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d278f29-e422-4b3a-9b37-798f769f0154.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Computer Networking (Part-1)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138230/kgss-1729580183-v138230.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T73Wvi6xdi4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe68520a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Computer Networking (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1f1939b-c28a-4ec0-8be6-9ef79c4828a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Computer Networking (Part-2)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138232/kgss-1729594603-v138232.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UyHv-8OaosE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe608a2b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Computer Networking (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d37a349-4acf-4fb9-b3d6-1891f099e82c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Computer Networking (Part-3)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138888/kgss-1729666330-v138888.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XFt_ybGfT38",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe5837a3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Computer Networking (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7a30b42-20c5-45a1-9a12-9216133f14a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Internet (Part-1)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138895/kgss-1729681004-v138895.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LpGHQg4tpGo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe506bb2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Internet (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71e35bfd-9f22-4d99-b0ca-3506eba0c4ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Internet (Part-2)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138901/kgss-1729764907-v138901.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/anXFG53Uw98",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe47fdcd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Internet (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62aea0ea-ad29-4557-b054-0966e8c69497.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Internet (Part-3)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140372/kgss-1729853756-v140372.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VBFf5XVV-zU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe403936.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Internet (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3797c7cf-9b15-4cbb-b939-db726a933398.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || MS-Word (Part-1)",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140918/kgss-1729925443-v140918.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dGbMTiVDlmQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe37d88d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || MS-Word (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bd296d2-f3a2-4ade-862d-1dd617a29d0c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || MS-Word (Part-2)",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140785/kgss-1729940284-v140785.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7NHs5bcF47M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe301403.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || MS-Word (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ed676b4-1392-4923-b588-e55a7c967c45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || MS-Excel",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/145955/kgss-1730717216-v145955.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/u3srVDPZmxU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe278809.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || MS-Excel",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c2c6d53-fac9-43e0-b2c6-7dc94d2b9b07.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Operating System",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146518/kgss-1730803747-v146518.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-p11h9kDKnY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe1ed181.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Operating System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a34e48d-ef20-42f3-9d11-ceb1dae78d0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Data Representation (Part-1)",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146844/kgss-1730890602-v146844.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nRgK7vwOct8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe16fa14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Data Representation (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac7ab1c2-542e-4f64-bdd4-eae7e35445ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Data Representation (Part-2)",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147131/kgss-1730976651-v147131.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dmJgLf3_dq0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe0e3eb2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Data Representation (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b6b500e-8b4c-4dcd-8157-704267b9086f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Practice Session (Part-1)",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147463/kgss-1731063301-v147463.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lsthvFO19Xg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fe06863f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Practice Session (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a574868b-387e-493c-9e7b-4f69fe7e7d65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Practice Session (Part-2)",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147817/kgss-1731148643-v147817.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vbQUH3lLKGw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fdfa64cf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Practice Session (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a82e05e4-9a45-4464-aa63-11955c6e47ab.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

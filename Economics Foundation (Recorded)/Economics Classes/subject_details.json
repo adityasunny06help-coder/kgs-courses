@@ -1,0 +1,630 @@
+{
+  "subject_name": "Economics Classes",
+  "subject_id": 335,
+  "video_count": 69,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction + Sectors of Economy Part 01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L1/L1.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L1/L1.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Sectors of Economy Part 02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L2/L2.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L2/L2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Sectors of Economy Part 03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L3/L3.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L3/L3.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Sectors of Economy Part 04",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L4/L4.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L4/L4.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//da012cf7-b297-476e-bc7f-184b1a1fb9be.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Gross Domestic Product (GDP) Part 01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L5/L5.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L5/L5.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8521089f-1785-4588-9e6c-bab11853707a.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Gross Domestic Product (GDP) Part 02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L6/L6.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L6/L6.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//22a5e34a-05fc-4969-a182-4bc233734077.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Gross Domestic Product (GDP) Part 03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L7/L7.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L7/L7.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7ee92f4a-3c2a-4d26-8405-729610715545.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Nominal GDP + Real GDP",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L8/L8.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L8/L8.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c57c0871-7fd8-4bf3-89db-c514624b77b1.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Purchasing Power Parity (PPP)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L10/L10.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L10/L10.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8e38dd42-ab83-4db3-acca-f1ccc45364a8.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Income + National Income Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/new-folder-economy/l-11/l-11.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L11/L11.M3U8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || National Income Part 2 + Unemployment Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L12/L12.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L12/L12.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7df9ed34-3929-4b0f-a91e-b27c8aafcbcd.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Unemployment Part 2 + Poverty",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L13/L13.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L13/L13.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Lorenz Curve",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L14/L14.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L14/L14.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5b36bc34-bfa8-443c-9217-ccd58f774eee.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || National Income Part 3",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L15/L15.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L15/L15.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//62660001-3ab0-4c16-985b-cb1ed87220bf.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Economic Planning Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L16/L16.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L16/L16.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9ad550b1-112f-42a9-82b1-cb8378db0656.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Economic Planning Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L17/L17.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L17/L17.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//17c2e7de-8650-4cd0-91f9-cde1db56eb46.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Economic Planning Part 3",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L18/L18.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L18/L18.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Budget",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L20/L20.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L20/L20.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8442ae81-33bc-4b16-a87b-343953291f0f.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-20 || Fiscal Deficit",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L22/L22.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L22/L22.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//49bc2e5a-4d14-40e4-a826-d161e4783582.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-21 || M1, M2, M3 & M4",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L23/L23.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L23/L23.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8716ab19-2f42-4053-b7d3-38231d0372c1.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-22 || Tax",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L24/L24.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L24/L24.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//faa5fc78-f935-4620-b6dd-abf3777ff210.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-23 || Goods & Services Tax (GST) Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L25/L25.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L25/L25.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eaa15815-207f-4649-b463-c0a77ddb2d8d.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-24 || Goods & Services Tax (GST) Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L26/L26.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L26/L26.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8049e3a8-3233-4f9d-b2b3-ab945b3be097.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-25 || Income Tax Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L27/L27.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L27/L27.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cf33af44-d7dd-43b9-b8fd-63f15ab17d1b.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-26 || Income Tax Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L28/L28.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L28/L28.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d15cf356-7117-46f2-b454-14db0bf81fd3.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-27 || Balance of Payment",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L29/L29.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L29/L29.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//015b1422-a849-47bc-8b94-465954f740d8.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-28 || Monetary Policy Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L30/L30.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L30/L30.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//58ce288d-aaef-4992-b512-537d84ca3769.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-29 || Monetary Policy Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L31/L31.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L31/L31.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//21d1a41f-eae2-4ab4-8d1f-33387fb734e4.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-30 || Inflation Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L32/L32.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L32/L32.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-31 || Inflation Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L33/L33.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L33/L33.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b1bd8fde-b1ab-40dc-8c6b-6632d2ef8a08.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-32 || Reserve Bank of India (RBI)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L34/L34.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L34/L34.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//28bb2bac-6bdf-4f3e-bb9b-3e56469de4eb.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-33 || Banking System Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L35/L35.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L35/L35.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//56ff2aee-4dfa-4757-9a72-97e164092f7a.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-34 || Banking System Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L36/L36.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L36/L36.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7b2969ee-a289-4221-913d-faa3a90db030.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-35 || Types of Cheque",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/l-37/l-37.m3u8",
+      "hd_video_url": "https://1747620554.rsc.cdn77.org/kgs-test/economics-foundation-new/l-37/l-37.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5c8007a4-992d-46f4-9891-38d82fef4dea.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-36 || Methods of Payment Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L38/L38.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L38/L38.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6ebc1ff4-fcbb-45f4-9605-ffda876d320e.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-37 || Methods of Payment Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L39/L39.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L39/L39.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//249114bd-53a3-4a57-888e-628e9a05a84a.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-38 || Microeconomics - Demand Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L40/L40.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L40/L40.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//55e8acef-2f80-4923-8f93-387d717e321a.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-39 || Microeconomics - Demand Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L41/L41.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L41/L41.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8a5548fa-05de-4aec-8153-d0c80b13d168.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-40 || Types of Goods Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L42/L42.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L42/L42.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d436170c-4063-4a90-a7e3-9d599a8ed541.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-41 || Types of Goods Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L43/L43.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L43/L43.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-42 || Elasticity of Demand Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L44/L44.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L44/L44.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9e16cc00-5a2c-4a46-93be-ecb07c0d5bb4.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-43 || Elasticity of Demand Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L45/L45.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L45/L45.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c45a8eb6-2092-4bfd-a29c-536564d2f128.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-44 || Types of Market Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L46/L46.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L46/L46.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8b4ac435-fe9b-4cce-bb81-862b371826f9.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-45 || Types of Market Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L47/L47.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L47/L47.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//87e00980-f680-435e-b3cf-230d4e4639e1.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-46 || Utility Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L48/L48.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L48/L48.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9d62bab4-db05-43f8-b94b-b3e046938193.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-47 || Utility Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L49/L49.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L49/L49.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6ea87fd0-04f3-4186-8834-02d1ebb42663.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-48 || Utility Part 3",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L50/L50.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L50/L50.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6f96ce91-88bd-4b83-9b51-13d0634b16fd.png",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-49 || Equilibrium Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L51/L51.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L51/L51.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8948d17d-5c8c-444c-9cf7-b4430ee92491.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-50 || Equilibrium Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L52/L52.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L52/L52.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-51 || Revenue Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L53/L53.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L53/L53.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//48510028-4e8d-4147-b135-c4a6ec99be16.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-52 || Revenue Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L54/L54.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L54/L54.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3532f8c9-4731-478d-bea2-f18629a5a4b2.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-53 || Companies Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L55/L55.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L55/L55.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d3cea81a-2f91-4d4b-858c-1753029ff7db.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-54 || Companies Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L56/L56.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L56/L56.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//29ba773b-753d-4777-a144-374113278432.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-55 || Stock Market - BSE & NSE Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L57/L57.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L57/L57.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//85ae1a14-c95c-43ec-acf1-eff320c11713.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-56 || Stock Market - BSE & NSE Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L58/L58.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L58/L58.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d2accfca-0bcf-4b15-a8bb-cb7f1cf0f9c3.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-57 || Stock Market - BSE & NSE Part 3",
+      "published_date": null,
+      "video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L59/L59.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L59/L59.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1dcf0fab-8dbb-4600-a9f8-80b9b7a66bc0.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-58 || Stock Market - SEBI",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L60/L60.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L60/L60.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//73738b2c-297c-49b3-95c2-a554df7affcd.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-59 || Maharatna Companies",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L61/L61.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L61/L61.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c045a3ce-18c3-4881-86b0-246ee7835dc5.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-60 || Crypto Currency",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L62/L62.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L62/L62.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//79404b93-514e-4a5a-b982-61bf734524c8.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-61 || World Trade Organisation (WTO) Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L63/L63.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L63/L63.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cbfd5978-3be1-4cfc-8b5a-ec08717bfb35.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-62 || World Trade Organisation (WTO) Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L64/L64.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L64/L64.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//df849a99-8111-4e9a-96d0-3e55044852ad.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-63 || Intellectual Property Rights (IPR)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L65/L65.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L65/L65.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a2c1700e-addb-4b65-b392-a4ada4b768bf.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-64 || FSSAI",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L66/L66.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L66/L66.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-65 || Provident Fund + National Pension Scheme",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L67/L67.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L67/L67.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bebc3f59-cb65-4c29-9e1b-f4f06c7e8c5f.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-66 || Core Sector",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L68/L68.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L68/L68.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//28ef7b20-feb6-4719-a9a1-499eeb82c4fa.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-67 || Agriculture Part 1",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L69/L69.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L69/L69.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f5aca52d-9477-4ecf-a7c2-c123a01bf1a5.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-68 || Agriculture Part 2",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L70/L70.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L70/L70.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e3c01d0d-13f8-4cc5-8450-1acffa85435b.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-69 || Industrial Corridors",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L71/L71.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L71/L71.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//51be1de9-a69a-4381-b1d0-d014c8909c30.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-19 || Public Finance",
+      "published_date": "13 Jun 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L21/L21.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L21/L21.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f90b2129-371e-4f5d-b4ec-0c58476b8f0f.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Unit 10 - Indian Geography",
+  "subject_id": 6516,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Indian Geography (Part 1)",
+      "published_date": "01 May 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OHQIhVeym60WpNlQGwJeVNbpPo7vBHxzAHGTAOsn.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Indian Geography (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e73e17ac-bea5-469f-b62b-ba415d82c041.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Indian Geography (Part 2)",
+      "published_date": "02 May 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WaT2JVYDiF7R5ZhqOqGf3v4LHf7s8uNJ3RC0xJ3t.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Indian Geography (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61221d32-2a50-46e8-b339-1cf537fc5620.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Indian Geography (Part 3)",
+      "published_date": "03 May 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ozv0HWfgmATyfPnTQwVrO5nuiT9lXgvPxUaIkqJL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Indian Geography (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fc4a9a6-282b-4404-a3e8-b8c7c34bed2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Indian Geography (Part 4)",
+      "published_date": "05 May 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/n3upyMtpHSG2WhjwbRSWvzjj7FpLse37huLSeyxZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Indian Geography (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a9e40ed-51e2-4563-bf0f-05034415cc67.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "subject_name": "Plastic Analysis by Apoorv Mittal Sir",
+  "subject_id": 5642,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Plastic Analysis (Part-01)",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qKCkxIw6_84",
+      "hd_video_url": "https://www.youtube.com/embed/qKCkxIw6_84",
+      "thumbnail": "https://i.ytimg.com/vi/qKCkxIw6_84/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Plastic Analysis (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de7e1876-c61a-473a-b264-000abaeff6d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Plastic Analysis (Part-02)",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/McRCtfgbOZI",
+      "hd_video_url": "https://www.youtube.com/embed/McRCtfgbOZI",
+      "thumbnail": "https://i.ytimg.com/vi/McRCtfgbOZI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Plastic Analysis (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f853568-415e-4a13-b0bf-12246e705cf1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Plastic Analysis (Part-03)",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/g33GjwUlEk4",
+      "hd_video_url": "https://www.youtube.com/embed/g33GjwUlEk4",
+      "thumbnail": "https://i.ytimg.com/vi/g33GjwUlEk4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Plastic Analysis (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54cf0587-b455-4704-bd5b-f0e821985041.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

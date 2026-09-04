@@ -1,0 +1,1558 @@
+{
+  "subject_name": "Maths By Vishal Singh (JMVS Sir)",
+  "subject_id": 6057,
+  "video_count": 111,
+  "note_count": 110,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Determinant -1",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zQ3tRwfV0vE",
+      "hd_video_url": "https://www.youtube.com/embed/zQ3tRwfV0vE",
+      "thumbnail": "https://i.ytimg.com/vi/zQ3tRwfV0vE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Determinant -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c694ddb6-8824-4a7b-b0a0-542fde3a4c00.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Determinant -2",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8QGCk85SZk8",
+      "hd_video_url": "https://www.youtube.com/embed/8QGCk85SZk8",
+      "thumbnail": "https://i.ytimg.com/vi/8QGCk85SZk8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Determinant -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/538a9086-c948-4066-851a-3f6abdb06784.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Determinant -3",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7keoht9Pn74",
+      "hd_video_url": "https://www.youtube.com/embed/7keoht9Pn74",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EfRwqBLBLzVs3WYOCCTsjlid2XyuLXg7OJwSPlOH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Determinant -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a2ae2ba-3171-4903-97b4-7ae247580e0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Determinant -4",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/1cXgvabb3Qg",
+      "hd_video_url": "https://www.youtube.com/embed/1cXgvabb3Qg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y7k5NLUZqgydna2CLUF7mcZgv16xuKuYKS2URnqj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Determinant -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74a0fc69-6ca9-49f9-8da5-d03e340b342a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Determinant -5",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/MBCMwuAjDmY",
+      "hd_video_url": "https://www.youtube.com/embed/MBCMwuAjDmY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed9c98f9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Determinant -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac7f55e6-a41f-4665-8d7d-b0b67a98f5c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Determinant -6",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/BwBsYc4JvcM",
+      "hd_video_url": "https://www.youtube.com/embed/BwBsYc4JvcM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed94c71b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Determinant -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e437dd6-332f-4948-b7a1-0a558f2eae21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Determinant -7",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ph8aZmoPhOQ",
+      "hd_video_url": "https://www.youtube.com/embed/ph8aZmoPhOQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed8c515d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Determinant -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c7a0128-6b6d-4b71-91d9-49831b4fbc2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Determinant -8",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/CazGsGEsTCk",
+      "hd_video_url": "https://www.youtube.com/embed/CazGsGEsTCk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed848de5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Determinant -8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6705d604-75ff-4800-b214-16d48e29b51a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Determinant -9",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/AnC_VKH7wcQ",
+      "hd_video_url": "https://www.youtube.com/embed/AnC_VKH7wcQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed7bf32f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Determinant - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d4888bd-99eb-4f47-baac-0497a32f09a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Determinant -10",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/DTePGj8wcL4",
+      "hd_video_url": "https://www.youtube.com/embed/DTePGj8wcL4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed741959.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Determinant -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bbe2a4a1-fd28-4033-af5a-c2e2898388f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Determinant - 11",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/UKzXelzmLoo",
+      "hd_video_url": "https://www.youtube.com/embed/UKzXelzmLoo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed6b97de.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Determinant - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2156d68b-0442-4ff0-9fa0-bddb847e3bed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Determinant - 12",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/t0EVupqZgzk",
+      "hd_video_url": "https://www.youtube.com/embed/t0EVupqZgzk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed63ee36.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Determinant - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65ecdc2e-7e03-4646-b3c7-efd5830b8d39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Matrix 1",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SD8o05Z4uLQ",
+      "hd_video_url": "https://www.youtube.com/embed/SD8o05Z4uLQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed5b6f76.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Matrix 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/835c2c5c-017c-4965-86d6-2d9028d28d89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Matrix 2",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/MyzyMuDWNZA",
+      "hd_video_url": "https://www.youtube.com/embed/MyzyMuDWNZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed53975d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Matrix 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c033c55-6e0d-4551-9ee7-64dc0adb83c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Matrix 3",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9tv1qMPnVOw",
+      "hd_video_url": "https://www.youtube.com/embed/9tv1qMPnVOw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed4b1e32.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Matrix 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50c6bd14-e24a-4241-889c-2ab486ac8054.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Matrix- 4",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Fj8xsjGAJM0",
+      "hd_video_url": "https://www.youtube.com/embed/Fj8xsjGAJM0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed434836.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Matrix- 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca5af31c-8b6e-4e59-b45a-b15b107d7aa9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Matrix- 5",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/lj3CUl12GoQ",
+      "hd_video_url": "https://www.youtube.com/embed/lj3CUl12GoQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed3ad558.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Matrix- 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/947c18c2-93e6-4709-beb6-dc0597b17905.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Matrix- 6",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GHJeigwUGno",
+      "hd_video_url": "https://www.youtube.com/embed/GHJeigwUGno",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed33160d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Matrix- 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a658ac2b-c103-4875-aab5-cde14c2f335b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Matrix- 7",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/KWd5fzsn6Y4",
+      "hd_video_url": "https://www.youtube.com/embed/KWd5fzsn6Y4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed2ac411.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Matrix- 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53b6dea1-8928-4d3b-92dc-ae2339a8a29b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Matrix- 8",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sO5PGlTIA6U",
+      "hd_video_url": "https://www.youtube.com/embed/sO5PGlTIA6U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed230ce0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Matrix- 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88e3b847-0572-495b-9662-28f70ff58bc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Matrix- 9",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/-NJs4IdJoxw",
+      "hd_video_url": "https://www.youtube.com/embed/-NJs4IdJoxw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed1a7d56.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Matrix- 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5942d936-ed32-4e07-82a3-993c85875370.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || Matrix- 10",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/uivX6B52-JM",
+      "hd_video_url": "https://www.youtube.com/embed/uivX6B52-JM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed12ebdd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Matrix- 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/884b207b-af94-4fba-8dbc-b5d0df0e82e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Matrix (Revision)",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/csInhcQqsUA",
+      "hd_video_url": "https://www.youtube.com/embed/csInhcQqsUA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed0a8572.jpg",
+      "notes": [
+        {
+          "title": "Matrix (Revision)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7fe718b-18fc-4c66-aa94-01de56be2393.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 23  || Set-1",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/E1QHwUdzyX0",
+      "hd_video_url": "https://www.youtube.com/embed/E1QHwUdzyX0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ed025b7e.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23  || Set-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fca3838c-1202-4ecc-b2d3-9d83d2323458.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 24 || Set-2",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/t1vvTag8q-c",
+      "hd_video_url": "https://www.youtube.com/embed/t1vvTag8q-c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecfa06bd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Set-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a3ac2e8-4ab7-4904-8a41-11819fef305a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 25 || Set Theory -3",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/GzBz5aDzyQE",
+      "hd_video_url": "https://www.youtube.com/embed/GzBz5aDzyQE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecf2512b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Set Theory -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffe8f73c-c0e3-4e55-9cd7-58c395670d8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 26 ||  Function-1",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/1R2gkgr4zR4",
+      "hd_video_url": "https://www.youtube.com/embed/1R2gkgr4zR4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ece9f400.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 ||  Function-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15bf1661-54b9-4edb-9244-e81374d47772.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 27 ||  Function-2",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/rnAqrGAIjs8",
+      "hd_video_url": "https://www.youtube.com/embed/rnAqrGAIjs8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ece243be.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 ||  Function-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57a0e338-25b6-4249-89c6-1b4c3f4a24d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Set Theory  (Revision)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/E6HjdQnH8Zs",
+      "hd_video_url": "https://www.youtube.com/embed/E6HjdQnH8Zs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecd9ce42.jpg",
+      "notes": [
+        {
+          "title": "Set Theory  (Revision)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae48ce2c-f309-4507-b81a-885c77fc8e49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 28 || Function-3",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/BHSY1c7aMH8",
+      "hd_video_url": "https://www.youtube.com/embed/BHSY1c7aMH8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecd229bc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Function-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ec639e5-5b5b-464d-ab31-6537addf0ab8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 29 || Function- 4",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/xJEnrvlbKfM",
+      "hd_video_url": "https://www.youtube.com/embed/xJEnrvlbKfM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecc9e182.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Function- 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e81fdb9-bb19-4eae-aab7-1b172158f159.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 30 || Function-5",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/k6spUl92srE",
+      "hd_video_url": "https://www.youtube.com/embed/k6spUl92srE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecc21071.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Function-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14813f30-794a-4ff0-93c8-e80f3320f31d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 31 || Function-6",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/glYV0kRAPAw",
+      "hd_video_url": "https://www.youtube.com/embed/glYV0kRAPAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecb93887.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Function-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b38dfb62-cf0d-45ac-84eb-c909f6eff86b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 32 || Function-7",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/fuGp_5d-dnc",
+      "hd_video_url": "https://www.youtube.com/embed/fuGp_5d-dnc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ecb19d5f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Function-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94757d39-b3e0-4040-a895-028cca5c486d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Function (Revision)",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/se9WxjvpRr4",
+      "hd_video_url": "https://www.youtube.com/embed/se9WxjvpRr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6eca92a54.jpg",
+      "notes": [
+        {
+          "title": "Function (Revision)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76353701-c3b5-4051-b281-0664da94d9d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 33 || Function-8",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/QchHGLV_P7I",
+      "hd_video_url": "https://www.youtube.com/embed/QchHGLV_P7I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6eca174e9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Function-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba80b257-84cd-4af0-b443-6a0f5167bbb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 34 || Function-9",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/yy0Z8TqwedE",
+      "hd_video_url": "https://www.youtube.com/embed/yy0Z8TqwedE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec98f912.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Function-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff43c8d9-685c-4951-ae1a-3289e5d7620f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 35 || Function-10",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/hQiqjGdnO-c",
+      "hd_video_url": "https://www.youtube.com/embed/hQiqjGdnO-c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec914238.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Function-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e16f996e-e51b-478a-934d-14a84a4373b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 36 || Function-11",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/pq3KejzRO3Q",
+      "hd_video_url": "https://www.youtube.com/embed/pq3KejzRO3Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec88c0c6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Function-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38c8482c-34bc-4c21-8dab-16dfe636e234.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 37 || Function-12",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/rhTYjn_y_mI",
+      "hd_video_url": "https://www.youtube.com/embed/rhTYjn_y_mI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec8124cd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Function-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1978e028-d054-4c63-a655-be01e94a6be6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 38 || Function-13",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/XKj8pbDyTAU",
+      "hd_video_url": "https://www.youtube.com/embed/XKj8pbDyTAU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec78af08.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Function-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c194213-709c-4805-a5e6-11f693a63e78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 39 || Function-14",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/AWWv5mQVt5Y",
+      "hd_video_url": "https://www.youtube.com/embed/AWWv5mQVt5Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec70f030.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Function-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1215e2ad-c0eb-4c3b-99b0-fd1941c45fc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 40 || Function-15",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/_UTM70ZGvHM",
+      "hd_video_url": "https://www.youtube.com/embed/_UTM70ZGvHM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687f6ec65518c.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Function-15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44faac5b-d4bd-45c1-8748-d06877377c1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 41 || Function-16",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/0gpiDeQ5n70",
+      "hd_video_url": "https://www.youtube.com/embed/0gpiDeQ5n70",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I5RUwks3H1IJKunnQ2zswquo3lDXYfkknOnYkFVg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Function-16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f33d557-ab30-47b3-a6be-53ed75bae39e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 42 || Function-17",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Pm5ZwQsPHmk",
+      "hd_video_url": "https://www.youtube.com/embed/Pm5ZwQsPHmk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pG4ZTjt4cOh8RcdR5zEaF6X4hZUz5616btSXWl7B.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Function-17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/545fbece-a784-4075-ad8d-77873968465c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 43 || Function-18",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EcC5kvtjQig",
+      "hd_video_url": "https://www.youtube.com/embed/EcC5kvtjQig",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SAMQrc9mT6h36PH70fDD0ItaATGQf80vIqWGnz9T.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || Function-18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93f1a81f-b60b-4853-a0e0-e5135d46e82d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 44 || Function-19",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EtpX_PAq--M",
+      "hd_video_url": "https://www.youtube.com/embed/EtpX_PAq--M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F9cIbhf57hFSUzmkZXwjqhyS1jUM6WL7TgsFoT74.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || Function-19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abd0406a-5ecc-46d0-b69d-8e4af82107ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 45 || Function-20",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2gqGDGaibtw",
+      "hd_video_url": "https://www.youtube.com/embed/2gqGDGaibtw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AXvtKSWKQNQ0svak6Kw0w58i32cKrUI4M9uXtG1d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Function-20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3247dba6-c44b-4ee5-85ae-e6704117e20c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 46 || Function-21",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/z4Mx3h3k1WY",
+      "hd_video_url": "https://www.youtube.com/embed/z4Mx3h3k1WY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7mANmWkVi7LFRWlNP16J7DABpkrbNNHnz3AdyGTl.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Function-21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a22685f9-7c9f-4527-a13f-dffe1ee3fd02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 47 || Function-22",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pBdElt27HDY",
+      "hd_video_url": "https://www.youtube.com/embed/pBdElt27HDY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kCdvCMozfJ9Qsb0dgqUBVnp4VetXtF6eEiiig6Yw.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Function-22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a976cdc-4f98-4917-9021-71d18e209c81.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 48 || Function-23",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Bn_QCl50Ij8",
+      "hd_video_url": "https://www.youtube.com/embed/Bn_QCl50Ij8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tkkyulEyqObZ0N0i3CpVZVUbF7ByPH9qKShHs9LW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Function-23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a0606a0-c1ba-4e1e-9b64-207829a09619.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 49 || Function-24",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/t-henmpT1VE",
+      "hd_video_url": "https://www.youtube.com/embed/t-henmpT1VE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DqNvqbvU1gltf4dhfrfQdZU5227LHfCyn6ZEsKlp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Function-24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d841b505-59c7-4977-9b94-3e886015bb6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 50 || Function-25",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GE2NnforAQw",
+      "hd_video_url": "https://www.youtube.com/embed/GE2NnforAQw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hbhST2GgwbRgqNAXaC4kayRCD3QfjlblnYJabohd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Function-25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4073c77b-8c99-4ac6-8169-ba11d5aba957.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 51 || Function-26",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/iFjhv52KvlM",
+      "hd_video_url": "https://www.youtube.com/embed/iFjhv52KvlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OdlXjC7tMwitZdMRRQnH8skSFQ2IvXBXWmxU7rsB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Function-26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/117404e2-355a-4707-9d60-c17307ecb303.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 52 || Function-27 ( Test Paper Discussion )",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tqz91SlucSI",
+      "hd_video_url": "https://www.youtube.com/embed/tqz91SlucSI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H0dU2WGichRmc43oaUsrLP6XSRNXkuLkfDok22r3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Function-27 ( Test Paper Discussion )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e846ae7f-fe12-4f6c-9a1c-af75d38ea7db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 53 || Function-28",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/etk0eRFQdEI",
+      "hd_video_url": "https://www.youtube.com/embed/etk0eRFQdEI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0xYJauCLtjVxTEmxLsjLTTN8Kl7sfXgsGQuMuY07.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || Function-28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae5c47cb-8623-4619-8dd6-f4eb8934af21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 54 || Function-29",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RqMk5NJIzOY",
+      "hd_video_url": "https://www.youtube.com/embed/RqMk5NJIzOY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/68FhzeCsEIXOMszV9bGbbeQlXZ0f41MC9sK8yTWp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || Function-29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ff51e6d-996f-4f34-aa89-af8acfed7c02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture - 55 || Function-30",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/4KwiWr9Jy-M",
+      "hd_video_url": "https://www.youtube.com/embed/4KwiWr9Jy-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IwehYlpli2gKdL1SVaSaZb6RLw3VAXAJWC3vZpII.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || Function-30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7295750d-fcf4-4d82-bccf-f04dfabc3c1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture - 56 || Function-31",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/j3ZF31pIvh4",
+      "hd_video_url": "https://www.youtube.com/embed/j3ZF31pIvh4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FXWHlhO7vqEVNCQ9k5gWP0vwK9nCUXkjYA6q5Yxn.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || Function-31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bc53c93-79ec-445f-9b75-94fd7e695073.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture - 57 || Function-32",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CvTZUUrBc-s",
+      "hd_video_url": "https://www.youtube.com/embed/CvTZUUrBc-s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IyOhlinjJ20SJVOI0vJ3DdsQqcLcC38qXT9Kl5AU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || Function-32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29e1753e-79f7-4192-80d7-8a35982c5eb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture - 58 || Function-33",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RoWPCgiW5dg",
+      "hd_video_url": "https://www.youtube.com/embed/RoWPCgiW5dg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eVxK9jB337Mkwfkl0rzM9BC2KgLrULaOcEj4J7IJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 58 || Function-33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53b81172-1961-4c6f-adb4-9a7d7aa0099d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture - 59 || Function-34",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/20mCAdn4h9E",
+      "hd_video_url": "https://www.youtube.com/embed/20mCAdn4h9E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5Gf3VSD2uHKDcIbj1gU3M20fXbDCk5U1gaIQI4ln.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 59 || Function-34",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dc1c375-7b7b-43aa-a817-3712a03a50b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture - 60 ||  Inverse Trigonometric Functions-1",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/NuisPTWG0Wo",
+      "hd_video_url": "https://www.youtube.com/embed/NuisPTWG0Wo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2ywpzhrut3qDmmqEKmxV5iCi4YuNGTfzxsaJXsC7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 60 ||  Inverse Trigonometric Functions-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26db4411-a6ab-44ed-8098-5a6f1ff36ea2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture - 61 ||  Inverse Trigonometric Functions-2",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/n0fSu0DM_1Q",
+      "hd_video_url": "https://www.youtube.com/embed/n0fSu0DM_1Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZYPCwfTos9HteS4jHRrn8QxUYXjFbGOiZQpnGh3q.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 61 ||  Inverse Trigonometric Functions-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad883d34-d522-4e68-90cc-f4d1a62645b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture - 62 ||  Inverse Trigonometric Functions-3",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Uz9o8gds5lo",
+      "hd_video_url": "https://www.youtube.com/embed/Uz9o8gds5lo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nbPGysHupC49LcRI7dUbm6hthjOM0PfRx9n58Fii.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 62 ||  Inverse Trigonometric Functions-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2507efbe-321c-45bf-9892-dc2db4c38f13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture - 63 || Inverse Trigonometric Functions-4",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VUZiKuxdsOI",
+      "hd_video_url": "https://www.youtube.com/embed/VUZiKuxdsOI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/v9uLnyMOuQwln9bh0Jdj4Xs4kdjXY5IeqMfNcye9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 63 || Inverse Trigonometric Functions-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e737458-077b-4814-b1f2-3f670b64f20a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture - 64 || Inverse Trigonometric Functions-5",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kOzsm1ZVJa4",
+      "hd_video_url": "https://www.youtube.com/embed/kOzsm1ZVJa4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Cp1rNCIWPdCcUyHglZW8H04gQreRaFtTmvSRtdvt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 64 || Inverse Trigonometric Functions-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/111697bc-51ee-4e4e-bf72-ddcf03e65b9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture - 65 || Inverse Trigonometric Functions-6",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_NO4utS-AU8",
+      "hd_video_url": "https://www.youtube.com/embed/_NO4utS-AU8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4mynQhhpOrqBZyMr6PFXEQRzaoUpNRJsTEPlZkpA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 65 || Inverse Trigonometric Functions-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43b990e6-d398-4a2e-92ed-3466067ec10d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture - 66 || Inverse Trigonometric Functions-7",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/uvUopTFlLIg",
+      "hd_video_url": "https://www.youtube.com/embed/uvUopTFlLIg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CR0T7S6GDjOA7goGVqh3iCa9Mxu3Z5ooJsQFliAg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 66 || Inverse Trigonometric Functions-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de60756f-a0e1-415f-8120-0359964edf33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture - 67 || Inverse Trigonometric Functions-8",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_DWrMwFfmdQ",
+      "hd_video_url": "https://www.youtube.com/embed/_DWrMwFfmdQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/smr1wxh8SyQkJQ7qhKuGPyJVAyfcoRY9k3MTPJok.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 67 || Inverse Trigonometric Functions-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e13afdd6-1bc1-4f4a-83dc-cf57a7bf9fdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture - 68 || Inverse Trigonometric Functions - 9",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/trKWFOedrn4",
+      "hd_video_url": "https://www.youtube.com/embed/trKWFOedrn4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rQwf0teX1y9scT6NBzN26YantqW6tgbUe5RXUBV6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 68 || Inverse Trigonometric Functions-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8df45a98-3787-4206-9643-6b158150c53d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 72,
+      "title": "Lecture - 69 || Inverse Trigonometric Functions-10",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VSqGwH2Y8uo",
+      "hd_video_url": "https://www.youtube.com/embed/VSqGwH2Y8uo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CzYRcf2oVCCbkgrYRLuGFsXTCZ4tgv8NicmB010b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 69 || Inverse Trigonometric Functions-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a1da8fd-4a5d-410c-b577-146cbd049156.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 73,
+      "title": "Lecture - 70 || Limits-1",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/5SXTMOVXgQM",
+      "hd_video_url": "https://www.youtube.com/embed/5SXTMOVXgQM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9fWwuJ4NYZP5hmjcwWTRBAXKKmSTTQ9DuhSvXo5v.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 70 || Limits-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e943a6a1-29a2-46e2-85d2-db56156c4949.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 74,
+      "title": "Lecture - 71 || Limits-2",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ZO5YnjXskz4",
+      "hd_video_url": "https://www.youtube.com/embed/ZO5YnjXskz4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w0YMbWGLlObFUuPvwNw5yQuTJ6GzS5IS2quOMj4F.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 71 || Limits-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07b19f92-331a-48b1-89e1-7a867cd10f1f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 75,
+      "title": "Lecture - 72 || Limits-3",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/gpbc1prGIfQ",
+      "hd_video_url": "https://www.youtube.com/embed/gpbc1prGIfQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ks9Bduf2VPWrEIyMcqPsH5AGXj1yK2rbqvYpUwgg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 72 || Limits-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e6e1353-620f-485a-a961-eb754463a46a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 76,
+      "title": "Lecture - 73  || Limits-4",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/S7311Ek3RNo",
+      "hd_video_url": "https://www.youtube.com/embed/S7311Ek3RNo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/68HzKHeFRRHbZcNnWrpqrVeITPxuUdjrSVq0vp8d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 73  || Limits-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/603749a8-c01d-461e-81b3-068ec610d175.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 77,
+      "title": "Lecture - 74 || Limits-5",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/7O7jqNSWwkA",
+      "hd_video_url": "https://www.youtube.com/embed/7O7jqNSWwkA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qUPmLyrYWVGyBWkirLA2OaG1lO4NWJd0MKJ67cmk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 74 || Limits-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97feb9a0-6200-4503-b921-e0eab0043d6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 78,
+      "title": "Lecture - 75 || Limits-6",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/nGu-Bzh-NCw",
+      "hd_video_url": "https://www.youtube.com/embed/nGu-Bzh-NCw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/27ciw0go39LyPT6vEj1212BsMuiU3SaVxSBRCU6E.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 75 || Limits-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ea688c7-4213-4a45-bc19-ab99d0a3ba58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 79,
+      "title": "Lecture - 76 || Limits-7",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/v-VcI0_rDyk",
+      "hd_video_url": "https://www.youtube.com/embed/v-VcI0_rDyk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EQWQeipF3AtdnNfbE3oUGOawWXbsIWMpRRkJK5to.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 76 || Limits-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14a4dcca-4ef7-44ba-87f6-77746a35cc85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 80,
+      "title": "Lecture - 77 || Limits-8",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CxfGhFgai7E",
+      "hd_video_url": "https://www.youtube.com/embed/CxfGhFgai7E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EdjyYxvbvsSgJ4kfewfBv9Vlc99ZJkMd45gYaA3i.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 77 || Limits-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbdad4f9-d899-4da4-83bb-824b6ab7f0c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 81,
+      "title": "Lecture - 78 || Limits-9",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E49anD4wviQ",
+      "hd_video_url": "https://www.youtube.com/embed/E49anD4wviQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5wvUCZokyqkmQSdQG3vG9BQ2IIkMYx6hXnEMAG5x.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 78 || Limits-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aae91696-aecb-4039-85a6-a4edebea6c01.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 82,
+      "title": "Lecture - 79 || Limits-10",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/3ATqkZMFhOA",
+      "hd_video_url": "https://www.youtube.com/embed/3ATqkZMFhOA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GOjb1ytdrFbx2FGE2hFOrH8GlNor9g9sI6Cb0vYH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 79 || Limits-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20203fbd-6285-4e3f-92a8-6c989c7fb729.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 83,
+      "title": "Lecture - 80 || Limits-11",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/l1JLkM0vk0o",
+      "hd_video_url": "https://www.youtube.com/embed/l1JLkM0vk0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Yyig6TBlFvNMkSAnZreM2jSoDBDEX8q5inTprJhZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 80 || Limits-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2c6a0a3-6823-492e-abfb-29826a13e17d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 84,
+      "title": "Lecture - 81 || Limits - 12",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fokPzebk7HE",
+      "hd_video_url": "https://www.youtube.com/embed/fokPzebk7HE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FmndoM2yHUAcu7k5mWUXNGrS7aui43RSejKx5iyX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 81 || Limits - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d24b76f7-b184-4be3-bbf8-9da5423ef417.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 85,
+      "title": "Lecture - 82 || Continuity- 1",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/WmpjiwkhQPc",
+      "hd_video_url": "https://www.youtube.com/embed/WmpjiwkhQPc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6IPqbxaABg9C5R8JRU7q99OoX5CJgXtxer7mfel2.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 82 || Continuity- 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3e1f8f6-4608-4833-97f6-e398e555b996.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 86,
+      "title": "Lecture - 83 || Continuity- 2",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/btO3Kk2CKlI",
+      "hd_video_url": "https://www.youtube.com/embed/btO3Kk2CKlI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FGcOVHoSbIVvctokG0bqxFVBCM5nT088Lv0fSULM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 83 || Continuity- 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dafc1ea8-dc5d-447d-b7e9-cc77ada19efe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 87,
+      "title": "Lecture - 84 || Continuity- 3",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/eizX8AMzNWY",
+      "hd_video_url": "https://www.youtube.com/embed/eizX8AMzNWY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/20nkJZFqdcqtzBQRAKvN6i79ibnR1XKUGJjY7Fxo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 84 || Continuity- 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15a70df3-c51f-48d5-9ed4-ba7c19113239.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 88,
+      "title": "Lecture - 85 || Continuity- 4",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-TNRLBjqeGA",
+      "hd_video_url": "https://www.youtube.com/embed/-TNRLBjqeGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gaqdDA8tqU649sI0cjPvzFXn80UYkMIgSrSHsc3G.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 85 || Continuity- 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a8c139e-ea80-44fd-a852-d881fe414a9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 89,
+      "title": "Lecture - 86 || Continuity- 5",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_06ju9IiPc4",
+      "hd_video_url": "https://www.youtube.com/embed/_06ju9IiPc4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LzuLmUqNcyfmiBQpCGaxJtpe2kpjC8JfWxxYetsw.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 86 || Continuity- 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3ece48d-6b35-44a3-ae32-4a0324d414f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 90,
+      "title": "Lecture - 87 || Continuity- 6",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/h1OdprgqCNQ",
+      "hd_video_url": "https://www.youtube.com/embed/h1OdprgqCNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qiKOHoYozlevM9obpSQeWo7xEluwwb4hHGh3bK2u.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 87 || Continuity- 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bb2169a-a10a-4041-a490-e8c3934bdd0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 91,
+      "title": "Lecture - 88 || Continuity- 7",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/4MTU6USdaSg",
+      "hd_video_url": "https://www.youtube.com/embed/4MTU6USdaSg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2blDojHmtfJFwYSN2nMN1j1OhTn8U2wkWW9YSZKH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 88 || Continuity- 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5de8d56e-2b7f-44fd-883f-08cb5a45642f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 92,
+      "title": "Lecture - 89 || Differentiability - 1",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qkvayNExQjc",
+      "hd_video_url": "https://www.youtube.com/embed/qkvayNExQjc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BE2KNXHkbjeMpx0BVBhLiaCICWRvZBy7dkpC0dKn.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 89 || Differentiability - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d13b4d5-bc64-4da6-859c-3978f8eb7c53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 93,
+      "title": "Lecture - 90 || Differentiability - 2",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1mz8fXZQS94",
+      "hd_video_url": "https://www.youtube.com/embed/1mz8fXZQS94",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ihsqLuyWDfmhsq7IlpBUjkb69XBKwyQVJIe6A1HU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 90 || Differentiability - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de26c55e-5195-46d6-809c-3b932e94bce9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 94,
+      "title": "Lecture - 91 || Differentibility-3",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/arSZpftmQxo",
+      "hd_video_url": "https://www.youtube.com/embed/arSZpftmQxo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/81kdjYa1mGrUoq8CPJ4H0q3dPO7AAHqhmfblb80P.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 91 || Differentibility-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0d095ad-9084-4757-997f-821c77255c23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 95,
+      "title": "Lecture - 92 || Differentibility-4",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/vPBBQrV8pEs",
+      "hd_video_url": "https://www.youtube.com/embed/vPBBQrV8pEs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hTUQuE4FXYfPk5TbcHIE1OqkjjQH774her8j0jfY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 92 || Differentibility-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b98f8a4f-524b-4d26-86e6-d5ab73eeb5c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 96,
+      "title": "Lecture - 93 || Differentibility-5",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/V3veRQH3QEU",
+      "hd_video_url": "https://www.youtube.com/embed/V3veRQH3QEU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D4fZGZn5NhlLSA3vlu9VTeO5zsGJg1qLrQ7uslKh.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 93 || Differentibility-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/388ab0ff-f4fb-41ab-b110-8a7dbbffbfdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 97,
+      "title": "Lecture - 94 || Differentibility-6",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/sqBFvGOptRM",
+      "hd_video_url": "https://www.youtube.com/embed/sqBFvGOptRM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mgXSQBL03gzEAfAA5KrlpXYb4YWdgEKYp6dCmwoP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 94 || Differentibility-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ae59554-4f58-4cde-a429-4cbeaf8b666c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 98,
+      "title": "Lecture - 95 || Method of differentiation-01",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ep5dwUps1LA",
+      "hd_video_url": "https://www.youtube.com/embed/ep5dwUps1LA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TphTlPEp1MN8eP3CejezUQYMqiAq4WrM3a5Drp0b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 95 || Method of differentiation-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55f4f8f8-c4ef-461a-a1e7-9b5cb783483b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 99,
+      "title": "Lecture - 96 || Method of differentiation-02",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/p0GAlBAlS9g",
+      "hd_video_url": "https://www.youtube.com/embed/p0GAlBAlS9g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w0Rkew1siafvJ5Kyuus4Q1ykdKKUwR5SEzcTtOXd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 96 || Method of differentiation-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ba32f6e-c6a5-4668-810a-7a5b9c9aa0b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 100,
+      "title": "Lecture - 97 || Method of differentiation-03",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5r40FYEe-jY",
+      "hd_video_url": "https://www.youtube.com/embed/5r40FYEe-jY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NkjHlHXf2psevcA1yQLe02itpVDZnZIIsGFAt42q.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 97 || Method of differentiation-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b02422aa-13b9-4af2-8f77-1a59aa4b97f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 101,
+      "title": "Lecture - 98 || Method of differentiation-04",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/nTaMp8CFx20",
+      "hd_video_url": "https://www.youtube.com/embed/nTaMp8CFx20",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P1xtizRoLpHYXKwZED9dlJJOiRHR4JXKUDm9fboj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 98 || Method of differentiation-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06892bfa-7ee7-446f-9d19-b4c12f854bc3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 102,
+      "title": "Lecture - 99 || Method of differentiation-05",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/DdBNtAweY70",
+      "hd_video_url": "https://www.youtube.com/embed/DdBNtAweY70",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n5J6m53ASWuERBnGsJ2qK7EjtWW0Kc3fMKSNvVrA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 99 || Method of differentiation-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a4735e7-2088-4114-8140-ba4f6c4463e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 103,
+      "title": "Lecture - 100 || Applications of Derivatives -1",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/fixZnYNK_rQ",
+      "hd_video_url": "https://www.youtube.com/embed/fixZnYNK_rQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/M74Kl3phx0XaIbwCCGla6qyIz4IS4nPDBNaGCCRQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 100 || Applications of Derivatives -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0531530-fde1-423b-921f-ef508840ab16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 104,
+      "title": "Lecture - 101 || Applications of Derivatives-2",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cGoEPRCZcUo",
+      "hd_video_url": "https://www.youtube.com/embed/cGoEPRCZcUo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qGIvoTjw8ELKWQfAVxaiNQ7p7U96MrwmeZW8zyFr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 101 || Applications of Derivatives-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75bd2f64-f29c-4f93-bd43-5706797aac4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 105,
+      "title": "Doubt",
+      "published_date": "22 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 106,
+      "title": "Lecture - 102 || Applications of Derivatives-3",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PjXt4YIIA2o",
+      "hd_video_url": "https://www.youtube.com/embed/PjXt4YIIA2o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6yKXWDisbbtbxywZRYOHRTBTlzDUYyNlbaqDi3FV.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 102 || Applications of Derivatives-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d2bdf6f-1cde-4160-8795-8785b95829d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 107,
+      "title": "Lecture - 103 || Applications of Derivatives-4",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cNfFiivvH9k",
+      "hd_video_url": "https://www.youtube.com/embed/cNfFiivvH9k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3ed4mA8s7vEp1lN8qBamr60i2pf8l4qyCIK1uF2L.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 103 || Applications of Derivatives-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b226dc12-ba1e-408c-a305-cafcbf55c07a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 108,
+      "title": "Lecture - 104 || Applications of Derivatives-5",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LzzifmgftnM",
+      "hd_video_url": "https://www.youtube.com/embed/LzzifmgftnM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LRXLD5jIRXZJyVGPMjsVNHDShjFeCMFn2l395vxd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 104 || Applications of Derivatives-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc3b5365-bd31-4c80-9538-bc16ce401dd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 109,
+      "title": "Lecture - 105 || Applications of Derivatives-6",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Wf_3AvD8MdU",
+      "hd_video_url": "https://www.youtube.com/embed/Wf_3AvD8MdU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KSOR7jIvDsej6QapE5DPykKTjYAbPRWsrFrYrgiW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 105 || Applications of Derivatives-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a320d643-a152-4828-81e4-e6942c2d3d59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 110,
+      "title": "Lecture - 106 || Applications of Derivatives-7",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/4OgYCqV48e4",
+      "hd_video_url": "https://www.youtube.com/embed/4OgYCqV48e4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Bf0BDpAeeJ5xAk4QPo7q41EVaOl4Mmh98zaesT5e.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 106 || Applications of Derivatives-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33bc12b8-4dbc-4f91-8828-c9ba9beed6f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 111,
+      "title": "Lecture - 107 || Applications of Derivatives-8",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/6NwQ2icT0D0",
+      "hd_video_url": "https://www.youtube.com/embed/6NwQ2icT0D0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gIR33bzLgrsuxMV56BIpihYpQWjVQgmuLWcOvn7H.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 107 || Applications of Derivatives-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6980a8a6-ca31-4fec-9d1f-30ce3e84de97.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

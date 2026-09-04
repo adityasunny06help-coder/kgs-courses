@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "NCERT Foundation English Medium",
+    "price": "1499",
+    "id": "545",
+    "extracted_date": "2025-08-27T14:36:24.386889"
+  },
+  "subjects": [
+    {
+      "name": "Polity by Gautam Sir",
+      "id": 5033,
+      "video_count": 16,
+      "note_count": 15
+    },
+    {
+      "name": "History by K. Shivesh Sir",
+      "id": 5303,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Environment & Ecology by Rajvardhan Sir",
+      "id": 6071,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "General Science by Rajvardhan Sir",
+      "id": 6330,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "Indian Economy by Shubham Sharma Sir",
+      "id": 6624,
+      "video_count": 11,
+      "note_count": 10
+    }
+  ]
+}

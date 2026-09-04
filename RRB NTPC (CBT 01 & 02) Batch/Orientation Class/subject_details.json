@@ -1,0 +1,37 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 3539,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class By Khan Sir and Team",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/sG4XwaoIM18",
+      "hd_video_url": "https://www.youtube.com/embed/sG4XwaoIM18",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Orientation Class By Khan Sir and Team",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad5d19b4-52cb-4f45-959d-ea3686a31903.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Introduction Class By Kgs Team",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/4ypPTk9BC_k",
+      "hd_video_url": "https://www.youtube.com/embed/4ypPTk9BC_k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ev7b3eNsDZyziFPunww6w418TYAmJrIC0wobmyzQ.jpg",
+      "notes": [
+        {
+          "title": "Introduction Class By Kgs Team",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb8343d2-b391-4c7d-a9ac-3188bada138f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,100 @@
+{
+  "batch_info": {
+    "title": "UPPSC-2024 Prelims Practice Batch (UPPSC & RO/ARO)",
+    "price": "999",
+    "id": "256",
+    "extracted_date": "2025-08-27T16:51:48.909940"
+  },
+  "subjects": [
+    {
+      "name": "Computer by Anjali Ma'am",
+      "id": 2815,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "Math by Amit Sir",
+      "id": 2952,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Reasoning by Shantanu Sir",
+      "id": 3210,
+      "video_count": 13,
+      "note_count": 13
+    },
+    {
+      "name": "Interpersonal Skill & Communication by Shantanu Sir",
+      "id": 3335,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Hindi by Jitendra Sir",
+      "id": 3707,
+      "video_count": 27,
+      "note_count": 29
+    },
+    {
+      "name": "English by Ashutosh Sir",
+      "id": 3763,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Current Affairs by Shivam Sir",
+      "id": 4468,
+      "video_count": 29,
+      "note_count": 28
+    },
+    {
+      "name": "History by Manju Sir",
+      "id": 1894,
+      "video_count": 44,
+      "note_count": 41
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 1895,
+      "video_count": 45,
+      "note_count": 44
+    },
+    {
+      "name": "Science by Sumit Sir",
+      "id": 1896,
+      "video_count": 33,
+      "note_count": 32
+    },
+    {
+      "name": "UP Special by Abhishek Sir",
+      "id": 1981,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "Current Affairs by Jeet Sir",
+      "id": 2130,
+      "video_count": 15,
+      "note_count": 18
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 2398,
+      "video_count": 18,
+      "note_count": 17
+    },
+    {
+      "name": "Geography Mapping By Shubham Gupta Sir",
+      "id": 2462,
+      "video_count": 7,
+      "note_count": 6
+    },
+    {
+      "name": "Economics by Suchit Sir",
+      "id": 2610,
+      "video_count": 18,
+      "note_count": 18
+    }
+  ]
+}

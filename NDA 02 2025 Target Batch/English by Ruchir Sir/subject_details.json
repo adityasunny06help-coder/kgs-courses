@@ -1,0 +1,74 @@
+{
+  "subject_name": "English by Ruchir Sir",
+  "subject_id": 8361,
+  "video_count": 5,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Verb Agreement",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/toORfgUK8iQ",
+      "hd_video_url": "https://www.youtube.com/embed/toORfgUK8iQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/m27PYwTHTLBnxw8MgxmH2TiuWWNxBVPKg7u6Jk22.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Verb Agreement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b75b01cd-15ff-4359-b711-3e3a9006a65d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Verb Agreement",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/T-rZGgFxC0k",
+      "hd_video_url": "https://www.youtube.com/embed/T-rZGgFxC0k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H3NdiIzVBZb5ccYp5xyRs5tmL7tjoG2YKif8Kxht.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Verb Agreement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecd4704c-078d-426f-a060-f7f2e60907f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Verb Agreement",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/tM2KlW4iSXc",
+      "hd_video_url": "https://www.youtube.com/embed/tM2KlW4iSXc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KfjptFzJy9wxjnWU4iIXfhTWrDlv6BgkxheuPam4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Verb Agreement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dd80982-cb3b-4dda-8dcb-606a902641c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Verb Agreement",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/j-D94wCU2Ho",
+      "hd_video_url": "https://www.youtube.com/embed/j-D94wCU2Ho",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Pd2BPkcer0DHmBphSX4LHUIQmjmCMUf5EBTWgbfb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Verb Agreement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/096b4723-a8fc-4695-b44f-6bdef9545569.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Verb Agreement",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O4JdvMcL7OTFHo4aqpFrSYUxEHOsiMrqGeSjlAs1.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

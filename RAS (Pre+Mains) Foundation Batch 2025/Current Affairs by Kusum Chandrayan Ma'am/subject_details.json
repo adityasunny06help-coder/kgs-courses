@@ -1,0 +1,78 @@
+{
+  "subject_name": "Current Affairs by Kusum Chandrayan Ma'am",
+  "subject_id": 4971,
+  "video_count": 6,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Economics Review || अर्थशास्त्र समीक्षा",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/183694/kgss-1737631331-v183694.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QyUjH3epp9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QxaRoPBc3BBDbzkykOgs8jHn1mXS1wpQNEwWNzSM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Basic Social Services Education & Health || बुनियादी सामाजिक सेवाएँ शिक्षा एवं स्वास्थ्य",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/183741/kgss-1737711456-v183741.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D-VOMq196lo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZRzi6XogcukJ6AWCpby5odF0vR9m5yKb2MsGpWqs.jpg",
+      "notes": [
+        {
+          "title": "Basic Social Services Education & Health",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08d3d292-306f-4be0-b830-506290e1cb58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Other Social Services || अन्य सामाजिक सेवाएं",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/184609/kgss-1737800794-v184609.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Y6mdKkuswwg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/djm8JNdoQDBbTz1jSG6KqVs9cipJxGcZSoe1XGso.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Agriculture Allied Sectors || कृषि संबद्ध क्षेत्र",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185078/kgss-1737969816-v185078.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RtepcNLdmWQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/z8KJEpHLLj0A5qxRzMSZDdmnX1pXDgE3U5dSsX0D.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Agriculture Allied Sectors || कृषि संबद्ध क्षेत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11e6652b-1e0d-4388-9c7e-a6af1ab6df8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Development in Heritage in Tourism Department || पर्यटन विभाग में विरासत में विकास",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185356/kgss-1738057561-v185356.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X9DrI5Dktk8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TJjIRpTJz7W0imbImgIyumy3HU4UCEf1GuKtDhi8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Current Affairs by Kusum Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d079cec-22fb-4068-9f0b-7f33d82ac05e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Economics Review || आर्थिक समीक्षा (23-2024)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185950/kgss-1738146364-v185950.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oosA8giJTDs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xacBs0T7TYRqtE0RwZPiQqwQ7Rvr6cQmVgs3wtNu.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

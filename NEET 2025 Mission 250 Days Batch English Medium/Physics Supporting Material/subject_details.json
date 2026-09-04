@@ -1,0 +1,568 @@
+{
+  "subject_name": "Physics Supporting Material",
+  "subject_id": 3110,
+  "video_count": 41,
+  "note_count": 38,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Mathematical Tools & Vector (Practice Section) Part 1 - VIDEO SOLUTION -1",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/91ml6DUnFN8",
+      "hd_video_url": "https://www.youtube.com/embed/91ml6DUnFN8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Mathematical Tools & Vector (Practice Section) Part 1 - VIDEO SOLUTION -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4b76420-5fd3-4cfa-966d-03320b27939f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Mathematical Tools & Vector (Practice Section) Part 2 - VIDEO SOLUTION -2",
+      "published_date": "13 Aug 2024",
+      "video_url": "www.youtube.com/embed/iVhoW1VMrwk",
+      "hd_video_url": "www.youtube.com/embed/iVhoW1VMrwk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Mathematical Tools & Vector (Practice Section) Part 2 - VIDEO SOLUTION -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dac3622-e9a8-45a2-819a-c7a4c8b50854.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Kinematics (Practice Section) Part 1 VIDEO SOLUTION -3",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/B4VFa8t7JlQ",
+      "hd_video_url": "https://www.youtube.com/embed/B4VFa8t7JlQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 1 VIDEO SOLUTION -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef7798e2-73a0-41b2-a351-4de5cb6921c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Kinematics (Practice Section) Part 2 VIDEO SOLUTION - 4",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/nwC5hkcw4K0",
+      "hd_video_url": "https://www.youtube.com/embed/nwC5hkcw4K0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 2 VIDEO SOLUTION - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9885c2ea-b1f6-4cd2-b728-5a032a4e2f78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Kinematics (Practice Section) Part 3 VIDEO SOLUTION - 5",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Yd0gbx00HdE",
+      "hd_video_url": "https://www.youtube.com/embed/Yd0gbx00HdE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 3 VIDEO SOLUTION - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/314dadb4-7c3b-4c4b-8b6c-24989c9c4c70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Kinematics (Practice Section) Part 4 VIDEO SOLUTION - 6",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/mHG-e7lWKMM",
+      "hd_video_url": "https://www.youtube.com/embed/mHG-e7lWKMM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 4 VIDEO SOLUTION - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef40cf72-2949-4d1a-9de1-29f2b91f0a93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Kinematics (Practice Section) Part 5 VIDEO SOLUTION - 7",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/6NVjat5_Lo4",
+      "hd_video_url": "https://www.youtube.com/embed/6NVjat5_Lo4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 5 VIDEO SOLUTION - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b912e66a-3be8-44b7-815c-7ac22603aa90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Kinematics (Practice Section) Part 6 VIDEO SOLUTION - 8",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/dshgFkB7QXI",
+      "hd_video_url": "https://www.youtube.com/embed/dshgFkB7QXI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Kinematics (Practice Section) Part 6 VIDEO SOLUTION - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e08b02d-1095-4f02-8198-6cfa0e7a86c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Newton's Law of Motion & Friction (Practice Section) Part 1 VIDEO SOLUTION - 9",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Tig4HPmHMZw",
+      "hd_video_url": "https://www.youtube.com/embed/Tig4HPmHMZw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Newton's Law of Motion & Friction (Practice Section) Part 1 VIDEO SOLUTION - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b19f8fa7-ac84-4637-b5d8-6b30dedf73bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Newton's Law of Motion & Friction (Practice Section) Part 2 VIDEO SOLUTION - 10",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/M0CVCOER9A0",
+      "hd_video_url": "https://www.youtube.com/embed/M0CVCOER9A0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Newton's Law of Motion & Friction (Practice Section) Part 2 VIDEO SOLUTION - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ea42fca-6dfd-4f86-a29a-0cdaef333d1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Newton's Law of Motion & Friction (Practice Section) Part 3 VIDEO SOLUTION - 11",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5vXxJ-IhpDg",
+      "hd_video_url": "https://www.youtube.com/embed/5vXxJ-IhpDg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Newton's Law of Motion & Friction (Practice Section) Part 3 VIDEO SOLUTION - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8312fe1-06ac-4218-989b-f7823c53870e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Newton's Law of Motion & Friction (Practice Section) Part 4 VIDEO SOLUTION - 12",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/IecJrWCWWP0",
+      "hd_video_url": "https://www.youtube.com/embed/IecJrWCWWP0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Newton's Law of Motion & Friction (Practice Section) Part 4 VIDEO SOLUTION - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae5011c1-9e08-44df-9ed8-d0615fda4260.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Newton's Law of Motion & Friction (Practice Section) Part 5 VIDEO SOLUTION - 13",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/K8SzODXCbtA",
+      "hd_video_url": "https://www.youtube.com/embed/K8SzODXCbtA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Newton's Law of Motion & Friction (Practice Section) Part 5 VIDEO SOLUTION - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1956a2b6-b678-472a-bf5b-73ba04d77b86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Work Power Energy (Practice Section) Part 1 VIDEO SOLUTION - 14",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/bjJzJtpErNU",
+      "hd_video_url": "https://www.youtube.com/embed/bjJzJtpErNU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Work Power Energy (Practice Section) Part 1 VIDEO SOLUTION - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf3c322f-374b-47f2-8f76-9c1fcfd10d0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Work Power Energy (Practice Section) Part 2 VIDEO SOLUTION - 15",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/VT60x_hIt9Y",
+      "hd_video_url": "https://www.youtube.com/embed/VT60x_hIt9Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Work Power Energy (Practice Section) Part 2 VIDEO SOLUTION - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d581a0b3-7833-4a3f-aafa-664494a44ff2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Work Power Energy (Practice Section) Part 3 VIDEO SOLUTION - 16",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JJjfuGJm9PY",
+      "hd_video_url": "https://www.youtube.com/embed/JJjfuGJm9PY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Work Power Energy (Practice Section) Part 3 VIDEO SOLUTION - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e74b578d-1933-474e-acc5-b408269398d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Motion of System of Particle and COM (Practice Section) Part 1 VIDEO SOLUTION - 17",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/uH6kAqdUjCs",
+      "hd_video_url": "https://www.youtube.com/embed/uH6kAqdUjCs",
+      "thumbnail": "https://i.ytimg.com/vi/uH6kAqdUjCs/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Motion of System of Particle and COM (Practice Section) Part 1 VIDEO SOLUTION - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0a795fe-ed2d-4974-ab35-5defd057461c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Motion of System of Particle and COM (Practice Section) Part 2 VIDEO SOLUTION - 18",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/2E228VSWHxw",
+      "hd_video_url": "https://www.youtube.com/embed/2E228VSWHxw",
+      "thumbnail": "https://i.ytimg.com/vi/2E228VSWHxw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Motion of System of Particle and COM (Practice Section) Part 2 VIDEO SOLUTION - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e01abfd3-d901-4038-ae48-4c203cc63fee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Rotational Motion (Practice Section) (Practice Section) Part 1 VIDEO SOLUTION - 19",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Riyrb_rbanI",
+      "hd_video_url": "https://www.youtube.com/embed/Riyrb_rbanI",
+      "thumbnail": "https://i.ytimg.com/vi/Riyrb_rbanI/default.jpg",
+      "notes": [
+        {
+          "title": "Rotational Motion (Practice Section) (Practice Section) Part 1 VIDEO SOLUTION - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c49bef5f-db44-4acc-8aab-f5775bd3ca79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Rotational Motion (Practice Section) (Practice Section) Part 2 VIDEO SOLUTION - 20",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/K6K7d08JQX0",
+      "hd_video_url": "https://www.youtube.com/embed/K6K7d08JQX0",
+      "thumbnail": "https://i.ytimg.com/vi/K6K7d08JQX0/default.jpg",
+      "notes": [
+        {
+          "title": "Rotational Motion (Practice Section) (Practice Section) Part 2 VIDEO SOLUTION - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c35f5cf4-06ee-4eed-8cbc-54ef4bf7d3ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Rotational Motion (Practice Section) (Practice Section) Part 3 VIDEO SOLUTION - 21",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9iTW25XOlIQ",
+      "hd_video_url": "https://www.youtube.com/embed/9iTW25XOlIQ",
+      "thumbnail": "https://i.ytimg.com/vi/9iTW25XOlIQ/default.jpg",
+      "notes": [
+        {
+          "title": "Rotational Motion (Practice Section) (Practice Section) Part 3 VIDEO SOLUTION - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4340a79-a1a7-4c21-b89d-f273d07414ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Gravitation (Practice Section) Part 1 VIDEO SOLUTION - 22",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/JgTDOHRHwSA",
+      "hd_video_url": "https://www.youtube.com/embed/JgTDOHRHwSA",
+      "thumbnail": "https://i.ytimg.com/vi/JgTDOHRHwSA/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Gravitation (Practice Section) Part 2 VIDEO SOLUTION - 23",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/NVFQTpWNJjs",
+      "hd_video_url": "https://www.youtube.com/embed/NVFQTpWNJjs",
+      "thumbnail": "https://i.ytimg.com/vi/NVFQTpWNJjs/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Gravitation (Practice Section) Part 3 VIDEO SOLUTION - 24",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WZqZXuDyYHw",
+      "hd_video_url": "https://www.youtube.com/embed/WZqZXuDyYHw",
+      "thumbnail": "https://i.ytimg.com/vi/WZqZXuDyYHw/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 1 - VIDEO SOLUTION - 25",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/h80UmroUFWU",
+      "hd_video_url": "https://www.youtube.com/embed/h80UmroUFWU",
+      "thumbnail": "https://i.ytimg.com/vi/h80UmroUFWU/default.jpg",
+      "notes": [
+        {
+          "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 1 - VIDEO SOLUTION - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64bf117c-fc0b-4036-836b-917f6a5b1b54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 2 - VIDEO SOLUTION - 26",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Do1ODmCvkd4",
+      "hd_video_url": "https://www.youtube.com/embed/Do1ODmCvkd4",
+      "thumbnail": "https://i.ytimg.com/vi/Do1ODmCvkd4/default.jpg",
+      "notes": [
+        {
+          "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 2 - VIDEO SOLUTION - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be7e876b-ec83-4e75-97d2-362c848edbe3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 3 - VIDEO SOLUTION - 27",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ukIQD8LJSCs",
+      "hd_video_url": "https://www.youtube.com/embed/ukIQD8LJSCs",
+      "thumbnail": "https://i.ytimg.com/vi/ukIQD8LJSCs/default.jpg",
+      "notes": [
+        {
+          "title": "Electric Charges and Fields and Electric Capacitance (Practice Section)Part 3 - VIDEO SOLUTION - 27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec53e5c7-01f5-4f33-8531-44258502d9a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Electric Capacitance (Practice Section) Part 1 -VIDEO SOLUTION - 28",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/MmP2szeY2Jo",
+      "hd_video_url": "https://www.youtube.com/embed/MmP2szeY2Jo",
+      "thumbnail": "https://i.ytimg.com/vi/MmP2szeY2Jo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Electric Capacitance (Practice Section) Part 1 -VIDEO SOLUTION - 28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6416e849-9024-4cc0-bab1-ac62feaaad99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Electric Capacitance (Practice Section) Part 2 -VIDEO SOLUTION - 29",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qa7Tqc1IB34",
+      "hd_video_url": "https://www.youtube.com/embed/qa7Tqc1IB34",
+      "thumbnail": "https://i.ytimg.com/vi/qa7Tqc1IB34/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Electric Capacitance (Practice Section) Part 2 -VIDEO SOLUTION - 29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5047b698-aab1-4c5f-9847-cbbcdf98f2b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Current Electricity (Practice Section) Part 1 -VIDEO SOLUTION - 30",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/E_GZcAZMvjQ",
+      "hd_video_url": "https://www.youtube.com/embed/E_GZcAZMvjQ",
+      "thumbnail": "https://i.ytimg.com/vi/E_GZcAZMvjQ/default.jpg",
+      "notes": [
+        {
+          "title": "Current Electricity (Practice Section) Part 1 -VIDEO SOLUTION - 30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f47710d-0567-4565-aa3e-aa87efdb8e2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Current Electricity (Practice Section) Part 2 -VIDEO SOLUTION - 31",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_ByhJKVf-go",
+      "hd_video_url": "https://www.youtube.com/embed/_ByhJKVf-go",
+      "thumbnail": "https://i.ytimg.com/vi/_ByhJKVf-go/default.jpg",
+      "notes": [
+        {
+          "title": "Current Electricity (Practice Section) Part 2 -VIDEO SOLUTION - 31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/050cc15c-5c1b-406d-b8fc-8ed689968220.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Current Electricity (Practice Section) Part 3-VIDEO SOLUTION - 32",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/PgJt5pJ3sSk",
+      "hd_video_url": "https://www.youtube.com/embed/PgJt5pJ3sSk",
+      "thumbnail": "https://i.ytimg.com/vi/PgJt5pJ3sSk/default.jpg",
+      "notes": [
+        {
+          "title": "Current Electricity (Practice Section) Part 3-VIDEO SOLUTION - 32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26dbce5c-efc0-4f97-beab-dd9d94d9c9c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Moving Charges and Magnetism (Practice Section) Part 1 -VIDEO SOLUTION - 33",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/n8aFSa07WcI",
+      "hd_video_url": "https://www.youtube.com/embed/n8aFSa07WcI",
+      "thumbnail": "https://i.ytimg.com/vi/n8aFSa07WcI/default.jpg",
+      "notes": [
+        {
+          "title": "Moving Charges and Magnetism (Practice Section) Part 1 -VIDEO SOLUTION - 33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abbbcb4b-52dd-4abd-b9e9-e7f2252f096b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Moving Charges and Magnetism (Practice Section) Part 2 -VIDEO SOLUTION - 34",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/GJuMeG7wD98",
+      "hd_video_url": "https://www.youtube.com/embed/GJuMeG7wD98",
+      "thumbnail": "https://i.ytimg.com/vi/GJuMeG7wD98/default.jpg",
+      "notes": [
+        {
+          "title": "Moving Charges and Magnetism (Practice Section) Part 2 -VIDEO SOLUTION - 34",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb04f18e-7000-4137-b119-1a4c0376ad7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Moving Charges and Magnetism (Practice Section) Part 3 -VIDEO SOLUTION - 35",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/0COER981ueA",
+      "hd_video_url": "https://www.youtube.com/embed/0COER981ueA",
+      "thumbnail": "https://i.ytimg.com/vi/0COER981ueA/default.jpg",
+      "notes": [
+        {
+          "title": "Moving Charges and Magnetism (Practice Section) Part 3 -VIDEO SOLUTION - 35",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21782b64-bbca-4843-8105-3b6a165b1563.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Moving Charges and Magnetism (Practice Section) Part 4 -VIDEO SOLUTION - 36",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bbIvPNr37tg",
+      "hd_video_url": "https://www.youtube.com/embed/bbIvPNr37tg",
+      "thumbnail": "https://i.ytimg.com/vi/bbIvPNr37tg/default.jpg",
+      "notes": [
+        {
+          "title": "Moving Charges and Magnetism (Practice Section) Part 4 -VIDEO SOLUTION - 36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fce88705-8128-43b3-bc95-a8db2329004d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Magnetism and Matter(Practice Section) Part 1 -VIDEO SOLUTION - 37",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/DITmgSGdJ6w",
+      "hd_video_url": "https://www.youtube.com/embed/DITmgSGdJ6w",
+      "thumbnail": "https://i.ytimg.com/vi/DITmgSGdJ6w/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Magnetism and Matter(Practice Section) Part 1 -VIDEO SOLUTION - 37",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/beeb071c-1d08-4fd2-bd35-744bbbbb06ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Magnetism and Matter(Practice Section) Part 2 -VIDEO SOLUTION - 38",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/pTA579_Vg6g",
+      "hd_video_url": "https://www.youtube.com/embed/pTA579_Vg6g",
+      "thumbnail": "https://i.ytimg.com/vi/pTA579_Vg6g/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Magnetism and Matter(Practice Section) Part 2 -VIDEO SOLUTION - 38",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f81ff52-ed5e-4cd0-a3ef-4cf3af71e225.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Electromagnetic Induction (Practice Section) Part 1 -VIDEO SOLUTION - 39",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/E-fwMX7EQfo",
+      "hd_video_url": "https://www.youtube.com/embed/E-fwMX7EQfo",
+      "thumbnail": "https://i.ytimg.com/vi/E-fwMX7EQfo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Electromagnetic Induction (Practice Section) Part 1 -VIDEO SOLUTION - 39",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f50a64e4-ba7a-4ef5-a7b8-209458a5c4eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Electromagnetic Induction (Practice Section) Part 2 -VIDEO SOLUTION - 40",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/H9GddDC3cCs",
+      "hd_video_url": "https://www.youtube.com/embed/H9GddDC3cCs",
+      "thumbnail": "https://i.ytimg.com/vi/H9GddDC3cCs/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Electromagnetic Induction (Practice Section) Part 2 -VIDEO SOLUTION - 40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18dcb0cc-a2fb-4f9b-93b2-23036824723d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Electromagnetic Induction (Practice Section) Part 3 -VIDEO SOLUTION - 41",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/eXRleax4xi8",
+      "hd_video_url": "https://www.youtube.com/embed/eXRleax4xi8",
+      "thumbnail": "https://i.ytimg.com/vi/eXRleax4xi8/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Electromagnetic Induction (Practice Section) Part 3 -VIDEO SOLUTION - 41",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf7c1efc-d4d5-4a4b-a907-23f6acdc2d65.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

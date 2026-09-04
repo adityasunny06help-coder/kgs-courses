@@ -1,0 +1,503 @@
+{
+  "subject_name": "Physics by Shubhankar Sir",
+  "subject_id": 2310,
+  "video_count": 36,
+  "note_count": 34,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientaition Class",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/wh2XLxUDoV8",
+      "hd_video_url": "https://www.youtube.com/embed/wh2XLxUDoV8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 04 || Application Of Dimension",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/6wKVTTtkf6U",
+      "hd_video_url": "https://www.youtube.com/embed/6wKVTTtkf6U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Application Of Dimension",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7d5e6413-a998-40b3-915a-f3ab866abc97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 05 || Physics Error",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/0MzL0NRvRM0",
+      "hd_video_url": "https://www.youtube.com/embed/0MzL0NRvRM0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 05 || Physics Error",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9a5acda8-4b7b-4a8d-a606-77affbb66588.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 06 || Unit And Measurement",
+      "published_date": "10 May 2024",
+      "video_url": "https://www.youtube.com/embed/m2bw1zAsES8",
+      "hd_video_url": "https://www.youtube.com/embed/m2bw1zAsES8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Unit And Measurement",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/845fda42-7a0f-4901-ae1a-4ecd35719bcd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 07 || MOTION IN A STRAIGHT LINE",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/IJN-FW7BcB0",
+      "hd_video_url": "https://www.youtube.com/embed/IJN-FW7BcB0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || MOTION IN A STRAIGHT LINE",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/77e00c1c-d15c-46c0-b3e1-1c329c1e54a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 08 || MOTION IN A STRAIGHT LINE",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/K5YVuvbDSCI",
+      "hd_video_url": "https://www.youtube.com/embed/K5YVuvbDSCI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 08 || MOTION IN A STRAIGHT LINE",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/65effc2c-fd1e-451b-b841-59cfcc633831.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 09 || Vector 01",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/jqpD4dkPnUI",
+      "hd_video_url": "https://www.youtube.com/embed/jqpD4dkPnUI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 09 || Vector 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/faf96894-09c5-4118-9a50-e3e1c00cfa29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 10 || Vector 02",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/z_nbeQViDps",
+      "hd_video_url": "https://www.youtube.com/embed/z_nbeQViDps",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 11 || Projectile And circular Motion",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/7K3z2xKRym4",
+      "hd_video_url": "https://www.youtube.com/embed/7K3z2xKRym4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || Projectile And circular Motion",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/acbca5f0-d2e5-403e-9b96-137bd8e6d426.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 12 || Practice set 01",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/pCm4AAdnHMQ",
+      "hd_video_url": "https://www.youtube.com/embed/pCm4AAdnHMQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || Practice set 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4dccb1c6-fe15-4e3f-bea1-eed167d53c0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 13 || Newton law of motion",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/kxtv92C_vT4",
+      "hd_video_url": "https://www.youtube.com/embed/kxtv92C_vT4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || Newton law of motion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91681379-549e-458d-a3f5-d70a9fa4b68f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 14 || Newtons law of motion",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/YaSmQuTTiQY",
+      "hd_video_url": "https://www.youtube.com/embed/YaSmQuTTiQY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || Newtons law of motion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8075285b-8ede-4ff0-a112-6caca18cc0e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 15 || Newtons law of motion",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/iUC1bclciYM",
+      "hd_video_url": "https://www.youtube.com/embed/iUC1bclciYM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || Newtons law of motion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01243e09-39e0-436b-9ca9-09674f776ed9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 16 || Work power energy",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/RAJuBSaZXig",
+      "hd_video_url": "https://www.youtube.com/embed/RAJuBSaZXig",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || Work power energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a84416f-e66c-427e-a63a-ea5661eff4a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 17 || Heat",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/mhJoCMqZFS8",
+      "hd_video_url": "https://www.youtube.com/embed/mhJoCMqZFS8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || Heat",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47c448d9-7eca-48b2-8845-184d5465a352.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 18 || Heat",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/VMd24PDcEFY",
+      "hd_video_url": "https://www.youtube.com/embed/VMd24PDcEFY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 18 || Heat",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55a7765b-24de-494c-bf29-9586ccd3ef42.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 19 || Waves",
+      "published_date": "22 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/lRQUB6Ou5dw",
+      "hd_video_url": "https://www.youtube.com/embed/lRQUB6Ou5dw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || Waves",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43533d80-8d08-406e-8247-72036951b736.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 20 || Heat and Thermodynamics",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/KxBLI6_x3x0",
+      "hd_video_url": "https://www.youtube.com/embed/KxBLI6_x3x0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || Heat and Thermodynamics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0a524c2-0735-4874-b075-24f8991b05ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 21 || Electricity",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Qdcvq6DSnvM",
+      "hd_video_url": "https://www.youtube.com/embed/Qdcvq6DSnvM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || Electricity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d98157f6-17f6-482f-b169-ee461efe3f6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 23 || Magnetism",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kUEV7sgvcCg",
+      "hd_video_url": "https://www.youtube.com/embed/kUEV7sgvcCg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || Magnetism",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccd71230-d51b-405d-88ff-e4a9853de17c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 24 || Optics",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/cweAyvg0laE",
+      "hd_video_url": "https://www.youtube.com/embed/cweAyvg0laE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Optics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8b4df5c-7f2a-4d50-829b-d0d3f3e0d0da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 25 || Optics",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/j98AYuQSmeM",
+      "hd_video_url": "https://www.youtube.com/embed/j98AYuQSmeM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Optics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d91601b7-577e-4f4c-a22b-ad366a074cff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 26 || Optics",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/GW_0mVJgm5s",
+      "hd_video_url": "https://www.youtube.com/embed/GW_0mVJgm5s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Optics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d26c8005-bdfb-4c16-b8c2-abb0b39d3950.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 27 || Optics Numerical",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/_9Xyv8-6swI",
+      "hd_video_url": "https://www.youtube.com/embed/_9Xyv8-6swI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Optics Numerical",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a124de0e-5379-4269-826a-b41e28ea0c33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 28 || Human Eye",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/YDeNv66o5FM",
+      "hd_video_url": "https://www.youtube.com/embed/YDeNv66o5FM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 28 || Human Eye",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a55dc9ae-2326-4c49-afa7-92158df94206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 29 || Microscope and Telescope",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/sfX9PfqithA",
+      "hd_video_url": "https://www.youtube.com/embed/sfX9PfqithA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 29 || Microscope and Telescope",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71de1cb2-1984-42db-979a-02872c263fc2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 30 || Modern Physics",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/oAyKKTi4Pwo",
+      "hd_video_url": "https://www.youtube.com/embed/oAyKKTi4Pwo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 30 || Modern Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c335a52-1b72-45bf-b3ce-1446871c84b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 31 || Semiconductor",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/c41gnc8YXH4",
+      "hd_video_url": "https://www.youtube.com/embed/c41gnc8YXH4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 31 || Semiconductor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/270af187-d33b-4a7c-9724-ff6e94d1da95.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 32 || Fluids",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/sucPJZV4BBQ",
+      "hd_video_url": "https://www.youtube.com/embed/sucPJZV4BBQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 32 || Fluids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de6cb86f-8712-4a81-8959-ccc40cd9c0db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 33 || Fluids",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kwMnoOIQHUU",
+      "hd_video_url": "https://www.youtube.com/embed/kwMnoOIQHUU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 33 || Fluids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c243a602-a1af-4150-8fab-23b92b15b0c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 34 || SYLLABUS DISCUSSION",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/JW4M8v8CyNQ",
+      "hd_video_url": "https://www.youtube.com/embed/JW4M8v8CyNQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 34 || SYLLABUS DISCUSSION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2eb18cb5-a313-4198-ade9-83f59abe4d5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 35 || Fluids",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/63J0et53nzo",
+      "hd_video_url": "https://www.youtube.com/embed/63J0et53nzo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 35 || Fluids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c654016-c518-4b54-9e9a-e71d0fcb655d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 36 || Rotation",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/YLoJamx6kWQ",
+      "hd_video_url": "https://www.youtube.com/embed/YLoJamx6kWQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 36 || Rotation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7294267c-5ae0-456b-87e6-810fb493e5a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 37 || Practice Session",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ZxofbJfYTgE",
+      "hd_video_url": "https://www.youtube.com/embed/ZxofbJfYTgE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 37 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffa8b524-9dbb-4624-9389-b6e03cfb5cc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 38 || Practice Session",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/TqGeAKUM9_M",
+      "hd_video_url": "https://www.youtube.com/embed/TqGeAKUM9_M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 38 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa8f4085-158e-4f70-af64-30da82c8c2a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 39 || Miscellaneous Topic",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/zSpncbj1WNg",
+      "hd_video_url": "https://www.youtube.com/embed/zSpncbj1WNg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 39 || Miscellaneous Topic",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa73d128-6188-49a2-a4d9-0822b1dd1f57.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

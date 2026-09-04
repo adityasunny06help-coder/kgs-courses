@@ -1,0 +1,79 @@
+{
+  "subject_name": "Vedic Maths",
+  "subject_id": 6638,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Vedic Maths (Part 1)",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/jez8KZ2lP8U",
+      "hd_video_url": "https://www.youtube.com/embed/jez8KZ2lP8U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yUFouWsUJUAmuYLUOTMQSEiTPvLkT9uOBbBhA81I.jpg",
+      "notes": [
+        {
+          "title": "Vedic Maths (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb7311f2-b79b-4f5b-928a-57f04e865b8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 05 || Vedic Maths (Part 5)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/lyzjw0QiShw",
+      "hd_video_url": "https://www.youtube.com/embed/lyzjw0QiShw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689db16ae08f7.jpg",
+      "notes": [
+        {
+          "title": "Vedic Maths (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5df7b7f5-810d-4282-b7af-68532eb7c18e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 04 || Vedic Maths (Part 4)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/xRcOeMzxrYg",
+      "hd_video_url": "https://www.youtube.com/embed/xRcOeMzxrYg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689db16a66d65.jpg",
+      "notes": [
+        {
+          "title": "Vedic Maths (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c3838b7-7289-4527-94bd-38db15a236ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 03 || Vedic Maths (Part 3)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/hyKdWktX5vo",
+      "hd_video_url": "https://www.youtube.com/embed/hyKdWktX5vo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689db169dd7c6.jpg",
+      "notes": [
+        {
+          "title": "Vedic Maths (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99ee9296-3480-4f6d-a0a7-592841b581e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 02 || Vedic Maths (Part 2)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/VD1ewMHdVeI",
+      "hd_video_url": "https://www.youtube.com/embed/VD1ewMHdVeI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689db1692ee8b.jpg",
+      "notes": [
+        {
+          "title": "Vedic Maths (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aedbaaa7-b432-453a-a522-c5c79187a976.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

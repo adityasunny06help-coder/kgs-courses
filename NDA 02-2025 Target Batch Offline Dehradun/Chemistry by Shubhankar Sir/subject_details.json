@@ -1,0 +1,195 @@
+{
+  "subject_name": "Chemistry by Shubhankar Sir",
+  "subject_id": 6431,
+  "video_count": 14,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Basics of Chemistry",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EMEgaFC1v48",
+      "hd_video_url": "https://www.youtube.com/embed/EMEgaFC1v48",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 01 || Basics of Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37410a84-d723-406f-9beb-039da724e9c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Organic Chemistry",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/c371ck1GM3k",
+      "hd_video_url": "https://www.youtube.com/embed/c371ck1GM3k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 02 || Organic Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ae8a022-4dd1-4390-b4f3-df8d9981e015.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Structure of Atom",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/pFMo5ADpX0w",
+      "hd_video_url": "https://www.youtube.com/embed/pFMo5ADpX0w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 03 || Structure of Atom",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a17a980-bb9a-4863-99b7-e827e9fc73f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Atom & Nuclei",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/PZvQ_Fq7G3c",
+      "hd_video_url": "https://www.youtube.com/embed/PZvQ_Fq7G3c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Atom & Nuclei",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb8419d3-7fb9-4271-8e44-9c8f8c3c3a29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Nuclei & Periodic Table",
+      "published_date": "24 May 2025",
+      "video_url": "https://www.youtube.com/embed/I_1poFushLQ",
+      "hd_video_url": "https://www.youtube.com/embed/I_1poFushLQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 05 || Nuclei & Periodic Table",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb09d557-f6d1-4e56-aa9b-e1231382cfa3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Periodic Table",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/jut3Qa6h1WI",
+      "hd_video_url": "https://www.youtube.com/embed/jut3Qa6h1WI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 06 || Periodic Table",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c4897cd-4d44-40c3-a6ff-523906940686.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Chemical Bonding",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/t98UHOY3zNY",
+      "hd_video_url": "https://www.youtube.com/embed/t98UHOY3zNY",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 07 || Chemical Bonding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aa9013e-34f3-425f-945f-d426788a9a38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Metal Non Metal & Acid Base",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2wSPWefGWF4",
+      "hd_video_url": "https://www.youtube.com/embed/2wSPWefGWF4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 08 || Metal Non Metal & Acid Base",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a085bd4-f886-4a3d-b45d-1ccbf5b0f6d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Indicator And Hydrogen",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/d0i-23Ccwag",
+      "hd_video_url": "https://www.youtube.com/embed/d0i-23Ccwag",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 09 || Indicator And Hydrogen",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/228cc951-474f-4c25-a2bd-24ee149446aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || S Block Elements",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Rkh0NSELvTk",
+      "hd_video_url": "https://www.youtube.com/embed/Rkh0NSELvTk",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Polymer",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/fjprmmcf73Y",
+      "hd_video_url": "https://www.youtube.com/embed/fjprmmcf73Y",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 11 || Polymer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f35b8371-2ca0-472f-974e-c44196c4c639.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Polymer",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/GVK77kvzdlc",
+      "hd_video_url": "https://www.youtube.com/embed/GVK77kvzdlc",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || P Block",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ka-o2Qae5t8",
+      "hd_video_url": "https://www.youtube.com/embed/ka-o2Qae5t8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 13 || P Block",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/855a2f61-db0b-4462-a5d5-e522a86ec843.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Gaseous Air",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LXkU0vwAH_I",
+      "hd_video_url": "https://www.youtube.com/embed/LXkU0vwAH_I",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 14 || Gaseous Air",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6732687d-0f4c-4b18-b368-4152b566b3c3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

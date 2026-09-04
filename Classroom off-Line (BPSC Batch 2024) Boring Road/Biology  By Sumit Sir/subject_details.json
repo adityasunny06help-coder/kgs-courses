@@ -1,0 +1,686 @@
+{
+  "subject_name": "Biology  By Sumit Sir",
+  "subject_id": 1270,
+  "video_count": 53,
+  "note_count": 40,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। Biology Introduction class",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/sJKT3rvFg6g",
+      "hd_video_url": "https://www.youtube.com/embed/sJKT3rvFg6g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//979f2331-38ab-49bd-9da1-e743bde3adc1.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ।। Nutrition ।। पोषण (Part-1)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/rK09amhsZmI",
+      "hd_video_url": "https://www.youtube.com/embed/rK09amhsZmI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//55bd8684-738e-4fa3-94ef-a52a5c58443f.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ।। Nutrition ।। पोषण (Part-2)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/4hh0vuaaitE",
+      "hd_video_url": "https://www.youtube.com/embed/4hh0vuaaitE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9a090d70-7624-4017-a3e9-bf82fa31c552.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ।। Carbohydrate ।। कार्बोहाइड्रेट (Part-1)",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/Wi3Bb_iIue0",
+      "hd_video_url": "https://www.youtube.com/embed/Wi3Bb_iIue0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//86b7d0ce-6b94-4cec-b42c-8e41afef9117.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ।। Carbohydrate ।। कार्बोहाइड्रेट (Part-2)",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/VFf9fFF8CKg",
+      "hd_video_url": "https://www.youtube.com/embed/VFf9fFF8CKg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1cc91560-4d1c-42ae-a160-a539fc51a763.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 ।। Artificial Sweeteners and Fat ।। कृत्रिम मिठास और  वसा",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/17Os8oGrKJ4",
+      "hd_video_url": "https://www.youtube.com/embed/17Os8oGrKJ4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//db77c13e-6ec3-4643-8346-88ba45cc735a.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 ।। Fat And Amino Acid ।। वसा और अमीनो अम्ल",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/GjYDEIbaHWQ",
+      "hd_video_url": "https://www.youtube.com/embed/GjYDEIbaHWQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//036cba59-3b0e-488d-9c55-9a6724cbae4f.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 ।। Protein ।। प्रोटीन",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/H5q-lg_W0Xk",
+      "hd_video_url": "https://www.youtube.com/embed/H5q-lg_W0Xk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//594c8c87-6cf4-4224-93ac-b7599586f4eb.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 ।। Vitamins ।। विटामिन (Part-1)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/xkrJqOo8pSs",
+      "hd_video_url": "https://www.youtube.com/embed/xkrJqOo8pSs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 ।। Vitamins ।। विटामिन (Part-2)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/9W6mnULU8x4",
+      "hd_video_url": "https://www.youtube.com/embed/9W6mnULU8x4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ।। Vitamins ।। विटामिन (Part -3)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/3lYb6UAwJMA",
+      "hd_video_url": "https://www.youtube.com/embed/3lYb6UAwJMA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 ।। Vitamins and Minerals ।। विटामिन और खनिज लवण",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/VP6M-TuY2AE",
+      "hd_video_url": "https://www.youtube.com/embed/VP6M-TuY2AE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7561563a-2538-4d7d-8fa8-68c248f2daf8.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-1)",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/gQpSGIbpfzM",
+      "hd_video_url": "https://www.youtube.com/embed/gQpSGIbpfzM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XzOBamLRNyLGSCbloQ0LDlo2rqiNSzwshhd7Cycx.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9ab9c666-3067-490f-a4a0-e75b081d7e2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-2)",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/4Ji27Mov3C4",
+      "hd_video_url": "https://www.youtube.com/embed/4Ji27Mov3C4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7B92U5VBYr86qqgvxKhxAcFUbr8NLnM66ENoTglp.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4d2aa61c-2b65-4f71-aaf8-440f3b4ca792.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-03)",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/UAjFkTSWGng",
+      "hd_video_url": "https://www.youtube.com/embed/UAjFkTSWGng",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6jr8eLGmoZ4rop68GFIyS9tzN10rsKc0QPztrMgO.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/28ec1f72-405e-40f9-a5ae-2dcbfe68ebf4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-4)",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/d8dd_qxMeNQ",
+      "hd_video_url": "https://www.youtube.com/embed/d8dd_qxMeNQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/WKrxs78rU4CGga67sK5gTWwgkb4DJjTZIBF2fp61.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2258f910-7358-4cb6-bfab-3cdc0db0bc90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-5)",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/3UFU7dt58vo",
+      "hd_video_url": "https://www.youtube.com/embed/3UFU7dt58vo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/DICYlK68FI6qidAizdIAilMc96a28j5HC3CLYDj1.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2b5447e2-f006-48e6-9c1a-02b31f2cbd5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-6)",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/833NIfCFWaQ",
+      "hd_video_url": "https://www.youtube.com/embed/833NIfCFWaQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/pfnkgR1Qo36K22l8Y7MPJ6ecWqNTyl1ItILCKU2m.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1d4ad186-a011-48d1-a705-ecb8d6cbf9a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-7)",
+      "published_date": "20 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/7dx-b96DTAk",
+      "hd_video_url": "https://www.youtube.com/embed/7dx-b96DTAk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/GSPnUXqskhSIsZd2wnaKeI8ghtzyrwX0a79eaMNb.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/09563113-7187-4ef8-8a3e-242ad9d01a20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 ।। Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-8)",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/p-oJYZprASY",
+      "hd_video_url": "https://www.youtube.com/embed/p-oJYZprASY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UImCzVmLNrdOe1AWqQAVRCRLwedQI8X1doMlvCqc.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology ।। कोशिका और कोशिका विज्ञान (Part-08)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5f98ace7-7e96-425f-8c68-e89597916c3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 ।। Tissue ।। ऊतक (Part-1)",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/cLkJp5j1DtI",
+      "hd_video_url": "https://www.youtube.com/embed/cLkJp5j1DtI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/s031pYJARmiA0BUg4CYSKHcWNacKd8z64s6Ax6ZY.jpg",
+      "notes": [
+        {
+          "title": "Tissue ।। ऊतक (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b22975f4-b3c5-4b19-a30c-058d5878111a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 ।। Tissue ।। ऊतक (Part-2)",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/F4EXfwQ9Neg",
+      "hd_video_url": "https://www.youtube.com/embed/F4EXfwQ9Neg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6gF1HJ1WSuBO2ZgH1k9FtSzimf764ugnZXyYNDxD.jpg",
+      "notes": [
+        {
+          "title": "Tissue ।। ऊतक (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1a33ef27-d393-417f-98bf-836ce08b95f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 ।। Tissue ।। ऊतक (Part-3)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/riHwNeQgzrw",
+      "hd_video_url": "https://www.youtube.com/embed/riHwNeQgzrw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/pbBoWPlCaTZO2LxEczV8xXogo8jNQMnqCXuwVItE.jpg",
+      "notes": [
+        {
+          "title": "Tissue ।। ऊतक (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b6120223-bc65-45be-970f-5ea91e06c89b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-1)",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/nnOBZPF7XC4",
+      "hd_video_url": "https://www.youtube.com/embed/nnOBZPF7XC4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/51x8L6IBjzSV8MsGsx2V3mb9p7rAISUNMWe9FCKI.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c2b80509-107c-430b-a8b7-28c0e42302c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-2)",
+      "published_date": "05 May 2024",
+      "video_url": "https://www.youtube.com/embed/RI7sQ882pEA",
+      "hd_video_url": "https://www.youtube.com/embed/RI7sQ882pEA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/CwdDr8wOn6oAGmv8JwtGvUUhj3BydG6wRGWBSVrS.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/01d6569e-3f76-44cd-acab-80048c29bd22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-3)",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/_V9eUjvaBlI",
+      "hd_video_url": "https://www.youtube.com/embed/_V9eUjvaBlI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/o7UjIgxtnIoDDPO3dAnDhFnNc9eJeT93KRCcVbcx.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3a8d5cf1-1e75-4e76-9002-3c616b1e280f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-4)",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/B_lU_iK5n5E",
+      "hd_video_url": "https://www.youtube.com/embed/B_lU_iK5n5E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jsjMYNnXxeK7xUo8ZhsnWmaPRRVFPWbtsYD9VOGH.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-4)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/61c4d8e5-bece-46f0-af43-8de5b8ee31e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-5)",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/vwZWK_8TF54",
+      "hd_video_url": "https://www.youtube.com/embed/vwZWK_8TF54",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/rfOZKpIj6kzVlgYnSdPPk1SKYMAGv9Aib355FWTz.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-5)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1eab56c1-bba2-4664-9e30-0a3c1fda00b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-6)",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/VAPJfM4NxN4",
+      "hd_video_url": "https://www.youtube.com/embed/VAPJfM4NxN4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/d1XevOYvyITk8ukOGNZrTWAFQrzS0dogCNgSQW66.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-6)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0991a1f1-a67a-43cb-bce0-508b0d565879.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-7)",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZnkTVaRnyMk",
+      "hd_video_url": "https://www.youtube.com/embed/ZnkTVaRnyMk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jDyVfZSpPFoehNgAA4eE2aHXbZhcVOmvzngU9Idp.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-7)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/184d3bc1-1b55-4475-86b4-98450b5dff30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-8)",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/uYyDqDMB_-c",
+      "hd_video_url": "https://www.youtube.com/embed/uYyDqDMB_-c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/d1lmdfyEoQy91D9yjxCavwRszrMVoKrn0ra3X2hJ.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-8)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/17c52418-3360-4f1a-904a-3d28d93ac595.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 ।। Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-9)",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/65r6fXXUgMg",
+      "hd_video_url": "https://www.youtube.com/embed/65r6fXXUgMg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/gAZWOvJhv6bnko3mox3gBkKcX3O6jq5qjiJ51RYD.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System ।। रक्त परिसंचरण तंत्र (Part-9)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5252c1f6-e80e-4072-909b-66487b9dad06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 ।। Blood Circulatory System and Human Respiratory system ।। रक्त संचार प्रणाली और मानव श्वसन प्रणाली",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/zJssv-hLeew",
+      "hd_video_url": "https://www.youtube.com/embed/zJssv-hLeew",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4gTS1WL5nR6kQP7Dd1Qi8WJwPyRsPhlztFXcorza.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System and Human Respiratory system ।। रक्त संचार प्रणाली और मानव श्वसन प्रणाली",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2d1d75fd-3372-4bd4-ac72-9ddd9051ff12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 ।। Human Respiratory system ।। मानव श्वसन प्रणाली (Part-1)",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/zQJTpzTIlL0",
+      "hd_video_url": "https://www.youtube.com/embed/zQJTpzTIlL0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UJaD5ZM8i8m4FNAVLW6lJAT6SORS4aVo8MCrR1Fw.jpg",
+      "notes": [
+        {
+          "title": "Human Respiratory system ।। मानव श्वसन प्रणाली (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9ff4a125-8846-4cc6-b037-092dfbe74e93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 ।। Human Respiratory system ।। मानव श्वसन प्रणाली (Part-2)",
+      "published_date": "18 May 2024",
+      "video_url": "https://www.youtube.com/embed/6o76mONYGIM",
+      "hd_video_url": "https://www.youtube.com/embed/6o76mONYGIM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dxP79qB5XN96NltUpJ6Nu8hbREPk6g9isgAZj6QE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 ।। Human Respiratory system ।। मानव श्वसन प्रणाली (Part-3)",
+      "published_date": "18 May 2024",
+      "video_url": "https://www.youtube.com/embed/Asv60t_ghKY",
+      "hd_video_url": "https://www.youtube.com/embed/Asv60t_ghKY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/CjzsyWFnrSNQ7OJ7kTPeLKK11YR3Jpp2we2adNvC.jpg",
+      "notes": [
+        {
+          "title": "Human Respiratory system ।। मानव श्वसन प्रणाली (Part-2 &3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/86e4de51-f3b9-4ffa-98b0-7dcf4a9b35e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 ।। Human Nervous System ।। मानव तंत्रिका तंत्र (Part-1)",
+      "published_date": "19 May 2024",
+      "video_url": "https://www.youtube.com/embed/IPv4j50Qiow",
+      "hd_video_url": "https://www.youtube.com/embed/IPv4j50Qiow",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/uxcd264k3iBF8YDVzwl0Z4enELjr8wgHEyI42pgw.jpg",
+      "notes": [
+        {
+          "title": "Human Nervous System ।। मानव तंत्रिका तंत्र (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/514428c2-69f1-452a-aeb4-d5741712dd03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 ।। Human Nervous System and Sensory organs ।। मानव तंत्रिका तंत्र और संवेदी अंग",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/bcQz6BYN2DE",
+      "hd_video_url": "https://www.youtube.com/embed/bcQz6BYN2DE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/GYELj29G2Q0GqV6BBenkRNQz704Qj1FtskhA6aV3.jpg",
+      "notes": [
+        {
+          "title": "Human Nervous System and Sensory organs ।। मानव तंत्रिका तंत्र और संवेदी अंग",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0140897e-d9c1-4dbc-80a4-8dd34482461e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 ।। Human Sensory organs ।। मानव संवेदी अंग (Part-1)",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/25UGZQts6kw",
+      "hd_video_url": "https://www.youtube.com/embed/25UGZQts6kw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jgxZbG0swraetepzRnrjUu19hSQBGP4NiZRhp2LG.jpg",
+      "notes": [
+        {
+          "title": "Human Sensory organs ।। मानव संवेदी अंग (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fe524f0b-6d94-4e7c-ad35-c0798c377cbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 ।। Human Sensory organs and Digestive System ।। मानव संवेदी अंग और पाचन तंत्र",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/gPe_ZTG0KQk",
+      "hd_video_url": "https://www.youtube.com/embed/gPe_ZTG0KQk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Ofcfl0QFXf7fBsYcm5hTQYozJAcELp1ZQPuqyawN.jpg",
+      "notes": [
+        {
+          "title": "Human Sensory organs and Digestive System ।। मानव संवेदी अंग और पाचन तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e4b7178c-13db-4f88-b01c-1f42ca370bb1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 ।। Human Digestive System ।। मानव पाचन तंत्र (Part-1)",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/dWzJO8sBbRc",
+      "hd_video_url": "https://www.youtube.com/embed/dWzJO8sBbRc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/rOHHPht9lJID8F4waAjOqM5NRcJpQfWnGKlsPaXp.png",
+      "notes": [
+        {
+          "title": "Human Digestive System ।। मानव पाचन तंत्र (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/89082041-f3c7-4c5a-8066-189b362f1060.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 ।। Human Digestive System and Skeletal System ।। मानव पाचन तंत्र और कंकाल तंत्र",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/T_vpQHiw-ZA",
+      "hd_video_url": "https://www.youtube.com/embed/T_vpQHiw-ZA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ZBAqQZPJdqjTvwUNzeIecJuNoyiDaLDBAQ8TAkkg.png",
+      "notes": [
+        {
+          "title": "Human Digestive System and Skeletal System ।। मानव पाचन तंत्र और कंकाल तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ce850044-9de1-4ea0-bc1a-acb9bcca0eb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 ।। Human Skeletal System and excretory system ।। मानव कंकाल तंत्र और उत्सर्जन तंत्र",
+      "published_date": "25 May 2024",
+      "video_url": "https://www.youtube.com/embed/LDtn2TlAwh8",
+      "hd_video_url": "https://www.youtube.com/embed/LDtn2TlAwh8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/NfblMQic2ywFjH2xx4h7PlgDTkWPOe0gAUXwJhPJ.png",
+      "notes": [
+        {
+          "title": "Human Skeletal System and excretory system ।। मानव कंकाल तंत्र और उत्सर्जन तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b6fc8a52-2c2a-4505-9322-854f0159da44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 ।। Human excretory system ।। मानव उत्सर्जन तंत्र",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/lQQ4sSNBqyg",
+      "hd_video_url": "https://www.youtube.com/embed/lQQ4sSNBqyg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kniFAK2HpOcMvzDNXUPqyk7KDL29PUgLVlZv3rYt.png",
+      "notes": [
+        {
+          "title": "Human excretory system ।। मानव उत्सर्जन तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0fdbcb72-2f39-43b6-be9c-5c7ae5c26c40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 ।। Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-1)",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/B1HeUUgxb4o",
+      "hd_video_url": "https://www.youtube.com/embed/B1HeUUgxb4o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0uVynaLhHHtkAw36DO2qgDIRuXqZ6TaATcdIZS8j.png",
+      "notes": [
+        {
+          "title": "Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f301d184-9108-4ce5-891b-04d0fbc398df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 ।। Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-2)",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/OdTIlBH7rZY",
+      "hd_video_url": "https://www.youtube.com/embed/OdTIlBH7rZY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f478e74-0e03-4da9-b169-9e6d409103a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 ।। Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-3)",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/8-EU9pM6NLk",
+      "hd_video_url": "https://www.youtube.com/embed/8-EU9pM6NLk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff89da95-94ef-4f4d-89a0-4617a42cf4b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 ।। Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-4)",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/-o-HbDfnkWg",
+      "hd_video_url": "https://www.youtube.com/embed/-o-HbDfnkWg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Human Reproductive System and Hormones ।। मानव प्रजनन तंत्र और हार्मोन (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13ec8257-1c03-4de6-87f7-4fb7a1e7f953.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 ।। Plant Kingdom ।। पादप जगत (Part-1)",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/V4QZ4pEn6wA",
+      "hd_video_url": "https://www.youtube.com/embed/V4QZ4pEn6wA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Plant Kingdom ।। पादप जगत",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41c1c6f1-2978-4c9f-88a6-f03c13c7220d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 ।। Plant Kingdom ।। पादप जगत (Part-2)",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/O3pZn50Eco0",
+      "hd_video_url": "https://www.youtube.com/embed/O3pZn50Eco0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Plant Kingdom ।। पादप जगत (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd8e6aed-ff9d-4169-a39c-0ee354f343a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 ।। Plant Kingdom ।। पादप जगत (Part-3)",
+      "published_date": "15 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/hBQmAiOJA-I",
+      "hd_video_url": "https://www.youtube.com/embed/hBQmAiOJA-I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Plant Kingdom ।। पादप जगत (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc0db3b3-b02d-4c81-b314-8bc6a7a6aa82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 ।। Plant Kingdom ।। पादप जगत (Part-4)",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/zDJ6Dx7N2Ls",
+      "hd_video_url": "https://www.youtube.com/embed/zDJ6Dx7N2Ls",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Plant Kingdom ।। पादप जगत (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/109bf1a0-647d-412d-9ff9-4a2485285f08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 ।। Plant Kingdom ।। पादप जगत (Part-5)",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/eSSWCB62WmI",
+      "hd_video_url": "https://www.youtube.com/embed/eSSWCB62WmI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Plant Kingdom ।। पादप जगत (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ee7eb92-3825-4ccf-9353-ef6293182f64.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

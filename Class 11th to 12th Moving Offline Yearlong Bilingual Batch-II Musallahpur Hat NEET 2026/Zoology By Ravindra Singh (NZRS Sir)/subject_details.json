@@ -1,0 +1,88 @@
+{
+  "subject_name": "Zoology By Ravindra Singh (NZRS Sir)",
+  "subject_id": 8298,
+  "video_count": 6,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Human Health And Disease - 1",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/da4J9MyTpgk",
+      "hd_video_url": "https://www.youtube.com/embed/da4J9MyTpgk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 1 || Human Health And Disease - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3025e472-3da3-4780-af6c-ff85c7b2ef09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Human Health And Disease - 2",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7xXNUnps_aE",
+      "hd_video_url": "https://www.youtube.com/embed/7xXNUnps_aE",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 2 || Human Health And Disease - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c00b2f2-2da1-4e76-ba96-d6883a317095.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Human Health And Disease - 3",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rUp3c13yqow",
+      "hd_video_url": "https://www.youtube.com/embed/rUp3c13yqow",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 3 || Human Health And Disease - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/848abbe8-3e13-4e64-9d30-b6c1bf500967.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Biotechnology - Principles & Processes -1",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/R4BH9TAhn1Q",
+      "hd_video_url": "https://www.youtube.com/embed/R4BH9TAhn1Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 4 || Biotechnology - Principles & Processes -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/caad0e7d-d10a-4bbd-8746-034e8d4d9676.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Biotechnology - Principles & Processes -2",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/GR2ypW61nfk",
+      "hd_video_url": "https://www.youtube.com/embed/GR2ypW61nfk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 5 || Biotechnology - Principles & Processes -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7015a28c-7fcb-4f1a-9c57-eb825a789fd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Biotechnology - Principles & Processes -3",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,711 @@
+{
+  "subject_name": "Geography by Amit Shree Sir",
+  "subject_id": 1816,
+  "video_count": 78,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || General Introduction of India (Part-02)",
+      "published_date": "27 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/geography/l-01/l-01-ro-aro-geog.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QGSJSeSzNGM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Tz4qplgfp1pPrFEZQJQ618GQcfHFMW0O4wV4LMkO.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || General Introduction of India (Part-3)",
+      "published_date": "28 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/geography/l-02/l-02-ro-aro-geog.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hmTZGfQf6yA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GBI1ndMrp8oTXcHDajKkCOByoYzjoASppm1p5Nyi.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || General Introduction of India (Part-4)",
+      "published_date": "30 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/5qbIPFuC06c",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/ro-aro/geography/l-03/l-03-ro-aro-geog.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4IEmWjmsBoVIknhtMUPXywK29JqPUJyX5QmFGhFX.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || General Introduction of India (Part-5)",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/KfLgR7v2Kpw",
+      "hd_video_url": "https://www.youtube.com/embed/KfLgR7v2Kpw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/PwSntyKuEOB6WksSaV9Cual9Gs99VYwm9KdwnuNj.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Geological Structure (Part-1) भुगर्भिक संरचना",
+      "published_date": "01 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-05/l-05-ro-aro-geog.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XouKKHYd8Pk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FTe8zMPdAaBiCmJGlwCZJNoOJ6zQnTQESLdIRwcI.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Geological Structure (Part-2) भुगर्भिक संरचना",
+      "published_date": "02 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-06/l-06-ro-aro-geog.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c-doLZ3qUWQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vgL62ZezzoRhhioUjMlNs36RlABBsmD0iiw5VqkY.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Geological Structure (Part-3) भुगर्भिक संरचना",
+      "published_date": "03 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-07/l-07-ro-aro-geog.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7J1Gjrpkxzo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TeP6mPurzl51oTR6Bn90cCGLk1DTqqaqkBxGKkDB.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Marathon Class",
+      "published_date": "05 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-08/l-08-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Vybp8jIIfKw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tlVttYzeXz4a3vGG34vV9Zqix6HkmEbw2yuCd6TA.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Himalaya (हिमालय) (Part-01)",
+      "published_date": "06 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-09/l-09-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nzsTMBP4hSI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vsqdI1ykfwm6dVINu6ltkhe0eCAF4xT6zwLX15ck.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Himalaya (हिमालय) (Part-02)",
+      "published_date": "07 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-10/l-11-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sBKXKsdTA90",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7gkTMTKj6aEzSuel8gjGVTkysdzcjJCKgA1GmDLW.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Himalaya (हिमालय) (Part-03)",
+      "published_date": "08 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-11/l-11-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3LbmQ-Tp570",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IGVsSSaFXRvQx5wojKqQfMg7Zn5K1zDTonJx8wet.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Himalaya (हिमालय) (Part-04)",
+      "published_date": "10 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-12/l-12-ro-aro-up-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UMPLP-QMUeg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jYtOicHR2dps9WVsEPuXeGVqBU86Fp2QslYI2riI.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Himalaya (हिमालय)(Part-05)",
+      "published_date": "14 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33744/kgss-1699927913-v33744.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33744/kgss-1699927913-v33744.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AoE4Hozh5MhTMctDcB39qAqvkdilgpIOzQS0hEPq.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Northern Plains (उत्तरी मैदान) Part-1",
+      "published_date": "15 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33968/kgss-1700014997-v33968.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33968/kgss-1700014997-v33968.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/pfXaEhRpf9mptO6U6lwlcEgMyHrk5Y6wgDX1xQN2.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Northern Plains (उत्तरी मैदान ) (Part-02)",
+      "published_date": "16 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34067/kgss-1700099512-v34067.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34067/kgss-1700099512-v34067.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dM345pV0jwnwuWDLWkIdjZTXnC022ABFYZxSSiCJ.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Northern Plains (उत्तरी मैदान) (Part-03)",
+      "published_date": "17 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34238/kgss-1700185725-v34238.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34238/kgss-1700185725-v34238.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/k2OJa37THkixCmxaZb0WpNYOwKM9magPWiwpNFX7.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Peninsular  India (प्रायद्वीपीय भारत) Part-1",
+      "published_date": "18 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34450/kgss-1700272284-v34450.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34450/kgss-1700272284-v34450.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8x5FTjHM9pHNLYcNW80Crn7qjSQP2Q58SwObCI21.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Peninsular India (प्रायद्वीपीय भारत) Part-2",
+      "published_date": "19 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34550/kgss-1700358989-v34550.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q1sbpBzjwco",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/kfvi8O0LStN2a3SQPdORCzWRKpNCeBhOYfhcHoIU.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Peninsular India (प्रायद्वीपीय भारत) (Part-3)",
+      "published_date": "20 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-18/l-18-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4vBLgX5pLyM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ouhHuFy8hFE9kkxQqQ40QuNdRxfdYH2ASFyYwQrd.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Peninsular India (प्रायद्वीपीय भारत) (Part-4)",
+      "published_date": "21 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34728/kgss-1700531983-v34728.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34728/kgss-1700531983-v34728.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VR0epuTLVgtQd2Pnu6ocjdIITdT7h7xjthoQtTCB.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Peninsular India (प्रायद्वीपीय भारत) (Part-5)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-21/l-21-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ipQN5_VVcdg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jwZI7RzyCLD2KMOsk5mNtm2sJWwr6oZQKULvtWTp.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Peninsular India (प्रायद्वीपीय भारत) (Part-6)",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/oeqiPi4WCNw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35964/kgss-1701135967-v35964.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DQPEtXpo24VphFjb4FY4fpNAj4xH3r7HlZfwONxO.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Peninsular India (प्रायद्वीपीय भारत) (Part-7)",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-23/l-23-geo-uppsc-ro.aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kTAI9SMscxU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2154R6seDUVVUJ5MZfBGqeXT3RJRjWcxkKrfs9KH.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Coastal Plain (तटीय मैदान) Part-1",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/36479/kgss-1701309106-v36479.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xzwLSMLj9tw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jGnJEwMd6jlkwwqtPt3etcseuDDC5LZ1Ctb8RfaX.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Coastal Plain (तटीय मैदान) - (Part-02)",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/36688/kgss-1701394452-v36688.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yDcdZNuYDRo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JijARe8mrfwuFlT8b9mK3QGKXgBGpfEhGNoaoJkx.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Coastal Plain (तटीय मैदान) - (Part-03)",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-26/l-26-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8pSytBt0WKk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7BtUZ136SCyPvhbTmqH5AjxztJTGN04xuJGzixmZ.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Marathon Class -Islands (द्वीप समूह)",
+      "published_date": "03 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-27/l-27-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mrtrBa-IJOs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/LN7kjUlOCWQsN00DbO0RDNGQRw9fPEQJiMpAZxzj.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Climate of India (\nभारत की जलवायु) Part-1",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-28/l-28-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Nr3ISHUCVRQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8tqRA9Z1gbR6zEvyPzTP56MgOQSrQMZS1WUB4D7N.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Climate of India ( भारत की जलवायु) (Part-2)",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-29/l-29-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Lh83L3nIyvo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UsyTiYQcboKSQSu8NmEteANu3AEG8QlzEwZ82OyJ.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Climate of India ( भारत की जलवायु) (Part-3)",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-30/l-30-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AhOc5HlCcj4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Ln8XIzUcp2PKg1wbHbadqB9G3XTZKd1bbUbZ5068.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Climate of India ( भारत की जलवायु) (Part-4)",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-31/l-31-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aJe2zo0XMl4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MCzxs650nU82fEAWDXGyNqcneyawiTgpmNYJFMgC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Climate of India ( भारत की जलवायु) (Part-5)",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-32/l-32-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AYqu-uIuJk8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6a4a07lbghlnywFm4bLRfYQR8RldqlgzYW9dHtsm.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Climate of India ( भारत की जलवायु) (Part-6)",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-33/l-33-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vaGhqlpmc0U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dZOm9QWafyJ6Q7Zf3WnmZLBRug3uXx01Lqp9d9La.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Soil of India (भारत की मिट्टी) Part-1",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-34/l-34-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qRes68-US7Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OlpZW5JSFwkbHAvKW1YBlc34HOZnbuMBwxtFRojV.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Soil of India (भारत की मिट्टी)\tPart-2",
+      "published_date": "18 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-35/l-35-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DllgrGfHbtU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZDlR6e6ePCkMUZSlKf5Bm8Uspavc1CuRMTZEU0m4.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Soil of India (भारत की मिट्टी) Part-3",
+      "published_date": "19 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-36/l-36-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jJcTXMKmuwU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KJBjZALU7NPh9s2fFcXXUAnwTvvBj8kqgYwYPRQQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Soil of India (भारत की मिट्टी) Part-4",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-37/l-37-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TiIj5bXm0Ec",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dijgAWkOWJCLN3VHKMZ1kUnF0RG1QLz2wvMBAFv5.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Soil of India (भारत की मिट्टी) Part-5",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-38/l-38-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H2N0czQRgPg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NbzL85AQ6Exj9enYRt6Kx3xtrZoXwHCZcc7WOZHO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Forest of India (भारत के वन) Part-1",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-39/l-39-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JctZLjrZjt8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hRI4KlNTkPhsXi3R3Gt4wQeSnONDYonh2KCvFmbv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 ||Drainage system of India (भारत की जल निकासी व्यवस्था)",
+      "published_date": "24 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-40/l-40-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DqDRilhAQNY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ac7Wd2TxLidrTzRfJfnx4BU6M0AF3R2ktqMIYOMp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Forest of India -(भारत के वन)  Part-2",
+      "published_date": "25 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-41/l-41-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MxEjx-csVkE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/A5JUQh8MsVItFyZnXntAQxYoYEpnQgArGfX1mY7K.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Forest of India ( भारत के वन) Part-3",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-42/l-42-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QkMGQs6AlTk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/krLH1iELjb12VIuCpHl3FJZUJZG29WlqYx0rDY82.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Human Resources (मानव संसाधन) Part-1",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-43/l-43-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IQvkNgcWnfw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/aNGqLFvJ0Ag2bClOurWNwkdMLu9xxeCaDY4KnE2A.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Human Resources (मानव संसाधन) Part-2",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-44/l-44-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YY_e1WLpwKU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8Z4NB8SKUuVg6tuyY0hjn5PqkMN2W7RMBUbzCC0W.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Human Resources (मानव संसाधन) Part-3",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-45/l-45-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bm98SlZBmBY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CRleaH1uMBEZmHQhITaFhtEMNhas5icF93SdrLSQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Human Resources (मानव संसाधन) Part-4",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-46/l-46-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4Xu1U4RpSwM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3caGHxO17L1iOt6zSHx2SAGaFW3o0FXP0iiHo9ZF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 ||  Minerals (खनिज) Part-1",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-47/l-47-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lHAQhXz8u3w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/z5OY8lAmtRodt46xvgsKrx2WLbEV8jE3Ua6yPlwU.jpg",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Minerals (खनिज) Part-2",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-48/l-48-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R7q2GPXAO1g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/btyK9cGMYeodSE2Zfz4mnCyl5gsGDCgMxkrjNnBY.jpg",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Minerals (खनिज) Part-3",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-49/l-49-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/elhKXNUrqB4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/nmTkkD83xRCZApHGi3y06uEaF19pBsv030ZO4wWL.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Minerals (खनिज) Part-4",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-50/l-50-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sZ0uXhya6pw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GLW8I8U5th69UrrQqPmdvMCalCYiHxVXbc4G9nv9.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Minerals (खनिज) Part-5",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-51/l-51-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8e07uJx5qsw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fROnxMOjheM4NZHvVPKPGq4dgcvGNJhEaSayXzEx.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Asia Continent (एशिया महाद्वीप) Part-1",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-52/l-52-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XVraFk-sBS0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9S2DkbcvmGvBtE2KYxp01q4UjNGKJQKoDqulbXdC.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Asia Continent (एशिया महाद्वीप) Part-2",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-53/l-53-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UI9mP7OYDvk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gIiGHd1OJlQT0Lk2gJ5WNDGZi4hcxCpdeqOkPGtW.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Asia Continent (एशिया महाद्वीप) Part-3",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-54/l-54-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EoRVvXn77Ys",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xETXfogZYk6AVDxSOfh6sEMSiFSMKrAqmZV9O6H3.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Asia Continent (एशिया महाद्वीप) Part-4",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-55/l-55-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/leeAl036KYE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Gx0P3OQYAn8EqmSb4r7QOBzLP2svr2lOL6zcSSCc.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 ||  Asia Continent (एशिया महाद्वीप) Part-5",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-56/l-56-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b01P0gZHy0w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IikD41SDasyoWybqIdTcwYz8Nld7iq9ijd6Ur7Jv.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Asia Continent (एशिया महाद्वीप) Part-6",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-57/l-57-ro-aro-geo.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JIwWbbKIkQs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ocPpZ794Ww0xykphr0EAwZm7A0x5FkuhP3R50Xs5.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Asia Continent (एशिया महाद्वीप) Part-7",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-58/l-58-uppsc-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OGwm59J8EbU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uOL16iTF3xCpCR19PRjgbWH1NkNN4UjGi9Z3mpik.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Africa (अफ़्रीका) Part-1",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-59/l-59-uppsc-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ofJb5ndEGi4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mj7pximtYZPrX5zXtmNljLl8GAPnIJY7Bu9pQiro.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Africa (अफ़्रीका) Part-2",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-60/l-60-uppsc-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7SEQF3Cu8yg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/y4NsehdXtxCP2ut1mejr9rSAPyt12GNS54poGtDn.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Africa (अफ़्रीका) Part-3",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-61/l-61-uppsc-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8gr5YmULDLU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TVeaAVIIEOCnoigWUv8SflxOeWJ4DEyvh4Yvz2l3.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Africa (अफ़्रीका) Part-4",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-62/l-62-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LIKJtrXufJQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dCFsOZcZ9FeaRbMr1bI6eDi98FhK5JUCNsONtJTI.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || North America (उत्तरी अमेरिका) Part-1",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-63/l-63-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wIojrnr-1Ys",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/k0IadNHlv6tX86xL7QDkYAZH0aB2zKFdb6SmyIiO.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 ||  North America (उत्तरी अमेरिका) Part-2",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-64/l-64-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8_P9yR4Rgxk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uFgenXowp3ZouSNWUS4U2V3p4KoEKOCPLKlv4NLy.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || North America (उत्तरी अमेरिका) Part-3",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-65/l-65-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ld2ZxSUJd8Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tgBY4DuyaX8wu85T3StOSq9dIpuRY741CbKg3VIk.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || North America (उत्तरी अमेरिका) Part-4",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-66/l-66-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Yf-iWG5pH-c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/k5OluDwPfLjqAWuV5IbsxIqmEqzNxHwUvxgtAt3h.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 ||  North America (उत्तरी अमेरिका) Part-5",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-67/l-67-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XWs3O3YR9Sw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MQ7arMPJ2QXz0ShVWrasNCKo1fOr2PmWIPg5OULG.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || South America (दक्षिण अमेरिका) Part-1",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-68/l-68-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BNh_Ybz9_xU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/b3RfRBuLocy24dy1Ai4dS2dcaLcVBCY3zkF6MRSR.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-69 || South America (दक्षिण अमेरिका) Part-2",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-69/l-69-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SMYme0jV5XE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YLMwYBBvKQ3tBhleSyCDb3gbvhUUbdh4lbPAPEY7.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-70 || Australia (ऑस्ट्रेलिया)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-70/l-70-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S52w5v0PSoc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/kP6ENI9gHLXdklS1VmjDK0omo2IOjb9DdxX3lMfc.png",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-71 || Europe Continent(यूरोप महाद्वीप) Part-1",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-71/l-71-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/n1xKXOkkVwk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7dg8VcxjDSVDOHYJxvhswXO5u45xLC620RX9cWKr.png",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Lecture-72 || Europe Continent(यूरोप महाद्वीप) Part-2",
+      "published_date": "21 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-72/l-72-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TFYvZ-HyCDg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9bP7dkEXdqhmXXHHt9g3dVCEmZyzs6RA2u1PRpD9.png",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Lecture-73 || Rivers of India (भारत की नदियाँ) Part-1",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-73/l-73-geo-ro-aro.m3u8",
+      "hd_video_url": "https://youtu.be/EhBlifL8brQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/At3NzG4Z62MqpD81BfyoM2quV2bcILYgsTRfEMrj.png",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Lecture-74 || Rivers of India (भारत की नदियाँ) Part-2",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-74/l-74-geo-ro-aro.m3u8",
+      "hd_video_url": "https://youtu.be/9E-hD5k0eDA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8hxsw4qH5yFfYsGsCUCakigqI6buPym69FbvfO8U.png",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Lecture-75 || Rivers of India (भारत की नदियाँ) Part-3",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-75/l-75-geo-ro-aro.m3u8",
+      "hd_video_url": "https://youtu.be/VpeD_pAC5Ac",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2PbDPyiSW1SWGgvUSzJdDl8AYoZsEtMt0wPBRPNi.png",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Lecture-76 || Rivers of India (भारत की नदियाँ) Part-4",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-76/l-76-geo-ro-aro.m3u8",
+      "hd_video_url": "https://youtu.be/TAtpAouM1vo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/oPpwDZeSViiu7jMItrVVInRL3eQRBGMDeX7Q51VH.png",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Lecture-77 || Rivers of India (भारत की नदियाँ) Part-5",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/backup/l-77/l-77-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7GTDnYpO_04",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/lcIeKurUMNjt4alLhpu33AKmTFhq4xjEwX55ELQF.png",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Lecture-78 || Special Class",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/geography/l-78/l-78-geo-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AgnlvRWsKfs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DR9tCk62iUzrsas3ugN3ECieFfQB2qgf3vcq1HnQ.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

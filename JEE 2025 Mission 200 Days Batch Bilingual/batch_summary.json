@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "JEE 2025 Mission 200 Days Batch Bilingual",
+    "price": "1499",
+    "id": "335",
+    "extracted_date": "2025-08-27T16:20:16.638458"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 2531,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Umar Farooque (Puf Sir)",
+      "id": 2638,
+      "video_count": 167,
+      "note_count": 167
+    },
+    {
+      "name": "Chemistry By Lalit Yadav (LY sir)",
+      "id": 2639,
+      "video_count": 130,
+      "note_count": 130
+    },
+    {
+      "name": "Maths By Kundan Mankad (KM Sir)",
+      "id": 2640,
+      "video_count": 156,
+      "note_count": 156
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 2665,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Maths Supporting Material",
+      "id": 2666,
+      "video_count": 40,
+      "note_count": 36
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 2667,
+      "video_count": 31,
+      "note_count": 26
+    },
+    {
+      "name": "Chemistry by Shishir Kumar (CSK Sir)",
+      "id": 3009,
+      "video_count": 121,
+      "note_count": 109
+    },
+    {
+      "name": "Test Paper and  Solutions",
+      "id": 3084,
+      "video_count": 16,
+      "note_count": 5
+    },
+    {
+      "name": "Diwali Assignment",
+      "id": 4142,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry By Ujjwal Piyush (UP Sir)",
+      "id": 4253,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "Physics By Abhishek Pachauri (Abhi Sir)",
+      "id": 4281,
+      "video_count": 36,
+      "note_count": 36
+    }
+  ]
+}

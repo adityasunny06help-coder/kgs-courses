@@ -1,0 +1,261 @@
+{
+  "subject_name": "Maths by Amit Sir",
+  "subject_id": 7076,
+  "video_count": 18,
+  "note_count": 18,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Numbers (Part-01)",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/FvCjoJcypaU",
+      "hd_video_url": "https://www.youtube.com/embed/FvCjoJcypaU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ltv7Uuyn6gFCKTT3J5q6hWXquh2BmEhFG2lvB7RR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Numbers (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2ededdf-4e72-4218-a30e-3276a65c6027.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Numbers (Part-02)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/yjTtK-ku__c",
+      "hd_video_url": "https://www.youtube.com/embed/yjTtK-ku__c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HPbBM2sDMJwI6MIMc9tLoYxogQtn8j6iXgd2QoKW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Numbers (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b145def-e1aa-4890-8ce2-a45d1b5561b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Decimals & Fraction",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/6pyIeglHw0A",
+      "hd_video_url": "https://www.youtube.com/embed/6pyIeglHw0A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WlEZTNde9DL30tvhCXT2z2Sr7bVgWb4e4OVZ3pfB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Decimals & Fraction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4845b93-32c7-416e-b2e4-719a1f54d69f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Square Root & Cube Root",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/K_01BMsatPY",
+      "hd_video_url": "https://www.youtube.com/embed/K_01BMsatPY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Square Root & Cube Root",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0affbcc-934a-46f9-b712-70c6fd5e5fe2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Square Root & Cube Root (Part 02)",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GY8L2IqoD7c",
+      "hd_video_url": "https://www.youtube.com/embed/GY8L2IqoD7c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UY4M1TEMpan1qQFtL49y5QZMohHJapEVO1KJhZRK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Square Root & Cube Root (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bd51d98-ffc0-472b-aadd-bbe5b69141ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Percentage  (Part 02)",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tMFibDjISeE",
+      "hd_video_url": "https://www.youtube.com/embed/tMFibDjISeE",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 06 || Percentage  (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82f6b30a-6f29-4f03-852d-e2283b28b8d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Percentage (Part 03)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/d1HZltK5t2c",
+      "hd_video_url": "https://www.youtube.com/embed/d1HZltK5t2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6Eni71AVf7umFpupYprBWEoSye5nrIOgsSS1RQ5K.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Percentage (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/074436ef-88e5-43ca-bfa8-9807037f156f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Percentage (Part 04)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cZhDMLHJlsA",
+      "hd_video_url": "https://www.youtube.com/embed/cZhDMLHJlsA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4qRZxZ0DExK4tBVnDe48OGN7lYXfFrrecg2cwcnJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Percentage (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dd2d9c1-20ba-4a52-9143-29dc58509dc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Percentage (Part 05)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qB3V6EQYAR8",
+      "hd_video_url": "https://www.youtube.com/embed/qB3V6EQYAR8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/M0tt60eodHCr5xnsoBH7t3hILblTedzUUjD6GnC3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Percentage (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/610eae7b-8ee7-4edc-ad3c-a962c517756a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Average || औसत",
+      "published_date": "07 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RV_wBTAyGQU",
+      "hd_video_url": "https://www.youtube.com/embed/RV_wBTAyGQU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rc3WvofSc0k1ZWS8uc1yV3s7CbYzBGNwtC38CJ4Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Average || औसत",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36bf9525-a903-4410-a168-0c589902ecd7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Data Interpretation (Part 01)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/LRsRtpGDxec",
+      "hd_video_url": "https://www.youtube.com/embed/LRsRtpGDxec",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9mWmqcUHwch7KcVjEYxpwy6fiLEXeMNeetnrnjpc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Data Interpretation (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10f04698-719a-44ef-ac1c-c1cfb948c0f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Data Interpretation (Part 02)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2SzOOg6hdYo",
+      "hd_video_url": "https://www.youtube.com/embed/2SzOOg6hdYo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Qm0ncjVniKpYFGXnnkroCz3aKkd5JfUiAyVliTPN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Data Interpretation (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67c5510d-ecfe-417f-9951-c00842bd5926.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Data Interpretation (Part 03)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/M4uRruq5jsQ",
+      "hd_video_url": "https://www.youtube.com/embed/M4uRruq5jsQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/x3iwiRlv8oKz03j9IxZfKazIwb5J1fnvp07VSMJe.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Data Interpretation (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0034749e-4b8d-43f3-a771-45a57075c359.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Data Interpretation (Part 04)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/XJbytvdwOic",
+      "hd_video_url": "https://www.youtube.com/embed/XJbytvdwOic",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PChYdPo0uz88SjbGYMvydBZabatvpl8qKE21RZCN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Data Interpretation (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74bf5c4e-1ac9-4297-bad7-e7d2bf3f3f08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Data Interpretation (Part 05)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qeKEN1jdjZw",
+      "hd_video_url": "https://www.youtube.com/embed/qeKEN1jdjZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wNgxFF1XAN5zfJ3as4FhLHbjErTKzGpTxfCxdL9h.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Data Interpretation (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3afd9874-6ac2-4adf-90a7-815c635bebe0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Data Interpretation (Part-06)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/TfnogAle2sU",
+      "hd_video_url": "https://www.youtube.com/embed/TfnogAle2sU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HVrpZmyfMoG6swn0mmiaTOWnvB50u5lAzZ9nNNVF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Data Interpretation (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f52095f2-99d5-49e1-8810-64a0e2761cb7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Data Interpretation (Part-07)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ICF_x5Tp3eM",
+      "hd_video_url": "https://www.youtube.com/embed/ICF_x5Tp3eM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8ohlOPBh4t8CP2AD9q7QLU5flep1PIJ1JhWFZCMd.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Data Interpretation (Part-07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/341f341a-dedc-40d1-8254-eb5478dd6287.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Data Interpretation (Part-08)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/I7ri5zg5o5s",
+      "hd_video_url": "https://www.youtube.com/embed/I7ri5zg5o5s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xXadC8LIiKotZhon5m2Ed8OrXAgrhHNw8knTqWKK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Data Interpretation (Part-08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e8f457b-6aca-430c-8f22-14a9edbd0200.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

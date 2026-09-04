@@ -1,0 +1,27 @@
+{
+  "subject_name": "Bihar Economics By Dr. Bharat Sir",
+  "subject_id": 777,
+  "video_count": 2,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1: Economical Survey By Bharat Sir",
+      "published_date": "09 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/UP89ZVouEdE",
+      "hd_video_url": "https://www.youtube.com/embed/UP89ZVouEdE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2: Bihar Budget 2023-2024",
+      "published_date": "10 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/2PS160FB6mM",
+      "hd_video_url": "https://www.youtube.com/embed/2PS160FB6mM",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

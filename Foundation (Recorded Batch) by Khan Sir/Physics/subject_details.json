@@ -1,0 +1,1188 @@
+{
+  "subject_name": "Physics",
+  "subject_id": 1228,
+  "video_count": 131,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Units of Measurement",
+      "published_date": "14 Dec 2021",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-1/physics1.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-1/physics1.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Unit and Dimension -01",
+      "published_date": "14 Dec 2021",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-2/physics2.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-2/physics2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Unit and Dimension -02",
+      "published_date": "16 Dec 2021",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-3/physics3.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/phy-223/phy-3/physics3.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Unit and Dimension -03",
+      "published_date": "20 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/TbF00TmplrM",
+      "hd_video_url": "https://www.youtube.com/embed/TbF00TmplrM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7e724684-31e4-4fb4-916a-c80da68d27a7.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Unit and Dimension -04",
+      "published_date": "21 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/2ZjCW0u-iMY",
+      "hd_video_url": "https://www.youtube.com/embed/2ZjCW0u-iMY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b0185663-dbd8-4dd6-9295-6af6949431cf.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Scalar & Vector (अदिश और सदिश) -01",
+      "published_date": "22 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/fOmR6JUiuX4",
+      "hd_video_url": "https://www.youtube.com/embed/fOmR6JUiuX4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//241230ff-be1d-4f78-9898-982dc0d70df6.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Scalar & Vector (अदिश और सदिश) -02",
+      "published_date": "23 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/FgNPOivP_V4",
+      "hd_video_url": "https://www.youtube.com/embed/FgNPOivP_V4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//171f66b3-5806-4a25-950a-728919b325aa.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Scalar & Vector (अदिश और सदिश) -03",
+      "published_date": "24 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/RSW-BT0Wl6Q",
+      "hd_video_url": "https://www.youtube.com/embed/RSW-BT0Wl6Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//390c5787-4277-47c6-888e-30705a4b9633.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Motion (गति) -01",
+      "published_date": "27 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/wDoa_O2RJG4",
+      "hd_video_url": "https://www.youtube.com/embed/wDoa_O2RJG4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//52acc73c-bed0-4bfd-8e2e-73940f6ede9b.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Motion (गति) -02",
+      "published_date": "28 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/Poa8ggQKPHI",
+      "hd_video_url": "https://www.youtube.com/embed/Poa8ggQKPHI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6acd7555-61d8-4cc8-b683-3a3147337f9e.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Motion (गति) -03",
+      "published_date": "29 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/J23Yk8rSD_w",
+      "hd_video_url": "https://www.youtube.com/embed/J23Yk8rSD_w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a338581f-0415-43ba-9101-43594109c91d.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Motion (गति) -04",
+      "published_date": "30 Dec 2021",
+      "video_url": "https://www.youtube.com/embed/QQcqEqPofm4",
+      "hd_video_url": "https://www.youtube.com/embed/QQcqEqPofm4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//952065db-0048-42af-a286-5c432e2a275d.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Motion (गति) -05",
+      "published_date": "03 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/DL-Tc6GD6gg",
+      "hd_video_url": "https://www.youtube.com/embed/DL-Tc6GD6gg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33603bd9-5f54-43b0-83a1-b3383ec428ce.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-15 || Motion-07 (Graph & Numerical -02)",
+      "published_date": "05 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/hS4RbFAWu2M",
+      "hd_video_url": "https://www.youtube.com/embed/hS4RbFAWu2M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//75e2fa99-33a6-414a-87d2-cfa10933888a.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-16 || Angular Velocity (कोणीय वेग)",
+      "published_date": "06 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/a5I_LUj4wYQ",
+      "hd_video_url": "https://www.youtube.com/embed/a5I_LUj4wYQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cd155e3b-d1ec-4c7b-bc60-2b5ef1e5895d.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-17 || Projectile Motion (प्रक्षेप्य गति)",
+      "published_date": "07 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/jnAOJapOKw0",
+      "hd_video_url": "https://www.youtube.com/embed/jnAOJapOKw0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//28065988-6e87-4ce0-a6d6-442e61c45b98.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-14 || Motion-06 (Graph & Numerical -01)",
+      "published_date": "10 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/b40rBEWG_jU",
+      "hd_video_url": "https://www.youtube.com/embed/b40rBEWG_jU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//48c6281a-bd91-4e05-882f-6f56fff88d0f.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Work",
+      "published_date": "10 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/pAYaX_dLlHc",
+      "hd_video_url": "https://www.youtube.com/embed/pAYaX_dLlHc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f23f941a-b5d8-4fd6-b587-5794f780c150.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Energy (ऊर्जा)",
+      "published_date": "12 Jan 2022",
+      "video_url": "https://www.youtube.com/embed/Dn3YrBVl1qg",
+      "hd_video_url": "https://www.youtube.com/embed/Dn3YrBVl1qg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3564d168-f3d8-4247-922c-c15c3d1d11de.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Power (शक्ति)",
+      "published_date": "15 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/btSWnTzpuOs",
+      "hd_video_url": "https://www.youtube.com/embed/btSWnTzpuOs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6711dc54-32a6-4e19-93b5-053a385efba4.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Work Power Energy and Momentum",
+      "published_date": "16 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/huAPSQ2DVZc",
+      "hd_video_url": "https://www.youtube.com/embed/huAPSQ2DVZc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//41667a8f-78ac-4ee2-b193-b3ed10341e07.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Momentum & Kinetic Energy",
+      "published_date": "17 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/2udxeF1b7Aw",
+      "hd_video_url": "https://www.youtube.com/embed/2udxeF1b7Aw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e4cc88e0-ec3a-460d-a9a8-0e4afe71de4d.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Impulse And Momentum",
+      "published_date": "24 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/xbjtkvlalxY",
+      "hd_video_url": "https://www.youtube.com/embed/xbjtkvlalxY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fd37e67a-ddbc-4fe7-9d3b-e7a753ff6164.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Elastic Collision And Force 01",
+      "published_date": "27 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/gFamsLa-L0w",
+      "hd_video_url": "https://www.youtube.com/embed/gFamsLa-L0w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//829961e1-55ec-4117-baa7-911ad9b4d1a9.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Force (बल) -02",
+      "published_date": "27 Feb 2022",
+      "video_url": "https://www.youtube.com/embed/9iDwmwN578w",
+      "hd_video_url": "https://www.youtube.com/embed/9iDwmwN578w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//16664686-df44-412f-907e-cab1a4763afd.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Force (बल) -03",
+      "published_date": "01 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/gKQd2-OqkEc",
+      "hd_video_url": "https://www.youtube.com/embed/gKQd2-OqkEc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bf084216-b962-4e60-bc01-6db5aea6bcb8.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Force -04 & Friction -01",
+      "published_date": "02 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/GTLM7dWW2Zg",
+      "hd_video_url": "https://www.youtube.com/embed/GTLM7dWW2Zg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f8a1aab0-7625-43a7-9bfd-4fb281eedd3b.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Friction -02",
+      "published_date": "03 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/LqUEEjRM8UI",
+      "hd_video_url": "https://www.youtube.com/embed/LqUEEjRM8UI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e720875b-a567-4b32-bace-2dcef88a2ad7.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Friction -03",
+      "published_date": "04 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/707lXBlklLg",
+      "hd_video_url": "https://www.youtube.com/embed/707lXBlklLg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//97b8cfc9-5400-4f6f-99ae-99bc6b9eeb37.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Lever (उत्तोलक) -01",
+      "published_date": "07 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/60oB_SbLU2s",
+      "hd_video_url": "https://www.youtube.com/embed/60oB_SbLU2s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4611922b-0500-4299-8f6b-92fe1583e847.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Lever (उत्तोलक) -02",
+      "published_date": "08 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/NKL64nh1He8",
+      "hd_video_url": "https://www.youtube.com/embed/NKL64nh1He8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6468cdfd-f27d-45fd-b142-f95d106ae5a3.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Torque (बल आघुर्ण)",
+      "published_date": "08 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/4K1OkKedK64",
+      "hd_video_url": "https://www.youtube.com/embed/4K1OkKedK64",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6cde0af4-f2d3-4573-b38c-fad56135ebc4.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Angular Momentum & Gravitation -01",
+      "published_date": "11 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/lQDkZEWZrhs",
+      "hd_video_url": "https://www.youtube.com/embed/lQDkZEWZrhs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0911e0d7-6d2e-4988-bf63-f4fd8e08a2e5.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Gravitation -02",
+      "published_date": "11 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/tZzaR-1iPyU",
+      "hd_video_url": "https://www.youtube.com/embed/tZzaR-1iPyU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d56069d9-dbcd-47c1-a8a1-da0784303849.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Gravitation 03 (Rotation)",
+      "published_date": "22 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/BiP-3j2atbE",
+      "hd_video_url": "https://www.youtube.com/embed/BiP-3j2atbE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e7c26e02-4ef4-4710-99b7-9b75184a215f.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Gravitation -04",
+      "published_date": "23 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/Az07RymfhwI",
+      "hd_video_url": "https://www.youtube.com/embed/Az07RymfhwI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//66b9d4db-566d-4f9c-afdf-bbe27a33fb9c.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Gravitation-05 (Satellite)",
+      "published_date": "24 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/DFhmQwDmaUI",
+      "hd_video_url": "https://www.youtube.com/embed/DFhmQwDmaUI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//544153d0-0182-431d-a0ba-cc8e35342d05.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Gravitation-06 (Kepler's Law)",
+      "published_date": "24 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/fxBM6r8vHXQ",
+      "hd_video_url": "https://www.youtube.com/embed/fxBM6r8vHXQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4012c0ed-631a-4c2d-9ee7-dc0b63ade4f6.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Gravitaiton-07 (Lift)",
+      "published_date": "28 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/crLMXRZsRxE",
+      "hd_video_url": "https://www.youtube.com/embed/crLMXRZsRxE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6cd4e73a-68cc-4c6f-ad87-7c97e081215f.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Gravitation-08 (Mass & Weight)",
+      "published_date": "30 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/tyf6XfMiw0I",
+      "hd_video_url": "https://www.youtube.com/embed/tyf6XfMiw0I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f8163289-fa1d-404d-8729-3f182a6a6952.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Simple Harmonic Motion-01",
+      "published_date": "30 Mar 2022",
+      "video_url": "https://www.youtube.com/embed/61O7rD851yU",
+      "hd_video_url": "https://www.youtube.com/embed/61O7rD851yU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b0238e27-e1eb-4a35-85ff-519b4b38abdd.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Simple Harmonic Motion-02",
+      "published_date": "02 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/kb1p4EmlsgE",
+      "hd_video_url": "https://www.youtube.com/embed/kb1p4EmlsgE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//27a646a0-94f1-40a9-813d-d206c450b312.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Simple Harmonic Motion-03",
+      "published_date": "04 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/ooycWPirS-o",
+      "hd_video_url": "https://www.youtube.com/embed/ooycWPirS-o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d23c2a83-b533-4334-b60a-96e59ef0965b.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Simple Harmonic Motion-04 & Pressure -01",
+      "published_date": "05 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/uhIAq_kKxcE",
+      "hd_video_url": "https://www.youtube.com/embed/uhIAq_kKxcE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Pressure -02",
+      "published_date": "07 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/RjDsf0XEs4s",
+      "hd_video_url": "https://www.youtube.com/embed/RjDsf0XEs4s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//26577767-d00c-4226-8431-81679ad50722.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-47 || Bernoulli Theorem & Surface Tension",
+      "published_date": "11 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/2NO8oxxDEK8",
+      "hd_video_url": "https://www.youtube.com/embed/2NO8oxxDEK8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-46 || Pascal Law & Viscosity",
+      "published_date": "12 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/C-WmVuzmMbU",
+      "hd_video_url": "https://www.youtube.com/embed/C-WmVuzmMbU",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Surface Tension (पृष्ठ तनाव)",
+      "published_date": "12 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/CA-8sUXzn0c",
+      "hd_video_url": "https://www.youtube.com/embed/CA-8sUXzn0c",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Capillary -01",
+      "published_date": "12 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/7b6JvT68l6E",
+      "hd_video_url": "https://www.youtube.com/embed/7b6JvT68l6E",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Capillary -02",
+      "published_date": "13 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/cS2YwYdGOc8",
+      "hd_video_url": "https://www.youtube.com/embed/cS2YwYdGOc8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Archimedes Principle & Density",
+      "published_date": "13 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/gHNtuUU3FLI",
+      "hd_video_url": "https://www.youtube.com/embed/gHNtuUU3FLI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Density",
+      "published_date": "15 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/bqJP2SNL-eQ",
+      "hd_video_url": "https://www.youtube.com/embed/bqJP2SNL-eQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Density & Volume",
+      "published_date": "18 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/6CLw15qJoyk",
+      "hd_video_url": "https://www.youtube.com/embed/6CLw15qJoyk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Density and Elasticity -01",
+      "published_date": "18 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/ixR2L8H1CDY",
+      "hd_video_url": "https://www.youtube.com/embed/ixR2L8H1CDY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Elasticity -02",
+      "published_date": "21 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/Vh0RsfZu5MM",
+      "hd_video_url": "https://www.youtube.com/embed/Vh0RsfZu5MM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Elasticity -03",
+      "published_date": "22 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/SGN0nFNQ0CY",
+      "hd_video_url": "https://www.youtube.com/embed/SGN0nFNQ0CY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Heat -01",
+      "published_date": "25 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/MOSnasuVPbQ",
+      "hd_video_url": "https://www.youtube.com/embed/MOSnasuVPbQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Heat -02",
+      "published_date": "26 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/FxgiZ2gNHxM",
+      "hd_video_url": "https://www.youtube.com/embed/FxgiZ2gNHxM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-60 || Heat 04 (Thermometer)",
+      "published_date": "28 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/ubjZseKLQP0",
+      "hd_video_url": "https://www.youtube.com/embed/ubjZseKLQP0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-61 || Heat 05 (Thermometer)",
+      "published_date": "28 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/GN_HOmpwJxo",
+      "hd_video_url": "https://www.youtube.com/embed/GN_HOmpwJxo",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-59 || Heat -03",
+      "published_date": "29 Apr 2022",
+      "video_url": "https://www.youtube.com/embed/UrFUYnpgseo",
+      "hd_video_url": "https://www.youtube.com/embed/UrFUYnpgseo",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Heat 06",
+      "published_date": "05 May 2022",
+      "video_url": "https://www.youtube.com/embed/cdSyc9fDH5o",
+      "hd_video_url": "https://www.youtube.com/embed/cdSyc9fDH5o",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Heat 07",
+      "published_date": "06 May 2022",
+      "video_url": "https://www.youtube.com/embed/fXfYHaqjzZw",
+      "hd_video_url": "https://www.youtube.com/embed/fXfYHaqjzZw",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Heat 08 (Newton's Law Of  Cooling)",
+      "published_date": "10 May 2022",
+      "video_url": "https://www.youtube.com/embed/r05ih2KPf58",
+      "hd_video_url": "https://www.youtube.com/embed/r05ih2KPf58",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Heat 09 (Law of Thermodynamics)",
+      "published_date": "10 May 2022",
+      "video_url": "https://www.youtube.com/embed/oi1Rue6Bw24",
+      "hd_video_url": "https://www.youtube.com/embed/oi1Rue6Bw24",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-67 || Heat 11 (Engine) -Part 2",
+      "published_date": "11 May 2022",
+      "video_url": "https://www.youtube.com/embed/SQoEP-2gYOg",
+      "hd_video_url": "https://www.youtube.com/embed/SQoEP-2gYOg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-66 || Heat 10 (Engine)",
+      "published_date": "11 May 2022",
+      "video_url": "https://www.youtube.com/embed/oUx0wlccXk4",
+      "hd_video_url": "https://www.youtube.com/embed/oUx0wlccXk4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-69 || Heat 12",
+      "published_date": "12 May 2022",
+      "video_url": "https://www.youtube.com/embed/cE_9KGi7W1w",
+      "hd_video_url": "https://www.youtube.com/embed/cE_9KGi7W1w",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-68 || Heat 11  (Engine) -Part 1",
+      "published_date": "15 May 2022",
+      "video_url": "https://www.youtube.com/embed/fxpiYXigkqE",
+      "hd_video_url": "https://www.youtube.com/embed/fxpiYXigkqE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-70 || Parts Of Vehicle -01",
+      "published_date": "16 May 2022",
+      "video_url": "https://www.youtube.com/embed/V9ghiyubdT8",
+      "hd_video_url": "https://www.youtube.com/embed/V9ghiyubdT8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-71 || Parts Of Vehicle -02",
+      "published_date": "17 May 2022",
+      "video_url": "https://www.youtube.com/embed/Qrdd0WM2ixQ",
+      "hd_video_url": "https://www.youtube.com/embed/Qrdd0WM2ixQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Lecture-72 || Enthalpy & Entropy",
+      "published_date": "18 May 2022",
+      "video_url": "https://www.youtube.com/embed/bvwd4rCBvqM",
+      "hd_video_url": "https://www.youtube.com/embed/bvwd4rCBvqM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Lecture-73 || Isothermal And Adiabatic Process",
+      "published_date": "19 May 2022",
+      "video_url": "https://www.youtube.com/embed/yN5-O-dA13w",
+      "hd_video_url": "https://www.youtube.com/embed/yN5-O-dA13w",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Lecture-74 || Degree of Freedom",
+      "published_date": "22 May 2022",
+      "video_url": "https://www.youtube.com/embed/CnnthQ5r_3s",
+      "hd_video_url": "https://www.youtube.com/embed/CnnthQ5r_3s",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Lecture-75 || Wave-01",
+      "published_date": "23 May 2022",
+      "video_url": "https://www.youtube.com/embed/yQCjFRN0Y-Y",
+      "hd_video_url": "https://www.youtube.com/embed/yQCjFRN0Y-Y",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Lecture-76 II Wave Class 02",
+      "published_date": "23 May 2022",
+      "video_url": "https://www.youtube.com/embed/dyw9EVyYw58",
+      "hd_video_url": "https://www.youtube.com/embed/dyw9EVyYw58",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Lecture-77 II Wave Class 03",
+      "published_date": "25 May 2022",
+      "video_url": "https://www.youtube.com/embed/xSINk5KegZA",
+      "hd_video_url": "https://www.youtube.com/embed/xSINk5KegZA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Lecture-79 || Sound Class 01",
+      "published_date": "26 May 2022",
+      "video_url": "https://www.youtube.com/embed/SVFERiKBLOs",
+      "hd_video_url": "https://www.youtube.com/embed/SVFERiKBLOs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "Lecture-78 II Wave Class 04",
+      "published_date": "27 May 2022",
+      "video_url": "https://www.youtube.com/embed/nKQLxRTmS84",
+      "hd_video_url": "https://www.youtube.com/embed/nKQLxRTmS84",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "Lecture-80 || Sound Class 02",
+      "published_date": "30 May 2022",
+      "video_url": "https://www.youtube.com/embed/Ex2KZ06PeJE",
+      "hd_video_url": "https://www.youtube.com/embed/Ex2KZ06PeJE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "Lecture-81 || Sound Class 03",
+      "published_date": "31 May 2022",
+      "video_url": "https://www.youtube.com/embed/8F5B-iLkhwk",
+      "hd_video_url": "https://www.youtube.com/embed/8F5B-iLkhwk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 82,
+      "title": "Lecture-82 || Sound Class 04",
+      "published_date": "01 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/Fqbi-lPiDW4",
+      "hd_video_url": "https://www.youtube.com/embed/Fqbi-lPiDW4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "Lecture-83 || Sound Class 05",
+      "published_date": "02 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/DmnA6xLVFrw",
+      "hd_video_url": "https://www.youtube.com/embed/DmnA6xLVFrw",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 84,
+      "title": "Lecture-84 || Sound Class 06",
+      "published_date": "03 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/6DAYls12fDQ",
+      "hd_video_url": "https://www.youtube.com/embed/6DAYls12fDQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 85,
+      "title": "Lecture-85 || Optics 01 ( Reflection )",
+      "published_date": "06 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/7H7_nAOloLo",
+      "hd_video_url": "https://www.youtube.com/embed/7H7_nAOloLo",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 86,
+      "title": "Lecture-86 || Optics 02",
+      "published_date": "07 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/w6CWsHeVYOA",
+      "hd_video_url": "https://www.youtube.com/embed/w6CWsHeVYOA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 87,
+      "title": "Lecture-87 || Optics 03",
+      "published_date": "08 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/Yxy4n2xTDTg",
+      "hd_video_url": "https://www.youtube.com/embed/Yxy4n2xTDTg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 88,
+      "title": "Lecture-88 || Optics 04",
+      "published_date": "08 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/k_MGuS3BaF0",
+      "hd_video_url": "https://www.youtube.com/embed/k_MGuS3BaF0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 89,
+      "title": "Lecture-89 || Optics 05 (Reflection)",
+      "published_date": "09 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/X3_T4Lm1I1U",
+      "hd_video_url": "https://www.youtube.com/embed/X3_T4Lm1I1U",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 90,
+      "title": "Lecture-90 || Optics 06 ( Refraction )",
+      "published_date": "13 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/8nQ7kkskHkI",
+      "hd_video_url": "https://www.youtube.com/embed/8nQ7kkskHkI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 91,
+      "title": "Lecture-91 || Optics 07 (Refraction)",
+      "published_date": "27 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/DvEHZANzdrQ",
+      "hd_video_url": "https://www.youtube.com/embed/DvEHZANzdrQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 92,
+      "title": "Lecture-92 || Lens Class 01",
+      "published_date": "29 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/dxfCOroMxpg",
+      "hd_video_url": "https://www.youtube.com/embed/dxfCOroMxpg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 93,
+      "title": "Lecture-93 || Lens Class 02",
+      "published_date": "29 Jun 2022",
+      "video_url": "https://www.youtube.com/embed/cg-IiI7ho6s",
+      "hd_video_url": "https://www.youtube.com/embed/cg-IiI7ho6s",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 94,
+      "title": "Lecture-94 || Lens Class 03",
+      "published_date": "04 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/29w-pZaXMUc",
+      "hd_video_url": "https://www.youtube.com/embed/29w-pZaXMUc",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 95,
+      "title": "Lecture-95 || Magnification - 01",
+      "published_date": "05 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/EYWH1EA4dA0",
+      "hd_video_url": "https://www.youtube.com/embed/EYWH1EA4dA0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 96,
+      "title": "Lecture-96 || Magnification - 02",
+      "published_date": "06 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/7MuiAgY072E",
+      "hd_video_url": "https://www.youtube.com/embed/7MuiAgY072E",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 97,
+      "title": "Lecture-97 || Dispersion & Deflection of Light",
+      "published_date": "06 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/qSqVvwHDySk",
+      "hd_video_url": "https://www.youtube.com/embed/qSqVvwHDySk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 98,
+      "title": "Lecture-98 || Polarization & Rainbow",
+      "published_date": "08 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/wycCe-LzGwM",
+      "hd_video_url": "https://www.youtube.com/embed/wycCe-LzGwM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 99,
+      "title": "Lecture-99 || Human Eye 01",
+      "published_date": "11 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/MsMNBbIRq40",
+      "hd_video_url": "https://www.youtube.com/embed/MsMNBbIRq40",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 100,
+      "title": "Lecture-100 || Human Eye 02",
+      "published_date": "12 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/zQjkyYKK944",
+      "hd_video_url": "https://www.youtube.com/embed/zQjkyYKK944",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 101,
+      "title": "Lecture-101 || Telescope & Microscope",
+      "published_date": "13 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/GNwK8iaIBUw",
+      "hd_video_url": "https://www.youtube.com/embed/GNwK8iaIBUw",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 102,
+      "title": "Lecture-102 || Prism",
+      "published_date": "13 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/iphSF-byqtA",
+      "hd_video_url": "https://www.youtube.com/embed/iphSF-byqtA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 103,
+      "title": "Lecture-103 || Electricity 01",
+      "published_date": "15 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/5T1qhpJyPqE",
+      "hd_video_url": "https://www.youtube.com/embed/5T1qhpJyPqE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 104,
+      "title": "Lecture-104 || Electricity 02",
+      "published_date": "18 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/BAetgKm2WW4",
+      "hd_video_url": "https://www.youtube.com/embed/BAetgKm2WW4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 105,
+      "title": "Lecture-105 || Electricity 03 (Resistance)",
+      "published_date": "19 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/EZiLhFkCw_o",
+      "hd_video_url": "https://www.youtube.com/embed/EZiLhFkCw_o",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 106,
+      "title": "Lecture-107 || Electricity 05 (Resistance)",
+      "published_date": "21 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/65pudEXIgRs",
+      "hd_video_url": "https://www.youtube.com/embed/65pudEXIgRs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 107,
+      "title": "Lecture-108 || Electricity 06 (Resistance)",
+      "published_date": "22 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/bqFE_QkQLig",
+      "hd_video_url": "https://www.youtube.com/embed/bqFE_QkQLig",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 108,
+      "title": "Lecture-106 || Electricity 04(Resistance)",
+      "published_date": "24 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/AtXkwZlECuQ",
+      "hd_video_url": "https://www.youtube.com/embed/AtXkwZlECuQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 109,
+      "title": "Lecture-109 || Electricity 07 (Ohm's Law)",
+      "published_date": "25 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/O82DohqONRQ",
+      "hd_video_url": "https://www.youtube.com/embed/O82DohqONRQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 110,
+      "title": "Lecture-110 || Electricity 08",
+      "published_date": "26 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/mancge2An5Q",
+      "hd_video_url": "https://www.youtube.com/embed/mancge2An5Q",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 111,
+      "title": "Lecture-111 || Electricity 09 ( Capacitor)",
+      "published_date": "27 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/H0Hy8RsG-ew",
+      "hd_video_url": "https://www.youtube.com/embed/H0Hy8RsG-ew",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 112,
+      "title": "Lecture-112 || Electricity 10 ( Capacitor)",
+      "published_date": "28 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/vzbPeJaR38s",
+      "hd_video_url": "https://www.youtube.com/embed/vzbPeJaR38s",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 113,
+      "title": "Lecture-113 || Electricity 11(Transformer)",
+      "published_date": "29 Jul 2022",
+      "video_url": "https://www.youtube.com/embed/6ijxJ24Ou88",
+      "hd_video_url": "https://www.youtube.com/embed/6ijxJ24Ou88",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 114,
+      "title": "Lecture-114 || Electricity 12(Transformer)",
+      "published_date": "02 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/xSs1p2Q4Fb4",
+      "hd_video_url": "https://www.youtube.com/embed/xSs1p2Q4Fb4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 115,
+      "title": "Lecture-115 || Electricity 13",
+      "published_date": "02 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/jg2Jl7OU0Tg",
+      "hd_video_url": "https://www.youtube.com/embed/jg2Jl7OU0Tg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 116,
+      "title": "Lecture-116 || Electricity 14 (Kirchhoff's 2nd law)",
+      "published_date": "03 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/d9TwrR75hmU",
+      "hd_video_url": "https://www.youtube.com/embed/d9TwrR75hmU",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 117,
+      "title": "Lecture-117 || Electricity 15 (Faraday law )",
+      "published_date": "03 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/RmPODfzPpIU",
+      "hd_video_url": "https://www.youtube.com/embed/RmPODfzPpIU",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 118,
+      "title": "Lecture-118 || Electricity 16 (AC & DC)",
+      "published_date": "05 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/PNI1P-_Irek",
+      "hd_video_url": "https://www.youtube.com/embed/PNI1P-_Irek",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 119,
+      "title": "Lecture-119 || Electricity 17 (AC & DC)",
+      "published_date": "08 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/SHNccnZKfk8",
+      "hd_video_url": "https://www.youtube.com/embed/SHNccnZKfk8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 120,
+      "title": "Lecture-120 || Electricity 18",
+      "published_date": "09 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/F6a_hUifiOA",
+      "hd_video_url": "https://www.youtube.com/embed/F6a_hUifiOA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 121,
+      "title": "Lecture-121 || Electricity 19 (Electric Bill & Battery)",
+      "published_date": "10 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/INT_65DbV9I",
+      "hd_video_url": "https://www.youtube.com/embed/INT_65DbV9I",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 122,
+      "title": "Lecture-122 || Electricity 20 (Cell)",
+      "published_date": "22 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/mPV3kyEpiq4",
+      "hd_video_url": "https://www.youtube.com/embed/mPV3kyEpiq4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 123,
+      "title": "Lecture-123 || Electricity 21 (Cell)",
+      "published_date": "23 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/mW1Ab3ox1DA",
+      "hd_video_url": "https://www.youtube.com/embed/mW1Ab3ox1DA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 124,
+      "title": "Lecture-124 || Electricity 22(Cell)",
+      "published_date": "26 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/fgImOelEIDY",
+      "hd_video_url": "https://www.youtube.com/embed/fgImOelEIDY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 125,
+      "title": "Lecture-126 || Magnet 02",
+      "published_date": "31 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/KsCSlxBPSHI",
+      "hd_video_url": "https://www.youtube.com/embed/KsCSlxBPSHI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 126,
+      "title": "Lecture-127 || Magnet 03",
+      "published_date": "31 Aug 2022",
+      "video_url": "https://www.youtube.com/embed/kSJZ1X0wSoA",
+      "hd_video_url": "https://www.youtube.com/embed/kSJZ1X0wSoA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 127,
+      "title": "Lecture-125 || Magnet 01",
+      "published_date": "01 Sep 2022",
+      "video_url": "https://www.youtube.com/embed/EEbaCId6fzQ",
+      "hd_video_url": "https://www.youtube.com/embed/EEbaCId6fzQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 128,
+      "title": "Lecture-128 || Magnet 04",
+      "published_date": "02 Sep 2022",
+      "video_url": "https://www.youtube.com/embed/Kdgc0UcPzjc",
+      "hd_video_url": "https://www.youtube.com/embed/Kdgc0UcPzjc",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 129,
+      "title": "Lecture-130 || Diode 01",
+      "published_date": "06 Sep 2022",
+      "video_url": "https://www.youtube.com/embed/Bbb3ttd-xWs",
+      "hd_video_url": "https://www.youtube.com/embed/Bbb3ttd-xWs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 130,
+      "title": "Lecture-129 || Photo Electric Effect",
+      "published_date": "06 Sep 2022",
+      "video_url": "https://www.youtube.com/embed/nh9gioQsaPs",
+      "hd_video_url": "https://www.youtube.com/embed/nh9gioQsaPs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 131,
+      "title": "Lecture-131 || Diode And Semiconductor",
+      "published_date": "07 Sep 2022",
+      "video_url": "https://www.youtube.com/embed/y_EecVwyy3A",
+      "hd_video_url": "https://www.youtube.com/embed/y_EecVwyy3A",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,27 @@
+{
+  "subject_name": "Workshop",
+  "subject_id": 6144,
+  "video_count": 2,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Workshop by Chadha Sir",
+      "published_date": "11 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UYUORLux8YV9UIWjItBA1Y8VqMdtuDU8SaxsDFkJ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Workshop by Apoorv Mittal",
+      "published_date": "18 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pHvrzNdu4DuJ2Yu7tpvteHEcobe6ifgF8LvyJTKc.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

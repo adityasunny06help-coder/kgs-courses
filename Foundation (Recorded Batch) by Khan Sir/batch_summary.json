@@ -1,0 +1,76 @@
+{
+  "batch_info": {
+    "title": "Foundation (Recorded Batch) by Khan Sir",
+    "price": "1199",
+    "id": "223",
+    "extracted_date": "2025-08-27T17:22:10.759554"
+  },
+  "subjects": [
+    {
+      "name": "Astronomy (World Geography)",
+      "id": 1237,
+      "video_count": 16,
+      "note_count": 0
+    },
+    {
+      "name": "Topography (World Geography)",
+      "id": 1238,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Geology (World Geography)",
+      "id": 1239,
+      "video_count": 29,
+      "note_count": 0
+    },
+    {
+      "name": "World History",
+      "id": 1240,
+      "video_count": 10,
+      "note_count": 0
+    },
+    {
+      "name": "Indian Geography",
+      "id": 1231,
+      "video_count": 26,
+      "note_count": 0
+    },
+    {
+      "name": "Biology",
+      "id": 1230,
+      "video_count": 104,
+      "note_count": 1
+    },
+    {
+      "name": "Economics",
+      "id": 1232,
+      "video_count": 71,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry",
+      "id": 1229,
+      "video_count": 84,
+      "note_count": 0
+    },
+    {
+      "name": "History",
+      "id": 1233,
+      "video_count": 126,
+      "note_count": 0
+    },
+    {
+      "name": "Physics",
+      "id": 1228,
+      "video_count": 131,
+      "note_count": 0
+    },
+    {
+      "name": "Polity",
+      "id": 1234,
+      "video_count": 95,
+      "note_count": 0
+    }
+  ]
+}

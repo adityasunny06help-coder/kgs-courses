@@ -1,0 +1,415 @@
+{
+  "subject_name": "Basic Electronics by Ashish Soni Sir",
+  "subject_id": 3802,
+  "video_count": 29,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Basic Electronics",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/oBgowXfMxM4",
+      "hd_video_url": "https://www.youtube.com/embed/oBgowXfMxM4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/K72kFX2iaRZFWRQwJm5ISFRUqaFNbkZMBWU0ExHW.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction of Basic Electronics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c58e93a2-8d5f-452a-a651-dbb63cce82d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ||  Basics of Semiconductor Materials  (part-1)",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/SSK6gBmE4MM",
+      "hd_video_url": "https://www.youtube.com/embed/SSK6gBmE4MM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uZs5flhGIunx7KcF0v0zznKUKoLo6YQ7UGZ2z9hv.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Semiconductor Physics (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a230e19-6a08-47e4-b171-d7381009e793.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Basics of Semiconductor Materials (part-2)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/nPPuUXup85Y",
+      "hd_video_url": "https://www.youtube.com/embed/nPPuUXup85Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/L6FWWy4qFR6SBDwmhtcsOgcia6RVKBfukq0xaJwT.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || Basics of Semiconductor Materials (part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6afb77bb-5752-40e3-a2e4-efa2f22600ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Semiconductor Physics (Part-1)",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/1vezvQXGVXc",
+      "hd_video_url": "https://www.youtube.com/embed/1vezvQXGVXc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4PjriWnhxWrggNfgoIhgGmipuWwJxjueSIXF4OyW.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Semiconductor Physics (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d63f8b1-b8a0-4e69-acd6-bb6d24be6a0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Semiconductor Physics Part-2",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/mgV7kVwGf5E",
+      "hd_video_url": "https://www.youtube.com/embed/mgV7kVwGf5E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HlNaFhjanRwbwmZEpWhd4YOuxEGwl4dQtzJ1RSWJ.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Semiconductor Physics Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d5c42a4-3c2d-4b33-85ec-22b32200d6ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || PN Junction Diode (Part-1)",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JwvnmtiBUmA",
+      "hd_video_url": "https://www.youtube.com/embed/JwvnmtiBUmA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nrlwWsAHXyHsyXRh7D2DziMSHlHHYAFS3k3GlV80.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || PN Junction Diode (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/525fd502-9718-41de-b364-4fb5633b12e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || PN Junction Diode (Part-2)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/wjZuk2cthBs",
+      "hd_video_url": "https://www.youtube.com/embed/wjZuk2cthBs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Lri0XiWES2fUNPdzBM58AtsF1CJYHdc0K01eWsvo.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || PN Junction Diode (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9c79c8d-8e78-40a4-b0c7-360952bf35fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Zener Diode (Part-1)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/-Hqt93j5Myo",
+      "hd_video_url": "https://www.youtube.com/embed/-Hqt93j5Myo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MZ8b7F0v6PpyFHONMiA9FvdGJbNK7D3DzIa11Dgr.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Zener Diode (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bbb0c4ce-ce31-4c2d-b80c-b7802c95580d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Zener Diode (Part-2)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/8_FgssL_1-0",
+      "hd_video_url": "https://www.youtube.com/embed/8_FgssL_1-0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6iEOJfZGkifS7lhWyICivW9b3gXUybkdzDb7dQAu.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Zener Diode (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8a69688-d8d7-4aa6-a857-eaea1eda791e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Tunnel diode, LED",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/WGIz6iUxV-s",
+      "hd_video_url": "https://www.youtube.com/embed/WGIz6iUxV-s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HzeeRqQ2fbC6GtqTrTGD3ZaDWtpUqXVZcfde2uEM.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Tunnel diode, LED",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a66a894-46ad-45e0-8a49-aa911f56d4a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Photo Diode, Schottky diode",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/d0AeLvboJ6E",
+      "hd_video_url": "https://www.youtube.com/embed/d0AeLvboJ6E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZWeyuIcCVEik5eXjH5EuFAjY0WjjtvleDcHQ42WF.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Photo Diode, Schottky diode",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec86caf4-419e-4db1-a780-10df790acec5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || BJT (Part-1)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/eSR7hHudHAQ",
+      "hd_video_url": "https://www.youtube.com/embed/eSR7hHudHAQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6OyUQSV5jQLbu8mcc8JvKsmlzG6GOyOJegHYl0JP.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || BJT (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdc25fa4-aab3-495d-a78c-475e1bf27fe6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || BJT (Part-2)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/NE2WxL5NpRE",
+      "hd_video_url": "https://www.youtube.com/embed/NE2WxL5NpRE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nldqnIWgDNzjkXovT1naARykejBEhKWQvjDGakaw.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || BJT (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b67cf79-4d43-4acc-9165-96c06f2a2d4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || BJT (Part-3)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/nIGSYK13vQs",
+      "hd_video_url": "https://www.youtube.com/embed/nIGSYK13vQs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FoxsNJeDcRDtFA6AV8dxBIO9G5nuzYnbKUxzMLXe.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || BJT (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5927a0ff-9996-4e11-bb1d-e02faed65ffe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || BJT (Part-4)",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/EVtE2rC6enU",
+      "hd_video_url": "https://www.youtube.com/embed/EVtE2rC6enU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/b0upxOYo5khgrkBc9pZBHBy071K6qXSoJH4IdNsT.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || BJT (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/763380ef-0177-4869-a590-7975297ae880.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || BJT (Part-5)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/raejUdtyFcU",
+      "hd_video_url": "https://www.youtube.com/embed/raejUdtyFcU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qWUXQQBRQi3CNU1vhxoTNwLywGVN9tGHIXSNR6tQ.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || BJT (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3791c0d8-93f4-438e-8d39-f4b848ca0642.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || BJT (Part-6)",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/LrBfF7Qo_Fo",
+      "hd_video_url": "https://www.youtube.com/embed/LrBfF7Qo_Fo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/N21uiwrHTMp1BBU4qH9Byf0HgEmcN25H6yokebL9.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || BJT (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12805d65-407d-4c7c-9c84-9349a553b274.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || BJT (Part-7)",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/bjwr_m5IRzY",
+      "hd_video_url": "https://www.youtube.com/embed/bjwr_m5IRzY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JuR0CQuPXGmPSiuvqiWAzeFA2SAPj3d7Ko9Nb2f7.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || BJT (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06b58633-d59a-40c5-8233-5ef00c931c88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Feedback Amplifier",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/rVOorNQtk34",
+      "hd_video_url": "https://www.youtube.com/embed/rVOorNQtk34",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Hq7PGdolPYe3l6eNm4l2ONOGZmPYgmIeIGMgrH4Z.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || Feedback Amplifier",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22d2c891-3df2-48af-979a-405ac98a7236.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Power amplifier",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/kTshis-N0jA",
+      "hd_video_url": "https://www.youtube.com/embed/kTshis-N0jA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bgOcVJgXAV7QZ0HrySkBFcNATuMaOdZU5bceASLb.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Power amplifier",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cda85d70-0e8f-4d26-91f4-11b7cc3bccd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || OP-Amp",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Q1t2zTwW-84",
+      "hd_video_url": "https://www.youtube.com/embed/Q1t2zTwW-84",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fl6gzqiXLYMnnuo6b34maqbL0ngJIVG5BmW4pQ81.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || OP-Amp",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a280d4b-b0e3-4bf5-9cfa-5f06d81d2d44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || OP-Amp(Part-2)",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/-J063FVTy3I",
+      "hd_video_url": "https://www.youtube.com/embed/-J063FVTy3I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dS89o8x1t5w8bub14lO9VFwymMgFjw4aCzCoxlsF.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || OP-Amp(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/781dd8cd-20b1-4ee7-aa19-6ef42e66fd98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || FET",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/qjYM-4T9QQg",
+      "hd_video_url": "https://www.youtube.com/embed/qjYM-4T9QQg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mVWH3I0Z4fbuV2W5PWCwpnqvzJJ1tYAN7ZM2Tnv4.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || FET",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f363284-2f66-4c9f-b9e3-727060714108.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || MOSFET",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zTQf-950rog",
+      "hd_video_url": "https://www.youtube.com/embed/zTQf-950rog",
+      "thumbnail": "https://i.ytimg.com/vi/zTQf-950rog/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || MOSFET",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39405034-61c6-4d02-9de0-6cb206a086be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Number System(Part-1)",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/c1DUtV5BrGw",
+      "hd_video_url": "https://www.youtube.com/embed/c1DUtV5BrGw",
+      "thumbnail": "https://i.ytimg.com/vi/c1DUtV5BrGw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Number System (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe6831e9-a1dc-45e0-89ca-bb8d260574bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Number System(Part-2)",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Nex8DXR9rmc",
+      "hd_video_url": "https://www.youtube.com/embed/Nex8DXR9rmc",
+      "thumbnail": "https://i.ytimg.com/vi/Nex8DXR9rmc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Number System(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56fa90c9-6f9e-4e64-a172-fd7569d06a9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Boolean algebra",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/91aoFJURFkE",
+      "hd_video_url": "https://www.youtube.com/embed/91aoFJURFkE",
+      "thumbnail": "https://i.ytimg.com/vi/91aoFJURFkE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Boolean algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6dcf775-bad1-41ad-b600-38332f8c2af5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Logic Gates",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/8MZyDrDA2Cg",
+      "hd_video_url": "https://www.youtube.com/embed/8MZyDrDA2Cg",
+      "thumbnail": "https://i.ytimg.com/vi/8MZyDrDA2Cg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28  Logic Gates",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a81be2b-449f-4c2b-8f17-066d36f074f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Basics of Power Electronics",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zWXhOLYOSfE",
+      "hd_video_url": "https://www.youtube.com/embed/zWXhOLYOSfE",
+      "thumbnail": "https://i.ytimg.com/vi/zWXhOLYOSfE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Basics of Power Electronics Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/222bcea3-2463-4db3-940b-f7bbe72faef6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,135 @@
+{
+  "subject_name": "Theory of Machine by Amit Maurya Sir",
+  "subject_id": 4684,
+  "video_count": 9,
+  "note_count": 9,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture: -01: Basic Introduction of\nMechanism and machines, link, kinematics\npairs, constrained motion",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bCqXRdtVzOs",
+      "hd_video_url": "https://www.youtube.com/embed/bCqXRdtVzOs",
+      "thumbnail": "https://i.ytimg.com/vi/bCqXRdtVzOs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture: -01: Basic Introduction of Mechanism and machines, link, kinematics pairs, constrained motion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77cc2da5-c6a1-4b42-8e2a-f13368daeb3e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Grashof Law, calculation of degree of freedom, Inversion of mechanism\" (Part-1)",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/P-InJ-oK9Xo",
+      "hd_video_url": "https://www.youtube.com/embed/P-InJ-oK9Xo",
+      "thumbnail": "https://i.ytimg.com/vi/P-InJ-oK9Xo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Grashof Law, calculation of degree of freedom, Inversion of mechanism\" (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46323815-3fb4-49b8-887d-f5c003c56d84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Grashof Law, calculation of degree of freedom, Inversion of mechanism\" (Part-2)",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/n8GVjviNrag",
+      "hd_video_url": "https://www.youtube.com/embed/n8GVjviNrag",
+      "thumbnail": "https://i.ytimg.com/vi/n8GVjviNrag/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Grashof Law, calculation of degree of freedom, Inversion of mechanism\" (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/876f96ac-a8ef-471e-ac36-7ab32ddaff8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Calculation of Velocity and\nacceleration of links, kinematics chains\"",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/22cFWrhbG8c",
+      "hd_video_url": "https://www.youtube.com/embed/22cFWrhbG8c",
+      "thumbnail": "https://i.ytimg.com/vi/22cFWrhbG8c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Calculation of Velocity and acceleration of links, kinematics chains\"",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/008c7ffe-2ec7-4f7e-a917-8928c1360aad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Instantaneous center of rotation",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-9IOFb0gYtc",
+      "hd_video_url": "https://www.youtube.com/embed/-9IOFb0gYtc",
+      "thumbnail": "https://i.ytimg.com/vi/-9IOFb0gYtc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Instantaneous center of rotation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/046c674e-95c1-4c61-81aa-69ea26744678.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Cam and Followers (Part-01)",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vYUQE0hd6D8",
+      "hd_video_url": "https://www.youtube.com/embed/vYUQE0hd6D8",
+      "thumbnail": "https://i.ytimg.com/vi/vYUQE0hd6D8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Cam and Followers (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba028ca1-9670-4478-9665-5d589aa1e6ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Cam and Followers (Part-02)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/AA3flnKXoqI",
+      "hd_video_url": "https://www.youtube.com/embed/AA3flnKXoqI",
+      "thumbnail": "https://i.ytimg.com/vi/AA3flnKXoqI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Cam and Followers (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c848493a-5d9f-4b22-a654-9ff2216ccb10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Concept of Gear and gear Train’s (Part-1)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gYom8N-fFVc",
+      "hd_video_url": "https://www.youtube.com/embed/gYom8N-fFVc",
+      "thumbnail": "https://i.ytimg.com/vi/gYom8N-fFVc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Concept of Gear and gear Train’s (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03bf2e24-06ff-4041-8c94-60c2c52351e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Concept of Gear and gear Train’s (Part-02)",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/j8KhyUAes6I",
+      "hd_video_url": "https://www.youtube.com/embed/j8KhyUAes6I",
+      "thumbnail": "https://i.ytimg.com/vi/j8KhyUAes6I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Concept of Gear and gear Train’s (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bf880c3-000d-4aae-a998-e155765c0167.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,970 @@
+{
+  "subject_name": "Geography by Abhishek Sir",
+  "subject_id": 3895,
+  "video_count": 69,
+  "note_count": 68,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Himalaya || हिमालय (Part-1)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132648/kgss-1729171317-v132648.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OdEni56y7D8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb32de45.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Himalaya || हिमालय (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06e40061-8116-4eb2-ac5d-9368ea3b2354.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Himalaya || हिमालय (Part-2)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/133615/kgss-1729230737-v133615.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lEwM7fooQU8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb2a1fcf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Himalaya || हिमालय (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3625970-36fa-4c4a-95c0-ab9bb7c8c3c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Himalaya || हिमालय (Part-3)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138264/kgss-1729576020-v138264.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AGrN74_Detc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb220210.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Himalaya || हिमालय (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e01d1b1a-22c4-4ede-83ea-8adfc79bb5ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Himalaya || हिमालय (Part-4)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc-crash-course/geo-abhishek-sir/l-04/geo-crash-co.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Lu9joTIG1gQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb198e5d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Himalaya || हिमालय (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0724edea-9241-4ed3-958f-e1d7b36a09c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Himalaya || हिमालय (Part-5)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138912/kgss-1729748811-v138912.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bRoqBTfy-so",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb11b0e2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Himalaya || हिमालय (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66633948-050f-4d47-bca4-ea7e2852dd9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Himalaya || हिमालय (Part-6)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140356/kgss-1729835312-v140356.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cCq8X6DkHaE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb093093.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Himalaya || हिमालय (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f4004d3-c0a0-44f2-a26e-c0f9ffbebc62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Islands in India || भारत में द्वीप (Part-1)",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140778/kgss-1730093730-v140778.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fD9CKdoBKbw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fb014080.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Indian River System || भारतीय नदी तंत्र (Part-1)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141865/kgss-1730181248-v141865.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aGVXz0bRk0E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5faf8c20e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Islands in India || भारत में द्वीप (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef1bdbc1-eb92-43f1-839b-4babc5b08c0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Indian River System || भारतीय नदी तंत्र (Part-2)",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/145634/kgss-1730265433-v145634.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fEIhvc1RmDo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5faf0ccaf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Indian River System || भारतीय नदी तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5de53005-f0e2-41de-ba98-eec45e94fccf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Indian River System || भारतीय नदी तंत्र (Part-3)",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146519/kgss-1730785904-v146519.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/h_BODPr8U9A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688b5fae4d464.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Indian River System || भारतीय नदी तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab82c427-d3b4-4e8f-9609-08de78ea0091.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Indian River System || भारतीय नदी तंत्र (Part-4)",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146720/kgss-1730871386-v146720.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5XL6kA-UQ60",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2620afea.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Indian River System || भारतीय नदी तंत्र (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2c53170-664f-42c5-ba86-5246e948262d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Indian River System || भारतीय नदी तंत्र (Part-5)",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147108/kgss-1730957809-v147108.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tkH_GPpmWbE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b26187734.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Indian River System || भारतीय नदी तंत्र (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f59885d3-76d1-4e4c-b0c4-c9530c753c9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Indian River System || भारतीय नदी तंत्र (Part-6)",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147443/kgss-1731045246-v147443.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZeiYd1uIpt4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2610fcb3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Indian River System || भारतीय नदी तंत्र (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9c03654-4cff-46af-9be0-7579eecedf53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Indian River System || भारतीय नदी तंत्र (Part-7)",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/148226/kgss-1731304062-v148226.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0aoOT0wHSmE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2608a3cd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Indian River System || भारतीय नदी तंत्र (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8df3ee5a-f81c-4dc8-bf87-dd9df202801b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Indian River System || भारतीय नदी तंत्र (Part-8)",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/148908/kgss-1731390722-v148908.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ciMkPNgEtkU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2601213a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Indian River System || भारतीय नदी तंत्र (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/061ea964-376e-49e6-a2d1-ed1a1712b77b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-1)",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/149912/kgss-1731477276-v149912.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lD6_VJfDygw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25f8ee4e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/571026a9-e572-418f-8938-c4de6f100e06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-2)",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/150459/kgss-1731564006-v150459.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/42AUGEfvKHI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25f16953.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc5ecacc-f27c-49b9-9ba6-048e9752908b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-3)",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/150973/kgss-1731649674-v150973.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7DJ91afwKuw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25e93d8f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba34c2da-dcb7-42d9-a8d9-b9923e1827e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-4)",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/152055/kgss-1731908579-v152055.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZmPwqbJu0pA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25e19a4c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51ade137-d2b3-4f7c-a26d-49b373f522b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Monsoon in India || भारत में मानसून (Part-1)",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/152575/kgss-1731995827-v152575.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CqfjCUZxeaw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25d95f0e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f16aac24-2254-41af-8a07-7744b780b21b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Monsoon in India || भारत में मानसून (Part-2)",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/153242/kgss-1732081478-v153242.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NzwcbuYr8fY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25d174bc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Peninsular Plateau Region ||प्रायद्वीपीय पठारी क्षेत्र (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a457006-f4e9-4f43-acc4-83fcd7432506.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Monsoon in India || भारत में मानसून (Part-3)",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/154344/kgss-1732250719-v154344.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AsZkyyI-V9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25c93a97.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Monsoon in India || भारत में मानसून (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13150238-9179-4301-88e9-5754235565ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Soil in India || भारत में मृदाएँ (Part-1)",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/155638/kgss-1732513664-v155638.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bPERmsyiWV0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25c1acfe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Monsoon in India || भारत में मानसून (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2397999c-a3a1-432b-bdd6-450c120823d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Soil in India || भारत में मृदाएँ (Part-2)",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/156420/kgss-1732600401-v156420.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nmOqbtI0Pls",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25b9837a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Soil in India || भारत में मृदाएँ (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad2c3092-8209-4a9a-8eca-1dbfe3a3bb65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Soil in India || भारत में मृदाएँ (Part-3)",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/156919/kgss-1732686257-v156919.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iDSHYGBuR3s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25b21c10.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Soil in India || भारत में मृदाएँ (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4646dce-b355-4408-b63b-74ebd714e2a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Agriculture In India || भारत में कृषि (Part-1)",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/157604/kgss-1732773110-v157604.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zIMfzYD8oXw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25a9ce91.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Soil in India || भारत में मृदाएँ (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83f35c21-0df9-4eb1-b446-bc40f12ebc9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Agriculture In India || भारत में कृषि (Part-2)",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/158239/kgss-1732859837-v158239.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KM-DAQwKjIs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25a26c01.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Soil in India || भारत में मृदाएँ (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0821f1d-ed94-4d69-8a7c-9f87b30c495b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Agriculture In India || भारत में कृषि (Part-3)",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/159375/kgss-1733117183-v159375.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Aka28G09U_8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b259a3128.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Agriculture In India || भारत में कृषि (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0cc4a8a-b817-4b76-a4a5-a2f53fedca05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Minerals and Resources || खनिज एवं संसाधन (Part-1)",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/160027/kgss-1733204567-v160027.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qnKNVrJkUOY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2592afcf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Minerals and Resources || खनिज एवं संसाधन (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8187a9e-039a-41cb-9c56-473514b89464.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Minerals and Resources || खनिज एवं संसाधन (Part-2)",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/162652/kgss-1733377161-v162652.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2xF-XkUyriM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b258a96a7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Minerals and Resources || खनिज एवं संसाधन (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55e4bc84-10ad-4d02-acd9-5a354571023b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Minerals and Resources || खनिज एवं संसाधन (Part-3)",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/163139/kgss-1733464688-v163139.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/C8pLT6yvXKw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2582fd0d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Minerals and Resources || खनिज एवं संसाधन (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e9a79a9-1f1f-46ea-aa10-1996f5b95140.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Minerals and Resources || खनिज एवं संसाधन (Part-4)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/163895/kgss-1733722985-v163895.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lKoEgmn_97w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b257a67bf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Minerals and Resources || खनिज एवं संसाधन (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb5f9d75-d9af-49b4-9a7f-26875bf386ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Minerals and Resources || खनिज एवं संसाधन (Part-5)",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/164609/kgss-1733809749-v164609.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/h3HeGWYTuFo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2572f533.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Minerals and Resources || खनिज एवं संसाधन (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1757405-b595-4d2a-80f5-03fe26bc7686.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Minerals and Resources || खनिज एवं संसाधन (Part-6)",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/165121/kgss-1733896244-v165121.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pbzKafo2CRQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b256a5edf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Minerals and Resources || खनिज एवं संसाधन (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e6b95fe-b499-4219-a558-e7881b37039d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Minerals and Resources || खनिज एवं संसाधन (Part-7)",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/165638/kgss-1733982620-v165638.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NCK-B0wy-xs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2562f336.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Minerals and Resources || खनिज एवं संसाधन (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/286d2b62-0e8b-49ae-9695-9e025ebec1d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Forest and Vegetation in Indian || भारतीय में वन एवं वनस्पति (Part-1)",
+      "published_date": "14 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/166478/kgss-1734155959-v166478.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0kpMuL9CAlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b255ac130.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Minerals and Resources || खनिज एवं संसाधन (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9861a6ef-336d-4ea9-a7bd-d93bc8372317.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Forest and Vegetation in Indian || भारतीय में वन एवं वनस्पति (Part-2)",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc-crash-course/geo-abhishek-sir/l-37/geo-crash-co.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KfebVlt8zQI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25531b07.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Forest and Vegetation in Indian || भारतीय में वन एवं वनस्पति (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c13af304-6923-419f-9baa-f4a7b497bc93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Solar System || सौर परिवार (Part-1)",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/168272/kgss-1734500432-v168272.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nZW9OzJgV5Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b254a7264.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Solar System || सौर परिवार (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abafcbe8-f769-4063-a676-81e73dc8da88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Solar System || सौर परिवार (Part-2)",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/170073/kgss-1734932414-v170073.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g3Y-MdD5OYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2542e00e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Solar System || सौर परिवार (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f96ec141-4ee6-46da-b84f-362cd74e5bf3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Solar System || सौर परिवार (Part-3)",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/170723/kgss-1735019311-v170723.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-w1eYs9lQrg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b253ac37c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Solar System || सौर परिवार (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ec2daf7-6d41-4a90-8777-4ba0409c9bf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Solar System || सौर परिवार (Part-4)",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/171384/kgss-1735192633-v171384.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Auwu83OnZb4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25336282.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Solar System || सौर परिवार (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb123066-b7be-4fa5-a0ee-79759597781f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Solar System || सौर परिवार (Part-5)",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/172256/kgss-1735277666-v172256.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oaXEGcUwCoo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b252b166b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Solar System || सौर परिवार (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b19fd3ce-1843-49c3-bbfd-588cd73fe67e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Solar System || सौर परिवार (Part-6)",
+      "published_date": "28 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/172631/kgss-1735365273-v172631.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dTDAvPb4AXY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25239a7a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Solar System || सौर परिवार (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a1b9791-b258-4bba-b75f-0e16d3c0f8ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Solar System || सौर परिवार (Part-7)",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/172780/kgss-1735538174-v172780.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iY12hRGNL0A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b251b368c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Solar System || सौर परिवार (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/800d9884-3b96-4026-bdd1-1efa08fab6dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Solar System || सौर परिवार (Part-8)",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/173263/kgss-1735623359-v173263.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dHPN7RtHBFE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25139445.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Solar System || सौर परिवार (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5979aa8-6952-4bda-a061-507978ab54ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Motion of Earth || पृथ्वी की गति",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/173615/kgss-1735796077-v173615.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oIs_XDM0zUk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bhjRFEKS1r6OlzoeXJEd1rTavP0YEzIpFJwvjF82.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Motion of Earth || पृथ्वी की गति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/356cdf68-58fd-4fcb-bba2-1025d132788d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Internal Structure of Earth || पृथ्वी की आंतरिक संरचना (Part-1)",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174009/kgss-1735883188-v174009.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DjAdmQ9QilY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2507faac.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Internal Structure of Earth || पृथ्वी की आंतरिक संरचना",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48210321-7133-41d3-8ab1-857f7be52170.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Internal Structure of Earth || पृथ्वी की आंतरिक संरचना (Part-2)",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174638/kgss-1736142320-v174638.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XK8d4Icby18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b25008c2b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Internal Structure of Earth || पृथ्वी की आंतरिक संरचना (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/247c7f1c-54d6-4ad3-9c67-f63348354fd6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Earthquake || भूकंप (Part-1)",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/175611/kgss-1736229451-v175611.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GdC7nVMUFmI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24f83d2a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Internal Structure of Earth || पृथ्वी की आंतरिक संरचना (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8916694-b995-4bad-bb49-959f566b0ed8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Earthquake || भूकंप (Part-2)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176235/kgss-1736314733-v176235.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qnBC59QLg5U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24f0c884.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Earthquake || भूकंप (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3630323-8aba-4ae1-bdbb-6b783c5dc8c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Atmosphere || वायुमंडल (Part-1)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177148/kgss-1736488300-v177148.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sCUIMZJG860",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24e8abfa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Earthquake || भूकंप (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fd681f3-2382-4e41-98ef-c004b1893b37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Atmosphere || वायुमंडल (Part-2)",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177569/kgss-1736747426-v177569.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gi57I7BLCsA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24e12f6b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Atmosphere || वायुमंडल (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2424b296-db14-48b0-b92c-4dcaf66b3e41.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Atmosphere || वायुमंडल (Part-3 )",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178467/kgss-1736833958-v178467.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eJJPwUnwEq4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24d8f800.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Atmosphere || वायुमंडल (Part-3 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3f8bc1d-0237-4266-bc5c-7b8f62c8529a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Atmosphere || वायुमंडल (Part-4)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178916/kgss-1736920633-v178916.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pmYt0fLX1H8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24d18c36.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Atmosphere || वायुमंडल (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39ffc528-04bd-4f03-8402-be70ce86b5dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Atmosphere || वायुमंडल (Part-5)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179538/kgss-1737006349-v179538.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gDWZXn5cAhk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24c94ef3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Atmosphere || वायुमंडल (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8c9dcd5-a940-4fd9-81a8-f79bdd69c2ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Atmosphere || वायुमंडल (Part-6)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179885/kgss-1737092615-v179885.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/snj9_4ORY64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24c19e36.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Atmosphere || वायुमंडल (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6d11b14-5cee-42ff-9dd3-40ab86871e30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Atmosphere || वायुमंडल (Part-7)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181829/kgss-1737351336-v181829.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BmujDk28M28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24b956e5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Atmosphere || वायुमंडल (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ddb1f48-aa8f-4011-ade1-f3ebaff99756.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Atmosphere || वायुमंडल (Part-8)",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182460/kgss-1737438878-v182460.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y37M9z2V65Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24b1f4f1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Atmosphere || वायुमंडल (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e4226f7-aff5-4040-9b19-d8f88b9c260c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Atmosphere || वायुमंडल (Part-9)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182787/kgss-1737525014-v182787.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-ojva1Cgr6I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24a9bdcc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Atmosphere || वायुमंडल (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aecb839b-a1b6-4ae7-a71f-49036444c8dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Asia || एशिया (Part-1)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/183604/kgss-1737611824-v183604.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c2blUwd2Fzo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24a23a6d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || Asia || एशिया (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19c0aae3-18b7-4753-9a91-4226086287a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Asia || एशिया (Part-2)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/183706/kgss-1737697210-v183706.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XvXNi_BDmNE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2499be66.jpg",
+      "notes": [
+        {
+          "title": "Lecture-61 || Asia || एशिया (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/618f2476-fd7a-4db9-b439-1e77f10ccb52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Asia || एशिया (Part-3)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185074/kgss-1737957300-v185074.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5lJwqRcFMhY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b249215f7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-62 || Asia || एशिया (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6b7e63e-d067-4ac4-9faa-9c797a1babd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Asia || एशिया (Part-4)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc-crash-course/geo-abhishek-sir/l-63/geo-crash-co.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AmbIbl4tiXw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2489de4c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-63 || Asia || एशिया (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ceea246e-3a13-480d-98a3-8fbc8c482137.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Asia || एशिया (Part-5)",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/186563/kgss-1738216404-v186563.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LgYynPW-Y84",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b248265ff.jpg",
+      "notes": [
+        {
+          "title": "Lecture-64 || Asia || एशिया (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be6b1289-5595-47b1-82ec-6d1c7bdd5075.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Asia || एशिया (Part-6)",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/186937/kgss-1738302055-v186937.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_cYS-pbjFrQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b247a01ca.jpg",
+      "notes": [
+        {
+          "title": "Lecture-65 || Asia || एशिया (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed8d3bfa-89f3-46f3-a948-be87d9ca414a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || Asia || एशिया (Part-7)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/187722/kgss-1738561835-v187722.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mwKyuMuLb8U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b24729637.jpg",
+      "notes": [
+        {
+          "title": "Lecture-66 || Asia || एशिया (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce3fcd17-156f-43a2-bc72-6c0038697377.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Asia || एशिया (Part-8)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188713/kgss-1738648435-v188713.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UVmGCS-_YRU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b246a4b82.jpg",
+      "notes": [
+        {
+          "title": "Lecture-67 || Asia || एशिया (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8c50911-cee9-4fc4-bd2d-a799f1357466.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || South America Continent || दक्षिण अमेरिका महाद्वीप",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189404/kgss-1738733270-v189404.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b_plDI68qzk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b2462af58.jpg",
+      "notes": [
+        {
+          "title": "Lecture-68 || Asia || एशिया (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1366085e-e146-408c-a536-e45041aed7c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-69 || Australia Continent || ऑस्ट्रेलिया महाद्वीप",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189976/kgss-1738820669-v189976.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4EM0k60nPjk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884b245722b6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-69 || Asia || एशिया (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23dbc112-b6fc-4b39-99e2-c958a536440d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

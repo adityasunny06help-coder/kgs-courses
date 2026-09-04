@@ -1,0 +1,45 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 6209,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Session",
+      "published_date": "15 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cwaKIIs7GC1RxLpg27l4S2hOifbjo7PApNUPWxcF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Introduction Class by Imran Nazir Sir",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dJUSSxRSC7Y",
+      "hd_video_url": "https://www.youtube.com/embed/dJUSSxRSC7Y",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "How to Use Your Application",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "KGS Mein Admission Kaise Lein? Step-by-Step Complete Guide",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "hd_video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

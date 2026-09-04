@@ -1,0 +1,23 @@
+{
+  "subject_name": "Math by Amit Sir",
+  "subject_id": 7756,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Math Marathon Class",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/0INHB6hzTtw",
+      "hd_video_url": "https://www.youtube.com/embed/0INHB6hzTtw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CDxEGrroBK75MAIAN9a9iQij1zef7C6vRzmxCj8E.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Math Marathon Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d153f77-91ef-41e3-bd9a-1e6258ea6acf.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

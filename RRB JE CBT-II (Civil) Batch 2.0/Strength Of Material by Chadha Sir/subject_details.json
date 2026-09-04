@@ -1,0 +1,457 @@
+{
+  "subject_name": "Strength Of Material by Chadha Sir",
+  "subject_id": 3811,
+  "video_count": 32,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ll Introduction To Stress & Strain",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7FgfCR2T16s",
+      "hd_video_url": "https://www.youtube.com/embed/7FgfCR2T16s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MVxTV3dmS9ulPNYXeBpzdmz246YCCRaifYsqHO7m.png",
+      "notes": [
+        {
+          "title": "Lecture-01 ll Introduction To Stress & Strain",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95ffc984-8340-4e63-8534-ab93294aa5a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ll Hooke'S Law & Elongation of The Bar",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/wgaB2GyFzpc",
+      "hd_video_url": "https://www.youtube.com/embed/wgaB2GyFzpc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aehpRkHwEu27XcINYioeQvfz0jENDax65TsdABUA.png",
+      "notes": [
+        {
+          "title": "Lecture-02 ll Hooke'S Law & Elongation of The Bar",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a31bf34e-b8f5-43ad-9955-e6f116895a7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ll Elastic Constants",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7TYtK_bJeWI",
+      "hd_video_url": "https://www.youtube.com/embed/7TYtK_bJeWI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/COcAWfmotv8pUQl0lr681F94zHmTzIrP6oYxszs4.png",
+      "notes": [
+        {
+          "title": "Lecture-03 ll Elastic Constants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b070050c-011a-4df8-90be-0c3ed9932642.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ll Stress - Strain Diagram Of Mild Steel",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7ogDKrsBuzo",
+      "hd_video_url": "https://www.youtube.com/embed/7ogDKrsBuzo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WGhTNgroHG7DNaLstcKEaMjsgxI6wIS32OpJYsxL.png",
+      "notes": [
+        {
+          "title": "Lecture-04 ll Stress - Strain Diagram Of Mild Steel",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e40db1f1-3b32-4b2d-98d1-7ada10bff72d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ll Thermal Stresses",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/VlpUTXtt_F4",
+      "hd_video_url": "https://www.youtube.com/embed/VlpUTXtt_F4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5CedWuryb7LP1plfHskLiL5B6XFciuLpvwTKuJjn.png",
+      "notes": [
+        {
+          "title": "Lecture-05 ll Thermal Stresses",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52d399f1-4ef2-4b2a-97fc-912b2457ba03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 ll Strain Energy & Type of Loadings",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/6hGu9C3bwUc",
+      "hd_video_url": "https://www.youtube.com/embed/6hGu9C3bwUc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zKxaWA526O1tCj2wI2yzgALIIIRr7pCPXi0nYN3W.png",
+      "notes": [
+        {
+          "title": "Lecture-06 ll Strain Energy & Type of Loadings",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c35fbe3d-89e5-4c7c-ab1b-389215c42f6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 ll Question Practice",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/z1ugTgcDHcs",
+      "hd_video_url": "https://www.youtube.com/embed/z1ugTgcDHcs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BqKQryGHdSvLPaCXktj0CrYDI9d7adgFUl24ZBqW.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Questions Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74ea9920-7156-4a1e-80b7-bf227cebe983.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 ll Stresses At Different Planes",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/4QqyPS2QVko",
+      "hd_video_url": "https://www.youtube.com/embed/4QqyPS2QVko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/C6448LiQnKmSh1nWnoF5nqHbguKo7I31mkO3mPza.png",
+      "notes": [
+        {
+          "title": "Lecture-08 ll Stresses At Different Planes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd56fc41-3b3f-4a44-a114-ced5a81e4d59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 ll Principal Stresses",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/0_WAikgOugw",
+      "hd_video_url": "https://www.youtube.com/embed/0_WAikgOugw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Q5ozaSCtzl4rN4XJ1FBWpEEqZAVdEc8z658lDVg9.png",
+      "notes": [
+        {
+          "title": "Lecture-09 ll Principal Stresses",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5212894e-4a25-4a6a-bcc4-06c85a01604f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 ll Mohr'S Circle Of Stresses",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/msuZCPHNhFA",
+      "hd_video_url": "https://www.youtube.com/embed/msuZCPHNhFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kWB9oQBlsxciBFEzjrO3bSUvKoFW7i55Jz5IGf81.png",
+      "notes": [
+        {
+          "title": "Lecture-10 ll Mohr'S Circle Of Stresses",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a32627a-023f-40f3-b26c-b143dd55d33a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ll Principal Strains",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/gKx6OCklwc4",
+      "hd_video_url": "https://www.youtube.com/embed/gKx6OCklwc4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CCvTq9IivnCFhfTKXCG5HDDxzGq1OrDlCGZwPRWB.png",
+      "notes": [
+        {
+          "title": "Lecture-11 ll Principal Strains",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/724051ad-bdb0-4217-802a-292ee63fc0ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 ll Calculation Of Reactions",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/fvpw-sOoy_A",
+      "hd_video_url": "https://www.youtube.com/embed/fvpw-sOoy_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0CAIBW9JJrzmENRXPQw3gUA4UY6q47kmGLgbKpW8.png",
+      "notes": [
+        {
+          "title": "Lecture-12 ll Calculation Of Reactions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8483156-73b5-4a06-8bed-9e9d38a27927.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 ll Sfd & Bmd For Cantilevers",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/i4BSKfVfPJ8",
+      "hd_video_url": "https://www.youtube.com/embed/i4BSKfVfPJ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qvjzc8hACIoP9ndv08WMutGUeYh4TtVvTwyyqhOQ.png",
+      "notes": [
+        {
+          "title": "Lecture-13 ll Sfd & Bmd For Cantilevers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d6bf760-0827-448b-9ed7-71a83ef628a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ll SFD & BMD For Simply Supported Beams",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/qqYLicnJEv0",
+      "hd_video_url": "https://www.youtube.com/embed/qqYLicnJEv0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LqdqRNFofhqERJOOLaH6DMoOdc224jdpF1EfoZ4G.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || SFD & BMD For Simply Supported Beams",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89eae967-52dd-4dd7-9576-32b0e7aaf08e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ll SFD & BMD For Overhanging Beams",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/9Cyu7cP_y-4",
+      "hd_video_url": "https://www.youtube.com/embed/9Cyu7cP_y-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KsPrNkRquswMGlnmCsfKOMhWiu7lU5Olrt6fXbJu.png",
+      "notes": [
+        {
+          "title": "Lecture-15 ll SFD & BMD For Overhanging Beams",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98815019-5464-40ba-be48-8a7b2c2fc2de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ll SFD & BMD For Internal Hinge",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/6Hxwsld-IyQ",
+      "hd_video_url": "https://www.youtube.com/embed/6Hxwsld-IyQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dLddpYObpX0VjiCEMbN0iNVfab8y5gkNfk5F6YtD.png",
+      "notes": [
+        {
+          "title": "Lecture-16 ll SFD & BMD For Internal Hinge",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d797f6be-3662-40e8-a194-382cf1b53dfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 ll Bending Equation",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ifN8FgpFQMQ",
+      "hd_video_url": "https://www.youtube.com/embed/ifN8FgpFQMQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2t7P72UpAG61tmecbNUFeCe282obBt9Uiqcc4CqS.png",
+      "notes": [
+        {
+          "title": "Lecture-17 ll Bending Equation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65e23e38-0e13-4f8e-b9c9-ae05dd3f214c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 ll Section Modulus",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/CQlIdeTgXas",
+      "hd_video_url": "https://www.youtube.com/embed/CQlIdeTgXas",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GSPrFGSghLUDPnFd3drs4Al9YQNhiIeoMead75W0.png",
+      "notes": [
+        {
+          "title": "Lecture-18 ll Section Modulus",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3b8cc1b-7f93-46e2-b765-1c3a4b94814c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ll Beams of Uniform Strength & Composite Beams",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/WxsNZ5O28Bk",
+      "hd_video_url": "https://www.youtube.com/embed/WxsNZ5O28Bk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qtcIQ0XZ9tgYawf1YE0XolGIquUubwkZTUUSRZjS.png",
+      "notes": [
+        {
+          "title": "Lecture-19 ll Beams of Uniform Strength & Composite Beams",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be7c018e-f273-400f-a46b-baa45ca6e6db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 ll Rectangular, Triangular & Circular Section",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/lKd4GZxDtHY",
+      "hd_video_url": "https://www.youtube.com/embed/lKd4GZxDtHY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rumDuAh210aWkeJ9yvM3L2ULIz5R4D1kdYYyQhk5.png",
+      "notes": [
+        {
+          "title": "Lecture-20 ll Rectangular, Triangular & Circular Section",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c542a58c-6ce7-4260-9f25-ae62e813097b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 ll I Section, T Section & Diamond Section",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/KYROSNwatlo",
+      "hd_video_url": "https://www.youtube.com/embed/KYROSNwatlo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DXfhcPHswGuBFCCZj5ppkVvtQXUmRCMvK3INc8WE.png",
+      "notes": [
+        {
+          "title": "Lecture-21 ll I Section, T Section & Diamond Section",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b59d1b3-26cc-436e-8914-0c72acb80af8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 ll Combined Bending & Direct Stresses (Part-01)",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/1_nmADKSw98",
+      "hd_video_url": "https://www.youtube.com/embed/1_nmADKSw98",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/j5kroniLy2XmTojGVutSXop0ogqZOtUOrl2lR1Qi.png",
+      "notes": [
+        {
+          "title": "Lecture-22 ll Combined Bending & Direct Stresses (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/579cf797-f49f-4668-a0b0-a16c72c9142c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 ll Combined Bending & Direct Stresses (Part-02)",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/YRFgKySeeq8",
+      "hd_video_url": "https://www.youtube.com/embed/YRFgKySeeq8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/62hAPjE5HWZ3JJhnYjV8rHaIicg5TO3rMX0f0b5w.png",
+      "notes": [
+        {
+          "title": "Lecture-23 ll Combined Bending & Direct Stresses (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28bf6304-d656-4066-a9eb-d932ff62960c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 ll Moment Area Method",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Fq-33uPblgo",
+      "hd_video_url": "https://www.youtube.com/embed/Fq-33uPblgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DYAhYxWB0LdIIZoqyGxZTvgbCk7km8irJoO5sz2X.png",
+      "notes": [
+        {
+          "title": "Lecture-23 ll Combined Bending & Direct Stresses (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f5316e0-8853-4326-931d-99a3f142555b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 ll Macaulay's Method",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/D5OFdrk0p1g",
+      "hd_video_url": "https://www.youtube.com/embed/D5OFdrk0p1g",
+      "thumbnail": "https://i.ytimg.com/vi/D5OFdrk0p1g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 ll Macaulay's Mathod",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4a142f7-8318-46d0-87b2-6fb2914ba0db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 ll Strain Energy Method",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/qpOFtVfMAKE",
+      "hd_video_url": "https://www.youtube.com/embed/qpOFtVfMAKE",
+      "thumbnail": "https://i.ytimg.com/vi/qpOFtVfMAKE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 ll Strain Energy Method",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa558716-a38c-4725-8499-4214571436b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 ll Other Methods",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/m13kyIgDGWM",
+      "hd_video_url": "https://www.youtube.com/embed/m13kyIgDGWM",
+      "thumbnail": "https://i.ytimg.com/vi/m13kyIgDGWM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 ll Other Methods",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd486f44-c7c0-469e-bdb0-47a5d5118bd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 ll Torsional Equation",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/s8-cAPq3LkI",
+      "hd_video_url": "https://www.youtube.com/embed/s8-cAPq3LkI",
+      "thumbnail": "https://i.ytimg.com/vi/s8-cAPq3LkI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 ll Torsional Equation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc2849cb-69f4-4402-a11a-318c1a40d76c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 ll Shafts In Connection",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/R53LtAcapXw",
+      "hd_video_url": "https://www.youtube.com/embed/R53LtAcapXw",
+      "thumbnail": "https://i.ytimg.com/vi/R53LtAcapXw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 ll Shafts In Connection",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5283e9f-9d00-4079-b3b4-c7d87ee0f1f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 ll Struts & Columns",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/jCwHGA5KXb0",
+      "hd_video_url": "https://www.youtube.com/embed/jCwHGA5KXb0",
+      "thumbnail": "https://i.ytimg.com/vi/jCwHGA5KXb0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 ll Struts & Columns",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4246333-a3ae-4711-af94-eb39f0a76c7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 ll Theories of Failure",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/aCt3Dx_8kQI",
+      "hd_video_url": "https://www.youtube.com/embed/aCt3Dx_8kQI",
+      "thumbnail": "https://i.ytimg.com/vi/aCt3Dx_8kQI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 ll Theories of Failure",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8cf4d4b-2797-41e8-86ac-389de90ebe68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 ll Thin Cylinders & Spheres",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PBbKvUE2Uv0",
+      "hd_video_url": "https://www.youtube.com/embed/PBbKvUE2Uv0",
+      "thumbnail": "https://i.ytimg.com/vi/PBbKvUE2Uv0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 ll Thin Cylinders & Spheres",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdde5c52-1611-4ea0-b7c6-521e3ef09596.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,233 @@
+{
+  "subject_name": "Matrices",
+  "subject_id": 5015,
+  "video_count": 16,
+  "note_count": 16,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Matrices-1",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185301/kgss-1738050827-v185301.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8mIfufKnccI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b59869781c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef09033b-7020-4272-b308-e4f1bae76b33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Matrices-2",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185915/kgss-1738133924-v185915.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WytUMEH1xdY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b59860b1d9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fc0394f-dc57-4872-ac53-472ac4eed771.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Matrices-3",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/186389/kgss-1738219718-v186389.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fLcm6MyXghI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b59856ee14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cccf473-188a-4621-bedc-530febc14a98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Matrices-4",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/187802/kgss-1738565535-v187802.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5qNmcMe-HNY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b5984c2006.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/248ebe77-f5ec-4ba6-b0e6-b99b7f83dded.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Matrices-5",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188583/kgss-1738652711-v188583.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q85tLEokmgY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598432c7d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33541850-dd23-45be-ac81-7365d2dc6ee5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Matrices-6",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189171/kgss-1738737778-v189171.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/I1GfXWIEW2A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b5983ad5a7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2630fcdb-832a-4333-85ef-d4a57df36da5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Matrices-7",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189644/kgss-1738825226-v189644.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KeUa8J1BxU0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598332c33.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72f70a01-a1eb-4fdd-ba33-a1431094723a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Matrices-8",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191288/kgss-1739170526-v191288.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c4R_58K-oJI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b5982a96fb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43636cf6-1355-4144-984e-742aef82d3bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Matrices-9",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191747/kgss-1739256219-v191747.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S8RoH2fxfnk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598233aea.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b36043c-13c8-4516-97db-8b9c028d3007.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Matrices-10",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192184/kgss-1739343606-v192184.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0U6XDNAymgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598193c9e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Linear Algebra-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5758796a-7176-4c19-868d-5e07f74b8700.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Matrices-11",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/matrices/l-11/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7DIeJEh2_ME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598105bd4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d17706e-4a23-46d0-9f9c-9ccd79b1cfb1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Matrices-12",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194066/kgss-1739774625-v194066.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iXeZkdtX0yU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b598068759.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96521326-b967-4eb9-bd01-dd1e1905d45d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Matrices-13",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/matrices/l-13/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5jv-rjnCp38",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b597fc5892.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46140eef-75d6-4063-ad8e-ed1ff8a3fd53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Matrices-14",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/matrices/l-14/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lkWMUBaCPGc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b597f37bb3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7cde279-76d8-4607-a6bf-b10573882b35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Matrices-15",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198744/kgss-1740379065-v198744.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kEbaFewf3dk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b597e980a8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6ddae86-e726-45df-b6be-38d010e206c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Matrices-16",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199451/kgss-1740466794-v199451.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qUK6Wnggdpk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b597dc1a5a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e8a4d63-279d-46ca-9825-7c87243e00be.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

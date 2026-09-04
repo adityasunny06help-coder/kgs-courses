@@ -1,0 +1,756 @@
+{
+  "subject_name": "History by Amarendra Sir",
+  "subject_id": 956,
+  "video_count": 83,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Source of Indian History (भारतीय इतिहास का स्रोत) Part-1",
+      "published_date": "20 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-01/l-1-ro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wQ_715zByW4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c403b8f1-1e31-4c8a-a309-d0639cd49115.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Source of Indian History (भारतीय इतिहास का स्रोत) Part-2",
+      "published_date": "21 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-02/l-02-ro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XTs_eisUQeY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b7f89f50-21ff-41c6-b872-ccc98556a17f.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Human Development And Stone Age (मानव विकास और (पाषाण युग-Part-1)",
+      "published_date": "25 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-03/l-03-ro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XJyDRi8RfF8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//850b258e-ae78-4886-b0c5-48a8c034f6bc.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Stone Age (पाषाण युग) Part-2",
+      "published_date": "25 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-04/l-04-ro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GkpF4uy9wzc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ee2641ce-b789-4b75-b477-864359fcc247.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Chalcolithic Age (ताम्रपाषाण युग) & Indus Valley Civilization(सिंधु घाटी सभ्यता Part-1)",
+      "published_date": "27 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-05/l-05-ro-historya.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XOvItPnTUiQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eb8e7dd3-c09c-4a45-a543-a74328897b9a.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Indus Valley Civilization(सिंधु घाटी सभ्यता ) (Part-2)",
+      "published_date": "28 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-06/l-06-ro-aro-histor.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R6aG8vPlejA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//582f34c7-45d4-4d48-8055-e69c27e80dea.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Indus Valley Civilization(सिंधु घाटी सभ्यता) (Part-3)",
+      "published_date": "30 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/history/l-07/l-07-ro-aro-histor.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KPylpBPlagA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fcde9a37-80d8-44ed-af78-b6e4343740ce.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Indus Valley Civilization(सिंधु घाटी सभ्यता) (Part-4)",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/31406/kgss-1698748373-v31406.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uMzxaz4DGL4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ef03a935-0174-455d-b1c2-30c7c19ee461.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Indus Valley Civilization(सिंधु घाटी सभ्यता) (Part-5)",
+      "published_date": "01 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-09/l-09-ro-aro-histor.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lQTbqbNjMjo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7a39b4d8-7885-4d4f-9e05-31299ec87a65.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Vedic Civilization(वैदिक सभ्यता) (Part-1)",
+      "published_date": "02 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-10/l-10-ro-aro-histor.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r44UNSZyRuU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//264c439a-281c-4ff4-8d38-7e1c829f485b.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Vedic Civilization(वैदिक सभ्यता) (Part-2)",
+      "published_date": "03 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32193/kgss-1699007581-v32193.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aBgejzdu68I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c7527b34-bfae-4c60-be80-03791dc0a0c1.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Vedic Civilization(वैदिक सभ्यता) (Part-3)",
+      "published_date": "04 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32391/kgss-1699094348-v32391.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PyQqEx2shBM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5f44c77d-ce77-40f0-89cc-14944e83a1f6.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Buddhism(बुद्ध धर्म)\n (Part-1)",
+      "published_date": "06 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32572/kgss-1699267128-v32572.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k71rrHvd9fo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//421edc45-f3b4-4329-8745-215d2177e9eb.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Buddhism(\nबुद्ध धर्म) (Part-02)",
+      "published_date": "07 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/RKNBlqP3BjA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/32876/kgss-1699353080-v32876.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a6119a5c-69c1-4099-b531-af4d021c1270.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Buddhism( बुद्ध धर्म) (Part-03)",
+      "published_date": "08 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/hTxBtbmerOc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33173/kgss-1699439958-v33173.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8cd04771-efd2-4638-a227-7b48aac8fd9d.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Buddhism(बुद्ध धर्म\n) (Part-4) +Jainism(जैन धर्म\n) (Part-1)",
+      "published_date": "09 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/lT196BXluzQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33540/kgss-1699526291-v33540.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0454b3b5-a889-4526-9eae-7f69d9f41183.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Jainism (जैन धर्म)(Part-02)",
+      "published_date": "14 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/QMIH51YGUpQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33895/kgss-1699957364-v33895.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//86062a7a-1dca-479e-9749-4e575f70d20e.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Jainism (जैन धर्म)(Part-03)",
+      "published_date": "15 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/VrCeATtL1Mc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33973/kgss-1700044308-v33973.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7d9110d0-2448-472a-98f6-23888db58854.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Mahajanpad(महाजनपद) (Part-1)",
+      "published_date": "16 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/ovTfnDvyQT0",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34130/kgss-1700131103-v34130.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7fecf985-1986-44a3-afee-afb7501ad810.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Mahajanpad(महाजनपद) (Part-2)",
+      "published_date": "17 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/maXVQlCfqeg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34296/kgss-1700217115-v34296.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f5ff612e-195e-41c1-94e3-dc369aa1b56c.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Foreign Invasion\t (विदेशी आक्रमण)",
+      "published_date": "18 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-21/l-21-ro-aro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U-DEnZsrbMk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bba513ec-98b0-4b14-a3bc-0c6daf74faea.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Maurya Empire (मौर्य साम्राज्य) Part-1",
+      "published_date": "20 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/CoH10b8PIRE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34562/kgss-1700476033-v34562.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d71b510e-c229-46bf-93c3-74c7dc32025e.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Maurya Empire (मौर्य साम्राज्य) (Part-2)",
+      "published_date": "21 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/SwJ77ZWo1DM",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34716/kgss-1700562730-v34716.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//acd5acca-9af9-4dc3-957f-8a2a343b04af.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Maurya Empire (मौर्य साम्राज्य) (Part-3)",
+      "published_date": "22 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/OF5NMj_D-gU",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34896/kgss-1700649236-v34896.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//608a374e-19d9-400d-be14-7b9c67eed0ca.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Maurya Empire (मौर्य साम्राज्य) (Part-4)",
+      "published_date": "23 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/NX6RoKD2YEE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35059/kgss-1700734936-v35059.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//37d0ba1e-040b-4318-8771-88629b8e3354.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Maurya Empire (मौर्य साम्राज्य) (Part-5)",
+      "published_date": "24 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/S73NEkOkKFA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35327/kgss-1700821476-v35327.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//07f39303-daf0-4a90-b0ce-d18ab3faae13.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Post Maurya Period (मौर्योत्तर काल) (Part-1)",
+      "published_date": "25 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/SaCkncXcYkQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35567/kgss-1700908814-v35567.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1517f3d5-d21a-4aae-96f0-f86792163d9b.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Post Maurya Period (मौर्योत्तर काल) (Part-2)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/y22YvQuRmcE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35760/kgss-1701081636-v35760.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3f7b90cf-89b0-4bc7-945a-8dbc5712ed41.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Post Maurya Period (मौर्योत्तर काल) (Part-3)",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/9hRm4Pl6RhQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35980/kgss-1701167906-v35980.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5fe4f934-ad80-49b5-aaf8-591f5dc4c231.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Gupta Empire (गुप्त साम्राज्य) Part-1",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/NhZToe-4cM8",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/36224/kgss-1701253067-v36224.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//740ae756-95d7-4110-a745-b07913814a60.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Gupta Empire (गुप्त साम्राज्य) (Part-2)",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/burQJItUrXg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/36471/kgss-1701340100-v36471.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//41e3a3a5-e0bc-4360-9974-989891758d11.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Gupta Empire (गुप्त साम्राज्य) (Part-3)",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/6rK59GhRNq0",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/36698/kgss-1701426486-v36698.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eb9d89b6-6dd6-48b5-9f26-b3b26cda2dfe.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Gupta Empire (गुप्त साम्राज्य) (Part-4)",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/-EMHu_q0nXE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/37009/kgss-1701513218-v37009.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9f97f6c9-ea74-4f6e-92b1-3e0392bd08de.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Marathon Class",
+      "published_date": "03 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-34/l-34-ro-aro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6eUk5unqTfI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4937fb4f-deba-49f5-a2d0-d44084c4795b.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Vardhan Dynasty (वर्धन वंश)",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/-ONRIYTjWD4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/37155/kgss-1701685829-v37155.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4c92fce2-8b8a-4341-97c4-bdcf0f844278.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Early Medieval (\nप्रारंभिक मध्यकाल) Part-1",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/37466/kgss-1701772391-v37466.m3u8",
+      "hd_video_url": "https://youtu.be/Paj0TFhzVjg?si=P4srP248CJ10FouL",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//65dce92e-c723-4535-9768-6aedd5a5a20a.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Early Medieval ( प्रारंभिक मध्यकाल) (Part-2)",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/37716/kgss-1701858553-v37716.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yIfmkp1i3RU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a44feaed-550a-4ffe-a54e-76abe9bdccfb.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Delhi Sultanate  (दिल्ली सल्तनत ) Part-1",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/37981/kgss-1701945576-v37981.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CPfUB55Gpy4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ff5774ec-abea-4a79-8d9e-15a6ce5e58b8.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-2)",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/38255/kgss-1702031598-v38255.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Z1wm69DSfi8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//723dd4f0-8ae5-446a-9bb8-167f26111175.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-3)",
+      "published_date": "09 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/38478/kgss-1702118370-v38478.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QwxlWJfhdmU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f75c2621-5067-41e6-a659-a1e15aa4a41d.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-4)",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-41/l-41-ro-aro-history.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/J5btzxt0qlw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//913e23ee-a9a6-4550-b952-9a5517f9ec99.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-5)",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/38884/kgss-1702376711-v38884.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GtkW85ZX0LQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6521dfa1-3e13-409a-871d-d6c05381a0d2.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-6)",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/39170/kgss-1702463483-v39170.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fKU7xGQ3BMI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//38d9f853-2ece-4b81-9477-45ab524569f8.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-7)",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/39462/kgss-1702550007-v39462.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cCUAgP4sgzk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4fdd6938-3d35-4303-b2e5-b35212447036.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-8)",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/39639/kgss-1702635362-v39639.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ESUWofgeJp4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//46b64efc-d303-4189-a7af-548595766470.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-9)",
+      "published_date": "16 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/39863/kgss-1702722130-v39863.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ydhG0f2VucE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cadc1993-0808-4155-8fd5-3cc8a49da818.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Delhi Sultanate (दिल्ली सल्तनत ) (Part-10)",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/40029/kgss-1703067872-v40029.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Bj7oDBCrdsw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1ab63b08-ba15-49b1-9f72-0281bc4bb1d8.png",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 ||  Mughal Empire(मुगल साम्राज्य) Part-1",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/40767/kgss-1703154681-v40767.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7NUuZIxrYuU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2f426d8c-7cfd-4f18-99a4-6eb0b3aecb9e.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Mughal Empire(मुगल साम्राज्य) Part-2",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/41067/kgss-1703240811-v41067.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lBrde1gTgho",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2f4c1eac-1dc2-4421-a288-9ea236f963a0.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Mughal Empire(मुगल साम्राज्य) Part-3",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/41158/kgss-1703586907-v41158.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IB5VXfDCIPE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//443bbc4b-a11a-44b1-907b-c198b68a5229.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Mughal Empire(मुगल साम्राज्य) Part-4",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/42639/kgss-1703672951-v42639.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xVTDXiRpPQo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//24bdeb5b-5ffe-4ccd-9095-7a0a1cf6b529.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Mughal Empire(मुगल साम्राज्य) Part-5",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/42648/kgss-1703760110-v42648.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o51U9x5LU8c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f92adfed-399d-43e8-9279-4c537594eb6b.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Mughal Empire(मुगल साम्राज्य) Part-6",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/43220/kgss-1703845740-v43220.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vCqINW1eZ0Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//264ff2a3-ff4a-4f84-8f37-a25b1770464c.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Mughal Empire(मुगल साम्राज्य) Part-7",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/43442/kgss-1703932421-v43442.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xE21r_cU6dM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f175d733-c744-4e7a-aca7-9d812dcc5aff.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Mughal Empire(मुगल साम्राज्य) Part-8",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43679/kgss-1704192218-v43679.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZQdlXsNrMcs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9a3742fd-5048-43ca-b269-ecdb3db8c7a5.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Sur Dynasty (सूर राजवंश)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43846/kgss-1704278364-v43846.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JqVAmtaOmes",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//76307e95-1167-4fe7-903e-3ec3ea65a84f.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || European Arrival (यूरोपीय आगमन) Part-1",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44171/kgss-1704364365-v44171.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/87mCSjSsvIc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ae90889c-c69c-4c8f-bd04-0b4cf9a3aeaa.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || European Arrival (यूरोपीय आगमन) Part-2",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44750/kgss-1704710105-v44750.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pjMjrsz9vNQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fb37e270-a26d-480b-9a8a-3df9578222fa.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || European Arrival (यूरोपीय आगमन) Part-3",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45148/kgss-1704796615-v45148.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZuScplGRo_c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//279473ee-aca8-4165-9519-643cb5284d5a.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || British Expansions (ब्रिटिश विस्तार)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45722/kgss-1704883149-v45722.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7KyoS7pmuaI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cd0c090c-7e30-443e-a316-825dba013645.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Land and Revenue System (भूमि एवं राजस्व प्रणाली)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45825/kgss-1704969024-v45825.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/v3103YBexVM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dc61c475-fed2-4b87-9b9b-62d847b5d4a5.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Revolt of 1857 (1857 का विद्रोह) Part-1",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46042/kgss-1705055456-v46042.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kNlXsE5Sb5w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0c73e82d-88a0-41e9-becf-d0f8c0f957d5.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Revolt of 1857 (1857 का विद्रोह) Part-2",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46347/kgss-1705142479-v46347.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CPLqomyAZBE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c56c21d9-4dcb-4c99-9df0-ddc29c438286.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Revolt of 1857(1857 का विद्रोह Part-3)+National Movement(राष्ट्रीय आन्दोलन Part-1)",
+      "published_date": "14 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46574/kgss-1705206307-v46574.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MMc7E2L-vTo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2127ad4f-8767-4660-a687-7d60a0d1a31e.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || National Movement (राष्ट्रीय आन्दोलन) Part-2",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-65/l-65-history-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qktGohMBG2Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e4f4f72b-cabb-45fb-adc6-5fa2ade9bf64.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || National Movement (राष्ट्रीय आन्दोलन) Part-3",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46691/kgss-1705401219-v46691.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MAEwGhZmzas",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d9084b2c-172b-4a9a-aad7-ae2beda5d85b.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Gandhian Era (गांधीवादी युग\t) Part-1",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47253/kgss-1705488040-v47253.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/j8ZLiXB9rdg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//489d96f2-c212-4915-a406-bcbe89e4e476.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || Gandhian Era (गांधीवादी युग ) Part-2",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47476/kgss-1705574568-v47476.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/E3wDzmg_R7c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9254b465-a3ac-4555-a069-315a62091d93.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-69 || Gandhian Era (गांधीवादी युग ) Part-3",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-69/l-69-history-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NabF2kpiBGg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e755c3f7-8209-481b-ac38-82c78a2b0620.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-70 || Gandhian Era (गांधीवादी युग ) Part-4",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-70/l-70-history-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Txw99BCdBCE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/u32O5D1spQ9n7dM69ZkRPFGpQ9G3PAZI3z6bHHkg.png",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-71 || Gandhian Era (गांधीवादी युग )  Part-5 (Marathon Class)",
+      "published_date": "21 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/history/l-71/l-71-history-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fakV-3kKYe0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ovVcSAhtqfi1wb2Yr50CD9JuKXE4xCEisNzouCQS.png",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Lecture-72 || Gandhian Era (गांधीवादी युग ) Part-6",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/48354/kgss-1705919887-v48354.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_TbW_EZo4b4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3MMLzuqbdQgWBJaJqCOiS728k06CtvaOb5bzCt0I.png",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Lecture-73 || Subhash Chandra Bose((सुभाष चंद्र बोस) and Social Reform ( सामाजिक सुधार Part-1)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/48717/kgss-1706006289-v48717.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5_1eumb3ky0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FESKNjtH7mcTMRkMBN3qu7ucVHoEjj3NksWVzu5G.png",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Lecture-74 ||  Social Reform (सामाजिक सुधार) Part-2",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/48905/kgss-1706093178-v48905.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HTdRmUW6Fqg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UIECPIhdfdqtc9gWBY0fFRzwVkWK5tZLOfIU15Ih.png",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Lecture-75 || Social Reform (सामाजिक सुधार) Part-3",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49603/kgss-1706179305-v49603.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Wh7hPTZW130",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QsSJqhH5I49E8LpvA8dkE2OMjAnK1yRpFlBFYxs7.png",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Lecture-76 || Governor General and Viceroy (गवर्नर जनरल और वायसराय)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49987/kgss-1706524586-v49987.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_Vnb8DGEf-0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sCvPSuKQYosG3x7MrNtZc8JEGuAIAEVJCRQLRKbQ.png",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Lecture-77 || South India (दक्षिण भारत) Part-1",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50552/kgss-1706610493-v50552.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Scvzi7H1tWs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GTkVM2iWN8OOozjvgshJdwUfISPatH8hEYY7oXlU.png",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Lecture-78 || South India (दक्षिण भारत) Part-2",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50821/kgss-1706696690-v50821.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/997I9Nclz4w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1V3dC1oYa5lP84HK9DYlOmn4aiJAJuPliq4XBMB4.png",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "Lecture-79 || South India (दक्षिण भारत) Part-3",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51131/kgss-1706783782-v51131.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/431yllZciOc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AsIXa6YMxftIkgFDWkdNTeOcC6T8fHnuCwD8PXmN.png",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "Lecture-80 || Miscellaneous  (विविध) Part-1",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51394/kgss-1706870355-v51394.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jq7zkun_SMU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QVA9J6zTH1l8f7lYGtm9JpAy9pjm9aOM7mm8WGtS.png",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "Lecture-81 || Miscellaneous  (विविध) Part-2",
+      "published_date": "03 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51765/kgss-1706955146-v51765.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W5JASu_ONGI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6RKldFBTjilyLOjUTOHd4kYCprBgy4UpJ46IdAco.png",
+      "notes": []
+    },
+    {
+      "serial": 82,
+      "title": "Lecture-82 || Miscellaneous (विविध) (Part-3) and Practice (Part-1)",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/52220/kgss-1707129049-v52220.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_qbRNlAF9qM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iggodwFJvIuXpPKoy1hZjuirhCzoZkOaEdSK0GEz.png",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "Lecture-83 || Miscellaneous (विविध)(Part-4) and Practice (Part-2)",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/48348/kgss-1707216173-v48348.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6doHKJgt2U4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ozyAlQ86jRfGuy9HIfk6zVCK7HeFrnU4xk5blOm0.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

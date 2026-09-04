@@ -1,0 +1,51 @@
+{
+  "subject_name": "Polity by Vishal Sir",
+  "subject_id": 2313,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Tricks And Important Amendments",
+      "published_date": "03 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/iIjtRxZ__LQ",
+      "hd_video_url": "https://www.youtube.com/embed/iIjtRxZ__LQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Tricks And Important Amendments",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4529a227-00d1-43a9-8286-fddc0e93304f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Judiciary 01",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/NrFkKsiX1gc",
+      "hd_video_url": "https://www.youtube.com/embed/NrFkKsiX1gc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Judiciary 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d95e115-e196-4db3-a758-ae115c891da5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Judiciary 02",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/9-RY6hRxgOM",
+      "hd_video_url": "https://www.youtube.com/embed/9-RY6hRxgOM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Judiciary 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84a09e8e-5024-4da9-b1fb-c7ad0a6db386.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

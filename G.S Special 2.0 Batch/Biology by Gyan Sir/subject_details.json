@@ -1,0 +1,79 @@
+{
+  "subject_name": "Biology by Gyan Sir",
+  "subject_id": 2823,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/pXT6nFQ7cnU",
+      "hd_video_url": "https://www.youtube.com/embed/pXT6nFQ7cnU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba752695-2b37-44d0-a293-74acff3010af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Nutrition (Part-01)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/C7o0FtOth3E",
+      "hd_video_url": "https://www.youtube.com/embed/C7o0FtOth3E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a6c0d05-6eaa-43b9-923f-26c864028e4c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Nutrition (Part-02)",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/zmc6gXYPij0",
+      "hd_video_url": "https://www.youtube.com/embed/zmc6gXYPij0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9f022c9-ed81-4ca0-98d6-52d2c5d3f7c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Nutrition (Part-03)",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5qFe2uOO0wY",
+      "hd_video_url": "https://www.youtube.com/embed/5qFe2uOO0wY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l4nutrition",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e4afea8-15bb-4427-b06d-9ac7728fef33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Nutrition (Part-04)",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/txx1RR1Kc1k",
+      "hd_video_url": "https://www.youtube.com/embed/txx1RR1Kc1k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Nutrition",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/083b6ba4-afaa-4f25-99e8-5a9804535077.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

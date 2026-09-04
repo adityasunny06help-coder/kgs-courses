@@ -1,0 +1,79 @@
+{
+  "subject_name": "Boat & Stream",
+  "subject_id": 3143,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Boat & Stream (Part-01) Recorded",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/2WiUWIX_s8Y",
+      "hd_video_url": "https://www.youtube.com/embed/2WiUWIX_s8Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Boat & Stream (Part-01) Recorded",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c99a583f-7419-4028-bc65-87d8332818aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Boat & Stream (Part-02) Recorded",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/j7liJlSXQCg",
+      "hd_video_url": "https://www.youtube.com/embed/j7liJlSXQCg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Boat & Stream (Part-02) Recorded",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/887c40b1-0da9-42b6-8bd9-a05a1839aee4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Boat & Stream (Part-03) Recorded",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/M5v5M2yrhE4",
+      "hd_video_url": "https://www.youtube.com/embed/M5v5M2yrhE4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Boat & Stream (Part-03) Recorded",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/cde19189-813c-4b90-ad71-0e1cf7ca284e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Boat & Stream (Part-04) Recorded",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/IWxNv0cm2C0",
+      "hd_video_url": "https://www.youtube.com/embed/IWxNv0cm2C0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Boat & Stream (Part-04) Recorded",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2599ec94-5a2a-4972-9a96-8aa7229aebcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Boat & Stream (Part-05) Recorded",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/uJ3z8AC0P6A",
+      "hd_video_url": "https://www.youtube.com/embed/uJ3z8AC0P6A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Boat & Stream (Part-05) Recorded",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a7d749db-38af-4955-9a14-55a04ad2d365.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

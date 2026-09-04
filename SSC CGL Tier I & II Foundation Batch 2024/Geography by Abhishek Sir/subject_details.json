@@ -1,0 +1,576 @@
+{
+  "subject_name": "Geography by Abhishek Sir",
+  "subject_id": 924,
+  "video_count": 63,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || General Introduction of India Part-01 (भारत का सामान्य परिचय भाग-01)",
+      "published_date": "11 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/xyjxGSaH9vI",
+      "hd_video_url": "https://www.youtube.com/embed/mbRhRhnoML8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7fd297c8-3c67-4b2e-a1a0-2137f1653c30.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ||  General Introduction of India Part-02 (भारत का सामान्य परिचय भाग-02)",
+      "published_date": "13 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/9HCEOh4uxQY",
+      "hd_video_url": "https://www.youtube.com/embed/XlTjyyIOFxE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a7b34988-90e7-4e0e-ba98-b20457cfcd53.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || General Introduction of India Part-03 (भारत का सामान्य परिचय भाग-03)",
+      "published_date": "18 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/BJgOD_dPTXk",
+      "hd_video_url": "https://www.youtube.com/embed/f_5bWmYnH6s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//887871f5-60f9-4bd2-9a1a-3b26de994832.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || General Introduction of India Part-04 (भारत का सामान्य परिचय भाग-04)",
+      "published_date": "19 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/PDhj2GUAJUo",
+      "hd_video_url": "https://www.youtube.com/embed/PDhj2GUAJUo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5b6899ae-0245-49d7-86eb-5878225b681c.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Physiographic Region of India (भारत का भौगोलिक क्षेत्र)",
+      "published_date": "20 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/5Kz27ZhkZ5I",
+      "hd_video_url": "https://www.youtube.com/embed/5Kz27ZhkZ5I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33c4b30b-3714-48f7-9e80-f2a9eb79ea54.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Himalaya Part-01 (हिमालय भाग-01)",
+      "published_date": "25 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/_oSzoTfuuW0",
+      "hd_video_url": "https://www.youtube.com/embed/yiZSwGEFloI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bf61afec-d62a-4881-a100-a859a9fdc923.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Himalaya Part-02 (हिमालय भाग-02)",
+      "published_date": "26 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/5wvXeoHoKPg",
+      "hd_video_url": "https://www.youtube.com/embed/JJ-hZJthZPQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e0a07555-03ba-4d3c-b853-b4fb04a17f1e.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Himalaya Part-03 (हिमालय भाग-03)",
+      "published_date": "27 Oct 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/30162/kgss-1698401849-v30162.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/30162/kgss-1698401849-v30162.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5c604284-462d-4ce6-bbce-720715c00e1d.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Himalaya Part-04 (हिमालय भाग-04)",
+      "published_date": "30 Oct 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/30594/kgss-1698663431-v30594.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/30594/kgss-1698663431-v30594.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//825d833c-af56-4ffa-bdc1-7284aaa2da8d.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Himalaya Part-05 (हिमालय भाग-05)",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/31064/kgss-1698746081-v31064.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/31064/kgss-1698746081-v31064.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7de40657-fe08-4e57-8d2f-d0b5403ba781.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || MCQs (बहुविकल्पीय प्रश्न)",
+      "published_date": "01 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31514/kgss-1698836829-v31514.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31514/kgss-1698836829-v31514.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8bf8028a-3802-4e2c-b007-fb043ef234d9.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Himalaya Part-06 (हिमालय भाग-06)",
+      "published_date": "02 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31811/kgss-1698922903-v31811.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31811/kgss-1698922903-v31811.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e81ea202-f936-4abc-91f5-255f03251784.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Middle Plain Part-01 (मध्य मैदान भाग-01)",
+      "published_date": "04 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32033/kgss-1699096208-v32033.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32033/kgss-1699096208-v32033.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5db87781-ba33-4035-a6dc-69c0507a5336.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Middle Plain Part-02 (मध्य मैदान भाग-02)",
+      "published_date": "06 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32501/kgss-1699268898-v32501.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32501/kgss-1699268898-v32501.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d6b711f4-5869-42f0-a26d-6b42f66c37b2.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Middle Plain Part-03 (मध्य मैदान भाग-03)",
+      "published_date": "07 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32777/kgss-1699354850-v32777.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32777/kgss-1699354850-v32777.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2a580b1d-aa7d-43b1-87e2-a1f99c311242.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Island of India Part-01 (भारत के द्वीप भाग-01)",
+      "published_date": "09 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33042/kgss-1699528029-v33042.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33042/kgss-1699528029-v33042.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//208f5057-e5e5-4963-ba8f-10f54188c217.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Island of India Part-02 (भारत के द्वीप भाग-02)",
+      "published_date": "15 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/oJVxj_VDFhw",
+      "hd_video_url": "https://www.youtube.com/embed/1eAZTHSPAYE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//108486d3-20bd-40d3-9009-2b096e1ba336.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Island of India Part-03 (भारत के द्वीप भाग-03)",
+      "published_date": "16 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/00vyeDHOve4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33842/kgss-1700130915-v33842.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1dbc36da-cc53-4dea-8ad6-ce4e6d3ec375.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Island of India Part-04 (भारत के द्वीप भाग-04)",
+      "published_date": "17 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/VZLv1DzLR2sc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34177/kgss-1700218665-v34177.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//50792044-bb9e-4575-9d38-5be7f25233ae.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Peninsular Plateau Region Part-01 (प्रायद्वीपीय पठारी क्षेत्र भाग-01)",
+      "published_date": "20 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/jY2ET7OLH9w",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34535/kgss-1700478073-v34535.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//98eb65f4-5b42-4381-b00b-d4f3288f6263.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Peninsular Plateau Region Part-02 (प्रायद्वीपीय पठारी क्षेत्र भाग-02)",
+      "published_date": "21 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/cwqpIGNw59U",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34697/kgss-1700564260-v34697.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//115c14c3-67c4-412c-88b0-06b634a4d44f.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Peninsular Plateau Region Part-03 (प्रायद्वीपीय पठारी क्षेत्र भाग-03)",
+      "published_date": "24 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/EBK94IW99Eg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34810/kgss-1700823567-v34810.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3d6b7e9b-e278-4276-94de-22169f9141db.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Peninsular Plateau Region Part-04 (प्रायद्वीपीय पठारी क्षेत्र भाग-04)",
+      "published_date": "25 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/6dM9PLUP8kw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35517/kgss-1700910691-v35517.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a5700d31-3c60-43a8-bf65-d705d1d6ad73.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Peninsular Plateau Region Part-05 (प्रायद्वीपीय पठारी क्षेत्र भाग-05)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/PdvTrDGSodA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35699/kgss-1701083229-v35699.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cf39acb4-1a9e-4ecf-940e-b1bffe4a60c1.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Major Plateau (प्रमुख पठार)",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/tFdzca8SgZw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35879/kgss-1701255273-v35879.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//99eef108-5f39-4e40-9fbb-cf91c86885f3.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Indian River System Part-01 (भारतीय नदी तंत्र भाग-01)",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/KctvZTUbaNc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/36318/kgss-1701342207-v36318.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//04be1514-10bb-43ec-bb34-d8e8c34ab60e.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Indian River System Part-02 (भारतीय नदी तंत्र भाग-02)",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/IkuBqOrMARE",
+      "hd_video_url": "https://www.youtube.com/embed/IkuBqOrMARE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4620bfa8-0e73-4f26-8f3b-1fa9f001b520.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Indian River System Part-03 (भारतीय नदी तंत्र भाग-03)",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/ApecroBPJG4",
+      "hd_video_url": "https://www.youtube.com/embed/ApecroBPJG4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//52c1dfef-45d0-4517-91f8-5bb991afde83.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Indian River System Part-04 (भारतीय नदी तंत्र भाग-04)",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/Kex-B9oMnXY",
+      "hd_video_url": "https://www.youtube.com/embed/Kex-B9oMnXY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e7d674d8-fc2d-4a1e-b072-61a5abc2ac4f.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Indian River System Part-05 (भारतीय नदी तंत्र भाग-05)",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/pECtkjHrUM8",
+      "hd_video_url": "https://www.youtube.com/embed/pECtkjHrUM8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//46edc06d-575d-4a59-bf3b-b3fa7719ffa1.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Indian River System Part-06 (भारतीय नदी तंत्र भाग-06)",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/veSiCyUzNwA",
+      "hd_video_url": "https://www.youtube.com/embed/veSiCyUzNwA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6f1a67f2-b5a9-4f6b-bf14-a334a951a7fc.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Indian River System Part-07 (भारतीय नदी तंत्र भाग-07)",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/mgkFViEHIHs",
+      "hd_video_url": "https://www.youtube.com/embed/mgkFViEHIHs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//405cadca-1200-4f0e-9b71-c754921dd413.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Coastal Plains (तटीय मैदान)",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/SvEVjb6iKmo",
+      "hd_video_url": "https://www.youtube.com/embed/SvEVjb6iKmo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//49725f30-6d5e-4091-91ef-81500768f23c.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Climate of India Part-01 (भारत की जलवायु भाग-01)",
+      "published_date": "09 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/TBGw8UhexsI",
+      "hd_video_url": "https://www.youtube.com/embed/TBGw8UhexsI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f42d9786-fe35-4eeb-bb35-281e1847b911.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Climate of India Part-02 (भारत की जलवायु भाग-02)",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/jPGweRl1Kto",
+      "hd_video_url": "https://www.youtube.com/embed/jPGweRl1Kto",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0c6718e4-2a30-4344-ad1d-e2528c226773.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Climate of India Part-03 (भारत की जलवायु भाग-03)",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/_2Uqs8T6mRU",
+      "hd_video_url": "https://www.youtube.com/embed/_2Uqs8T6mRU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e5cb5d1f-bb10-4ae8-b4a9-5492e5d1d30d.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Climate of India Part-04 (भारत की जलवायु भाग-04)",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/9-Y4ldBlIp8",
+      "hd_video_url": "https://www.youtube.com/embed/9-Y4ldBlIp8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//17217e34-54a9-4b02-8eec-e2dd22ebb20a.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Minerals of India Part-01 (भारत के खनिज भाग-01)",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/1YOAtbjdbVQ",
+      "hd_video_url": "https://www.youtube.com/embed/1YOAtbjdbVQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4a1f67a5-b67a-4f8d-96e9-0e8dbc134e55.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Minerals of India Part-02 (भारत के खनिज भाग-02)",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/lGaGPuO-bNM",
+      "hd_video_url": "https://www.youtube.com/embed/lGaGPuO-bNM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//84050ece-5080-4fd9-9b24-2563eda84d48.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Minerals of India Part-03 (भारत के खनिज भाग-03)",
+      "published_date": "18 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/gBzt0Pqsgvs",
+      "hd_video_url": "https://www.youtube.com/embed/gBzt0Pqsgvs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2dafd76f-d869-4245-a180-4c7c1af46bd3.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Minerals of India Part-04 (भारत के खनिज भाग-04)",
+      "published_date": "19 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/kAmawhyzg_c",
+      "hd_video_url": "https://www.youtube.com/embed/kAmawhyzg_c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8c749bf1-a864-4f03-bfd8-332f446f5bb8.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Indian Agriculture Part-01 (भारतीय कृषि भाग-01)",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/veOr6BKdZ6s",
+      "hd_video_url": "https://www.youtube.com/embed/veOr6BKdZ6s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//52cc0a5e-0e1b-4fef-88eb-310659d59d12.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Indian Agriculture Part-02 (भारतीय कृषि भाग-02)",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/OlDQdC4VhKk",
+      "hd_video_url": "https://www.youtube.com/embed/OlDQdC4VhKk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//753b4294-8ec6-44f1-8c42-69c628d30cdd.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Census Part-01 (जनगणना भाग-01)",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/qvdGLjQZFLM",
+      "hd_video_url": "https://www.youtube.com/embed/qvdGLjQZFLM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6b9f7145-64d5-41b9-b574-6d5cf3530b31.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Census Part-02 (जनगणना भाग-02)",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/rYDsCfIQi-M",
+      "hd_video_url": "https://www.youtube.com/embed/rYDsCfIQi-M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//737ef397-a9c5-4b72-b16a-7f87034dfc15.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Indian Soil (भारतीय मिट्टी)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/S6ZwqK6byxw",
+      "hd_video_url": "https://www.youtube.com/embed/S6ZwqK6byxw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//28e012f4-55ce-4c9f-b503-732651317a26.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Mock Test (मॉक टेस्ट)",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/5toLItzTGxk",
+      "hd_video_url": "https://www.youtube.com/embed/5toLItzTGxk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9919b711-aeec-4e71-858e-795b9c6f381c.png",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Solar System Part-01 (सौरमंडल भाग-01)",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/TRYAukzR0Hw",
+      "hd_video_url": "https://www.youtube.com/embed/TRYAukzR0Hw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4009c4ed-7c9b-4334-aaee-98f8e031b756.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Solar System Part-02 (सौरमंडल भाग-02)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/iRqrotwyOIo",
+      "hd_video_url": "https://www.youtube.com/embed/iRqrotwyOIo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b962bbd3-1f16-4b21-b89f-1314bc40a154.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Solar System Part-03 (सौरमंडल भाग-03)",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43985/kgss-1704366534-v43985.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gTcVzTNd1dQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//44c4e93f-3468-4acb-a88b-ee6656709782.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Solar System Part-04 (सौरमंडल भाग-04)",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44271/kgss-1704453387-v44271.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3AyTgokerXQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c3c4b6ee-23c5-49f0-8646-9de2cce26682.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Solar System Part-05 (सौरमंडल भाग-05)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/dVwlkTWUUiY",
+      "hd_video_url": "https://www.youtube.com/embed/dVwlkTWUUiY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3cfeb132-716c-4512-8fb3-3e7e3e9ee21a.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Solar System Part-06 (सौरमंडल भाग-06)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/JuaxWX1kM7Q",
+      "hd_video_url": "https://www.youtube.com/embed/JuaxWX1kM7Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d1f29489-dd31-42d0-80b7-80eef18f8a77.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Solar System Part-07 (सौरमंडल भाग-07)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/KoQGLS9G6Uw",
+      "hd_video_url": "https://www.youtube.com/embed/KoQGLS9G6Uw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6667d01e-bae7-4d1e-852b-f27f390a553a.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Internal Structure of Earth (पृथ्वी की आंतरिक संरचना)",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/UjyIs3wshvI",
+      "hd_video_url": "https://www.youtube.com/embed/UjyIs3wshvI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//afc63650-3a93-42c9-aa03-e30a9fc84dc7.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Earthquake (भूकंप)",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/u2GbhER96S4",
+      "hd_video_url": "https://www.youtube.com/embed/u2GbhER96S4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b077fc78-5bff-4a7c-953f-f1a8b06c5f80.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Volcano (ज्वालामुखी)",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/kaOTNk6ighE",
+      "hd_video_url": "https://www.youtube.com/embed/kaOTNk6ighE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//acea016f-1ca6-48c2-81fc-b655bc0b54f2.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Atmosphere Part-01 (वातावरण भाग-01)",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/EnJ6bwAhQW0",
+      "hd_video_url": "https://www.youtube.com/embed/EnJ6bwAhQW0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b3da7921-3a69-4f21-8b23-d66a67bd2daf.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Atmosphere Part-02 (वातावरण भाग-02)",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/U2VDKirQly8",
+      "hd_video_url": "https://www.youtube.com/embed/U2VDKirQly8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1fc68871-ad97-49f7-9ca8-1839f195a9bb.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Winds Part-01 (हवाएं भाग-01)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/-iNZhGhVHVA",
+      "hd_video_url": "https://www.youtube.com/embed/-iNZhGhVHVA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d2fff64d-4932-4a52-93c6-8be0b4a173ce.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Winds Part-02 (हवाएं भाग-02)",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/zYf7s_8bgmg",
+      "hd_video_url": "https://www.youtube.com/embed/zYf7s_8bgmg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jQoG0MA5P2tkVCC2GDwOzHs9bfnaLcXrSaWmkVZM.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Winds Part-03 (हवाएं भाग-03)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/oqRYkgoqXik",
+      "hd_video_url": "https://www.youtube.com/embed/oqRYkgoqXik",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Invn1TinjfphFQWH2X1fblTOiMoFSPkPWMQvcZyP.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Winds Part-04 (हवाएं भाग-04)",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/BXP5ldVfE7A",
+      "hd_video_url": "https://www.youtube.com/embed/BXP5ldVfE7A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iZlCjmWUxLF6IzHSAycsQj1g78T2hISEtMdEfAni.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

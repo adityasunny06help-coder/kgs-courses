@@ -1,0 +1,862 @@
+{
+  "subject_name": "Current Affairs by Arya Ma'am",
+  "subject_id": 3465,
+  "video_count": 62,
+  "note_count": 59,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Current Affairs",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/YpVawnxXln0",
+      "hd_video_url": "https://www.youtube.com/embed/YpVawnxXln0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ip179cO7kz8DfvDNdJpSZgheR6gtQzPpmufbJ37k.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76fc47a1-1e0b-4df7-9f12-8fb78877ba01.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Current Affairs",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/gNgri_Ch5Cg",
+      "hd_video_url": "https://www.youtube.com/embed/gNgri_Ch5Cg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v8j9lWTPiyBvCoOGmDQ7t5z9WWAk0TkFvZEvLjvS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Current Affairs Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ace267a-14bc-4b3e-849e-cade5bce633a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Current Affairs",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/H9FUVBEa1cc",
+      "hd_video_url": "https://www.youtube.com/embed/H9FUVBEa1cc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PGN6tTumudWhwlMVcsZ10dI2x52BLHuQdKYRjsK6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/505cf001-2693-44e7-86f6-4196b2e48386.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Current Affairs",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/u50vWBQinYQ",
+      "hd_video_url": "https://www.youtube.com/embed/u50vWBQinYQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Kn0Bc7jSM2kj0rTCk09XyQe5ES4OnSoDGJsOb9VW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec01af3d-2afd-47bb-9073-593eda5b3f40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Current Affairs",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/KXGpoyAJ3lU",
+      "hd_video_url": "https://www.youtube.com/embed/KXGpoyAJ3lU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6lQITDAsNU5bfJfhVXKYwDMderzXFpPXyjvYoA8s.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d39ac46b-ad1e-4f4f-9f82-692e1bf538a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Current Affairs Part-06",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/AbCrwqLfyic",
+      "hd_video_url": "https://www.youtube.com/embed/AbCrwqLfyic",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6q5fohtVqzY3cBYfXJIqc05vzhR5qYbkv0tdKqX0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Current Affairs Part-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4bc41d97-5bee-413b-a396-17d55a0f09ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Current Affairs Part-07",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/l1U-_Kr7S9w",
+      "hd_video_url": "https://www.youtube.com/embed/l1U-_Kr7S9w",
+      "thumbnail": "https://i.ytimg.com/vi/l1U-_Kr7S9w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Current Affairs Part-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58860393-644b-4d69-b417-96202ca56d23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Current Affairs Part-08",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/qxPHFNNRSc0",
+      "hd_video_url": "https://www.youtube.com/embed/qxPHFNNRSc0",
+      "thumbnail": "https://i.ytimg.com/vi/qxPHFNNRSc0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Current Affairs Part-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c802ac42-eff3-4954-a8f4-50c5d99b620a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Current Affairs Part-09",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/L9P7-Z8sGD8",
+      "hd_video_url": "https://www.youtube.com/embed/L9P7-Z8sGD8",
+      "thumbnail": "https://i.ytimg.com/vi/L9P7-Z8sGD8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Current Affairs Part-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb5ddaa8-296c-4a60-86a8-3519885a0c1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Current Affairs Part-10",
+      "published_date": "07 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ThEMeAto_zo",
+      "hd_video_url": "https://www.youtube.com/embed/ThEMeAto_zo",
+      "thumbnail": "https://i.ytimg.com/vi/ThEMeAto_zo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Current Affairs Part-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b122c6b1-1cfb-4dc0-9563-5350e1692c54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Current Affairs",
+      "published_date": "15 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/YnupPNItCDs",
+      "hd_video_url": "https://www.youtube.com/embed/YnupPNItCDs",
+      "thumbnail": "https://i.ytimg.com/vi/YnupPNItCDs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eea51214-faad-42ed-b511-65e49961c69d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Current Affairs",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Gknh4vfs0PI",
+      "hd_video_url": "https://www.youtube.com/embed/Gknh4vfs0PI",
+      "thumbnail": "https://i.ytimg.com/vi/Gknh4vfs0PI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12  Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88184164-727e-48fe-9b94-cbd2f784cbf2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Current Affairs",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tAsH4hnpnf8",
+      "hd_video_url": "https://www.youtube.com/embed/tAsH4hnpnf8",
+      "thumbnail": "https://i.ytimg.com/vi/tAsH4hnpnf8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3247abe2-c03c-4881-bc74-55c4bd42dc2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Current Affairs",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kf8t3eT4SgE",
+      "hd_video_url": "https://www.youtube.com/embed/kf8t3eT4SgE",
+      "thumbnail": "https://i.ytimg.com/vi/kf8t3eT4SgE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fec074df-016d-4171-ac57-5f8eddead61c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Current Affairs",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/lRqoy4MW0Fs",
+      "hd_video_url": "https://www.youtube.com/embed/lRqoy4MW0Fs",
+      "thumbnail": "https://i.ytimg.com/vi/lRqoy4MW0Fs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90f6ddca-63c7-4855-85bd-8d8d2482b98c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16  Current Affairs",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/rZr4Ud3MmG0",
+      "hd_video_url": "https://www.youtube.com/embed/rZr4Ud3MmG0",
+      "thumbnail": "https://i.ytimg.com/vi/rZr4Ud3MmG0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16  Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99cfb8b0-7c8a-4aab-b772-39175ff834ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Current Affairs",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6C0YXNn06x8",
+      "hd_video_url": "https://www.youtube.com/embed/6C0YXNn06x8",
+      "thumbnail": "https://i.ytimg.com/vi/6C0YXNn06x8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97961864-6637-4410-a06f-2aeedaea119f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Current Affairs",
+      "published_date": "28 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/c-zpdxbn8nw",
+      "hd_video_url": "https://www.youtube.com/embed/c-zpdxbn8nw",
+      "thumbnail": "https://i.ytimg.com/vi/c-zpdxbn8nw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c7ca5b1-a210-44bf-a7df-9d6ae04d1ea6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Current Affairs",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NGY8tyL4AEQ",
+      "hd_video_url": "https://www.youtube.com/embed/NGY8tyL4AEQ",
+      "thumbnail": "https://i.ytimg.com/vi/NGY8tyL4AEQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddda6d3b-a6ce-4f1d-a0da-75aec83fa506.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Current Affairs",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/d6QVtnYrp8k",
+      "hd_video_url": "https://www.youtube.com/embed/d6QVtnYrp8k",
+      "thumbnail": "https://i.ytimg.com/vi/d6QVtnYrp8k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40586e68-ab3b-435f-a416-ac626314d095.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Current Affairs",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/D35yQbZmRuc",
+      "hd_video_url": "https://www.youtube.com/embed/D35yQbZmRuc",
+      "thumbnail": "https://i.ytimg.com/vi/D35yQbZmRuc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94961cfd-abff-4e02-bd2a-28632dd982b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Current Affairs",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/cEf-ygdswVM",
+      "hd_video_url": "https://www.youtube.com/embed/cEf-ygdswVM",
+      "thumbnail": "https://i.ytimg.com/vi/cEf-ygdswVM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7483fef6-7900-498f-a380-0e803a23552e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Current Affairs",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/FCCFbWeHJyI",
+      "hd_video_url": "https://www.youtube.com/embed/FCCFbWeHJyI",
+      "thumbnail": "https://i.ytimg.com/vi/FCCFbWeHJyI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19d61c83-b3a3-47cd-8e6b-7e178be41756.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Current Affairs",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Ew3o867acjk",
+      "hd_video_url": "https://www.youtube.com/embed/Ew3o867acjk",
+      "thumbnail": "https://i.ytimg.com/vi/Ew3o867acjk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56bf5420-f22d-4cbb-ac4d-8fef855a6a9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Current Affairs",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qvPgGjgCGFs",
+      "hd_video_url": "https://www.youtube.com/embed/qvPgGjgCGFs",
+      "thumbnail": "https://i.ytimg.com/vi/qvPgGjgCGFs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25  Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b42d6ce-c5a5-45e8-a97e-1ac01d3fc9c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Current Affairs",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/o7rWj1POgQ8",
+      "hd_video_url": "https://www.youtube.com/embed/o7rWj1POgQ8",
+      "thumbnail": "https://i.ytimg.com/vi/o7rWj1POgQ8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d323cc1-1dad-48dd-875d-d95009290ee0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Current Affairs",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/YqFpu5Ihivk",
+      "hd_video_url": "https://www.youtube.com/embed/YqFpu5Ihivk",
+      "thumbnail": "https://i.ytimg.com/vi/YqFpu5Ihivk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7f8343b-5aaa-498b-9213-6c0d516e0fe7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Current Affairs",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/567MKh4VZ6A",
+      "hd_video_url": "https://www.youtube.com/embed/567MKh4VZ6A",
+      "thumbnail": "https://i.ytimg.com/vi/567MKh4VZ6A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/582964f3-05f8-4a63-84e3-4e1602cad3ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Current Affairs",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/dCUa2-1X6gg",
+      "hd_video_url": "https://www.youtube.com/embed/dCUa2-1X6gg",
+      "thumbnail": "https://i.ytimg.com/vi/dCUa2-1X6gg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a2ebfdc-4906-4198-84bb-dbdbceea0969.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Current Affairs",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/XcjKfydfzWo",
+      "hd_video_url": "https://www.youtube.com/embed/XcjKfydfzWo",
+      "thumbnail": "https://i.ytimg.com/vi/XcjKfydfzWo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/154b3158-aeca-45a0-9c03-1070cb2e7fd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Current Affairs",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Rrzv95JB13I",
+      "hd_video_url": "https://www.youtube.com/embed/Rrzv95JB13I",
+      "thumbnail": "https://i.ytimg.com/vi/Rrzv95JB13I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6425b01-ffd0-423a-96c7-d6394b35a155.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Current Affairs",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/owFZ6BxoJG0",
+      "hd_video_url": "https://www.youtube.com/embed/owFZ6BxoJG0",
+      "thumbnail": "https://i.ytimg.com/vi/owFZ6BxoJG0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Current Affairs",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/cpNaju_OAEA",
+      "hd_video_url": "https://www.youtube.com/embed/cpNaju_OAEA",
+      "thumbnail": "https://i.ytimg.com/vi/cpNaju_OAEA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7af18515-b6ca-4899-97dd-7ecb98d70d23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Current Affairs",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Oer4NRvSPJw",
+      "hd_video_url": "https://www.youtube.com/embed/Oer4NRvSPJw",
+      "thumbnail": "https://i.ytimg.com/vi/Oer4NRvSPJw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34  Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfd11767-aeb4-4551-ae4b-90d51d39bef8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Current Affairs",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tRpPanzQLWM",
+      "hd_video_url": "https://www.youtube.com/embed/tRpPanzQLWM",
+      "thumbnail": "https://i.ytimg.com/vi/tRpPanzQLWM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3009171-041a-4fa1-8049-3d4c6d457331.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Current Affairs",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/0LbG2dDrmKk",
+      "hd_video_url": "https://www.youtube.com/embed/0LbG2dDrmKk",
+      "thumbnail": "https://i.ytimg.com/vi/0LbG2dDrmKk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6620babc-1614-4bf5-83fc-f38f6e097900.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Current Affairs",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/6FY_BeI33VI",
+      "hd_video_url": "https://www.youtube.com/embed/6FY_BeI33VI",
+      "thumbnail": "https://i.ytimg.com/vi/6FY_BeI33VI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ebbd2656-1276-4a7f-8ad1-c7f37e0ab3de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Current Affairs",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/-sUW3seMMzc",
+      "hd_video_url": "https://www.youtube.com/embed/-sUW3seMMzc",
+      "thumbnail": "https://i.ytimg.com/vi/-sUW3seMMzc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfdf2c72-4647-4306-940f-78d771385c66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Current Affairs",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uP4EmJwBWJk",
+      "hd_video_url": "https://www.youtube.com/embed/uP4EmJwBWJk",
+      "thumbnail": "https://i.ytimg.com/vi/uP4EmJwBWJk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eda4c0d0-670b-4398-b8f9-188ee80d4cd0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Current Affairs",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/icKxYh1S9EQ",
+      "hd_video_url": "https://www.youtube.com/embed/icKxYh1S9EQ",
+      "thumbnail": "https://i.ytimg.com/vi/icKxYh1S9EQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Current Affairs Part-42",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91c90339-3058-40bf-83b7-2cd246162486.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Current Affairs",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ACs9rDF5FRs",
+      "hd_video_url": "https://www.youtube.com/embed/ACs9rDF5FRs",
+      "thumbnail": "https://i.ytimg.com/vi/ACs9rDF5FRs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/048486d9-8529-4c5b-b676-492fa14a4649.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Current Affairs",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/j9gf8WthWAQ",
+      "hd_video_url": "https://www.youtube.com/embed/j9gf8WthWAQ",
+      "thumbnail": "https://i.ytimg.com/vi/j9gf8WthWAQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8674d0d-e77a-4fe8-ba3a-1e9f3a3c98b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Current Affairs",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BasYqmTZXZw",
+      "hd_video_url": "https://www.youtube.com/embed/BasYqmTZXZw",
+      "thumbnail": "https://i.ytimg.com/vi/BasYqmTZXZw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57fbe5d9-0c11-421a-93bc-c352bc76bf19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Current Affairs",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ymQBFJnYBOw",
+      "hd_video_url": "https://www.youtube.com/embed/ymQBFJnYBOw",
+      "thumbnail": "https://i.ytimg.com/vi/ymQBFJnYBOw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e115fec-3190-477f-b2de-3102dc4bc946.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Current Affairs",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BF1VNzTOOEY",
+      "hd_video_url": "https://www.youtube.com/embed/BF1VNzTOOEY",
+      "thumbnail": "https://i.ytimg.com/vi/BF1VNzTOOEY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b8e03eb-01b1-4a2d-aad1-3e68fb657f44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Current Affairs",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/dW0RPFQUItI",
+      "hd_video_url": "https://www.youtube.com/embed/dW0RPFQUItI",
+      "thumbnail": "https://i.ytimg.com/vi/dW0RPFQUItI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Current Affairs",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/xCvy_6M9gRA",
+      "hd_video_url": "https://www.youtube.com/embed/xCvy_6M9gRA",
+      "thumbnail": "https://i.ytimg.com/vi/xCvy_6M9gRA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecc168f7-0b0f-4609-99cc-74f056459e19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Current Affairs",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/fIYtPwigzSI",
+      "hd_video_url": "https://www.youtube.com/embed/fIYtPwigzSI",
+      "thumbnail": "https://i.ytimg.com/vi/fIYtPwigzSI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb311e8c-17e4-4381-a4d5-3ab8786b974b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Current Affairs",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Q14MOVX1VpU",
+      "hd_video_url": "https://www.youtube.com/embed/Q14MOVX1VpU",
+      "thumbnail": "https://i.ytimg.com/vi/Q14MOVX1VpU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f00a032f-ebd7-4cb6-acaf-232c359276ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Current Affairs",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/U_poexdbAus",
+      "hd_video_url": "https://www.youtube.com/embed/U_poexdbAus",
+      "thumbnail": "https://i.ytimg.com/vi/U_poexdbAus/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec2e30c0-a0db-4a5f-984f-61ee5904e173.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Current Affairs",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/XFLfxbwSeao",
+      "hd_video_url": "https://www.youtube.com/embed/XFLfxbwSeao",
+      "thumbnail": "https://i.ytimg.com/vi/XFLfxbwSeao/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/661136fb-6fd3-4f2f-b0b6-d295a636e8ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Current Affairs",
+      "published_date": "15 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Mjlz4MncLFc",
+      "hd_video_url": "https://www.youtube.com/embed/Mjlz4MncLFc",
+      "thumbnail": "https://i.ytimg.com/vi/Mjlz4MncLFc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e2f3aa0-cbf3-4242-b944-2a9fa9d77e1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Current Affairs",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DAaq5IoTNJQ",
+      "hd_video_url": "https://www.youtube.com/embed/DAaq5IoTNJQ",
+      "thumbnail": "https://i.ytimg.com/vi/DAaq5IoTNJQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8cec392f-38ef-4ce5-a231-901c00276b9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Current Affairs",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DMD-D8M0xFs",
+      "hd_video_url": "https://www.youtube.com/embed/DMD-D8M0xFs",
+      "thumbnail": "https://i.ytimg.com/vi/DMD-D8M0xFs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b8bb94e-e09e-4ec7-b77f-38022724e8d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Current Affairs",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/togdgMFp7yM",
+      "hd_video_url": "https://www.youtube.com/embed/togdgMFp7yM",
+      "thumbnail": "https://i.ytimg.com/vi/togdgMFp7yM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc1594e1-0112-402f-bab2-1b5ad822a2a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Current Affairs",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/od79JyQDfj0",
+      "hd_video_url": "https://www.youtube.com/embed/od79JyQDfj0",
+      "thumbnail": "https://i.ytimg.com/vi/od79JyQDfj0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cb102cb-f8a3-4a78-9f89-0ffe6eaafac4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Current Affairs",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/RfYMNa225PY",
+      "hd_video_url": "https://www.youtube.com/embed/RfYMNa225PY",
+      "thumbnail": "https://i.ytimg.com/vi/RfYMNa225PY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ceb5525-db94-4d48-882e-241db79c86f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Current Affairs",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/O0nWp3sGy3o",
+      "hd_video_url": "https://www.youtube.com/embed/O0nWp3sGy3o",
+      "thumbnail": "https://i.ytimg.com/vi/O0nWp3sGy3o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e998f914-a897-4c81-9090-3e5da897090a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Current Affairs",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/18GpXhuGwLE",
+      "hd_video_url": "https://www.youtube.com/embed/18GpXhuGwLE",
+      "thumbnail": "https://i.ytimg.com/vi/18GpXhuGwLE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41a9259f-9036-43af-ab27-7e0378287720.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Current Affairs",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/UOEx-5UhLlA",
+      "hd_video_url": "https://www.youtube.com/embed/UOEx-5UhLlA",
+      "thumbnail": "https://i.ytimg.com/vi/UOEx-5UhLlA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14a96215-886e-4a74-a8f9-a185098d3369.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Current Affairs",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/u-lixN74XnI",
+      "hd_video_url": "https://www.youtube.com/embed/u-lixN74XnI",
+      "thumbnail": "https://i.ytimg.com/vi/u-lixN74XnI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Current Affairs",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/2bywLu6rG5E",
+      "hd_video_url": "https://www.youtube.com/embed/2bywLu6rG5E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6882037233703.jpg",
+      "notes": [
+        {
+          "title": "Lecture-62 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de854155-6f2c-42ec-82fa-74307ca6513b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

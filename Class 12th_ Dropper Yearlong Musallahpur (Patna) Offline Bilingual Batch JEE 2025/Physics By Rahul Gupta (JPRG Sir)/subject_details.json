@@ -1,0 +1,592 @@
+{
+  "subject_name": "Physics By Rahul Gupta (JPRG Sir)",
+  "subject_id": 2346,
+  "video_count": 42,
+  "note_count": 41,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Mathematical Tools -1",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/chRdcZ-wO6c",
+      "hd_video_url": "https://www.youtube.com/embed/chRdcZ-wO6c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/G3QiiOv6x1OM4xepj5X5MUG6WLpHMv0UkQanEFkv.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Mathematical Tools -1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1911d7a8-3407-4e0c-8932-80102e9eb4d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Mathematical Tools -2",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/eD3AsN5aAjs",
+      "hd_video_url": "https://www.youtube.com/embed/eD3AsN5aAjs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/d8QQlPV7WHYyP1Lfqf05wvlfNmnWMRHVAWe8lpt4.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || Mathematical Tools -2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/cd1c3dfa-fc91-413d-a516-39fb4b5b4899.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Mathematical Tools -3",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZYuFoxvlMVY",
+      "hd_video_url": "https://www.youtube.com/embed/ZYuFoxvlMVY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/aAGzrgu3Zltvqd7tygxrPecRPen1w1zMAoDOlIRl.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Mathematical Tools -3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ae1d265c-76b4-42d9-9350-f105ab5f487c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Mathematical Tools -4",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/FgnhLnvyCYQ",
+      "hd_video_url": "https://www.youtube.com/embed/FgnhLnvyCYQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/12k0JfwrKdcg4MgLxkoXHLWV1pGJw51inaxNGngL.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 || Mathematical Tools -5",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6a2f7de6-e94a-49c8-99cf-10555a583ec3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Mathematical Tools -5",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/Ndtj5A3J26U",
+      "hd_video_url": "https://www.youtube.com/embed/Ndtj5A3J26U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qp3bvKqxryzDhyGodRPmWwExf99LlDJ9oqXVmWKf.jpg",
+      "notes": [
+        {
+          "title": "Lecture -6 || Mathematical Tools -6",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7ddf8c72-324c-465c-978c-084591cd6de2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 || Mathematical Tools -6",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/R4Nf0CRC0qg",
+      "hd_video_url": "https://www.youtube.com/embed/R4Nf0CRC0qg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/oUFgAzih46dXuqjHIYS8ieJdxDfCGgvr6zHhqXxE.jpg",
+      "notes": [
+        {
+          "title": "Lecture -8 || Mathematical Tools -8",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fa5e33a5-1581-4bd3-9171-bc3d9eabda64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 || Mathematical Tools -7",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/mKD1XauIiUw",
+      "hd_video_url": "https://www.youtube.com/embed/mKD1XauIiUw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cdC5oxNHdYlsivZfUcVHgCtaEsTmNZOtsUtjQr5R.jpg",
+      "notes": [
+        {
+          "title": "Lecture -8 || Mathematical Tools -8",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dfaec5a8-f028-4d27-9f0f-a6cb8146f176.45"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -8 || Mathematical Tools -8 And Motion In A Straight Line -1",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/N1_glezFtNw",
+      "hd_video_url": "https://www.youtube.com/embed/N1_glezFtNw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/bJptMl0vhKyXCRfYVNdRrlEFAwYhyI9DbDvPQHme.jpg",
+      "notes": [
+        {
+          "title": "Lecture -9 || Mathematical Tools -9",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d64f3bb1-12a8-4606-acbf-922c61fa9e27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -9 ||  Motion In A Straight Line -2",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/lE6uoKBE3XY",
+      "hd_video_url": "https://www.youtube.com/embed/lE6uoKBE3XY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/E8YwD5GggIQZAhsMvoBxC2GNupWvROrEuAOQFizJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture -10 ||  Motion In A Straight Line -2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c6b7fe86-fbc0-4ee4-8318-9443751c2eee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -10 || Motion In A Straight Line -3",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/xB_Z2yWi20Q",
+      "hd_video_url": "https://www.youtube.com/embed/xB_Z2yWi20Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dBN6NqaT9EJZIxzrmdo2lxDpZFItAdjfsizQ0tOh.jpg",
+      "notes": [
+        {
+          "title": "Lecture -11 || Motion In A Straight Line -3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/72d88fc1-c75d-4137-b408-b02983a905e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -11 || Unit & Dimension -1",
+      "published_date": "02 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5o-VNEZa0sA",
+      "hd_video_url": "https://www.youtube.com/embed/5o-VNEZa0sA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/w17UjhUWjy0AtKiHVgnVXXoZ8zPvziaNkI2CDTMY.jpg",
+      "notes": [
+        {
+          "title": "Lecture -11 || Unit & Dimension -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7fc6603-cce9-41df-86e4-56e5faaf8e1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture -12 || Motion In Straight Line  -2",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/rDEic135K14",
+      "hd_video_url": "https://www.youtube.com/embed/rDEic135K14",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/sQ6GHE65AYe2znQOY9wA5YVGu6d53aLn899uDcsu.jpg",
+      "notes": [
+        {
+          "title": "Lecture -12 || Motion In Straight Line  -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07000493-f07b-4616-a211-d96aca677477.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture -13 || Motion In Straight Line -3",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/haifF8jImm0",
+      "hd_video_url": "https://www.youtube.com/embed/haifF8jImm0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -13 || Unit & Dimension -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b8cb3d3-8cb1-4b1e-8aa6-b1c922fdd0f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture -14 || Motion In Straight Line - 4",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/d8ZcPe6KUow",
+      "hd_video_url": "https://www.youtube.com/embed/d8ZcPe6KUow",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -14 || Unit & Dimension -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4652f6e6-891d-4584-8e35-54a758af4cb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture -15 || Motion In Straight Line - 5",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/fqirPizldcg",
+      "hd_video_url": "https://www.youtube.com/embed/fqirPizldcg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -15 || Unit & Dimension -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/688a13a3-e833-469a-a8e7-4abca11ab5c4."
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture -16 || Motion In Straight Line - 6",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/fLMBrIdfQkM",
+      "hd_video_url": "https://www.youtube.com/embed/fLMBrIdfQkM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -16 || Unit & Dimension -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b39b87eb-b83a-40c9-ab73-0a641a285890.05"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture -17 || Motion In Straight Line - 7",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/nK4pwm69bYo",
+      "hd_video_url": "https://www.youtube.com/embed/nK4pwm69bYo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -17 || Unit & Dimension -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c649d5f4-18d2-4d20-8ca1-2beee6f4b3fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -18 || Motion In Straight Line - 8",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/XtMVhuWp60Q",
+      "hd_video_url": "https://www.youtube.com/embed/XtMVhuWp60Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -18 || Motion In Straight Line - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62baf0e4-0f00-4942-8f6d-ac0279cd1cb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture -19 || Motion In Straight Line - 9",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/NFyXeBjFSHg",
+      "hd_video_url": "https://www.youtube.com/embed/NFyXeBjFSHg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -19 || Motion In Straight Line - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc35c33c-ef0a-4967-8947-27aea01f4138.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture -20 || Newton's Law Of Motion - 1",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/qxd5TV4XK5M",
+      "hd_video_url": "https://www.youtube.com/embed/qxd5TV4XK5M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -20 || Newton's Law Of Motion - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df3bbd2d-2c97-4cad-b561-88e5cdabe160.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -21 || Newton's Law Of Motion - 2",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/NhzenLdijF8",
+      "hd_video_url": "https://www.youtube.com/embed/NhzenLdijF8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -21 || Newton's Law Of Motion - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/628f99a7-fa7c-4050-8185-626c1c5a2a1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -22 || Newton's Law Of Motion - 3",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/MQdtUGKbots",
+      "hd_video_url": "https://www.youtube.com/embed/MQdtUGKbots",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -22 || Newton's Law Of Motion - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc4dd009-4e7c-4ed8-b2c2-135b0110cfd4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -23 || Newton's Law Of Motion - 4",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/P8IOXYKFAeo",
+      "hd_video_url": "https://www.youtube.com/embed/P8IOXYKFAeo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -23 || Newton's Law Of Motion - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6ddb570-9ae6-4c75-9564-37b115883710.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -24 || Newton's Law Of Motion - 5",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/7zZH0OO3CPQ",
+      "hd_video_url": "https://www.youtube.com/embed/7zZH0OO3CPQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -24 || Newton's Law Of Motion - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8fb1e5a-127e-4200-825d-a95e8408ad61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -25 || Newton's Law Of Motion - 6",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/--8G7UmvVMo",
+      "hd_video_url": "https://www.youtube.com/embed/--8G7UmvVMo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -25 || Newton's Law Of Motion - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d752eec4-36ba-4b4d-aa59-35374b3e0592.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture -26 || Newton's Law Of Motion - 7",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/gAOZf5aAa9Q",
+      "hd_video_url": "https://www.youtube.com/embed/gAOZf5aAa9Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -26 || Newton's Law Of Motion - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42c25f65-0d29-4219-98a9-db47317ed83f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -27 || Newton's Law Of Motion - 8",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ayaA4hvS1U8",
+      "hd_video_url": "https://www.youtube.com/embed/ayaA4hvS1U8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -27 || Newton's Law Of Motion - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d316959-ba7e-42d8-b22c-74e5c6f4867a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -28 || Newton's Law Of Motion - 9",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/dIm0_xc443s",
+      "hd_video_url": "https://www.youtube.com/embed/dIm0_xc443s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -28 || Newton's Law Of Motion - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab5b2e15-3b0a-4076-9284-fc8ebda37349.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -29 || Newton's Law Of Motion - 10",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/grNPFG8cxaU",
+      "hd_video_url": "https://www.youtube.com/embed/grNPFG8cxaU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -29 || Newton's Law Of Motion - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d8d1e1e-c4ab-46d5-a0bf-c515b78ab35e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -30 || Newton's Law Of Motion - 11",
+      "published_date": "13 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Cdsu_LzUr-4",
+      "hd_video_url": "https://www.youtube.com/embed/Cdsu_LzUr-4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -30 || Newton's Law Of Motion - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d430f83-2055-487b-a844-d46496b27664.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -31 || Newton's Law Of Motion - 12",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/eRqM_33Rxf8",
+      "hd_video_url": "https://www.youtube.com/embed/eRqM_33Rxf8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -31 || Newton's Law Of Motion - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf6e1278-8597-45ce-a799-97006d09a728.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture -32 || Newton's Law Of Motion - 13",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kU_kPzvcU1g",
+      "hd_video_url": "https://www.youtube.com/embed/kU_kPzvcU1g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -32 || Newton's Law Of Motion - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e185b8fa-ec04-47d2-baeb-664ea7a7bbc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture -33 || Newton's Law Of Motion - 14",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/GrP-bH5pJW4",
+      "hd_video_url": "https://www.youtube.com/embed/GrP-bH5pJW4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -33 || Newton's Law Of Motion - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0315e3fc-d54c-4927-b534-91fa34c086b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture -34 || Newton's Law Of Motion - 15",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/RhYB2lP_4jg",
+      "hd_video_url": "https://www.youtube.com/embed/RhYB2lP_4jg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -34 || Newton's Law Of Motion - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53be29a4-6858-4141-a21a-23bca20ebfe6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture -35 || Newton's Law Of Motion - 16",
+      "published_date": "20 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/NlSAIXW_AG8",
+      "hd_video_url": "https://www.youtube.com/embed/NlSAIXW_AG8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -35 || Newton's Law Of Motion - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38e493cc-2d91-4f39-8231-129be84250cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture -36 || Newton's Law Of Motion - 17",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/qBtQgijf3Lc",
+      "hd_video_url": "https://www.youtube.com/embed/qBtQgijf3Lc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -36 || Newton's Law Of Motion - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/748cdd8e-0613-4dff-a2b5-e726405339db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture -37 || Newton's Law Of Motion - 18",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/TJkWA7ugkZ4",
+      "hd_video_url": "https://www.youtube.com/embed/TJkWA7ugkZ4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -37 || Newton's Law Of Motion - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67ce3ac9-2d74-403b-a93e-db26cbacf823.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture -38 || Newton's Law Of Motion - 19",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kScoOSwNmPw",
+      "hd_video_url": "https://www.youtube.com/embed/kScoOSwNmPw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -38 || Newton's Law Of Motion - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/870ef8e5-7c19-437b-877c-15cb98a624ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture -39 || Newton's Law Of Motion - 20",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/SwWfZSG71LM",
+      "hd_video_url": "https://www.youtube.com/embed/SwWfZSG71LM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -39 || Newton's Law Of Motion - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bf43503-e583-49e9-8b64-8e2424efd257.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture -40 || Newton's Law Of Motion - 21",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/wLetktqkP_U",
+      "hd_video_url": "https://www.youtube.com/embed/wLetktqkP_U",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture -41 || Newton's Law Of Motion - 22",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/KmlRoaMMnNQ",
+      "hd_video_url": "https://www.youtube.com/embed/KmlRoaMMnNQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -41 || Newton's Law Of Motion - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9e61773-0966-45ae-bfd8-785ec6527768.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture -42 || Newton's Law Of Motion - 23",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/hHg8B81sLyE",
+      "hd_video_url": "https://www.youtube.com/embed/hHg8B81sLyE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -42 || Newton's Law Of Motion - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdbff6cf-2716-46ea-a009-d9487ccb5491.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

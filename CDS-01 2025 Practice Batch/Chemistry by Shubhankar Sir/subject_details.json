@@ -1,0 +1,457 @@
+{
+  "subject_name": "Chemistry by Shubhankar Sir",
+  "subject_id": 5341,
+  "video_count": 32,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Basics of Chemistry Part-01",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/YfqzC1lctPU",
+      "hd_video_url": "https://www.youtube.com/embed/YfqzC1lctPU",
+      "thumbnail": "https://i.ytimg.com/vi/YfqzC1lctPU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Basics of Chemistry Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d6ea317-3e5e-4542-84f4-1ddf19911fb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Basics of Chemistry Part-02",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ZC9oTFF5ISc",
+      "hd_video_url": "https://www.youtube.com/embed/ZC9oTFF5ISc",
+      "thumbnail": "https://i.ytimg.com/vi/ZC9oTFF5ISc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Basics of Chemistry Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d06f96fd-3b75-465e-aba1-e93cdabb3895.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Organic Chemistry Part-01",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/l9aocADs4N8",
+      "hd_video_url": "https://www.youtube.com/embed/l9aocADs4N8",
+      "thumbnail": "https://i.ytimg.com/vi/l9aocADs4N8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Organic Chemistry Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cf7c069-c6fd-449b-85f2-b1aa25d8a7c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Organic Chemistry Part-02",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/EWssnaadN_0",
+      "hd_video_url": "https://www.youtube.com/embed/EWssnaadN_0",
+      "thumbnail": "https://i.ytimg.com/vi/EWssnaadN_0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Organic Chemistry Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20b1d0b9-155e-43aa-8405-5c046e4f514c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Mole Concept",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/dZUJJsixiOE",
+      "hd_video_url": "https://www.youtube.com/embed/dZUJJsixiOE",
+      "thumbnail": "https://i.ytimg.com/vi/dZUJJsixiOE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Mole Concept",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1d6141d-aad6-41f2-8486-a06fb53d2365.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Fundamental Laws of Chemistry",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/N3uwUt4nHfk",
+      "hd_video_url": "https://www.youtube.com/embed/N3uwUt4nHfk",
+      "thumbnail": "https://i.ytimg.com/vi/N3uwUt4nHfk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Fundamental Laws of Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cd2c082-0900-4ff4-bd32-7cf0d85a984a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Structure of Atom Part-01",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/aCb9ekPiin0",
+      "hd_video_url": "https://www.youtube.com/embed/aCb9ekPiin0",
+      "thumbnail": "https://i.ytimg.com/vi/aCb9ekPiin0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Structure of Atom Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0078ca73-6cc2-4d67-8765-ae5daa81ff3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Structure of Atom Part-02",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/dNwhVrOlczA",
+      "hd_video_url": "https://www.youtube.com/embed/dNwhVrOlczA",
+      "thumbnail": "https://i.ytimg.com/vi/dNwhVrOlczA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Structure of Atom Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c13bbbdb-2823-455f-afe3-b4479626d87e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Quantum numbers & Electronic configuration",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/BcEtfhkD1Ho",
+      "hd_video_url": "https://www.youtube.com/embed/BcEtfhkD1Ho",
+      "thumbnail": "https://i.ytimg.com/vi/BcEtfhkD1Ho/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Quantum numbers & Electronic configuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb71dda7-6415-44e1-bd94-2b4b714f8a17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Periodic Table Part-01",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vVKSXvr-rdA",
+      "hd_video_url": "https://www.youtube.com/embed/vVKSXvr-rdA",
+      "thumbnail": "https://i.ytimg.com/vi/vVKSXvr-rdA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Periodic Table Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9fb228a-9905-4476-b4c5-a2ec4f5aed6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Periodic Table Part-02",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LNnyQ9vKZgw",
+      "hd_video_url": "https://www.youtube.com/embed/LNnyQ9vKZgw",
+      "thumbnail": "https://i.ytimg.com/vi/LNnyQ9vKZgw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Periodic Table Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45792995-d804-47f7-a0ef-2e5f0d4e98d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Chemical Bonding Part-01",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/889Y2bJv-zo",
+      "hd_video_url": "https://www.youtube.com/embed/889Y2bJv-zo",
+      "thumbnail": "https://i.ytimg.com/vi/889Y2bJv-zo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Chemical Bonding Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a155c56c-7f94-400b-91df-4f47a38f91ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Chemical Bonding Part-02",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/oyTDaQiw6D8",
+      "hd_video_url": "https://www.youtube.com/embed/oyTDaQiw6D8",
+      "thumbnail": "https://i.ytimg.com/vi/oyTDaQiw6D8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Chemical Bonding Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13644c9e-8c3b-4e62-9eed-fa9ba62557ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || S block elements & compound Part-01",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4tU4w6D1Eug",
+      "hd_video_url": "https://www.youtube.com/embed/4tU4w6D1Eug",
+      "thumbnail": "https://i.ytimg.com/vi/4tU4w6D1Eug/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || S block elements & compound Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cce37a2-6ce9-490c-98f9-eb92f56b4aa6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || S block elements & compound Part-02",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/zXaziMIq4IQ",
+      "hd_video_url": "https://www.youtube.com/embed/zXaziMIq4IQ",
+      "thumbnail": "https://i.ytimg.com/vi/zXaziMIq4IQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || S block elements & compound Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71c01afc-4cfb-41cf-aad7-63d4c6b3d5ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || S block elements & compound Part-03",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/QRzJRXBGVNs",
+      "hd_video_url": "https://www.youtube.com/embed/QRzJRXBGVNs",
+      "thumbnail": "https://i.ytimg.com/vi/QRzJRXBGVNs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || S block elements & compound Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42038782-7e0b-4bca-a0ae-f5d0f2da1dc9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || S block elements & compound Part-04",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/8wfdw0BKagk",
+      "hd_video_url": "https://www.youtube.com/embed/8wfdw0BKagk",
+      "thumbnail": "https://i.ytimg.com/vi/8wfdw0BKagk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || S block elements & compound Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10a12260-f4aa-42b0-a2fb-341d8b6faf4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || P block elements Part-01",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/mU1VXjHSEQU",
+      "hd_video_url": "https://www.youtube.com/embed/mU1VXjHSEQU",
+      "thumbnail": "https://i.ytimg.com/vi/mU1VXjHSEQU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || P block elements Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7a3fe36-e69b-45eb-85fb-5f8415c0a8af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || P block elements Part-02",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_R_5NklehTQ",
+      "hd_video_url": "https://www.youtube.com/embed/_R_5NklehTQ",
+      "thumbnail": "https://i.ytimg.com/vi/_R_5NklehTQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || P block elements Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca81de73-a4dd-4567-8e0c-effe3a426c3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || P block elements Part-03",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tCjrF4t4SuU",
+      "hd_video_url": "https://www.youtube.com/embed/tCjrF4t4SuU",
+      "thumbnail": "https://i.ytimg.com/vi/tCjrF4t4SuU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || P block elements Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64d9890b-94ed-4582-998c-0bdcabba514c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Practice Set",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/g7F07jiaD_M",
+      "hd_video_url": "https://www.youtube.com/embed/g7F07jiaD_M",
+      "thumbnail": "https://i.ytimg.com/vi/g7F07jiaD_M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Practice Set",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25da55f7-c4f1-4d6f-8ea2-05c0b90d094e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Nuclei",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/PsiSuaD9EMI",
+      "hd_video_url": "https://www.youtube.com/embed/PsiSuaD9EMI",
+      "thumbnail": "https://i.ytimg.com/vi/PsiSuaD9EMI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Nuclei",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1281d63f-6197-4d06-9034-092c2bbe6272.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || State of Matter",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/OJpX3XUiXL0",
+      "hd_video_url": "https://www.youtube.com/embed/OJpX3XUiXL0",
+      "thumbnail": "https://i.ytimg.com/vi/OJpX3XUiXL0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || State of Matter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4106ae45-eaa9-435f-9bfd-9a127acda02f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Pollution",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vbO62M5jwQY",
+      "hd_video_url": "https://www.youtube.com/embed/vbO62M5jwQY",
+      "thumbnail": "https://i.ytimg.com/vi/vbO62M5jwQY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Pollution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac945d17-1d5a-48ba-a385-c38a41eee212.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Medicine & Drugs",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/bujSsJvo2e4",
+      "hd_video_url": "https://www.youtube.com/embed/bujSsJvo2e4",
+      "thumbnail": "https://i.ytimg.com/vi/bujSsJvo2e4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Medicine & Drugs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd543b16-b4fd-4a23-a2e1-f37969d53b7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Polymer",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/1-sEu3tdI60",
+      "hd_video_url": "https://www.youtube.com/embed/1-sEu3tdI60",
+      "thumbnail": "https://i.ytimg.com/vi/1-sEu3tdI60/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Polymer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c8160f7-0980-405e-9aa6-9393a04c9a44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Polymer Part-02",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/3RfTedlPrfU",
+      "hd_video_url": "https://www.youtube.com/embed/3RfTedlPrfU",
+      "thumbnail": "https://i.ytimg.com/vi/3RfTedlPrfU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Polymer Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b0bf120-5815-4956-932d-5823b6da1ed7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Polymer Part-03",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CUMiYS5tGtY",
+      "hd_video_url": "https://www.youtube.com/embed/CUMiYS5tGtY",
+      "thumbnail": "https://i.ytimg.com/vi/CUMiYS5tGtY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Polymer Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f42b4221-8e16-4de5-a445-983f21c6182c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Types of Chemical Reaction",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/PrvzCQMputY",
+      "hd_video_url": "https://www.youtube.com/embed/PrvzCQMputY",
+      "thumbnail": "https://i.ytimg.com/vi/PrvzCQMputY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Types of Chemical Reactions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/428fe7e0-9d7f-4618-a606-95038928053b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Acids, Bases & Salts",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Y6tPUM4UIto",
+      "hd_video_url": "https://www.youtube.com/embed/Y6tPUM4UIto",
+      "thumbnail": "https://i.ytimg.com/vi/Y6tPUM4UIto/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Acids, Bases & Salts",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19b80aa3-588a-46b6-8bfb-fef8f8104271.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Metal and Non Metal",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CGqDmnDVrq8",
+      "hd_video_url": "https://www.youtube.com/embed/CGqDmnDVrq8",
+      "thumbnail": "https://i.ytimg.com/vi/CGqDmnDVrq8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Metal & Non Metal",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/619f9f0a-dfbb-49fb-a503-36c5a7068206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Metal and Non Metal Part-02",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/p6lrfmN_LLw",
+      "hd_video_url": "https://www.youtube.com/embed/p6lrfmN_LLw",
+      "thumbnail": "https://i.ytimg.com/vi/p6lrfmN_LLw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Metal & Non Metal Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f55d1fd-1497-473d-a0bc-f402bea434e9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

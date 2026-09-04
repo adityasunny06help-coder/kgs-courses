@@ -1,0 +1,139 @@
+{
+  "subject_name": "Open Channel Flow by Chadha Sir",
+  "subject_id": 6690,
+  "video_count": 9,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 ||   Types of Flow",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/TsgV7BzrCdw",
+      "hd_video_url": "https://www.youtube.com/embed/TsgV7BzrCdw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HCfBAVidM0DUhmdzgGvRsLIxgBA4s8ruPwamLXCB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 ||   Types of Flow",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fef2e30b-14ec-43f2-9929-114088a00485.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 ||   Sub, Super & Critical Flow",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/PN_bIDg2lSA",
+      "hd_video_url": "https://www.youtube.com/embed/PN_bIDg2lSA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a22391cccd.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 ||   Sub, Super & Critical Flow",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cddcb5e7-211a-4647-a5c2-ac3ff263822e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 ||  Flow Over Humps",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/Yar5m0cFrmY",
+      "hd_video_url": "https://www.youtube.com/embed/Yar5m0cFrmY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a22381d26a.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 ||  Flow Over Humps",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/694a1782-9081-45f2-ad72-09cd65c7dbc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Chezy's & Manning's Equation",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/cSlbVoBUyo4",
+      "hd_video_url": "https://www.youtube.com/embed/cSlbVoBUyo4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a22371957e.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Chezy's & Manning's Equation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a122245-869e-4f94-a39a-6aa8054c1324.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 ||  Efficient Sections",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/s1jk1rithg0",
+      "hd_video_url": "https://www.youtube.com/embed/s1jk1rithg0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a223614641.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 ||  Efficient Sections",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9717b80f-238a-4db9-bd68-873304352f03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Hydraulic Jump",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/Cn5h0t6Q_Ug",
+      "hd_video_url": "https://www.youtube.com/embed/Cn5h0t6Q_Ug",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a22350c5d6.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Hydraulic Jump",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a8c7167-4cf3-4f38-a684-4f1619baa110.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 ||   Types of Jump",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/j05UImMKAwE",
+      "hd_video_url": "https://www.youtube.com/embed/j05UImMKAwE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a223409ee0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 ||   Types of Jump",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/733adc82-e439-42e7-a7fd-211a57467457.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 ||  Flow Profile",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/nFIscnClrAY",
+      "hd_video_url": "https://www.youtube.com/embed/nFIscnClrAY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a2233075c2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 ||  Flow Profile",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91ef05e9-be7b-41f9-bc91-249c3ed394e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Doubts + Question Session.",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/rUpz1JXckUs",
+      "hd_video_url": "https://www.youtube.com/embed/rUpz1JXckUs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a22320271e.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Doubts + Question Session.",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54fbe078-4fec-470e-8e81-0c0298176578.pdf"
+        },
+        {
+          "title": "Lecture 9 || Doubts + Question Session.",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12008946-d86d-4a0e-b8b2-145b0720f10b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

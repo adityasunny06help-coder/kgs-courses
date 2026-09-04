@@ -1,0 +1,261 @@
+{
+  "subject_name": "Computer By Anjali Ma'am",
+  "subject_id": 4962,
+  "video_count": 18,
+  "note_count": 18,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Computer",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/yI8OzOjgBZc",
+      "hd_video_url": "https://www.youtube.com/embed/yI8OzOjgBZc",
+      "thumbnail": "https://i.ytimg.com/vi/yI8OzOjgBZc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction of Computer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de0fcb63-f85a-4f68-9cd0-153cb852000d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Input & Output Device (Part-01)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/13XXEDhxnQ4",
+      "hd_video_url": "https://www.youtube.com/embed/13XXEDhxnQ4",
+      "thumbnail": "https://i.ytimg.com/vi/13XXEDhxnQ4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6f88ff3-4607-47f9-a041-1a0855b59f3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Input & Output Device (Part-02)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Nv0TZirwl4s",
+      "hd_video_url": "https://www.youtube.com/embed/Nv0TZirwl4s",
+      "thumbnail": "https://i.ytimg.com/vi/Nv0TZirwl4s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc4949e9-0d89-4840-b952-18bae6f9a4cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Languages of Machine",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/0oOA4KWQFMY",
+      "hd_video_url": "https://www.youtube.com/embed/0oOA4KWQFMY",
+      "thumbnail": "https://i.ytimg.com/vi/0oOA4KWQFMY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36452055-78ee-4fbb-a160-a63fac14d552.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Types of Software",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/1zT9f_0d6wY",
+      "hd_video_url": "https://www.youtube.com/embed/1zT9f_0d6wY",
+      "thumbnail": "https://i.ytimg.com/vi/1zT9f_0d6wY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3af3566d-ab91-403b-b62a-c506c2045bb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Types of Operating System",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gfZ1rFhIGtM",
+      "hd_video_url": "https://www.youtube.com/embed/gfZ1rFhIGtM",
+      "thumbnail": "https://i.ytimg.com/vi/gfZ1rFhIGtM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3fc23f0-ce9f-45f5-ad93-1d0bdcf902c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Memory",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/96ilLAz42OI",
+      "hd_video_url": "https://www.youtube.com/embed/96ilLAz42OI",
+      "thumbnail": "https://i.ytimg.com/vi/96ilLAz42OI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f3e6897-35be-4bcb-9148-35f034b6ce08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Classification of Computer",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/VnLceKsaFEo",
+      "hd_video_url": "https://www.youtube.com/embed/VnLceKsaFEo",
+      "thumbnail": "https://i.ytimg.com/vi/VnLceKsaFEo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58071e31-22e3-4446-a638-1a8180fdb05f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Network (Part-01)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CB_9eSvpAJ0",
+      "hd_video_url": "https://www.youtube.com/embed/CB_9eSvpAJ0",
+      "thumbnail": "https://i.ytimg.com/vi/CB_9eSvpAJ0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb169fdc-339d-4d38-ac0c-9655aa37ad9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Network (Part-02)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/vvwnMcAZGU0",
+      "hd_video_url": "https://www.youtube.com/embed/vvwnMcAZGU0",
+      "thumbnail": "https://i.ytimg.com/vi/vvwnMcAZGU0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/099c8d85-a50e-4712-8d19-e52d69606391.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Internet",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/A6pdvoW7TVM",
+      "hd_video_url": "https://www.youtube.com/embed/A6pdvoW7TVM",
+      "thumbnail": "https://i.ytimg.com/vi/A6pdvoW7TVM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d40a0fe9-758d-453e-bf12-4868cc1892b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Browser & Google Search Engine",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/d_u3AMXj9Z4",
+      "hd_video_url": "https://www.youtube.com/embed/d_u3AMXj9Z4",
+      "thumbnail": "https://i.ytimg.com/vi/d_u3AMXj9Z4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36894c63-1aa1-4f0a-9272-0cf9888a4477.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Virus Alert",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/PuW-NgPO4t4",
+      "hd_video_url": "https://www.youtube.com/embed/PuW-NgPO4t4",
+      "thumbnail": "https://i.ytimg.com/vi/PuW-NgPO4t4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13c6c27b-b854-4c2d-b9f6-a8d64cd7e37a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Microsoft Word (Part-01)",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/5rVC7mIuQ3Q",
+      "hd_video_url": "https://www.youtube.com/embed/5rVC7mIuQ3Q",
+      "thumbnail": "https://i.ytimg.com/vi/5rVC7mIuQ3Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e03620e3-39b7-4bee-a5b3-67787071d535.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Microsoft Word (Part-02)",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/eqFV5yDgjlo",
+      "hd_video_url": "https://www.youtube.com/embed/eqFV5yDgjlo",
+      "thumbnail": "https://i.ytimg.com/vi/eqFV5yDgjlo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cde0af76-704a-4a67-adec-20901eda9c93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Microsoft Word (Part-03)",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ht833zOilcA",
+      "hd_video_url": "https://www.youtube.com/embed/ht833zOilcA",
+      "thumbnail": "https://i.ytimg.com/vi/ht833zOilcA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be1b84c0-20d6-4505-9dd4-5687f3e08390.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Powerpoint (Part-01)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/k7xi1v9WE4g",
+      "hd_video_url": "https://www.youtube.com/embed/k7xi1v9WE4g",
+      "thumbnail": "https://i.ytimg.com/vi/k7xi1v9WE4g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24a9d656-3691-4083-9dff-67ed8dddbb9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || MS Excel",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/hievbxZ1Os4",
+      "hd_video_url": "https://www.youtube.com/embed/hievbxZ1Os4",
+      "thumbnail": "https://i.ytimg.com/vi/hievbxZ1Os4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || MS Excel",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3cdccca-98a2-4c62-aa04-c6ac53f7f87b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

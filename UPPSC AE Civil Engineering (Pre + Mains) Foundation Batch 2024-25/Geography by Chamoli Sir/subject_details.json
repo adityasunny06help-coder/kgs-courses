@@ -1,0 +1,149 @@
+{
+  "subject_name": "Geography by Chamoli Sir",
+  "subject_id": 5995,
+  "video_count": 10,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Universe",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_KG43ACMLfs",
+      "hd_video_url": "https://www.youtube.com/embed/_KG43ACMLfs",
+      "thumbnail": "https://i.ytimg.com/vi/_KG43ACMLfs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Universe",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8f2deba-2522-4913-99cf-a7ba495b4ced.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Solar System",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/aIatSaUf-fE",
+      "hd_video_url": "https://www.youtube.com/embed/aIatSaUf-fE",
+      "thumbnail": "https://i.ytimg.com/vi/aIatSaUf-fE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Solar System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41b5f4a0-a8ab-4867-8877-aca09a8108f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Atmosphere of Earth",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ERv0f7pSj6Q",
+      "hd_video_url": "https://www.youtube.com/embed/ERv0f7pSj6Q",
+      "thumbnail": "https://i.ytimg.com/vi/ERv0f7pSj6Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Atmosphere of Earth",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50e630fd-be43-4ec7-90b3-47785bb433a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Mountains, Peaks of India",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/y98DutEhpO0",
+      "hd_video_url": "https://www.youtube.com/embed/y98DutEhpO0",
+      "thumbnail": "https://i.ytimg.com/vi/y98DutEhpO0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Mountains, Peaks of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba86eae5-4bbe-4260-bac0-27de29a91483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Islands of india",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/0TTt46GMmVc",
+      "hd_video_url": "https://www.youtube.com/embed/0TTt46GMmVc",
+      "thumbnail": "https://i.ytimg.com/vi/0TTt46GMmVc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Islands of india",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7dd356be-14af-4919-ab74-1547ba2d3b2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Rivers of India",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/daR4GU_3fUA",
+      "hd_video_url": "https://www.youtube.com/embed/daR4GU_3fUA",
+      "thumbnail": "https://i.ytimg.com/vi/daR4GU_3fUA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Rivers of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c20d3bf7-956e-45ac-87da-67e663b3a77c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Lakes of India",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jBzOqs5qTAM",
+      "hd_video_url": "https://www.youtube.com/embed/jBzOqs5qTAM",
+      "thumbnail": "https://i.ytimg.com/vi/jBzOqs5qTAM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Lakes of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa19b861-0e18-4fcc-88f7-31d4cc00ada6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Mountain Passes of India & Soil of India",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9Tluv_6VJiM",
+      "hd_video_url": "https://www.youtube.com/embed/9Tluv_6VJiM",
+      "thumbnail": "https://i.ytimg.com/vi/9Tluv_6VJiM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Mountain Passes of India & Soil of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3539808-7ea1-441a-9f1f-e948ccdcad23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Railway, National Highways and Waterways of India",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/cyEkxRs-jJc",
+      "hd_video_url": "https://www.youtube.com/embed/cyEkxRs-jJc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uTeKAIZYZd8JLn0Y1QTbpnwzesUHF9PqCXmBsZ7M.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Railway, National Highways and Waterways of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d8d6c5b-69c4-4c5b-90ee-72129cfa6e43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || National Parks and Biosphere reserves Classical Dances of India",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zSJ0nWf8QEE",
+      "hd_video_url": "https://www.youtube.com/embed/zSJ0nWf8QEE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qluOEtErUO0KthTfQFRM19XCtTOlOkI7bLHyuJC6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || National Parks and Biosphere reserves Classical Dances of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/888f0202-31e1-4aec-bd48-ad31ea01a749.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

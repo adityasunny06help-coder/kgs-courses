@@ -1,0 +1,88 @@
+{
+  "batch_info": {
+    "title": "NDA 02 2025 Target Batch",
+    "price": "1499",
+    "id": "615",
+    "extracted_date": "2025-08-27T14:06:25.319139"
+  },
+  "subjects": [
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 6289,
+      "video_count": 46,
+      "note_count": 46
+    },
+    {
+      "name": "English by Priyanshu Sir",
+      "id": 6215,
+      "video_count": 57,
+      "note_count": 49
+    },
+    {
+      "name": "Physics by Ravi Sir",
+      "id": 6216,
+      "video_count": 71,
+      "note_count": 69
+    },
+    {
+      "name": "Maths by Prashant Sir",
+      "id": 6217,
+      "video_count": 110,
+      "note_count": 109
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 6226,
+      "video_count": 86,
+      "note_count": 85
+    },
+    {
+      "name": "Current Affair by Arya Ma'am",
+      "id": 6235,
+      "video_count": 47,
+      "note_count": 44
+    },
+    {
+      "name": "Polity by Gyan Sir",
+      "id": 6287,
+      "video_count": 87,
+      "note_count": 87
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 6288,
+      "video_count": 65,
+      "note_count": 65
+    },
+    {
+      "name": "Mentorship by Arun Sir",
+      "id": 6738,
+      "video_count": 3,
+      "note_count": 2
+    },
+    {
+      "name": "English Practice by Priyanshu sir",
+      "id": 7105,
+      "video_count": 15,
+      "note_count": 8
+    },
+    {
+      "name": "Chemistry by Ravi sir",
+      "id": 7182,
+      "video_count": 28,
+      "note_count": 26
+    },
+    {
+      "name": "Current Affairs by Vishal Sir",
+      "id": 7455,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "English by Ruchir Sir",
+      "id": 8361,
+      "video_count": 5,
+      "note_count": 4
+    }
+  ]
+}

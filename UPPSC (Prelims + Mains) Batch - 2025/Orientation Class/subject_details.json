@@ -1,0 +1,32 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 2367,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class by Ajeet Sir",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZJEJ2GQiNik",
+      "hd_video_url": "https://www.youtube.com/embed/ZJEJ2GQiNik",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Z5A6NmOZzGmHP4jFVVkym7p27dDyNFB1nOaUFKje.png",
+      "notes": [
+        {
+          "title": "orientationclassbyajeetsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/caf8cc46-ebf6-417b-b0e8-e251d5962c7a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Orientation Class by jeet sir",
+      "published_date": "31 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/81026/kgss-1717151030-v81026.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jjsJrJ58yWk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/DGmdabhUsoFivpfqtd6JDHdLXRVzJkD1ZvXv0Juz.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

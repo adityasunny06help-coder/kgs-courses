@@ -1,0 +1,60 @@
+{
+  "subject_name": "Current Affairs by SKC Sir",
+  "subject_id": 2146,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || April (Part 2)",
+      "published_date": "27 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/klFsp8NiGX0",
+      "hd_video_url": "https://www.youtube.com/embed/klFsp8NiGX0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ZnyshygBgrC0YpDcvg9Q3YeL0cNIhkLLkrvMQjQo.jpg",
+      "notes": [
+        {
+          "title": "april_2_current_affairs.pdf",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/164b3aea-b8f1-40a2-b202-99711f6ecb93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || April (Part 3)",
+      "published_date": "04 May 2024",
+      "video_url": "https://www.youtube.com/embed/c9AvKjwIbTs",
+      "hd_video_url": "https://www.youtube.com/embed/c9AvKjwIbTs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UgUJHMfmejLI8YROgWwRf7m1693EB6y8cPbJCkLc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || May (Part 01)",
+      "published_date": "11 May 2024",
+      "video_url": "https://www.youtube.com/embed/agVzn_gXsHc",
+      "hd_video_url": "https://www.youtube.com/embed/agVzn_gXsHc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/wKtrHamZ1H4EeSuGjpsH5r9lOulposass7yKXrUB.jpg",
+      "notes": [
+        {
+          "title": "cuurent_affairs_s.pdf",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0e674718-c7f5-4692-97f2-e434727fe88b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || May (Part 02)",
+      "published_date": "18 May 2024",
+      "video_url": "https://www.youtube.com/embed/MqADlW9eLKE",
+      "hd_video_url": "https://www.youtube.com/embed/MqADlW9eLKE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/s9TxVLOSx5IOoMjbzVArR7uPUmKKahrSCKyVvKZs.jpg",
+      "notes": [
+        {
+          "title": "May (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/104ce116-9a96-4c3c-aa60-e95d8a3722ec.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

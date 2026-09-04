@@ -1,0 +1,123 @@
+{
+  "subject_name": "Science and Tech by Sumit Sir",
+  "subject_id": 5131,
+  "video_count": 11,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Intro & Nanotechnology",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189958/kgss-1738809932-v189958.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/85-9ZLKBdyM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/huWLts5L6S7vFsgWjZH6NxxT8yheKAxUMdIOV81Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0de4ef48-6704-47b0-9fc6-a334eb8b072a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || रोबोटिक्स एवं रक्षा तकनीकी",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190182/kgss-1738895581-v190182.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tTaKoUgbz9k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tPV7anlZApuGWhHxofkAbe827eJkaUxlhnBtrno1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || रक्षा तकनीकी एवं जैव तकनीकी",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191000/kgss-1738982416-v191000.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BLmfizzTVJo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6HewUYGrUNX0779VTSUNLCJ681TRq85jL6P0cfGa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d586005-8da3-426d-848a-d2d5eada8ce3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || जैव तकनीकी",
+      "published_date": "09 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191167/kgss-1739068750-v191167.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lt7YzVMU1zU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/68C3HJFIZmUTERFYhuyiedJzkJnBcYExHcZzENyp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || जैव तकनीकी एवं स्टेम सेल",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191461/kgss-1739155196-v191461.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dnfJ0U8MrS8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PtgEkW2L5pmr47kt17vuW8gkHZduptqcrgtlCePM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || जैव तकनीकी एवं रोबोटिक्स",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191620/kgss-1739241288-v191620.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-rdjtubzuXk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j7Wg637pZQUNl9IvLyg5wxTWNUPV2cudQtcfMyTO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || बौद्धिक संपदा अधिकार एवं अंतरिक्ष तकनीक",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191975/kgss-1739327911-v191975.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CmrcArrq03o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AnaIoXSaDI1nrcgBmTNYQxqPMkqhWufITjlIUUhu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || बौद्धिक संपदा अधिकार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b974662-cfe6-46a1-815d-cd082309283f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || अंतरिक्ष प्रौद्योगिकी",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192540/kgss-1739413886-v192540.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rLv5FA_q75M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SOQrZp3ir3jaaCvrK4Q7fA9NjFBJ8AojnfRy2ASZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || अंतरिक्ष प्रौद्योगिकी",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193040/kgss-1739499887-v193040.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fxnG8gObojE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/somk8yrGsaAYDLoIQcIzKgRWCE56v3h16xiCg1sR.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || ऊर्जा प्रौद्योगिकी",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193647/kgss-1739586649-v193647.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zF5Q8uPfIuc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/boTMaYbmPM4HFrMkf1mQ06XjgsI1CVSO5sd1VnCc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || सूचना और संचार",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201366/kgss-1740885885-v201366.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8t2qsFmwmcI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8GKzxAybAzDYGi8ghxcIKIcuKaBbnLCx1g61dvcD.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

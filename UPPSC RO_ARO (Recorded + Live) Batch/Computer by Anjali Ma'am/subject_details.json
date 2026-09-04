@@ -1,0 +1,135 @@
+{
+  "subject_name": "Computer by Anjali Ma'am",
+  "subject_id": 1827,
+  "video_count": 14,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/hmYr-MKh_9w",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40777/kgss-1703143378-v40777.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EIBBEa2p47VZmU1dT9l95n9ux0DNyp65uUXO73Vk.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Input Output Device (Part-1)",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/sTQOku4jJsA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/41050/kgss-1703229606-v41050.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yHbiDwahe1g97u8nnXJzTg5HSV21EK62rXO6mMTI.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Input Output Device (Part-2)",
+      "published_date": "23 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/42081/kgss-1703316172-v42081.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fbLpDORJP34",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xKakGi11YZdGouT0MO4vZc5DtTiH0UTKDGgWoYdo.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Software",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/JyA-zWSRr2M",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/42274/kgss-1703661293-v42274.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uPymNICiyatHjjtRAy7zpCd9LGzeFpYQfseLu3vJ.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || CPU/Memory",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/q7VdmX2zpoo",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/42638/kgss-1703747715-v42638.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Wfyi4EIiZsxVVKNopLquqzHB9K4FrdfyRgcQ0VZa.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Classification of Computer",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/s0hSANZn29o",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/43183/kgss-1703833339-v43183.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/90hUVpf3cAfFXJaZi0yv3YBODfnJVw1hUvhNW1P6.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Operating System",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/goYeJ4bi4dU",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/43412/kgss-1703920337-v43412.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/pVeUUno3PpzEl2N1Tj6HyYt2qWGr0nqlbIPgmIgX.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Computer Network",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/DWaJWTm3IIs",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/43574/kgss-1704179875-v43574.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/64NaKQiNmEA1D2XrdwpM9bZJqiaSE5J9l1SS2NDn.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09|| Internet (Part-1)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/FDa5Sc-Ry7k",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/43879/kgss-1704266498-v43879.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/oQzxKgHxb7sjxVpzNETCJLpftwL82B9fV7Pi26ve.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Internet (Part-2)",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44051/kgss-1704353254-v44051.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_N5GfY2acxw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GKgsCtNdNm1ZY1olYes98n7mIwWGhfci8lCeAcKN.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || MS-Word",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/computer/l-11/l-11-computer-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W2M4KBXsnR4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Tm8e5zWMrabnl7pSMHXVBFZ6Hr78S3iDMgA94K2z.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || MS-Power Point",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/computer/l-12/l-12-computer-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZM6jvLTnfhE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KT8L5WtwOW8FG61uOAsNKW4lIZzrG5t51vWocjlp.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || MS-Excel",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/VZYj-pE984o",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44737/kgss-1704698731-v44737.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/orjPWzCduCnJX2PenRcH92jyQ2dm9kRfAFbSLfzo.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Mcq Basic",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/xkPLVBAT_pU",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44989/kgss-1704784400-v44989.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7UAp6snf2Cr9Qy4ZKupEdTcXpe0QoPKLFGh5lsMQ.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

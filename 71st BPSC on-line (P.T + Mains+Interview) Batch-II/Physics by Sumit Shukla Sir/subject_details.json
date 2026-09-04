@@ -1,0 +1,415 @@
+{
+  "subject_name": "Physics by Sumit Shukla Sir",
+  "subject_id": 7060,
+  "video_count": 29,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Physics Introduction",
+      "published_date": "26 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/262385/kgss-1748227107-v262385.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NiL670q5Z2w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b3368eeb16.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Physics Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf438fb9-45b9-49c1-b052-443419d6d179.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Atomic Physics || परमाणु भौतिकी (Part-1)",
+      "published_date": "27 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/411-71st-bpsc2/science-sumit-sir/physics/l-02/physics-71bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/52GJddvsPUk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b336873fc7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Atomic Physics || परमाणु भौतिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/198671c4-4349-4c3e-b5aa-5b881ab24695.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Atomic Physics || परमाणु भौतिकी (Part-2)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/00IkuNyRSe4",
+      "hd_video_url": "https://www.youtube.com/embed/00IkuNyRSe4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b3367eec6e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Atomic Physics || परमाणु भौतिकी (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb29b4fc-8c2c-4139-a9d2-157f2f44207a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Atomic Physics || परमाणु भौतिकी (Part-3)",
+      "published_date": "29 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/411-71st-bpsc2/science-sumit-sir/physics/l-04/physics-71bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qI3NH0xQjV0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b3367426b6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Atomic Physics || परमाणु भौतिकी (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46618181-54c8-407a-8479-f503f6eedcb1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Atomic Physics & Electronics || परमाणु भौतिकी एवं इलेक्ट्रॉनिक्स",
+      "published_date": "30 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/265404/kgss-1748578421-v265404.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ahqLAWUrFL0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b3366bb195.jpg",
+      "notes": [
+        {
+          "title": "Atomic Physics & Electronics || परमाणु भौतिकी एवं इलेक्ट्रॉनिक्स",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96258849-3a9b-4ddb-a6a0-909ec641d2d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Electronics || इलेक्ट्रानिक्स (Part-2)",
+      "published_date": "31 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/266203/kgss-1748657639-v266203.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/55KzCQS3u3M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BdxePlO6XzUYvV6WiI95NpuD4d6cY2NmU8FXX2tf.jpg",
+      "notes": [
+        {
+          "title": "Electronics || इलेक्ट्रानिक्स (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d0a7fa8-2a5b-4937-bdea-61eadb2a4c3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Electronics || इलेक्ट्रानिक्स (Part-3)",
+      "published_date": "01 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/266691/kgss-1748744233-v266691.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Gu4vjHYpu30",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Frl8AgcqPXNX9OAuvWBbzsuK96w2woqR4xoNbLWJ.jpg",
+      "notes": [
+        {
+          "title": "Electronics || इलेक्ट्रानिक्स (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7a87ec7-8faa-4493-abcf-72e8d42fe570.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Electronics & State of Matter || इलेक्ट्रानिक्स एवं पदार्थ की अवस्था",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/266728/kgss-1748831477-v266728.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9JDlQY26qcw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ePhQY3MU2wMPSgpYdXz96ST9eBCiqTvFP7Ar66iu.jpg",
+      "notes": [
+        {
+          "title": "Electronics & State of Matter || इलेक्ट्रानिक्स एवं पदार्थ की अवस्था",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a887d31d-ce3d-42c3-ba0a-b09f078610f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || States of Matter || पदार्थ की अवस्था (Part-2)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/269350/kgss-1749001972-v269350.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r6hDxIfgDVw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bPBitJNfi40MZgcJDrjD6yzQ7fbGyYeM3VkCXgm5.jpg",
+      "notes": [
+        {
+          "title": "States of Matter || पदार्थ की अवस्था (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/527557bb-4f80-4eab-b6ac-b443fa184140.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || States of Matter || पदार्थ की अवस्था (Part-3)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/270189/kgss-1749101264-v270189.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LSZ8__jnLi4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pOdZnuQ9DbCyOjiKCn8yuOZNFDFLJqyPQrFqQ54j.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || States of Matter || पदार्थ की अवस्था",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf18a63a-d8ae-403d-8fc5-365c17787c7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Optics || प्रकाशिकी (Part-1)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/270984/kgss-1749186951-v270984.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vJ02c1pq1ec",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AnZMhJzU6Htty6nawtK6CNsNfUQTzYNJJuCsX28e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Optics || प्रकाशिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf58164b-e44a-4f05-8f40-6713508a522f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Optics || प्रकाशिकी (Part-2)",
+      "published_date": "07 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271529/kgss-1749269018-v271529.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VLc7JfdAHKM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UDgqqKT26sKI9Qj69LbWZ2zKU3d8Omk1S0lFk0Sb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Optics || प्रकाशिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba48bab2-6b19-4cf2-8a5c-73d4ed5d3c28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || चुम्बकत्व || Magnetism",
+      "published_date": "08 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271653/kgss-1749375506-v271653.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/m9yFPXwujT8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UXS3CLTRWvQx4mRS1SxPH4j6SkonJYOosZt7oF4d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/215fbad7-e798-40d7-a412-54a74b5204fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Optics || प्रकाशिकी (Part-3)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271742/kgss-1749445988-v271742.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/f-bi3AHMTZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LdrIw4wHEr4Ijd5N08mGkS2UN5G4x6QYgEHAOnyQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3c41b79-2c35-4b48-adcc-49b90c18200d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Optics || प्रकाशिकी (Part-4)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/411-71st-bpsc2/science-sumit-sir/physics/l-15/physics-71bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vO7ACKAqYzY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vqFO6ZNOKHuPXP7aRTVDkmFkynUzq6zoByHYia3H.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Optics || प्रकाशिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9ce0793-8e16-4fdd-ad1f-39dc255a65c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Optics || प्रकाशिकी  (Part-5)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/273244/kgss-1749619162-v273244.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YTlCZBaQMSM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0FMQrpuudJ9CqIsxneTxYvPvC9lFIqERvt6mcmDe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Optics || प्रकाशिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b476074a-ff9d-444c-a3fc-82610264d780.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Optics || प्रकाशिकी (Part-6)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/274539/kgss-1749705575-v274539.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XI2gU3Co_44",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/94fNBNqJWoZYWiinT88I5PmYAxncZe1G5dcv1Cvt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Optics || प्रकाशिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba471ed8-0cd2-40e0-9f83-e1133ec93dab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी (Part-1)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/277741/kgss-1750222162-v277741.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3RHDnAtbWR8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qWSESCqlVLD8S0no9BeAhgRmlulaPlfKs8hXAnfp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be6a2ea7-4e26-4b17-a178-e0cb05dacdb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी (Part-2)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278494/kgss-1750309687-v278494.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y3Hx99XQg5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/61nSJJRx1KGRT97Cx13R3x91MS1qraSejIRGxXlY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/467cf3aa-2cad-4d0e-b716-2869cba2a813.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी (Part-3)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/279404/kgss-1750396776-v279404.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KJuj4BNmFpM",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-20 || Heat & Thermodynamics || ऊष्मा एवं ऊष्मागतिकी (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a6faa64-2225-4b08-91b7-18769f25d780.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Electricity || विद्युत",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/279988/kgss-1750495197-v279988.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dr1kHbeVUHg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-21 || Electricity || विद्युत",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49e62b2c-41f7-4f7f-a5a0-1fd77aec68cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || ध्वनि एवं तरंग || Sound and Waves (Part-1)",
+      "published_date": "22 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/280992/kgss-1750555341-v280992.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o7-pedfPp0g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c19oui1oT1Kmf1Mar0M8ElV0VasdAUToPdXWAVry.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || ध्वनि एवं तरंग || Sound and Waves",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e76fc94-b8a8-4c45-9897-16a032b4a5f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || ध्वनि एवं तरंग || Sound and Waves (Part-2)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/281025/kgss-1750658619-v281025.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PJFWvp-8DDM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aEWOVcNNyCanRowT3AiVD4S9Jp5q5fTiVUnIa23G.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abd02e52-727d-49f7-8268-cd87a1869463.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Sound & Wave || ध्वनि एवं तरंग (Part-3)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/281533/kgss-1750743859-v281533.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7nhaV3ozQKo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WVKKXwDGN4Ihrw4JpvzFFHTOmG1sAVEzLHuvWIvT.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Sound & Wave || ध्वनि एवं तरंग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff7be922-e427-409a-b292-7361bcace9df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Sound, Wave & Mechanics || ध्वनि तरंग एवं यांत्रिकी",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282141/kgss-1750831691-v282141.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/avOMMd0cSq8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gn9sBZZRkPkkMz8MUqk2NVLS3m1djwUgAMK1puRf.jpg",
+      "notes": [
+        {
+          "title": "Sound, Wave & Mechanics || ध्वनि तरंग एवं यांत्रिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47c00a00-e5fa-4198-9b96-b872210fdc17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Mechanics || यांत्रिकी (Part-2)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282722/kgss-1750918523-v282722.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wSAb20ZxHzY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/okKNiYj9KhYIifFePSebff0mdhYZO17ymlhKkhtT.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Mechanics || यांत्रिकी (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c99db9dc-9aba-43d5-9f77-8a93103534f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Mechanics || यांत्रिकी (Part-3)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/oWGVvV2gVro",
+      "hd_video_url": "https://www.youtube.com/embed/oWGVvV2gVro",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UDJxHajc9NuhQAeJv9w3vWdEs6eEuZhByX3d5Sev.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Mechanics || यांत्रिकी (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d9da7a7-ebab-49e4-9d60-cf64ed03a04b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Mechanics || यांत्रिकी (Part-4)",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/284008/kgss-1751078370-v284008.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zpBMVMz94vw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9kZqt58tOl2jN2p91C1jQHaHFJtBQkvbhAJUJujd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Mechanics || यांत्रिकी (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5aa7cab-b446-4e4b-a7f8-154d53ac0fac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Mechanics || यांत्रिकी (Part-5) LAST CLASS",
+      "published_date": "29 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/284879/kgss-1751163915-v284879.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2ReqqheZthE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mVbOsLURIsqKkOuKIIhePeDONwLp6OkHmtgQemML.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Mechanics || यांत्रिकी (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6713ce6c-c4e2-42c1-84dc-a1709f8d34f4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

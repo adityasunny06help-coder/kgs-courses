@@ -1,0 +1,41 @@
+{
+  "subject_name": "Data Interpretation",
+  "subject_id": 2625,
+  "video_count": 3,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Data Interpretation -01 (Recorded)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/data-interpretation/l-01/l-01-datainterpr-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VQmeepfKu8s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7xVzcMzJFo0tuP0vOwTUn37QD97GkUARDRer81gp.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Data Interpretation -02 (Recorded)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/data-interpretation/l-02/l-02-datainterpr-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xM9aCk9776U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ilA4VlbJAsg7i2fXyJVwlrwAJk7JBHGRN0oTPdmI.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Data Interpretation -03",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83108/kgss-1717849093-v83108.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wAOhL8UxXR0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xtzmfcjafOk4qu6MFtKzeXPGxQpd84midsK6HWL2.png",
+      "notes": [
+        {
+          "title": "Data Interpretation -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7dee532d-33fb-4775-a2bf-a6760f8f6993.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

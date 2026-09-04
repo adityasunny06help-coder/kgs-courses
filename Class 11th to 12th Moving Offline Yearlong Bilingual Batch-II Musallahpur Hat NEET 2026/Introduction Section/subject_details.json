@@ -1,0 +1,36 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 6047,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "NEET 2026 Students Orientation Session",
+      "published_date": "03 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uvlmN45nZH0eKmBRopegbpfKq7gncPrmuGdKx69y.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Complete KGS App Use Guide",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "KGS Mein Admission Kaise Lein? Step-by-Step Complete Guide",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "hd_video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

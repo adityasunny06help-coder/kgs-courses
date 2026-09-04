@@ -1,0 +1,583 @@
+{
+  "subject_name": "Physical Geography by Ajeet Sir",
+  "subject_id": 2358,
+  "video_count": 41,
+  "note_count": 41,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || भूगोल का परिचय",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/dPlGySMbyvk",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/76628/kgss-1715764135-v76628.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ok24DnCZhfp16BesO0ozxnQhdbccrudG3HGXovJ9.png",
+      "notes": [
+        {
+          "title": "भूगोल का परिचय",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e8b221de-8e24-443d-bcb8-5b4ba4da4ac4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || खगोल विज्ञान - ब्रह्माण्ड की उत्पत्ति",
+      "published_date": "16 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/76952/kgss-1715850724-v76952.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8Xd9F9SQmP4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/WU9QAUazAdxAEDqnq2X4gcxlyQO9cz5L5xrgbrfg.png",
+      "notes": [
+        {
+          "title": "खगोल विज्ञान - ब्रह्माण्ड की उत्पत्ति",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/44726ff9-43c5-4274-8c66-f272993ae92d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || तारा और तारे का जीवन चक्र",
+      "published_date": "17 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/77330/kgss-1715937215-v77330.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DUlA2Kui5r8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/pLMBOusxpctMMO0Cwyu3ae8xYiHlflcHWYxtnoXN.png",
+      "notes": [
+        {
+          "title": "तारा और तारे का जीवन चक्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/89364b18-7792-4309-b528-de5c8b081ca5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || सितारों का जन्म",
+      "published_date": "20 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/77687/kgss-1716175139-v77687.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SWm3objTZt0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/xJsMCDp7dMq9vYEqLkMrjc2qBRF4kjeuEuQzH9bE.png",
+      "notes": [
+        {
+          "title": "सितारों का जन्म",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c4772c2e-6da7-4da3-9738-502932fd6657.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || तारों की मृत्यु एवं सूर्य की संरचना",
+      "published_date": "21 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78185/kgss-1716262061-v78185.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OrddnofRusM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0dJIefJP1NkuG4qQfjipaCXFe41eRRGWXUXzNAzf.png",
+      "notes": [
+        {
+          "title": "तारों की मृत्यु एवं सूर्य की संरचना",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/88d71861-991a-4a54-b289-795195e41d38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || तारों की मृत्यु एवं सूर्य की संरचना (भाग -2)",
+      "published_date": "22 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78394/kgss-1716347996-v78394.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s-PLyK60E5Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UNPNRUsqA23eGEOgC9cpJElW8n52zctNb65bGoYM.png",
+      "notes": [
+        {
+          "title": "तारों की मृत्यु एवं सूर्य की संरचना (भाग -2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fd8a7af3-de8b-45c3-aa6a-794d8b4f9cd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || क्वासर, पल्सर तारा, और प्रकाश क्षितिज",
+      "published_date": "24 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/78706/kgss-1716521277-v78706.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MBbxecjgszY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/krRnu3Ze4FDIHoryKIF7cPjrU6pYW8cwpRk6YCCL.png",
+      "notes": [
+        {
+          "title": "क्वासर, पल्सर तारा, और प्रकाश क्षितिज",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0f5b2b0c-a8bd-4015-94b7-ffa92d06c217.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || पोर्टो स्टार,घटना क्षितिज,कुइपर बेल्ट और वैम्पायर तारा",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-08/l-08-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EPGKzha6KEU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/CaDFssvejfZ8bksf2oZLOAygvlLw1ATWDWBX0X7i.png",
+      "notes": [
+        {
+          "title": "पोर्टो स्टार,घटना क्षितिज,कुइपर बेल्ट और वैम्पायर तारा",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ed0e6729-ba00-4333-ad08-5d3194387a8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || घटना क्षितिज, डार्क मैटर, डार्क एनर्जी और आकाशगंगा",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-09/l-09-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-qOjMnXAj6E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/TiT8FTjvYKchN4FNkoGp3LoTm5VBTHbqJ9WFQ2VX.png",
+      "notes": [
+        {
+          "title": "घटना क्षितिज, डार्क मैटर, डार्क एनर्जी और आकाशगंगा",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dc95eb4-7f43-4235-80e3-74b1af537247.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || सौर मंडल (भाग-1)",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-10/l-10-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b-lMFzA-Wmw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5db9427.jpg",
+      "notes": [
+        {
+          "title": "सौर मंडल (भाग-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a20ddbb-329a-4ac1-a093-472579b69fbd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || सौर मंडल (भाग-2)",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-11/l-11-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/A2wiBAXoW38",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/O5HgzKxcd5TSTaXMtTA5KeJystmE0dqVo66g2fYR.png",
+      "notes": [
+        {
+          "title": "l11ajeetsir06june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65c22f18-284f-4c46-b98c-55adeb311068.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || सौर मंडल (भाग-3)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-12/l-12-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L1qgr3qF1dY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/OXMGZCWolg6wvb84khDnGuGg0AcfI7isyThU28r1.png",
+      "notes": [
+        {
+          "title": "l12ajeetsir07june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/613634c1-4711-4503-aeda-a108e8669b30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || सौर मंडल (भाग-4)",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83486/kgss-1717989800-v83486.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mDBeigDnKBY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5cbe200.jpg",
+      "notes": [
+        {
+          "title": "l13ajeetsir10june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4aa88608-9fde-4217-af91-b2d2e0219bb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || सौर मंडल (भाग-5)",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83904/kgss-1718080492-v83904.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xSulfZUWAH8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5c38e16.jpg",
+      "notes": [
+        {
+          "title": "lecture14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c3a656b-2272-4a42-91e2-45cf175e7b8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || सौर मंडल (भाग-6)",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/84281/kgss-1718166578-v84281.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SGfyS19ekhE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5bbdf3d.jpg",
+      "notes": [
+        {
+          "title": "l15ajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c65eb578-b299-4cab-a6cd-7176ffbd660b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || सौर मंडल (भाग-7)",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/84670/kgss-1718253468-v84670.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HuN77eA2jqE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5b3b16e.jpg",
+      "notes": [
+        {
+          "title": "l16ajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0faaf5e2-145e-4d38-a319-8c4fd8aef72b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || सौर मंडल (भाग-8)",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/84842/kgss-1718339916-v84842.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_dupRmQpuJA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5abfdbe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || सौर मंडल (भाग-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b498633a-56a9-4ca7-8efe-d1cfc62fcb9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || सौर मंडल (भाग-9)",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/85519/kgss-1718685304-v85519.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6g1QNLn5fV8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5a527ee.jpg",
+      "notes": [
+        {
+          "title": "l18ajeetsir18june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cc03aa2-8f18-4a66-bec4-579348825c12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || सौर मंडल (भाग-10)",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/85779/kgss-1718772051-v85779.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5wDneUdjjX0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a59d9178.jpg",
+      "notes": [
+        {
+          "title": "l19ajeetsir19june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/519dd427-fe5f-476e-bcbf-4215e5a6213c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || सौर मंडल (भाग-11)",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/86285/kgss-1718858248-v86285.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Qha-GaHN0bQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5958d57.jpg",
+      "notes": [
+        {
+          "title": "l20ajeetsir20june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8447c4a6-601c-4299-8881-4a8697f11e43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || सौर मंडल (भाग-12)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/86720/kgss-1718943972-v86720.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CVL1PDri2lQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a589a313.jpg",
+      "notes": [
+        {
+          "title": "lecture21physicalgeographybyajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b99f3997-add0-44d4-8a92-01b67092ac8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || सौर मंडल (भाग-13)",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/86823/kgss-1719203499-v86823.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hFZUv2Wr6Ug",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a582a293.jpg",
+      "notes": [
+        {
+          "title": "lecture22physicalgeographybyajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c424e8c1-afba-45df-abc9-846f422a6f19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || सौर मंडल (भाग-14",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/87875/kgss-1719290589-v87875.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FD7-ELgvloM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hO4zpJd4Uk0O0F7DGtKQqzIgRKOOLqWgnJ5RiZJF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || सौर मंडल (भाग-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b85141a3-311e-41d9-9400-1d61b8d8338d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || सौर मंडल (भाग-15)",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/88088/kgss-1719375778-v88088.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zIBg3bKHSuo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5779830.jpg",
+      "notes": [
+        {
+          "title": "lecture24physicalgeographybyajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/569869f6-b97a-4259-bfbc-7a993db87377.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || सौर मंडल (भाग-16)",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/88701/kgss-1719463475-v88701.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PjDP1pE0k7Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HqmDC3Lz3JpF8mysv1ahl3iY3vrt6wwJ7eY02Kox.jpg",
+      "notes": [
+        {
+          "title": "lecture25physicalgeographybyajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e26d6403-4e8e-4854-9d7f-85fb7529c7dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || सौर मंडल (भाग-17)",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/88992/kgss-1719550301-v88992.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IjhYY5RHi20",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a56cb86a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || सौर मंडल (भाग-17)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e397661-2ffb-41f4-bb71-cd3ab05181fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || उपग्रह और उपग्रह के प्रकार",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/89974/kgss-1719896297-v89974.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nkliLwrdXXk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/W6ZIRvd1rDdpIxvUmE4yAp38is0EYYn3V8AayPOu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || उपग्रह और उपग्रह के प्रकार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/caac665f-9a7d-4edc-976f-4cf015b8a96d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || चंद्रमा और ग्रहण",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/90249/kgss-1719982755-v90249.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/98sTtg0MjZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GAJkOHjtL8l5wRGRU1Jz7dZSP46dwgH5dAthMl2L.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || चंद्रमा और ग्रहण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dab89c54-dd10-49dc-ba36-cc675b55303d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || चंद्रमा और ग्रहण (भाग-2)",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/90801/kgss-1720069034-v90801.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b8EPpRlndnU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a55df4a8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || सिंधु घाटी सभ्यता व वैदिक संस्कृति / काल  PYQ's",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a8311ca-e3de-412e-9abf-668a12b0700e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || चंद्रमा और ग्रहण (भाग-3)",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/90990/kgss-1720155476-v90990.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LMqf_TywB6s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JzKfMaPRPnC4wPQI8cTnd6DONnOn8iuvCnyzVPGc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || चंद्रमा और ग्रहण (भाग-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99687777-a8f0-4ea4-ac3a-b853893d8870.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || PYQ's Discussion",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/91865/kgss-1720414638-v91865.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q5D2CYHMXDs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bSaqGwIfp2ehsSsyR6atAfDdJhbg78kzsBFpIFDe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || PYQ's Discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/873bf2ed-8aad-4ce8-99a2-7cc11aca5f18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || पृथ्वी की गतियाँ",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/92285/kgss-1720501016-v92285.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jL6KDLK3l4w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eOndUJezUUYBR66rj5Mys8A4UVeJelsaiZJwZNRm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || पृथ्वी की गतियाँ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8dc57ffb-fa5a-4f0d-bb23-05742e8b12b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || दिन और रात की घटना",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/92828/kgss-1720587849-v92828.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EE8Eu-I5uqE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3Wkr8qhmLT9pEi2ldTgIpWazrwBWNR5XWTiB4kjr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || दिन और रात की घटना",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63169c75-6ba9-4f54-b86a-f6b0c5175286.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || पृथ्वी का आकार और कोरिओलिस बल",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/93333/kgss-1720673715-v93333.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ah0XStEoHYQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qEUwu3yuXdQNXbKWn70tZ4pTaezPTWFc7Q4cfPPa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || पृथ्वी का आकार और कोरिओलिस बल",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/737a9179-a325-482e-87a2-5ef46dc4496a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || भू-चुंबकत्व",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/93619/kgss-1720760357-v93619.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/joig9-UY_Po",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qYG5vXeIWgnPhGIRgAHSibsxcKZgXburIHS0jnj4.jpg",
+      "notes": [
+        {
+          "title": "lecture35physicalgeographybyajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/151bbe90-e7a1-46b6-bc45-79b64ac2f0e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || पृथ्वी के चुम्बक - निर्माण की प्रक्रिया",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/95596/kgss-1721019199-v95596.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/64Z7D9B_cn0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a541ee66.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || पृथ्वी के चुम्बक - निर्माण की प्रक्रिया",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/623ae110-fb1a-4be2-8c5e-240f587a83cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || समुद्री गायरे \\ गायर \\भंवर",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/96105/kgss-1721106138-v96105.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/odGSUht2B14",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a5397d1b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || समुद्री गायरे \\ गायर \\भंवर",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88b29cfd-b061-43ec-8cea-ed7f84a68550.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || पृथ्वी का परिक्रमण",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/96110/kgss-1721278945-v96110.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jFkewplcwA8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-38 || पृथ्वी का परिक्रमण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31220634-4b01-4809-9683-99cb0f2eb498.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || | पृथ्वी का परिक्रमण करने की गति \\ मौसम",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/97127/kgss-1721365174-v97127.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BKo5onwhyWk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/J6ZV1ecK8uA6e8ztCfhfzjlrQnCvkqaY2qDvK3qd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || | पृथ्वी का परिक्रमण करने की गति \\ मौसम",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f94f0d86-9506-4386-9e20-7704482a5aa7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Leap Year || अधिवर्ष",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/physical-geo-ajeet-sir/l-40/l-40-physical-geo-ajeet-sir-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xKz1obwECF8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/97tmIVg2qn9myyiKq3OEAYoLtMFklyGfaDcyMglv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Leap Year || अधिवर्ष",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14fd3b69-04c7-40fc-8d06-ee22ad9c478c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || PYQ.s Discussion",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104310/kgss-1723093144-v104310.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k3YDXQUndLQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a8a52768d6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || PYQ.s Discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b996d43-bc75-417c-a9aa-1adfcd8182b2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

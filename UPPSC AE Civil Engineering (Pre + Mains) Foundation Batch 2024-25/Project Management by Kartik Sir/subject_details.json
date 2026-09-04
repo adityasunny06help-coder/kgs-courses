@@ -1,0 +1,93 @@
+{
+  "subject_name": "Project Management by Kartik Sir",
+  "subject_id": 6080,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Project Management(Part-1)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QVnE0xF2KaI",
+      "hd_video_url": "https://www.youtube.com/embed/QVnE0xF2KaI",
+      "thumbnail": "https://i.ytimg.com/vi/QVnE0xF2KaI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Project Management(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdfbce7b-f460-4071-84ef-7c908ea5dcec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Project Management(Part-2)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/56-aTRqoKdY",
+      "hd_video_url": "https://www.youtube.com/embed/56-aTRqoKdY",
+      "thumbnail": "https://i.ytimg.com/vi/56-aTRqoKdY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Project Management(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3154f5e8-daef-4cf6-abb9-b01c8f92dd5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Project Management(Part-3)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rRUimejqo0o",
+      "hd_video_url": "https://www.youtube.com/embed/rRUimejqo0o",
+      "thumbnail": "https://i.ytimg.com/vi/rRUimejqo0o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Project Management(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/602f3503-c989-42f5-9f2d-92765577ec06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Project Management(Part-4)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/-zFFv7lTE5o",
+      "hd_video_url": "https://www.youtube.com/embed/-zFFv7lTE5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/J1q0hPVvQkwdF8ZHRIjdqHn36Ek5rsDcC7RbABei.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Project Management(Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d9f83ce-5cfd-4df1-b373-c391093144c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Project Management(Part-5)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/I0zSL9_9s9E",
+      "hd_video_url": "https://www.youtube.com/embed/I0zSL9_9s9E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fgWVEgMBfQt735x2BPKkT4KddPxFDxIErTlKIWV7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Project Management(Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8a7fe12-72ca-4f6a-98e9-04ff3c6818b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Project Management(Part-6)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EKcDbn91qqY",
+      "hd_video_url": "https://www.youtube.com/embed/EKcDbn91qqY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jnKPYtrWaNJ24KqSQnw1jLTrOYba9OWScaR0GPSa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Project Management(Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c56c70d0-2d44-47c9-9e3c-36d7e27cb681.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

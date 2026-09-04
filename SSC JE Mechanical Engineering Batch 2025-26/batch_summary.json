@@ -1,0 +1,94 @@
+{
+  "batch_info": {
+    "title": "SSC JE Mechanical Engineering Batch 2025-26",
+    "price": "599",
+    "id": "647",
+    "extracted_date": "2025-08-27T13:54:03.509677"
+  },
+  "subjects": [
+    {
+      "name": "Production Engineering by Varun Sir",
+      "id": 6616,
+      "video_count": 81,
+      "note_count": 77
+    },
+    {
+      "name": "Physics by Sushant Sir",
+      "id": 6511,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Polity by Ashish Chamoli sir",
+      "id": 6512,
+      "video_count": 25,
+      "note_count": 24
+    },
+    {
+      "name": "Basic of Thermodynamics by Amit Maurya Sir",
+      "id": 6549,
+      "video_count": 27,
+      "note_count": 25
+    },
+    {
+      "name": "Workshop",
+      "id": 6576,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "History By Ashish Chamoli Sir",
+      "id": 6831,
+      "video_count": 46,
+      "note_count": 51
+    },
+    {
+      "name": "Refrigeration and Air Conditioning by Amit Maurya Sir",
+      "id": 7286,
+      "video_count": 17,
+      "note_count": 17
+    },
+    {
+      "name": "Biology by Sushant Sir",
+      "id": 7570,
+      "video_count": 39,
+      "note_count": 39
+    },
+    {
+      "name": "Fluid Mechanics by Amit Maurya Sir",
+      "id": 7574,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Reasoning By Kartik Sir",
+      "id": 7765,
+      "video_count": 33,
+      "note_count": 33
+    },
+    {
+      "name": "Geography by Ashish Chamoli Sir",
+      "id": 8316,
+      "video_count": 7,
+      "note_count": 7
+    },
+    {
+      "name": "Current Affairs By Arya Ma'am",
+      "id": 8401,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Hydraulic Machine By Amit Maurya",
+      "id": 8402,
+      "video_count": 3,
+      "note_count": 1
+    },
+    {
+      "name": "Strength of Material by Chadha Sir",
+      "id": 8407,
+      "video_count": 33,
+      "note_count": 33
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "subject_name": "Steel by Apoorv Sir",
+  "subject_id": 8259,
+  "video_count": 12,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Steel Structure Introduction",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/hcG5xEUWd-4",
+      "hd_video_url": "https://www.youtube.com/embed/hcG5xEUWd-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tpLeo51CjJVj9zELN1LAUA4H4EZ7JuLK1zyH4IRZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Steel Structure Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5990b503-0903-4146-9079-7f240d6bc73d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Steel Properties (Part-1)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/99r--hhUBBo",
+      "hd_video_url": "https://www.youtube.com/embed/99r--hhUBBo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8MaPGqGz6h678Mp9JASUfqDAZc0YYYLhAn8IYq5Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Steel Properties (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f18bedd-acc8-4a64-bbc0-a164183187a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Steel Properties (Part-2)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/b8WzBKHGQ78",
+      "hd_video_url": "https://www.youtube.com/embed/b8WzBKHGQ78",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PqRrHCLfiuHh35QFjk91qKdjtWwv3iicHysNfNzP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Steel Properties (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c26166c-51f8-4de0-a386-90440bff10e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Design Philosophies",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/siUmuAhbm0Y",
+      "hd_video_url": "https://www.youtube.com/embed/siUmuAhbm0Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ard867h7CUwf5clFQ81UTKtYK8UmRgOA1DBYZomT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Design Philosophies",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2df4ee1e-7d0e-4a07-9351-7ba64789b92f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Working stress Method",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/SVROfJo1XAw",
+      "hd_video_url": "https://www.youtube.com/embed/SVROfJo1XAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Nk7zt21fYZqNb1Z60vpkRTQATBpeU3Jl4gVahbEr.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Working stress Method",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0fb00a2-820f-4391-83fa-2d858bc8a891.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Limit State Method",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Gvn9lcPGqHY",
+      "hd_video_url": "https://www.youtube.com/embed/Gvn9lcPGqHY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kziXJhtyeKGuE4qILrnyC4mpVEe9GGIy9lli6sHE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Limit State Method",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d207a97-fddd-443f-928e-c88fcdce68e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Design Of Connection (Part-1)",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2hiZ-hr6iCg",
+      "hd_video_url": "https://www.youtube.com/embed/2hiZ-hr6iCg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8XdcqXK5OAW76vX9pfOjuHPiwnzCONjfPQujqNzH.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Design Of Connection (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0084666-355e-4df2-a6bc-ddadce7d7f63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Design Of Connection (Part-2)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Q01bxOkgkPk",
+      "hd_video_url": "https://www.youtube.com/embed/Q01bxOkgkPk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1VDzm55FD8FWwfawJi7ANYyya1xuzdLQmS0cXFB2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Design Of Connection (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41778b27-67f7-4ab2-8546-8af35e055fb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Rivet Design",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PVv-mdNo3lY",
+      "hd_video_url": "https://www.youtube.com/embed/PVv-mdNo3lY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2FIJ1h9oY8SCY7k82StqgSIluroeIlIEvLk6MRYU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Rivet Design",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b369f62-0406-4201-b43c-337c5b9de7ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Bolt Design - 1",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/JyNZcrTirOU",
+      "hd_video_url": "https://www.youtube.com/embed/JyNZcrTirOU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P1g7sKRFLZVQT2P9elbueFhJrRtrX14lYxONk0jU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Bolt Design - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/767d3480-aeb1-4aeb-aab8-4abb9273661c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Bolt Design - 2",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/HobQ-z5hjBk",
+      "hd_video_url": "https://www.youtube.com/embed/HobQ-z5hjBk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Q29h5txyJw1sEJRrwEmH2mhGk9cV1VXaHebkcByn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Bolt Design - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab86a633-c17f-4199-a54d-d66f0c982dda.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Codal Provision of Bolt",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1UUSF6JCC0zsYQPPjaj0aXThZzXFATh5INAyGUXj.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

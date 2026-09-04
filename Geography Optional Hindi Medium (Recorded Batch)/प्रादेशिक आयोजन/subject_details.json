@@ -1,0 +1,36 @@
+{
+  "subject_name": "प्रादेशिक आयोजन",
+  "subject_id": 7874,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || प्रदेश की संकल्पना || प्रदेशों के प्रकार",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l189/lecture189.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l189/lecture189.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UA4ammRiNOuqAJmte8Bn9UQBDqB8YlNNdGcvxrxx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || प्रादेशिक विकास कार्यनीतियां",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l190/lecture190.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l190/lecture190.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n47PHZ62R9yE2I5TJ6pw4QQ4IN5ZNtJ8Y6o5LlqG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || केंद्र परिसर मॉडल",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l191/lecture191.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l191/lecture191.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Vx5A1FAjJeCDh5jaL0M3p7Rc94g9mHS1DX2Y7D1I.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

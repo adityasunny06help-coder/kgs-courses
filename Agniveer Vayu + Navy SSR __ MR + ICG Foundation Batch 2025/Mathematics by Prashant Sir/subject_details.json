@@ -1,0 +1,856 @@
+{
+  "subject_name": "Mathematics by Prashant Sir",
+  "subject_id": 7150,
+  "video_count": 63,
+  "note_count": 56,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Mathematics Orientation & Logarithm Part 01",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/fOn0veldMFI",
+      "hd_video_url": "https://www.youtube.com/embed/fOn0veldMFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mYPY4PqXzH1pAGem6rkGNEZ7ZlSn9Ybg56Sm5Mp5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Mathematics Orientation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af4cd9e9-ac6a-49fb-8d12-094e1103f164.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Logarithm Part 2",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lkzL1Jh28dw",
+      "hd_video_url": "https://www.youtube.com/embed/lkzL1Jh28dw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YEDiYTcIvU7bLPlt7F5f8RuwNyFE4WagoMYu5TTE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Logarithm Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18d31f7d-1a31-43b1-8649-df148683faf1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Inequality Part 01",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/-Pw8ThP_shA",
+      "hd_video_url": "https://www.youtube.com/embed/-Pw8ThP_shA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fU0dkPtI0wWiRaumCjRHOhXnA69xQMJ8YqWbPu0b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Logarithm Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c6715de-3cd7-4e7f-a886-b14fdcaaaafb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Inequality Part 02",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/p_0NyAMUXlc",
+      "hd_video_url": "https://www.youtube.com/embed/p_0NyAMUXlc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j92hDqQ3v94fUUCUQTKhxrIB2RFb9nbfjl7V6hfM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Logarithm Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb975813-f1a0-41bf-a817-29c9b76029ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Inequality Part 03",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/N8iYFNMSXPY",
+      "hd_video_url": "https://www.youtube.com/embed/N8iYFNMSXPY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ChYLYNqOzYaTirqdN4AR47iiIf7tYgb3ZADN3qyW.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Sequence and series 01",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lSeR44pFku8",
+      "hd_video_url": "https://www.youtube.com/embed/lSeR44pFku8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w5cYDnJUTEYKtQ4Luo8ZvnmruktGp79VIDeD7dMc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Sequence and series 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2e4a2c0-aa57-4c63-98bf-f5dcba0e4ed3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Sequence and series 02",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VfbVnu0JFjs",
+      "hd_video_url": "https://www.youtube.com/embed/VfbVnu0JFjs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zjxDv2JpJgg8WXm84wbqEofU4ckfK0rfyeTOgyWS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Sequence and series 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6856fad-5bfc-4d45-8d42-f308e20d77e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Sequence and series 03",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ScTsfOnpjII",
+      "hd_video_url": "https://www.youtube.com/embed/ScTsfOnpjII",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NKJ871jJjAIFJxrdMfJskDyZQJYn8tvCYkciwI18.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Sequence and series 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad4daba2-52ad-42e1-bf79-9b18e9392fc7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Sequence and series 04",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EuG_gkLjTw8",
+      "hd_video_url": "https://www.youtube.com/embed/EuG_gkLjTw8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1lkB6QwT2K8PQ8NFOWhdNZ07sd6yGLMomcc4UJ12.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Sequence and series 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49577c4c-c016-497c-a740-1ae2e595a080.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Sequence and series 05",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Vtp2H9NQ6gA",
+      "hd_video_url": "https://www.youtube.com/embed/Vtp2H9NQ6gA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MIckzDaqORNEYIl2hUNaU0alwzb5EszRVeN5wDZJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Sequence and series 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb471cea-5309-48b7-8dac-8e0da6d164c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Quadratic equation 01",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UPZAh5X71Ik",
+      "hd_video_url": "https://www.youtube.com/embed/UPZAh5X71Ik",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6QsO7tZeyloHQadZSwdmUrp65Mks6QTwKuCjxy9J.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Quadratic equation 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d413690e-2fb2-4458-9944-5ec388123ae1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Quadratic equation 02",
+      "published_date": "22 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UnfVVWP-6i8",
+      "hd_video_url": "https://www.youtube.com/embed/UnfVVWP-6i8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MKwhIlWTF5smw4JNhvKOL0LmzOQQRgt2mh8Io0MS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Quadratic equation 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df835c76-707d-4b16-bfff-3f8e95f7c7fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Quadratic equation 03",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Nu0kq3RtsVo",
+      "hd_video_url": "https://www.youtube.com/embed/Nu0kq3RtsVo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PaHbeTbeTZob2dsAAEBjnbiLJbx2Y4nkgJ8Z3L3N.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Quadratic equation 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8aff8d30-a3a6-46c5-83e0-948065f13bc0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Quadratic equation 04",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CoXIA2ln2ss",
+      "hd_video_url": "https://www.youtube.com/embed/CoXIA2ln2ss",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jYvMqsQSHUGeMyNt3isTjuRlziJ8UYjVH6TK2rUb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Quadratic equation 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/353fbf5f-9fde-4689-84e9-78dd038ec46b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Binomial Theorem 01",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VQctRWsd5C8",
+      "hd_video_url": "https://www.youtube.com/embed/VQctRWsd5C8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LKOyn9yBDNLBaNEz6RUrOe2R3xpiHQ1w4lXTjRwr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Binomial Theorem 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7af1ff93-a561-40ac-9ca4-43a4931f03dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Binomial Theorem 02",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/IgJrv21Wr6s",
+      "hd_video_url": "https://www.youtube.com/embed/IgJrv21Wr6s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UzTwRmlG1gDIuIPvQ5siJsdH1ek6Tsw63Q7vTdds.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Binomial Theorem 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b68d6b25-28ca-4d71-bc2c-eb44de7cf0ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Binomial Theorem-03",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/4vQ0f2s8evw",
+      "hd_video_url": "https://www.youtube.com/embed/4vQ0f2s8evw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RKEMjyp1tI2a0eJXI1v3HBO1NhHt7YSPY66pdGEg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Binomial Theorem-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/807229ca-6923-4492-a82b-7bb915d44a4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Complex Number",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ERwzt-1x83U",
+      "hd_video_url": "https://www.youtube.com/embed/ERwzt-1x83U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7TO1En6lOXhxERySNxtAMFoZGMrpX9SLlGDfmdfe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Complex Number",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f73531a-d664-4e95-826c-ba61567c05d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ||  Complex Number",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/evMVe0Gx1zk",
+      "hd_video_url": "https://www.youtube.com/embed/evMVe0Gx1zk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gJ2Bw3HOHcwc5CpVWHH5qSDFvpyi9hGHcZaVTmYG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 ||  Complex Number",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfd28218-a0bd-4a74-8f2c-dba7101fa110.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Complex Number",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lijc7X3w2do",
+      "hd_video_url": "https://www.youtube.com/embed/lijc7X3w2do",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l4VtUQj32opvvM4ImBpsh2itoH6EZAAokbRV1ChC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Complex Number",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Y_XTtKAB11U",
+      "hd_video_url": "https://www.youtube.com/embed/Y_XTtKAB11U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UnDcUSBpcIXtlc39TbzDrBFDZtO6Ej0zlOeFzTv3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Complex Number",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/353053ea-548e-4985-a1c7-e04423f5f9cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Complex Number",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IPXl7izxhEs",
+      "hd_video_url": "https://www.youtube.com/embed/IPXl7izxhEs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JnRZwFbALEU8wNHvnmXrifvITHZseSuF3rmYC9sY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Complex Number",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec018cdb-cd76-4368-afaf-c724a8ec8593.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Matrices and Determinants",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EnZOy8BkZ7M",
+      "hd_video_url": "https://www.youtube.com/embed/EnZOy8BkZ7M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WjUAQuWat0ZB40WSkJkBGNnbXUdtsMoIOX3eHbuI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8251b4f5-fcac-4adc-b223-776fa408c70a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Matrices and Determinants",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PbhqR_WA5is",
+      "hd_video_url": "https://www.youtube.com/embed/PbhqR_WA5is",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7BYLkU9tisbrCnNacIkXq4Jqv0BvNnmvTBEIwxBp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bca4373-578d-4086-a04a-e54f750c5b7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Matrices and Determinants",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/427A5faXrm4",
+      "hd_video_url": "https://www.youtube.com/embed/427A5faXrm4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/e4fUODBQrDAm0AZ8FWrO1iHykSWqGsMSvIV31zNo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25e174af-f2ef-44d8-b892-9c6b9b84f10c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Matrices and Determinants",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BF9pobaYzrI",
+      "hd_video_url": "https://www.youtube.com/embed/BF9pobaYzrI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l9pdVInSD9LNDpcghEwVyVaGKL7yKtuhZGFe6cTc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9a559ee-9bda-4dd6-a754-0d4548e1d8b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Matrices and Determinants",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hy9cCkUl6So",
+      "hd_video_url": "https://www.youtube.com/embed/hy9cCkUl6So",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gJbSyWZsR62J4S9RWc87ewCLft8JUZkXKQK7VWxl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8cc34a96-a1db-4b63-bfe7-bb5742728d97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Matrices and Determinants",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/plDaCwDAyYs",
+      "hd_video_url": "https://www.youtube.com/embed/plDaCwDAyYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TL1lsklQA48fLhf2tAL3fJS1QDsMGr6APRsOkaQK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Matrices and Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff4e0295-0389-48e4-9c85-9f69e6882832.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Permutation & Combination -01",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/B-YN_hI1HzY",
+      "hd_video_url": "https://www.youtube.com/embed/B-YN_hI1HzY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bLYoIihIFr4Yt4t9g2c15k43l40zFRKxig3U3Tus.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Permutation & Combination -01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a044bae8-79ef-434c-8ac8-5615549f2881.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Permutation & Combination -02",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/OGJCFUhPJx0",
+      "hd_video_url": "https://www.youtube.com/embed/OGJCFUhPJx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/J6YRsjDLkdTcLRw0KgX41csb58dCcP8Ou1J8SvAQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Permutation & Combination -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3452e7a-9887-46d7-81b1-ce16c42fb982.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Permutation & Combination -03",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/M64_nljezvI",
+      "hd_video_url": "https://www.youtube.com/embed/M64_nljezvI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cR34YVMhLZZQyNh6Oq2Sb1ELOJHeQ1MEHTdAPvCT.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Permutation & Combination -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/415657c4-832c-45f1-8565-2498343fe478.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Permutation & Combination -04",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iawbeTsi59o",
+      "hd_video_url": "https://www.youtube.com/embed/iawbeTsi59o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l9yWX5rEP1VUrmPOLM5MmyJBk9Zx9PDgEPrlfgd4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Permutation & Combination -04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e58730d-34f3-44b8-a224-eb5ef4f70f91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Permutation & Combination -05",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/x4pSLQNlhyE",
+      "hd_video_url": "https://www.youtube.com/embed/x4pSLQNlhyE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dJTtCF320Q1ZirMgR61sBLkNDQx7tYKk5RDza6UC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Permutation & Combination -05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfb2fe4e-2158-4b49-a69e-7b18fb75fac7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Straight Line-01",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TL__CYOpYHY",
+      "hd_video_url": "https://www.youtube.com/embed/TL__CYOpYHY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ISfJf7ACJYrRfaUZs3wKEeXllvUbWhvOf8tAbkD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Straight Line-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c352f34-a444-45fd-8861-f844f661c38c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Straight Line-02",
+      "published_date": "21 Jul 2025",
+      "video_url": "www.youtube.com/embed/ftFcLtPVU0I",
+      "hd_video_url": "www.youtube.com/embed/ftFcLtPVU0I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z5uCV2Fe917QVgo84aha1Lz8pbkux8BM61EBOsiY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Straight Line-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8eddbb57-62e9-4ce1-b1c1-6ee1c6806adb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Straight Line-03",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Pi1xVygX7Uc",
+      "hd_video_url": "https://www.youtube.com/embed/Pi1xVygX7Uc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Or2Cty8NCYO8Ekl8OhIDX7paOGDiEoytjBvGhP70.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Straight Line-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/360706f0-1334-4590-8424-45bbb1d3968e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Straight Line-04",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VzvmkR-9r7o",
+      "hd_video_url": "https://www.youtube.com/embed/VzvmkR-9r7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/saHemvgfrZ4q3TJki8TDRShO1vWJkYYV6WIiWACL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Straight Line-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e374adb8-820c-4785-8e20-71d118567386.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Circle",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xsXHk9UwVAc",
+      "hd_video_url": "https://www.youtube.com/embed/xsXHk9UwVAc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vHleFfAxTavu1dd05xBKvnDmemj4uRmpxlh01pDe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Circle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1874c67-07be-4d3d-9b03-f42640de8ad7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Circle",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/A8e3OqvrnwE",
+      "hd_video_url": "https://www.youtube.com/embed/A8e3OqvrnwE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YidYZci8jAwTGcCzAilC3WUzCoO5TlvV9v8R3CaK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Circle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0579cae2-5fcd-4388-9aa4-142f7a443041.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Circle Part-03",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/W8TSuvcWt54",
+      "hd_video_url": "https://www.youtube.com/embed/W8TSuvcWt54",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xIOHaNB0TZnk8gocMtSZOhtg3v7cViaxDduSO3KQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Circle Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abcefc79-2a4c-4c61-9ace-c55581ad912b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Conic Section Part-01",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NWoChAO0ejU",
+      "hd_video_url": "https://www.youtube.com/embed/NWoChAO0ejU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RyuanSXaZbvoW1cbtgaxXWcTPfAaiM5A7TsUZKdL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Conic Section Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/103687c4-27c2-40e2-bef7-22ef204b4229.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Conic Section Part-02",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kU7uGomTByk",
+      "hd_video_url": "https://www.youtube.com/embed/kU7uGomTByk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZJO0lVZqpIjoIXlB1UEYwC0k10ZlfUuvsUHEzgf8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Conic Section Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da879fc9-b16f-4670-b559-1e9b209c2900.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Conic Section Part-03",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YlszE5mdlgY",
+      "hd_video_url": "https://www.youtube.com/embed/YlszE5mdlgY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9YIQbia48ggfbHDzQpGYzvA7YUEQgNhW3sIMIhm4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Conic Section Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/579a6a45-2378-44c8-9d19-6a6b472b1c31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Conic Section Part-04",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/KHJo7zvcTKw",
+      "hd_video_url": "https://www.youtube.com/embed/KHJo7zvcTKw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vClkxveqqEU5bxl6Z46xzQtGBFGjO3Et2PsV1q7v.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Conic Section Part-05",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Bx9LE167ZoI",
+      "hd_video_url": "https://www.youtube.com/embed/Bx9LE167ZoI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ei302N0CUsNoODCB0oIeZSGVdUkiH6gSGjZHLxPg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Conic Section Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/549728dd-934c-4fdb-beca-d397bbdb3976.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Conic Section Part-06",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/b2oovKVk1-E",
+      "hd_video_url": "https://www.youtube.com/embed/b2oovKVk1-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VkN963T8mMhKsF0vdIUeyXiBvwtVIlFKXq3wiUlq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Conic Section Part-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ac35bc0-0784-4679-9b27-60a8476da680.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Conic Section Part-07",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/X4AE5PxV3UA",
+      "hd_video_url": "cchv-68m8-msch-pc5c-ccvm",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QNhGMO1t0unHbQOp6NIQWvVzI2ef3HOYMspHbxDF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Conic Section Part-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dac7f345-11fa-442a-b3e0-bbc730bf8357.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Set Theory Part-01",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/eb4QY62MjA0",
+      "hd_video_url": "https://www.youtube.com/embed/eb4QY62MjA0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8ZsSO1PeVn2ubhR2yxjD1GbXiGTPrS9GewjBu7FN.jpg",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Set Theory Part-02",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PWeUTnVaH3Q",
+      "hd_video_url": "https://www.youtube.com/embed/PWeUTnVaH3Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/65P7RwNBuoS22jvZI1y7setEtvVa3HwRHRBDPaHm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Set Theory Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1177d9d3-a2d4-4cf1-ba3d-ddee6572939f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Set Theory Part-03",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qvFwzg0e5WA",
+      "hd_video_url": "https://www.youtube.com/embed/qvFwzg0e5WA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aWLRRY0WwuFrWrtTDTPEmwXSg1I54ZTxMhOz3XZQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Set Theory Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a5735d9-56ca-4580-bf39-1c2cc8e032c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Relation & Function Part-01",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/53Q_F9PmRGY",
+      "hd_video_url": "https://www.youtube.com/embed/53Q_F9PmRGY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LJXpb7zogYB3eLXBvGXSWMqlbUprKNDnS2LpPmwV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Relation & Function Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c84dee8d-10d4-48a6-8213-e261354c395d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Relation & Function Part-02",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/FnuAg9iQMO8",
+      "hd_video_url": "https://www.youtube.com/embed/FnuAg9iQMO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BMmsZXs11ri1IKGqJD6pvQ0GuoLH4MDiJnOcEHYF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Relation & Function Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/804237aa-bfac-4f1c-a380-566da7c47ebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Relation & Function Part-03",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/zshCCPVj73w",
+      "hd_video_url": "https://www.youtube.com/embed/zshCCPVj73w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OoW3WTDDODnLkTLOEBUjuZPegabDgQ2OWQRclldm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Relation & Function Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/792598ed-ce1d-4222-b756-804540764269.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Relation & Function Part-04",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LICtXM7v5HU",
+      "hd_video_url": "https://www.youtube.com/embed/LICtXM7v5HU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2oxZQPWSlVdRpBJuVhNuBXmvNp3dbH4KvyQrROlm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Relation & Function Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2d19950-9cc3-4853-97eb-b07a772bf048.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Relation & Function Part-05",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/3Ko5f0NJuKM",
+      "hd_video_url": "https://www.youtube.com/embed/3Ko5f0NJuKM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3JEHw4z3BYMrjjiFASp9zhOKHPErykB5a5aJuApq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Trigonometry Part-01",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/G26rz5FlI3c",
+      "hd_video_url": "https://www.youtube.com/embed/G26rz5FlI3c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sks1n3yq8h1Ky7QEN3JffJrqrvFZBSnmpHmg8pMQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Trigonometry Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf298b98-dcc7-4ffc-bfaf-a45782c3ef48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Trigonometry Part-02",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Wl4QPlUpIr0",
+      "hd_video_url": "https://www.youtube.com/embed/Wl4QPlUpIr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5UMtFAb2wBk8SGN5ZQki7abO7FH6VUNmCYywHhbw.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Trigonometry Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f43f48ad-03d2-483b-9448-1ae737a45f7a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Trigonometry Part-03",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PAqyfktIBeg",
+      "hd_video_url": "https://www.youtube.com/embed/PAqyfktIBeg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gpdzVeEmhY4csDC5oGpWiGKN9ubhfuw0Oqy8stKR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Trigonometry Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/561aa3a0-50d9-4218-847e-0feca0aed372.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Limits Continuity Differentiation Part-01",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Gtn477pV04U",
+      "hd_video_url": "https://www.youtube.com/embed/Gtn477pV04U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j7weRCsxnEwmTvEhhvOwF8uPYjGdudtmTWllsmYe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Limits Continuity Differentiation Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf1bf89d-5c75-41c3-b983-f726fcac0df4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-59 || Trigonometry Part-03",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/-_8JjicoAtk",
+      "hd_video_url": "https://www.youtube.com/embed/-_8JjicoAtk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5WnSlQfUZFgOtlubG59cuhjJSRgwIs2M2PvT3eHg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Trigonometry Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b68ac5b2-c1fa-4b34-9b6c-b82a839780fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-60 || Limits Continuity Differentiation Part-02",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jLisMhpRSJs",
+      "hd_video_url": "https://www.youtube.com/embed/jLisMhpRSJs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MLe9OflcRmjnLp4058fUk7hHJURcAUnfBxiu0Y2K.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || Limits Continuity Differentiation Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a574933-244a-47a9-92db-3034701ea2e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-61 || Limits Continuity Differentiation Part-03",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/f22LqxUy0Mw",
+      "hd_video_url": "https://www.youtube.com/embed/f22LqxUy0Mw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uz42jsBWUuu9XG1VaEXqWI4m2Bkutz0Yy2lJ2Bhj.jpg",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-62 || Inverse Trignometry",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OiWhgbAMJtfZY8QZKkqvcJQqd1jX7PMsrC2JryED.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "subject_name": "Mapping by Ajeet Sir",
+  "subject_id": 5842,
+  "video_count": 3,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/27bU6074cBk",
+      "hd_video_url": "https://www.youtube.com/embed/27bU6074cBk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687c95a0002cd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efff1838-bca0-4e9a-9ffc-746054201e29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || उत्तरी अमेरिका || North America",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219839/kgss-1743235933-v219839.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r7DFw6FK--A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ft8MGq2wzdxKqkWowLdlMBorQPMqhH4q9eeWHOtp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || उत्तरी अमेरिका || North America(Part-2)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/kpTJnwsAoWI",
+      "hd_video_url": "https://www.youtube.com/embed/kpTJnwsAoWI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1ACfTfdlHAq2iSsmcckXfpM89h6q8HOYMYsiizK9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e0762af-a0c1-4168-aaa8-afd1494bddfa.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

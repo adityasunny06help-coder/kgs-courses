@@ -1,0 +1,802 @@
+{
+  "subject_name": "Chemistry by Imran Nazir (JCIN SIR)",
+  "subject_id": 7526,
+  "video_count": 57,
+  "note_count": 56,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Periodic Table -1",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Mgs-gbXZyWs",
+      "hd_video_url": "https://www.youtube.com/embed/Mgs-gbXZyWs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xeTsJsx7BNC3WloWW5Mx28BBlKd8QmSZYcMIoc0E.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71a30314-4ea3-4d82-808b-d6ad4dce34ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Periodic Table - 2",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Hii-1aBw2vo",
+      "hd_video_url": "https://www.youtube.com/embed/Hii-1aBw2vo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RNqIe4jfOm6GmoTh5vHFnPSqZZ1NwaHsg0mK49dY.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cac877f-f601-4056-a3cd-f5d677e03186.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Periodic Table - 3",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/P9StgiH91Uo",
+      "hd_video_url": "https://www.youtube.com/embed/P9StgiH91Uo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nO6TnsWVOk4fOm1ppdWv6z6GNziSkvnGhyUuUbin.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f13554a1-0c9b-4a9b-b031-9b3239ab6d70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Periodic Table - 4",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2JXGr1EIB90",
+      "hd_video_url": "https://www.youtube.com/embed/2JXGr1EIB90",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KWIePnykTaE8HhAN1nOuiQEYczTKbejiZF62ozz2.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3eaaabf1-7dbc-44ce-97b1-cbd1d165649d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Periodic Table - 5",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KAMq6QEJsKs",
+      "hd_video_url": "https://www.youtube.com/embed/KAMq6QEJsKs",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Periodic Table - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18342c0c-cc1a-47f4-a473-fd4221adb024.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Periodic Table - 6",
+      "published_date": "07 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lraAkps48u4",
+      "hd_video_url": "https://www.youtube.com/embed/lraAkps48u4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QlvTOqpvc2B24MF8BfomhRhqCyFrt8znphedJjta.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ff780d6-b7f6-4e6e-90aa-df749b1dd420.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Periodic Table - 7",
+      "published_date": "08 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2tbNf9XCuq0",
+      "hd_video_url": "https://www.youtube.com/embed/2tbNf9XCuq0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kamCwd71E0xjrN0YSbV628QXgXIDC9FqJLS6bgsF.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc7221b9-804d-4c08-a9bd-be30d6c1ed61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Periodic Table - 8",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/miQMH2l3fek",
+      "hd_video_url": "https://www.youtube.com/embed/miQMH2l3fek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RWYWHYMRU4N2KcwmRGtNJGfKGlfc4NHO5FzYNof2.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c6534be-f670-4d1e-af82-8ec2992f15e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Periodic Table - 9",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6KWH_UUoQ5A",
+      "hd_video_url": "https://www.youtube.com/embed/6KWH_UUoQ5A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YzwW9KclwvGgNGcEL5zW8y73KmRPFVkFx1yhb79J.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9a85629-b181-44ce-85c7-0cca0d21d250.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Periodic Table - 9",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6KWH_UUoQ5A",
+      "hd_video_url": "https://www.youtube.com/embed/6KWH_UUoQ5A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S1M5arAmqGEv5smrp8EGVqmcTxYqWoCoMscaqkL6.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9a85629-b181-44ce-85c7-0cca0d21d250.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Periodic Table - 10",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ktSPX9umuVM",
+      "hd_video_url": "https://www.youtube.com/embed/ktSPX9umuVM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a7BGmPyJvHEcO7ClfjPRXt9wStTTuFmdWZUbmJjJ.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80155344-2881-48a2-964e-2498b3d33006.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Periodic Table - 11",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/gxWT2fr-aP4",
+      "hd_video_url": "https://www.youtube.com/embed/gxWT2fr-aP4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bnzKWoGQ8SStTcK9puC7itrn71O5irfRKi1MgyuB.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00032234-449d-4b89-9be9-89ad4d281a4c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Periodic Table - 12",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tmPbPVZmJoc",
+      "hd_video_url": "https://www.youtube.com/embed/tmPbPVZmJoc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8D3EGcGPW9EzaXQEYKVdqpYXtKUifX9cug8RxYHC.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a56fe72-d288-4622-81d2-f3c42820fddc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Periodic Table - 13",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/uhECczHP0Iw",
+      "hd_video_url": "https://www.youtube.com/embed/uhECczHP0Iw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sahLXzz3if6UjbZbBc06iDfZmQuJ1GoI4vkF4ZlT.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac4f7669-f3a9-48ea-a0b4-8778204d7e5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Periodic Table - 14",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2-HSCEVC398",
+      "hd_video_url": "https://www.youtube.com/embed/2-HSCEVC398",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AoEDWDToRC7xX9jfzZBPbBrQdZwGo1pbRDEHCOZA.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2de0063-8710-4094-8635-a609b1c0ed7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Periodic Table - 15",
+      "published_date": "15 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tJ3avPPbOo4",
+      "hd_video_url": "https://www.youtube.com/embed/tJ3avPPbOo4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Periodic Table - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d1fe058-13be-4445-bafe-6233b70ba291.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Periodic Table - 16",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/PsTrDnJL1Qs",
+      "hd_video_url": "https://www.youtube.com/embed/PsTrDnJL1Qs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AwWVhPiZ6GhI1SQfOb00ag3effTzWYIRI0gF5X6P.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d86e3de-7434-436b-848a-5dacc3ecc39b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Periodic Table - 17",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Rb3_yvFLPfk",
+      "hd_video_url": "https://www.youtube.com/embed/Rb3_yvFLPfk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SRpIeNNXpFxeKxKB2JWLKaJtdfFaBoyJJzCsbsa7.jpg",
+      "notes": [
+        {
+          "title": "Periodic Table - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c288ce21-d7a4-4d5c-9a3f-37399fd76ef1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 1 || Structure of Atom - 1",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ozW90XwXk90",
+      "hd_video_url": "https://www.youtube.com/embed/ozW90XwXk90",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mkj0cS6jdsbYiNuVNy8FvFyPaNNE4Rs7I5eUvTnQ.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture - 1 Structure of Atom - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13adf41f-7e28-4c7c-909e-f2fecbff56d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 2 || Structure of Atom - 2",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ejsHW0GrDUA",
+      "hd_video_url": "https://www.youtube.com/embed/ejsHW0GrDUA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mv9h1B5bG5RqEgNb34BjmQlwtIs6Ti40bBFGP5MZ.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture - 2 Structure of Atom - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dd4a69a-8380-423f-a88f-55d1561eba72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 3 || Structure of Atom - 3",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vxbh5bhOCt8",
+      "hd_video_url": "https://www.youtube.com/embed/vxbh5bhOCt8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Y5pcngl7VHNJP6liqpAiGemkqyWvcv5QZpLZPuTc.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture - 3 Structure of Atom - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18531814-17d8-4b43-aa61-0bfefdc69e7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 4 || Structure of Atom - 4",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/yBdSNJDpq28",
+      "hd_video_url": "https://www.youtube.com/embed/yBdSNJDpq28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7eRDPALcv64BiFMyB3SteGo0LNgjwsPb7yTLLIaa.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture - 4 Structure of Atom - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe4f98e4-b8f8-4277-ac17-f02403be49d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 5 || Structure of Atom - 5",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ZBLn9ErimwU",
+      "hd_video_url": "https://www.youtube.com/embed/ZBLn9ErimwU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vK9yTl915TtkmMAJFfsP4EaTKmuIt4qoDECBXMD8.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture - 5 Structure of Atom - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fdd5ee5-a003-42a5-9529-abcdc0f12b90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 6 || Structure of Atom - 6",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VZMT4NXQ_gM",
+      "hd_video_url": "https://www.youtube.com/embed/VZMT4NXQ_gM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/StwU12GQyNuVEYvXDbW8QgytgFHmaUqRPGrK78RS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Structure of Atom - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faa5ec23-82d6-4404-bf6b-c3c0fbd7988c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 7 || Structure of Atom - 7",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9E5fcLBgRoQ",
+      "hd_video_url": "https://www.youtube.com/embed/9E5fcLBgRoQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JgsyoQwLaqpA9DXdMVpPx8x4gdFEVu4Eb9Zyw3NU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Structure of Atom - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/794fb097-7be6-4b2a-963c-1f52237f2cc0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 8 || Structure of Atom - 8",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/pO3THK-qsn8",
+      "hd_video_url": "https://www.youtube.com/embed/pO3THK-qsn8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4oqdFHLvWvuWRehDibRwGCu2BEegnixxkJ7rhmTO.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Structure of Atom - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bfb5c88-b615-4446-909a-19bb89165e24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 9 || Structure of Atom - 9",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9B8XB_uSsoM",
+      "hd_video_url": "https://www.youtube.com/embed/9B8XB_uSsoM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fbDBcodKDsXJwOvh1yPwRFAX0LCpEKpGFs4SE1Km.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Structure of Atom - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31c1b8be-6a6e-4331-8fce-8dfb385839ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 10 || Structure of Atom - 10",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/nb3a4B5fU_w",
+      "hd_video_url": "https://www.youtube.com/embed/nb3a4B5fU_w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TkOVGvmecDZGB7XpFTF2IX29hjsRqimX8qc2vSJp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Structure of Atom - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1b20191-6f5a-437d-ba7a-b4eb19a60754.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 11 || Structure of Atom - 11",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/qaOR21kzoQ4",
+      "hd_video_url": "https://www.youtube.com/embed/qaOR21kzoQ4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lBS0sqFNLnxjzle24wXrOOqfMr1t433RDQAJAZWj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Structure of Atom - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3741d14-aba8-42c8-b21f-3be656fd4199.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -12 || Structure of Atom - 12",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EmIxgx8erVE",
+      "hd_video_url": "https://www.youtube.com/embed/EmIxgx8erVE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zNMnJRskyRjmfDaoEDpPmx4Q2rOG7L1RW38sgkEv.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture -12  Structure of Atom - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adb8db6d-9fb4-4dab-bdc0-e847a6eea0a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -13 || Structure of Atom - 13",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KCZ1t5z1YAs",
+      "hd_video_url": "https://www.youtube.com/embed/KCZ1t5z1YAs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fpAXMw8zdYJjO7d6caTIittcJ4L2yhKjdkzQTi6C.jpg",
+      "notes": [
+        {
+          "title": "Lecture -13 || Structure of Atom - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e83bea4-9380-4f7f-91f0-773d176241b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture -14 || Structure of Atom - 14",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/svoo4uoMuRg",
+      "hd_video_url": "https://www.youtube.com/embed/svoo4uoMuRg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YVHskU51unRXmiTtWDItW5IDVlT1Hj9XWddpbC1B.jpg",
+      "notes": [
+        {
+          "title": "Lecture -14 || Structure of Atom - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/938097d6-ae28-4c55-bd24-c38faf64305a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture -15 || Structure of Atom - 15",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NnkJmqx4Cgw",
+      "hd_video_url": "https://www.youtube.com/embed/NnkJmqx4Cgw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/W0rbqDcbN51qyenohJuUFA451jarNvB4IkWR5niF.jpg",
+      "notes": [
+        {
+          "title": "Lecture -15 || Structure of Atom - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e698e001-a9e4-4c4b-838b-60c143c915db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture -16 || Structure of Atom - 16",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Ioad32Mq1O4",
+      "hd_video_url": "https://www.youtube.com/embed/Ioad32Mq1O4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yqX5vjsSQUXdpsotMNQZtXTZEHwPtIEV2mJhfAet.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Lecture -16  Structure of Atom - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec944097-899b-4cdc-a990-d6137e1ff19f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture -17 || Structure of Atom - 17",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KeOJ-IdDvtE",
+      "hd_video_url": "https://www.youtube.com/embed/KeOJ-IdDvtE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OSppvKDo4kHJ9ttJcIeSdC2P3iuxxLGWvQaxNBvx.jpg",
+      "notes": [
+        {
+          "title": "Lecture -17 || Structure of Atom - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06bc902c-3404-4d64-9c47-0f55968fd2b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture -18 || Structure of Atom - 18",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NRARA9Y86hI",
+      "hd_video_url": "https://www.youtube.com/embed/NRARA9Y86hI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JXNgSvsPmwFSuYSWAKKPaufwmU7jl6LxRa43WDIA.jpg",
+      "notes": [
+        {
+          "title": "Lecture -18 || Structure of Atom - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29affbfa-824c-4625-a634-ad4cd9357076.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture -19 || Structure of Atom - 19",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E8oxXZrQh-Q",
+      "hd_video_url": "https://www.youtube.com/embed/E8oxXZrQh-Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KdxPiW39WAZo9n3E1Tw8XMTgeaxEbmD4jur3HKjQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture -19 || Structure of Atom - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1eaecfe7-412f-4e56-8438-b0bf418b3913.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Doubt Session",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TcyDgmynuGc",
+      "hd_video_url": "https://www.youtube.com/embed/TcyDgmynuGc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/72ImZWHpgNCxZSrxXS2DcXSemglGK7mknWHAYfYf.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Doubt Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25c8b8de-cd27-4645-afa6-4df095c0b8d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture -20 || Structure of Atom - 20",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vGbSGjI9bSE",
+      "hd_video_url": "https://www.youtube.com/embed/vGbSGjI9bSE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ban9mc1NttE1xPDIArKl8pewYSozGiwmiLTZLaZS.jpg",
+      "notes": [
+        {
+          "title": "Lecture -20 || Structure of Atom - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f77ade1-4439-4809-a17e-ca24a9821d25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 21 || Structure of Atom - 21",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/GRJb9kqKYj0",
+      "hd_video_url": "https://www.youtube.com/embed/GRJb9kqKYj0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uq4rYH2SdhYIy8YMumZLXLsglioiXcnjLpX1cAt9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Structure of Atom - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d10088d2-54f1-498c-a32a-51eea8db48d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 22 || Structure of Atom - 22",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/X9apOfxJK3o",
+      "hd_video_url": "https://www.youtube.com/embed/X9apOfxJK3o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/44GP08vqK65lzNsyVvG6rAukszfXr5cZIKXD4VPB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Structure of Atom - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca94ad65-1b6c-4175-acd3-e6916dd3c506.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 23 || Structure of Atom - 23",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/eIeOEmbnaso",
+      "hd_video_url": "https://www.youtube.com/embed/eIeOEmbnaso",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P0VIdef3Pwtb5mR0M3mK4cZYTX0aQdZrojczWv9x.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Structure of Atom - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/680ae737-7231-499a-ac6e-96ca3ef9ba15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 24 || Structure of Atom - 24",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/58QcBnsgRDE",
+      "hd_video_url": "https://www.youtube.com/embed/58QcBnsgRDE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7J3utiWdc1VdBwOY9U0hy309cACu3S7XQ5CPzbzm.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Structure of Atom - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e23fb9aa-d93d-49fb-a573-b17212d4863d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 25 || Structure of Atom - 25",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/J6tcsdzsiic",
+      "hd_video_url": "https://www.youtube.com/embed/J6tcsdzsiic",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LtYCXyKKwREelhg4vuWwikqXyx8EkYfYLjojRieU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Structure of Atom - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4834a41e-2e29-400a-ac51-68864380eea0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 26 || Structure of Atom - 26",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/o5gdvcM_UFo",
+      "hd_video_url": "https://www.youtube.com/embed/o5gdvcM_UFo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6uLBX7PqMcxKMzIrXrsEeMNak6ZOPe0laOtwV0kb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Structure of Atom - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c253ef4d-dec4-41e5-b821-7f115a41ebec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 27 || Chemical Bonding - 1",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/U48a387WyHI",
+      "hd_video_url": "https://www.youtube.com/embed/U48a387WyHI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EUtnQJGbraSviHIJb1peGOtPDI8AOGfeDFCUHJS8.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Chemical Bonding -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30104ffe-5dce-4d1a-90b3-af8fca5a8cc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 28 || Chemical Bonding - 2",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/XdCi7u0Enr8",
+      "hd_video_url": "https://www.youtube.com/embed/XdCi7u0Enr8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EnJqtp3Gw8fhKlNT055t1Iu17t5SRtSSbCKN5gPD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Chemical Bonding - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32b8ed62-ca2b-49d4-ae17-9204252fb5b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 29 || Chemical Bonding - 3",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qICnw0v3jrA",
+      "hd_video_url": "https://www.youtube.com/embed/qICnw0v3jrA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q9zbDdvi9T9XkeNTjXzh0HQ17BL1K9pdEoNSsqDS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Chemical Bonding - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9aab74c7-27a5-4d15-aa53-f7c90d0b4701.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 30 || Chemical Bonding - 4",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/9Ry1TtcKpKw",
+      "hd_video_url": "https://www.youtube.com/embed/9Ry1TtcKpKw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CUUT14V31BamCPAzSV5PqLeyJSAFU0bYwJVhwY0P.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Chemical Bonding - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1dc09f64-33fc-4ebc-abf9-f40dc07c43cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 31 || Chemical Bonding - 5",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7zKWih4hq0E",
+      "hd_video_url": "https://www.youtube.com/embed/7zKWih4hq0E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/paaGwwIIe8edyXWH0v52ayhY0dlZOAexHwjmpN4m.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Chemical Bonding - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52da0cb4-dc0d-4ef2-b9f5-65ec53b11c32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 32 || Chemical Bonding - 6",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/IVRbm-bskdY",
+      "hd_video_url": "https://www.youtube.com/embed/IVRbm-bskdY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ExOJxN1ZLpTFGChQMmiSqvOdTMeHtNUFpFF6z4OO.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Chemical Bonding - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f01cb784-4e74-4c2f-b98c-dd91292c5f9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 33 || Chemical Bonding - 7",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/I1VNcGBGEas",
+      "hd_video_url": "https://www.youtube.com/embed/I1VNcGBGEas",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xnu7yKlk3L80Dijv4cQOc0d1fPBVxKvcCLUuZB1y.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Chemical Bonding - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a37ca26-39df-4e06-bd42-ad6449d4fb68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 34 || Chemical Bonding  - 8",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gRWl73__X8U",
+      "hd_video_url": "https://www.youtube.com/embed/gRWl73__X8U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SxU1aB4qE6cO3Pr2AFCagH5cRBGqwyjfCI54L9by.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Chemical Bonding  - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/856cb59a-c6e7-4698-9c06-184d8c69c686.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 35 || Chemical Bonding - 9",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/HgkHnwt75BA",
+      "hd_video_url": "https://www.youtube.com/embed/HgkHnwt75BA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4lUABmjX3jrBDQULOYKduJH9PTOX9LrnqUqGcArU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Chemical Bonding - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8759c1a3-edab-4edb-bc22-5cce32b3c4dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 36 || Chemical Bonding - 10",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/whHcEhXAXsI",
+      "hd_video_url": "https://www.youtube.com/embed/whHcEhXAXsI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lJD7OPqIP4HHXJyfbV7su0KNWhv0nAW1N9retkal.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Chemical Bonding - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ef3e40e-e167-44d9-a0ac-5ac96b5eb0aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 37 || Chemical Bonding - 11",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/wIIgNzWYZT8",
+      "hd_video_url": "https://www.youtube.com/embed/wIIgNzWYZT8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eGzPrwtbjl4AVC4m4i6D41ffkeoeCPqEqb3Xxbai.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Chemical Bonding - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e587275b-7739-46ee-871c-0075fbde8e23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 38 || Chemical Bonding - 12",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5yCF-1V0ifw",
+      "hd_video_url": "https://www.youtube.com/embed/5yCF-1V0ifw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KvKaBd02udPJUhB9GbbvkuhMN7cBnJrmtXbmk4be.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

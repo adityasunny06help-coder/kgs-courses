@@ -1,0 +1,45 @@
+{
+  "subject_name": "Demo Video",
+  "subject_id": 5927,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Modern History by Sujeet Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/77976/kgss-1716277399-v77976.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/01KZWUxWGhs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pvvOl8uihuFLRC0nhCamnwM5y4HXIM7LEtn6qGeq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Indian Society by Dr. S.S.Pandey Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212212/kgss-1742183227-v212212.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0VcNLN2511I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3eJTu38r899G9Esm2nA4uX95k3q2jQoB7NN2wQ5u.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Indian Economy Prelims by Rameshwar Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185788/kgss-1738119126-v185788.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TxNv8lLJMe0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e31672f91.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Indian Polity by Rajesh Mishra Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/207098/kgss-1741252236-v207098.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/boM2RdHkM_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Dacc5h0PJzml3rXUmvQy6mZPZxsYuYNm5L4LA9aI.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,135 @@
+{
+  "subject_name": "Laplace Transforms",
+  "subject_id": 6622,
+  "video_count": 9,
+  "note_count": 9,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Laplace Transform (Part 1)",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243732/kgss-1746448727-v243732.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/joveNQw3TyY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6818ece050aff.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Laplace Transform (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9313baae-0d6f-48dd-b373-3937f2dd9ea1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Laplace Transform (Part 2)",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244208/kgss-1746535402-v244208.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NiP1WPl4wBQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6820523b3b101.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Laplace Transform (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c74c0b8-a3fe-41e5-b3e7-ebdbfb1d432c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Laplace Transform (Part 3)",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246079/kgss-1746709133-v246079.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tLGw9JOjH9w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6820523a62c58.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Laplace Transform (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6f71a1e-b5bd-4ff3-89aa-53f4f6fb8c25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Laplace Transform (Part 4)",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-366/laplace-transform/l-04/maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DunxwXba01I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2d6b01d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Laplace Transform (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de2d1394-1f97-4fb3-b3c4-692f39ec707f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Laplace Transform (Part 5)",
+      "published_date": "13 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248715/kgss-1747139891-v248715.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/23cIzoXlkg0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2cd564a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Laplace Transform (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74f1954f-9c38-449b-94e9-358e5b31eb84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Laplace Transform (Part 6)",
+      "published_date": "14 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/251734/kgss-1747226641-v251734.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LVx6t4u11No",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2c4cb33.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Laplace Transform (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dee0c74-ff91-4c7c-bb1a-64cc4de8c5f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Laplace Transform (Part 7)",
+      "published_date": "15 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/252136/kgss-1747313637-v252136.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H5wmDLdtFhk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2bb1d14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Laplace Transform (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ded2c23e-a79a-48e6-bc5a-8349c6a9269b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Laplace Transform (Part 8)",
+      "published_date": "16 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/255283/kgss-1747400001-v255283.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OAZ9IJMMVs8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2b23a37.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Laplace Transform (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d720f183-25c3-4c5c-af07-28f23e6ab79a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Laplace Transform (Part 9)",
+      "published_date": "17 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/255833/kgss-1747485932-v255833.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xWfFn8fqeSQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68306c2a56cf8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Laplace Transform (Part 9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7939169-e8d1-4107-ab37-bc043d44f02d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,423 @@
+{
+  "subject_name": "Indian Economy by Rameshwar Sir",
+  "subject_id": 3327,
+  "video_count": 46,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || परिचय",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/111958/kgss-1724908672-v111958.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bFRT9PpHl10",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2f3f70b.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || राष्ट्रीय आय और उत्पाद",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112210/kgss-1724994578-v112210.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/m07EADX2KN0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2ec36c5.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || सकल घरेलू उत्पाद (भाग - 01)",
+      "published_date": "31 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112835/kgss-1725081361-v112835.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/z7A_JoFQzQU",
+      "thumbnail": "{\"thumb\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/thumb\\/uploads\\/UWVvKgb3Il3cuUd8feGuyUUoyJCgT3rhMREC3w7v.jpg\",\"large\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/large\\/uploads\\/UWVvKgb3Il3cuUd8feGuyUUoyJCgT3rhMREC3w7v.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || सकल घरेलू उत्पाद (भाग - 02)",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113187/kgss-1725255537-v113187.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/M63gblwvRts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2e1c62e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || सकल घरेलू उत्पाद (भाग - 03)",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113704/kgss-1725341966-v113704.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vPbX7bvrcuA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2d89d6e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || सकल घरेलू उत्पाद (भाग - 04)",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/114001/kgss-1725428586-v114001.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dtIMgSqRbCI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2cee633.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || सकल घरेलू उत्पाद (भाग - 05)",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/upsc-offline-backup/mukherjee-nagar-hin/mn6/in-economy-rameshwar-sir/l-07/in-eco-upsc-mn6.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R9o8iaZoWiY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || सकल घरेलू उत्पाद (भाग - 06)",
+      "published_date": "07 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115327/kgss-1725687726-v115327.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cZwPdnS57Kc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2c6862a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || कार्बन क्रेडिट",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115716/kgss-1725859380-v115716.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-5UkMJlxJec",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2bd4d24.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || मार्क्स का सिद्धांत",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116364/kgss-1725945741-v116364.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IIQo6p6yqus",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2b4a381.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || मानव पूंजी निर्माण",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117177/kgss-1726118461-v117177.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mLfcbyZoImE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2ab3d31.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || आर्थिक विकास के गैर-आर्थिक कारक",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117624/kgss-1726204248-v117624.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vlHC8mGdsH4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2a2e840.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || राजस्व प्राप्तियां, गैर-कर राजस्व",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118249/kgss-1726291136-v118249.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9RXWzzOgIyk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb299b836.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || प्रत्यक्ष और अप्रत्यक्ष कर (भाग - 01)",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118587/kgss-1726465106-v118587.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Lj7mjLY2rR8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb291660a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || प्रत्यक्ष और अप्रत्यक्ष कर (भाग - 02)",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119210/kgss-1726551254-v119210.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PifYfrAzV8Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2884972.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || सरकार की प्राप्तियां",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119566/kgss-1726638255-v119566.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U5xYzLKWTbQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb27f0f61.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || सरकारी खर्च",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/120180/kgss-1726723886-v120180.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kB7jsHFG6x4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb276a6ca.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || सरकारी घाटो का प्रकार (भाग - 01)",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/120937/kgss-1726809459-v120937.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wlX8qoIv-WU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb26d963e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || सरकारी घाटो का प्रकार (भाग - 02)",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/122015/kgss-1727068726-v122015.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kezpphPG-Vo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2653501.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || बजट का सार 2024-25",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/122514/kgss-1727156135-v122514.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/il1HBF8U90Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb25bcdd6.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21|| वित्त आयोग & GST",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123021/kgss-1727242568-v123021.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jggclHIULNk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2534ee8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || GST & कर की चोरी",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123596/kgss-1727328751-v123596.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3QIgYQVxxb4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb24a14c3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || कर की चोरी & काला धन",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/124181/kgss-1727415568-v124181.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s5OdM6JGqEA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb241a91f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || मनी लॉन्ड्रिंग",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/124917/kgss-1727674568-v124917.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yadEAh_Iqb0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2387e41.jpg",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || मनी बैंकिंग",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/125913/kgss-1727760914-v125913.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w6fwQACP8Uo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2300e4d.jpg",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || दरें और अनुपात (भाग- 01)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126535/kgss-1727934200-v126535.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7COZP6PK_ag",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb2270dca.jpg",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || दरें और अनुपात (भाग- 02)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127272/kgss-1728020365-v127272.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R5IWtgBNZKg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb21de430.jpg",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || दरें और अनुपात (भाग- 03)",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/128135/kgss-1728278521-v128135.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9doDfQysrcs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb21575b2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || दरें और अनुपात (भाग- 04)",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/128806/kgss-1728363708-v128806.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jt-_Y5s4j-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb20c451e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || सूक्ष्म वित्तीयन (Microfinance)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/129412/kgss-1728449534-v129412.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/menhrrCUWIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb202ecc8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || वित्त बाजार",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/130109/kgss-1728538602-v130109.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZMkaPuB7BbM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1f9b783.jpg",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || भारत में इक्विटी बाजार की संरचना",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/130621/kgss-1728624137-v130621.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ey9ULL1s0j4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1f16f41.jpg",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || मुद्रा बाजार की संरचना (भाग- 1)",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/130626/kgss-1728883282-v130626.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ArlXO4vsk74",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1e83fd0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || मुद्रा बाजार की संरचना (भाग- 2)",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131323/kgss-1728969703-v131323.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tMPA9sHczPo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1df1656.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 35 || सेंसेक्स, आर्विटेज",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131915/kgss-1729057136-v131915.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pfZmZ99Hixs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1d6959e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 36 || म्यूच्यूअल फण्ड, हेजिंग",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132583/kgss-1729142337-v132583.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WTLr6gP7mNo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1cd50db.jpg",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 37 || बॉण्ड और डिबेंचर (भाग- 01)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/133471/kgss-1729228677-v133471.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/x3alodAQXQY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1c4c6ea.jpg",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 38 || बॉण्ड और डिबेंचर (भाग- 02)",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/137658/kgss-1729488860-v137658.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Wjxl3FXdCZM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1bb95a3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 39 || बॉण्ड और डिबेंचर (भाग- 03)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138260/kgss-1729575358-v138260.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/O22x-Er8vVI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1b30cc7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 40 || विदेशी क्षेत्रक",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139052/kgss-1729661581-v139052.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/04-rLnQsm2M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1a9f4e6.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 41 || विनिमय दर (भाग- 01)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139822/kgss-1729748120-v139822.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZNzeZ1X3t94",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1a19693.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 42 || विनिमय दर (भाग- 02)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140333/kgss-1729834503-v140333.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TGQYXpCuaNI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1983d03.jpg",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 43 || मुद्रा की परिवर्तनीयता",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140824/kgss-1729920959-v140824.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nmXTinHhkEo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb18edfb5.jpg",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 44 || आर्थिक एकीकरण (राष्ट्रों के मध्य) के प्रकार",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141568/kgss-1730092638-v141568.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZyZgjqwu9a4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb18667c7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 45 || मुद्रास्फीति (भाग- 01)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141936/kgss-1730178201-v141936.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/maFTutzmVz8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb17d25ed.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 46 || मुद्रास्फीति (भाग- 02)",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146056/kgss-1730697490-v146056.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cdUdopxmJP8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680bfb1715f01.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

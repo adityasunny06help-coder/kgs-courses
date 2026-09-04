@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "CDS 02 2025 Target Batch",
+    "price": "1499",
+    "id": "616",
+    "extracted_date": "2025-08-27T14:05:54.272302"
+  },
+  "subjects": [
+    {
+      "name": "Mathematics by Neeraj Kukreja Sir",
+      "id": 6218,
+      "video_count": 76,
+      "note_count": 75
+    },
+    {
+      "name": "English by Ruchir Sir",
+      "id": 6219,
+      "video_count": 91,
+      "note_count": 91
+    },
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 6220,
+      "video_count": 57,
+      "note_count": 57
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 6221,
+      "video_count": 89,
+      "note_count": 88
+    },
+    {
+      "name": "Polity by Gyan Sir",
+      "id": 6222,
+      "video_count": 87,
+      "note_count": 87
+    },
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 6223,
+      "video_count": 46,
+      "note_count": 46
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 6227,
+      "video_count": 48,
+      "note_count": 45
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 6228,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 6229,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 6230,
+      "video_count": 76,
+      "note_count": 76
+    },
+    {
+      "name": "Mentorship by Arun Sir",
+      "id": 6737,
+      "video_count": 3,
+      "note_count": 2
+    },
+    {
+      "name": "Current Affairs by Vishal Sir",
+      "id": 7454,
+      "video_count": 19,
+      "note_count": 19
+    }
+  ]
+}

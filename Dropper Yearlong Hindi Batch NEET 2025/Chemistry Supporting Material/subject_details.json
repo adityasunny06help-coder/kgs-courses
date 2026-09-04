@@ -1,0 +1,97 @@
+{
+  "subject_name": "Chemistry Supporting Material",
+  "subject_id": 2582,
+  "video_count": 7,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. परमाणु संरचना (NEET Flashback) - Video Solution",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/watch?v=WLazHFzda0w",
+      "hd_video_url": "https://www.youtube.com/watch?v=WLazHFzda0w",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "2. ऊष्मागतिकी (NEET Flashback) - Video Solution",
+      "published_date": "06 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/TgbBbRlI6FY",
+      "hd_video_url": "https://www.youtube.com/embed/TgbBbRlI6FY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - ऊष्मागतिकी (NEET Flashback) - Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e284ab82-8167-44b3-9237-689de3fc49b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. साम्यवस्था  (NEET Flashback) - Video Solution",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/EQ6nvmSwOEQ",
+      "hd_video_url": "https://www.youtube.com/embed/EQ6nvmSwOEQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - साम्यवस्था  (NEET Flashback) - Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ead34edb-0231-49e3-9b7d-15bbfe42cc10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. रेडोक्स अभिक्रिया (NEET Flashback) - Video Solution",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/c_chaEKzoBs",
+      "hd_video_url": "https://www.youtube.com/embed/c_chaEKzoBs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - रेडोक्स अभिक्रिया (NEET Flashback) - Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3896ae92-4b00-463c-a8ce-f26f63939487.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "5. तत्वों का वर्गीकरण और गुणों में आवर्तता (आवर्त सारणी) (NEET Flashback) : Video Solution",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ntSzGmdzLJ8",
+      "hd_video_url": "https://www.youtube.com/embed/ntSzGmdzLJ8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - तत्वों का वर्गीकरण और गुणों में आवर्तता (आवर्त सारणी) (NEET Flashback) : Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a089d07e-32d2-4d12-a5c8-798898092958.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. रासायनिक गतिकी (NEET Flashback) - Video Solution",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/2_cvW3zVeWg",
+      "hd_video_url": "https://www.youtube.com/embed/2_cvW3zVeWg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "7. रासायनिक बंधन और आणविक संरचना (NEET Flashback) - Video Solution",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/yS6GrPHxo28",
+      "hd_video_url": "https://www.youtube.com/embed/yS6GrPHxo28",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - रासायनिक बंधन और आणविक संरचना (NEET Flashback) - Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/980fda9e-d2c6-4c17-a66d-d8ec5381d2b9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

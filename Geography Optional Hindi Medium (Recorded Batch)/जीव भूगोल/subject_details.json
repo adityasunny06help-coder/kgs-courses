@@ -1,0 +1,117 @@
+{
+  "subject_name": "जीव भूगोल",
+  "subject_id": 7575,
+  "video_count": 12,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || पादप और जीव वितरण कारक",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l82/lecture82.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l82/lecture82.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DfbB2AyskKPyZiIgNkPbZf6JISsxUpx8hi47MJW7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || मृदा निर्माण (Part- 1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l83/lecture83.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l83/lecture83.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cglRqTaEfctsU90HSLbDjvPCnDRKsTv3tQ8PdEVN.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || मृदा निर्माण || उत्तर लेखन",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l85/lecture85.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l85/lecture85.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rdgks8gJNlraHtz7j3kT85CTQux4T8ObmXLTEw7P.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || मृदा निर्माण (Part- 2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l86/lecture86.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l86/lecture86.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NmK7tkGeuA17DUZHNUvu6ZP7z8QmfxF57TONdac4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || मृदाओं का वर्गीकरण एवं वितरण (Part- 1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l87/lecture87.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l87/lecture87.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XMV532kOolLhHrrJxfElZH6BzvOEaUuRiFwfLijL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || मृदाओं का वर्गीकरण एवं वितरण (Part- 2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l88/lecture88.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l88/lecture88.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0G7B2mryasMt9VyUrbSgxfnGh4BdOPpkaG2HKCkZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || मृदाओं का वर्गीकरण एवं वितरण (Part- 3)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l89/lecture89.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l89/lecture89.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OYmTOYVPtrsaE1nGh0FH4GgTtadl4ftVBx6p8Rn7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || मृदाओं का वर्गीकरण एवं वितरण (Part- 4)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l90/lecture90.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l90/lecture90.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eA0x1BiGz7weZruO7w1u4WSHgbKbKAwygFE0L6m4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || मृदा अपरदन || न्यूनीकरण एवं संरक्षण, विश्व वन संसाधन",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l91/lecture91.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l91/lecture91.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NQEjDTwUfSLt3SpGAoKtymQDIsk1frtuYql5LoaV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || वन अपरोपण की समस्याएं एवं संरक्षण",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l92/lecture92.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l92/lecture92.m3u8",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || जीन पूल और जीन केंद्र",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l93/lecture93.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l93/lecture93.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hBrL9VdT2OQYgPkXMy37hHoXiPaDCh4R1M6M0c4g.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || जैविक क्षेत्रों का विभाजन",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l94/lecture94.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l94/lecture94.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VoNsPFHnPFjXthE4kvhIPyH6HD8vJPKjv6xGeZ98.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

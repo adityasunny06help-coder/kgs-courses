@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "UP SI Batch 2025",
+    "price": "499",
+    "id": "619",
+    "extracted_date": "2025-08-27T14:05:00.392423"
+  },
+  "subjects": [
+    {
+      "name": "History by Anjali Ma'am",
+      "id": 6119,
+      "video_count": 81,
+      "note_count": 81
+    },
+    {
+      "name": "Reasoning by Yogendra sir",
+      "id": 6120,
+      "video_count": 88,
+      "note_count": 86
+    },
+    {
+      "name": "Moolvidhi by Prabhu Sir",
+      "id": 6121,
+      "video_count": 91,
+      "note_count": 88
+    },
+    {
+      "name": "Polity by Prabhu Sir",
+      "id": 6122,
+      "video_count": 78,
+      "note_count": 78
+    },
+    {
+      "name": "Maths by Amit Sir (Part-01)",
+      "id": 6193,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Maths by Amit Sir (Part-02)",
+      "id": 6248,
+      "video_count": 84,
+      "note_count": 82
+    },
+    {
+      "name": "Complete Notes",
+      "id": 6284,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Static GK by Yadavendra Sir",
+      "id": 7134,
+      "video_count": 40,
+      "note_count": 40
+    },
+    {
+      "name": "Hindi By Jitendra Soni Sir",
+      "id": 7179,
+      "video_count": 57,
+      "note_count": 56
+    },
+    {
+      "name": "Telegram Link",
+      "id": 7321,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Computer by Anjali Ma'am",
+      "id": 7989,
+      "video_count": 21,
+      "note_count": 19
+    },
+    {
+      "name": "World Geography by Abhishek Sir",
+      "id": 8225,
+      "video_count": 15,
+      "note_count": 14
+    }
+  ]
+}

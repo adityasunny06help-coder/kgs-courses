@@ -1,0 +1,51 @@
+{
+  "subject_name": "Plans & Priorities",
+  "subject_id": 5233,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -146 || Machinery & Planning",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193705/kgss-1739589546-v193705.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wrtXbPOIHU8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vkzSGMtqmfpa5KqTkx44nG3BacI9Q1zlPlYKFrI9.jpg",
+      "notes": [
+        {
+          "title": "Lecture -146 || Machinery & Planning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c952bff2-1cc9-48d9-87a6-c1aa02f2e633.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -147 || Planning Commission & Niti Aayog",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193936/kgss-1739762344-v193936.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1xgo0AHIR80",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NRI5SJPs0rwbNyRxhZngAkLezvYW8U5wpVfaUh7L.jpg",
+      "notes": [
+        {
+          "title": "Lecture -147 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7286e291-6215-46d3-be65-d9aa0c5f0b59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -148 || Significance of Niti Aayog",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194474/kgss-1739849005-v194474.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/E7vZRcpxuCY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rUfD6thF67D5qBsn9T5Rqvq5LY36n8I5FGhLfJKt.jpg",
+      "notes": [
+        {
+          "title": "Lecture -148 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9deb534-9faa-4031-9b16-45311afac67d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

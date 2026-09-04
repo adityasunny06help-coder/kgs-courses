@@ -1,0 +1,88 @@
+{
+  "batch_info": {
+    "title": "SSC CGL Tier-2 Practice Batch",
+    "price": "499",
+    "id": "443",
+    "extracted_date": "2025-08-27T15:22:10.838757"
+  },
+  "subjects": [
+    {
+      "name": "Current Affairs by Shivam Tiwari Sir",
+      "id": 3853,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "English by Priyanshu Sir",
+      "id": 3854,
+      "video_count": 28,
+      "note_count": 24
+    },
+    {
+      "name": "Reasoning by Yogendra Sir",
+      "id": 3857,
+      "video_count": 38,
+      "note_count": 37
+    },
+    {
+      "name": "History by Anjali ma'am",
+      "id": 3858,
+      "video_count": 31,
+      "note_count": 32
+    },
+    {
+      "name": "Advance Maths by P.K Sir",
+      "id": 3859,
+      "video_count": 39,
+      "note_count": 36
+    },
+    {
+      "name": "Science by Gyan Sir",
+      "id": 3860,
+      "video_count": 31,
+      "note_count": 31
+    },
+    {
+      "name": "Arithmetic Maths by Neeraj Sir",
+      "id": 3861,
+      "video_count": 42,
+      "note_count": 38
+    },
+    {
+      "name": "Polity by Himanshu Sir",
+      "id": 4022,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Static GK by Shivam Tiwari Sir",
+      "id": 4199,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Current Affairs PDF",
+      "id": 4355,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 4436,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 4461,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 4522,
+      "video_count": 8,
+      "note_count": 8
+    }
+  ]
+}

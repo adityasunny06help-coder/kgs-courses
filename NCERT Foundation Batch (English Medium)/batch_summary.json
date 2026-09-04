@@ -1,0 +1,52 @@
+{
+  "batch_info": {
+    "title": "NCERT Foundation Batch (English Medium)",
+    "price": "1499",
+    "id": "442",
+    "extracted_date": "2025-08-27T15:22:43.074763"
+  },
+  "subjects": [
+    {
+      "name": "History by K. Shivesh Sir",
+      "id": 3827,
+      "video_count": 32,
+      "note_count": 28
+    },
+    {
+      "name": "Orientation Class",
+      "id": 3848,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Gautam Sir",
+      "id": 4251,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "Environment & Ecology by Kinshuk Sir",
+      "id": 4331,
+      "video_count": 24,
+      "note_count": 23
+    },
+    {
+      "name": "Economics by Dr. Bharat Sir",
+      "id": 4551,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "General Science by Kinshuk Sir",
+      "id": 4718,
+      "video_count": 40,
+      "note_count": 37
+    },
+    {
+      "name": "Geography by Kinshuk Sir",
+      "id": 7090,
+      "video_count": 38,
+      "note_count": 38
+    }
+  ]
+}

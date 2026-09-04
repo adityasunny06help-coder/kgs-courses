@@ -1,0 +1,685 @@
+{
+  "subject_name": "Chemistry By Yogesh Yadav (JCYY SIR)",
+  "subject_id": 3663,
+  "video_count": 49,
+  "note_count": 47,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || IUPAC Nomenclature - 1",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/SNrNuKWs-Zo",
+      "hd_video_url": "https://www.youtube.com/embed/SNrNuKWs-Zo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BP9QzGJrlujMptgQ9mycSWoF5WRGLAQg3SojkBSN.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 ||",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85a28d7f-d0c2-4757-a8cb-602f4975b9f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || IUPAC Nomenclature - 2",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-EDv7RkuOIY",
+      "hd_video_url": "https://www.youtube.com/embed/-EDv7RkuOIY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/77Qvd35J0eqWlT1vTJZEzCPN9MvRYJKxp7qk4XOF.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || IUPAC Nomenclature - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9f29b01-536b-4726-b7d0-e5a3112e9370.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || IUPAC Nomenclature - 3",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/GP5Lp1IQJKA",
+      "hd_video_url": "https://www.youtube.com/embed/GP5Lp1IQJKA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BFLxOFoob7TorRz62S1SSMBZGPI19c2jpa83h0sg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || IUPAC Nomenclature - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd4ea14b-fffe-4d9a-840c-2fb936b102a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || IUPAC Nomenclature - 4",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/j5PX7syVZqE",
+      "hd_video_url": "https://www.youtube.com/embed/j5PX7syVZqE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6d126ozev6NKjMkj49u6PwtL88lcOraG6cg4YgOb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || IUPAC Nomenclature - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efc701b3-433a-45b2-b8ba-c80b78005459.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || IUPAC Nomenclature - 5",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/e7JAqhHJ8Cc",
+      "hd_video_url": "https://www.youtube.com/embed/e7JAqhHJ8Cc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B06iUE0EQ6R4oBjrG2nknDInV9w4oP1mVHJSavb0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || IUPAC Nomenclature - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94cd94f6-95b4-4f54-9222-517e85fc149f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || IUPAC Nomenclature - 6",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JzISN-TPG18",
+      "hd_video_url": "https://www.youtube.com/embed/JzISN-TPG18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8OIBJksOG46AfWrKO8Mk072qW97xHjh7u8CaTKpk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || IUPAC Nomenclature - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/963ae19c-fd12-4364-b7f5-0f2992892acd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || IUPAC Nomenclature - 7",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/AbB-ImAkFZc",
+      "hd_video_url": "https://www.youtube.com/embed/AbB-ImAkFZc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BbljAYNwALSrBrKDjOwAmdvflUzqTIAUSVkRuxqW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || IUPAC Nomenclature - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/338008d3-fe19-49b3-9c1d-57be83568c72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || IUPAC Nomenclature - 8",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/HzXevvhEePs",
+      "hd_video_url": "https://www.youtube.com/embed/HzXevvhEePs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AXWmQPqKXS7A5z1zSiDt1yVzNkxNEIEQ0lAZI39p.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || IUPAC Nomenclature - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6a2534a-199b-434b-8e4f-8f054a14be7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || IUPAC Nomenclature - 9",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/97OB4Z3n_Xw",
+      "hd_video_url": "https://www.youtube.com/embed/97OB4Z3n_Xw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/azvVrmGfx9bIkidd3GRbACPgQOr0RTlq36Qeg7Ed.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || IUPAC Nomenclature - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/000559af-ab5a-47bf-ba34-e630fbfabe0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || IUPAC Nomenclature - 10",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/XtgFljAheGA",
+      "hd_video_url": "https://www.youtube.com/embed/XtgFljAheGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kI69lux0OSwGkjzPtLc9gtBwAvQaurEx9hv7n44Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || IUPAC Nomenclature - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de1cebab-52f5-4022-a285-32434c4b45c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || IUPAC Nomenclature - 11",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/4nWznpyekxo",
+      "hd_video_url": "https://www.youtube.com/embed/4nWznpyekxo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iRJQse5fzeGyWpA96o6HuXwbNVyopIVXr3aqLHxA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || IUPAC Nomenclature - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8cfdb2b-30ce-4cb5-a8da-6d5629bef96f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || IUPAC Nomenclature - 12",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/nqmOQ7axCbw",
+      "hd_video_url": "https://www.youtube.com/embed/nqmOQ7axCbw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JCtw1IArXrhBkrIq5WqRxeZ0SntphmbSZihVcROA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || IUPAC Nomenclature - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2228f568-5ebf-482c-8f3a-039b518f43a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || IUPAC Nomenclature - 13",
+      "published_date": "10 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ZUAn3sHbJr4",
+      "hd_video_url": "https://www.youtube.com/embed/ZUAn3sHbJr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6I6r9iAAXHmne78TJq4ZBIGPTr3qie2F4Lm3ICSk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || IUPAC Nomenclature - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f26b18a7-8f83-4287-a62a-3806752c1d51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || IUPAC Nomenclature - 14",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/MsohdEgFpXk",
+      "hd_video_url": "https://www.youtube.com/embed/MsohdEgFpXk",
+      "thumbnail": "https://i.ytimg.com/vi/MsohdEgFpXk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || IUPAC Nomenclature - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37ac2c3f-3e16-4cae-baaa-45ecd2d12c7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || IUPAC Nomenclature - 15",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/FHkiV4LBU30",
+      "hd_video_url": "https://www.youtube.com/embed/FHkiV4LBU30",
+      "thumbnail": "https://i.ytimg.com/vi/FHkiV4LBU30/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || IUPAC Nomenclature - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/274da3b1-91a2-49e4-a258-89f8eb96d4a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || IUPAC Nomenclature - 16",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/P8kUwR8dLQs",
+      "hd_video_url": "https://www.youtube.com/embed/P8kUwR8dLQs",
+      "thumbnail": "https://i.ytimg.com/vi/P8kUwR8dLQs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || IUPAC Nomenclature - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d19f44c-9b4a-4b54-8cac-5a459f94ec2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || IUPAC Nomenclature - 17",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/BE0z2cUawJI",
+      "hd_video_url": "https://www.youtube.com/embed/BE0z2cUawJI",
+      "thumbnail": "https://i.ytimg.com/vi/BE0z2cUawJI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || IUPAC Nomenclature - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d269f02a-164d-4d62-b457-06828b20e9ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || IUPAC Nomenclature - 18",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/gAZwOddG4T0",
+      "hd_video_url": "https://www.youtube.com/embed/gAZwOddG4T0",
+      "thumbnail": "https://i.ytimg.com/vi/gAZwOddG4T0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || IUPAC Nomenclature - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3096302b-9038-4676-b931-dc42e920d33e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || IUPAC Nomenclature - 19",
+      "published_date": "23 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/38cA8Hi2JynONF3hEbIKilfE4KacGe03vufhQQFI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || IUPAC Nomenclature - 20",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/nodk-qN9YO0",
+      "hd_video_url": "https://www.youtube.com/embed/nodk-qN9YO0",
+      "thumbnail": "https://i.ytimg.com/vi/nodk-qN9YO0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || IUPAC Nomenclature - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16378a1e-e6d4-43e0-8909-3427d54470f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || IUPAC Nomenclature - 21",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/MQhPsm9b2uA",
+      "hd_video_url": "https://www.youtube.com/embed/MQhPsm9b2uA",
+      "thumbnail": "https://i.ytimg.com/vi/MQhPsm9b2uA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || IUPAC Nomenclature - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/502f846d-2c15-4273-8335-fb5e04e0911a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || IUPAC Nomenclature - 22",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/DJuenlbYfMs",
+      "hd_video_url": "https://www.youtube.com/embed/DJuenlbYfMs",
+      "thumbnail": "https://i.ytimg.com/vi/DJuenlbYfMs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || IUPAC Nomenclature - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62dccefa-5804-4260-a1c5-a49d960249ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || IUPAC Nomenclature - 23",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/NmchPBl4v00",
+      "hd_video_url": "https://www.youtube.com/embed/NmchPBl4v00",
+      "thumbnail": "https://i.ytimg.com/vi/NmchPBl4v00/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || IUPAC Nomenclature - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb51dd16-1086-433a-b000-471e8a8c7efe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || IUPAC Nomenclature - 24",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/G5J1r19vEXc",
+      "hd_video_url": "https://www.youtube.com/embed/G5J1r19vEXc",
+      "thumbnail": "https://i.ytimg.com/vi/G5J1r19vEXc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || IUPAC Nomenclature - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e46cc8a-5de5-45b8-9563-5b8fe14478a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || IUPAC Nomenclature - 25",
+      "published_date": "14 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1lXC1WnL_bE",
+      "hd_video_url": "https://www.youtube.com/embed/1lXC1WnL_bE",
+      "thumbnail": "https://i.ytimg.com/vi/1lXC1WnL_bE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || IUPAC Nomenclature - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50a95473-b301-48c5-9f6b-c040de0541f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || IUPAC Nomenclature - 26",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/q138tNpqC7E",
+      "hd_video_url": "https://www.youtube.com/embed/q138tNpqC7E",
+      "thumbnail": "https://i.ytimg.com/vi/q138tNpqC7E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || IUPAC Nomenclature - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7057146e-6ba9-4eb7-a483-591da2306951.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || Isomerism - 1",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/q0snK2ePrtU",
+      "hd_video_url": "https://www.youtube.com/embed/q0snK2ePrtU",
+      "thumbnail": "https://i.ytimg.com/vi/q0snK2ePrtU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || IUPAC Nomenclature - 27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea9c65aa-a63b-4dc8-9f5a-26b9bbb6cf24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Isomerism - 2",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/PkF5Yn6sQ94",
+      "hd_video_url": "https://www.youtube.com/embed/PkF5Yn6sQ94",
+      "thumbnail": "https://i.ytimg.com/vi/PkF5Yn6sQ94/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || IUPAC Nomenclature - 28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b9edea3-376c-47d8-a2dc-3aec18969c7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Isomerism - 3",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/LK3W4RWO8KI",
+      "hd_video_url": "https://www.youtube.com/embed/LK3W4RWO8KI",
+      "thumbnail": "https://i.ytimg.com/vi/LK3W4RWO8KI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || IUPAC Nomenclature - 29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae9023fd-ca92-47a0-8785-0678449571f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Isomerism - 4",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/xbt7PPe7W3c",
+      "hd_video_url": "https://www.youtube.com/embed/xbt7PPe7W3c",
+      "thumbnail": "https://i.ytimg.com/vi/xbt7PPe7W3c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || IUPAC Nomenclature - 30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/506407b1-06e3-4a94-9af3-08cb73c5c859.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Isomerism - 5",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Driy8x1cn10",
+      "hd_video_url": "https://www.youtube.com/embed/Driy8x1cn10",
+      "thumbnail": "https://i.ytimg.com/vi/Driy8x1cn10/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || IUPAC Nomenclature - 31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fd444a3-ccea-4446-bc38-7ee978d99a02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Isomerism - 6",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/xiEbRu-_LVg",
+      "hd_video_url": "https://www.youtube.com/embed/xiEbRu-_LVg",
+      "thumbnail": "https://i.ytimg.com/vi/xiEbRu-_LVg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || IUPAC Nomenclature - 32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa4dbec8-d56a-4664-99a9-19fc8f8ffdb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || Isomerism - 7",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/2h4FJ3rJVjE",
+      "hd_video_url": "https://www.youtube.com/embed/2h4FJ3rJVjE",
+      "thumbnail": "https://i.ytimg.com/vi/2h4FJ3rJVjE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || IUPAC Nomenclature - 33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c41765c-8360-4eb9-9df0-5901e116dfe6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || Isomerism - 8",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rrZW6u7R2iw",
+      "hd_video_url": "https://www.youtube.com/embed/rrZW6u7R2iw",
+      "thumbnail": "https://i.ytimg.com/vi/rrZW6u7R2iw/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 36 || Isomerism - 9",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Zs1N7El1je8",
+      "hd_video_url": "https://www.youtube.com/embed/Zs1N7El1je8",
+      "thumbnail": "https://i.ytimg.com/vi/Zs1N7El1je8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || IUPAC Nomenclature - 36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/339bec56-e288-4221-bd22-a4e2b9559d9e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 37 || Isomerism - 10",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qpl-bKMWA_8",
+      "hd_video_url": "https://www.youtube.com/embed/qpl-bKMWA_8",
+      "thumbnail": "https://i.ytimg.com/vi/qpl-bKMWA_8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || IUPAC Nomenclature - 37",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aff55dfc-da9f-4fdc-8ebe-d1a4a9962c33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 38 || Isomerism - 11",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Pu5umG4z750",
+      "hd_video_url": "https://www.youtube.com/embed/Pu5umG4z750",
+      "thumbnail": "https://i.ytimg.com/vi/Pu5umG4z750/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || IUPAC Nomenclature - 38",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd6d9d1a-2a65-4db8-8a87-1968c1012a00.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 39 || Isomerism - 12",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-QBf-yS_QpI",
+      "hd_video_url": "https://www.youtube.com/embed/-QBf-yS_QpI",
+      "thumbnail": "https://i.ytimg.com/vi/-QBf-yS_QpI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || IUPAC Nomenclature - 39",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1f38112-e0dc-447d-a1fe-ff25fb3fd272.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 40 || Isomerism - 13",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LP4T9crLyGw",
+      "hd_video_url": "https://www.youtube.com/embed/LP4T9crLyGw",
+      "thumbnail": "https://i.ytimg.com/vi/LP4T9crLyGw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || IUPAC Nomenclature - 40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28eafde7-f693-4067-9e76-0c8cb1dfe407.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 41 || Isomerism - 14",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/5CFXDkW7ydc",
+      "hd_video_url": "https://www.youtube.com/embed/5CFXDkW7ydc",
+      "thumbnail": "https://i.ytimg.com/vi/5CFXDkW7ydc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || IUPAC Nomenclature - 41",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b50dcc3-9b6d-4e2b-9ab7-503d49f7c59f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 42 || Isomerism - 15",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/p91VmB_l8WM",
+      "hd_video_url": "https://www.youtube.com/embed/p91VmB_l8WM",
+      "thumbnail": "https://i.ytimg.com/vi/p91VmB_l8WM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || IUPAC Nomenclature - 42",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e488e91-9a16-4e50-aa93-a2927f1d5646.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 43 || Isomerism - 16",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/yIkzGWr6bhg",
+      "hd_video_url": "https://www.youtube.com/embed/yIkzGWr6bhg",
+      "thumbnail": "https://i.ytimg.com/vi/yIkzGWr6bhg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || IUPAC Nomenclature - 43",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c836eafd-a64a-4df7-9418-08107b106207.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 44 || Isomerism - 17",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4y0iSn_X7Qc",
+      "hd_video_url": "https://www.youtube.com/embed/4y0iSn_X7Qc",
+      "thumbnail": "https://i.ytimg.com/vi/4y0iSn_X7Qc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || IUPAC Nomenclature - 44",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92f17b46-0768-437b-bd2d-1fa34156a9c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 45 || Isomerism - 18",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/APyiER8U-GI",
+      "hd_video_url": "https://www.youtube.com/embed/APyiER8U-GI",
+      "thumbnail": "https://i.ytimg.com/vi/APyiER8U-GI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Isomerism - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/306088d6-916d-4f03-99ab-dea39901f8b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 46 || Isomerism - 19",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/uXUy0hPew3c",
+      "hd_video_url": "https://www.youtube.com/embed/uXUy0hPew3c",
+      "thumbnail": "https://i.ytimg.com/vi/uXUy0hPew3c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Isomerism - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00497110-c4b1-4398-85c7-2f8599fedbe5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 47 || Isomerism - 20",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/GYQhfMjfvWE",
+      "hd_video_url": "https://www.youtube.com/embed/GYQhfMjfvWE",
+      "thumbnail": "https://i.ytimg.com/vi/GYQhfMjfvWE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Isomerism - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79b231e2-38d1-46b1-90a6-d4cdc253004d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 48 || Isomerism - 21",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/WekwxaguGOQ",
+      "hd_video_url": "https://www.youtube.com/embed/WekwxaguGOQ",
+      "thumbnail": "https://i.ytimg.com/vi/WekwxaguGOQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Isomerism - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bb0e72e-a7f7-40a5-89be-3e6dd486b79b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 49 || Isomerism - 22",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/6ADd18nqLCY",
+      "hd_video_url": "https://www.youtube.com/embed/6ADd18nqLCY",
+      "thumbnail": "https://i.ytimg.com/vi/6ADd18nqLCY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Isomerism - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34b7ac0a-d94e-4600-a29e-ddc3984e2033.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 50 || Isomerism - 23",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gyx9763NBVs",
+      "hd_video_url": "https://www.youtube.com/embed/gyx9763NBVs",
+      "thumbnail": "https://i.ytimg.com/vi/gyx9763NBVs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Isomerism - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ab13d75-6a93-4688-86a4-2e567b897553.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

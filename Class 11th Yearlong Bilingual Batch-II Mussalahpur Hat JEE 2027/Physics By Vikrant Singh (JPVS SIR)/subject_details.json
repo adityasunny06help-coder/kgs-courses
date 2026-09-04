@@ -1,0 +1,521 @@
+{
+  "subject_name": "Physics By Vikrant Singh (JPVS SIR)",
+  "subject_id": 7528,
+  "video_count": 38,
+  "note_count": 34,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Mathematical Tools - 1",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YhWMBsda7KY",
+      "hd_video_url": "https://www.youtube.com/embed/YhWMBsda7KY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/asknr4yWGJb40bb2tt7sfiKogxgehP0DZnoVU2lU.jpg",
+      "notes": [
+        {
+          "title": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66dcf091-e63b-4c3d-bcad-1e2d44e62567.pdf",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66dcf091-e63b-4c3d-bcad-1e2d44e62567.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Mathematical Tools - 2",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/F1HnKUfa-zE",
+      "hd_video_url": "https://www.youtube.com/embed/F1HnKUfa-zE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GobmuhNVmDwKOtbe7BMHTMr0E0naMcW6y5wEznih.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Mathematical Tools - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab674ea2-f2c4-4f9e-9000-8db0dc2bbd95.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Mathematical Tools - 3",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YSFfIAjlRBw",
+      "hd_video_url": "https://www.youtube.com/embed/YSFfIAjlRBw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8b3gqTHQJrDdLqnfVmHRqeVXBocRU4NOoAF0Kup0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Mathematical Tools - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e130a49e-df7b-4c3d-8510-15f9f53cd854.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Mathematical Tools - 4",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mfnaHW3H3-U",
+      "hd_video_url": "https://www.youtube.com/embed/mfnaHW3H3-U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ESSUH857P9l3eidIwU3I8B5UFgJgNlgEbpD1OPeJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Mathematical Tools - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ec060ab-f1c3-4d19-aa04-94c5eb7de900.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Mathematical Tools - 5",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/4eTFi7ZaHN4",
+      "hd_video_url": "https://www.youtube.com/embed/4eTFi7ZaHN4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/s25eQV7bwFDvMAuzD85JU3RMpWHedxVT8TH0tXhl.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Mathematical Tools - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ea5ab50-4791-4a7c-a3e3-acff27654a6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Mathematical Tools - 6",
+      "published_date": "08 Jul 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4wolbaAAosy9WmjX3BdlYVBguacHVtsaw5eylUSH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Mathematical Tools - 7",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mq-CiNE1EG0",
+      "hd_video_url": "https://www.youtube.com/embed/mq-CiNE1EG0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EwKHttRK7SezMdsPKmH7LUH9DxP7djZHMmKVG85W.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Mathematical Tools - 8",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/K6CrM1bhvBM",
+      "hd_video_url": "https://www.youtube.com/embed/K6CrM1bhvBM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QkX269Gyq58aD2SYlMQNARW9YwzcKoMTh33kzjKl.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Mathematical Tools - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e108389-67b4-44f0-aeec-9a8e0c760a96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Mathematical Tools - 9",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/b_AAoGjii40",
+      "hd_video_url": "https://www.youtube.com/embed/b_AAoGjii40",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UvemW6G0L9iKNhFW2LlJ4LorXLIUTfnJ6YRteBT0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Mathematical Tools - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0445ff99-b2df-4b3d-a586-cd9c16cdc80e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Mathematical Tools - 10",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ZAGkL5JuQcQ",
+      "hd_video_url": "https://www.youtube.com/embed/ZAGkL5JuQcQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IUsF5HYJ9TeRoJqSUvlqYHO1MRQ4WpbpZIOX9TYQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Mathematical Tools - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56e361e5-c559-4c7d-8977-8fe07d955187.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Mathematical Tools -  11",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-I98LBEU0yE",
+      "hd_video_url": "https://www.youtube.com/embed/-I98LBEU0yE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3Mkb1IcshoeFUwI1Pf0JtFADEYHTReXJFuokX2pN.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Mathematical Tools - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/305ebae7-cf6e-4e6b-8e0b-fbec2a5b227d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Mathematical Tools - 12",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/T-jPyTJn4Oo",
+      "hd_video_url": "https://www.youtube.com/embed/T-jPyTJn4Oo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1W4dudtUVPcymlsWRczEkE1hJwFVoVxBK8cbqTSR.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Mathematical Tools - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10865c1f-c15c-4515-ae6d-aed4d23881fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Vector - 1",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/pXGp5eQVCys",
+      "hd_video_url": "https://www.youtube.com/embed/pXGp5eQVCys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/13rC29rE9OBBl40iaJzXIgihrTHYTLfm4060Suuz.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Vector - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/522cf04f-02e4-447d-a5b7-9c6214fd3a26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Vector - 2",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/m05UE2SMqu4",
+      "hd_video_url": "https://www.youtube.com/embed/m05UE2SMqu4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/t8czcum8dW2Lv3ejnKdSH9svZRpZRy6vV550LHiZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Vector - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a3e659d-fae3-44b5-98f9-e6e98bdad881.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Vector - 3",
+      "published_date": "19 Jul 2025",
+      "video_url": "www.youtube.com/embed/rG2an9oAZRk",
+      "hd_video_url": "www.youtube.com/embed/rG2an9oAZRk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SO6MGA4BSP8yaxKDW50F2eEbQO9MEYPV5AoPbMt8.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Vector - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5a41be2-a4d1-49f6-8f8c-a2895a74b331.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Vector-4",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9bpJTvvbRKk",
+      "hd_video_url": "https://www.youtube.com/embed/9bpJTvvbRKk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SHStjZ7WYVz3gXvjcI6FDccO1TgxuDSXOqCiz4IQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Vector-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fb77022-089b-4743-9f22-c360eed7e1e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Vector-5",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E2FIl1_4jkA",
+      "hd_video_url": "https://www.youtube.com/embed/E2FIl1_4jkA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yfpqZwPfNYttCKuU8JEgBkSLBGwL8hgSF8Ri3kO9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Vector-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90505f3c-7ec6-4246-8a13-90cca23bd8b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Vector-6",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/tyHqUGRqnD0",
+      "hd_video_url": "https://www.youtube.com/embed/tyHqUGRqnD0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/W24FxQbtH6wkGyZjDLdGpcGgweJBWzeiZiTl5wPC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Vector-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/846f1e50-beeb-4cb0-a8c1-a8e7156978f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Vector-7",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/3DUufGyScXo",
+      "hd_video_url": "https://www.youtube.com/embed/3DUufGyScXo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5C123d5GbBqwDqQJE6HCurUFMmw6RZcEhIazWLzQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Vector-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42ea03cf-a5f4-44af-8459-a7e43f9152af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Vector - 8",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kjf5hDC4sTc",
+      "hd_video_url": "https://www.youtube.com/embed/kjf5hDC4sTc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dpQhHGTFjjV5yk6qnzIpLW8EsHakvTNkcsHSiJdA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Vector - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b4fa584-0545-4a22-bbb2-2d97aa8651a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Doubt Session",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/w84R99UW5ow",
+      "hd_video_url": "https://www.youtube.com/embed/w84R99UW5ow",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4NzKUXY2ofrY18rmT86Fe2yTH4BhHsVSsXafwWK3.jpg",
+      "notes": [
+        {
+          "title": "Doubt Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20eaad83-7daf-4ef5-ac4a-b120d87a51e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 21 || Vector - 9",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/FJekLWfwOnA",
+      "hd_video_url": "https://www.youtube.com/embed/FJekLWfwOnA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/STMwlVb2aYw3NZ2VjVzu2CyRHu7v6hm5SCbGH5oX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Vector - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a0de412-14aa-4b1b-bd6e-ea21cc30dd49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 22 || Vector - 10",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Rb9LRdjT7vI",
+      "hd_video_url": "https://www.youtube.com/embed/Rb9LRdjT7vI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QQgZISewjcyCSmRokX7V2ZzSpfzYVPcd19TNRtKD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Vector - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d787da47-2aca-47d2-83e1-be373fee0926.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 23 || Vector - 11",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BYdXaxuU6II",
+      "hd_video_url": "https://www.youtube.com/embed/BYdXaxuU6II",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tbwf4tTOmNEcThD3ZObrMoJh0192bbQH2VUZcGW7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Vector - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28913217-9993-424c-8e73-f4613cda214a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 24 || Motion in Straight Line- 1",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/uc03acMSBnc",
+      "hd_video_url": "https://www.youtube.com/embed/uc03acMSBnc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Jh3Ub6AlH4K6WULTkxixZkQmn3yVZ0jGX3y8DAch.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Motion in Straight Line- 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/623d5934-e6fd-46b0-b43e-9cdeb9a330a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 25 || Motion in Straight Line- 2",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/hqAejL8ZpxY",
+      "hd_video_url": "https://www.youtube.com/embed/hqAejL8ZpxY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cvC9ibpev7dinvkrVPsTwzpGcemrV0yXZYgD14J1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Motion in Straight Line- 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed1a983a-ce50-4b65-9322-e401f9de7f70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 26 || Motion in Straight Line- 3",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/R9519wM5-ZA",
+      "hd_video_url": "https://www.youtube.com/embed/R9519wM5-ZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SWda2rNUNczNX15U9vrDJF4IfeJ9bsbF0zZ9Talk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Motion in Straight Line- 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e3e26d7-1d4d-4216-bf36-3987c512e0dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 27 || Motion in Straight Line- 4",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BXAcPfthJIc",
+      "hd_video_url": "https://www.youtube.com/embed/BXAcPfthJIc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U60DHnD0rZ4hDkCasyZOiDpmmlMGbIx3yY7ZcVY3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Motion in Straight Line- 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97936907-653e-4d80-b88f-d603f1f21c97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 28 || Motion in Straight Line- 5",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gRe1rVVTlY8",
+      "hd_video_url": "https://www.youtube.com/embed/gRe1rVVTlY8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S4le1hDvih6XER5N8krQSGAXNy5XMCkAlQyeyTdx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Motion in Straight Line- 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ebff7e4-241b-4b85-9d6f-aa8c6da16c1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 29 || Motion in Straight Line- 6",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/56xq8qqYR2w",
+      "hd_video_url": "https://www.youtube.com/embed/56xq8qqYR2w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I5kkJa0iMepAnt21MCZZ87bcSwcJlOfVPYuZBn1h.jpg",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 30 || Motion in Straight Line- 7",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/27mCQRQgQmk",
+      "hd_video_url": "https://www.youtube.com/embed/27mCQRQgQmk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5xCnOQmvdUlEyUgt3jMUvWDJDuiin9uck5OBvyq6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Motion in Straight Line- 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c84c860-c4db-4f27-8be6-72710870b406.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 31 || Motion in Straight Line- 8",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gXFPu6Hq9us",
+      "hd_video_url": "https://www.youtube.com/embed/gXFPu6Hq9us",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SzJQFgCgS1GTxNO9sHULtgnMiJwB604zUDIXZIbX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Motion in Straight Line- 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d70b2ea3-ce2e-4935-860c-805781072899.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 32 || Motion in Straight Line- 9",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BE4tNDpAyTs",
+      "hd_video_url": "https://www.youtube.com/embed/BE4tNDpAyTs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OXx61l21DVGx06FOV5J8xiJRb7G4WptA10hZpiz3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Motion in Straight Line- 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f58678e-c8eb-4b23-9947-1401a6c54e46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 33 || Motion in Straight Line- 10",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/v7GmAxdgy5A",
+      "hd_video_url": "https://www.youtube.com/embed/v7GmAxdgy5A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2BSuQMjiIgOjZjg4qr4wxrKOvBYwcyXPYeONJ0T1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Motion in Straight Line- 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/beb3e61c-bc2f-4176-8a4b-19252a6ce61f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 34 || Motion in Straight Line- 11",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/d9XIzLYbeGU",
+      "hd_video_url": "https://www.youtube.com/embed/d9XIzLYbeGU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/283vWpA2f9NHkd750eiS6cJCq2jKLnl79xcOK6Be.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Motion in Straight Line- 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53074261-01d9-424b-b387-b8d885f61f5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 35 || Motion in Straight Line- 12",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/oe-ypBF6Las",
+      "hd_video_url": "https://www.youtube.com/embed/oe-ypBF6Las",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ry4vvVuXdNvG7C0JFHTAdMKy6Z88AsTBdY2MJiRo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Motion in Straight Line- 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/521a9d0b-da96-4ced-a52a-e5cf1bef0492.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 36 || Motion in Straight Line- 13",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/u0qZSuutG-Y",
+      "hd_video_url": "https://www.youtube.com/embed/u0qZSuutG-Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Poz5zBsVOL8r7CyFSroadu47IcZmILTkvY7VAcpW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Motion in Straight Line- 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4dcd091-a26c-46b9-8504-28d627c7f7b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 37 || Motion in Straight Line- 14",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NvhdbmLPQ0U",
+      "hd_video_url": "https://www.youtube.com/embed/NvhdbmLPQ0U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iqNhG5ehQkRzlRiSIiVEqgksap0HqGszLYbziIUP.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

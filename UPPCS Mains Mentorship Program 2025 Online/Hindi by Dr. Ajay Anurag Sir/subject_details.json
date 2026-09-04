@@ -1,0 +1,93 @@
+{
+  "subject_name": "Hindi by Dr. Ajay Anurag Sir",
+  "subject_id": 6736,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || गद्यांश (Part-01)",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248262/kgss-1747030703-v248262.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F_NNag0iQ74",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hkF9Uxo5BjZJvGBh35ItuF1A3GVmAxVA4f3GPjmo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96009fe7-6113-45e6-ad93-3b6b2978ec0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || गद्यांश (Part-02)",
+      "published_date": "13 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248577/kgss-1747117662-v248577.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Soh8CRhm0RE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4kJOpMeWAPWPsrkae2kSNCdPQr1blsxuL5zQbHjG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b65dfea3-6dcc-48a9-9214-ff940ef5a050.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || पत्र लेखन",
+      "published_date": "14 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/250848/kgss-1747203373-v250848.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wp69thp0YuY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/k0dCdCJ1xMm5M0QUICIPiItXT45mMFh9ybMlPomv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6e1fb10-6fba-430a-a3b8-64575a67f907.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || अधिसूचना",
+      "published_date": "15 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/252334/kgss-1747290297-v252334.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D-f51oNKF8A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OfDM8zPiniJIMrJZ5dv6XY3aJtD87gGj95LLoXPV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05e7a3fb-6904-4e88-b66d-8a89f016650d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || पृष्ठांकन",
+      "published_date": "16 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/255474/kgss-1747376171-v255474.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/slo82hntrP4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wlHXWXy6ZRtrLYAnIQcLGrnRrM3qOZ7jIIY03S1P.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a151eadf-2f0c-422e-9245-2cee24c76846.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || उपसर्ग एवं प्रत्यय",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/iEUlN-lgvHc",
+      "hd_video_url": "https://www.youtube.com/embed/iEUlN-lgvHc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eODwplAFIxU9sBiZONiYPo6wHN2GU9qokRCnEdad.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Hindi by Ajay Anurag Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39b6fef5-8b52-4bd0-a1ac-9f95d4e9d7b2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

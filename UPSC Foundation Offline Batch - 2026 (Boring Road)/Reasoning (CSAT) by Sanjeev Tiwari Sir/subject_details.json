@@ -1,0 +1,93 @@
+{
+  "subject_name": "Reasoning (CSAT) by Sanjeev Tiwari Sir",
+  "subject_id": 7071,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Comprehension",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/UBv7qwtc38w",
+      "hd_video_url": "https://www.youtube.com/embed/UBv7qwtc38w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Reasoning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4bc42d5-2add-4339-bbf8-0da1ccfacba7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Comprehension",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/lGEwvQKXGbw",
+      "hd_video_url": "https://www.youtube.com/embed/lGEwvQKXGbw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Comprehension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bdee9f9-bb0a-48eb-8151-e0278c3261ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Comprehension",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/80G7oKDxfUI",
+      "hd_video_url": "https://www.youtube.com/embed/80G7oKDxfUI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Comprehension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b12dbd21-138d-4039-b16b-6d042bcf599b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Comprehension",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/jV3ZA7xHJC4",
+      "hd_video_url": "https://www.youtube.com/embed/jV3ZA7xHJC4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Statement and Arguments",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ebac785-0878-4363-9e97-7054b88e8026.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Comprehension",
+      "published_date": "30 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/265823/kgss-1748572390-v265823.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wlYpL1uUXr0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Comprehension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb992b72-9882-449e-92d6-968c360a602f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Comprehension",
+      "published_date": "31 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/266066/kgss-1748657840-v266066.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8O9W7qLTiYo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-33 || Comprehension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/59fdc451-8341-4b62-8db9-2761bd1718bb.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

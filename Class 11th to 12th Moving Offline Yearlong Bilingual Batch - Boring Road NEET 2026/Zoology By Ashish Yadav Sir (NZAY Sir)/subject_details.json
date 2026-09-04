@@ -1,0 +1,843 @@
+{
+  "subject_name": "Zoology By Ashish Yadav Sir (NZAY Sir)",
+  "subject_id": 5173,
+  "video_count": 61,
+  "note_count": 57,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Human Reproduction - 1",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/E8_n1Ak3zec",
+      "hd_video_url": "https://www.youtube.com/embed/E8_n1Ak3zec",
+      "thumbnail": "https://i.ytimg.com/vi/E8_n1Ak3zec/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Human Reproduction - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf7ead5a-277a-42dd-b8aa-f65937fa45f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 ||  Human Reproduction - 2",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Bgl5eUC_70g",
+      "hd_video_url": "https://www.youtube.com/embed/Bgl5eUC_70g",
+      "thumbnail": "https://i.ytimg.com/vi/Bgl5eUC_70g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 ||  Human Reproduction - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f95d6c95-1b92-46b3-a981-cb2634d2fc28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Human Reproduction - 3",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/PjFbF35lq4g",
+      "hd_video_url": "https://www.youtube.com/embed/PjFbF35lq4g",
+      "thumbnail": "https://i.ytimg.com/vi/PjFbF35lq4g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Human Reproduction - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18b4dd90-375a-4af6-a103-b217ca9dc6ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Human Reproduction - 4",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/q7ZgqQpAzUc",
+      "hd_video_url": "https://www.youtube.com/embed/q7ZgqQpAzUc",
+      "thumbnail": "https://i.ytimg.com/vi/q7ZgqQpAzUc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Human Reproduction - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28d5abff-85e1-471e-8f62-50b2ab5ddaa1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Human Reproduction - 5",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BMtv2Q9hUKg",
+      "hd_video_url": "https://www.youtube.com/embed/BMtv2Q9hUKg",
+      "thumbnail": "https://i.ytimg.com/vi/BMtv2Q9hUKg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Human Reproduction - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee98da9d-65a2-47fe-bd15-a05b11b8a369.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 1 || Human Reproduction -1",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8mzahbXQUzw",
+      "hd_video_url": "https://www.youtube.com/embed/8mzahbXQUzw",
+      "thumbnail": "https://i.ytimg.com/vi/8mzahbXQUzw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Human Reproduction -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c3aa374-88ab-4e72-9533-ea1cf6f8a44f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 2 || Human Reproduction -2",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jfOI9q5Dung",
+      "hd_video_url": "https://www.youtube.com/embed/jfOI9q5Dung",
+      "thumbnail": "https://i.ytimg.com/vi/jfOI9q5Dung/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Human Reproduction - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac24da26-605d-4778-a639-897eea1abd51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 3 || Human Reproduction -3",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/K0dKEdha0y0",
+      "hd_video_url": "https://www.youtube.com/embed/K0dKEdha0y0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051722524f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Human Reproduction - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d84b5aa4-79bf-49f1-897e-a9cc81a27112.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 4 || Human Reproduction -4",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Bz1oR9kIjo0",
+      "hd_video_url": "https://www.youtube.com/embed/Bz1oR9kIjo0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051719d474.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Human Reproduction -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae580c62-de3c-40da-9f45-5bf0c4385c5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 5 || Human Reproduction - 5",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ap8djtEV5Wk",
+      "hd_video_url": "https://www.youtube.com/embed/ap8djtEV5Wk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/csYQCxYi5nNq7e9oXbeC5MQVIPkmr86QoztEMBdg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Human Reproduction - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53325f20-7305-4441-9ef5-9bd187da2e5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 6 || Human Reproduction - 6",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SF3RvpGMUPY",
+      "hd_video_url": "https://www.youtube.com/embed/SF3RvpGMUPY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805170a01f1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Human Reproduction - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c9d45c0-b3e4-4173-866a-d15b4f25f8a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 7 || Human Reproduction - 7",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/kmNBf4GzsYM",
+      "hd_video_url": "https://www.youtube.com/embed/kmNBf4GzsYM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Oyphqvkhdpm8nH9GanNSC3HtdckUvmxKP1AJJsvt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Human Reproduction - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c0d53b6-815d-4f0c-86f9-52738203e219.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 8 || Human Reproduction - 8",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/bkYBcc3U9uI",
+      "hd_video_url": "https://www.youtube.com/embed/bkYBcc3U9uI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516fe265f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Human Reproduction - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a4e9bfd-e3ab-4e8a-9f15-3910a5ec90e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 9 || Human Reproduction - 9",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8UHaV0R1KdA",
+      "hd_video_url": "https://www.youtube.com/embed/8UHaV0R1KdA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516f66dbc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Human Reproduction - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e671d39c-b964-4c40-b4ee-99f90fc91baf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 10 || Reproductive Health - 1",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/4Kw2hPk9Clg",
+      "hd_video_url": "https://www.youtube.com/embed/4Kw2hPk9Clg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516e5f8d9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || REPRODUCTIVE HEALTH - 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcdc7c28-788a-4ce5-90f8-94db430b09d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 11 || Reproductive Health - 2",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/VfL6cNddqrI",
+      "hd_video_url": "https://www.youtube.com/embed/VfL6cNddqrI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516dd652c.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Reproductive Health - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cefc7465-56db-43c5-849d-2a1588a17bdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 12 || Reproductive Health - 3",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/0UT_YSuv-QE",
+      "hd_video_url": "https://www.youtube.com/embed/0UT_YSuv-QE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516d58a09.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Reproductive Health - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fa56123-f043-4921-91eb-006378d2afc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 13 || Reproductive Health - 4",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/V3vbHy5petg",
+      "hd_video_url": "https://www.youtube.com/embed/V3vbHy5petg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516ccc168.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Reproductive Health - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bc8339f-dc92-4ff6-966e-1dc93a79132d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 14 || Human Health And Disease -1",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/Jp1uI3uYaaQ",
+      "hd_video_url": "https://www.youtube.com/embed/Jp1uI3uYaaQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516c4efc7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Human Health And Disease -01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/339439b8-46c4-4331-a8a0-8ef7425651dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Reproductive Health ( Revision -1 )",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/2hEiOk4iGZs",
+      "hd_video_url": "https://www.youtube.com/embed/2hEiOk4iGZs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516bc0b0f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 15 || Human Health And Disease - 2",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/LPIdVSYkvAw",
+      "hd_video_url": "https://www.youtube.com/embed/LPIdVSYkvAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516b44f00.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Human Health And Disease - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2da7974-4e4c-40f6-9ecf-f87857c5def4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 16 || Human Health And Disease - 3",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/UEG8lt22Qas",
+      "hd_video_url": "https://www.youtube.com/embed/UEG8lt22Qas",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w1Yqo9ZL4lWeMZexmLIWnhvsfYSlRrlrfI5ewDkD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Human Health And Disease -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea78dd15-2289-4d44-b188-360a958b0918.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 17 || Human Health And Disease - 4",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/VDt22CkHXU8",
+      "hd_video_url": "https://www.youtube.com/embed/VDt22CkHXU8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516a855f0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Human Health And Disease - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb0698eb-b11a-4cba-b0ad-d0fead283949.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 18 || Human Health And Disease - 5",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/a5wesjIgYrc",
+      "hd_video_url": "https://www.youtube.com/embed/a5wesjIgYrc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880516a067c3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Human Health And Disease - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/677865ac-1574-4060-8ade-1ccb6dee29bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 19 || Human Health And Disease - 6",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/A8DotGCCIwQ",
+      "hd_video_url": "https://www.youtube.com/embed/A8DotGCCIwQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051697acdd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Human Health And Disease -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04fc2b8d-599f-4203-95e5-5777018621d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Human Health And Disease ( Revision -2 )",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/HmfvyNZsgvA",
+      "hd_video_url": "https://www.youtube.com/embed/HmfvyNZsgvA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805168bd4eb.jpg",
+      "notes": [
+        {
+          "title": "Human Health And Disease ( Revision -2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eae0e18-e5ba-4420-a490-9adc45eaa11f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Human Health And Disease ( Revision -3 )",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/uhR9V7cws-w",
+      "hd_video_url": "https://www.youtube.com/embed/uhR9V7cws-w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Uv2foBYoacBr3yuOlqq4MqFDRu3mXniFDY5MAmzw.jpg",
+      "notes": [
+        {
+          "title": "Human Health And Disease ( Revision -3 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89a3d52f-30ce-480d-b82b-989caa9496e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 20 || Human Health And Disease -7",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jRMDZi3wCj0",
+      "hd_video_url": "https://www.youtube.com/embed/jRMDZi3wCj0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nIFnETawd7iAlYoaFpDPxviQfgDcV6ysaZfiSvsP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Human Health And Disease -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/839855d4-c6c3-4c70-a3ea-bd02bc9a7c1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 21 || Biotechnology - Principles & Processes -1",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Ah21dq4312Q",
+      "hd_video_url": "https://www.youtube.com/embed/Ah21dq4312Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/62ldAFQnYEcp1Qlf5Vcb9h6ppOyuQaWrrpmVqkPe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Biotechnology - Principles & Processes -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce20d9c6-26a1-4226-91f7-b470cf765905.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 22 || Biotechnology - Principles & Processes -2",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/rzvvG3fdgtI",
+      "hd_video_url": "https://www.youtube.com/embed/rzvvG3fdgtI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0X6AWee30SHb8N27deORKU57gr6IypOsHJnLuri3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Biotechnology - Principles & Processes -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67a878e4-ca7a-4dff-8bb0-879c53745d11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 23 || Biotechnology - Principles & Processes -3",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/r6jMeicsOuU",
+      "hd_video_url": "https://www.youtube.com/embed/r6jMeicsOuU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5bsoldrpVAnvPaxgP8N7DtlX9XhbBloxkG0OJ1c5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Biotechnology - Principles & Processes -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d58ca2e-bdf9-4b5d-90f5-9a8519cd01d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 24 || Biotechnology - Principles & Processes -4",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ZOYCOXf8c1c",
+      "hd_video_url": "https://www.youtube.com/embed/ZOYCOXf8c1c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0R8rbBdIBhfACCpQseiPLDmOdUI7B3610QBYJogT.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Biotechnology - Principles & Processes -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88d87ab7-539a-4a57-b80f-289cdbc130d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 25 || Biotechnology - Principles & Processes -5",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KbIWCPxebr0",
+      "hd_video_url": "https://www.youtube.com/embed/KbIWCPxebr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zkbhtr92CJt019tlHOgHsGqmvDssQ6P0WgkqmoSL.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Biotechnology - Principles & Processes -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8141bb1c-51cc-4ed7-8591-2bef96ea43c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 26 || Biotechnology - Principles & Processes -6",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OoJUAT-my1w",
+      "hd_video_url": "https://www.youtube.com/embed/OoJUAT-my1w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Wo0O09XGnCw5FzcjVEalrffAkhRMSx9R7dZ5vUq5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Biotechnology - Principles & Processes -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f473f494-36f7-4c09-8bca-ab7e16f18471.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 27 || Biotechnology - Principles & Processes -7",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/HK2RehIXFGc",
+      "hd_video_url": "https://www.youtube.com/embed/HK2RehIXFGc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3LOrbTF92E1ainaYfeBV7q3gKJ8lirzzBQEsxHYO.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Biotechnology - Principles & Processes -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/002bd25b-5e97-4311-b813-e50510c5f616.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 28 || Biotechnology - Principles & Processes -8",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KlSstcADU0g",
+      "hd_video_url": "https://www.youtube.com/embed/KlSstcADU0g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/awpVxBD9vNeUdPuJejJYlHbx8bfnJLkXpRi2wrrp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Biotechnology - Principles & Processes -8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1846a7e9-0823-4be5-a45a-fc9551dda848.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 29 || Biotechnology and its application -1",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/IsL6AVIUST0",
+      "hd_video_url": "https://www.youtube.com/embed/IsL6AVIUST0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vY3LujlX6ZXZhnvm0ra3ruTEWFa1C70rNmA5WevC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Biotechnology and its application -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7bfc610-9c01-4e1a-b8b2-e4041362086d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 30 || Biotechnology and its application -2",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/fSkutHN9Fzw",
+      "hd_video_url": "https://www.youtube.com/embed/fSkutHN9Fzw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MPKujvAyPU7dD7cNhnwkeQgVp5xrhnsb1ZtnR0bN.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Biotechnology and its application -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/526b75e4-f7f7-4c20-8baf-00ba7c64c8a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 31 || Biotechnology and its application - 3",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/1Wxc_qv5kJY",
+      "hd_video_url": "https://www.youtube.com/embed/1Wxc_qv5kJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9WTafY41BIyKBisKTi9zFLpoZtkwtzopVoBJcxHo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Biotechnology and its application - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ed0a268-2f31-45cd-93f5-10c5fc7f1a63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 32 || Biotechnology and its application - 4",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/41rW79t6dNU",
+      "hd_video_url": "https://www.youtube.com/embed/41rW79t6dNU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xlNgDLvQPqmAAMTcyWTQgZdJ1ceGLsj3s0ulDt5d.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Biotechnology and its application - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce881fc9-f535-4fbf-adc0-0717bbff1750.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 33 || Biotechnology and its application - 5",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/abRrbu2JhDg",
+      "hd_video_url": "https://www.youtube.com/embed/abRrbu2JhDg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JwUOYpk8kRauPfV3nO6Hcs0DcmeKTLWmMGGZ6E3P.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Biotechnology and its application - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d96c8506-e118-4adc-b834-da2b55aa6ca1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 34 || Evolution - 1",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lR6_rF37U48",
+      "hd_video_url": "https://www.youtube.com/embed/lR6_rF37U48",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kpDVQ4jMLmPVAIU0nE9nJ5bWHs1SdIoExnkvMMhb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Evolution - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec27ae20-25d6-48ec-952c-6fc05984a717.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 35 || Evolution - 2",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KUbnXCcxuWI",
+      "hd_video_url": "https://www.youtube.com/embed/KUbnXCcxuWI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ie1Jih9MSsQXUYOqzxQUmysLvWYJfsvjTSyrcgU6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Evolution - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fadb671-cb98-4ecf-8b11-2b86a45ef30b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 36 || Evolution - 3",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/OIuIKEhjxcE",
+      "hd_video_url": "https://www.youtube.com/embed/OIuIKEhjxcE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sfeMnmwXsyly3H9ATwF4fkMGb2hdi9LATbxW2qWI.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Evolution - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a103958d-ff02-487a-b7e0-41d6d51c996e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 37 || Evolution - 4",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/1tj0Br4BGAk",
+      "hd_video_url": "https://www.youtube.com/embed/1tj0Br4BGAk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3acgQfiHAXiAMcN8zgO4ylrhS9P6XQ0vkywoOYdJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Evolution - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb31134f-ba65-4e3e-b3d5-2eb578050011.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 38 || Evolution - 5",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/2nFUZ776XDA",
+      "hd_video_url": "https://www.youtube.com/embed/2nFUZ776XDA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YDbWYlWyL0Hwz2Nji7RG49FZ0psf9uq0KPfjwnG5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Evolution - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b311ad27-e683-4807-9450-fb9b925d97ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Human Health And Disease ( Revision -4 )",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/JdoV6r-o_dU",
+      "hd_video_url": "https://www.youtube.com/embed/JdoV6r-o_dU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NeRRccqT7z6P4ZXxvn0Fe4nieitHrR8tcFV0pIky.jpg",
+      "notes": [
+        {
+          "title": "Human Health And Disease ( Revision -4 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a409e45d-15b1-4f30-afea-dedef3621bcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Reproductive Health ( Revision -5 )",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VgFFnKL0Tz0",
+      "hd_video_url": "https://www.youtube.com/embed/VgFFnKL0Tz0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rMevehRqDpu19uLcl2Mg72YipMn48gdnhkl4eCVo.jpg",
+      "notes": [
+        {
+          "title": "Reproductive Health ( Revision -5 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc8c1e83-4549-4e16-a2c4-672af965b963.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 39 || Evolution - 6",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Lb8znnGwOmA",
+      "hd_video_url": "https://www.youtube.com/embed/Lb8znnGwOmA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZUI1zRGrk1T6Mn3fhKDaResXjr59V6ni1SQOoh8C.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Evolution - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cb4ccd5-33e4-4e5a-9356-b953ff925eea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 40 || Evolution - 7",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CtMJx3AA2e8",
+      "hd_video_url": "https://www.youtube.com/embed/CtMJx3AA2e8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xVImQsjhvrGSeZarDKgNQr1XC2bvp8TfBi5Losbp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Evolution - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73044e0b-5cb6-433c-b27f-6207b847edcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 41 || Evolution - 8",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/MwSXvRCQCno",
+      "hd_video_url": "https://www.youtube.com/embed/MwSXvRCQCno",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CzEtIGg28hN4pTJX20lWZRylerqgNUZUKNXkHnf1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Evolution - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/551a2bfa-56ff-440d-a283-ee8e0a27417c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 42 || Evolution - 9",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VGdcVOSScG8",
+      "hd_video_url": "https://www.youtube.com/embed/VGdcVOSScG8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tdP70OrIlQJZF1RxU50xFJUva0m59oITbY0EaUFi.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Evolution - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1b35c18-83af-41af-a4bd-abb34ec3d26b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 43 || Evolution - 10",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BFpLMfwF9O0",
+      "hd_video_url": "https://www.youtube.com/embed/BFpLMfwF9O0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g2US1wsoIHz3uzNUUeXBLHUgmAkoUuRZRB00TENf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || Evolution - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53f8a804-a35e-46d2-a128-03f1ca8dd988.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 44 || Evolution - 11",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/meLgwrZDpKY",
+      "hd_video_url": "https://www.youtube.com/embed/meLgwrZDpKY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tX3I6Dm4nZjSyJFRRFA2Alm42xj45yUBwklF0fZb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || Evolution - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5af264b6-d3b7-49a7-a587-b7c35542122b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 45 || Evolution - 12",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jihAY4BTJj4",
+      "hd_video_url": "https://www.youtube.com/embed/jihAY4BTJj4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Aj36fk87bOYtkBoxtdHjXwCGCQyK2YXbbxW4b3Zd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Evolution - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27fd7a03-385e-4efc-9c60-cd1d92ad8bea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Biotechnology ( Revision -6 )",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/-4-hmHcKAAw",
+      "hd_video_url": "https://www.youtube.com/embed/-4-hmHcKAAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9SJj0sVlvRDo1xHCoCV4tUapWAP8qvffJ4B7JZUZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Biotechnology ( Revision -7 )",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Xotit1_0Ngc",
+      "hd_video_url": "https://www.youtube.com/embed/Xotit1_0Ngc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SET3pyUAYoN6tO6JPRlblGi6OpZKEzW9CXutoXo6.jpg",
+      "notes": [
+        {
+          "title": "Biotechnology ( Revision -7 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/236dce05-f46d-4a3f-bdff-2a2d011ff99e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Biotechnology ( Revision -8 )",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YsysOVlKGa8",
+      "hd_video_url": "https://www.youtube.com/embed/YsysOVlKGa8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c3INE9LKAU5B11jf0urgaAe19LMnCc6HmhGrdi20.jpg",
+      "notes": [
+        {
+          "title": "Biotechnology ( Revision -8 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e1aa2f1-1e09-4170-ad9f-61a8fa08336c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Biotechnology ( Revision -9 )",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/-ofi057WT9c",
+      "hd_video_url": "https://www.youtube.com/embed/-ofi057WT9c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n8YBokaDEUMGEhINw46El0GXr2Ygv8M6hTW7PD33.jpg",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Revision -10",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/t90QMP6rQXU",
+      "hd_video_url": "https://www.youtube.com/embed/t90QMP6rQXU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yAZ36BjRLWqKnyBeCLbJjVGaHdb9vc2lyli2oC96.jpg",
+      "notes": [
+        {
+          "title": "Revision -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2cd71e8-9f93-42ee-842c-5d78d5cf367b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Revision -11",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HlHHlWgPreEkJYrV1IIwT0A1y31WK18LpuTexCzs.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "NEET 2025 Mission 300 Days Batch Hindi Medium",
+    "price": "1099",
+    "id": "327",
+    "extracted_date": "2025-08-27T16:22:36.419469"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 2430,
+      "video_count": 10,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Sachin Upadhyay (SSP Sir)",
+      "id": 2432,
+      "video_count": 242,
+      "note_count": 223
+    },
+    {
+      "name": "Chemistry By Gogi sir",
+      "id": 2433,
+      "video_count": 228,
+      "note_count": 226
+    },
+    {
+      "name": "Botany by Krati Chaturvedi Ma'am (KC Ma'am)",
+      "id": 2435,
+      "video_count": 135,
+      "note_count": 135
+    },
+    {
+      "name": "Zoology By Shashank Yadav (Sapiens Sir)",
+      "id": 2436,
+      "video_count": 155,
+      "note_count": 155
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 2577,
+      "video_count": 63,
+      "note_count": 36
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 2578,
+      "video_count": 7,
+      "note_count": 5
+    },
+    {
+      "name": "Botany Supporting Material",
+      "id": 2579,
+      "video_count": 3,
+      "note_count": 2
+    },
+    {
+      "name": "Zoology Supporting Material",
+      "id": 2580,
+      "video_count": 3,
+      "note_count": 3
+    },
+    {
+      "name": "Test Paper and Solutions",
+      "id": 2684,
+      "video_count": 3,
+      "note_count": 3
+    }
+  ]
+}

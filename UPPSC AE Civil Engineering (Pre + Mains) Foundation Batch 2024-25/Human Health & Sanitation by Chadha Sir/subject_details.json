@@ -1,0 +1,121 @@
+{
+  "subject_name": "Human Health & Sanitation by Chadha Sir",
+  "subject_id": 5795,
+  "video_count": 8,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/pE-DJQdJM_M",
+      "hd_video_url": "https://www.youtube.com/embed/pE-DJQdJM_M",
+      "thumbnail": "https://i.ytimg.com/vi/pE-DJQdJM_M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/976df734-1b84-4b4c-8178-a24837c0c6c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Human Health",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cRbn1J4-kmY",
+      "hd_video_url": "https://www.youtube.com/embed/cRbn1J4-kmY",
+      "thumbnail": "https://i.ytimg.com/vi/cRbn1J4-kmY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Human Health",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7c57e42-afec-4b4b-9b19-1a98ea753257.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Personal Hygiene",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/hzqVYFf7xBM",
+      "hd_video_url": "https://www.youtube.com/embed/hzqVYFf7xBM",
+      "thumbnail": "https://i.ytimg.com/vi/hzqVYFf7xBM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Personal Hygiene",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1151f09e-9a89-455d-8ec3-60df3276514a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Environmental Sanitation",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/LZo4A2i8ZAw",
+      "hd_video_url": "https://www.youtube.com/embed/LZo4A2i8ZAw",
+      "thumbnail": "https://i.ytimg.com/vi/LZo4A2i8ZAw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Environmental Sanitation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a754b6f6-c8b0-4463-84ab-38b412b34a8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Food Hygiene & safety",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/BETwsT4DK9s",
+      "hd_video_url": "https://www.youtube.com/embed/BETwsT4DK9s",
+      "thumbnail": "https://i.ytimg.com/vi/BETwsT4DK9s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Food Hygiene & safety",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c36d733c-438a-4433-a804-04339d96df7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Water, Sanitation & Hygiene Practices",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/9ox7KRnemIc",
+      "hd_video_url": "https://www.youtube.com/embed/9ox7KRnemIc",
+      "thumbnail": "https://i.ytimg.com/vi/9ox7KRnemIc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Water, Sanitation & Hygiene Practices",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37408a20-460d-44f4-bdb7-dd6b0fa51f66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Infectious Diseases & Sanitation",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wyeUzCB_jSQ",
+      "hd_video_url": "https://www.youtube.com/embed/wyeUzCB_jSQ",
+      "thumbnail": "https://i.ytimg.com/vi/wyeUzCB_jSQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Infectious Diseases & Sanitation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65b85c1d-4bfc-4c80-bdb0-ffd7040c421e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Waste Management & Public Health",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/jgzRh66k1mw",
+      "hd_video_url": "https://www.youtube.com/embed/jgzRh66k1mw",
+      "thumbnail": "https://i.ytimg.com/vi/jgzRh66k1mw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Waste Management & Public Health",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43382b79-854d-41bb-b9bb-0b253f872cef.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

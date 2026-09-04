@@ -1,0 +1,23 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 3145,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Mathematics",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ozqXW4gStKo",
+      "hd_video_url": "https://www.youtube.com/embed/ozqXW4gStKo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L-01 || Introduction of Mathematics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8221895d-d739-4fd1-a11d-e0d9cc41bd7e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

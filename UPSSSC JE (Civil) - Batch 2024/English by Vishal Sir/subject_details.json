@@ -1,0 +1,51 @@
+{
+  "subject_name": "English by Vishal Sir",
+  "subject_id": 3801,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction class",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/SRkOfkjvh9w",
+      "hd_video_url": "https://www.youtube.com/embed/SRkOfkjvh9w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oliweAMvzSDhMw6TQKeT6OSQr3X4xDx6S9UDBelz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d7e7958-ef6b-49f8-bad1-9c9b3d459277.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Noun (Part-01)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/_s8dy4Gt5-U",
+      "hd_video_url": "https://www.youtube.com/embed/_s8dy4Gt5-U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hsSDir7i8YhhDbiymmYTZHy3qc9WZX6jYmqhwujT.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Noun (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85d3c9b8-c05e-496b-ae3d-4f96272630ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Noun (Part-02)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/_5lLjpHaJro",
+      "hd_video_url": "https://www.youtube.com/embed/_5lLjpHaJro",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FokHLjadO7Yyf7LpJuzbRiZ7kdYsiAKuLUN5qsPb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Noun (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f36f4f87-42cf-45bb-aaf8-8d80ab943354.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

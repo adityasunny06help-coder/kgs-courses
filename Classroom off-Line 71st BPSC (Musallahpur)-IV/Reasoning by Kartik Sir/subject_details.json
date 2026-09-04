@@ -1,0 +1,32 @@
+{
+  "subject_name": "Reasoning by Kartik Sir",
+  "subject_id": 8439,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ||  Analogy",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/zAtXhz1NFMQ",
+      "hd_video_url": "https://www.youtube.com/embed/zAtXhz1NFMQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sqDt5ZfZP6vXrhJ4DMYw8vJH3GYjYFB12AbrINVS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 ||  Analogy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbf8de61-b462-4704-bf88-35b714e96f4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Classification",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RLI8vJdKutETYktjVysiWh2tWt51q7KoYVwHKpBx.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

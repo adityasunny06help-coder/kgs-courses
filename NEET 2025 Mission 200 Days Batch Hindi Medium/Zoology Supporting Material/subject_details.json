@@ -1,0 +1,37 @@
+{
+  "subject_name": "Zoology Supporting Material",
+  "subject_id": 3429,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "मानव जनन || Flashback : Video Solution",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "hd_video_url": "https://www.youtube.com/embed/pFGYVN-jDcE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - मानव जनन || Flashback : Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c25dd87e-fbb6-4584-a8b5-5616772af593.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "जनन स्वास्थ्य (Flashback)",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/7Z2HFJdtFnE",
+      "hd_video_url": "https://www.youtube.com/embed/7Z2HFJdtFnE",
+      "thumbnail": "https://i.ytimg.com/vi/7Z2HFJdtFnE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes -जनन स्वास्थ्य (Flashback)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a9c5651-e61a-4d93-968b-6ca686e70a14.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

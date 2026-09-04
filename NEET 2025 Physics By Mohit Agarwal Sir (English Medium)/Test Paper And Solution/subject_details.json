@@ -1,0 +1,46 @@
+{
+  "subject_name": "Test Paper And Solution",
+  "subject_id": 2964,
+  "video_count": 3,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "UNIT TEST 1 - Physics Video Solution 1",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/T5XZhRK7AGw",
+      "hd_video_url": "https://www.youtube.com/embed/T5XZhRK7AGw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "UNIT TEST 1 - Physics Video Solution 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2e2cf8d-67e8-42d2-8e6e-a5283ef303d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "PART TEST 1 - Physics Video Solution 2",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/7mpMwG7HXVA",
+      "hd_video_url": "https://www.youtube.com/embed/7mpMwG7HXVA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "UNIT TEST 2 - Physics Video Solution 3",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/FRhdZ_6z_jk",
+      "hd_video_url": "https://www.youtube.com/embed/FRhdZ_6z_jk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "UNIT TEST 2 - Physics Video Solution 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29295c6b-66c9-4fe8-9642-ece67c1e345d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

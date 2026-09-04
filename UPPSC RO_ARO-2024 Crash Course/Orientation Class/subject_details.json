@@ -1,0 +1,65 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 3882,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Reasoning Orientation Class",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131533/kgss-1728967070-v131533.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wuvYywp2_AA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CYmrVRk5HZlTy88LuR2lI1Dghb7NoqVxTwT7rhvO.jpg",
+      "notes": [
+        {
+          "title": "Reasoning Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5abe6b9-a8ea-4e22-8488-e742bb34e9f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Hindi Orientation Class",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131540/kgss-1728986255-v131540.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LJ7sorZ7o1U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Gtj7pJRVxBzLnG7qqUu87r7ER6THAmI83uHaCbhC.jpg",
+      "notes": [
+        {
+          "title": "Hindi Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5949df2-c1be-4083-a094-8bee4e46cbdc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Computer Orientation Class",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131548/kgss-1728986784-v131548.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8-MVvSxUCFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2hWgsuz9KdoCC5g7n6WSVnMTvbglnW70QDGtyuI7.jpg",
+      "notes": [
+        {
+          "title": "Computer Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/572bf15c-f77a-40fb-864b-e16d5b584018.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Geography Orientation Class",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131559/kgss-1728997467-v131559.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/md8LhyWKyWk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OYnLBrj65SU4lfO6Je7Hc492U6c08PU3ACCP3Jli.jpg",
+      "notes": [
+        {
+          "title": "Geography Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2e79243-50c3-42c4-8203-da86a8dde960.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

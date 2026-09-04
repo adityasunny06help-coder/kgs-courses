@@ -1,0 +1,779 @@
+{
+  "subject_name": "Biology by Avinash Sir",
+  "subject_id": 5784,
+  "video_count": 55,
+  "note_count": 55,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introduction Class",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Znwcphc2RHw",
+      "hd_video_url": "https://www.youtube.com/embed/Znwcphc2RHw",
+      "thumbnail": "https://i.ytimg.com/vi/Znwcphc2RHw/default.jpg",
+      "notes": [
+        {
+          "title": "Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15526b72-438d-4407-bd81-5e75cc635a18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 01 || Circulatory System (Heart)-1",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/K8Ilf47sUGo",
+      "hd_video_url": "https://www.youtube.com/embed/K8Ilf47sUGo",
+      "thumbnail": "https://i.ytimg.com/vi/K8Ilf47sUGo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Circulatory System (Heart)-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33c0f58d-c140-4afb-9dcd-c11ed907cda7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 02 || Circulatory System (Heart)-2",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/kTwh9IhDG14",
+      "hd_video_url": "https://www.youtube.com/embed/kTwh9IhDG14",
+      "thumbnail": "https://i.ytimg.com/vi/kTwh9IhDG14/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Circulatory System (Heart)-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4eeb722a-a7df-4051-bc15-e2184a2446ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 03 || Circulatory System (Heart)-3",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7HY2dBmwDhA",
+      "hd_video_url": "https://www.youtube.com/embed/7HY2dBmwDhA",
+      "thumbnail": "https://i.ytimg.com/vi/7HY2dBmwDhA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Circulatory System (Heart)-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/134b2a94-6a34-48a3-8d8a-ad05447293fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 04 || Respiratory System (Lungs)-1",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/z65eInVBgn0",
+      "hd_video_url": "https://www.youtube.com/embed/z65eInVBgn0",
+      "thumbnail": "https://i.ytimg.com/vi/z65eInVBgn0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Respiratory System (Lungs)-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4aae5eb-7ae0-43a4-bb0d-cebb8cb3360c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 05 || Respiratory System (Lungs)-2",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/kHlgttrcL14",
+      "hd_video_url": "https://www.youtube.com/embed/kHlgttrcL14",
+      "thumbnail": "https://i.ytimg.com/vi/kHlgttrcL14/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Respiratory System (Lungs)-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0a446c8-16b4-4be3-9314-e5b4cdf52f52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 06 || Respiratory System (Lungs)-3",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/iGjrLsbwpoE",
+      "hd_video_url": "https://www.youtube.com/embed/iGjrLsbwpoE",
+      "thumbnail": "https://i.ytimg.com/vi/iGjrLsbwpoE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Respiratory System (Lungs)-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ca9d30d-ed88-4a52-8bd8-9ad5e239436a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 07 || Circulatory system(Blood)-1",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/uacl_wSctfo",
+      "hd_video_url": "https://www.youtube.com/embed/uacl_wSctfo",
+      "thumbnail": "https://i.ytimg.com/vi/uacl_wSctfo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Circulatory system(Blood)-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fefcaa2-85d5-45f6-a10e-1eaebcc11afc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 08 || Circulatory system(Blood)-2",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/PPI7AWrV9rI",
+      "hd_video_url": "https://www.youtube.com/embed/PPI7AWrV9rI",
+      "thumbnail": "https://i.ytimg.com/vi/PPI7AWrV9rI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Circulatory system(Blood)-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/825f4abf-eb2a-4611-90dc-432c1de54200.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 09 || Circulatory system(Blood)-3",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/c9toFSJ-6sM",
+      "hd_video_url": "https://www.youtube.com/embed/c9toFSJ-6sM",
+      "thumbnail": "https://i.ytimg.com/vi/c9toFSJ-6sM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Circulatory system(Blood)-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dcb3076-04a9-4bc2-82b6-d002f65b097c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 10 || Circulatory system(Blood)-4",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/gT-NSsET_NI",
+      "hd_video_url": "https://www.youtube.com/embed/gT-NSsET_NI",
+      "thumbnail": "https://i.ytimg.com/vi/gT-NSsET_NI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Circulatory system(Blood)-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21746e40-ec2c-442b-814f-417e6316f3ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 11 || Circulatory system(Blood)-5",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/POXOgLE2wlM",
+      "hd_video_url": "https://www.youtube.com/embed/POXOgLE2wlM",
+      "thumbnail": "https://i.ytimg.com/vi/POXOgLE2wlM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 ||Circulatory system(Blood)-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c641c80c-c687-4de9-8c34-b6e540aa174f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 12 || Digestive system 1",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/kM4cH456T4E",
+      "hd_video_url": "https://www.youtube.com/embed/kM4cH456T4E",
+      "thumbnail": "https://i.ytimg.com/vi/kM4cH456T4E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Digestive system 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21e43d98-9bb2-49e9-a2dc-5b770524912d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 13 || Digestive system 2",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/nn_YR_TsFes",
+      "hd_video_url": "https://www.youtube.com/embed/nn_YR_TsFes",
+      "thumbnail": "https://i.ytimg.com/vi/nn_YR_TsFes/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Digestive system 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f700ce7-506d-4906-8b92-f3a4b2f94d71.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 14 || Digestive system 3",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Uml2049Sgrw",
+      "hd_video_url": "https://www.youtube.com/embed/Uml2049Sgrw",
+      "thumbnail": "https://i.ytimg.com/vi/Uml2049Sgrw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Digestive system 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cb44faf-1fe8-43f0-b136-a566c28d1093.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 15 || Excretory System 1",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QCKXUqf94aE",
+      "hd_video_url": "https://www.youtube.com/embed/QCKXUqf94aE",
+      "thumbnail": "https://i.ytimg.com/vi/QCKXUqf94aE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Excretory System 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e88abd67-7f42-4413-9815-723a43f0d5d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 16 || Excretory System 2",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/MXaIRJP6ctA",
+      "hd_video_url": "https://www.youtube.com/embed/MXaIRJP6ctA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tF7yd9qTVdwmPQLaNLVs15eoVer4ykUABCLz23j4.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Excretory System 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c249ed51-7ca4-457e-8e93-779ee7e02409.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 17 || Excretory System 3",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/FpHLawrVdPA",
+      "hd_video_url": "https://www.youtube.com/embed/FpHLawrVdPA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Je0E6cCpeFHrYCbwuceP67jJBVDZbSYgzXncfBG1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Excretory System 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6e0537a-f182-4fb5-850e-4f55e9c9e826.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 18 || Cells and Tissues-1",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/UEDa44HFsW0",
+      "hd_video_url": "https://www.youtube.com/embed/UEDa44HFsW0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5O5X9Sv2nXivwilNzPZto7Pm2pw6kB4RuTV8hSJs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Cells and Tissues-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/310d1ecf-4d00-4ffa-b1ae-deaf9ab85630.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 19 || Cells and Tissues-2",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/j15_Y3iFkuo",
+      "hd_video_url": "https://www.youtube.com/embed/j15_Y3iFkuo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4YSltMIANlwXxrJV0FoggyUhjkFTVzp17FuX86y6.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Cells and Tissues-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b076aba6-74ce-4f0a-8de7-d61b51301ebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 20 || Cells and Tissues-3",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/BaWZh06Zy4k",
+      "hd_video_url": "https://www.youtube.com/embed/BaWZh06Zy4k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/533loHuGh1mHmSOnVGd8jIV9difNKPoswkbIzVUg.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Cells and Tissues-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5838b54-b5f6-4cb9-9174-3eb0baaaaa14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 21 || Cells and Tissues-4",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/f8FsXwalQJY",
+      "hd_video_url": "https://www.youtube.com/embed/f8FsXwalQJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ds7ffPAcWWBgs5lGnGyWY7V0QQqAVIY8ie4XNcD3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Cells and Tissues-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12c5a589-da35-4e3f-9355-5d4080ce466a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 22 || Cells and Tissues-5",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/lYzK68Rly1A",
+      "hd_video_url": "https://www.youtube.com/embed/lYzK68Rly1A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/A712T8CE2jhvdxYng9as3fIsDnOzdeb8sfvvibHA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Cells and Tissues-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddf1ae3e-9d1f-41ad-88e3-fa3ba2d6be35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 23 || Skeletal System-1",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/P-SB7m8ODXQ",
+      "hd_video_url": "https://www.youtube.com/embed/P-SB7m8ODXQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oLG8eNwwbEVaDMxbPp8DVimI5RvLDU8oXNRjFdSx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Skeletal System-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5478ce68-0205-4022-ad60-ebd063a51697.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 24 || Skeletal System-2",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/bAFDYuqioXU",
+      "hd_video_url": "https://www.youtube.com/embed/bAFDYuqioXU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nqN8yddfvCuyyMD4HJEwVX5pIsJQ5Yu3jrfFojvQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Skeletal System-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cde2fb36-8fef-4312-9dd9-17cd5a927121.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 25 || Skeletal System-3",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/4jrPx8mcTxg",
+      "hd_video_url": "https://www.youtube.com/embed/4jrPx8mcTxg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9vJhiO3h4LOFB4ENUOHk5F80rz86QBOZ8lX7mkVL.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Skeletal System-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2cc4a0f6-d88e-43fc-b884-943c58b795c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 26 || Skeletal System-4",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Q6vmCasfoWw",
+      "hd_video_url": "https://www.youtube.com/embed/Q6vmCasfoWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hbI62FSj7BgVY5QbhZL5P4NRVgnrSZELMTTknCBc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Skeletal System-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/986a6baf-e95b-48de-8778-9a50ce047f5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 27 || Endocrine Glands-1",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/JUBVnPRVUGs",
+      "hd_video_url": "https://www.youtube.com/embed/JUBVnPRVUGs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/s9zpZELTqbsqkLI7g0wNfdgaZHyPG01hZ2NTt6SZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Endocrine Glands-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1bedc4a5-eb6d-4eae-9321-9c210b669e37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 28 || Endocrine Glands-2",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HmH5Jg_IPbI",
+      "hd_video_url": "https://www.youtube.com/embed/HmH5Jg_IPbI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qi95ycSfpyoCi5bLkqRtG8202hXz8g2XD8CG0XLr.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Endocrine Glands-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/460a0a0c-b708-4aa0-b85f-713eb6f4df89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 29 || Endocrine Glands-3",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zgylL5pSTuw",
+      "hd_video_url": "https://www.youtube.com/embed/zgylL5pSTuw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7STAzMfV3CGAMMhdVonPZbULo1UkHksYGdQJOvTL.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Endocrine Glands-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/caef23f4-b6c6-4f70-8a70-9edca8bab5c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 30 || Endocrine Glands-4",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/xfHKICgmsV4",
+      "hd_video_url": "https://www.youtube.com/embed/xfHKICgmsV4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zB9qc9Mr7SL3wp9NX5K4YiqS0ppbbCaowSIX5VVJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Endocrine Glands-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47ad9e13-fa54-46d8-a32a-c8387ed20da2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 31 || Endocrine Glands-5",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/q_weZehbNeQ",
+      "hd_video_url": "https://www.youtube.com/embed/q_weZehbNeQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ekMkozoekJYLl6bX2s44BdyiqRuYb66fMUHO2xob.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Endocrine Glands-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00e9518e-bb05-4156-841f-a0efba2cf2bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 32 || Endocrine Glands-6",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/0DCag0zHdUc",
+      "hd_video_url": "https://www.youtube.com/embed/0DCag0zHdUc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1HvM0LFw6MEa9IYRmxCpVlbI8LPwgSAralT6SMFV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Endocrine Glands-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86106eb8-f36a-4d06-a8d8-08cc454043dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 33 || Human Diseases-1",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/jkR_5q77pWs",
+      "hd_video_url": "https://www.youtube.com/embed/jkR_5q77pWs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yqFBDaxb8j67WzD6PuFzgxmPQ7oSKYZ8ttwmQoP5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Human Diseases-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4343426e-e1f8-4393-9407-5bc6ff2562a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 34 || Human Diseases-2",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/MJATfWnor9w",
+      "hd_video_url": "https://www.youtube.com/embed/MJATfWnor9w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5S344QUW5uh6XNyB5EQqXZmjwV8xR0FtpN4pKXKR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Human Diseases-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ece8a67b-7eb7-4df4-964a-8b953406a604.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 35 || Human Diseases-3",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/n6Muq0DXBrA",
+      "hd_video_url": "https://www.youtube.com/embed/n6Muq0DXBrA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hlYb3U31W76jsHMItUN57ehe933bAx2QESQsoji7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Human Diseases-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff4e5eaf-ea1d-45c5-8c5e-5b00f6d75b88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 36 || Human Diseases-4",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/HX-JX6nus5U",
+      "hd_video_url": "https://www.youtube.com/embed/HX-JX6nus5U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/POG2mTRjuKnivc7eyN1EzbSNV6kKqsC4av1lfPCY.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Human Diseases-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4107cef2-9b5f-45ef-8b8a-821c87a7b9f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 37|| Human Diseases-5",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/E1Ha_ec8v6s",
+      "hd_video_url": "https://www.youtube.com/embed/E1Ha_ec8v6s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ho8ZHR6W4P7nRoeGlEe0MSVvLGLiWrlEfjLr6mbt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37|| Human Diseases-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c732358-8ca6-4533-a456-78708096e113.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 38 || Nervous System-1",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/wbmA5rzQG0I",
+      "hd_video_url": "https://www.youtube.com/embed/wbmA5rzQG0I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ruRynVHZ1XFbIUFU8iII2FiY75Stzd8cTSO0WqTk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Nervous System-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75f3ec0c-a26b-4334-81c1-82b3f9f69514.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 39 || Nervous System-2",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/oRBvSXS5EoA",
+      "hd_video_url": "https://www.youtube.com/embed/oRBvSXS5EoA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eNobhCS6NOWmEs34t0UDiyqEvsu4kL5rApTq7AWx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Nervous System-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/747b605a-f0f2-49ea-9cf7-746a2db9071a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 40 || Nervous System-3",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/O64UV-4G5ZU",
+      "hd_video_url": "https://www.youtube.com/embed/O64UV-4G5ZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ub2BB9Vd2Htz5yWiCFqVFagwQIgKbAQhkqQ8VXIK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Nervous System-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb92dfd2-da90-453f-a87f-112c688a3eae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 41 || Nervous System-4",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/ARYl1hxT2uw",
+      "hd_video_url": "https://www.youtube.com/embed/ARYl1hxT2uw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68248265d3e3d.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Nervous System-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae376d1d-cfbc-4809-8603-387504ce0279.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 42 || Nutrition-1",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/YkGTv1YDCfs",
+      "hd_video_url": "https://www.youtube.com/embed/YkGTv1YDCfs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6825d75dd467c.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Nutrition-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42c63ce8-9cc2-447a-9526-1bc97670c83e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 43 || Nutrition-2",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/3Ieb98clFZo",
+      "hd_video_url": "https://www.youtube.com/embed/3Ieb98clFZo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68272653dc2aa.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Nutrition-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8acc9a22-0f13-4546-8d19-9df678ed2d6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 44 || Nutrition-3",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/wwQZjJpNUgU",
+      "hd_video_url": "https://www.youtube.com/embed/wwQZjJpNUgU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/682b1d8a600a4.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Nutrition-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30bd7f43-7ee9-4996-ab50-2bb229792db4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 45 || Classification Of Organisms-1",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/APtGxq8kCTc",
+      "hd_video_url": "https://www.youtube.com/embed/APtGxq8kCTc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/682dc3395dd0e.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Classification Of Organisms-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61b1ae09-1140-4aa0-8d38-dc40735ae752.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 46 || Classification Of Organisms-2",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/1Ceb7DnJ8M4",
+      "hd_video_url": "https://www.youtube.com/embed/1Ceb7DnJ8M4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/682f1cfad8b44.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Classification Of Organisms-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a38cc9d1-f36f-42f2-b6e7-5534612b16af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 47 || Classification Of Organisms-3",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/DekCGbqLMew",
+      "hd_video_url": "https://www.youtube.com/embed/DekCGbqLMew",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683063e2ad4a9.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 || Classification Of Organisms-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/923ca07f-36e8-4466-b78d-5e8285b58182.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 48 || Classification Of Organisms-4",
+      "published_date": "24 May 2025",
+      "video_url": "https://www.youtube.com/embed/YSuxE8VRVfg",
+      "hd_video_url": "https://www.youtube.com/embed/YSuxE8VRVfg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831b69283ced.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Classification Of Organisms-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1ba18ea-7ec9-429e-a44e-875e2d7f4937.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 49 || Biology By Avinash Sir",
+      "published_date": "25 May 2025",
+      "video_url": "https://www.youtube.com/embed/W6L63KgZw8w",
+      "hd_video_url": "https://www.youtube.com/embed/W6L63KgZw8w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6832838556386.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Biology By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8db8747e-e411-4d08-ae44-9127df7f27cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 50 || Genetics",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/_5e-G_jBQRQ",
+      "hd_video_url": "https://www.youtube.com/embed/_5e-G_jBQRQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683459fac4949.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Genetics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15927cf8-14ff-4bf5-a24c-e52cc1a36250.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 51 || Biology By Avinash Sir",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hE-0ARS7CA0",
+      "hd_video_url": "https://www.youtube.com/embed/hE-0ARS7CA0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CCbwuPQKynEbi6jukjapjnOBjnm2Dq0H6T192vsb.png",
+      "notes": [
+        {
+          "title": "Lecture 51 || Biology By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c68bc7a9-06b3-4d57-9bcc-bd43c7b76516.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 52 || Biology By Avinash Sir",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CdO1EgbJI9c",
+      "hd_video_url": "https://www.youtube.com/embed/CdO1EgbJI9c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SON4JaY6FXei50rcJoE3cB9sQ6povDkzlnvR80G6.png",
+      "notes": [
+        {
+          "title": "Lecture 52 || Biology By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60bf9392-269c-43bf-b407-f35dbea72af8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 53 || Biology By Avinash Sir",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/G8lE3PsyDIM",
+      "hd_video_url": "https://www.youtube.com/embed/G8lE3PsyDIM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5Ii72GyQbO8Z6Sqpf3ESiKuoLAjmy8nDM7UGM0Af.png",
+      "notes": [
+        {
+          "title": "Lecture 53 || Biology By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f33b2d4-ec5f-49e3-bcc5-9efef620e8ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 54 || (Last Class) Biology By Avinash Sir",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IkD_tBpBLpk",
+      "hd_video_url": "https://www.youtube.com/embed/IkD_tBpBLpk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LPHRLhyGNcxKyD3kkWmnIM7HZPHD62jYBVqek1Xr.png",
+      "notes": [
+        {
+          "title": "Lecture 54 || (Last Class) Biology By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acebe5bc-0686-4fff-8af1-b12821d784fd.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,41 @@
+{
+  "subject_name": "Hydraulic Machine By Amit Maurya",
+  "subject_id": 8402,
+  "video_count": 3,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Basic of hydraulics machines and their classification",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LcxcqIyIGrE",
+      "hd_video_url": "https://www.youtube.com/embed/LcxcqIyIGrE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Y77a5hyPoz8owScK7b48e87CnNEJCadKCbr5cDLk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Basic of hydraulics machines and their classification",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a9090ff-9ca9-422a-ac84-af429ac1e79d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Impact of water jet on blade surface",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/oR5aMkdtNL4",
+      "hd_video_url": "https://www.youtube.com/embed/oR5aMkdtNL4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5JWhBKc86JI9CxAsxaXCatILMqv96GVu3iTfEJFw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 ||  Simple layout of hydro plant and their terminology",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Eg4IWJLRwH9FvWOta22KBvDTZt3ZANinY8zgNGWK.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

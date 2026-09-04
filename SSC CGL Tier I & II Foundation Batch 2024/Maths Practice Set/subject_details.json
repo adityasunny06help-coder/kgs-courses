@@ -1,0 +1,54 @@
+{
+  "subject_name": "Maths Practice Set",
+  "subject_id": 1490,
+  "video_count": 5,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Vedic Math Part-01",
+      "published_date": "17 Feb 2024",
+      "video_url": "https://youtu.be/GZ1N2Y__Qfw",
+      "hd_video_url": "https://youtu.be/GZ1N2Y__Qfw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9qNvh5XBzSEH5QVJ6JD8g3jaf0s4zYuiLlXEtv9q.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Vedic Math Part-02",
+      "published_date": "17 Feb 2024",
+      "video_url": "https://youtu.be/QbaMAZkNa3A",
+      "hd_video_url": "https://youtu.be/QbaMAZkNa3A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UsDsvysXw3nd39eVyMWqLSqoDsn6r94ipeysMPdh.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Vedic Math Part-03",
+      "published_date": "17 Feb 2024",
+      "video_url": "https://youtu.be/5_tEgLHzDUY",
+      "hd_video_url": "https://youtu.be/5_tEgLHzDUY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Jp3LWmzcQOTbdddin5Q6P6nSPJYVfqnHPMPZhcAf.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Vedic Math Part-04",
+      "published_date": "18 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/5m0GA8qFs6Q",
+      "hd_video_url": "https://www.youtube.com/embed/5m0GA8qFs6Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Hmg1fSAiznOA2fVhOwmqle2mBR16jhuCDUwTSdzS.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Vedic Math Part-05",
+      "published_date": "18 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/b3zg93Hon9g",
+      "hd_video_url": "https://www.youtube.com/embed/b3zg93Hon9g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2PGvwSwk6L8e0bkFjiVoLUTTfcdQ6kMX87qkogV9.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

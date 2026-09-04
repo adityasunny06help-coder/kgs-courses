@@ -1,0 +1,961 @@
+{
+  "subject_name": "Maths by Vikash  Sir",
+  "subject_id": 3623,
+  "video_count": 68,
+  "note_count": 68,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/UU8oLUWyozU",
+      "hd_video_url": "https://www.youtube.com/embed/UU8oLUWyozU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04e184f5-503f-4c0c-a54c-f71ffd46d92d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Percentage",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qJz0IymgoQo",
+      "hd_video_url": "https://www.youtube.com/embed/qJz0IymgoQo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 02 || Percentage",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1305a9f-d2f2-40a6-a4e7-af7aa3d291d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Percentage",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ey0WTugJrb0",
+      "hd_video_url": "https://www.youtube.com/embed/ey0WTugJrb0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 03 || Percentage",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4fca92d-3073-463f-b925-7a815feb765f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Percentage",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/AlHniGSQzY8",
+      "hd_video_url": "https://www.youtube.com/embed/AlHniGSQzY8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Percentage",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00b9f38e-23f4-45c3-820d-9944557e714b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Percentage",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qtAU_EIbK0A",
+      "hd_video_url": "https://www.youtube.com/embed/qtAU_EIbK0A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 05 || Percentage",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc0fc4c5-8dcc-42d8-8c10-d8113eb2f473.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Profit And Loss",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/fjS0UKFC0Xw",
+      "hd_video_url": "https://www.youtube.com/embed/fjS0UKFC0Xw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Profit And Loss",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c4e5257-fd69-4a80-9004-cd675e0bf264.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Profit And Loss",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ZhDtJNPg-uk",
+      "hd_video_url": "https://www.youtube.com/embed/ZhDtJNPg-uk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || Profit And Loss",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/473d8efa-ff1c-432e-95d5-c069f850d4d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Profit And Loss",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/rABWafPXHJ0",
+      "hd_video_url": "https://www.youtube.com/embed/rABWafPXHJ0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 08 || Profit And Loss",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/119f395a-5c4a-4004-b5da-71e9d3c45bfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Profit And Loss",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Ft-R88kx5nU",
+      "hd_video_url": "https://www.youtube.com/embed/Ft-R88kx5nU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 09 || Profit And Loss",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f852efd9-335c-4796-86fa-384f4b0db3b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Profit And Loss",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/j2EeaNPqtvQ",
+      "hd_video_url": "https://www.youtube.com/embed/j2EeaNPqtvQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 10 || Profit And Loss",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20b09989-047c-4325-b5b7-b081d23473f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Ratio And Proportion",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Xd_AkqSXbk8",
+      "hd_video_url": "https://www.youtube.com/embed/Xd_AkqSXbk8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || Ratio And Proportion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/310cd105-517b-46e6-b18a-0e20d64d04a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Ratio And Proportion",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/BMpAg6SSkWE",
+      "hd_video_url": "https://www.youtube.com/embed/BMpAg6SSkWE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || Ratio And Proportion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bbc1c78a-c204-4ab3-8ccd-e7ab6d622847.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Ratio And Proportion",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/s9GuaqoC3ew",
+      "hd_video_url": "https://www.youtube.com/embed/s9GuaqoC3ew",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || Ratio And Proportion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97bbb3c2-8896-46a5-a83b-62e92267d7be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Ratio And Proportion",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/048DkeXqrSU",
+      "hd_video_url": "https://www.youtube.com/embed/048DkeXqrSU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || Ratio And Proportion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a11e4ba0-5f59-4f9b-8c43-b6ecdfcec68e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || S I",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/MLK4DXSvuAM",
+      "hd_video_url": "https://www.youtube.com/embed/MLK4DXSvuAM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || S I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e975246-a7d6-4d52-aec5-faa91145b81c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || S I",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/j7czNQCgDXI",
+      "hd_video_url": "https://www.youtube.com/embed/j7czNQCgDXI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || S I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52787ae2-998b-48cd-a69e-f9c232ce279d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || S I and C I CDS",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/pPfiQ1PrIRY",
+      "hd_video_url": "https://www.youtube.com/embed/pPfiQ1PrIRY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || S I and C I CDS",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b4b6ca8-a64c-413c-a60a-cf2592a39f42.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || C I",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/qHM3CecFR-E",
+      "hd_video_url": "https://www.youtube.com/embed/qHM3CecFR-E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 18 || C I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/200a6de7-d466-4177-904d-4751a5a1c7d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || C I",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/CfGozZmet7Q",
+      "hd_video_url": "https://www.youtube.com/embed/CfGozZmet7Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || C I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3bd3d0c-f9bc-43d2-adaf-a26eb2b82014.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || C I",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/LjD2aIXvSqo",
+      "hd_video_url": "https://www.youtube.com/embed/LjD2aIXvSqo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || C I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61b97c56-8aa8-450f-b792-68f75a7c9a26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || C I",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/FgLyJWgqcLA",
+      "hd_video_url": "https://www.youtube.com/embed/FgLyJWgqcLA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || C I",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88378825-e5d6-46fd-ac13-d57d5b7aedab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Speed distance and time",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/34gNhLRG74o",
+      "hd_video_url": "https://www.youtube.com/embed/34gNhLRG74o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 22 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34d0d503-b736-464b-b75b-7d7a9c23ec6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Speed distance and time",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/QS3s1b7f7WE",
+      "hd_video_url": "https://www.youtube.com/embed/QS3s1b7f7WE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dff4280-b7c5-4d98-8ea1-c48415129f7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Speed distance and time",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/CShwQpVZqUs",
+      "hd_video_url": "https://www.youtube.com/embed/CShwQpVZqUs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b0db821-aa26-4092-a408-e6638e178200.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Speed distance and time",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Ukc5SA6oR4M",
+      "hd_video_url": "https://www.youtube.com/embed/Ukc5SA6oR4M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/165dc45b-80e3-4024-9ce8-b3212c367fb0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Speed distance and time",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/jDrEAqXrWH8",
+      "hd_video_url": "https://www.youtube.com/embed/jDrEAqXrWH8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72043d40-0f69-4ec5-bb4a-c08060ca6ab4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Speed distance and time",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/W1R_kHjtxnw",
+      "hd_video_url": "https://www.youtube.com/embed/W1R_kHjtxnw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 27 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee4df175-9023-4968-9229-0876060926c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Speed distance and time",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/8AgU4CNQfu0",
+      "hd_video_url": "https://www.youtube.com/embed/8AgU4CNQfu0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 28 || Speed distance and time",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b2657ab-623e-43ed-a130-0716e6f60a0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Boat And Stream",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/TW3qCs7jbd4",
+      "hd_video_url": "https://www.youtube.com/embed/TW3qCs7jbd4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 29 || Boat And Stream",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6208ceb5-a7eb-4cf5-9928-2da526577bcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Boat And Stream",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/yaZx2VSG3v8",
+      "hd_video_url": "https://www.youtube.com/embed/yaZx2VSG3v8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 30 || Boat And Stream",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03ff48b7-bfac-4518-bc9d-913c6a865d7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Time And Work",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/UMpkHsjnHwg",
+      "hd_video_url": "https://www.youtube.com/embed/UMpkHsjnHwg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 31 || Time And Work",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eabf046-0d1a-430b-81f6-55f947152dcc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Time And Work",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/bk7mdT5vOa8",
+      "hd_video_url": "https://www.youtube.com/embed/bk7mdT5vOa8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 32 || Time And Work",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa47c60a-2715-4363-85fd-a6cc1b4d160f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || Time And Work",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/c18KrtAuDiM",
+      "hd_video_url": "https://www.youtube.com/embed/c18KrtAuDiM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 33 || Time And Work",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd9a3221-ee97-4df6-9976-a14ac3e4a6f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || Time And Work And Pipe & Cistern",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/uMX6UHBdD8M",
+      "hd_video_url": "https://www.youtube.com/embed/uMX6UHBdD8M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 34 || Time And Work And Pipe & Cistern",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9519f3f-2e5d-4726-bae7-754ad3b0025b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || Pipe And Cistern",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/b2pJxwIFfj4",
+      "hd_video_url": "https://www.youtube.com/embed/b2pJxwIFfj4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 35 || Pipe And Cistern",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad2429d7-053d-4b91-8493-a46d81227244.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || Number System / Simplification",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JX2R_1wEtds",
+      "hd_video_url": "https://www.youtube.com/embed/JX2R_1wEtds",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 36 || Number System / Simplification",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ddf886b-088e-422d-9584-8c24d0f7bf48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || Number System",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ugDLPDZU4cg",
+      "hd_video_url": "https://www.youtube.com/embed/ugDLPDZU4cg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 37 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a897b0e2-4ed2-4085-b9d8-0bb21379fae6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || Number System",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/mg8h8rb4wZQ",
+      "hd_video_url": "https://www.youtube.com/embed/mg8h8rb4wZQ",
+      "thumbnail": "https://i.ytimg.com/vi/mg8h8rb4wZQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f691e52e-4520-41bf-99ef-164ea06dd28d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || Number System",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ktLylGYq9XE",
+      "hd_video_url": "https://www.youtube.com/embed/ktLylGYq9XE",
+      "thumbnail": "https://i.ytimg.com/vi/ktLylGYq9XE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50704539-53f8-40df-90f9-7da7e4c0fce9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || Number System",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/9wi3Zva-G8w",
+      "hd_video_url": "https://www.youtube.com/embed/9wi3Zva-G8w",
+      "thumbnail": "https://i.ytimg.com/vi/9wi3Zva-G8w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9525f2b-ad97-4418-9f33-cd9eb650f82c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || Number System",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/m9KDM9c37Lk",
+      "hd_video_url": "https://www.youtube.com/embed/m9KDM9c37Lk",
+      "thumbnail": "https://i.ytimg.com/vi/m9KDM9c37Lk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfc0cccf-9fca-4b8f-b1ea-86c719747712.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || Number System",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/X6hJSZ81KmY",
+      "hd_video_url": "https://www.youtube.com/embed/X6hJSZ81KmY",
+      "thumbnail": "https://i.ytimg.com/vi/X6hJSZ81KmY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd0892d3-9323-4f3b-afc7-e5d53fe41f96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || Divisibility",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/pYy_FKn97iA",
+      "hd_video_url": "https://www.youtube.com/embed/pYy_FKn97iA",
+      "thumbnail": "https://i.ytimg.com/vi/pYy_FKn97iA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Divisibility",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33d437f3-18c6-4134-92fe-fae917a1c410.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || Number System",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/3HGtGaufYPc",
+      "hd_video_url": "https://www.youtube.com/embed/3HGtGaufYPc",
+      "thumbnail": "https://i.ytimg.com/vi/3HGtGaufYPc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Number System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7960d178-5c52-471c-8494-3b9367567741.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || Algebra",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/OVK0lbaSpys",
+      "hd_video_url": "https://www.youtube.com/embed/OVK0lbaSpys",
+      "thumbnail": "https://i.ytimg.com/vi/OVK0lbaSpys/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56cbda57-8f91-4aa8-b681-b10a5363a58f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || Algebra",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/lEZ28rv40rU",
+      "hd_video_url": "https://www.youtube.com/embed/lEZ28rv40rU",
+      "thumbnail": "https://i.ytimg.com/vi/lEZ28rv40rU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93710c4f-7f88-4c20-8438-ad08dca74489.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 || Algebra",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bOC2UDcoxYE",
+      "hd_video_url": "https://www.youtube.com/embed/bOC2UDcoxYE",
+      "thumbnail": "https://i.ytimg.com/vi/bOC2UDcoxYE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ddef8d8-6a9e-44ac-a823-2341cdeaa91c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 || Algebra",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/lzRgMXtBrP4",
+      "hd_video_url": "https://www.youtube.com/embed/lzRgMXtBrP4",
+      "thumbnail": "https://i.ytimg.com/vi/lzRgMXtBrP4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e0efddb-c146-4bad-b81b-a478b824b620.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 || Algebra",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5uzubqvZ6jE",
+      "hd_video_url": "https://www.youtube.com/embed/5uzubqvZ6jE",
+      "thumbnail": "https://i.ytimg.com/vi/5uzubqvZ6jE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f28075f-2c44-40c6-b249-3c3d5d9f0d53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 || Algebra",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UHNFKcVqHEg",
+      "hd_video_url": "https://www.youtube.com/embed/UHNFKcVqHEg",
+      "thumbnail": "https://i.ytimg.com/vi/UHNFKcVqHEg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Algebra",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5605e809-daea-4051-aad8-2f2ff920db75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 || Mensuration",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bQRNRYgqs4E",
+      "hd_video_url": "https://www.youtube.com/embed/bQRNRYgqs4E",
+      "thumbnail": "https://i.ytimg.com/vi/bQRNRYgqs4E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 51 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e36c24b-adc7-4399-9a08-0aed312254c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 52 || Mensuration",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_XLhJhMLB-U",
+      "hd_video_url": "https://www.youtube.com/embed/_XLhJhMLB-U",
+      "thumbnail": "https://i.ytimg.com/vi/_XLhJhMLB-U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 52 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8899ddd8-f201-4a36-9ad6-1834ef3cc254.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 53 || Mensuration",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ZZ4FDC1Ktz4",
+      "hd_video_url": "https://www.youtube.com/embed/ZZ4FDC1Ktz4",
+      "thumbnail": "https://i.ytimg.com/vi/ZZ4FDC1Ktz4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 53 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6079f05f-91dd-401b-a4cd-924fc9f91e3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 54 || Mensuration",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/jSmHStXMbhg",
+      "hd_video_url": "https://www.youtube.com/embed/jSmHStXMbhg",
+      "thumbnail": "https://i.ytimg.com/vi/jSmHStXMbhg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 54 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f79f79af-a34d-4fb1-a0de-ddc90a16662c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 55 || Mensuration",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/SGxrtVU36QM",
+      "hd_video_url": "https://www.youtube.com/embed/SGxrtVU36QM",
+      "thumbnail": "https://i.ytimg.com/vi/SGxrtVU36QM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 55 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d48be312-1188-4f22-8beb-f5ae5d31c8a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 56 || Mensuration",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/YXDacvxcx1A",
+      "hd_video_url": "https://www.youtube.com/embed/YXDacvxcx1A",
+      "thumbnail": "https://i.ytimg.com/vi/YXDacvxcx1A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 56 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/128d80e3-d999-41f7-a435-c94cb0907841.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 57 || Mensuration",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/WUF7mt9vEqY",
+      "hd_video_url": "https://www.youtube.com/embed/WUF7mt9vEqY",
+      "thumbnail": "https://i.ytimg.com/vi/WUF7mt9vEqY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 57 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/300c31ac-b83d-4d1d-9c41-a4d2d49e324b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 58 || Mensuration",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/AKxZzR3fqZM",
+      "hd_video_url": "https://www.youtube.com/embed/AKxZzR3fqZM",
+      "thumbnail": "https://i.ytimg.com/vi/AKxZzR3fqZM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 58 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10f75bc6-76b0-4a2d-8419-ee94b983ddb0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 59 || Mensuration",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Dp8IbZlc034",
+      "hd_video_url": "https://www.youtube.com/embed/Dp8IbZlc034",
+      "thumbnail": "https://i.ytimg.com/vi/Dp8IbZlc034/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 59 || Mensuration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bff5e2e-fbb9-4ac7-943d-47ae6489748b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 60 || Geometry",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/YEIo5wY7s6I",
+      "hd_video_url": "https://www.youtube.com/embed/YEIo5wY7s6I",
+      "thumbnail": "https://i.ytimg.com/vi/YEIo5wY7s6I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 60 || Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/658ae359-375c-4929-930f-310f596d4fb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 61 || Geometry",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/veVzpMZnvgo",
+      "hd_video_url": "https://www.youtube.com/embed/veVzpMZnvgo",
+      "thumbnail": "https://i.ytimg.com/vi/veVzpMZnvgo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 61 || Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3c287bc-649d-4cea-85dd-5c908021f9f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 62 || Geometry",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Ch8NDHYE3FQ",
+      "hd_video_url": "https://www.youtube.com/embed/Ch8NDHYE3FQ",
+      "thumbnail": "https://i.ytimg.com/vi/Ch8NDHYE3FQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 62 || Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/939d0876-e41f-4e43-8f3e-ede4cc4d7369.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 63 || Geometry",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/nC84NmfKBfA",
+      "hd_video_url": "https://www.youtube.com/embed/nC84NmfKBfA",
+      "thumbnail": "https://i.ytimg.com/vi/nC84NmfKBfA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 63 || Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab617646-6e45-4589-bf24-3afdb5f1b144.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 64 || Geometry",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/yHVBpY2iXyo",
+      "hd_video_url": "https://www.youtube.com/embed/yHVBpY2iXyo",
+      "thumbnail": "https://i.ytimg.com/vi/yHVBpY2iXyo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 64 || Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b50853ca-cb63-4124-810c-5ca6677d49ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 65 || Statistics",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/v9GQbu9sPkA",
+      "hd_video_url": "https://www.youtube.com/embed/v9GQbu9sPkA",
+      "thumbnail": "https://i.ytimg.com/vi/v9GQbu9sPkA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 65 || Statistics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3c287bc-649d-4cea-85dd-5c908021f9f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 66 || Statistics",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3zWOS5bgtCg",
+      "hd_video_url": "https://www.youtube.com/embed/3zWOS5bgtCg",
+      "thumbnail": "https://i.ytimg.com/vi/3zWOS5bgtCg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 66 || Statistics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9985b491-1895-4fa1-9ab0-b8d55d109e8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 67 || Statistics",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/auyXsvFR3Jk",
+      "hd_video_url": "https://www.youtube.com/embed/auyXsvFR3Jk",
+      "thumbnail": "https://i.ytimg.com/vi/auyXsvFR3Jk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 67 || Statistics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f3894c5-f97d-4516-807d-03be954b1d88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture 68 || Stats",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/oyVQhmLSIBc",
+      "hd_video_url": "https://www.youtube.com/embed/oyVQhmLSIBc",
+      "thumbnail": "https://i.ytimg.com/vi/oyVQhmLSIBc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 68 || Stats",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5785f9d9-fc54-4ab8-b82d-c3a4f83c9871.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

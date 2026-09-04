@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Class 10th Board English Medium Prarambh Batch",
+    "price": "None",
+    "id": "435",
+    "extracted_date": "2025-08-27T15:28:46.397414"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 3666,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Pragya Ma'am",
+      "id": 3667,
+      "video_count": 31,
+      "note_count": 31
+    },
+    {
+      "name": "Chemistry By Deepika Ma'am",
+      "id": 3668,
+      "video_count": 38,
+      "note_count": 37
+    },
+    {
+      "name": "Biology By Sneha Ma'am",
+      "id": 3670,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Maths By Jayshankar Sir",
+      "id": 3672,
+      "video_count": 44,
+      "note_count": 39
+    }
+  ]
+}

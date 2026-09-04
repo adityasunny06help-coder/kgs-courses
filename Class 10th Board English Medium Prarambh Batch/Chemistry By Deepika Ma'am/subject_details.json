@@ -1,0 +1,536 @@
+{
+  "subject_name": "Chemistry By Deepika Ma'am",
+  "subject_id": 3668,
+  "video_count": 38,
+  "note_count": 37,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. Chemical Reaction and Equation Part 1",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/khDqWX1QKfo",
+      "hd_video_url": "https://www.youtube.com/embed/khDqWX1QKfo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4479a0aa-64d7-4dbd-9227-f6cf8761e4b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. Chemical Reaction and Equation Part 2",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Gc2tjL6QCoM",
+      "hd_video_url": "https://www.youtube.com/embed/Gc2tjL6QCoM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e31888f8-54f9-42c4-bf5d-f1739e1bb522.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. Chemical Reaction and Equation Part 3",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ll5e4ui98g4",
+      "hd_video_url": "https://www.youtube.com/embed/ll5e4ui98g4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "4. Chemical Reaction and Equation Part 4",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/tR7iKODIptg",
+      "hd_video_url": "https://www.youtube.com/embed/tR7iKODIptg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73143bfa-aab5-42fb-a999-9480fd3601b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "5. Chemical Reaction and Equation Part 5",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/G0PztIJy5LY",
+      "hd_video_url": "https://www.youtube.com/embed/G0PztIJy5LY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aeeab6e6-2d41-4228-b7f1-8c447dfc7a90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. Chemical Reaction and Equation Part 6",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/b5cI8FlpUuE",
+      "hd_video_url": "https://www.youtube.com/embed/b5cI8FlpUuE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/767578a7-8a3b-4c03-b779-ae2657c2bff4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. Chemical Reaction and Equation DPP",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/NOJf6ppIo9k",
+      "hd_video_url": "https://www.youtube.com/embed/NOJf6ppIo9k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Reaction and Equation DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd4ba2ff-12d3-4e72-b1be-07b0b84d1442.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. Acids Bases and Salts Part 1",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/1mfDCXBJFms",
+      "hd_video_url": "https://www.youtube.com/embed/1mfDCXBJFms",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Acids Bases and Salts Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30c6abd4-3fe9-4705-bbe8-65d149053b93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. Acids Bases and Salts Part 2",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/5vxg2EXKjeA",
+      "hd_video_url": "https://www.youtube.com/embed/5vxg2EXKjeA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Acids Bases and Salts Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aea0b20-b887-4e88-b946-eeb5c28e1cdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. Acids Bases and Salts Part 3",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/unYN1oUUhuc",
+      "hd_video_url": "https://www.youtube.com/embed/unYN1oUUhuc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8663f2fc-5e3b-46e7-890e-acb5c78ad91f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. Acids Bases and Salts Part 4",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zywftxn9LP4",
+      "hd_video_url": "https://www.youtube.com/embed/zywftxn9LP4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50a7e632-c7c8-419f-aed2-0c46e3d68b4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. Acids Bases and Salts Part 5",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/BIQjUUk-q3Y",
+      "hd_video_url": "https://www.youtube.com/embed/BIQjUUk-q3Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/280c461c-c310-4f00-a2bf-5607402346e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "13. Acids Bases and Salts Part 6",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/BsLwFhn-a74",
+      "hd_video_url": "https://www.youtube.com/embed/BsLwFhn-a74",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  Acids Bases and Salts Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3587937-d15f-44ad-b0be-937297d02332.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. Acids Bases and Salts Part 7",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/RRjj0ROHdfk",
+      "hd_video_url": "https://www.youtube.com/embed/RRjj0ROHdfk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6dc1d39b-3d08-4eac-8fb6-460e98ecdff1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. Acids Bases and Salts Part 8",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/PeDt8OBKsH4",
+      "hd_video_url": "https://www.youtube.com/embed/PeDt8OBKsH4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3606b8f9-5206-4917-a7e2-ec0f1c33a1d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. Acids Bases and Salts DPP",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/YlG2woRlsaE",
+      "hd_video_url": "https://www.youtube.com/embed/YlG2woRlsaE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Acids Bases and Salts DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/674b7f7a-366f-4fb7-98f8-b81097968a44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. Metals and Non Metal Part 1",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/KcNQxNGOm6I",
+      "hd_video_url": "https://www.youtube.com/embed/KcNQxNGOm6I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f08e5bb-467f-4b43-a669-3cba4996a4a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. Metals and Non Metal Part 2",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/cguC8d0TzI0",
+      "hd_video_url": "https://www.youtube.com/embed/cguC8d0TzI0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d497a5c-6276-4fbf-8e62-3f0cbcacb7a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. Metals and Non Metal Part 3",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/MdI6rQSTuO4",
+      "hd_video_url": "https://www.youtube.com/embed/MdI6rQSTuO4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b049bee-89f5-4074-961d-9ffe5bde58cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "20. Metals and Non Metal Part 4",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/uDpVgRI7yXA",
+      "hd_video_url": "https://www.youtube.com/embed/uDpVgRI7yXA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2c9418f-0677-4301-81ce-515ec11f6052.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "21. Metals and Non Metal Part 5",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/8ZS_DapIq4c",
+      "hd_video_url": "https://www.youtube.com/embed/8ZS_DapIq4c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0880905d-ac25-4f93-b3e8-17c289718eda.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "22. Metals and Non Metal Part 6",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/xH2FTaqL_m8",
+      "hd_video_url": "https://www.youtube.com/embed/xH2FTaqL_m8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adbcaf28-1265-48f7-bf88-911c332444e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "23. Metals and Non Metal Part 7",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/KUrweoFdKYw",
+      "hd_video_url": "https://www.youtube.com/embed/KUrweoFdKYw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Metals and Non Metal Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6e5310a-ef21-467a-b65c-2cf0577443b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "24. Metals and Non Metal DPP",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/u6XK-xqv3tE",
+      "hd_video_url": "https://www.youtube.com/embed/u6XK-xqv3tE",
+      "thumbnail": "https://i.ytimg.com/vi/u6XK-xqv3tE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  Metals and Non Metal DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ebbace1b-48fd-4b10-9e56-ec892b07f187.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "25.  Carbon and its Compounds Part 1",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/sx8SGgVluq4",
+      "hd_video_url": "https://www.youtube.com/embed/sx8SGgVluq4",
+      "thumbnail": "https://i.ytimg.com/vi/sx8SGgVluq4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/246e90dc-d85c-4a05-8922-38762e06f4da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "26. Carbon and its Compounds Part 2",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/KyCg64ROGsY",
+      "hd_video_url": "https://www.youtube.com/embed/KyCg64ROGsY",
+      "thumbnail": "https://i.ytimg.com/vi/KyCg64ROGsY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d2e2e4c-863e-4034-8df5-29053e6937e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "27. Carbon and its Compounds Part 3",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/4WmJ_45uGH0",
+      "hd_video_url": "https://www.youtube.com/embed/4WmJ_45uGH0",
+      "thumbnail": "https://i.ytimg.com/vi/4WmJ_45uGH0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  Carbon and its Compounds Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0fe94b2-5bf7-4ea1-b7e9-85373fc32ad8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "28. Carbon and its Compounds Part 4",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/P1mNvTfkCfU",
+      "hd_video_url": "https://www.youtube.com/embed/P1mNvTfkCfU",
+      "thumbnail": "https://i.ytimg.com/vi/P1mNvTfkCfU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38e0912c-bbd6-4d1b-b237-30e440dbf79e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "29. Carbon and its Compounds Part 5",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/sYxptuyM2lE",
+      "hd_video_url": "https://www.youtube.com/embed/sYxptuyM2lE",
+      "thumbnail": "https://i.ytimg.com/vi/sYxptuyM2lE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4016650-7d94-4982-b6af-b504c0137181.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "30. Carbon and its Compounds Part 6",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PjKc14V2cFQ",
+      "hd_video_url": "https://www.youtube.com/embed/PjKc14V2cFQ",
+      "thumbnail": "https://i.ytimg.com/vi/PjKc14V2cFQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65a2ee84-6e5b-44c5-a35c-ba4b428500ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "31. Carbon and its Compounds Part 7",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/oKEMXEgmG4A",
+      "hd_video_url": "https://www.youtube.com/embed/oKEMXEgmG4A",
+      "thumbnail": "https://i.ytimg.com/vi/oKEMXEgmG4A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/646feb83-4850-4da7-b8e6-303a3c267d51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "32. Carbon and its Compounds Part 8",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/d9S_1gSYiUE",
+      "hd_video_url": "https://www.youtube.com/embed/d9S_1gSYiUE",
+      "thumbnail": "https://i.ytimg.com/vi/d9S_1gSYiUE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Carbon and its Compounds Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70f0844d-f76e-4d7b-863b-5a9df3a9254a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "33. Carbon and its Compounds Part 9",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/8KFs0KO9fNI",
+      "hd_video_url": "https://www.youtube.com/embed/8KFs0KO9fNI",
+      "thumbnail": "https://i.ytimg.com/vi/8KFs0KO9fNI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Carbon and its Compounds Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab5721d4-766a-4c95-b5d3-b5881583f450.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "34. Carbon and its Compounds Part 10",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/n3ErgUlYYPs",
+      "hd_video_url": "https://www.youtube.com/embed/n3ErgUlYYPs",
+      "thumbnail": "https://i.ytimg.com/vi/n3ErgUlYYPs/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Carbon and its Compounds Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2eacebab-8bd3-4c98-9c9b-aa4134d0ac8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "35. Carbon and its Compounds Part 11",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/GZ6IYlr_8mE",
+      "hd_video_url": "https://www.youtube.com/embed/GZ6IYlr_8mE",
+      "thumbnail": "https://i.ytimg.com/vi/GZ6IYlr_8mE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Carbon and its Compounds Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82ba439c-b5c9-4542-b202-3a2c8a3ce473.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "36. Carbon and its Compounds DPP",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Lg-C-iC9y-k",
+      "hd_video_url": "https://www.youtube.com/embed/Lg-C-iC9y-k",
+      "thumbnail": "https://i.ytimg.com/vi/Lg-C-iC9y-k/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Carbon and its Compounds DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc13c4bb-e564-44ba-9907-a5643c8b3ffd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "37. Periodic Classification Of Elements Part 1",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6utt7QJhHTM",
+      "hd_video_url": "https://www.youtube.com/embed/6utt7QJhHTM",
+      "thumbnail": "https://i.ytimg.com/vi/6utt7QJhHTM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Periodic Classification Of Elements Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a4e2527-30d2-4b29-9132-1686e250226b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "38. Periodic Classification Of Elements Part 2",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/okQaOIG_L_U",
+      "hd_video_url": "https://www.youtube.com/embed/okQaOIG_L_U",
+      "thumbnail": "https://i.ytimg.com/vi/okQaOIG_L_U/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Periodic Classification Of Elements Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a797ceb0-ea46-4c7d-9684-fbc088279eee.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Current Affairs by Shivam Sir",
+  "subject_id": 8006,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture- 01  || Introduction || परिचय",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vRrj3sKf7ag",
+      "hd_video_url": "https://www.youtube.com/embed/vRrj3sKf7ag",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CcgywN3Sbe7q4GOUkR8r8WeIwUT5n7Mxx88Gm7wb.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 01  || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/051ac739-89ba-47cc-bd0e-375be3ba8329.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 02 || Appointments || नियुक्तियाँ (Part 1)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mY4nXocCMrw",
+      "hd_video_url": "https://www.youtube.com/embed/mY4nXocCMrw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/inpM4YQmWdwoxCVgXW6sLnyPixkTRsgW2gIjqizn.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 02 || Appointments || नियुक्तियाँ (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2bdfc80-4668-4bc0-8c60-51047d2c870a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture- 03 || Appointments || नियुक्तियाँ (Part 2)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_9WEtN0AqAk",
+      "hd_video_url": "https://www.youtube.com/embed/_9WEtN0AqAk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H4fvzby76pUB2t9gBvsrluocEfSKWdARX6PBG9Ju.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 03 || Appointments || नियुक्तियाँ (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47361c04-7713-427d-ab21-39fdb2ac70e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 04 || Appointments || नियुक्तियाँ (Part 3)",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/DUF81srvaTI",
+      "hd_video_url": "https://www.youtube.com/embed/DUF81srvaTI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1xmRU3SoxkJDz6OrsfkrcNy6LtF4hhWtRR9uWAjS.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 04 || Appointments || नियुक्तियाँ (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70693620-b0fe-4b4c-888e-542b3a002887.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

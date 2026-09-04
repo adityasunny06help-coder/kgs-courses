@@ -1,0 +1,275 @@
+{
+  "subject_name": "Physics by Avinash Sir",
+  "subject_id": 5575,
+  "video_count": 19,
+  "note_count": 19,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Units & Measurement",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/xXv5AezXu1Q",
+      "hd_video_url": "https://www.youtube.com/embed/xXv5AezXu1Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Til0Dv1yPYkM8mOg1NV17t1ZzqOsaZvOpE76bTxF.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Units & Measurement",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4c9f1c39-a570-4ad7-932e-6cb6a64c5851.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Force & Motion (Part-01)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/0oNZnog3JpE",
+      "hd_video_url": "https://www.youtube.com/embed/0oNZnog3JpE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JU4bnbg2mE7MdYwyMMqfj3sZUPBtxBDjIiaNkjUK.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Force & Motion (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/380d2cbd-ec2f-4a13-b087-68484fd0b940.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Force & Motion (Part-02)",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/romdSDgQNdM",
+      "hd_video_url": "https://www.youtube.com/embed/romdSDgQNdM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/q2jUL3B9svOXKUa2etj5U9I3qbjO3cm5Cg11C0pB.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || Force & Motion (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b3c2d425-79ad-4a8d-bd8a-9f114a238e63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Work, Energy & Power",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/f3Ydl9y1R74",
+      "hd_video_url": "https://www.youtube.com/embed/f3Ydl9y1R74",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Dktag3rpX8ZHJQsX16o8HlQhAPgXfx9dnU4uKRAG.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Work, Energy & Power",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/aff0ddc2-f98d-4e0b-8975-c6ae9dbd6f5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Gravitation",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/umbzG2LPjKQ",
+      "hd_video_url": "https://www.youtube.com/embed/umbzG2LPjKQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/G2zeXbdyaOOXD2pgQ13CqYn3YoSOPgTV4x9jABCz.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Work, Energy & Power (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f8d704f6-8aa5-4806-a0e6-8a24057a61ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Heat & Thermodynamics",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Ixnb-_Ntjek",
+      "hd_video_url": "https://www.youtube.com/embed/Ixnb-_Ntjek",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Jdu5kDmpbEyoxpev1KHvENYNxv7PJpDjIjNe4Ajx.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || Heat & Thermodynamics",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/08300aa7-0326-46bd-a478-093b7346e6be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Optics (Part-01)",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Y3WHGfD3lXU",
+      "hd_video_url": "https://www.youtube.com/embed/Y3WHGfD3lXU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7aOzXZtqwz4zmxKO8GG3fmHpBxPl1iFp1WpKN5va.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Optics (Light)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/318def33-21a3-42c6-bc30-fd3c4dd587b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Optics (Part-02)",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/FP0h1cQyxDU",
+      "hd_video_url": "https://www.youtube.com/embed/FP0h1cQyxDU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KG6pzL05LAX1xI2mhPFDlWzwXKd4LKJaby4n587d.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Optics (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c6f0ff1b-47a0-4c89-a21e-b497b422adeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Optics (Part-03)",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/SINKOJypK6U",
+      "hd_video_url": "https://www.youtube.com/embed/SINKOJypK6U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/37co3bo6ErgP9yQNTPTN3zbLESaF0nVcEAveIRiF.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Optics Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/6309f8c2-e7ca-4930-9aa2-aab819efd9c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Optics (Part-04)",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Ih5VGM7I6Uw",
+      "hd_video_url": "https://www.youtube.com/embed/Ih5VGM7I6Uw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5XLnTj2pBlJk4HnM8sOKoswgkbraluqSf30GHvcL.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Electricity Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/08d7a944-68fa-4302-bcfc-e2eac4626ebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Electricity (Part-01)",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/qVQRmHJM3as",
+      "hd_video_url": "https://www.youtube.com/embed/qVQRmHJM3as",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4wPtU9iqmqgiEtf7LOQFEmWCouw54xbPww2rjfff.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Electricity (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f822d707-3b16-49ab-86f7-4548b1b8ff0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Electricity (Part-02)",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/u93FYCEe-AM",
+      "hd_video_url": "https://www.youtube.com/embed/u93FYCEe-AM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jcRXg1VmwKnyeNvynSqhJOhO3UNjOAd3jlxxUqrA.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || Electricity Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b050e1ad-75ee-4c79-a8a0-251fe85f9586.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Wave & Sound (Part-01)",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/5pgdges_pbA",
+      "hd_video_url": "https://www.youtube.com/embed/5pgdges_pbA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iVQVDIpxWjGPiCFHRsCvO4sXU2XUitS1oKC1LyyO.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || Wave & Sound (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f7bafe96-044f-45a4-832c-7af79eed20a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Wave & Sound (Part-02)",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/C3lr7m0AD9M",
+      "hd_video_url": "https://www.youtube.com/embed/C3lr7m0AD9M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HhYu2D8WLfkToq8iNS7EW1j4xLzmv9NPUKEltMEx.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || Wave & Sound (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/10c55586-25db-419b-ad56-274771b4e5e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Magnetism (Part-01)",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/nqra2Jd_PGA",
+      "hd_video_url": "https://www.youtube.com/embed/nqra2Jd_PGA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/veOGy3nIMNl3oPBUbWLGotL90kPxrZiw90uHaEd3.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || Magnetism (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f1483b84-dc0b-4d29-94b5-275105e6241f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Magnetism (Part-02)",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/hXBvnczCveY",
+      "hd_video_url": "https://www.youtube.com/embed/hXBvnczCveY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/14DgK89zpHtkMaePlcbcTIDoLi7EPjASrlIkpwR7.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || Magnetism (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a9e7d59-b82e-4b1f-84b5-39205e06488e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Miscellaneous (Part-01)",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/yNrJnv-vyE4",
+      "hd_video_url": "https://www.youtube.com/embed/yNrJnv-vyE4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/s7KdUWcLbr3McoArtC7CktGRjZaW0IHwIUM1FSq1.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Miscellaneous (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1f7c8773-90da-4a5c-9010-a5cf1faa9e8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Miscellaneous (Part-02)",
+      "published_date": "22 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/r9vVZ9ltdA0",
+      "hd_video_url": "https://www.youtube.com/embed/r9vVZ9ltdA0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wCvKpPRr9PmNSEZw5kH6L3jQA9wqDgWlaEGhsPmb.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Miscellaneous (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/58dd4d5a-828d-4b4d-aaec-f04766e3804f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Miscellaneous (Part-03)",
+      "published_date": "27 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/BjwDhWZWvp8",
+      "hd_video_url": "https://www.youtube.com/embed/BjwDhWZWvp8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6b3uRfuDL4Tuy3EIVhXd1Uk149Rk8LROqdIioLW0.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || Miscellaneous Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bcb099e0-7165-44b7-9a3b-1fddf527acca.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

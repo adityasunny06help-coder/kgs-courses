@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "Current Affairs (UPSC & State PSC) Batch 2024-25 (Hindi Medium)",
+    "price": "365",
+    "id": "363",
+    "extracted_date": "2025-08-27T16:08:30.363565"
+  },
+  "subjects": [
+    {
+      "name": "Current Affairs",
+      "id": 2829,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by Kinshuk Sir",
+      "id": 8327,
+      "video_count": 5,
+      "note_count": 3
+    },
+    {
+      "name": "Current Affairs by Jeet Sir",
+      "id": 2930,
+      "video_count": 97,
+      "note_count": 96
+    }
+  ]
+}

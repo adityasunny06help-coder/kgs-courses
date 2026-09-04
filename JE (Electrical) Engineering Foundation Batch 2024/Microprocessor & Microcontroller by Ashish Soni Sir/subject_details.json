@@ -1,0 +1,107 @@
+{
+  "subject_name": "Microprocessor & Microcontroller by Ashish Soni Sir",
+  "subject_id": 6013,
+  "video_count": 7,
+  "note_count": 7,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8JwV86hkwfU",
+      "hd_video_url": "https://www.youtube.com/embed/8JwV86hkwfU",
+      "thumbnail": "https://i.ytimg.com/vi/8JwV86hkwfU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81d54b91-8d29-452e-9962-7e2f2064df73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Internal Architecture of 8085 (Part-01)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GF3Ita_RsYE",
+      "hd_video_url": "https://www.youtube.com/embed/GF3Ita_RsYE",
+      "thumbnail": "https://i.ytimg.com/vi/GF3Ita_RsYE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Internal Architecture of 8085 (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32f6160d-ced8-45bd-b853-921427ccb6bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Internal Architecture of 8085 (Part-02)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/llAKwvUmKZQ",
+      "hd_video_url": "https://www.youtube.com/embed/llAKwvUmKZQ",
+      "thumbnail": "https://i.ytimg.com/vi/llAKwvUmKZQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Internal Architecture of 8085 (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0bc6d03-2077-4681-917b-088094d22b47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Internal Architecture of 8085 (Part-03)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/MfSkUKktBEs",
+      "hd_video_url": "https://www.youtube.com/embed/MfSkUKktBEs",
+      "thumbnail": "https://i.ytimg.com/vi/MfSkUKktBEs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Internal Architecture of 8085 (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3d2bba7-2a08-45f6-82cd-45c9c2fae587.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Internal Architecture of 8085 (Part-04)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IO4wuX5ALKU",
+      "hd_video_url": "https://www.youtube.com/embed/IO4wuX5ALKU",
+      "thumbnail": "https://i.ytimg.com/vi/IO4wuX5ALKU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Internal Architecture of 8085 (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cda5f3da-acf2-4355-a53b-e300a45b0f2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Internal Architechture of 8085 (Part-5)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/TB20dT5297s",
+      "hd_video_url": "https://www.youtube.com/embed/TB20dT5297s",
+      "thumbnail": "https://i.ytimg.com/vi/TB20dT5297s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Internal Architechture of 8085 (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47056ef2-ea21-46b7-8ac5-2786102f78f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Introduction to Microcontroller",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HjtdgMtVRjw",
+      "hd_video_url": "https://www.youtube.com/embed/HjtdgMtVRjw",
+      "thumbnail": "https://i.ytimg.com/vi/HjtdgMtVRjw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Introduction to Microcontroller",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bedbe885-620e-4c9a-98e1-f19a71b10e3e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,135 @@
+{
+  "subject_name": "Maths",
+  "subject_id": 5409,
+  "video_count": 9,
+  "note_count": 9,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || FOM +Logarithm",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/GneqYEd_qFA",
+      "hd_video_url": "https://www.youtube.com/embed/GneqYEd_qFA",
+      "thumbnail": "https://i.ytimg.com/vi/GneqYEd_qFA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || FOM +Logarithm",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cd28849-dafc-47c4-aff6-39f76982062a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Function",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ArUvu_hDhoY",
+      "hd_video_url": "https://www.youtube.com/embed/ArUvu_hDhoY",
+      "thumbnail": "https://i.ytimg.com/vi/ArUvu_hDhoY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8c2883a-1163-4bfb-b72e-4426ee8e87ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || ITF",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/dsOotQM4ecc",
+      "hd_video_url": "https://www.youtube.com/embed/dsOotQM4ecc",
+      "thumbnail": "https://i.ytimg.com/vi/dsOotQM4ecc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || ITF",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5740c79b-668e-4d88-9daf-ebad04908f62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Limits and Derivative",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bbtop8pe5m4",
+      "hd_video_url": "https://www.youtube.com/embed/bbtop8pe5m4",
+      "thumbnail": "https://i.ytimg.com/vi/bbtop8pe5m4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Limits and Derivative",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfaa8f4b-a437-4171-a422-097ac2decb8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Continuity and Differentiability",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ZSTmqbtGGu4",
+      "hd_video_url": "https://www.youtube.com/embed/ZSTmqbtGGu4",
+      "thumbnail": "https://i.ytimg.com/vi/ZSTmqbtGGu4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 || Continuity and Differentiability",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81de4fc1-65f6-4822-a76e-0f361635b494.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 - || Method of Differentiation",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/nY06y1qeUsU",
+      "hd_video_url": "https://www.youtube.com/embed/nY06y1qeUsU",
+      "thumbnail": "https://i.ytimg.com/vi/nY06y1qeUsU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 - || Method of Differentiation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73c8d2f3-a986-4572-a60b-6acb3239aa0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Application of derivatives",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/rtKIpVZEhuc",
+      "hd_video_url": "https://www.youtube.com/embed/rtKIpVZEhuc",
+      "thumbnail": "https://i.ytimg.com/vi/rtKIpVZEhuc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Application of derivatives",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fe02d9b-4d26-47b9-ab91-bcc0a5ab3c2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Indefinite",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/TtJNRGpXxNk",
+      "hd_video_url": "https://www.youtube.com/embed/TtJNRGpXxNk",
+      "thumbnail": "https://i.ytimg.com/vi/TtJNRGpXxNk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Indefinite",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b7a33e4-af17-41b3-b3aa-29d36c77d6ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Definite",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/g6yUAMZA2rI",
+      "hd_video_url": "https://www.youtube.com/embed/g6yUAMZA2rI",
+      "thumbnail": "https://i.ytimg.com/vi/g6yUAMZA2rI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Definite",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ed961d9-4b3b-4d62-bc23-9bce65271c6d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

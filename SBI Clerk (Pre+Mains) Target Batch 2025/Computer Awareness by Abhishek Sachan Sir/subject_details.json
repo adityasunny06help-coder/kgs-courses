@@ -1,0 +1,93 @@
+{
+  "subject_name": "Computer Awareness by Abhishek Sachan Sir",
+  "subject_id": 5981,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/BZ3IRBNKSLM",
+      "hd_video_url": "https://www.youtube.com/embed/BZ3IRBNKSLM",
+      "thumbnail": "https://i.ytimg.com/vi/BZ3IRBNKSLM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c999f2b-41d6-48ac-a4d5-2f028862d96e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Fundamental of computer (Part-01)",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/2-El3h-3f1s",
+      "hd_video_url": "https://www.youtube.com/embed/2-El3h-3f1s",
+      "thumbnail": "https://i.ytimg.com/vi/2-El3h-3f1s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Fundamental of computer (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7ed3029-2294-4fea-93d7-57ed1f352988.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Fundamental of computer (Part-02)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/KwDLnX2wrmc",
+      "hd_video_url": "https://www.youtube.com/embed/KwDLnX2wrmc",
+      "thumbnail": "https://i.ytimg.com/vi/KwDLnX2wrmc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Fundamental of computer (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b96c67a3-1cb8-4c3f-9399-d1817fe85eeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Fundamental of computer (Part-03)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ca0QmY8L82E",
+      "hd_video_url": "https://www.youtube.com/embed/ca0QmY8L82E",
+      "thumbnail": "https://i.ytimg.com/vi/ca0QmY8L82E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Fundamental of computer (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e021de3-7d00-46c6-af52-da80cf14534f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Fundamental of computer (Part-04)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/aVf9nJIeTMs",
+      "hd_video_url": "https://www.youtube.com/embed/aVf9nJIeTMs",
+      "thumbnail": "https://i.ytimg.com/vi/aVf9nJIeTMs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Fundamental of computer (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b957761-1522-43d9-8d56-27681b4537e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Fundamental of computer (Part-05)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/i2_aVSPN4GU",
+      "hd_video_url": "https://www.youtube.com/embed/i2_aVSPN4GU",
+      "thumbnail": "https://i.ytimg.com/vi/i2_aVSPN4GU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Fundamental of computer (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/671864e6-c0d2-4119-9bf6-c057344c1d8f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

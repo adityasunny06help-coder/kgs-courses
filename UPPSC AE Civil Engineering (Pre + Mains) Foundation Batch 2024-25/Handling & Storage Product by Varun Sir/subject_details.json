@@ -1,0 +1,37 @@
+{
+  "subject_name": "Handling & Storage Product by Varun Sir",
+  "subject_id": 5936,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Principles Of Materials Handling",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ygREvWCqHlk",
+      "hd_video_url": "https://www.youtube.com/embed/ygREvWCqHlk",
+      "thumbnail": "https://i.ytimg.com/vi/ygREvWCqHlk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Principles Of Materials Handling",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82efe31f-dc1d-4cce-8213-a463d7f552eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Material Handling Devices",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wJ4_olilLz0",
+      "hd_video_url": "https://www.youtube.com/embed/wJ4_olilLz0",
+      "thumbnail": "https://i.ytimg.com/vi/wJ4_olilLz0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Material Handling Devices",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba11bd5b-cecb-418d-89b2-1a2ba322e086.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,73 @@
+{
+  "subject_name": "Statistics by LK Jha Sir",
+  "subject_id": 5722,
+  "video_count": 6,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 II Introduction Class",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/V2yb9OK4x1g",
+      "hd_video_url": "https://www.youtube.com/embed/V2yb9OK4x1g",
+      "thumbnail": "https://i.ytimg.com/vi/V2yb9OK4x1g/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 II Statistics & DI",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/glYuHrVywrQ",
+      "hd_video_url": "https://www.youtube.com/embed/glYuHrVywrQ",
+      "thumbnail": "https://i.ytimg.com/vi/glYuHrVywrQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 II Statistics & DI",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b878f6e-6f9a-497a-ab39-2a1fbdad2f39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 II Statistics & DI",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/PlXPSP8rU1U",
+      "hd_video_url": "https://www.youtube.com/embed/PlXPSP8rU1U",
+      "thumbnail": "https://i.ytimg.com/vi/PlXPSP8rU1U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 II Statistics & DI",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2aa9febe-0b15-4e3e-a6b4-7479e079982e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 II Statistics & DI",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OWJN0Dwises",
+      "hd_video_url": "https://www.youtube.com/embed/OWJN0Dwises",
+      "thumbnail": "https://i.ytimg.com/vi/OWJN0Dwises/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 II Statistics & DI",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221682/kgss-1743677621-v221682.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sGHJpxm8vPQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/htKUpI1tqjdf3KUdiQRLfqMxZoaVAkc8Bl8dcsJ1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 II Statistics & DI (Last Class)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ZgZ0v-PHTB4",
+      "hd_video_url": "https://www.youtube.com/embed/ZgZ0v-PHTB4",
+      "thumbnail": "https://i.ytimg.com/vi/ZgZ0v-PHTB4/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

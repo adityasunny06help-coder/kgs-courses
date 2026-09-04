@@ -1,0 +1,37 @@
+{
+  "subject_name": "EVS by Abhishek Sir",
+  "subject_id": 8388,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || EVS by Abhishek Sir",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rnI8jHT-J00",
+      "hd_video_url": "https://www.youtube.com/embed/rnI8jHT-J00",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6XvBotoLaVoVp7ZseoCR3RDZQbFjEjHBDq7nVNup.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || EVS by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e6ea506-4377-4188-8c31-303612c33087.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || EVS by Abhishek Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/E6zeDt8CrdY",
+      "hd_video_url": "https://www.youtube.com/embed/E6zeDt8CrdY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9z2JrtqcoYD1dZyvEM7QQF94GFAOiP9dNTt6Qmf6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || EVS by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b54257e-f816-4e23-987a-da5a5e1b69a9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

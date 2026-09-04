@@ -1,0 +1,72 @@
+{
+  "subject_name": "Chemistry by Sumit Sir",
+  "subject_id": 1428,
+  "video_count": 7,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Chemistry Orientation Class + Physical Chemistry || भौतिक रसायन (Part-2)",
+      "published_date": "21 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-01/l-01-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MgUAD0IRSt4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mgkO6EakP3P30C9rhGwDg9ONVorbPk0xJz25VdO0.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Physical Chemistry || भौतिक रसायन (Part-2)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-02/l-02-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wapGQH6AhpU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xcxcfGJIdf9YNlSoPp3ypNZknu9ouTbLT8Gvvvxa.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Physical Chemistry || भौतिक रसायन (Part-3)",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-03/l-03-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s7KIVSlvfEw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/D7p9pc0LKND0LjzHXm8JfuytX317iCUXMfly073I.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Organic Chemistry || कार्बनिक रसायन (Part1)",
+      "published_date": "26 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-04/l-04-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/giCyxwA2BTs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Organic Chemistry || कार्बनिक रसायन (Part-2)",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-05/l-05-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GqjIkk3_HZM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/aXxhjDJEL2SqfEglcORkDxhaL4OciXQdfnS6iwU1.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Organic Chemistry || कार्बनिक रसायन (Part-3)",
+      "published_date": "28 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-06/l-06-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Kq4Q9-oCbFM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WjujsaQE865sgOUrtvQyczL3hnynBSErGNj1NYmJ.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Inorganic Chemistry || अकार्बनिक रसायन",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/chemistry-sumit-sir/l-07/l-07-chemistry-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QiYCUrGtVd4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/0hv1EM4uFPOtKp4H2SivWGOFeKrnbFoAhaO9KzN7.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

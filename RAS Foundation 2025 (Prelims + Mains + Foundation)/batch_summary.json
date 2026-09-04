@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "RAS Foundation 2025 (Prelims + Mains + Foundation)",
+    "price": "4500",
+    "id": "525",
+    "extracted_date": "2025-08-27T14:48:12.196161"
+  },
+  "subjects": [
+    {
+      "name": "Orientation/ Introduction Class",
+      "id": 5778,
+      "video_count": 8,
+      "note_count": 7
+    },
+    {
+      "name": "Rajasthan History (Prelims) by Anand Sir",
+      "id": 5791,
+      "video_count": 108,
+      "note_count": 105
+    },
+    {
+      "name": "Indian and World Geography (Mains) by Shankar Jha Sir",
+      "id": 5937,
+      "video_count": 35,
+      "note_count": 35
+    },
+    {
+      "name": "Science & Technology (Mains) by Sushant Sir",
+      "id": 6011,
+      "video_count": 50,
+      "note_count": 50
+    },
+    {
+      "name": "Indian and World Economy (Mains) by Priya Ranjan Sir",
+      "id": 6353,
+      "video_count": 26,
+      "note_count": 25
+    },
+    {
+      "name": "Ethics (Mains) by Dharmendra Sir",
+      "id": 6678,
+      "video_count": 20,
+      "note_count": 18
+    },
+    {
+      "name": "Economics (Prelims) by Priya Ranjan Sir",
+      "id": 7418,
+      "video_count": 34,
+      "note_count": 33
+    },
+    {
+      "name": "Rajasthan Geography (Prelims) by Amit Shree Sir",
+      "id": 7422,
+      "video_count": 48,
+      "note_count": 41
+    },
+    {
+      "name": "Rajasthan Art & Culture Prelims by Anand Sir",
+      "id": 8359,
+      "video_count": 8,
+      "note_count": 5
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "subject_name": "Chemistry Supporting Material",
+  "subject_id": 3111,
+  "video_count": 49,
+  "note_count": 49,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Electrochemistry (Practice Section) Part 1 - VIDEO SOLUTION - 1",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/SXLyaDCDcYA",
+      "hd_video_url": "https://www.youtube.com/embed/SXLyaDCDcYA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Electrochemistry (Practice Section) Part 1 - VIDEO SOLUTION - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce023433-351d-4c96-983d-206c00c413c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Electrochemistry (Practice Section) Part 2 - VIDEO SOLUTION - 2",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/MECu5fzt63I",
+      "hd_video_url": "https://www.youtube.com/embed/MECu5fzt63I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Electrochemistry (Practice Section) Part 2 - VIDEO SOLUTION - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17876ea8-ae3a-4f08-a9a5-c04634767f51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Electrochemistry (Practice Section) Part 3 - VIDEO SOLUTION - 3",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/P4MbHqJHDUU",
+      "hd_video_url": "https://www.youtube.com/embed/P4MbHqJHDUU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Electrochemistry (Practice Section) Part 3 - VIDEO SOLUTION - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7711d62-9d84-4d2d-9df1-882f15a03756.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Periodic Table and Periodic Properties (Practice Section) Part 1 - VIDEO SOLUTION - 4",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/tGI_rKPHhi0",
+      "hd_video_url": "https://www.youtube.com/embed/tGI_rKPHhi0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Periodic Table and Periodic Properties (Practice Section) Part 1 - VIDEO SOLUTION - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d798a0f-4691-42b0-ad52-82537bd6ab29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Periodic Table and Periodic Properties (Practice Section) Part 2 - VIDEO SOLUTION - 5",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/9RXy7iG8Q2g",
+      "hd_video_url": "https://www.youtube.com/embed/9RXy7iG8Q2g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Periodic Table and Periodic Properties (Practice Section) Part 2 - VIDEO SOLUTION - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50534278-cdab-4ff0-9453-22b6c9341fa1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Periodic Table and Periodic Properties (Practice Section) Part 3 - VIDEO SOLUTION - 6",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/zIAUyCQXTUQ",
+      "hd_video_url": "https://www.youtube.com/embed/zIAUyCQXTUQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Periodic Table and Periodic Properties (Practice Section) Part 3 - VIDEO SOLUTION - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49973b6c-c334-4748-88a8-29131ce8242d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Periodic Table and Periodic Properties (Practice Section) Part 4 - VIDEO SOLUTION - 7",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/cEUGywVc3Lk",
+      "hd_video_url": "https://www.youtube.com/embed/cEUGywVc3Lk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Periodic Table and Periodic Properties (Practice Section) Part 4 - VIDEO SOLUTION - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14b715e5-d424-46f2-aa1f-94feb16f84d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 1 - VIDEO SOLUTION - 8",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/otTV0R5g1_M",
+      "hd_video_url": "https://www.youtube.com/embed/otTV0R5g1_M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 1 - VIDEO SOLUTION - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9d114f7-23dc-43e2-a4bf-6577bcc82f32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 2 - VIDEO SOLUTION - 9",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/hxBVpUJPHXk",
+      "hd_video_url": "https://www.youtube.com/embed/hxBVpUJPHXk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 2 - VIDEO SOLUTION - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88deb404-9d8b-4d68-be2d-229ac2e46519.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 3 - VIDEO SOLUTION - 10",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7EUOVnGN9U0",
+      "hd_video_url": "https://www.youtube.com/embed/7EUOVnGN9U0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 3 - VIDEO SOLUTION - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab7964e0-c409-4168-9bde-e87d40af7e38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 4 - VIDEO SOLUTION - 11",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zgzGueUXqcE",
+      "hd_video_url": "https://www.youtube.com/embed/zgzGueUXqcE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Chemical Bonding & Molecular Structure (Practice Section) Part 4 - VIDEO SOLUTION - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b99f9655-c356-4ad2-9963-b570091bb3d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "IUPAC and Nomenclature  (Practice Section) Part 1 - VIDEO SOLUTION - 12",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Xp4bSHuodnU",
+      "hd_video_url": "https://www.youtube.com/embed/Xp4bSHuodnU",
+      "thumbnail": "https://i.ytimg.com/vi/Xp4bSHuodnU/default.jpg",
+      "notes": [
+        {
+          "title": "IUPAC and Nomenclature (Practice Section) (Practice Section) Part 1 - VIDEO SOLUTION - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0db027e-03bb-430f-92d8-93b931021311.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "IUPAC and Nomenclature  (Practice Section) Part 2 - VIDEO SOLUTION - 13",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/v_xRjAxNxq0",
+      "hd_video_url": "https://www.youtube.com/embed/v_xRjAxNxq0",
+      "thumbnail": "https://i.ytimg.com/vi/v_xRjAxNxq0/default.jpg",
+      "notes": [
+        {
+          "title": "IUPAC and Nomenclature (Practice Section)  Part 2 - VIDEO SOLUTION - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c2265d4-734c-4eaf-8fc3-0ef6ec7246ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Isomerism (Practice Section) Part 1 - VIDEO SOLUTION - 14",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FFngJJdyK8s",
+      "hd_video_url": "https://www.youtube.com/embed/FFngJJdyK8s",
+      "thumbnail": "https://i.ytimg.com/vi/FFngJJdyK8s/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Isomerism (Practice Section) Part 1 - VIDEO SOLUTION - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf1ee0ee-0e9f-48d8-8014-538312e8485a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Isomerism (Practice Section) Part 2 - VIDEO SOLUTION - 15",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/u0wzJj_BL-4",
+      "hd_video_url": "https://www.youtube.com/embed/u0wzJj_BL-4",
+      "thumbnail": "https://i.ytimg.com/vi/u0wzJj_BL-4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Isomerism (Practice Section) Part 2 - VIDEO SOLUTION - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00a90d71-8b57-40ca-ad73-72135d650947.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Isomerism (Practice Section) Part 3 - VIDEO SOLUTION - 16",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FqCQ1-sKtN4",
+      "hd_video_url": "https://www.youtube.com/embed/FqCQ1-sKtN4",
+      "thumbnail": "https://i.ytimg.com/vi/FqCQ1-sKtN4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Isomerism (Practice Section) Part 3 - VIDEO SOLUTION - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c5df09c-a520-4cd2-a2ae-85cd51bfed5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Some Basic Concepts of Chemistry  (Practice Section) Part 1 - VIDEO SOLUTION - 17",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/7_v02_XJZIE",
+      "hd_video_url": "https://www.youtube.com/embed/7_v02_XJZIE",
+      "thumbnail": "https://i.ytimg.com/vi/7_v02_XJZIE/default.jpg",
+      "notes": [
+        {
+          "title": "Some Basic Concepts of Chemistry  (Practice Section) Part 1 - VIDEO SOLUTION - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38155428-6da3-43d1-96d3-4d546da03982.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Some Basic Concepts of Chemistry (Practice Section) Part 2 - VIDEO SOLUTION - 18",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9AQI2yrb0hg",
+      "hd_video_url": "https://www.youtube.com/embed/9AQI2yrb0hg",
+      "thumbnail": "https://i.ytimg.com/vi/9AQI2yrb0hg/default.jpg",
+      "notes": [
+        {
+          "title": "Some Basic Concepts of Chemistry (Practice Section) Part 2 - VIDEO SOLUTION - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7081bd8c-75a8-4fb5-9a0c-c2471263f4a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Some Basic Concepts of Chemistry (Practice Section) Part 3 - VIDEO SOLUTION - 19",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/QHkDKyuHuNI",
+      "hd_video_url": "https://www.youtube.com/embed/QHkDKyuHuNI",
+      "thumbnail": "https://i.ytimg.com/vi/QHkDKyuHuNI/default.jpg",
+      "notes": [
+        {
+          "title": "Some Basic Concepts of Chemistry (Practice Section) Part 3 - VIDEO SOLUTION - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8457e64f-2bdd-473f-a925-a99849789d5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Some Basic Concepts of Chemistry (Practice Section) Part 4 - VIDEO SOLUTION - 20",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/GgcF3LeXD34",
+      "hd_video_url": "https://www.youtube.com/embed/GgcF3LeXD34",
+      "thumbnail": "https://i.ytimg.com/vi/GgcF3LeXD34/default.jpg",
+      "notes": [
+        {
+          "title": "Some Basic Concepts of Chemistry (Practice Section) Part 4 - VIDEO SOLUTION - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca316c22-6d12-4b80-b2b1-c2b1f917970f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Atomic Structure (Practice Section) Part 1 - VIDEO SOLUTION - 21",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/YLrEnn784lA",
+      "hd_video_url": "https://www.youtube.com/embed/YLrEnn784lA",
+      "thumbnail": "https://i.ytimg.com/vi/YLrEnn784lA/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Atomic Structure (Practice Section) Part 1 - VIDEO SOLUTION - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c1446f0-c8b4-49e7-9134-a3ad982e73a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Atomic Structure (Practice Section) Part 2 - VIDEO SOLUTION - 22",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/103nU6p9lhA",
+      "hd_video_url": "https://www.youtube.com/embed/103nU6p9lhA",
+      "thumbnail": "https://i.ytimg.com/vi/103nU6p9lhA/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Atomic Structure (Practice Section) Part 2 - VIDEO SOLUTION - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d5fccf6-a5e7-484d-9c68-e27a6dbb1f05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Atomic Structure (Practice Section) Part 3 - VIDEO SOLUTION - 23",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/eXCRcMelLOQ",
+      "hd_video_url": "https://www.youtube.com/embed/eXCRcMelLOQ",
+      "thumbnail": "https://i.ytimg.com/vi/eXCRcMelLOQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Atomic Structure (Practice Section) Part 3 - VIDEO SOLUTION - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efd156da-8fa8-4956-92a7-1b7db54b89cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Atomic Structure (Practice Section) Part 4 - VIDEO SOLUTION - 24",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/PW5pG64Ebi0",
+      "hd_video_url": "https://www.youtube.com/embed/PW5pG64Ebi0",
+      "thumbnail": "https://i.ytimg.com/vi/PW5pG64Ebi0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Atomic Structure (Practice Section) Part 4 - VIDEO SOLUTION - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1522847f-e584-42df-a172-ba01309f287f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Thermodynamics (Practice Section) Part 1 - VIDEO SOLUTION - 25",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7NYGHDGMotw",
+      "hd_video_url": "https://www.youtube.com/embed/7NYGHDGMotw",
+      "thumbnail": "https://i.ytimg.com/vi/7NYGHDGMotw/default.jpg",
+      "notes": [
+        {
+          "title": "Thermodynamics (Practice Section) Part 1 - VIDEO SOLUTION - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dfc6716-b8a8-42ec-931a-61a30067f5b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Thermodynamics (Practice Section) Part 2 - VIDEO SOLUTION - 26",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/XAU_ymg-7fI",
+      "hd_video_url": "https://www.youtube.com/embed/XAU_ymg-7fI",
+      "thumbnail": "https://i.ytimg.com/vi/XAU_ymg-7fI/default.jpg",
+      "notes": [
+        {
+          "title": "Thermodynamics (Practice Section) Part 2 - VIDEO SOLUTION - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8032c4d2-e116-444b-8e2b-628e5c5e10f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Thermodynamics (Practice Section) Part 3 - VIDEO SOLUTION - 27",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/KXPThSm6dEg",
+      "hd_video_url": "https://www.youtube.com/embed/KXPThSm6dEg",
+      "thumbnail": "https://i.ytimg.com/vi/KXPThSm6dEg/default.jpg",
+      "notes": [
+        {
+          "title": "Thermodynamics (Practice Section) Part 3 - VIDEO SOLUTION - 27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec88104b-2e3f-4fe9-a058-82cd8313f8ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Thermodynamics (Practice Section) Part 4 - VIDEO SOLUTION - 28",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-vLGnfjRou0",
+      "hd_video_url": "https://www.youtube.com/embed/-vLGnfjRou0",
+      "thumbnail": "https://i.ytimg.com/vi/-vLGnfjRou0/default.jpg",
+      "notes": [
+        {
+          "title": "Thermodynamics (Practice Section) Part 4 - VIDEO SOLUTION - 28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5b6ed8a-6e89-4c55-af7b-173cfea16fa7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Thermodynamics (Practice Section) Part 5 - VIDEO SOLUTION - 29",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/J6OjsoG77x4",
+      "hd_video_url": "https://www.youtube.com/embed/J6OjsoG77x4",
+      "thumbnail": "https://i.ytimg.com/vi/J6OjsoG77x4/default.jpg",
+      "notes": [
+        {
+          "title": "Thermodynamics (Practice Section) Part 5 - VIDEO SOLUTION - 29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b281c5c-34e7-4850-b4be-c738bbbd9e5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Hydrocarbon (Practice Section) Part 1 - VIDEO SOLUTION - 30",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NqSPTMdgxwY",
+      "hd_video_url": "https://www.youtube.com/embed/NqSPTMdgxwY",
+      "thumbnail": "https://i.ytimg.com/vi/NqSPTMdgxwY/default.jpg",
+      "notes": [
+        {
+          "title": "Hydrocarbon (Practice Section) Part 1 - VIDEO SOLUTION - 30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98390e62-4f61-4375-94c8-b08d1c2cbc5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Hydrocarbon (Practice Section) Part 2 - VIDEO SOLUTION - 31",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tyRcHw_OOjA",
+      "hd_video_url": "https://www.youtube.com/embed/tyRcHw_OOjA",
+      "thumbnail": "https://i.ytimg.com/vi/tyRcHw_OOjA/default.jpg",
+      "notes": [
+        {
+          "title": "Hydrocarbon (Practice Section) Part 2 - VIDEO SOLUTION - 31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a3e1790-f9f1-4eae-be24-cea379522b77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Hydrocarbon (Practice Section) Part 3 - VIDEO SOLUTION - 32",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/jtLXE8O68Ew",
+      "hd_video_url": "https://www.youtube.com/embed/jtLXE8O68Ew",
+      "thumbnail": "https://i.ytimg.com/vi/jtLXE8O68Ew/default.jpg",
+      "notes": [
+        {
+          "title": "Hydrocarbon (Practice Section) Part 3 - VIDEO SOLUTION - 32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02dc92d6-ca77-4829-8045-40ecb495c467.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Hydrocarbon (Practice Section) Part 4 - VIDEO SOLUTION - 33",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/asbQ8LCZpls",
+      "hd_video_url": "https://www.youtube.com/embed/asbQ8LCZpls",
+      "thumbnail": "https://i.ytimg.com/vi/asbQ8LCZpls/default.jpg",
+      "notes": [
+        {
+          "title": "Hydrocarbon (Practice Section) Part 4 - VIDEO SOLUTION - 33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bcd3c974-19e3-4f34-907a-cd4db33cf070.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Chemical Equilibrium (Practice Section) Part 1 - VIDEO SOLUTION - 34",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/1DeU8vAAjOI",
+      "hd_video_url": "https://www.youtube.com/embed/1DeU8vAAjOI",
+      "thumbnail": "https://i.ytimg.com/vi/1DeU8vAAjOI/default.jpg",
+      "notes": [
+        {
+          "title": "Chemical Equilibrium (Practice Section) Part 1 - VIDEO SOLUTION - 34",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9a2c90b-b7b1-40cd-a3b5-38f85ed05f82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Chemical Equilibrium (Practice Section) Part 2 - VIDEO SOLUTION - 35",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/XipnaCQR3EA",
+      "hd_video_url": "https://www.youtube.com/embed/XipnaCQR3EA",
+      "thumbnail": "https://i.ytimg.com/vi/XipnaCQR3EA/default.jpg",
+      "notes": [
+        {
+          "title": "Chemical Equilibrium (Practice Section) Part 2 - VIDEO SOLUTION - 35",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/563b2e91-23b8-4ee8-b913-6684a6f4ee59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Chemical Equilibrium (Practice Section) Part 3 - VIDEO SOLUTION - 36",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/uNMwgUhPUJo",
+      "hd_video_url": "https://www.youtube.com/embed/uNMwgUhPUJo",
+      "thumbnail": "https://i.ytimg.com/vi/uNMwgUhPUJo/default.jpg",
+      "notes": [
+        {
+          "title": "Chemical Equilibrium (Practice Section) Part 3 - VIDEO SOLUTION - 36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb5caca5-c7ca-40f6-9ff5-8954dad6f4db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Chemical Equilibrium (Practice Section) Part 4 - VIDEO SOLUTION - 37",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/iu75cTCshl8",
+      "hd_video_url": "https://www.youtube.com/embed/iu75cTCshl8",
+      "thumbnail": "https://i.ytimg.com/vi/iu75cTCshl8/default.jpg",
+      "notes": [
+        {
+          "title": "Chemical Equilibrium (Practice Section) Part 4 - VIDEO SOLUTION - 37",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08b3682f-0561-4872-8a7b-e9568ead15ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "p - Block Elements  (Practice Section) Part 1 - VIDEO SOLUTION - 38",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/lfcOLrYh44Y",
+      "hd_video_url": "https://www.youtube.com/embed/lfcOLrYh44Y",
+      "thumbnail": "https://i.ytimg.com/vi/lfcOLrYh44Y/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes p - Block Elements  (Practice Section) Part 1 - VIDEO SOLUTION - 38",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a21fc3c-9849-43f0-95e2-73e9d138f578.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "p - Block Elements  (Practice Section) Part 2 - VIDEO SOLUTION - 39",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/XkTNUz_eV0k",
+      "hd_video_url": "https://www.youtube.com/embed/XkTNUz_eV0k",
+      "thumbnail": "https://i.ytimg.com/vi/XkTNUz_eV0k/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes p - Block Elements  (Practice Section) Part 2 - VIDEO SOLUTION - 39",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86b4cd33-f609-45a6-a6ff-736ab7b6a01f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Redox Reaction (Practice Section) Part 1 - VIDEO SOLUTION - 40",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/vhqgD4ekN8o",
+      "hd_video_url": "https://www.youtube.com/embed/vhqgD4ekN8o",
+      "thumbnail": "https://i.ytimg.com/vi/vhqgD4ekN8o/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Redox Reaction (Practice Section) Part 1 - VIDEO SOLUTION - 40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c282cb67-06e9-45e3-917c-60e788d7ae83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Redox Reaction (Practice Section) Part 2 - VIDEO SOLUTION - 41",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/6kn8OwmHmRc",
+      "hd_video_url": "https://www.youtube.com/embed/6kn8OwmHmRc",
+      "thumbnail": "https://i.ytimg.com/vi/6kn8OwmHmRc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Redox Reaction (Practice Section) Part 2 - VIDEO SOLUTION - 41",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/364923a1-7952-405e-9e32-75ee3a49041d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Redox Reaction (Practice Section) Part 3 - VIDEO SOLUTION - 42",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7fLT_dKmSv8",
+      "hd_video_url": "https://www.youtube.com/embed/7fLT_dKmSv8",
+      "thumbnail": "https://i.ytimg.com/vi/7fLT_dKmSv8/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes Redox Reaction (Practice Section) Part 3 - VIDEO SOLUTION - 42",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/daacbe4d-cef5-4848-82f3-5da934a5af46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "GOC 1 (Practice Section) Part 1 - VIDEO SOLUTION - 43",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/YkG7LqdkbfA",
+      "hd_video_url": "https://www.youtube.com/embed/YkG7LqdkbfA",
+      "thumbnail": "https://i.ytimg.com/vi/YkG7LqdkbfA/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 1 (Practice Section) Part 1 - VIDEO SOLUTION - 43",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67e19f95-e671-4af0-95a6-faaebd0a9652.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "GOC 1 (Practice Section) Part 2 - VIDEO SOLUTION - 44",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/q2VZOD4aGJc",
+      "hd_video_url": "https://www.youtube.com/embed/q2VZOD4aGJc",
+      "thumbnail": "https://i.ytimg.com/vi/q2VZOD4aGJc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 1 (Practice Section) Part 2 - VIDEO SOLUTION - 44",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6ceb8c2-b436-41c6-94bc-d20fc73b32b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "GOC 1 (Practice Section) Part 3 - VIDEO SOLUTION - 45",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/sP0CGCRwANI",
+      "hd_video_url": "https://www.youtube.com/embed/sP0CGCRwANI",
+      "thumbnail": "https://i.ytimg.com/vi/sP0CGCRwANI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 1 (Practice Section) Part 3 - VIDEO SOLUTION - 45",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ab7b336-1aff-46f6-9092-639133c86ec6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "GOC 1 (Practice Section) Part 4 - VIDEO SOLUTION - 46",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/3IG-r1i6Pps",
+      "hd_video_url": "https://www.youtube.com/embed/3IG-r1i6Pps",
+      "thumbnail": "https://i.ytimg.com/vi/3IG-r1i6Pps/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 1 (Practice Section) Part 4 - VIDEO SOLUTION - 46",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5e65da1-8c06-462b-8c8e-ac20723c4a96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "GOC 2 (Practice Section) Part 1 - VIDEO SOLUTION - 47",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/bRx91xKhUIc",
+      "hd_video_url": "https://www.youtube.com/embed/bRx91xKhUIc",
+      "thumbnail": "https://i.ytimg.com/vi/bRx91xKhUIc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 2 (Practice Section) Part 1 - VIDEO SOLUTION - 47",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b991cf8f-f668-4e3c-b2e6-abf6522bae6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "GOC 2 (Practice Section) Part 2 - VIDEO SOLUTION - 48",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/RbI1mabeRpI",
+      "hd_video_url": "https://www.youtube.com/embed/RbI1mabeRpI",
+      "thumbnail": "https://i.ytimg.com/vi/RbI1mabeRpI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 2 (Practice Section) Part 2 - VIDEO SOLUTION - 48",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1422ed2-026f-4726-ac14-be24076c8320.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "GOC 2 (Practice Section) Part 3 - VIDEO SOLUTION - 49",
+      "published_date": "31 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/mLRuDhtYqFM",
+      "hd_video_url": "https://www.youtube.com/embed/mLRuDhtYqFM",
+      "thumbnail": "https://i.ytimg.com/vi/mLRuDhtYqFM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes GOC 2 (Practice Section) Part 3 - VIDEO SOLUTION - 49",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f47bb5c3-2a97-42b8-8d10-f04655e081d2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

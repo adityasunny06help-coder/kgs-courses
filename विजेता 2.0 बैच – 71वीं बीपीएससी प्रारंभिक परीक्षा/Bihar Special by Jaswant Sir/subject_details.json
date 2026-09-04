@@ -1,0 +1,93 @@
+{
+  "subject_name": "Bihar Special by Jaswant Sir",
+  "subject_id": 7923,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Geography of Bihar (Part-1)",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304139/kgss-1753005775-v304139.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YoV0iuLLaFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1CeJRM2QJKje9RTQLoXDpi1bujv3i4uIwLwXtqru.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || History of Bihar",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e2cfe27-409c-4f95-9f30-fe00e2c99478.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Geography of Bihar (Part-2)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304141/kgss-1753091362-v304141.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bvnKpj7anGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KeF4RuXGoam41pD4XQkdYVM6GwYu8I6U6ZJf0eaa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/129a5168-d78d-49ad-8116-e49724db526f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Bihar Special",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/305197/kgss-1753177570-v305197.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QrASNuNTKHw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ufPGvogkj8eha61pPRmS77dg6hOZMJkaj5RzYmJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a85d201-ddff-4c61-8210-b5b1cdcd6aae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || History of Bihar (Part-2)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/AGKFR67AAJo",
+      "hd_video_url": "https://www.youtube.com/embed/AGKFR67AAJo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iSUn1VuMIDCLysMbnyHvOPNk2jebPGOyGKUIkopJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcdff5f4-e660-47d0-94d7-2db5fc76a24d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Bihar Special",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/307040/kgss-1753350950-v307040.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hmgNhKgDWj4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bScLNt7ShgrsRniOaJaSsL2yxg0yQqHznggt7k9K.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5045d88f-2556-43eb-a46c-c1e0fda82471.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Bihar Special",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/307527/kgss-1753437600-v307527.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NnlzgjuXOhA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XVXHRiXX1E2sdfsZMYK8vrA0WAeZkI0RPrtv43Ez.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01d856f1-c8c8-469c-9ba9-4f2d56aff99a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

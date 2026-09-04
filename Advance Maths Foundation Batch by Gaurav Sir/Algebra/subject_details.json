@@ -1,0 +1,177 @@
+{
+  "subject_name": "Algebra",
+  "subject_id": 3078,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Algebra-01",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98418/kgss-1721794007-v98418.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o6GTzdKj0DI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gHS8dytRDEle7D6yxO04Wqeri2khMBGSeA3T9LQW.png",
+      "notes": [
+        {
+          "title": "Algebra-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3849460-5eaf-4534-82b3-f7396c5dd2ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Algebra-02",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98858/kgss-1721967040-v98858.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Qz3LljJANeE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/StnZ1x1pUJ70VwJ5OsOuxoySGJdE07jgg05e7XLH.png",
+      "notes": [
+        {
+          "title": "Algebra-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c9503e7-e399-4fee-a2df-e2e0878b2b69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Algebra-03",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/99775/kgss-1722052993-v99775.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uvAjkBG9R8o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9Ts4SH4Pm44rrOWIn69BcGjMXrvXRpru42txxd4D.png",
+      "notes": [
+        {
+          "title": "Algebra-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91ca5e06-26e5-4b54-bff3-b63056bcd372.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Algebra-04",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/100230/kgss-1722226505-v100230.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cw1wvQnMsR4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hU5cimydk2c9N2FqdJSQQ46Pg132uTYD6wV9Z12A.png",
+      "notes": [
+        {
+          "title": "Algebra-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17e22206-e66b-492a-af77-aeda800d43ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Algebra-05",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/100774/kgss-1722310908-v100774.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UWRGCQqITbc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/p2wCsUVkPfKlYYs50t5v2NyVqXgEIF608n3u6n3b.png",
+      "notes": [
+        {
+          "title": "Algebra-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63cb8b79-1d1d-4ff2-bac8-53f8a2aaf094.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Algebra-06",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/101072/kgss-1722397619-v101072.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qtswJy7VesE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ku4hUAA7HChUxoOMN84kgQE4uSwzaq84y62u3P3E.png",
+      "notes": [
+        {
+          "title": "Algebra-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f8b6f66-6509-4797-8733-e84662f60367.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Algebra-07",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/101545/kgss-1722483834-v101545.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_nnofw0fPaE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sL5gC9v9kzgeKuwELlT1Z6DUubAeuEIyR2HS2TsZ.png",
+      "notes": [
+        {
+          "title": "Algebra-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/466433a8-655f-45da-b32b-4946bbad946c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Algebra-08",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/102283/kgss-1722572021-v102283.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-sTKcc459ec",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GZJRa54TW2Eibwu6HKpGlLK2PgqHlLMwric5V2IW.png",
+      "notes": [
+        {
+          "title": "Algebra-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac53dbc2-6e57-4caa-82a5-c2784c49346c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Algebra-09",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103072/kgss-1722830674-v103072.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gkTCMziXdk0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WoIYeSQalTnVUfWXQb9KHNU5A3Wz7IM7q2fIsn4Q.png",
+      "notes": [
+        {
+          "title": "Algebra-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e89595dd-6ec3-4de5-aab8-26ad70e5d00b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Algebra-10",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104259/kgss-1723003392-v104259.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SVbsB9Y5qlY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uL3cTqx8HmDQapFC2s7DAaxmti3nKA8CdJjFuBRG.png",
+      "notes": [
+        {
+          "title": "Algebra-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b5652f1-6263-4d26-8cff-2526346ba2cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Algebra-11",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104671/kgss-1723177226-v104671.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4vNucWapUfM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7rJFRNsZdr9CnJtOpccEZRTn17mJxjTUvy05Be10.png",
+      "notes": [
+        {
+          "title": "Algebra-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a918b8c-0446-4887-b168-1450a24fbbe7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Algebra-12",
+      "published_date": "10 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/105699/kgss-1723262321-v105699.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tFlcNKNGLbA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3ZTypDV4b9gey0qaSzXlwNQoRq7ixwjTKNQCn2GU.png",
+      "notes": [
+        {
+          "title": "Algebra-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43c9a9a1-375a-4c2f-9253-5fdca37078e7.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

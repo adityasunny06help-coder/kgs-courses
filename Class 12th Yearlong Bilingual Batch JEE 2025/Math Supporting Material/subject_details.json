@@ -1,0 +1,167 @@
+{
+  "subject_name": "Math Supporting Material",
+  "subject_id": 2558,
+  "video_count": 12,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "DETERMINANT (FlashBack) Part - 1 : Video Solution - 1",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/live/RujRAfWfg8Y?si=uCFLPALSe2FP9Rwv",
+      "hd_video_url": "https://www.youtube.com/live/RujRAfWfg8Y?si=uCFLPALSe2FP9Rwv",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ea9f4ed-0c63-4176-8f3f-90ef33e59778.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "DETERMINANT (Flashback) Part - 2 : Video Solution - 2",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/live/5lUAo3oSedA?si=VZTMIfePlEdrCJJD",
+      "hd_video_url": "https://www.youtube.com/live/5lUAo3oSedA?si=VZTMIfePlEdrCJJD",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cabd15ec-5f5c-4111-9f42-44e8f4cecc82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "DETERMINANT (Flashback) Part - 3 : Video Solution - 3",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/live/pOri3aIgxII?si=qv_APDU3Ft0p2Vyd",
+      "hd_video_url": "https://www.youtube.com/live/pOri3aIgxII?si=qv_APDU3Ft0p2Vyd",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/677e1324-c6e8-4ae9-a12c-b514283e7d11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "DETERMINANT (Flashback) Part - 4 : Video Solution  - 4",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://youtube.com/live/lpqHLo5RGW0?feature=share",
+      "hd_video_url": "https://youtube.com/live/lpqHLo5RGW0?feature=share",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11eb8935-6b26-42b9-a32c-d346472d9130.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "DETERMINANT (Flashback) Part - 5 : Video Solution -- 5",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/live/260o9OuvL9Y?si=8GOy4Fn2cflCdDGu",
+      "hd_video_url": "https://www.youtube.com/live/260o9OuvL9Y?si=8GOy4Fn2cflCdDGu",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a90c404d-f73c-4c27-bd0b-3fa75807aed5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "MATRICES -6",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://youtu.be/QLoxtruQtSs?si=CYZC8UpmP52GMglR",
+      "hd_video_url": "https://youtu.be/QLoxtruQtSs?si=CYZC8UpmP52GMglR",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "MATRICES (Practice Section) Part - 1 : Video Solution - 7",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/LcSWrQ42vzM",
+      "hd_video_url": "https://www.youtube.com/embed/LcSWrQ42vzM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "MATRICES (Practice Section) -Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c10815db-fbc4-403e-8164-db9d46367945.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Matrices (Practice section) Part - 2 : Video Solution - 8",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/BBk7RyQicSs",
+      "hd_video_url": "https://www.youtube.com/embed/BBk7RyQicSs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Matrices (Practice section) Part - 3 : Video Solution - 9",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/jQ_Bt4p7bKc",
+      "hd_video_url": "https://www.youtube.com/embed/jQ_Bt4p7bKc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Matrices (Practice section) Part - 3 : Video Solution - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10cc738a-25b4-455a-9055-612356c295c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "DETERMINANT (Practice Section) Part - 6 : Video Solution - 10",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Y4hM-R4rWek",
+      "hd_video_url": "https://www.youtube.com/embed/Y4hM-R4rWek",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT (Practice Section) Part - 6 : Video Solution - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e3dc969-be26-4e84-a852-fb193d265bf0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "DETERMINANT (Practice Section) Part - 7 : Video Solution - 11",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/tEpirhriKMg",
+      "hd_video_url": "https://www.youtube.com/embed/tEpirhriKMg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT (Practice Section) Part - 7 : Video Solution - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de49d5a5-1eb5-4fbf-8322-84bda409819e.06"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "DETERMINANT (Practice Section) Part - 8 : Video Solution - 12",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/NKECgB3Yy8I",
+      "hd_video_url": "https://www.youtube.com/embed/NKECgB3Yy8I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "DETERMINANT (Practice Section) Part - 8 : Video Solution - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8df7bdd-acc5-4e37-bb08-85432e3b7501.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

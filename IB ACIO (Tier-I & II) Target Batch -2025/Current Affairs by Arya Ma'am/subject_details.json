@@ -1,0 +1,32 @@
+{
+  "subject_name": "Current Affairs by Arya Ma'am",
+  "subject_id": 8392,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || June Monthly 2025 || जून मासिक 2025 (Part 1)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jY5QRdAdAME",
+      "hd_video_url": "https://www.youtube.com/embed/jY5QRdAdAME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iAANR7jXZPydJnbf9QXVtTA4L9w1f6z1S9v7G1nV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || June Monthly 2025 || जून मासिक 2025 (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9571bb4b-a2b2-421c-a608-a9035cad8d34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || June Monthly 2025 || जून मासिक 2025 (Part 2)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/tbBgyY0P8iI",
+      "hd_video_url": "https://www.youtube.com/embed/tbBgyY0P8iI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wgUrnpELTWzTDyvp2RzfghgxLAxldKdiIeXmHm3T.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,816 @@
+{
+  "subject_name": "Geography by Abhishek Sir",
+  "subject_id": 7138,
+  "video_count": 58,
+  "note_count": 57,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction of Geography || ​भूगोल का परिचय",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KabYwRFcmlk",
+      "hd_video_url": "https://www.youtube.com/embed/KabYwRFcmlk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6027X6RKWw9tP5GaLukr5XP319m7hVbTYheGBEEP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction of Geography || ​भूगोल का परिचय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be1c8ffd-db6b-49c3-819f-2f63aa89cebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 01)",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KfesurCVHvU",
+      "hd_video_url": "https://www.youtube.com/embed/KfesurCVHvU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Sqt8NOZ9rDV5mwNw24r8tz2iAMpEJSx4vGnRnbqt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1332cee-3595-423a-a30c-b751a3976ebd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 02)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/5xPj02QGOv8",
+      "hd_video_url": "https://www.youtube.com/embed/5xPj02QGOv8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0CAsoI1o1hMM4f8FVV23bEssS1dvOh94CpFG1Ywv.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88ca3a31-7296-42c0-8a50-97bfef51c149.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 03)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/j1qxLZyU6ec",
+      "hd_video_url": "https://www.youtube.com/embed/j1qxLZyU6ec",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Iyy8HNkCIj1pdQBUDXjaxEkPfHRYIyyDZnf2ht9j.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb6c6954-de6c-473a-b8f9-d0b9630a921d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 04)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/g_WP5TK5AY8",
+      "hd_video_url": "https://www.youtube.com/embed/g_WP5TK5AY8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cnQ99zXZEREBcXbcJw7m9O8cmgfmqKYIZPVNjT5U.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e455a51-9b93-4066-a2c6-882e09b58c24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 05)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jVBRXJvgJ3Q",
+      "hd_video_url": "https://www.youtube.com/embed/jVBRXJvgJ3Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/t5YqTA2Fg95sxyiKpEBleUAH0hFn1MhwdJd8DdMf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 06 || General Introduction of India || ​भारत का सामान्य परिचय (Part - 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd627a01-1533-409e-9277-752c2fd5f7ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || Himalaya || ​हिमालय (Part - 01)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/iZ95kcfNeCE",
+      "hd_video_url": "https://www.youtube.com/embed/iZ95kcfNeCE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pFH62p15pXXCOyI28X7bOVlvKnB6YvmUwuKmWRXj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Himalaya || ​हिमालय (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99f58d9b-9e83-4a32-8577-e8a41e3055f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || Himalaya || ​हिमालय (Part - 02)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2rCdAf2EWuE",
+      "hd_video_url": "https://www.youtube.com/embed/2rCdAf2EWuE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yQ2nmK75ZXoqXMFpyberm1RcKt0mTP44D2g88V4H.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 08 || Himalaya || ​हिमालय (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d4b148c-1bdf-4d32-97e5-2bc05e48315d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || Himalaya || ​हिमालय (Part - 03)",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Zt5srt0nXkY",
+      "hd_video_url": "https://www.youtube.com/embed/Zt5srt0nXkY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xm9wRAfy3VfEX6f8qzKgg4DFvmhPwmmeE3uqDAYy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 09 || Himalaya || ​हिमालय (Part - 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/caca3ce3-96f4-4c62-b453-2a883a437d02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Himalaya || ​हिमालय (Part - 04)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aWqZRqUFRso",
+      "hd_video_url": "https://www.youtube.com/embed/aWqZRqUFRso",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8TMu9mUanGWe3Ks61kLyaMwOXM0Pa0vSjqyoDsmw.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Himalaya || ​हिमालय (Part - 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21e7f4a8-c64e-4169-969e-0b4c6a09c722.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Himalaya || ​हिमालय (Part - 05)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/L5n3aHZOULQ",
+      "hd_video_url": "https://www.youtube.com/embed/L5n3aHZOULQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/re4oLIfGfzBZ4mH9ty6yVy5dIhl4vKr19eC51aXU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Himalaya || ​हिमालय (Part - 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6033744b-4b3a-4012-8a0f-fd1aad9e10a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Himalaya || ​हिमालय (Part - 06)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/PCQO-EzwbaA",
+      "hd_video_url": "https://www.youtube.com/embed/PCQO-EzwbaA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EH6vLJ4NlqM9plwWOGotAMRV7yHVVB2N782mF4Yq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Himalaya || ​हिमालय (Part - 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7131b154-b439-45b6-817b-8ec298a071cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Northern Great Plain || उत्तरी विशाल मैदान (Part - 01)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/f9ESoMg-lVU",
+      "hd_video_url": "https://www.youtube.com/embed/f9ESoMg-lVU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/93qjnJ2SprzYy35SZnQpCQIUZuZytoyzGA5sfFyQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Northern Great Plain || उत्तरी विशाल मैदान (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb5065ea-a718-484d-b5a7-d75807df14f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Northern Great Plain || उत्तरी विशाल मैदान (Part - 02)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nCpuZhOn1tQ",
+      "hd_video_url": "https://www.youtube.com/embed/nCpuZhOn1tQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/22w78O6IYadNsB09fRik0t5FgYDY5TsSFAEoztAe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Northern Great Plain || उत्तरी विशाल मैदान (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/164d4839-5deb-4620-8841-82c83ca932c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Islands || द्वीप समूह (Part - 01)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/eyifkU6R4d8",
+      "hd_video_url": "https://www.youtube.com/embed/eyifkU6R4d8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/adKV6nGmw4ukeZTQ7IP5mcGMAcgL2v73pgIbvUHX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Islands || द्वीप समूह (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9112fc8-c496-4dff-8e98-88e9821e71be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Islands || द्वीप समूह (Part - 02)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GDvBboCWR14",
+      "hd_video_url": "https://www.youtube.com/embed/GDvBboCWR14",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uGjXsRfZ5mwxGX7ZggRTnPiLzR4wJ5Y7ABlvvUOO.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Islands || द्वीप समूह (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d0ef1c2-ad04-488e-bbeb-dbb86ee79e7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Drainage System in India || भारत का अपवाह तंत्र (Part 1)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MIOPU2HG-Xo",
+      "hd_video_url": "https://www.youtube.com/embed/MIOPU2HG-Xo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ANynLa4KSkkbWsCeRfx7g64nnVOsOrubKSJjNAMD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Drainage System in India || भारत का अपवाह तंत्र (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15c5d81f-7450-46ad-bf01-cfd10d29972e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Drainage System in India || भारत का अपवाह तंत्र (Part 2)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/5WMklzXcb9Q",
+      "hd_video_url": "https://www.youtube.com/embed/5WMklzXcb9Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PRMIHpYFTPhgD9aZPlqzKLsKCzniUjg9mt5k3SrD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Drainage System in India || भारत का अपवाह तंत्र (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/371f980e-aed7-48f3-8da4-3951c366c7d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Drainage System in India || भारत का अपवाह तंत्र (Part 3)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/yKFHHov5Yy0",
+      "hd_video_url": "https://www.youtube.com/embed/yKFHHov5Yy0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2hdxHfaNOQn82Jl12BrkCc7IcDcFDHo2ODv5koWf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Drainage System in India || भारत का अपवाह तंत्र (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37701545-6e3f-4462-824d-07349fc5d39f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Drainage System in India || भारत का अपवाह तंत्र (Part 4)",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/B0abOK4ZuR4",
+      "hd_video_url": "https://www.youtube.com/embed/B0abOK4ZuR4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/m3DglZOMARv62ASgEcYErRQ83v1cTMNbKVqf3l3z.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Drainage System in India || भारत का अपवाह तंत्र (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85f14048-912e-4c96-b8cd-088ba3c534af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Drainage System in India || भारत का अपवाह तंत्र (Part 5)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CBZxMu0H9PM",
+      "hd_video_url": "https://www.youtube.com/embed/CBZxMu0H9PM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3UTqIgkLpQfIA9SlD4jYF47MrL4NC3juMolu2Zzb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Drainage System in India || भारत का अपवाह तंत्र (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55898458-16dd-4602-9db7-c975629ae65d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || Drainage System in India || भारत का अपवाह तंत्र (Part 6)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9XKH5oR20mc",
+      "hd_video_url": "https://www.youtube.com/embed/9XKH5oR20mc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gN2a7gKJX6lQtQVYD5DzyqDmPLMa0WW7rkZn5Lo7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Drainage System in India || भारत का अपवाह तंत्र (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d511a98-0557-4ce4-bc0b-3c908d08deaa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || Drainage System in India || भारत का अपवाह तंत्र (Part 7)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9cYWWx0M-H0",
+      "hd_video_url": "https://www.youtube.com/embed/9cYWWx0M-H0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yn06lw1hdzJXW9MQakXKcpnV1ja96w1TAdRJwfef.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Drainage System in India || भारत का अपवाह तंत्र (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70440191-0de1-4a30-a1c4-ec432a3bb551.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || Drainage System in India || भारत का अपवाह तंत्र (Part 8)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Tt3-WoS30T8",
+      "hd_video_url": "https://www.youtube.com/embed/Tt3-WoS30T8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xP2POCm7U0RhuKj4CbPqULnphXWS4vT0gBPITPU6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Drainage System in India || भारत का अपवाह तंत्र (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/026ad995-aedd-485f-9876-829d2f44204d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || Drainage System in India || भारत का अपवाह तंत्र (Part 9)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/sk4bp6m2Yog",
+      "hd_video_url": "https://www.youtube.com/embed/sk4bp6m2Yog",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Tl9JTQ58xYIxsZ95JWhWYvsAmEArygbT52GZ2M6F.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Drainage System in India || भारत का अपवाह तंत्र (Part 9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c985a4d5-74b6-4d2f-8e75-1ca46eabe8f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || Drainage System in India || भारत का अपवाह तंत्र (Part 10)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YQ-iFplYEXg",
+      "hd_video_url": "https://www.youtube.com/embed/YQ-iFplYEXg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/63B2bkC1LdSrndTXjWjdeXAoLGg2zsWiw13ePsVG.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Drainage System in India || भारत का अपवाह तंत्र (Part 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/667c4a9c-60cf-4416-9a3b-ef3dd652f7bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 1)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iE7SGc94U18",
+      "hd_video_url": "https://www.youtube.com/embed/iE7SGc94U18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dSfZH03OWE4lyqw9l8dja3tbBzjM3CtiDAT3U2V0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1feb2cf2-5edf-4a05-b366-be52774b2f77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 2)",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zaH3yhd1nD8",
+      "hd_video_url": "https://www.youtube.com/embed/zaH3yhd1nD8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hwBBckyLfHShvW4T4JfPavo3hj42HpJ3lRNdq18b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2eb59694-a8d3-43d6-9841-f841fa0beef6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 3)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CYXPmk6g4hs",
+      "hd_video_url": "https://www.youtube.com/embed/CYXPmk6g4hs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZPcUVlLyAWBjUOQbxbFcPGgHxROuGftnOdW3BG3W.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d5622a5-0299-4449-9f8e-6b9f4002baee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 4)",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/dwMr7tcGlLs",
+      "hd_video_url": "https://www.youtube.com/embed/dwMr7tcGlLs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ktEXCONEHoxRCHqArUsUR0iNRPitx3YrsunDT6U.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2aecbe8c-a99f-4223-a98d-ab81ee41b8be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 5)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ONzvZvK4PoI",
+      "hd_video_url": "https://www.youtube.com/embed/ONzvZvK4PoI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ey22Ha6ewPFdjkcOtasycO4AOj3ONwxupJC1FpVR.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4aba5d9a-59c6-4eae-b3be-dfb103c6b9ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 6)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TLfyMS6cbcw",
+      "hd_video_url": "https://www.youtube.com/embed/TLfyMS6cbcw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gZEw8DmgDnKHvUxyldp5KwWlZnP6rW6uippFJuXb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Peninsular Plateau Region || प्रायद्वीपीय पठारी क्षेत्र (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44de9733-3bad-4c44-b851-ebdaa76043d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || Minerals & Resources || खनिज एवं संसाधन (Part 1)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/j5SjFW08CbQ",
+      "hd_video_url": "https://www.youtube.com/embed/j5SjFW08CbQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/A4bgBx47DXP7WJj7IHRI3JAhquRMvYkawfQ9wAVX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Minerals & Resources || खनिज एवं संसाधन (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0517bc7f-8456-4aa7-bbe4-cced585dd03c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || Minerals & Resources || खनिज एवं संसाधन (Part 2)",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fxtMSJlIvk0",
+      "hd_video_url": "https://www.youtube.com/embed/fxtMSJlIvk0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1THrQOLqSRsXlZIc9O9WaG9fSx9uL2w5eu99C5Sv.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Minerals & Resources || खनिज एवं संसाधन (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3141b200-eef7-4648-840d-e32c5aca665d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 35 || Minerals & Resources || खनिज एवं संसाधन (Part 3)",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XviidzenKs8",
+      "hd_video_url": "https://www.youtube.com/embed/XviidzenKs8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ky3TkBhvGKcIFSDcxGj6qsPXsSDaMOtRilD6iP5l.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Minerals & Resources || खनिज एवं संसाधन (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78109747-4ba2-43ad-af3b-9d357ed4dac1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 36 || Minerals & Resources || खनिज एवं संसाधन (Part 4)",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/2v16IhGIXYg",
+      "hd_video_url": "https://www.youtube.com/embed/2v16IhGIXYg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jfoyMSXBCbnch3qNt2vnXf33E0B7Qfe5UpPqATug.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Minerals & Resources || खनिज एवं संसाधन (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44b470f0-fce8-46b9-979c-0593d7d76585.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 37 || Minerals & Resources || खनिज एवं संसाधन (Part 5)",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XG4JpKT3hnw",
+      "hd_video_url": "https://www.youtube.com/embed/XG4JpKT3hnw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r7CkM81u0H4sWFktmyuz1NrhqKqcf5xo6K7ZXS3P.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Minerals & Resources || खनिज एवं संसाधन (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37d5af84-9aac-48b0-90d3-f546e0c622c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 38 || Minerals & Resources || खनिज एवं संसाधन (Part 6)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/--bCbhiP6W4",
+      "hd_video_url": "https://www.youtube.com/embed/--bCbhiP6W4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EUtbCVM5rsOHjj119aEkVC7t9UhH0oi8IdmfSSI3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Minerals & Resources || खनिज एवं संसाधन (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99e48e78-43b0-4f80-b2df-bcb43445bb79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 39 || Soil in India || भारत में मिट्टी (Part 1)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9BazuaQSTeM",
+      "hd_video_url": "https://www.youtube.com/embed/9BazuaQSTeM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o0TlG6En2F4kCrnwq0k3ih1NHRu5O0HTEA2DHrzy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Soil in India || भारत में मिट्टी (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6361dd2-7b78-42e7-a6b9-5aebe89eb731.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 40 || Soil in India || भारत में मिट्टी (Part 2)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/bd4AEvQxbi4",
+      "hd_video_url": "https://www.youtube.com/embed/bd4AEvQxbi4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ueAUARiKTEYEJzs5wTCjOt5HZeKq6SqFmMAqr6Wi.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Soil in India || भारत में मिट्टी (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10149c9f-4afa-40b8-b9ae-9d9818eff9ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 41 || Transport in India || भारत में परिवहन (Part 1)",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1cM--3iy9Ys",
+      "hd_video_url": "https://www.youtube.com/embed/1cM--3iy9Ys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/m2VzHxA1otARM0h5xS9QQkhWEZgOkylzPM6Gzrq1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Transport in India || भारत में परिवहन (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e94e2eda-bd8b-47e9-8370-f23f366fa4b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 42 || Transport in India || भारत में परिवहन (Part 2)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/aFenyVbOFAs",
+      "hd_video_url": "https://www.youtube.com/embed/aFenyVbOFAs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mdVrBCAsdmtTFhTE7Ks9vV7RcDtAcPue70hOCTUX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Transport in India || भारत में परिवहन (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26c06cd6-f903-4b1b-9d1c-f5ba93401ec1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 43 || Transport in India || भारत में परिवहन (Part 3)",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/VoVWblye0So",
+      "hd_video_url": "https://www.youtube.com/embed/VoVWblye0So",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FpR39NoB48vwoUMz79p6akFwD06cvTWF7Pr2fY9W.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || Transport in India || भारत में परिवहन (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37274953-90fd-4d21-9455-6b99ff342e75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 44 || Transport in India || भारत में परिवहन (Part 4)",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/XTrFqCqdvnU",
+      "hd_video_url": "https://www.youtube.com/embed/XTrFqCqdvnU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IDuIxADOTrDkzMARMKKmjjfYb5xXnnKtXcUiVquW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || Transport in India || भारत में परिवहन (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2825f8a5-5bd9-4035-9e7e-84666975659a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 45 || Transport in India || भारत में परिवहन (Part 5)",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/4bsAD730yH8",
+      "hd_video_url": "https://www.youtube.com/embed/4bsAD730yH8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YaM4P0atYToTu0vK8eUc8rkRuEdIt4A75Va4tVzY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Transport in India || भारत में परिवहन (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fcf8750-9cb3-4b19-81b6-5db509f568e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 46 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 1)",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/w7J2JygoTDg",
+      "hd_video_url": "https://www.youtube.com/embed/w7J2JygoTDg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L7nEUOQkYOGjMdN2sipQu1q2P3hsyj1MojHmfuLZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d17b873-d3c0-4d3f-9930-afc008816539.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 47 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 2)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/aefVtNTsRg4",
+      "hd_video_url": "https://www.youtube.com/embed/aefVtNTsRg4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pOeKmpFPHzQPMMKkLMRm4W8HqLGpq0crp2OpCjjE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec0df68f-6950-400e-8d47-bce0e0f052c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 48 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 3)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7TxEjLdJypQ",
+      "hd_video_url": "https://www.youtube.com/embed/7TxEjLdJypQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h0FnvAMu3VK8mKoa602lnW4ClOL55q4LbXrGQGRc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/216e2680-06df-468d-867a-7072c92dab2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 49 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 4)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BcpeXb9xoGo",
+      "hd_video_url": "https://www.youtube.com/embed/BcpeXb9xoGo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MpwMW1wMttkyWSygQDFtUpSSmyHUmmGISKc6Tazp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Forest & Vegetation in India || भारत में वन एवं वनस्पति (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93ba45a6-55f6-46b0-b05f-bf62e41c93a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 50 || Universe || ब्रह्मांड (Part 1 )",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/RtjAJIZGh_c",
+      "hd_video_url": "https://www.youtube.com/embed/RtjAJIZGh_c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7nm5jr1jgGP7zjyqoz2S54I8v6XiRoAk9kQIbGf4.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Universe || ब्रह्मांड (Part 1 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30fd1aa6-fe15-4ba2-b71d-0237aaa42513.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 51 || Universe || ब्रह्मांड (Part 2 )",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/-rvkUOEtnDY",
+      "hd_video_url": "https://www.youtube.com/embed/-rvkUOEtnDY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dyBEAGS3FUNsFh70GbK4enHF2xlZy09wyiCn0jtp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Universe || ब्रह्मांड (Part 2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd7b6fe2-07df-41a1-98ee-41cd68092bf0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 52 || Universe || ब्रह्मांड (Part 3)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/XXCF1_78B8w",
+      "hd_video_url": "https://www.youtube.com/embed/XXCF1_78B8w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/atpgjEGKNr0PGnwNqlIxHi5dBk1EGp4uOlV3L5U1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Universe || ब्रह्मांड (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ae37098-2980-4453-9deb-49818e845737.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 53 || Universe || ब्रह्मांड (Part 4)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/QfCPyzjI6SY",
+      "hd_video_url": "https://www.youtube.com/embed/QfCPyzjI6SY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SGqvNXfCjIjLcB5N7oGV12DbytOX3cfkvhG7N9R9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || Universe || ब्रह्मांड (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99be5b47-f38f-4a37-bae1-1ffa4406d263.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 54 || Universe || ब्रह्मांड (Part 5)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/XybZiHRLZ1g",
+      "hd_video_url": "https://www.youtube.com/embed/XybZiHRLZ1g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FHSGZ5A76UHpCRvGJvcSdYR1o87lvArg2nXhrxqx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || Universe || ब्रह्मांड (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87674cba-01cc-4c65-88a7-32b05f66f710.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 55 || Universe || ब्रह्मांड (Part 6)",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/B2ppxy8TG-8",
+      "hd_video_url": "https://www.youtube.com/embed/B2ppxy8TG-8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8zwl0OfSrcR8gA7btKRc7PZnq6gUoNGjYRbJ6QGe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || Universe || ब्रह्मांड (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27aef2f4-7277-4247-987c-09b972eb1557.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 56 || Universe || ब्रह्मांड (Part 7)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/nDkwOd4AkxI",
+      "hd_video_url": "https://www.youtube.com/embed/nDkwOd4AkxI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8p3Jd52hCvvf09au55ySUMpUYz6R4hFoSjrgHX3L.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || Universe || ब्रह्मांड (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54fd4b0c-b0eb-4a21-85ca-4e162740b307.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 57 || Universe || ब्रह्मांड (Part 8)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/8XLFzCgM3nY",
+      "hd_video_url": "https://www.youtube.com/embed/8XLFzCgM3nY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LO8dpN9o3nu7FqrYGZZLGLi0yWY2nNapY1F3eYzM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || Universe || ब्रह्मांड (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b09f250-0704-4984-85d2-f35244c8eb91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture - 58 || Universe || ब्रह्मांड (Part 9)",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NE4GJBVFH3t2rxAsXArctbjKLhXMCzbMQP5Geqad.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

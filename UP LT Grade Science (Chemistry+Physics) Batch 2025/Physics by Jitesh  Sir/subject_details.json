@@ -1,0 +1,116 @@
+{
+  "subject_name": "Physics by Jitesh  Sir",
+  "subject_id": 8212,
+  "video_count": 8,
+  "note_count": 7,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Introduction Class",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/OKdQUvEkh6g",
+      "hd_video_url": "https://www.youtube.com/embed/OKdQUvEkh6g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dsLwviSahOaBtdcfnaOz6Og6w7K77xFR9lXohZXQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f820387-7d63-47d8-bf0c-0216667efd4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Unit & measurement",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/VFJkjm_FLzc",
+      "hd_video_url": "https://www.youtube.com/embed/VFJkjm_FLzc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kmIlVLi0sUriZgM0VcdR1tMP29QmQLAOE5tDMB4Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8d14aeb-5a80-43f9-9ab4-3f1ad3021345.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Dimensional Formula",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5e4BhBR0aPs",
+      "hd_video_url": "https://www.youtube.com/embed/5e4BhBR0aPs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H7OaE1IVWsUpQfbv2mHwXWyoeSsAlzWiy1sOewp0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16dda026-5af3-4726-a9cb-da51d1fe6f18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Quantity",
+      "published_date": "20 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rtR1d3YOX7AEijKEVIhT7IDCu6nI468SBs3Slj8x.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/730c533a-c9a7-4d16-96aa-f1201dd235da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Motion (Part 1)",
+      "published_date": "21 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/M1dj6Y0KVz7JrxQw3MF4rn4sfYkNk0D2KiughFly.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18df406a-f09c-49d0-8be4-225cfdb1eeb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Motion (Part 2)",
+      "published_date": "25 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FmbdJ3J8WRPRgffLvJJ0v0XLS354a7ask0u6GC9b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1391a68-f6fa-4f84-b83b-01f0821e8584.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Physics by Jitesh Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tbdxEAt7oVxZmDzdxVRTo7UL6TAIRmZVnHholrJb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Physics by Jitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d76a2a7-8fa5-48e2-a1da-0b623fe7cb22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Physics by Jitesh Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/s01Eq7NGGMRbZ0qXg3Y1ZzuCLPshVIunQJDFM4VA.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

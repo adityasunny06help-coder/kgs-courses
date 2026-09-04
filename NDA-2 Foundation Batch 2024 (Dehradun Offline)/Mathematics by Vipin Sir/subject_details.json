@@ -1,0 +1,1404 @@
+{
+  "subject_name": "Mathematics by Vipin Sir",
+  "subject_id": 2312,
+  "video_count": 100,
+  "note_count": 99,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientaition Class",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/ovy3JPdyfMs",
+      "hd_video_url": "https://www.youtube.com/embed/ovy3JPdyfMs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 06 || Quadratic Equation",
+      "published_date": "04 May 2024",
+      "video_url": "https://www.youtube.com/embed/TohcX-yHwKQ",
+      "hd_video_url": "https://www.youtube.com/embed/TohcX-yHwKQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Quadratic Equation",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b3ce4820-acf6-48c3-b0c0-e102dc3e127d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 07 || Logarithm 01",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/g5Nl7-4nOkw",
+      "hd_video_url": "https://www.youtube.com/embed/g5Nl7-4nOkw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || Logarithm 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4954c67c-4429-436e-aef8-746cb3a25f47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 08 || Logarithm 02",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/_-orRdK57oY",
+      "hd_video_url": "https://www.youtube.com/embed/_-orRdK57oY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 08 || Logarithm 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/de37ae22-e08f-4d5f-8cb0-1c02c3f5ea5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 09 || Logarithm 03",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/vJ1sj9PrPs8",
+      "hd_video_url": "https://www.youtube.com/embed/vJ1sj9PrPs8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 09 || Logarithm 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dedeae50-4bf4-4836-bd54-fd517ab8aa2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 10 || Logarithm 04",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/_MHamHAumMo",
+      "hd_video_url": "https://www.youtube.com/embed/_MHamHAumMo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 10 || Logarithm 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/855537e7-0426-415d-a78a-fd1c6812b732.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 11 || AP AND GP TEST PAPER DISCUSSION",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/Fo83htv3qOQ",
+      "hd_video_url": "https://www.youtube.com/embed/Fo83htv3qOQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || AP AND GP TEST PAPER DISCUSSION",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ab9cd72d-5674-42b4-9eef-3a82990cb3a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 12 || AP AND GP 02",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/oTAd8v7e3uA",
+      "hd_video_url": "https://www.youtube.com/embed/oTAd8v7e3uA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || AP AND GP 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ff4e68ba-7d10-436f-a11d-002f5c2fc264.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 13 || AP AND GP 03",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/Ed9Rm9TjhI8",
+      "hd_video_url": "https://www.youtube.com/embed/Ed9Rm9TjhI8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || AP AND GP 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/095a1754-1646-4b4b-a2d5-159cded7a3a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 14 || AP AND GP 04",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/0HS6wAFQht4",
+      "hd_video_url": "https://www.youtube.com/embed/0HS6wAFQht4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || AP AND GP 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6da16061-c39a-44a1-b179-fafe88b63a86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 15 || AP AND GP 05",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/TT2V25ohOFY",
+      "hd_video_url": "https://www.youtube.com/embed/TT2V25ohOFY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || AP AND GP 05",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bca20eef-bc47-409b-b503-5a6994ce6768.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 16 || SERIES,TEST PAPER DISCUSSION",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/5pdr7h7w3lI",
+      "hd_video_url": "https://www.youtube.com/embed/5pdr7h7w3lI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || SERIES,TEST PAPER DISCUSSION",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/185c567d-2d0d-4dce-a64c-ea6a42657d04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 17 || Complex Number",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/xUfzH2v7Ol0",
+      "hd_video_url": "https://www.youtube.com/embed/xUfzH2v7Ol0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || Complex Number",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/db661adc-c30c-477f-99dd-5560177540f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 18 || Complex Number 02",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/uH-h2js5MyY",
+      "hd_video_url": "https://www.youtube.com/embed/uH-h2js5MyY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 18 || Complex Number 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/64e99db5-1e03-476d-911c-7c7c17b8b901.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 19 || Complex Number 03",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/SnLJpKtyj_Y",
+      "hd_video_url": "https://www.youtube.com/embed/SnLJpKtyj_Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || Complex Number 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7bbb8f79-6d70-458d-9f33-4fa96de462b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 20 || Complex Number 04",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/_wsC2NTBh1M",
+      "hd_video_url": "https://www.youtube.com/embed/_wsC2NTBh1M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || Complex Number 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e2172bc8-2774-418a-8a1a-c32d20964d4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 21 || Sheet  Practice",
+      "published_date": "25 May 2024",
+      "video_url": "https://www.youtube.com/embed/Temi8kfXVgM",
+      "hd_video_url": "https://www.youtube.com/embed/Temi8kfXVgM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || Sheet  Practice",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2789734d-9861-4389-93e9-e1ca23982896.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 22 || Binomial Theorem And Test Paper Solution",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/BrXmE3VSXLs",
+      "hd_video_url": "https://www.youtube.com/embed/BrXmE3VSXLs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 22 || Binomial Theorem And Test Paper Solution",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f6518c6f-f5c2-4014-a39e-6537c541d05f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 23 || Binomial Theorem",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/0r4CZL9vXME",
+      "hd_video_url": "https://www.youtube.com/embed/0r4CZL9vXME",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || Binomial Theorem",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8b78e0fa-9650-4d49-8d31-d49fedb7cf6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 24 || Binomial Theorem",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/3H70SHzlmgA",
+      "hd_video_url": "https://www.youtube.com/embed/3H70SHzlmgA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Binomial Theorem",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/540d3594-db6e-4763-bee3-cd77a0678923.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 25 || Binomial Theorem",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/0cIeBCySNqM",
+      "hd_video_url": "https://www.youtube.com/embed/0cIeBCySNqM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Binomial Theorem",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/100b8c06-5f9a-47ca-a9a4-f6b5a268d209.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 26 || Binary Number",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/RHUM6ypplco",
+      "hd_video_url": "https://www.youtube.com/embed/RHUM6ypplco",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Binary Number",
+          "url": "https://khansirvod1.pc.cdn.bitgravity.com/kgs/pdfs/34dd616c-efbb-4bd8-9235-f81a093a8fdc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 27 || Set ,Relation And Function",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Ep6-lk_l7FI",
+      "hd_video_url": "https://www.youtube.com/embed/Ep6-lk_l7FI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 27 || Set ,Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad9e514d-c1db-4b9b-8392-e01cf001bfad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 28 || Set ,Relation And Function",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/OgX-Cu-PHlI",
+      "hd_video_url": "https://www.youtube.com/embed/OgX-Cu-PHlI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 28 || Set ,Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75d60de3-95cc-4538-a778-e61ee91744af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 29 || Set ,Relation And Function",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/rmcgceF5hpM",
+      "hd_video_url": "https://www.youtube.com/embed/rmcgceF5hpM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 29 || Set ,Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2b1c0fc-1a4f-46c5-a836-cc57dd5f5103.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 30 || Set , Relation And Function",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Z203zx5r_AE",
+      "hd_video_url": "https://www.youtube.com/embed/Z203zx5r_AE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 30 || Set , Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82b69435-2b2d-4c2a-8755-e35c13503d38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 31 || Set , Relation And Function",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/wVm1BzWB4ko",
+      "hd_video_url": "https://www.youtube.com/embed/wVm1BzWB4ko",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 31 || Set , Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5980c226-a609-493a-bd53-efe7d6d644bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 32 || Set , Relation And Function",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5ClN5AvTATM",
+      "hd_video_url": "https://www.youtube.com/embed/5ClN5AvTATM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 32 || Set , Relation And Function",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/094e9b81-b919-4ee4-aa48-eb666738062a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 33 || Determinants",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/gsiC0XUBlnY",
+      "hd_video_url": "https://www.youtube.com/embed/gsiC0XUBlnY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 33 || Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bbe64cc3-4d93-40ef-8a58-f70c3ce04951.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 34 || Determinants",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/0h_1seqzZLk",
+      "hd_video_url": "https://www.youtube.com/embed/0h_1seqzZLk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 34 || Determinants",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52683583-7490-45df-b8a4-a43410931243.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 35 || Matrix",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/baCRuYUHh4g",
+      "hd_video_url": "https://www.youtube.com/embed/baCRuYUHh4g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 35 || Matrix",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f2675a2-c922-4019-a5e8-c2ed61062632.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 36 || Matrix",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/EdvKWMepeeI",
+      "hd_video_url": "https://www.youtube.com/embed/EdvKWMepeeI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 36 || Matrix",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17db90df-fb03-476f-af5d-e3e2249baa70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 37 || Matrix and Determinants Mixed",
+      "published_date": "15 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/2maEcq6nFMg",
+      "hd_video_url": "https://www.youtube.com/embed/2maEcq6nFMg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 37 || Matrix and Determinants Mixed",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dd53e3f-6acf-4ebc-a7bd-ac865a408d1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 38 || Trigonometry",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/vDzfN6UL4DM",
+      "hd_video_url": "https://www.youtube.com/embed/vDzfN6UL4DM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 38 || Trigonometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aabc2f2a-7a6e-4a5e-affe-42cacb9ed841.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 39 || Trigonometry",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Ri-4LI-DFwo",
+      "hd_video_url": "https://www.youtube.com/embed/Ri-4LI-DFwo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 39 || Trigonometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/355d8407-20ed-466a-bbc9-9e1defd24cbc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 40 || Doubt class",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/y4THUxr_0YU",
+      "hd_video_url": "https://www.youtube.com/embed/y4THUxr_0YU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 40 || Doubt class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16822834-604e-4790-9602-3d8aa4d0fff6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 41 || Trigonometry",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Qa38enC8flY",
+      "hd_video_url": "https://www.youtube.com/embed/Qa38enC8flY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 41 || Trigonometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1b38687-4764-4cae-a5c9-899d95c7ca51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 42 || Trigonometry",
+      "published_date": "22 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/eW0-kqyX-ZQ",
+      "hd_video_url": "https://www.youtube.com/embed/eW0-kqyX-ZQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 42 || Trigonometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30cb2585-c167-4af1-bacc-a75b972b5f77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 43 || Properties Of Triangle",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/gcsqGTSpdWc",
+      "hd_video_url": "https://www.youtube.com/embed/gcsqGTSpdWc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 43 || Properties Of Triangle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27840507-b69d-4ae8-8ea9-60c7407690b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 44 || Properties Of Triangle",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/vkg3lle-d0A",
+      "hd_video_url": "https://www.youtube.com/embed/vkg3lle-d0A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 44 || Properties Of Triangle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f007adb6-1b7c-4d2d-bf15-c0b11375b7e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 45 || Inverse Trigonometric Functions",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/rUHgMSfM6mA",
+      "hd_video_url": "https://www.youtube.com/embed/rUHgMSfM6mA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 45 || Inverse Trigonometric Functions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ebee9ae2-d199-4e4b-9436-e35522e04fb1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 46 || Practice",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/7X1nV3aZnzM",
+      "hd_video_url": "https://www.youtube.com/embed/7X1nV3aZnzM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 46 || Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3d52afc-28c0-430d-8140-9e0cd11c854b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 47 || Doubt Class Evening Session",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/ML_rQ1NqkWU",
+      "hd_video_url": "https://www.youtube.com/embed/ML_rQ1NqkWU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 47 || Doubt Class Evening Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b92f52fa-4be5-4237-9696-964297448623.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 48 || Heights And Distances",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Q9VsexxtNHo",
+      "hd_video_url": "https://www.youtube.com/embed/Q9VsexxtNHo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 48 || Heights And Distances",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90816e18-1ad2-4f8c-b7b2-f3932bc0b5ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 49 || Doubt Class Evening Session",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/I7QqjCCo9nw",
+      "hd_video_url": "https://www.youtube.com/embed/I7QqjCCo9nw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 49 || Doubt Class Evening Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d40a565-a466-4421-b4be-ed91f92863ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 50 || Two Dimensional Geometry",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/8cJopV-wNzw",
+      "hd_video_url": "https://www.youtube.com/embed/8cJopV-wNzw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 50 || Two Dimensional Geometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78cd41c1-1add-48bc-bfb5-f3e630a9f910.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 51 || Doubt Class Evening Session",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pqkA3D7sl6M",
+      "hd_video_url": "https://www.youtube.com/embed/pqkA3D7sl6M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 51 || Doubt Class Evening Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65db6fdb-e056-4c6c-9db0-02f4baa2a0ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 52 || Two Dimensional Geometry 02",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/8SjEblMcWQI",
+      "hd_video_url": "https://www.youtube.com/embed/8SjEblMcWQI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 52 || Two Dimensional Geometry 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac4cad25-7187-4018-91a8-1684b737df03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 53 || Doubt Class Evening session",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/EkcFsLkXOU4",
+      "hd_video_url": "https://www.youtube.com/embed/EkcFsLkXOU4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 53 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3aa0425-407d-409e-8651-834081db0118.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 54 || Straight Lines",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/t-Zq2e1aLyQ",
+      "hd_video_url": "https://www.youtube.com/embed/t-Zq2e1aLyQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 54 || Straight Lines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68099af5-664c-48a9-98a9-e06bac333c77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 55 || Doubt Class Evening session",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Q2xxWkD0li8",
+      "hd_video_url": "https://www.youtube.com/embed/Q2xxWkD0li8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 55 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/082a80f2-09aa-49cc-90ef-8ce02cfec2d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 56 || Straight Line",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/w1FOpTadzAI",
+      "hd_video_url": "https://www.youtube.com/embed/w1FOpTadzAI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 56 || Straight Line",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f406857e-e295-40d1-abb3-437a750c53dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 57 || Doubt Class Evening Session",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/RnxhCms07Yc",
+      "hd_video_url": "https://www.youtube.com/embed/RnxhCms07Yc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 57 || Doubt Class Evening Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77a47df2-e4f7-4e98-9ebb-a9cdbf4ddb63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 58 || Practice",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/_6IMW6ZId4c",
+      "hd_video_url": "https://www.youtube.com/embed/_6IMW6ZId4c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 58 || Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/561bfaaf-fe8b-4352-9191-e0abe2f98c33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 59 || Doubt Class Evening Session",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/fWRHZXxT6-c",
+      "hd_video_url": "https://www.youtube.com/embed/fWRHZXxT6-c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 59 || Doubt Class Evening Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/025c58e8-f96d-4646-9f75-592efa7429e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 60 || Circle",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/-sEsNHKpBAI",
+      "hd_video_url": "https://www.youtube.com/embed/-sEsNHKpBAI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 60 || Circle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16e67649-c66a-4b06-bbe3-086f132fc409.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 61 || Doubt Class Evening session",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/sHSqPKxCgos",
+      "hd_video_url": "https://www.youtube.com/embed/sHSqPKxCgos",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 61 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7151091b-86e1-44df-8e5d-561a7fad6b5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 62 || Circle",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/-9a5IJwENtk",
+      "hd_video_url": "https://www.youtube.com/embed/-9a5IJwENtk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 62 || Circle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63991662-cc7c-4be8-bf4b-74e4c5e25be1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 63 || Doubt Class Evening session",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/DZqxLYSp35Q",
+      "hd_video_url": "https://www.youtube.com/embed/DZqxLYSp35Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 63 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24d867dc-24f1-445b-a9ba-7c161f4b19c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 64 || Parabola",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/BjMlfSDA12Q",
+      "hd_video_url": "https://www.youtube.com/embed/BjMlfSDA12Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 64 || Parabola",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9277278-3e6a-4cde-947e-a784dd445e1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 65 || Ellipse",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/1HeRoQqR95M",
+      "hd_video_url": "https://www.youtube.com/embed/1HeRoQqR95M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 65 || Ellipse",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10a022dd-a40a-4760-a624-371adb764809.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 66 || Doubt Class Evening session",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/duWyJcENbbw",
+      "hd_video_url": "https://www.youtube.com/embed/duWyJcENbbw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 66 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faa0b7e5-21cf-4977-b030-92a5aa96077b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 67 || Hyperbola",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/cp8bxE2stqA",
+      "hd_video_url": "https://www.youtube.com/embed/cp8bxE2stqA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 67 || Hyperbola",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14a60b75-14d3-411b-9deb-b9a502ff4e4b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 68 || Doubt Class Evening session",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/qaTX-qI3cwg",
+      "hd_video_url": "https://www.youtube.com/embed/qaTX-qI3cwg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 68 || Doubt Class Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1aec18a-0580-46a6-8053-6cd79a1d117f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 69 || Vector 01",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/uYNmddK6nHg",
+      "hd_video_url": "https://www.youtube.com/embed/uYNmddK6nHg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 69 || Vector 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/333c8ffa-59d0-4c7a-a2cb-08944c707597.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 70 || Vector 02",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/0HbE5r8GRM4",
+      "hd_video_url": "https://www.youtube.com/embed/0HbE5r8GRM4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 70 || Vector 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54fde13a-8ca3-424e-ad25-0b57477465b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 71 || Vector 03",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/bYkO9jKCK5c",
+      "hd_video_url": "https://www.youtube.com/embed/bYkO9jKCK5c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 71 || Vector 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5faa813a-ec3e-48b8-9a83-23eb0ae2734f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture 72 || Vector 04",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/U-loDDD-aE4",
+      "hd_video_url": "https://www.youtube.com/embed/U-loDDD-aE4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 72 || Vector 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb13c4fb-2c6e-441f-b0a2-6697be73fc43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture 73 || Vector 05",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/bFJeD6Lv_rs",
+      "hd_video_url": "https://www.youtube.com/embed/bFJeD6Lv_rs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 73 || Vector 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e64d2606-c54f-4144-a40b-e4343fd57651.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture 74 || 3D 01",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/cF3O0wDepAM",
+      "hd_video_url": "https://www.youtube.com/embed/cF3O0wDepAM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 74 || 3D 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03319daa-062b-4410-841c-e8f2467f5b83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture 75 || 3D 02",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/MLaq4iK4wb0",
+      "hd_video_url": "https://www.youtube.com/embed/MLaq4iK4wb0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 75 || 3D 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/542ef53d-fd32-4224-9a36-14d9d2c13ee9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 72,
+      "title": "Lecture 76 || 3D 03",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/QD99gMjNqNk",
+      "hd_video_url": "https://www.youtube.com/embed/QD99gMjNqNk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 76 || 3D 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73acb5c9-e361-47a4-8930-a60c7cb11b90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 73,
+      "title": "Lecture 77 || 3D Practice Evening session",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/GUD8k5dJZAs",
+      "hd_video_url": "https://www.youtube.com/embed/GUD8k5dJZAs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 77 || 3D Practice Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0930023-b698-4de6-9f36-77328652ad9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 74,
+      "title": "Lecture 78 || Limit's 01",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/uRw-gO9Qb_E",
+      "hd_video_url": "https://www.youtube.com/embed/uRw-gO9Qb_E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 78 || Limit's 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82a38858-9b8a-4d69-b06a-768ada07c299.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 75,
+      "title": "Lecture 79 || Limit's 02 Evening session",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/PLIrA5Cmub8",
+      "hd_video_url": "https://www.youtube.com/embed/PLIrA5Cmub8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 79 || Limit's 02 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8bbaad6-76e9-4a6d-b9d3-de844cb2f220.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 76,
+      "title": "Lecture 80 || Limit's Continuity And Differentiability",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/EgHq23VeWYE",
+      "hd_video_url": "https://www.youtube.com/embed/EgHq23VeWYE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 80 || Limit's Continuity And Differentiability",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/601bfd96-2bdc-4692-9112-f1df0fc6333b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 77,
+      "title": "Lecture 81 || Continuity And Differentiability 01",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/V_bjcjOdoUQ",
+      "hd_video_url": "https://www.youtube.com/embed/V_bjcjOdoUQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 81 || Continuity And Differentiability 01",
+          "url": "Lecture 81 || Continuity And Differentiability 01"
+        }
+      ]
+    },
+    {
+      "serial": 78,
+      "title": "Lecture 82 || Continuity And Differentiability 02",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/WFaSe8WIqqY",
+      "hd_video_url": "https://www.youtube.com/embed/WFaSe8WIqqY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 82 || Continuity And Differentiability 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a09c55e-13c8-4b3b-8ff9-bbb3f823417e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 79,
+      "title": "Lecture 83 || DIFFERENTIATION 01",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/jXYGdYNoh_A",
+      "hd_video_url": "https://www.youtube.com/embed/jXYGdYNoh_A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 83 || DIFFERENTIATION 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84bece67-3c1e-4107-88af-7d61b0379acd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 80,
+      "title": "Lecture 84 || DIFFERENTIATION 02",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/MYrxvEvoXBQ",
+      "hd_video_url": "https://www.youtube.com/embed/MYrxvEvoXBQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 84 || DIFFERENTIATION 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c9435ab-a329-4566-a2ac-3b9b9139126c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 81,
+      "title": "Lecture 85 || APPLICATION OF DERIVATIVE",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/fPIO5qj6qFI",
+      "hd_video_url": "https://www.youtube.com/embed/fPIO5qj6qFI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 85 || APPLICATION OF DERIVATIVE",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fa73fe1-04c2-4f62-9566-4117978cd0ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 82,
+      "title": "Lecture 86 || APPLICATION OF DERIVATIVE 02",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ujgLoHYmzd0",
+      "hd_video_url": "https://www.youtube.com/embed/ujgLoHYmzd0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 86 || APPLICATION OF DERIVATIVE 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25b57faa-a00f-4c13-bd69-806fc298de78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 83,
+      "title": "Lecture 87 || APPLICATION OF DERIVATIVE 03",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/1G_eIR058wg",
+      "hd_video_url": "https://www.youtube.com/embed/1G_eIR058wg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 87 || APPLICATION OF DERIVATIVE 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c06eac9-b6a1-4f3e-bab0-3b33c297e1ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 84,
+      "title": "Lecture 88 || APPLICATION OFF DERIVATIVE 04 Evening session",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/eydVckLVSxU",
+      "hd_video_url": "https://www.youtube.com/embed/eydVckLVSxU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 88 || APPLICATION OFF DERIVATIVE 04 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed586d57-477b-403a-ae59-fcbed943b506.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 85,
+      "title": "Lecture 89 || Indefinite Integration 01",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/4wixNxmzV-M",
+      "hd_video_url": "https://www.youtube.com/embed/4wixNxmzV-M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 89 || Indefinite Integration 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/799058b1-796c-4ecc-95a1-c0fb735fea5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 86,
+      "title": "Lecture 90 || Indefinite Integration 02 Evening session",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/BiFvNetiibw",
+      "hd_video_url": "https://www.youtube.com/embed/BiFvNetiibw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 90 || Indefinite Integration 02 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1fb0156b-9892-417e-9fd2-ccb98b218b47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 87,
+      "title": "Lecture 91 || Indefinite Integration 03",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/dxT59YKGNr8",
+      "hd_video_url": "https://www.youtube.com/embed/dxT59YKGNr8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 91 || Indefinite Integration 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f42565a-81d7-46fa-b885-1a42010204cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 88,
+      "title": "Lecture 92 || Indefinite Integration 04 Evening session",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/zqjgfdb-wO8",
+      "hd_video_url": "https://www.youtube.com/embed/zqjgfdb-wO8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 92 || Indefinite Integration 04 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd8bc2d9-5ee9-4c16-aeca-d15a98e3ea84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 89,
+      "title": "Lecture 93 || Indefinite Integration 05",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/PiOxbvWV2N4",
+      "hd_video_url": "https://www.youtube.com/embed/PiOxbvWV2N4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 93 || Indefinite Integration 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44919572-279c-488e-9c29-efa4a64938f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 90,
+      "title": "Lecture 94 || Area under Curves 01",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/I5k4D_D6qs8",
+      "hd_video_url": "https://www.youtube.com/embed/I5k4D_D6qs8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 94 || Area under Curves 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0424998b-ad16-43fc-a01c-807b3818d37b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 91,
+      "title": "Lecture 95 || Area under Curves 02",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/yL8in_jGYn0",
+      "hd_video_url": "https://www.youtube.com/embed/yL8in_jGYn0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 95 || Area under Curves 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7fa06349-2a7f-4f37-93c6-ba2010b135aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 92,
+      "title": "Lecture 96 || Area Under Curves 03 Evening session",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/CQf7_62Woho",
+      "hd_video_url": "https://www.youtube.com/embed/CQf7_62Woho",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 96 || Area Under Curves 03 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b085c393-ed97-414a-ad2c-43bbe0793c85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 93,
+      "title": "Lecture 97 || Differential Equation",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/xNDhLM0mZw0",
+      "hd_video_url": "https://www.youtube.com/embed/xNDhLM0mZw0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 97 || Differential Equation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0221f924-9025-4b59-a42f-81d57e1c7708.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 94,
+      "title": "Lecture 98 || Differential Equation 02 Evening session",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/l1Sj4hwojRk",
+      "hd_video_url": "https://www.youtube.com/embed/l1Sj4hwojRk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 98 || Differential Equation 02 Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d79a173-04e5-4a8c-896f-ad57f9db2e69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 95,
+      "title": "Lecture 99 || Permutations And Combinations",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/nvVTIvArK38",
+      "hd_video_url": "https://www.youtube.com/embed/nvVTIvArK38",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 99 || Permutations And Combinations",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdd96c3f-8c3a-4fe4-81d2-802d76ccc348.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 96,
+      "title": "Lecture 100 || Permutations And Combinations 02",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/HzeYoIme8sw",
+      "hd_video_url": "https://www.youtube.com/embed/HzeYoIme8sw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 100 || Permutations And Combinations 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b414591-0393-43d0-8475-fe1cb2b81420.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 97,
+      "title": "Lecture 101 || Permutations And Combinations 03",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/lgBrj3sOfWo",
+      "hd_video_url": "https://www.youtube.com/embed/lgBrj3sOfWo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 101 || Permutations And Combinations 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19aaf096-e778-4d2c-98c1-965e398ce21a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 98,
+      "title": "Lecture 102 || Probability",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/yLWNGnhUqJM",
+      "hd_video_url": "https://www.youtube.com/embed/yLWNGnhUqJM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 102 || Probability",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb6d09d0-6652-4e27-9f6f-b52e8fe1cd6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 99,
+      "title": "Lecture 103 || Probability",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/1KWHL9qFb7U",
+      "hd_video_url": "https://www.youtube.com/embed/1KWHL9qFb7U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 103 || Probability",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9a34aca-f9b8-4f02-88b3-f008a49cc5c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 100,
+      "title": "Lecture 104 || Probability Evening session",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/yxKcBerD_zc",
+      "hd_video_url": "https://www.youtube.com/embed/yxKcBerD_zc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 104 || Probability Evening session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3685ffd9-9b43-469c-acce-85de586c9f91.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

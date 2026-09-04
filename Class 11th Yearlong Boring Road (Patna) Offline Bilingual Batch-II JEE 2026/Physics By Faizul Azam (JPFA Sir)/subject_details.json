@@ -1,0 +1,681 @@
+{
+  "subject_name": "Physics By Faizul Azam (JPFA Sir)",
+  "subject_id": 2835,
+  "video_count": 48,
+  "note_count": 48,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Basic Maths -1",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/qd2bEvbWxbE",
+      "hd_video_url": "https://www.youtube.com/embed/qd2bEvbWxbE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -1 || Basics Maths -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f34948f-a996-4d19-a69a-9d590306e9a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Basic Maths -2",
+      "published_date": "01 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/9p3VEgTUMig",
+      "hd_video_url": "https://www.youtube.com/embed/9p3VEgTUMig",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -2 || Basic Maths -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11311e6d-918a-409a-8dfa-fdc925f8eb36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Basic Maths -3",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/zOH8PomXf3E",
+      "hd_video_url": "https://www.youtube.com/embed/zOH8PomXf3E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -3 || Basic Maths -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e03857cc-db7f-42bb-8b68-c9ccd5693e34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Basic Maths -4",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/jTQm3w2wWmI",
+      "hd_video_url": "https://www.youtube.com/embed/jTQm3w2wWmI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -4 || Basic Maths -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89c4711f-6fff-4295-b57e-3147f5d2a6b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Basic Maths -5",
+      "published_date": "06 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/EAKcHTStp80",
+      "hd_video_url": "https://www.youtube.com/embed/EAKcHTStp80",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -5 || Basic Maths -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69d87af7-a03b-499f-a4d5-12eddc562c4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 || Basic Maths -6",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/KvT9-2unytI",
+      "hd_video_url": "https://www.youtube.com/embed/KvT9-2unytI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -6 || Basic Maths -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7fd8bcf-1f71-44db-9eca-ab8543193efd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 || Basic Maths -7",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/8egWndCtMDs",
+      "hd_video_url": "https://www.youtube.com/embed/8egWndCtMDs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -7 || Basic Maths -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ff62f5e-f1cd-4058-bc7d-1b7f6bfee976.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -8 || Basic Maths -8",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/wO6dIbz1QUM",
+      "hd_video_url": "https://www.youtube.com/embed/wO6dIbz1QUM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -8 || Basic Maths -8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1bd81916-1e31-4010-a434-af16bf21f5d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -9 || Basic Maths -9",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/4CZaYyAStsY",
+      "hd_video_url": "https://www.youtube.com/embed/4CZaYyAStsY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -9 || Basic Maths -9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05620e06-470e-4874-833a-7075182977b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -10 || Basic Maths -10",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pVYmd8WMmq8",
+      "hd_video_url": "https://www.youtube.com/embed/pVYmd8WMmq8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -10 || Basic Maths -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aaac53fb-46f5-439b-a11a-a03ae59967ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -11 || Basic Maths -11",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/JooKAnNLMd4",
+      "hd_video_url": "https://www.youtube.com/embed/JooKAnNLMd4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -11 || Basic Maths -11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d57df005-d653-4ee4-8c9d-40cb3fbd0868.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture -12 || Basic Maths -12",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/7IO82AqxYbg",
+      "hd_video_url": "https://www.youtube.com/embed/7IO82AqxYbg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -12 || Basic Maths -12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6d545b1-4911-4421-b791-46d8eb55145d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture -13 || Basic Maths -13",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Pxk1BOw9cWM",
+      "hd_video_url": "https://www.youtube.com/embed/Pxk1BOw9cWM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -13 || Basic Maths -13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cd354aa-ecc2-4fbe-955e-dde304dba071.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture -14 || Basic Maths -14",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pVYmd8WMmq8",
+      "hd_video_url": "https://www.youtube.com/embed/pVYmd8WMmq8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -14 || Basic Maths -14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a006bd4-04e2-42bd-8ad3-e071152c07f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture -15 || Basic Maths -15",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/yDxS4TDJISQ",
+      "hd_video_url": "https://www.youtube.com/embed/yDxS4TDJISQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -15 || Basic Maths -15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f65af42-6a0f-4e8f-8340-828e3a4cc8d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture -16 || Basic Maths -16",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/5EmA9LU4qpg",
+      "hd_video_url": "https://www.youtube.com/embed/5EmA9LU4qpg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -16 || Basic Maths -16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b8e13c0-5893-4b02-96b9-3a4db46ed58e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture -17 || Basic Maths -17",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/v-IgPC3EUKw",
+      "hd_video_url": "https://www.youtube.com/embed/v-IgPC3EUKw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -17 || Basic Maths -17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4587f28d-a8fd-42c2-9c28-3376b6638aec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -18 || Basic Maths -18",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/qcNFJyvzZPE",
+      "hd_video_url": "https://www.youtube.com/embed/qcNFJyvzZPE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -18 || Basic Maths -18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67d9ec7f-2e6d-4020-a89c-c55c251d840f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture -19 || Basic Maths -19",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/vmMy22x8Hpo",
+      "hd_video_url": "https://www.youtube.com/embed/vmMy22x8Hpo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -19 || Basic Maths -19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/066cd34a-f1ac-462d-bf9d-64ba87be767e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture -20 || Basic Math -20",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/9A114KQqnB0",
+      "hd_video_url": "https://www.youtube.com/embed/9A114KQqnB0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -20 || Basic Math -20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/400dbcef-ce48-4961-afa8-e840e2f0ecd2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -21 || Basic Math -21",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/HOf9TcbLjWU",
+      "hd_video_url": "https://www.youtube.com/embed/HOf9TcbLjWU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -21 || Basic Math -21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eb33ffd-81f1-4a91-b8c3-c46d0b7a81da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -22 || Vectors -1",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/KloV4bahG-I",
+      "hd_video_url": "https://www.youtube.com/embed/KloV4bahG-I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -22 || Vectors -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/227a4ac8-3038-49df-a3a6-246bfa15eb8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -23 || Vectors -2",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/u743yHniwD8",
+      "hd_video_url": "https://www.youtube.com/embed/u743yHniwD8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -23 || Vectors -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2edc672a-04fe-4d7f-8369-90ba633e39d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -24 || Vectors -3",
+      "published_date": "03 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/ggoAO4Z2NbU",
+      "hd_video_url": "https://www.youtube.com/embed/ggoAO4Z2NbU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -24 || Vectors -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5355d16f-20df-4dd5-a04b-ed6744948b10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -25 || Vectors -4",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Dvkh5lP_x7s",
+      "hd_video_url": "https://www.youtube.com/embed/Dvkh5lP_x7s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -25 || Vectors -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9283a6e5-beff-4380-950f-95afba92d280.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture -26 || Vectors -5",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/8YQ6320iQ4g",
+      "hd_video_url": "https://www.youtube.com/embed/8YQ6320iQ4g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -26 || Vectors -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57c3916d-2def-4ee0-b128-14574bc1691d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -27 || Vectors -6",
+      "published_date": "20 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/WvGBC3kyRbk",
+      "hd_video_url": "https://www.youtube.com/embed/WvGBC3kyRbk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -27 || Vectors -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6317f4f3-e8af-4448-b917-656e578c5483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -28 || Vectors -7",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/fGo7LH-MVKo",
+      "hd_video_url": "https://www.youtube.com/embed/fGo7LH-MVKo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -28 || Vectors -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de62845e-58d6-4437-b67d-f806dba94483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -29 || Vectors -8",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/DfmEUNhstW4",
+      "hd_video_url": "https://www.youtube.com/embed/DfmEUNhstW4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -29 || Vectors -8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dbf85e7a-47e1-458c-98e1-5f9258fb466a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -30 || Vectors -9",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/LTTTgm_q2vg",
+      "hd_video_url": "https://www.youtube.com/embed/LTTTgm_q2vg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -30 || Vectors -9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac30c5c3-895f-4548-9892-54c6244d227a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -31 || Vectors -10",
+      "published_date": "24 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Nj9LGc9ghvc",
+      "hd_video_url": "https://www.youtube.com/embed/Nj9LGc9ghvc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -31 || Vectors -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39e3114b-06ba-4749-8ab1-39a61189e7c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture -32 || Vectors -11",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/irCZc8GyWCY",
+      "hd_video_url": "https://www.youtube.com/embed/irCZc8GyWCY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -32 || Vectors -11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fc752f4-e286-4ff0-b15e-05e5fea5ee1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture -33 || Kinematics -1",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/UMM-KYGUfLo",
+      "hd_video_url": "https://www.youtube.com/embed/UMM-KYGUfLo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -33 || Vectors -12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a42e0b7-3c17-4bc5-8fdb-41f3c36ca091.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture -34 || Kinematics -2",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/MEVm5CMEDmU",
+      "hd_video_url": "https://www.youtube.com/embed/MEVm5CMEDmU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -34 || Vectors -13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce8abd8c-143e-4198-9107-4c832ab1376a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture -35 || Kinematics -3",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/RSpRr-kvxhU",
+      "hd_video_url": "https://www.youtube.com/embed/RSpRr-kvxhU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -35 || Vectors -14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1238a833-362d-481f-8e09-ab90cfaa0e84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture -36 || Kinematics - 4",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Ei1CMLy1kLw",
+      "hd_video_url": "https://www.youtube.com/embed/Ei1CMLy1kLw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -36 || Vectors -15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88e6df6c-f037-4f4c-8ba4-80d8f79a8893.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture -37 || Kinematics -5",
+      "published_date": "31 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/pC63qgjdvp4",
+      "hd_video_url": "https://www.youtube.com/embed/pC63qgjdvp4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -37 || Kinematics -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c04592e-da3f-46c3-a0ff-46964a88d8a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture -38 || Kinematics -6",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/DdE5FuNC0a4",
+      "hd_video_url": "https://www.youtube.com/embed/DdE5FuNC0a4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -38 || Kinematics -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbc3b193-0317-4f8e-8463-b33bfa44286c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture -39 || Kinematics -7",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5yfm0sNb5lw",
+      "hd_video_url": "https://www.youtube.com/embed/5yfm0sNb5lw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -39 || Kinematics -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d581b67-f3d5-4e85-97da-91c1b8566bf2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture -40 || Kinematics -8",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Lgj3KpFMLmY",
+      "hd_video_url": "https://www.youtube.com/embed/Lgj3KpFMLmY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -40 || Kinematics -8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa57360a-5a11-4cae-8cb1-bd4663b79353.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture -41 || Kinematics -9",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/N8GuFBWgyoA",
+      "hd_video_url": "https://www.youtube.com/embed/N8GuFBWgyoA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -41 || Kinematics -9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35b0773f-89ed-4a05-befe-019083df8b56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture -42 || Kinematics -10",
+      "published_date": "07 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Bd4yx0VnE4I",
+      "hd_video_url": "https://www.youtube.com/embed/Bd4yx0VnE4I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -42 || Kinematics -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff73340c-9f28-4f15-9eac-a673cce38401.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture -43 || Kinematics -11",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/4OBCMLTt4yw",
+      "hd_video_url": "https://www.youtube.com/embed/4OBCMLTt4yw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -43 || Kinematics -11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8717acf5-d777-478f-9bb4-cbc47ad34d90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture -44 || Kinematics -12",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/n9iNR-jGaGw",
+      "hd_video_url": "https://www.youtube.com/embed/n9iNR-jGaGw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CtE6ZciWV6KGqp5phcwJAoK3sZgdvojFIedlRupR.jpg",
+      "notes": [
+        {
+          "title": "Lecture -44 || Kinematics -12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e67e825-016c-4d3a-bcb9-2a2491a3e26a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture -45 || Kinematics -13",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/hUT33E5--zM",
+      "hd_video_url": "https://www.youtube.com/embed/hUT33E5--zM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/k5rS5Kz9nEyZcLcTm9HhAC2AMEcK1u8mladIO8FH.jpg",
+      "notes": [
+        {
+          "title": "Lecture -45 || Kinematics -13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bdc2cc5-f633-48a0-8d2e-f5c600d4dbc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture -46 || Kinematics -14",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/jfQNRB_-05I",
+      "hd_video_url": "https://www.youtube.com/embed/jfQNRB_-05I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6DodHHcfMEJT251Js28z5E83PWGcQtzXfkW5e1g2.jpg",
+      "notes": [
+        {
+          "title": "Lecture -46 || Kinematics -14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab9344dd-8324-40b9-8a5e-0da8101167d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture -47 || Kinematics -15",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/bYULXDxk_1o",
+      "hd_video_url": "https://www.youtube.com/embed/bYULXDxk_1o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z4Pc8W56L5snCjluNzvTLJZsXepdgg6fN2ak1hTj.jpg",
+      "notes": [
+        {
+          "title": "Lecture -48 || Kinematics -16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf0ebacd-351c-4d63-8fea-ac21aea6372a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture -48 || Kinematics -16",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Ul_zVBA0zNg",
+      "hd_video_url": "https://www.youtube.com/embed/Ul_zVBA0zNg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9iWmK9CHuXAODZ6EDGVEywz7L7yUQhzWblOMUUak.jpg",
+      "notes": [
+        {
+          "title": "Lecture -48 || Kinematics -16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9149236-55fb-4f11-bce0-20f8f29f0df6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

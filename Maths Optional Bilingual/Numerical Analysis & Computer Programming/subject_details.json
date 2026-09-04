@@ -1,0 +1,293 @@
+{
+  "subject_name": "Numerical Analysis & Computer Programming",
+  "subject_id": 4851,
+  "video_count": 20,
+  "note_count": 21,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Numerical Analysis-1",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/kRnkZnd1UjQ",
+      "hd_video_url": "https://www.youtube.com/embed/kRnkZnd1UjQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5bc91de7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d3857d0-2611-4613-ae60-3c6a5319fe2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Numerical Analysis-2",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179907/kgss-1737096613-v179907.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/f4HFjsdyRc0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5bc0cfbd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23e97bed-d672-4ee3-8827-27e313d3d21a.pdf"
+        },
+        {
+          "title": "Laplace Equations problems Cartesian coordinates",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f120c09c-ceb9-4814-ae73-d4eddd6bff3a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Numerical Analysis-3",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181597/kgss-1737183705-v181597.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-9ajYLqq-mU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5bb79bbf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d3c38fc-51c9-4b28-9c4e-e083b11c0aaf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Numerical Analysis-4",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181897/kgss-1737355798-v181897.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cUlRyI7l3_E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5badc8c7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb4e9171-14dc-4e63-ab94-551b5c5e6a1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Numerical Analysis-5",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182439/kgss-1737442236-v182439.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WFsUQg6OU_E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5ba55ab2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c0d8bf3-77c4-4bb7-91cd-791d37b93cc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Numerical Analysis-6",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182939/kgss-1737529075-v182939.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gg0OzAShSZs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b9c2a1f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Numerical Analysis-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25ecfa63-54b4-42f5-9474-ec4be61c06bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Numerical Analysis-7",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/183455/kgss-1737615351-v183455.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/15IGkoP5aN0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b93dd36.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Numerical Analysis-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/683e1485-22d6-46ee-afde-b0ff09299ff6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Numerical Analysis-8",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/184129/kgss-1737701108-v184129.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AXxU7QRAAiU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b8a886a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Numerical Analysis-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ce4ea2f-87a5-4a8f-97a0-008e7cd5a87b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Numerical Analysis-9",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/184519/kgss-1737788225-v184519.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jajCg5ZIxlQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b82144b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Numerical Analysis-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5abaa58-7fd1-4611-9588-0ed4304285f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Numerical Analysis-10",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/184828/kgss-1737961116-v184828.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hihtegoovc4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b78c9d5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Numerical Analysis-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2593181-08f4-4291-82e8-4b561759c786.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Numerical Analysis-11",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/186798/kgss-1738306842-v186798.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/j9VXwHiALLg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b705a74.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Numerical Analysis-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/febdb316-c444-4a01-850b-6060bb293668.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Numerical Analysis-12",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/187402/kgss-1738392308-v187402.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SNAqSUxyuYc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b671e31.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Numerical Analysis-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d53b265b-7554-453f-a536-f6e3562c97c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Numerical Analysis-13",
+      "published_date": "02 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/187794/kgss-1738478948-v187794.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OgLZd8q68iU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b5d6c3e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Numerical Analysis-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd5864c3-c08b-4bab-888f-a8ecefb8a682.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Computer Programming- 1",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201339/kgss-1740897724-v201339.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D69SHk0pFQA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b54e4d1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/012791b7-a816-4958-b82a-82105bea55a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Computer Programming- 2",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208360/kgss-1741330895-v208360.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W7krFTDVHJs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b4bc53c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Computer Programming- 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ad365f8-b8e8-488a-a68c-43b4e1c85496.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Computer Programming- 3",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210168/kgss-1741415827-v210168.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Myb-NNwjonU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b433888.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Computer Programming- 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aafd3c9f-9169-4b89-b60b-ce47d786f638.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Computer Programming- 4",
+      "published_date": "09 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210620/kgss-1741502603-v210620.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/khxJMKZ6I0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b39d7ad.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Computer Programming- 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5ad4709-4609-4a45-9b74-8f2e5dfd9124.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Computer Programming- 5",
+      "published_date": "15 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/211946/kgss-1742021909-v211946.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zxlIJC9bzvA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b31534d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Computer Programming- 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06e51927-6beb-4d1e-8441-802c87d793a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Computer Programming- 6",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216675/kgss-1742625563-v216675.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yriVK5TiFHQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b2802ff.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Computer Programming- 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8eb41bbb-c072-4d06-b368-b466cc21421a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Computer Programming- 7",
+      "published_date": "23 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216970/kgss-1742712616-v216970.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PDpDOSDDy0g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5b1b9266.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Computer Programming- 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9be89209-6fd9-45e4-aae0-9daa69b538f2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

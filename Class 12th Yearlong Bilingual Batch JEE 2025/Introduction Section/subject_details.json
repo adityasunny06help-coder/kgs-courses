@@ -1,0 +1,109 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 1853,
+  "video_count": 10,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Inequalities (Wavy Curve Method) Class 12th JEE Maths | SETU Batch (Target JEE 2025) Maths by JD Sir",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/e2rAGPC-Wbg",
+      "hd_video_url": "https://www.youtube.com/embed/e2rAGPC-Wbg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Inequalities (Wavy Curve Method) Class 12th JEE Maths | SETU Batch (Target JEE 2025) Maths by JD Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6fa6b0cd-734b-48ab-b109-fa8f19f91349.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Concentration Terms || Class 12th JEE Chemistry | SETU Batch (Target JEE 2025) Chemistry by CSK Sir",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/367N4dDXMrE",
+      "hd_video_url": "https://www.youtube.com/embed/367N4dDXMrE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Concentration Terms || Class 12th JEE Chemistry | SETU Batch (Target JEE 2025) Chemistry by CSK Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5c44caf7-5f7e-499c-bbaa-0d53b6db70de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Modulus Function || Lecture 2 || Class 12th JEE Maths | SETU Batch (Target JEE 2025) Maths by JD Sir",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://youtu.be/IdJQhYLd06I?si=0SLeSlOXxb-1ugFd",
+      "hd_video_url": "https://youtu.be/IdJQhYLd06I?si=0SLeSlOXxb-1ugFd",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Concentration Terms || Class 12th JEE Chemistry | SETU Batch (Target JEE 2025) Chemistry by CSK Sir",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://youtu.be/MqHQopCQtPk?si=Vpaglg4Pf3aacpmv",
+      "hd_video_url": "https://youtu.be/MqHQopCQtPk?si=Vpaglg4Pf3aacpmv",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Variable Acceleration & Motion 2D, Lecture 1 | Class 12th JEE Physics | SETU Batch (Target JEE 2025)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://youtu.be/8c-L-F83n-M?si=xRjIPGNsH9zimCuJ",
+      "hd_video_url": "https://youtu.be/8c-L-F83n-M?si=xRjIPGNsH9zimCuJ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "JEE 2025 Students Orientation Session by MSM Sir, CSK Sir & MVS Sir",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/i6HAjuNvDso",
+      "hd_video_url": "https://www.youtube.com/embed/i6HAjuNvDso",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jAUpmL34iK6CkyDu5zAx93lIryFhl1Zc8OvIvlxx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Khan Sir Ke Teachers are Here !! 🚀Who will be your Faculties in Class 12th JEE Batch 2025? 🙏",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://youtu.be/a9CMfGC1vo8?si=kNFrqXz-9CWN43Dp",
+      "hd_video_url": "https://youtu.be/a9CMfGC1vo8?si=kNFrqXz-9CWN43Dp",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Logarithmic || Lecture 1 || Class 12th JEE Maths | SETU Batch (Target JEE 2025) Maths by JD Sir",
+      "published_date": "27 Apr 2024",
+      "video_url": "https://youtu.be/Q5uEbs4MkUM?si=G292iXcKPHxBiLAM",
+      "hd_video_url": "https://youtu.be/Q5uEbs4MkUM?si=G292iXcKPHxBiLAM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Trigonometry || Lecture 1 || Class 12th JEE Maths | SETU Batch (Target JEE 2025) Maths by JD Sir",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://youtu.be/UoUzM_kC0CY?si=MYX4P-VNmZnFKRDU",
+      "hd_video_url": "https://youtu.be/UoUzM_kC0CY?si=MYX4P-VNmZnFKRDU",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "How to Attempt your Test on KGS Website",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/qD3BdAgJ83g",
+      "hd_video_url": "https://www.youtube.com/embed/qD3BdAgJ83g",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,751 @@
+{
+  "subject_name": "Biology by Sumit Sir",
+  "subject_id": 6092,
+  "video_count": 53,
+  "note_count": 53,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecutre-01 || Introduction Class",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223771/kgss-1744080354-v223771.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cKRTDIRM6Sw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecutre-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5adceb4b-eb77-4db4-8613-782fc95e15e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecutre-02 || मानव पाचन तंत्र",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225047/kgss-1744163863-v225047.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/01pxasHlNmg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ROhrezxHfabsWZIXHasxscCWqZRub9B9kRBi3MWK.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-02 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2704f2c-7cca-4e48-881a-71fa11cd4617.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecutre-03 || मानव पाचन तंत्र",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225525/kgss-1744251992-v225525.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dUfn-dfET2E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hMUIwtD3J8fxaiMgeXveM9pJdipQxUochuqxE6xT.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-03 || मानव पाचन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ce4dd39-0612-4c34-a0ad-53cc9cc663ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecutre-04 || मानव पाचन तंत्र",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226587/kgss-1744338193-v226587.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U0HciPfXsBY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tCbhBJ5ArzBppkrqTLZN2FzrOchaXvLIXxfb5RwS.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-04 || मानव पाचन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aed32a6f-486a-4304-88d5-368e41cc9da8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecutre-05 || मानव पाचन तंत्र",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227486/kgss-1744596381-v227486.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7F22ghGGbrE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a6bcd923.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-05 || मानव पाचन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d312534f-299f-4cc8-b3c0-72528bee4aea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecutre-06 || उत्सर्जन तंत्र || Excretory System (Part-01)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227696/kgss-1744682877-v227696.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0RUTMj2PjOc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a6b53b50.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-06 || मानव पाचन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fdf6bee5-0777-45ab-8aca-6ee554b9f9ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecutre-07 || उत्सर्जन तंत्र || Excretory System (Part-02)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228418/kgss-1744768813-v228418.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nEwpLtfxfIY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a6acf788.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-07 || उत्सर्जन तंत्र || Excretory System (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b81f90cb-2822-48df-b892-628818595509.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecutre-08 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-1)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228888/kgss-1744855785-v228888.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TrbLKn5uWpM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CAVCFqtfBfFIiGyaOL5wTyhKf8mRE7hSFcKMijlu.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-08 || उत्सर्जन तंत्र || Excretory System (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f1aff7a-5479-40f9-bffb-468be5956c22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecutre-09 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-2)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229367/kgss-1744943044-v229367.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F1oxOSBaxYg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8VtMq6r21nlG4mtmlGR1gBStLO2Q7VzhQzYZPcge.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-09 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3e69c19-10cc-408c-a0d3-afa5ed760940.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecutre-10 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-3)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232579/kgss-1745375386-v232579.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ckCeyYrZB50",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jU7VBETyDdrOzt74vfh0JR0FMxGh95dhbRNerIbf.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-10 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19492e7a-bc78-4c41-9b38-e0d1e8c5a18a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecutre-11 || रक्त प्लेटलेट्स || Blood Platelets",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233055/kgss-1745461546-v233055.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JeHHIn3rIRU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a69a405a.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-11 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40d9332a-f008-409a-ae28-5dac934ae629.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecutre-12 || रक्त समूह || Blood Group",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233494/kgss-1745548036-v233494.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xSqE5QUWR34",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nit5VIfKh0vAaVP7eONpBSIc5D0BGoGhmJri1Eug.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-12 || रक्त परिसंचरण तंत्र || Blood Circulation System (भाग-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf3e352c-fb93-45c4-bebb-c788e578f97f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecutre-13 || रक्त समूह || Blood Group (Part-2)",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233899/kgss-1745634072-v233899.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8IB08M0uTFY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a68e3cc8.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-13 || रक्त समूह || Blood Group (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14f9be65-3c1d-46a3-8e57-3e4ba1a40e6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecutre-14 || रक्त समूह || Blood Group (Part-3)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234466/kgss-1745806713-v234466.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ysHvcS5Gs_Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dDqXxVga1Pomc3VQH8wYDXFaUvzSOjGFv9haQxLL.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-14 || रक्त समूह || Blood Group (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fa4e25d-0b62-4621-8a23-350da6bb7aeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecutre-15 || मानव हृदय || Human Heart",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235004/kgss-1745892991-v235004.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PK08QAu_vMo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a68360ae.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-15 || मानव हृदय || Human Heart",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e50778d9-b143-4ab9-9716-40c5a686d27b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecutre-16 || मानव हृदय || Human Heart ( Part-2)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/239447/kgss-1745979459-v239447.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uHH15JPbKB0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a67b221b.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-16 || मानव हृदय || Human Heart ( Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bab78d4-8ce4-43d4-9250-3c73093eb11d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecutre-17 || मानव हृदय || Human Heart ( Part-3)",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241381/kgss-1746065046-v241381.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YeQMx7Esn10",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a6738642.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-17 || मानव हृदय || Human Heart ( Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adb3d310-6f9b-4d99-9fe2-5713ff02433f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecutre-18 || मानव श्वसन तंत्र || Human Respiratory System (Part-1)",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/242221/kgss-1746152404-v242221.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aZImTLg_YQ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a66b497c.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-18 || मानव हृदय || Human Heart ( Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6126e18a-0b6c-4d78-af3e-c93d484156da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecutre-19 || मानव श्वसन तंत्र || Human Respiratory System (Part-2)",
+      "published_date": "03 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243176/kgss-1746238334-v243176.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PxEIgCGy5B4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a663d50f.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-19 || मानव श्वसन तंत्र || Human Respiratory System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/325d83b7-7d12-4aac-b86c-2ca3d5b79320.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecutre-20 || मानव मस्तिस्क || Human Brain (Part-1)",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243606/kgss-1746412035-v243606.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_K-WQaOPAxo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a65b7e94.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-20 || मानव मस्तिस्क || Human Brain (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1223eea3-b05a-4ad4-93ea-b842750c59c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecutre-21 || मानव तंत्रिका तंत्र || Human Nervous System (Part-1)",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244073/kgss-1746497613-v244073.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EHNWEG77VmM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a653d250.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-21 || मानव मस्तिस्क || Human Brain (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23bf3001-aa95-4ede-9fe5-2dbfabca9e1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecutre-22 || मानव तंत्रिका तंत्र || Human Nervous System (Part-2)",
+      "published_date": "07 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245349/kgss-1746583373-v245349.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vbH1bCUn1uk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a64b55df.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-22 || मानव मस्तिस्क || Human Brain (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf5b17b8-bbf6-4c78-93b9-9f8dd3f71882.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecutre-23 || मनुष्य की आंख || Human Eye",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245962/kgss-1746670359-v245962.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X45RshN3KoI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a6436abc.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-23 || मनुष्य की आंख || Human Eye",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/668920aa-55dd-41c6-95e6-1f25ef597c3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecutre-24 || मनुष्य की आंख || Human Eye (Part-2)",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246443/kgss-1746756847-v246443.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/anvwSgen980",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a63b08cd.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-24 || मनुष्य की आंख || Human Eye (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6530ccd-1582-485c-8119-e91bf45c25c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecutre-25 || मनुष्य की कान  || Human Ear",
+      "published_date": "19 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/256522/kgss-1747621084-v256522.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H2JbOM77ig4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a63308f5.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-25 || मनुष्य की कान  || Human Ear",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/833df3c3-eebc-45bf-9c89-9b410210ff46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecutre-26 || मानव प्रजनन तंत्र || Human Reproductive System (Part-1)",
+      "published_date": "20 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/257081/kgss-1747707445-v257081.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oyrDnxgGONg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a62aba2a.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-26 || मनुष्य की आंख || Human Eye (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dea3bc49-56c2-4453-be4d-c7632251ee9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecutre-27 || मानव प्रजनन तंत्र || Human Reproductive System (Part-2)",
+      "published_date": "21 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/257713/kgss-1747795719-v257713.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/at-dKCLYAz8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a62315d4.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-27 || मानव प्रजनन तंत्र || Human Reproductive System (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bb2a66b-aa2b-461e-b1fd-58595ed6670d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecutre-28 || मानव प्रजनन तंत्र || Human Reproductive System (Part-3)",
+      "published_date": "22 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/258474/kgss-1747892185-v258474.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lM3eq6lnuio",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a61ab815.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-28 || मानव प्रजनन तंत्र || Human Reproductive System (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/432dcc22-b4a0-4357-8890-2420ab269d97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecutre-29 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-1)",
+      "published_date": "23 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/260697/kgss-1747978998-v260697.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OjgPrIxK0zM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a612f3f2.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-29 || जनन ग्रंथि || Gonad",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f195a7f-cea1-4f9a-818b-78e828c405b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecutre-30 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-2)",
+      "published_date": "24 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/262081/kgss-1748064957-v262081.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/B5jfiZKGbTg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oJCzuq76iwD9gaJYrCJdTH8LdDGYOkzR83AKkeW1.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-30 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f5df0a6-3944-48a2-9107-b2b609768297.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecutre-31 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-3)",
+      "published_date": "26 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/262576/kgss-1748238083-v262576.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UynW02FAhgs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PY7XBqvi14rv83hzJBlcLkKGrb33iBx7a8z8Gy0i.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-31 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dcbaef2-ae7c-41fc-b1f7-13a491beaf1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecutre-32 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-4)",
+      "published_date": "27 May 2025",
+      "video_url": "https://kgs-v2.akamaized.net/320p/320p/571-bpsc-br3/bio-sumit-sir/l-32_360.mp4",
+      "hd_video_url": "https://www.youtube.com/embed/LSN3HikmshA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a603e289.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-32 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69d55287-b53f-41eb-a8b0-8eea26bacc72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecutre-33 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-5)",
+      "published_date": "28 May 2025",
+      "video_url": "https://kgs-v2.akamaized.net/320p/320p/571-bpsc-br3/bio-sumit-sir/l-33_360.mp4",
+      "hd_video_url": "https://www.youtube.com/embed/DD1xf4-gNaI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a5fb6238.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-33 || कोशिका और कोशिका विज्ञान || Cell & Cytology (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc7841da-46cd-4541-a483-1d5758d8d29b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecutre-34 || क्रोमोसोम || Chromosomes",
+      "published_date": "29 May 2025",
+      "video_url": "https://kgs-v2.akamaized.net/320p/320p/571-bpsc-br3/bio-sumit-sir/l-34_360.mp4",
+      "hd_video_url": "https://www.youtube.com/embed/rwE9kOaWoIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a5f3d496.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-34 || क्रोमोसोम || Chromosomes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bb360c3-28d0-4c62-a7d2-53851ab9e2c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecutre-35 || क्रोमोसोम || Chromosomes (Part-2)",
+      "published_date": "30 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/265816/kgss-1748570708-v265816.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YNEBmFWFP7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68830a5e83221.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-35 || क्रोमोसोम || Chromosomes (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73784982-59a6-4cd5-9c95-0a8e5f6f11e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || ऊतक विज्ञान || Tissue Science(Part-1)",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/266734/kgss-1748841700-v266734.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/flp27J1-yZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Dly1RTwGO7qUF9GQa2QUAv2SWl2RazsYVx8FjLVu.jpg",
+      "notes": [
+        {
+          "title": "Lecutre-36 || क्रोमोसोम || Chromosomes (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1ec21d3-ec75-4b8d-a679-c7156b6797e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || ऊतक विज्ञान || Tissue Science(Part-1)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://kgs-v2.akamaized.net/320p/320p/571-bpsc-br3/bio-sumit-sir/l-37_360.mp4",
+      "hd_video_url": "https://www.youtube.com/embed/IhdGrxrFieI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BLnwJDgwfMty8C6FLu2mppPs5KbJtnFaN4L8YXRQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || ऊतक विज्ञान || Tissue Science(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a695067d-d27d-4c3a-8bc5-294e8fd3c05b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Plant Tissue || Plant Tissue",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/270075/kgss-1749094300-v270075.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ysZgghiILJM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aSCephvAIbINLCFf1iA2g4fkO6ZodWlRV56EyBhm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Plant Tissue || Plant Tissue",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b134947-2fad-4c21-9fee-417b60436d90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || पादप हार्मोन|| Plant Hormone",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://kgs-v2.akamaized.net/320p/320p/571-bpsc-br3/bio-sumit-sir/l-39_360.mp4",
+      "hd_video_url": "https://www.youtube.com/embed/F6UEIg4tEx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EknywbWouUtt64IPFEBXq2DWy242prBwdPPfyjID.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || पादप हार्मोन|| Plant Hormone",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc377525-2250-4b65-a7f2-dd958710febb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || पादप हार्मोन || Plant Hormone",
+      "published_date": "07 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271552/kgss-1749266321-v271552.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wymVD59dY5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fR96FIKr6BoDXIYfIUY6kxHh6XDWZl29Ld4zH7AP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || पादप हार्मोन || Plant Hormone",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56e8c6d7-6d90-4947-b05e-5319d4310288.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || पादप हार्मोन || Plant Hormone",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271746/kgss-1749438917-v271746.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Y1PtgHdqpmQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ifvk1pTYY0j1ZPhNMNf3qO33y9mqpIcl9wxWD2xf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || पादप हार्मोन || Plant Hormone",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/967b06e9-c7da-439a-848f-6c251a53cf4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || पादप हार्मोन || Plant Hormone (Part-2)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/571-bpsc3-br/bio-sumit-sir/l-42/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IPEI4qXou64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iEbdSnSfu2mU395oZHlDtLPyI4KNXF6yygEf4X0S.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || पादप हार्मोन || Plant Hormone (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1676cce8-bdd8-4f51-ba3f-c9fc731d6a46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || पादप हार्मोन || Plant Hormone (Part-3)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/273257/kgss-1749612389-v273257.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rhxHcq7URPo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L2VMV14WNy06X3NsIu9NNhP9YzGIg450MBSlj1l2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || पादप हार्मोन || Plant Hormone (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b822681-0338-4e08-b52b-dbf5981e263d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || मानव स्वास्थ्य और पोषक तत्व || Human Health and Nutrients",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/274270/kgss-1749699118-v274270.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DaZrPqPm2lg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lc8NHNj1sX5ay1Bcr7hWSjSGXcY02xg9prceeRKV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || मानव स्वास्थ्य और पोषक तत्व || Human Health and Nutrients",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65f67859-0c21-48ec-9ef1-b6a762d7d4f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || कार्बोहाइड्रेट || Carbohydrates",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278043/kgss-1750212314-v278043.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CeKmzifXE48",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SOfKOi8ti1yPiBTvh7rqNsUC9BsvGu9UUvLxKVSP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || कार्बोहाइड्रेट || Carbohydrates",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79b7c554-9000-487f-8396-ce02270f21ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || वसा || Fat (Part-1)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278637/kgss-1750297783-v278637.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TwtFBcIRGyI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ctl1e7X8BAj7yHLbEOzveYt0THv6aBfRZ9fpKoB2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || वसा || Fat",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd55e4ab-c9bd-48b4-be8e-64db2e9bd6b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || वसा || Fat (Part-2)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/279271/kgss-1750384810-v279271.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/edrGU12xk0w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9yyB1SILNKRMlMk07Dh7vrdpVrt6aEFm6VtD7gvn.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || वसा || Fat (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a76ea1a3-7dd7-4ee5-bee4-db52b117f2cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || विटामिन || Vitamin (Part-1)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/280785/kgss-1750647407-v280785.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KelSlKnZxUM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XhHs11iOUYzhGgGt1hvRvSHQAjqGNNZvy2k6SnSJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || विटामिन || Vitamin (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70858c50-2bc6-4afa-8e86-7ab022388616.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || विटामिन || Vitamin (Part-2)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/281498/kgss-1750736215-v281498.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XliuPTU30-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5GQ3Qs2Q3UcKRUxBwhrUkKj8Uc5SyllZbBUogpnO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || विटामिन || Vitamin (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b0d0789-cf90-46df-832d-a3058f891fd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || प्रमुख रोग || Major Diseases",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282271/kgss-1750822068-v282271.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/np77ZdnWtBo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-50 || प्रमुख रोग || Major Diseases",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b428233-1289-4797-8e57-97dced61bd0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || प्रमुख रोग || Major Diseases\t(Part-2)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282779/kgss-1750906808-v282779.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Zwxm9iHIwso",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-51 || प्रमुख रोग || Major Diseases\t(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/384730d9-d785-4cfa-a14f-491c6baf60ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || प्रमुख रोग || Major Diseases (Part-3)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/283518/kgss-1750992008-v283518.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/57NdJ0sZujI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tjcrU2QC0YwcIZTqtWJ36g6WQ8h7t3xOQ3bzBbhP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || प्रमुख रोग || Major Diseases (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89f8e3e8-b5ae-4a47-aa3b-7db8bb44f937.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || जन्तु जगत  || Animal kingdom (Part-2) Last Class",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/284042/kgss-1751076245-v284042.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TaU5Z5eJQFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w7RMKFZVzJRzdsqY1epDqhzOrBP3q8f9zLbAYi8p.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || जन्तु जगत  || Animal kingdom (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b25f1d8a-93f7-40bb-8a9d-cb51ee0e17d2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "subject_name": "Economy by Vishal Sir",
+  "subject_id": 6117,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Economy Class",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/17gk_O-IbPk",
+      "hd_video_url": "https://www.youtube.com/embed/17gk_O-IbPk",
+      "thumbnail": "https://i.ytimg.com/vi/17gk_O-IbPk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Economy Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d8a7f5a-e0cd-4832-9594-1ed7e1bddb43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Economy Class",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/J14IcD3zYhY",
+      "hd_video_url": "https://www.youtube.com/embed/J14IcD3zYhY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z2TBEqsdEZEL4NVFqgJ6IOzAFDOAvOkvGRsROsAF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Economy Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea812103-4e96-4d64-9a6c-36e1f91e4565.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

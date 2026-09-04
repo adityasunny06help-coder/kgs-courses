@@ -1,0 +1,415 @@
+{
+  "subject_name": "Math's by Deepankar Sir",
+  "subject_id": 4746,
+  "video_count": 29,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/VUkS6nfI2Rc",
+      "hd_video_url": "https://www.youtube.com/embed/VUkS6nfI2Rc",
+      "thumbnail": "https://i.ytimg.com/vi/VUkS6nfI2Rc/default.jpg",
+      "notes": [
+        {
+          "title": "L - 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6de7c9c1-8cbb-4bcf-b041-01db3a2e70b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Number System (Part-01)",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/e08J7AaK5OA",
+      "hd_video_url": "https://www.youtube.com/embed/e08J7AaK5OA",
+      "thumbnail": "https://i.ytimg.com/vi/e08J7AaK5OA/default.jpg",
+      "notes": [
+        {
+          "title": "L - 02 || Number System Part",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/468e2b2f-a6e5-4e6b-a65e-b287ea27841c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Number System (Part-02)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/M_9iw0e7Loo",
+      "hd_video_url": "https://www.youtube.com/embed/M_9iw0e7Loo",
+      "thumbnail": "https://i.ytimg.com/vi/M_9iw0e7Loo/default.jpg",
+      "notes": [
+        {
+          "title": "Number System Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6513dfa-556d-4fd8-b77d-4fa36cdcc11b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Number System (Part-02)",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/IcGgE6jrVFw",
+      "hd_video_url": "https://www.youtube.com/embed/IcGgE6jrVFw",
+      "thumbnail": "https://i.ytimg.com/vi/IcGgE6jrVFw/default.jpg",
+      "notes": [
+        {
+          "title": "L - 04 || Number System Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/817bfb4e-e33c-4a81-8c41-0d6c1f99e97b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Number System (Part-03)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/MPdHB573gUs",
+      "hd_video_url": "https://www.youtube.com/embed/MPdHB573gUs",
+      "thumbnail": "https://i.ytimg.com/vi/MPdHB573gUs/default.jpg",
+      "notes": [
+        {
+          "title": "L - 05 || Number System Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1790d7a-6032-4960-b979-29643b61e481.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Number System (Part-04)",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/cukQ2BG29Ps",
+      "hd_video_url": "https://www.youtube.com/embed/cukQ2BG29Ps",
+      "thumbnail": "https://i.ytimg.com/vi/cukQ2BG29Ps/default.jpg",
+      "notes": [
+        {
+          "title": "L - 06 || Number System Part - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea7b2502-f6a9-416c-8b19-ad9371d7332b."
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Fractions (Part-01)",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LfioiKeBLvs",
+      "hd_video_url": "https://www.youtube.com/embed/LfioiKeBLvs",
+      "thumbnail": "https://i.ytimg.com/vi/LfioiKeBLvs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Fractions (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b2cb610-7676-4d2e-9e77-f188caff4ee5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Fractions (Part-02)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/36eli1wkr3s",
+      "hd_video_url": "https://www.youtube.com/embed/36eli1wkr3s",
+      "thumbnail": "https://i.ytimg.com/vi/36eli1wkr3s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Fractions (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/953663eb-173d-4d15-8ffd-8447e41beb4b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Percentage (Part-01)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rHWgNXQshvo",
+      "hd_video_url": "https://www.youtube.com/embed/rHWgNXQshvo",
+      "thumbnail": "https://i.ytimg.com/vi/rHWgNXQshvo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Percentage (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2589ad1-3347-4b80-985c-f1cc1e113585.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Percentage (Part-02)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/pFPcRtETEm8",
+      "hd_video_url": "https://www.youtube.com/embed/pFPcRtETEm8",
+      "thumbnail": "https://i.ytimg.com/vi/pFPcRtETEm8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Percentage (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d93e7b6-5286-4147-bdf5-a6c00260a3c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Percentage (Part-03)",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/PEv_65TGJAY",
+      "hd_video_url": "https://www.youtube.com/embed/PEv_65TGJAY",
+      "thumbnail": "https://i.ytimg.com/vi/PEv_65TGJAY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Percentage (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f5ce16c-1e09-43cc-9609-bf305036d256.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Profit & Loss (Part-01)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Xt9vfVmHb8s",
+      "hd_video_url": "https://www.youtube.com/embed/Xt9vfVmHb8s",
+      "thumbnail": "https://i.ytimg.com/vi/Xt9vfVmHb8s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Profit & Loss (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9dfc56d-43fd-4f44-935c-21e01dd420dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Profit & Loss (Part-02)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vIoQq-QIQGI",
+      "hd_video_url": "https://www.youtube.com/embed/vIoQq-QIQGI",
+      "thumbnail": "https://i.ytimg.com/vi/vIoQq-QIQGI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Profit & Loss (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8749a4b-e5c9-41f6-bb67-80bab24ff05d.pdfhttps://kgs.nyc3.digitaloceanspaces.com/pdfs/e8749a4b-e5c9-41f6-bb67-80bab24ff05d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Simple Interest & Compound Interest (Part-01)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/kXgHSvheQ9A",
+      "hd_video_url": "https://www.youtube.com/embed/kXgHSvheQ9A",
+      "thumbnail": "https://i.ytimg.com/vi/kXgHSvheQ9A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d337e03-eb1d-4e96-bb05-dddf43cadc01.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Simple Interest & Compound Interest (Part-02)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-kGu5kUt91I",
+      "hd_video_url": "https://www.youtube.com/embed/-kGu5kUt91I",
+      "thumbnail": "https://i.ytimg.com/vi/-kGu5kUt91I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/936f89c1-baaa-4316-9e55-da88070b9bb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Simple Interest & Compound Interest (Part-03)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ertdT-36BnU",
+      "hd_video_url": "https://www.youtube.com/embed/ertdT-36BnU",
+      "thumbnail": "https://i.ytimg.com/vi/ertdT-36BnU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/101ade30-57c2-474f-b6b8-c93cd313a4d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Time & Work (Part-01)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/SOJ_T64r428",
+      "hd_video_url": "https://www.youtube.com/embed/SOJ_T64r428",
+      "thumbnail": "https://i.ytimg.com/vi/SOJ_T64r428/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3af854d2-5b9d-45aa-a670-249b979a5019.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Time & Work (Part-02)",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/IjKA7XXkps0",
+      "hd_video_url": "https://www.youtube.com/embed/IjKA7XXkps0",
+      "thumbnail": "https://i.ytimg.com/vi/IjKA7XXkps0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Time & Work (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5723a23f-f474-49f7-b562-81b6bd54a86a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Time & Work (Part-03)",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qz71k-7HZ_0",
+      "hd_video_url": "https://www.youtube.com/embed/qz71k-7HZ_0",
+      "thumbnail": "https://i.ytimg.com/vi/qz71k-7HZ_0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Time & Work (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a65c7ae4-c0ff-466d-88c2-434459225c45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Average",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/sarwqVUmo-M",
+      "hd_video_url": "https://www.youtube.com/embed/sarwqVUmo-M",
+      "thumbnail": "https://i.ytimg.com/vi/sarwqVUmo-M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Time & Work (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4193a5c-bc13-43c7-9520-24141e102492.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Ratio (Part-01)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/WzQOmwMWyXo",
+      "hd_video_url": "https://www.youtube.com/embed/WzQOmwMWyXo",
+      "thumbnail": "https://i.ytimg.com/vi/WzQOmwMWyXo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21b924a5-c827-43f4-ba73-c0d38f7e3832.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Ratio (Part-02)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/LxCxgPOjJ7w",
+      "hd_video_url": "https://www.youtube.com/embed/LxCxgPOjJ7w",
+      "thumbnail": "https://i.ytimg.com/vi/LxCxgPOjJ7w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e40da5e6-3065-49c1-9e98-83ad7985b795.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Time Speed & Distance (Part-01)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qg7-jgzlxGM",
+      "hd_video_url": "https://www.youtube.com/embed/qg7-jgzlxGM",
+      "thumbnail": "https://i.ytimg.com/vi/qg7-jgzlxGM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25a8f7a7-b0e3-4e37-952a-a478b6ee0c73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Time Speed & Distance (Part-02)",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2m6SPNDBu18",
+      "hd_video_url": "https://www.youtube.com/embed/2m6SPNDBu18",
+      "thumbnail": "https://i.ytimg.com/vi/2m6SPNDBu18/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Time Speed & Distance (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20cb1763-ae2e-4080-b712-3bda4ef1fb9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || LCM & HCF (Part-01)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/KeLICgocDBE",
+      "hd_video_url": "https://www.youtube.com/embed/KeLICgocDBE",
+      "thumbnail": "https://i.ytimg.com/vi/KeLICgocDBE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || LCM & HCF (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c190e234-ceea-4eb8-8b51-7e02476f8033.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || LCM & HCF (Part-02)",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/I-wYhBm_620",
+      "hd_video_url": "https://www.youtube.com/embed/I-wYhBm_620",
+      "thumbnail": "https://i.ytimg.com/vi/I-wYhBm_620/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || LCM & HCF (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8628dab-70b0-403d-a1aa-e4163d2ae298.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Data Interpretation (Percentage, Ratio, Average) (Part-01)",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/OibBm4Q8XwM",
+      "hd_video_url": "https://www.youtube.com/embed/OibBm4Q8XwM",
+      "thumbnail": "https://i.ytimg.com/vi/OibBm4Q8XwM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || LCM & HCF (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afcfd7ec-d1d4-4faf-b99e-13837fc03e11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Data Interpretation (Percentage, Ratio, Average) (Part-02)",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ar0Qy3F_vkU",
+      "hd_video_url": "https://www.youtube.com/embed/ar0Qy3F_vkU",
+      "thumbnail": "https://i.ytimg.com/vi/ar0Qy3F_vkU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61ed72e0-0440-4e7c-8072-fcde6a71155e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Doubt Session",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/TOO8rwRf5L8",
+      "hd_video_url": "https://www.youtube.com/embed/TOO8rwRf5L8",
+      "thumbnail": "https://i.ytimg.com/vi/TOO8rwRf5L8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Maths By Deepankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa82a2b3-75e4-4b05-87f3-6a0c06e21601.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

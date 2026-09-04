@@ -1,0 +1,55 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 2495,
+  "video_count": 4,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Know all about the RPF SI Batch || Part 2",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://youtu.be/FLwCwIqmrIA",
+      "hd_video_url": "https://youtu.be/FLwCwIqmrIA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Know all about the RPF SI Batch || Part 1",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://youtu.be/jkYKh0Iry_U",
+      "hd_video_url": "https://youtu.be/jkYKh0Iry_U",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 1 || Chemistry Discussion ( Part 1)",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/mx-IDzdzPW4",
+      "hd_video_url": "https://www.youtube.com/embed/mx-IDzdzPW4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3665692b-60c3-4e34-b622-d5d3cc90aaa5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 2 || Chemistry Discussion ( Part 2)",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/eJ84LVGDADI",
+      "hd_video_url": "https://www.youtube.com/embed/eJ84LVGDADI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b406d7d-3c57-4436-8a14-cc280eec6a14.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

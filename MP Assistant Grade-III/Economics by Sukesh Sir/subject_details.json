@@ -1,0 +1,37 @@
+{
+  "subject_name": "Economics by Sukesh Sir",
+  "subject_id": 6612,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Special Economics Class By Sukesh Sir",
+      "published_date": "04 May 2025",
+      "video_url": "https://www.youtube.com/embed/i5TE9LI617g",
+      "hd_video_url": "https://www.youtube.com/embed/i5TE9LI617g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ArYV9IXzVdqcXqhzTd6GktLp9BmizbBsDGY4n8tF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Special Economics Class By Sukesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12275466-672d-4c93-b80e-2c3706ba1ece.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Special Economics Class By Sukesh Sir",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/8ckyTjTx3FY",
+      "hd_video_url": "https://www.youtube.com/embed/8ckyTjTx3FY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bKOhRZDUdmwdWebIf8Q7S11NDgZRgqGneafBkrGQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Special Economics Class By Sukesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26a96212-f7da-4a33-ac0c-6e372b669622.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

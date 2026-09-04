@@ -1,0 +1,657 @@
+{
+  "subject_name": "Physics by Ravi Sir",
+  "subject_id": 7152,
+  "video_count": 47,
+  "note_count": 45,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Physics Orientation",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/xF0BBl_WsMk",
+      "hd_video_url": "https://www.youtube.com/embed/xF0BBl_WsMk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MPMfycJc6Zuo7Zzas0ggUYGgj2xgew3eU3Wg6wnY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Physics Orientation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13745709-fcf9-4821-bfdd-15ab599618e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Unit and dimensions",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/eUcOnJiSwfw",
+      "hd_video_url": "https://www.youtube.com/embed/eUcOnJiSwfw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sVNAB3vAYYK1tfN5mt2Tu2VEcxqwfElPoJXFHbhh.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Unit and dimensions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a08c805-c485-495e-aaf4-026d456fe5b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Motion in Straight Line",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vaZELwJpV44",
+      "hd_video_url": "https://www.youtube.com/embed/vaZELwJpV44",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uBn0l9UUODviKPaPv7Uw3TkCw8BPAwQyn9bMyG1V.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Motion in Straight Line",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9f9a915-14cf-4a3e-a8cb-11140c986880.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Motion in Straight Line",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-MMcPKywz2Q",
+      "hd_video_url": "https://www.youtube.com/embed/-MMcPKywz2Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wk18dvfVAH6s90v84bqVShSthtWkxKXuL88Qmgiz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Motion in Straight Line",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b35724bf-111d-4bcc-adcb-c09a8591e41e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Motion in Straight Line",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/SOAUigBrndE",
+      "hd_video_url": "https://www.youtube.com/embed/SOAUigBrndE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/61MNNDM02bgzWQplL0ReiVPai8yKSZUFQutVkIX2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Motion in Straight Line",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43a7baeb-305f-4852-b9aa-304d7d695e8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Motion in Straight Line",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/wA75PdMyRMk",
+      "hd_video_url": "https://www.youtube.com/embed/wA75PdMyRMk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZzDvFr7A3K6IZUqKgustbmS4gk8J3iDvEVbV3Unz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Motion in Straight Line",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58525557-aed4-4aa8-a592-317493bec3d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Circular Motion Part-01",
+      "published_date": "06 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ANCMujT2PhY",
+      "hd_video_url": "https://www.youtube.com/embed/ANCMujT2PhY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/28I93gP8RrdVzOROUcv7BE6R5on83nItKlPJI6Qe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Circular Motion Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99c0a53a-4ec9-4cf3-9c6f-346e2143a9c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Circular Motion Part-02",
+      "published_date": "06 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EVrALaPKbZk",
+      "hd_video_url": "https://www.youtube.com/embed/EVrALaPKbZk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8y6T0tPPq8kP9HBaRXQLu9RFWAtltz6EeUf3JOs1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Circular Motion Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7186f0b-9539-4056-9732-0905d09c47ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Projectile motion-01",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/1cX34gm_auw",
+      "hd_video_url": "https://www.youtube.com/embed/1cX34gm_auw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TAUQ8XglcgXqzhUTmCJEylRBqzYlw80D6nHvEtiY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Projectile motion-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3081a6d-e066-4d12-91e3-0483f3839b2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Projectile Motion-02 & Law of motion-01",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BWercS8Y-oo",
+      "hd_video_url": "https://www.youtube.com/embed/BWercS8Y-oo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oi60owxMRqujB3R2JdYhhJO26pdAZLWfcUFDyyGD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Projectile Motion-02 & Law of motion-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7de78ca-3ab9-4521-9a8c-46e29b27859c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Law of motion-02",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/h7_FiTPuZ3c",
+      "hd_video_url": "https://www.youtube.com/embed/h7_FiTPuZ3c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Jjyyhi4HSMPev961inAcX9VN8wg66yqRp8uKAoye.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Law of motion-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d17cd01-9f7c-49eb-8cd6-d89e296cda7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Law of motion-03",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/bgvzyf9Pvek",
+      "hd_video_url": "https://www.youtube.com/embed/bgvzyf9Pvek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/E2pD9H7WGT3oxwPUqgb9ABVDhl9OH5vKGHjmtP1O.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Law of motion-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67430bfe-b6e6-4eba-a142-68965018b2b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Law of motion-04",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Kd7DcVo5074",
+      "hd_video_url": "https://www.youtube.com/embed/Kd7DcVo5074",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JEadocFH60Yxy2S66ZOy8aXpCRYeWZvOboQECtRh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Law of motion-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e8015fc-db83-4f9f-8654-e6e56fcab78e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Work Power & Energy Part-01",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/GH8cTrAIYeM",
+      "hd_video_url": "https://www.youtube.com/embed/GH8cTrAIYeM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pbPYLHtpo2FFdoZDlBHSBmDwDebpMmusxLR5Dr6h.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Work Power & Energy Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a0aac91-0e92-4f75-b979-dda96277b621.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Work Power & Energy Part-02",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XPGeKa8OuLY",
+      "hd_video_url": "https://www.youtube.com/embed/XPGeKa8OuLY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zZKxOlWyq9acHGbn1SxhLXa7Dwd5xeJo0cKBrHiV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Work Power & Energy Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2379f9f4-3e92-4a7c-8158-90e5edcd82d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Work Power & Energy Part-03",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KadQN-9CrQo",
+      "hd_video_url": "https://www.youtube.com/embed/KadQN-9CrQo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I58v4s9NLMKUgHb7DDsx9Qg4XmNFOkoEoWFEf8Gv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Work Power & Energy Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afec294b-4fe2-4552-ad05-e7704e3a2017.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Oscillation-01",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_DHSGTz-YNs",
+      "hd_video_url": "https://www.youtube.com/embed/_DHSGTz-YNs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BaURsNT7NJS2R73J9nFqmbmeL2SVBrEsYPBw84kE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Oscillation-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab787cbd-282e-45af-8286-b54c7c7c355e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Oscillation-02",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/qlDuZ5GWu0s",
+      "hd_video_url": "https://www.youtube.com/embed/qlDuZ5GWu0s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dPSmNPMEGZlJHPJhtjdHnV2s1jo3eaHshRyznbNy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Oscillation-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06a380ef-a80d-461f-8292-5e2772545790.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Oscillation-03",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/x-RQQ7gI9YU",
+      "hd_video_url": "https://www.youtube.com/embed/x-RQQ7gI9YU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wVlm2IdnKAfqcS7bm2u4nSYQCAcQwSqarSo39j0s.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Oscillation-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bacf6fa-bcca-4a36-b0f1-c07f8281e440.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 Oscillation-04",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/A_FN4sINCmY",
+      "hd_video_url": "https://www.youtube.com/embed/A_FN4sINCmY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VECwoURvIVD0as1xEXhJxwfeeJdJ9418xssxFP6X.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 Oscillation-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dacd30b4-4a25-48a0-927d-dd35fe3ffd12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Gravitation-01",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/qLAAYAfTMEo",
+      "hd_video_url": "https://www.youtube.com/embed/qLAAYAfTMEo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KPzAtFd88wmlcaIbZ9oDRWN3TmlLnUgaGlQnpRSM.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Gravitation-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f14f4565-5980-4981-847a-f271ea33b583.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Gravitation-02",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NS3S3hY25sw",
+      "hd_video_url": "https://www.youtube.com/embed/NS3S3hY25sw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5HpYIWrRL6SOOKl0r7C63dSNYbfpSOG1NxvVwbAs.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Gravitation-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89357a19-dfb1-48b4-8c7f-339aecb718e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Gravitation-03",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/cch7FSiZE-o",
+      "hd_video_url": "https://www.youtube.com/embed/cch7FSiZE-o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JBUwGQNr7IRGI9V4jME66DSN0GelmSiQWgjh20CR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Gravitation-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69256ced-6cba-4353-a6d9-e8267c117c4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Gravitation-04",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-tDkk_XDZyc",
+      "hd_video_url": "https://www.youtube.com/embed/-tDkk_XDZyc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AuNTgI1M1Pg1DDGj6v7X9JtDq8H8YpxE5lbg2lia.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Gravitation-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20d685c3-8e8a-41c4-a522-4beae18c4587.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Gravitation-05",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/QBcUihiZlhs",
+      "hd_video_url": "https://www.youtube.com/embed/QBcUihiZlhs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JmHu8l8OHqQkAw8tytZmuNjVs1TkQBsM1BOAuOc5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Gravitation-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/651ff670-b002-4229-a5d8-2261b63a38fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Heat-01",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PYYqD5nBx38",
+      "hd_video_url": "https://www.youtube.com/embed/PYYqD5nBx38",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q13AjfwINzDJi3TJYDyzD0Gz0Xp1yrUIa25R7BnX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Heat-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae8bb3d5-80da-44c3-adec-57b0aa90a42d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Elasticity",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/DSD8lmdRGmU",
+      "hd_video_url": "https://www.youtube.com/embed/DSD8lmdRGmU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XzF5k4gWnjByYaa2dOONUmJhql9b7pkEshoApLFD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Elasticity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e93a9b7-860f-4dbb-88c2-c0d1c7c411c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Heat Part-02",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/l1PYY50jRWY",
+      "hd_video_url": "https://www.youtube.com/embed/l1PYY50jRWY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Frj6P4QMkuN21QapyUbK26t9tQwf6tdsH4oXLgCl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Heat Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea84715a-4268-4d59-8246-5d6f2d25017f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Heat Part-03",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/DzhVXcNO0zg",
+      "hd_video_url": "https://www.youtube.com/embed/DzhVXcNO0zg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jjVc2dCucqNTEDHUPGWuyfUGPFhSVtM4kjl8htFd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Heat Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5c255ca-d7f1-40b5-8012-498ce049e52e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Heat Part-04",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/8wHU8Bcn_R8",
+      "hd_video_url": "https://www.youtube.com/embed/8wHU8Bcn_R8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zgdLORzBNbSGtIIHFkX6XWIxkC4ZezzHMq8nfbdu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Heat Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50bcfecc-dc23-450b-90d7-ed39361fc637.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Heat Part-05",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0pblaRlhcOk",
+      "hd_video_url": "https://www.youtube.com/embed/0pblaRlhcOk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/M2HpzPv1uTyRTaLaYUGGucvxB37zzDimeoprhRfo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Heat Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dbb53e7-fa9d-4c06-a076-125b081de014.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Modern Physics Part-01",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/upagDa6KDjE",
+      "hd_video_url": "https://www.youtube.com/embed/upagDa6KDjE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cHUzPfmFHevenyui8uHHnmBEtHLCM2XPv1ukhxqZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Modern Physics Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5b636445-414d-492d-8f33-2f09b5e65397.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Surface Tension",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/CebKXwm_bO8",
+      "hd_video_url": "https://www.youtube.com/embed/CebKXwm_bO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/C5KKiEARjSVWlelJYm78NVAAdvPm75ppzQGceL5T.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Surface Tension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f332c117-7ba4-40f1-816c-ac6a12a916a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Information Update",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NsO5bhK8xao",
+      "hd_video_url": "https://www.youtube.com/embed/NsO5bhK8xao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zZeVR6Te3iAx3XjOCbIiBvs9SRRgajnhgUqrsb6C.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-34 || Electric Current-01",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/FURVuPJC7_c",
+      "hd_video_url": "https://www.youtube.com/embed/FURVuPJC7_c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hr3nQqTeInqTE1bhQcUcTuyPJPkK7WcTuNRmxbMr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Electric Current-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/420680b7-f051-4026-af60-e07c7c15797f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-35 || Electric Current-02",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/H406liqYFQ8",
+      "hd_video_url": "https://www.youtube.com/embed/H406liqYFQ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DTVOHNFGbSYVhJlGL0QXV1L5RDwpCTnUv9LXpAca.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Electric Current-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3161d0fa-b651-4f09-ba6a-286bf14f9d7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 || Electric Current-03",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/MUGzke8xtMI",
+      "hd_video_url": "https://www.youtube.com/embed/MUGzke8xtMI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NfIL6GouKcyZFiZ7gTuMUKjuwZ0nT3fZbGyr0Ix2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Electric Current-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8765d836-f3dd-4afc-894d-64b65dddac94.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-37 || Electric Current-04",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/poqK1tVRrAM",
+      "hd_video_url": "https://www.youtube.com/embed/poqK1tVRrAM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/s8J1PQwhtCD9m7C71VPzM5L2FeMvqiNNvDoTK1Rd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Electric Current-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fba519df-0d87-4139-92e2-53af7accae4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-38 || Electric Current-05",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/irZ3e-U7_8M",
+      "hd_video_url": "https://www.youtube.com/embed/irZ3e-U7_8M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VY5N5amgwrRZwFDdQQ7sGWSWXQasUMMx7lbp0sSA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Electric Current-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ecee990-4780-476d-8dc2-fec1a1a623d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-39 || Electric Current-06",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/kF2e61cnwjo",
+      "hd_video_url": "https://www.youtube.com/embed/kF2e61cnwjo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fHqGhtGlS75rci5q2uOFRUloMmbOMfWdDwo47SZk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-61 || Electric Current-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a267c57-b610-4976-a8b3-071bd4501453.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-40 || Modern Physics Part-02",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2ROMfCKT4P4",
+      "hd_video_url": "https://www.youtube.com/embed/2ROMfCKT4P4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AyA4VQ0mZyNc8N1BwWOYxEVOHXftXMMteODfcglO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Modern Physics Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea7fd47e-b4b2-44de-b068-a5981b6c4cf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-41 || Electric Current-07",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/TMSPlNx4ToY",
+      "hd_video_url": "https://www.youtube.com/embed/TMSPlNx4ToY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HADJ0NRf0MjKROTMmsbVHIjsYbYEZR7eB1grXBnO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-63 || Electric Current-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea7a8076-8985-44b9-876b-825ff6e29569.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-42 || Electric Current-08",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/C3pzBTimQss",
+      "hd_video_url": "https://www.youtube.com/embed/C3pzBTimQss",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7fAST7zhzly4PaggrNGfD9G8Tk1y2N8jGo07rfHH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-64 || Electric Current-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b98492f7-8dcd-4da2-8fa9-14ef54ff220b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-43 || Optics",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://youtu.be/G6q9egFOVZE",
+      "hd_video_url": "https://youtu.be/G6q9egFOVZE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ir4NKPW6PULpP18Itax3YuDUS9qO2EXMHUTqGAOg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Optics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24931179-ba32-45f5-92f1-a5ddb4f87d56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-44 || Viscosity Part-01",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/UPg4qARXiik",
+      "hd_video_url": "https://www.youtube.com/embed/UPg4qARXiik",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RdjFFOANOy7TQjgzhvvpOfpozZKwhmgAlzaMGwgr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Viscosity Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85af8c27-1b97-4ce6-996a-76cd6663a6cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-45 || Viscosity Part-02",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/mme5sYbTZG4",
+      "hd_video_url": "https://www.youtube.com/embed/mme5sYbTZG4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ab4nGLh11ij6MaGjX3blJHrpRPO1zUy1bMqpQV3H.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Viscosity Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cd553d4-dbb2-4ce5-ba7d-8d1766c8e452.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-46 || Viscosity Part-03",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Z8QHNSPU1XSNSKotoScnGy58PNaPRZ7zhl8oHd7E.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

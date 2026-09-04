@@ -1,0 +1,163 @@
+{
+  "subject_name": "PPC & Quality Control by Varun Sir",
+  "subject_id": 6015,
+  "video_count": 11,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Inventory Management(Part-1)",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5QH2oBsC0_A",
+      "hd_video_url": "https://www.youtube.com/embed/5QH2oBsC0_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vrOE4KuYFnEqyhhRI2asime9Ms5gqduTbpmMoVBy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Inventory Management(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a04c256f-2c97-452a-9364-3857e3c85be8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Inventory Management(Part-2)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/O30ZMm-qiaQ",
+      "hd_video_url": "https://www.youtube.com/embed/O30ZMm-qiaQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3ue89kbjp1YunEVSvfGd7qoemJbHP3WWnpQQ3kiE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Inventory Management(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/489513d4-28b5-444a-811e-b44204573f8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || EOQ Model",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9TJwrNfNe-k",
+      "hd_video_url": "https://www.youtube.com/embed/9TJwrNfNe-k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h9LuOfxpJwp4q9bji0tia1H12DES04q7dITfQIlL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || EOQ Model",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/302eb5b1-5843-429d-a636-dd16a271ef49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Material Requirement Planning",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_5FUuJPrrBs",
+      "hd_video_url": "https://www.youtube.com/embed/_5FUuJPrrBs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/876MDZQo8ax9KTzEU8BbTrux4WHl0nFEXVQmFx8X.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Material Requirement Planning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb65b7c2-ca45-4586-808a-5348591c377b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Production Planning & Control",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/1z33wi_kdEM",
+      "hd_video_url": "https://www.youtube.com/embed/1z33wi_kdEM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/twqpvOyIV6U8OpopZLAcSCWwmtkeb59kPHfSkoui.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Production Planning & Control",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5861f380-35ea-4a64-bb79-f776445290a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Layout",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/gjlom7SBY1E",
+      "hd_video_url": "https://www.youtube.com/embed/gjlom7SBY1E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IGOcQh0r0xQhSp8gyWcIbmIiluxRzHwuJUUUnD6h.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Layout",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d19b2fad-d796-4745-8adc-fa959f04ad89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Quality Control(Part-1)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HhMHLt4AK3s",
+      "hd_video_url": "https://www.youtube.com/embed/HhMHLt4AK3s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Oq8MXkG6TXea988poJvIAsW9cxcFkTj9rOaWYPQB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Quality Control(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96aadcc9-7a41-4a09-8ff2-ec8f1f891d16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Quality Control(Part-1)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/59QJhHahhz0",
+      "hd_video_url": "https://www.youtube.com/embed/59QJhHahhz0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/loUC8b9Kf1YPbtn5vqbEExnm5Vos8NFLzG4x20wh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Quality Control(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffdd8a5b-8600-4d86-84b2-fe3ae9b99fd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Statistical Tools & Control Charts (Part-1)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7Hjabt7gqRc",
+      "hd_video_url": "https://www.youtube.com/embed/7Hjabt7gqRc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EZsVWGiE9ODYFhyXnGq0eWOyPaGcZeTSkJI3zhkE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Statistical Tools & Control Charts (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/487a6fcd-d55d-436d-bd92-05553115f7ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Statistical Tools & Control Charts (Part-2)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fzlI8tUYjb0",
+      "hd_video_url": "https://www.youtube.com/embed/fzlI8tUYjb0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nyGe4GOfR3O4H3TJGxTJDpoxfwnqNlBflTnQnoGN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Statistical Tools & Control Charts (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0943de3-ce47-4834-b6ce-0707edb4c9cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Basics Of Production",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/tNaSAv2NRMU",
+      "hd_video_url": "https://www.youtube.com/embed/tNaSAv2NRMU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h2zQnj4TNrUStEbmfZwPIWUO1cp432NjYxfzS5xQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Basics Of Production",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d20bd51c-b3bd-41d6-aa7f-386b05d3fd91.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

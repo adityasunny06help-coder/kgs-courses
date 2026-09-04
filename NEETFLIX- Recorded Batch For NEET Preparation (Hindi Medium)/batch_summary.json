@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "NEETFLIX- Recorded Batch For NEET Preparation (Hindi Medium)",
+    "price": "999",
+    "id": "702",
+    "extracted_date": "2025-08-27T13:38:17.483319"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 7260,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Mohit Agrawal (MA Sir)",
+      "id": 7156,
+      "video_count": 214,
+      "note_count": 214
+    },
+    {
+      "name": "Chemistry By Gogi Sir (11th Class)",
+      "id": 7157,
+      "video_count": 146,
+      "note_count": 142
+    },
+    {
+      "name": "Chemistry By Gogi sir",
+      "id": 7160,
+      "video_count": 128,
+      "note_count": 123
+    },
+    {
+      "name": "Botany By Shashank Yadav (Sapiens Sir)",
+      "id": 7158,
+      "video_count": 108,
+      "note_count": 107
+    },
+    {
+      "name": "Botany By Shashank Yadav (Sapiens Sir)",
+      "id": 7161,
+      "video_count": 107,
+      "note_count": 107
+    },
+    {
+      "name": "Zoology By Shashank Yadav (Sapiens Sir)",
+      "id": 7159,
+      "video_count": 113,
+      "note_count": 112
+    },
+    {
+      "name": "Zoology by Shashank Yadav (Sapiens Sir)",
+      "id": 7162,
+      "video_count": 86,
+      "note_count": 86
+    },
+    {
+      "name": "Physics By Mohit Agarwal (Other Material)",
+      "id": 7720,
+      "video_count": 54,
+      "note_count": 54
+    }
+  ]
+}

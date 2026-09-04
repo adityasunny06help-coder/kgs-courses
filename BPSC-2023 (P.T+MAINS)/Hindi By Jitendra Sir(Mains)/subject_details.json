@@ -1,0 +1,63 @@
+{
+  "subject_name": "Hindi By Jitendra Sir(Mains)",
+  "subject_id": 1252,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01: सन्धि (भाग -1 )",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-01/l-01-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/M0z7u0wqGp0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8db8aa18-95e8-4fd4-a33e-1dd4af77a251.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02: सन्धि (भाग -2 )",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-02/l-02-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7CgQ9BvMLYk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d6b9b3a0-8491-4851-8e63-8b839e4b4ce4.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03: विशेषण & समास",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-03/l-03-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-f-yYgSP9fY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//550c5775-ec40-43de-99d6-5271a9df31b3.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04: समास & कारक",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-04/l-04-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jU0hqYlBW6M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e76bb424-9e8b-44da-aa68-b6628911a6bf.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05: Hindi By Jitendra Sir",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-05/l-05-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8L5fpGUKGbI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//75eff81b-f50b-41ea-b39b-168207ff239f.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06: Hindi By Jitendra Sir",
+      "published_date": "31 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/69th-bpsc/hindi/l-06/l-06-hindi-69th.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4CtY5vOaxcs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//51996111-e4e6-48a1-80c8-ec04b7e27e81.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

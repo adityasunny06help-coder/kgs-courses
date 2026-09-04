@@ -1,0 +1,233 @@
+{
+  "subject_name": "Chemistry by Gyan Sir",
+  "subject_id": 7762,
+  "video_count": 16,
+  "note_count": 16,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Matter || पदार्थ",
+      "published_date": "13 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fa2JMr3aNJo",
+      "hd_video_url": "https://www.youtube.com/embed/fa2JMr3aNJo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jG3sMsNH2W3fttGPHhs2gcGQvppaRnpDmN60BSXF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Matter || पदार्थ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6175ce5f-d1d6-43b3-bf3d-ba0132f94f2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Mixture & Solution || मिश्रण और विलयन",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fFfItm-dRNI",
+      "hd_video_url": "https://www.youtube.com/embed/fFfItm-dRNI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nRYk4cX9YYi23iexBQ8rO5a7kE3cvfmIBCBMc6hO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Mixture & Solution || मिश्रण और विलयन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21149aaa-5ad4-40cd-9212-55dcbc78d4b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Acid, Base & Salt || अम्ल, क्षार और लवण",
+      "published_date": "03 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2SQ2dQuuiFw",
+      "hd_video_url": "https://www.youtube.com/embed/2SQ2dQuuiFw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03 || Acid, Base & Salt || अम्ल, क्षार और लवण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1027e4e4-fec2-4fdd-b64e-4d770afdc451.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Periodic Table || आवर्त सारणी (Part 1)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LOq9oZNwLZ4",
+      "hd_video_url": "https://www.youtube.com/embed/LOq9oZNwLZ4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-04 || Periodic Table || आवर्त सारणी (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d91b8555-ff5c-402a-906e-2f859b74e603.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Periodic Table || आवर्त सारणी (Part 2)",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1T_CcGZtb7A",
+      "hd_video_url": "https://www.youtube.com/embed/1T_CcGZtb7A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uUJlrKkFuzQa6iR3o9eU5RgO8VFkBH8TwqgpPs5e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Periodic Table || आवर्त सारणी (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57fcc4c6-74d3-49ca-9f03-bf1b311ec051.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Periodic Table || आवर्त सारणी (Part 3)",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/wAqJND6cQPM",
+      "hd_video_url": "https://www.youtube.com/embed/wAqJND6cQPM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0K2dwTiKMapczbar3NRPpe97sMKqRcCgQ0BMKjm7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Periodic Table || आवर्त सारणी (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08156311-8c56-434c-8926-57dcad3198c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Periodic Table || आवर्त सारणी (Part 4)",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/siCNBc3vbGY",
+      "hd_video_url": "https://www.youtube.com/embed/siCNBc3vbGY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Swz2hUJiFmxhZtWdPufydeQSxmMS5gTnU9AGa9Dh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Periodic Table || आवर्त सारणी (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6455c5b2-624d-4c94-a63f-94bee7c7d35f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Metal & Ores || धातु और अयस्क",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0DbLSL7aegM",
+      "hd_video_url": "https://www.youtube.com/embed/0DbLSL7aegM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1E3h9mQvHIXFOuQr6JUf10lzNhGPb7NSdmQFh5wW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Metal & Ores || धातु और अयस्क",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f2b5ad4-1b8a-4b71-a6c8-a7be57add3c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Nonmetal || अधातु",
+      "published_date": "09 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5OF1OgrIi_k",
+      "hd_video_url": "https://www.youtube.com/embed/5OF1OgrIi_k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eGD2E6mitfATFvWOm0W4JzSB3GuB3oPdPI2UIuAy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Nonmetal || अधातु",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41537333-5587-4f2f-9afa-63f2dc7ba092.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Polymer and Hydrocarbon || पॉलिमर और हाइड्रोकार्बन",
+      "published_date": "10 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/yg9f1B5LNDQ",
+      "hd_video_url": "https://www.youtube.com/embed/yg9f1B5LNDQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1bDTndXdZ1WZIfHbIqgY2OfeCKY5yDzJO4NozTvC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Polymer and Hydrocarbon || पॉलिमर और हाइड्रोकार्बन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad0de442-706e-48a3-95d5-63052da0d55b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Metalloids || उपधातु",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/h4nSVWtpb7o",
+      "hd_video_url": "https://www.youtube.com/embed/h4nSVWtpb7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Tvjus3GW8yz9GUmGad3MFwogtrj8GJpICiMfWrZ4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Metalloids || उपधातु",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cecb0b6f-4320-415d-be16-3311f4d31ca1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Metalloids || उपधातु (Part 2)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/9Y49T8s-cjM",
+      "hd_video_url": "https://www.youtube.com/embed/9Y49T8s-cjM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k3GgoUTQF3bDTTyhvV3W82SI3KBbNiX78fCInFKV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Metalloids || उपधातु (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c40e789c-8f14-4ee4-8d86-1329e3992483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Polymers || बहुलक (Part 1)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/fsE1MPq4uYs",
+      "hd_video_url": "https://www.youtube.com/embed/fsE1MPq4uYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ERHLppkcfLFhhxYEaBfo1ucnl8cjdKkZFJJ9dvAQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Polymers || बहुलक (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c42976a-c0b5-4706-9ad0-cbc0642bcdc2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Polymers || बहुलक (Part 2)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NE3mHGAhmDk",
+      "hd_video_url": "https://www.youtube.com/embed/NE3mHGAhmDk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DY1XX9PaDnZbRqEIdwYeisTSEgRyxLm3CUb6ddNS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Polymers || बहुलक (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0475878-64a1-4e74-abec-fe92e0907835.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Polymers || बहुलक (Part 3)",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/zCqvxl1Xkz8",
+      "hd_video_url": "https://www.youtube.com/embed/zCqvxl1Xkz8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZmU7jwtmd5N1zahwUserOS8MpzOdYIaf88RGn4x5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Polymers || बहुलक (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2718dcc7-5375-4871-a3ee-084e4bc89e7a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Polymers || बहुलक (Part 4)",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/o_3-7DPaIs8",
+      "hd_video_url": "https://www.youtube.com/embed/o_3-7DPaIs8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a24XU35pEzR9RYplAW7bYHi8935PZTmIdlwl225q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Polymers || बहुलक (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed29729c-a214-4cf0-bf67-868396b00101.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,983 @@
+{
+  "subject_name": "Maths by PK Sir",
+  "subject_id": 4895,
+  "video_count": 106,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01: Maths Introduction Class By PK Sir",
+      "published_date": "04 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/ZQ6bXcTGvhE",
+      "hd_video_url": "https://www.youtube.com/embed/ZQ6bXcTGvhE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//995d939f-ee71-42a0-8d52-2bf6461a77b0.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02: Vedic Maths Part 01",
+      "published_date": "05 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/7JkTxqAJSXk",
+      "hd_video_url": "https://www.youtube.com/embed/7JkTxqAJSXk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1ed196f4-a1f0-4e4b-a6a7-5516c1363f11.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03: Vedic Maths Part 02",
+      "published_date": "06 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/rPs4Z38aYpA",
+      "hd_video_url": "https://www.youtube.com/embed/rPs4Z38aYpA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9971973c-707c-4769-834f-8cc3d949fd67.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04: Ratio and proportion-01",
+      "published_date": "09 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/crPfMWuASJk",
+      "hd_video_url": "https://www.youtube.com/embed/crPfMWuASJk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d6a3ffbb-5e9e-44de-9a0e-c86fca6363ec.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 Ratio and proportion-02",
+      "published_date": "10 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/KygfgKYHMJQ",
+      "hd_video_url": "https://www.youtube.com/embed/KygfgKYHMJQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c1d7d656-6483-451b-a5df-9823ed3260af.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06: Ratio and proportion-03",
+      "published_date": "11 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/aqcDgUNBjxs",
+      "hd_video_url": "https://www.youtube.com/embed/aqcDgUNBjxs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bb33fb62-ba7e-4084-9782-7f34c2da1eb7.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07: Ratio and proportion-04",
+      "published_date": "12 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/lvV6RF3e5Gw",
+      "hd_video_url": "https://www.youtube.com/embed/lvV6RF3e5Gw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//51ba05c6-6999-4f7a-946b-3f97fd257ca4.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08:  Ratio and proportion-05",
+      "published_date": "13 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/y-xmvzyNkB0",
+      "hd_video_url": "https://www.youtube.com/embed/y-xmvzyNkB0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fbe7d748-da5d-41ed-9446-e84514289045.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09: Ratio and proportion-06",
+      "published_date": "14 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/CBFFOd7LjS4",
+      "hd_video_url": "https://www.youtube.com/embed/CBFFOd7LjS4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c5b45eec-073b-42e9-95fe-21425e4b25b6.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10: Ratio and proportion-07",
+      "published_date": "15 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/3tMN8liIOsM",
+      "hd_video_url": "https://www.youtube.com/embed/3tMN8liIOsM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6fdfd0d4-0459-4fd0-ade6-1577d2e95af7.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11:  Mixture and Alligation-01",
+      "published_date": "16 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/Zs8ouIm8nks",
+      "hd_video_url": "https://www.youtube.com/embed/Zs8ouIm8nks",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1aa3c19b-fe77-41ef-8c88-13fccdd8f1d0.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12: Mixture and Alligation-02",
+      "published_date": "17 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/sYTuLfHq4ZU",
+      "hd_video_url": "https://www.youtube.com/embed/sYTuLfHq4ZU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2a08f02b-ec66-40ea-aee7-fb4259eacb21.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13: Mixture and Alligation-03",
+      "published_date": "18 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/APvNyNICfNQ",
+      "hd_video_url": "https://www.youtube.com/embed/APvNyNICfNQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a3347029-bf3a-4d10-8f57-32e45bcd2284.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14: Mixture and Alligation-04",
+      "published_date": "19 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/VNP65jhwosU",
+      "hd_video_url": "https://www.youtube.com/embed/VNP65jhwosU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6a98c154-6b15-4684-90a1-0af89bdd452e.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15: Partnership",
+      "published_date": "20 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/XSN0m7CBOeA",
+      "hd_video_url": "https://www.youtube.com/embed/XSN0m7CBOeA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//138904b5-b6bf-4611-b1da-5ae7f5b5568b.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16:  Average Part 01",
+      "published_date": "21 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/SCjPgQ3hOgA",
+      "hd_video_url": "https://www.youtube.com/embed/SCjPgQ3hOgA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ef1cb133-7ffe-4249-b37e-3aef55aa897e.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17: Average Part 02",
+      "published_date": "26 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/HInjglNOsvM",
+      "hd_video_url": "https://www.youtube.com/embed/HInjglNOsvM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ef28e163-af66-4c4e-aabb-839188d38d25.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18: Average Part 03",
+      "published_date": "27 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/iVmOBfwPQmc",
+      "hd_video_url": "https://www.youtube.com/embed/iVmOBfwPQmc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//58acbe59-59f7-4980-b369-c691c5a550f3.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19: Average Part 04",
+      "published_date": "28 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/7xmaDIpXC2Y",
+      "hd_video_url": "https://www.youtube.com/embed/7xmaDIpXC2Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b8ba176a-2821-4c2c-b6b7-43921ec32e44.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20: Age Part 01",
+      "published_date": "30 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/J5y77MMMOkA",
+      "hd_video_url": "https://www.youtube.com/embed/J5y77MMMOkA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//11468598-380f-493a-a3d4-325059f25256.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21: Age Part 02 & Time and Work Part 01",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/jWbRg_KQhB8",
+      "hd_video_url": "https://www.youtube.com/embed/jWbRg_KQhB8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d7d9ac15-e209-4559-9021-23e2bebeb998.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 : Time and Work Part 02",
+      "published_date": "01 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/_uupgXEOhq8",
+      "hd_video_url": "https://www.youtube.com/embed/_uupgXEOhq8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//704c01da-140f-4430-9363-29f8e1f725ee.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 : Time and Work Part 03",
+      "published_date": "02 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/JI38LQ3FNYA",
+      "hd_video_url": "https://www.youtube.com/embed/JI38LQ3FNYA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//806922c8-74c6-4858-8f87-f2f93c961ba3.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 : Time and Work Part 04",
+      "published_date": "03 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/GO4j9_gBZEk",
+      "hd_video_url": "https://www.youtube.com/embed/GO4j9_gBZEk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9e72a90b-1b0d-4179-b012-e914e2267133.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 : Time and Work Part 05",
+      "published_date": "04 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/av0FtATyidQ",
+      "hd_video_url": "https://www.youtube.com/embed/av0FtATyidQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0baad0ce-2d4e-496f-bb66-dba171d1afad.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 : Time and Work Part 06",
+      "published_date": "06 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/sJF9bFS9zEY",
+      "hd_video_url": "https://www.youtube.com/embed/sJF9bFS9zEY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//69f9c840-0143-446b-b4f2-19f690016f99.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 : Pipe & Cistern Part 01",
+      "published_date": "07 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/S58m5cFmdAQ",
+      "hd_video_url": "https://www.youtube.com/embed/S58m5cFmdAQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9d87055a-906c-4b8b-a4c6-8efcf55d081b.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 : Pipe & Cistern Part 02",
+      "published_date": "08 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/mvu2zci0HoU",
+      "hd_video_url": "https://www.youtube.com/embed/mvu2zci0HoU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f07ddf10-0c05-4fc2-9fef-eec98d072874.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 : Pipe & Cistern Part 03 & Time, Speed and Distance Part 01",
+      "published_date": "09 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33552/kgss-1699511768-v33552.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33552/kgss-1699511768-v33552.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5c9a887b-1619-4f6f-9f75-4773665c198c.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 : Time, Speed and Distance Part 02",
+      "published_date": "10 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/C4gFGX6k6P8",
+      "hd_video_url": "https://www.youtube.com/embed/C4gFGX6k6P8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dadc0425-92f9-4013-a79a-9107a7bab68f.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 : Time, Speed and Distance Part 03",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/ykTK77nVyM8",
+      "hd_video_url": "https://www.youtube.com/embed/ykTK77nVyM8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2c501fff-4922-4195-84ab-8b61a8685c48.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 : Time, Speed and Distance Part 04",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/QoKRSIsFJX0",
+      "hd_video_url": "https://www.youtube.com/embed/QoKRSIsFJX0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//45ee65cf-3be1-4496-80be-71b3465b7a5d.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 : Train, Boat And stream Part 01",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/jOha79yz9HE",
+      "hd_video_url": "https://www.youtube.com/embed/jOha79yz9HE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a95f567b-0ad2-484e-9f1e-bd86af1515d9.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 : Train, Boat And stream Part 02",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/nlUoiuT4ams",
+      "hd_video_url": "https://www.youtube.com/embed/nlUoiuT4ams",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f9c55f20-2ee3-4fc9-831f-21fe368674de.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 : Train, Boat And stream Part 03",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/vySP9WIlV1A",
+      "hd_video_url": "https://www.youtube.com/embed/vySP9WIlV1A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9bafe4ec-e0bf-4f15-a2da-f174660ace40.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 : Train, Boat And stream Part 04",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/X7kJ_H1EESk",
+      "hd_video_url": "https://www.youtube.com/embed/X7kJ_H1EESk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//97560bc9-b473-492e-b0bc-4e6bd7e90106.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 : Train, Boat And stream \nPart 05",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/lzMkgSTQzg8",
+      "hd_video_url": "https://www.youtube.com/embed/lzMkgSTQzg8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b1f80047-39c9-4bce-a491-00c118fc6427.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 : Percentage Part 01",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/vAvtWQd5qHU",
+      "hd_video_url": "https://www.youtube.com/embed/vAvtWQd5qHU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eed3048b-ed84-4a89-8771-2f291596393c.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 : Percentage Part 02",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/7zedR5NGzac",
+      "hd_video_url": "https://www.youtube.com/embed/7zedR5NGzac",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2dcb7998-c8f9-4d7f-908b-9df605764313.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 : Percentage Part 03",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/A0JZx1z4S90",
+      "hd_video_url": "https://www.youtube.com/embed/A0JZx1z4S90",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//095c77fb-ed2e-4c2e-b6a3-113ea0e80982.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 : Percentage Part 04",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/iADu6qynKjU",
+      "hd_video_url": "https://www.youtube.com/embed/iADu6qynKjU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33ff8082-9f7b-4e02-8b08-3159e83a104f.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 :  Percentage Part 05",
+      "published_date": "09 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/swIVXct3dg8",
+      "hd_video_url": "https://www.youtube.com/embed/swIVXct3dg8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4794d217-1003-4c72-a5fc-66efd7b19e86.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 :Percentage Part 06",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/JmslN8RQNjs",
+      "hd_video_url": "https://www.youtube.com/embed/JmslN8RQNjs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//96f705ce-a836-4cc2-8f50-14fb4407239b.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 : Profit and Loss Part 01",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/PT-7QwB8DZw",
+      "hd_video_url": "https://www.youtube.com/embed/PT-7QwB8DZw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0df2382c-a9c5-493c-bb79-db9ca0573e18.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 : Profit and Loss Part 02",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/ChZYwmq_8nU",
+      "hd_video_url": "https://www.youtube.com/embed/ChZYwmq_8nU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fd4e0b4e-a0db-4793-8d39-0a4829d28e96.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 : Profit and Loss Part 03",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/kDbZpOiahoU",
+      "hd_video_url": "https://www.youtube.com/embed/kDbZpOiahoU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//01045b5a-becb-49fd-94f3-3f4f6837f460.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 : Profit and Loss Part 04",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/6TkRXB-Fjf4",
+      "hd_video_url": "https://www.youtube.com/embed/6TkRXB-Fjf4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ca3a5ecf-8021-468a-a709-f7437f744f70.png",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 : Profit and Loss Part 05",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/ToH-asICzqU",
+      "hd_video_url": "https://www.youtube.com/embed/ToH-asICzqU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1f1c3302-4fcd-480b-bc39-44997b61d13d.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 : Simple Interest Part 01",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/AR-ChDBZfIA",
+      "hd_video_url": "https://www.youtube.com/embed/AR-ChDBZfIA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f5cb9571-b0b7-4e8f-809e-6c95969c4897.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 : Simple Interest Part 02",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/X9DjK8j79NU",
+      "hd_video_url": "https://www.youtube.com/embed/X9DjK8j79NU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f81accc0-b9a4-49e3-b29d-c4200065fb7f.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 : Simple Interest Part 03",
+      "published_date": "23 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/CFEZEWd-t2E",
+      "hd_video_url": "https://www.youtube.com/embed/CFEZEWd-t2E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dcc3c2c2-b6e3-4ee3-91cc-3286c92e2796.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 52 : Simple Interest Part 04",
+      "published_date": "25 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/zeHsDcqUKa0",
+      "hd_video_url": "https://www.youtube.com/embed/zeHsDcqUKa0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//438c6243-4612-4195-82f9-3cafa45be7a4.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 53 : Compound Interest Part 01",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/1Y9ienJlMq8",
+      "hd_video_url": "https://www.youtube.com/embed/1Y9ienJlMq8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//32681bb8-2191-4366-9824-e2bb3c2bf33e.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 54 : Compound Interest Part 02",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/flvtxSq9ttc",
+      "hd_video_url": "https://www.youtube.com/embed/flvtxSq9ttc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//151b406d-2dff-46ee-8e9e-196fe3c34961.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 55 :Compound Interest Part 03",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/tiHDR5EadrE",
+      "hd_video_url": "https://www.youtube.com/embed/tiHDR5EadrE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ed9e6588-75e4-4aa5-9703-6baad17e04ce.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 56 : Compound Interest Part 04",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/c8JAHohJKKQ",
+      "hd_video_url": "https://www.youtube.com/embed/c8JAHohJKKQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//696d7662-ec7e-4b8a-802d-792d19a1ae51.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 57 : Compound Interest Part 05",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/LGWCVkXrel8",
+      "hd_video_url": "https://www.youtube.com/embed/LGWCVkXrel8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3762540e-b593-4e13-a4bf-ab7f1dd1182d.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 58 : Compound Interest Part 06",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/i7Su6MWsa-U",
+      "hd_video_url": "https://www.youtube.com/embed/i7Su6MWsa-U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b3783436-bc41-4103-8b90-a5f2fb95b98d.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 59 : Compound Interest Part 07",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/t5oIXUBXCOQ",
+      "hd_video_url": "https://www.youtube.com/embed/t5oIXUBXCOQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//683dd26c-ccba-4399-b80b-d29b45734722.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 60 :  Number System Part 01",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/rRufvq0M8ME",
+      "hd_video_url": "https://www.youtube.com/embed/rRufvq0M8ME",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7ce947c1-a9d4-4edd-b8ba-bfac394d1110.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 61 : Number System Part 02",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/xtYuXJgXLds",
+      "hd_video_url": "https://www.youtube.com/embed/xtYuXJgXLds",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cfebd9cd-7790-4db9-b7f8-e107c9b7a0df.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 62 : Number System Part 03",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/goHD1K3kykM",
+      "hd_video_url": "https://www.youtube.com/embed/goHD1K3kykM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d775b788-8148-4da4-a39a-c1556d21448e.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 63 : Number System Part 04",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/980eaFpzZ1Y",
+      "hd_video_url": "https://www.youtube.com/embed/980eaFpzZ1Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5b16e15c-978d-418e-b7ad-1ae0a7b66393.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 64 : Number System Part 05",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Z8H7MxrYkfA",
+      "hd_video_url": "https://www.youtube.com/embed/Z8H7MxrYkfA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d096e548-6d9e-448e-b83e-d2f829ca66e3.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 65 : Number System Part 06",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/euFuO26w3x0",
+      "hd_video_url": "https://www.youtube.com/embed/euFuO26w3x0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4bfff67d-b0fb-41d5-b653-3bf25aea76c7.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 66 : Number System Part 07",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/sn5vVJa9PNQ",
+      "hd_video_url": "https://www.youtube.com/embed/sn5vVJa9PNQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//98b9a050-6bc0-4d1a-8cbb-bc86ea97685f.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 67 : Number System Part 08",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/-Mj5M7oK8Qc",
+      "hd_video_url": "https://www.youtube.com/embed/-Mj5M7oK8Qc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//233882d0-094a-4040-bca4-80a28c4afdef.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture 68 : Number System Part 09",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/WHUCA4JDQlQ",
+      "hd_video_url": "https://www.youtube.com/embed/WHUCA4JDQlQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//71ad5593-8fde-46f4-9691-5390194ee7a1.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture 69 : Number System Part 10",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/t-B37kesOLA",
+      "hd_video_url": "https://www.youtube.com/embed/t-B37kesOLA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a79f07db-96bf-45d1-8b66-4267f58227f4.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture 70 : Number System Part 11",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/z9CCMupuCdQ",
+      "hd_video_url": "https://www.youtube.com/embed/z9CCMupuCdQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b16b869c-e677-411f-bc28-aaa965087b23.png",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture 71 : Number System Part 12",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/XTj-mki0ISk",
+      "hd_video_url": "https://www.youtube.com/embed/XTj-mki0ISk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3e44eeb8-7e06-49bf-a37d-c64f5ba620ec.png",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Lecture 72 : Number System Part 13",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/yRDB4ccoFE8",
+      "hd_video_url": "https://www.youtube.com/embed/yRDB4ccoFE8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5b8e764a-2b9b-4c7a-9e60-cc8a5098c666.png",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Lecture 73 : Number System Part 14",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/3yGX-3Bm85c",
+      "hd_video_url": "https://www.youtube.com/embed/3yGX-3Bm85c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//967fb970-8ff5-4972-80bf-acae7bbd378b.png",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Lecture 74 : Number System Part 15",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/4KbDlGZByOM",
+      "hd_video_url": "https://www.youtube.com/embed/4KbDlGZByOM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MYyz3M6uUgcvENtk80IeOgUbwo9cuwQNGqYZuggg.png",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Lecture 75 : Number System Part 16",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/dsJ_WfvZo5Y",
+      "hd_video_url": "https://www.youtube.com/embed/dsJ_WfvZo5Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SXCPieXYiuJwDIGvlwOnaajg8SW1hAKOFXOfSQHs.png",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Lecture 76 : Number System Part 17",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/JNHCVMQ7lHI",
+      "hd_video_url": "https://www.youtube.com/embed/JNHCVMQ7lHI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/B2WRUhCBSIphFDw7IE4dBBkmCEoBi4njaVPA1Rhm.png",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Lecture 77 : Number System Part 18",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/l2568gg3FHY",
+      "hd_video_url": "https://www.youtube.com/embed/l2568gg3FHY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FJaLJkJHJKtnAcb4ZBC22ucgCCdHmtnX1VnkS1yE.png",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Lecture 78 : Number System Part 19",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/iwDjL5NJTrI",
+      "hd_video_url": "https://www.youtube.com/embed/iwDjL5NJTrI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5r6S0YUX6XsJXyy6eL2Jkh7kESaRnzyWsPXzyOtM.png",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "Lecture 79 : Number System Part 20",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ufXHQZpQC3k",
+      "hd_video_url": "https://www.youtube.com/embed/ufXHQZpQC3k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1BKLKSMGDL1yHA3FquYPtJDo22AMFf0CimSZcCMm.png",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "Lecture 80 : Number System Part 21",
+      "published_date": "03 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/rziVgkKcWZ8",
+      "hd_video_url": "https://www.youtube.com/embed/rziVgkKcWZ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/k1KVrrp0UL2lzDxBeaqbM0FGEhBZBqleDqEVdMOS.png",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "Lecture 81 : Number System Part 22",
+      "published_date": "04 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/8vqx7E8aJes",
+      "hd_video_url": "https://www.youtube.com/embed/8vqx7E8aJes",
+      "thumbnail": "https://i.ytimg.com/vi/8vqx7E8aJes/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 82,
+      "title": "Lecture 82 : Number System Part 23",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/mUc8bxAdBII",
+      "hd_video_url": "https://www.youtube.com/embed/mUc8bxAdBII",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IVzAAPqkreG5TdFtv0mrNRekFXmsLeSLDnkTaDgy.png",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "Lecture 83 : Number System Part 24",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/-navvFO7fa0",
+      "hd_video_url": "https://www.youtube.com/embed/-navvFO7fa0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MVnMoEw3roke3sl0G6eUBshJaqr3iwvfB6PnORzA.png",
+      "notes": []
+    },
+    {
+      "serial": 84,
+      "title": "Lecture 84 : Number System Part 25",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/bvBP4zGRLX4",
+      "hd_video_url": "https://www.youtube.com/embed/bvBP4zGRLX4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/agZt4bOub3DYa31QKNn3wHpmnk3roSAvYqYC7JEc.png",
+      "notes": []
+    },
+    {
+      "serial": 85,
+      "title": "Lecture 85 : Number System Part 26",
+      "published_date": "08 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/uGCBGcsDXEU",
+      "hd_video_url": "https://www.youtube.com/embed/uGCBGcsDXEU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/43NiAQ1xmJsxWKFsIMacjrEwGDyZmRorX0V1P7Ld.png",
+      "notes": []
+    },
+    {
+      "serial": 86,
+      "title": "Lecture 86 : Number System Part 27",
+      "published_date": "09 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/0jLTXrc3Hqg",
+      "hd_video_url": "https://www.youtube.com/embed/0jLTXrc3Hqg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/o0cfMr4MS5yY3R0z8Fs30Lu8BRkoX7NGtVAuGOT9.png",
+      "notes": []
+    },
+    {
+      "serial": 87,
+      "title": "Lecture 87 : LCM & HCF Part 01",
+      "published_date": "10 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/bP2zWNuuoXc",
+      "hd_video_url": "https://www.youtube.com/embed/bP2zWNuuoXc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/StqcGej8uATCAEEOeJTBRx9NCRRGZCCubS9mkNlY.png",
+      "notes": []
+    },
+    {
+      "serial": 88,
+      "title": "Lecture 88 : LCM & HCF (Part 02 )",
+      "published_date": "12 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Oteb0Ln2sog",
+      "hd_video_url": "https://www.youtube.com/embed/Oteb0Ln2sog",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VVbuFSQTRarNyOoMIvQxZ2rFI3hvQrW0ZhDDIyjY.png",
+      "notes": []
+    },
+    {
+      "serial": 89,
+      "title": "Lecture 89 : LCM & HCF (Part 03 )",
+      "published_date": "13 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/jrLwdoDx4eg",
+      "hd_video_url": "https://www.youtube.com/embed/jrLwdoDx4eg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YNSZavFLi8i6vZe9PMTbSnVxhj4FkftaKwllixYs.png",
+      "notes": []
+    },
+    {
+      "serial": 90,
+      "title": "Lecture  90 : Mensuration 2D ( Part 01)",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/iXgCJUSbmWw",
+      "hd_video_url": "https://www.youtube.com/embed/iXgCJUSbmWw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ojVv03rYt95GxCOCj3yA4TLLyhagWJsGzicJQbCs.png",
+      "notes": []
+    },
+    {
+      "serial": 91,
+      "title": "Lecture 91 : Mensuration 2D ( Part 02)",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/iFrLHS73Q50",
+      "hd_video_url": "https://www.youtube.com/embed/iFrLHS73Q50",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/w2lms1Dm65yEWN6Yj0kxEhmgXbHWnsv7nGJkKtYS.png",
+      "notes": []
+    },
+    {
+      "serial": 92,
+      "title": "Lecture 92  : Mensuration 2D ( Part 03)",
+      "published_date": "17 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/pgl77KpLTZM",
+      "hd_video_url": "https://www.youtube.com/embed/pgl77KpLTZM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DtrIdiUFUJLQCJ0XI509DGH7e7XMNqYXSe23Jckm.png",
+      "notes": []
+    },
+    {
+      "serial": 93,
+      "title": "Lecture 93 : Mensuration 2D ( Part 04)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/yCH8ckBOgfg",
+      "hd_video_url": "https://www.youtube.com/embed/yCH8ckBOgfg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/K8V9HTobRBiR8JMDy72Jzkw5F9TdLbiwdEQVNvNf.png",
+      "notes": []
+    },
+    {
+      "serial": 94,
+      "title": "Lecture 94 : Mensuration 2D ( Part 05)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/i0wf4HF7M84",
+      "hd_video_url": "https://www.youtube.com/embed/i0wf4HF7M84",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/F15ydgkRVbjwkfbs00BtWJdLJ2Mi3gjV4LTE7yBm.png",
+      "notes": []
+    },
+    {
+      "serial": 95,
+      "title": "Lecture 95 : Mensuration 2D ( Part 06)",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/V1jAmzrp-w8",
+      "hd_video_url": "https://www.youtube.com/embed/V1jAmzrp-w8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/eXKpxJdLgrNFTUuCEtm7KNjh5IlpPoB2bdDNU5Qs.png",
+      "notes": []
+    },
+    {
+      "serial": 96,
+      "title": "Lecture 96 : Mensuration 2D ( Part 07)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/mFrQZXUvmYI",
+      "hd_video_url": "https://www.youtube.com/embed/mFrQZXUvmYI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HtknpnOJO4IMaeAQUlHuI3Q3DysA3BzDmNDpNTYQ.png",
+      "notes": []
+    },
+    {
+      "serial": 97,
+      "title": "Lecture 97 : Mensuration 3D ( Part 01)",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/UvRW7ZjlxZo",
+      "hd_video_url": "https://www.youtube.com/embed/UvRW7ZjlxZo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fY04kYXs6xhEBOfW7EKOJmDi2CPSNiaZJ6ehDsLb.png",
+      "notes": []
+    },
+    {
+      "serial": 98,
+      "title": "Lecture 98 : Mensuration 3D ( Part 02)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/YnRy4lNFaFY",
+      "hd_video_url": "https://www.youtube.com/embed/YnRy4lNFaFY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gun4oI6XkSVIBDPQZRc4NibJym1F7jCnBpK8QPE8.png",
+      "notes": []
+    },
+    {
+      "serial": 99,
+      "title": "Lecture 99 : Mensuration 3D ( Part 03)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/7ApMH2u97ds",
+      "hd_video_url": "https://www.youtube.com/embed/7ApMH2u97ds",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WrxI8RlJqxRXHpddCizkxhGGVCPYCVqarujHZP5t.png",
+      "notes": []
+    },
+    {
+      "serial": 100,
+      "title": "Lecture 100 : Mensuration 3D ( Part 04)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/BPIOM_epWic",
+      "hd_video_url": "https://www.youtube.com/embed/BPIOM_epWic",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2Is2HnUdqlAVZOMqYcQosKK28mwzpXalukl01bHT.png",
+      "notes": []
+    },
+    {
+      "serial": 101,
+      "title": "Lecture 101 : Mensuration 3D ( Part 05)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/cFwhqYPjHNs",
+      "hd_video_url": "https://www.youtube.com/embed/cFwhqYPjHNs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/46ZFw3Wrn8fv5oh4KLcrdd0N0kfIugcXB6pQhbYM.png",
+      "notes": []
+    },
+    {
+      "serial": 102,
+      "title": "Lecture 102  : DI ( Data Interpretations) Part 1",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/SfVpIoQY8K0",
+      "hd_video_url": "https://www.youtube.com/embed/SfVpIoQY8K0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Zls8bEBe0ksBOiudyAwcRsK1gcZqdfsNbGLiNXQE.png",
+      "notes": []
+    },
+    {
+      "serial": 103,
+      "title": "Lecture 103 : DI ( Data Interpretations) Part 2",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/uVjXZJJLhaQ",
+      "hd_video_url": "https://www.youtube.com/embed/uVjXZJJLhaQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2icKEvMfUgyFEBVccrw3qSQm7LdsoR9zUt1dWqzq.png",
+      "notes": [
+        {
+          "title": "DI ( Data Interpretations) Part 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bff22d0a-649a-4fc5-a9b5-584cd9278f6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 104,
+      "title": "Lecture 104 : DI ( Data Interpretations) Part 3",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/unFoBhjHcWE",
+      "hd_video_url": "https://www.youtube.com/embed/unFoBhjHcWE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TvIUFnTtknRYhvtba75NksCKfSGevz5TWuRvWjl7.png",
+      "notes": [
+        {
+          "title": "DI ( Data Interpretations) Part 3",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/21f40451-5496-48b1-8b5d-9f61f8204faa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 105,
+      "title": "Lecture 105 : DI ( Data Interpretations) Part 4",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/kKesBn5okOE",
+      "hd_video_url": "https://www.youtube.com/embed/kKesBn5okOE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gJ4aU5qLjsX7recaDewwFhTdKNy8l3LZOUfx6KZP.png",
+      "notes": [
+        {
+          "title": "DI ( Data Interpretations) Part 4",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b92e05a1-2eaf-4079-9df9-b5b78ab2d511.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 106,
+      "title": "Lecture 106 : Algebra",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/uBvpueujmx4",
+      "hd_video_url": "https://www.youtube.com/embed/uBvpueujmx4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OVzNRdTQoactwW1XHaAgGWdAgqgz8uijASs33Hmf.png",
+      "notes": [
+        {
+          "title": "Lecture 105 : Math by PK Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5ccbf790-e7d1-40fb-8d21-f501296408de.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

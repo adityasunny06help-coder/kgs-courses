@@ -1,0 +1,205 @@
+{
+  "subject_name": "Basics of Thermodynamics by Deepa Ma'am",
+  "subject_id": 6014,
+  "video_count": 14,
+  "note_count": 14,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/hvhg3D2oyBo",
+      "hd_video_url": "https://www.youtube.com/embed/hvhg3D2oyBo",
+      "thumbnail": "https://i.ytimg.com/vi/hvhg3D2oyBo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65433cdc-da95-4ec1-a16e-8bcc97dbcb5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Thermodynamic Properties",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/6YPyyAN7oP0",
+      "hd_video_url": "https://www.youtube.com/embed/6YPyyAN7oP0",
+      "thumbnail": "https://i.ytimg.com/vi/6YPyyAN7oP0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Thermodynamic Properties",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ec5f36e-1748-4e61-a43a-eb96df73d56f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Laws of Thermodynamics(Part-1)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/VNr7yXhug34",
+      "hd_video_url": "https://www.youtube.com/embed/VNr7yXhug34",
+      "thumbnail": "https://i.ytimg.com/vi/VNr7yXhug34/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Laws of Thermodynamics(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39abcff0-53d2-4f3a-add3-6e19fb716504.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Laws of Thermodynamics(Part-2)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/N5XZyqXELYk",
+      "hd_video_url": "https://www.youtube.com/embed/N5XZyqXELYk",
+      "thumbnail": "https://i.ytimg.com/vi/N5XZyqXELYk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Laws of Thermodynamics(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b097e7b-7ebb-4c57-87f8-5ec5170bd2c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Thermodynamic Process(Part-1)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Cctz4JMHbxE",
+      "hd_video_url": "https://www.youtube.com/embed/Cctz4JMHbxE",
+      "thumbnail": "https://i.ytimg.com/vi/Cctz4JMHbxE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Laws of Thermodynamics(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61472f89-06c1-4b26-af5b-894a193c58f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Thermodynamic Process(Part-2)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Zm0LAU761wc",
+      "hd_video_url": "https://www.youtube.com/embed/Zm0LAU761wc",
+      "thumbnail": "https://i.ytimg.com/vi/Zm0LAU761wc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Laws of Thermodynamics(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e4fd98b-87f9-4498-968c-f0c8bc61a2c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Mode Of Heat Transfer",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HKo7rZ8JG7Q",
+      "hd_video_url": "https://www.youtube.com/embed/HKo7rZ8JG7Q",
+      "thumbnail": "https://i.ytimg.com/vi/HKo7rZ8JG7Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Thermodynamic Process(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2984f3cf-ae5a-48fb-9fc3-33002c4e2c5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Specific Heat",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/6D3xiajl_sg",
+      "hd_video_url": "https://www.youtube.com/embed/6D3xiajl_sg",
+      "thumbnail": "https://i.ytimg.com/vi/6D3xiajl_sg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Thermodynamic Process(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7164085c-11c5-4af0-8dd0-711b097e621f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Question Practice.",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/vlBzwmApa3M",
+      "hd_video_url": "https://www.youtube.com/embed/vlBzwmApa3M",
+      "thumbnail": "https://i.ytimg.com/vi/vlBzwmApa3M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Question Practice.",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad30088d-7c12-4ac0-be2e-d26b13540782.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Heat Engine",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IByRX89UGiw",
+      "hd_video_url": "https://www.youtube.com/embed/IByRX89UGiw",
+      "thumbnail": "https://i.ytimg.com/vi/IByRX89UGiw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Heat Engine",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d0bd594-68bb-40b9-9635-6ce95e794940.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Thermodynamic Power Cycle",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zwDLamLIkVA",
+      "hd_video_url": "https://www.youtube.com/embed/zwDLamLIkVA",
+      "thumbnail": "https://i.ytimg.com/vi/zwDLamLIkVA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Thermodynamic Power Cycle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ee592ae-32a9-4717-8242-9608924790a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Thermodynamic Power Cycle(Part-2)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GHReTWUm1sw",
+      "hd_video_url": "https://www.youtube.com/embed/GHReTWUm1sw",
+      "thumbnail": "https://i.ytimg.com/vi/GHReTWUm1sw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Thermodynamic Power Cycle(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3fa5bfd-76c4-42db-95a5-e23f13c662ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Entropy",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/t6hSf2cC6_0",
+      "hd_video_url": "https://www.youtube.com/embed/t6hSf2cC6_0",
+      "thumbnail": "https://i.ytimg.com/vi/t6hSf2cC6_0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Entropy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dc878ed-386d-40f9-a6b2-fd7e818c8e33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Entropy(Part-2)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zfcwUerYVuo",
+      "hd_video_url": "https://www.youtube.com/embed/zfcwUerYVuo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4dGM3hitwQcaGx7yCYUFKLYKk7Jyh1sXhhYvKpdp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Entropy(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f1f1ff6-f183-4c00-94ac-85c0f37ac5ae.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

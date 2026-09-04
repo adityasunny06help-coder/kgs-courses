@@ -1,0 +1,65 @@
+{
+  "subject_name": "Current Affairs by Vishal Sir",
+  "subject_id": 2962,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Current's Affairs",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/bloxzzfxf2A",
+      "hd_video_url": "https://www.youtube.com/embed/bloxzzfxf2A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 01 || Current's Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c631449-a693-442c-b9a9-9b9c66893b8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Current's Affairs",
+      "published_date": "13 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/wZIYokA1oYU",
+      "hd_video_url": "https://www.youtube.com/embed/wZIYokA1oYU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 02 || Current's Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e8739e0-7aaa-4b04-943e-09a2e4d5b622.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Current's Affairs",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/RXVC15oxNbU",
+      "hd_video_url": "https://www.youtube.com/embed/RXVC15oxNbU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 03 || Current's Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7e1f421-81cf-4a96-95e8-38f4ad9187c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Current's Affairs",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/iJvNGKBQtKM",
+      "hd_video_url": "https://www.youtube.com/embed/iJvNGKBQtKM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Current's Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71f94446-d874-4549-9e15-5bd947450d92.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

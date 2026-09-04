@@ -1,0 +1,50 @@
+{
+  "subject_name": "Geography by Shankar Jha Sir",
+  "subject_id": 5425,
+  "video_count": 4,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/fm-8sB1V6CE",
+      "hd_video_url": "https://www.youtube.com/embed/fm-8sB1V6CE",
+      "thumbnail": "https://i.ytimg.com/vi/fm-8sB1V6CE/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Indian Geography",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/h2cHW8L5BZ0",
+      "hd_video_url": "https://www.youtube.com/embed/h2cHW8L5BZ0",
+      "thumbnail": "https://i.ytimg.com/vi/h2cHW8L5BZ0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Indian Geography",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_CEVjup0Yp0",
+      "hd_video_url": "https://www.youtube.com/embed/_CEVjup0Yp0",
+      "thumbnail": "https://i.ytimg.com/vi/_CEVjup0Yp0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Indian Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0a984d5-85ac-4ec6-934e-2711602e4073.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Indian Geography",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Nv_1ZFhtsQA",
+      "hd_video_url": "https://www.youtube.com/embed/Nv_1ZFhtsQA",
+      "thumbnail": "https://i.ytimg.com/vi/Nv_1ZFhtsQA/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

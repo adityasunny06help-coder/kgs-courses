@@ -1,0 +1,974 @@
+{
+  "subject_name": "Maths By Pk Sir",
+  "subject_id": 5779,
+  "video_count": 70,
+  "note_count": 67,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introduction Class",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/pGnWaFkY0x8",
+      "hd_video_url": "https://www.youtube.com/embed/pGnWaFkY0x8",
+      "thumbnail": "https://i.ytimg.com/vi/pGnWaFkY0x8/default.jpg",
+      "notes": [
+        {
+          "title": "Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c39eb8b9-347e-468a-a7fc-6f980fc59863.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 01 || संख्या पद्धति-1",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Su_UbXIqEWI",
+      "hd_video_url": "https://www.youtube.com/embed/Su_UbXIqEWI",
+      "thumbnail": "https://i.ytimg.com/vi/Su_UbXIqEWI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || संख्या पद्धति-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91ec8659-804b-4ca1-a422-79693a3cc9d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 02 || संख्या पद्धति-2",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/D_Vdo9wcMaw",
+      "hd_video_url": "https://www.youtube.com/embed/D_Vdo9wcMaw",
+      "thumbnail": "https://i.ytimg.com/vi/D_Vdo9wcMaw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || संख्या पद्धति-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2f97ed6-876b-4380-893e-1fa7e22edcc0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 03 || संख्या पद्धति-3",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/itLzI5ioZqE",
+      "hd_video_url": "https://www.youtube.com/embed/itLzI5ioZqE",
+      "thumbnail": "https://i.ytimg.com/vi/itLzI5ioZqE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || संख्या पद्धति-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3699f079-3cd6-4bba-85e5-cf65f29caf12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 04 ||  संख्या पद्धति-4",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/LPIsIs2Bg6M",
+      "hd_video_url": "https://www.youtube.com/embed/LPIsIs2Bg6M",
+      "thumbnail": "https://i.ytimg.com/vi/LPIsIs2Bg6M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 ||  संख्या पद्धति-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42a6386f-325d-4014-9fef-a71dc388a17e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 05 || संख्या पद्धति-5",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/F20c36mBGc0",
+      "hd_video_url": "https://www.youtube.com/embed/F20c36mBGc0",
+      "thumbnail": "https://i.ytimg.com/vi/F20c36mBGc0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || संख्या पद्धति-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/301b3584-a914-42a4-9217-13262063440b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 06 || संख्या पद्धति-6",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/O1hFsWdwT1g",
+      "hd_video_url": "https://www.youtube.com/embed/O1hFsWdwT1g",
+      "thumbnail": "https://i.ytimg.com/vi/O1hFsWdwT1g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || संख्या पद्धति-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb9f7baf-9954-4d56-a5ec-48d434d74630.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 07 || बहुपद-1",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GRzkAXqoGoo",
+      "hd_video_url": "https://www.youtube.com/embed/GRzkAXqoGoo",
+      "thumbnail": "https://i.ytimg.com/vi/GRzkAXqoGoo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || बहुपद-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69718e55-64d4-4e98-ba63-9cfd0aa33fcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 08 || बहुपद-2",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/LnvqtzjGPMM",
+      "hd_video_url": "https://www.youtube.com/embed/LnvqtzjGPMM",
+      "thumbnail": "https://i.ytimg.com/vi/LnvqtzjGPMM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || बहुपद-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6a0a777-2260-4bc4-995c-5dee078918f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 09 || बहुपद-3",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/yVwb8rHydtg",
+      "hd_video_url": "https://www.youtube.com/embed/yVwb8rHydtg",
+      "thumbnail": "https://i.ytimg.com/vi/yVwb8rHydtg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || बहुपद-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eab41ed1-57b1-4ea1-89ac-87fa8acb0543.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 10 || बहुपद-4",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HjA6PWJtlyQ",
+      "hd_video_url": "https://www.youtube.com/embed/HjA6PWJtlyQ",
+      "thumbnail": "https://i.ytimg.com/vi/HjA6PWJtlyQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || बहुपद-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c013731-72fc-41f5-9d29-c0b0e2a2c9c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 11 || बहुपद-5",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/tEl0rHRkr4M",
+      "hd_video_url": "https://www.youtube.com/embed/tEl0rHRkr4M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/G0bNJEUZOLdbwa2yX01oZtloYH3Un8FEsiYNId6d.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || बहुपद-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c857d27-ea33-498e-859c-74b5538ed553.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 12 || बहुपद-6",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/XdWZYx0gCzQ",
+      "hd_video_url": "https://www.youtube.com/embed/XdWZYx0gCzQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GsWQ5SYmsIuRmwEadxfo49OGTxQahjrBeYy1Wl5Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || बहुपद-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e67875e-0d46-4e13-9272-fb58061ad727.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 13 || बहुपद-7",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7P5d6HSXVO8",
+      "hd_video_url": "https://www.youtube.com/embed/7P5d6HSXVO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oyp6BOZuzFnpwfETOWsMUAof0fyopIUTM4KPnU8A.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || बहुपद-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/389a9134-07e0-4b11-8d69-ff1ddb11e8fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 14 || बीजगणित-1",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/kbSGsWa9tX8",
+      "hd_video_url": "https://www.youtube.com/embed/kbSGsWa9tX8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gNMMWZwGh1rmjfy5fDcOujgbjR2n4v1dN4OX3viS.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 15 || बीजगणित-2",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Sy3YGALnIpo",
+      "hd_video_url": "https://www.youtube.com/embed/Sy3YGALnIpo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ERoC2Z2ec2ZYwtnmZrzewBBmhUz9PPReA5TJnn47.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || बीजगणित-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd31c6b4-8b3d-4b28-b4ad-21c972f8d13b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 16 || बीजगणित-3",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/PdSzDPQ4_-s",
+      "hd_video_url": "https://www.youtube.com/embed/PdSzDPQ4_-s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XT4q7k0FCapiBpCA2MbiunL5uc4xUYJoTOgV7o7k.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || बीजगणित-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48dae0d7-5f6f-4cfd-a060-6f22e1684b2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 17 || त्रिकोणमिति-1",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Z8jztPdUOAo",
+      "hd_video_url": "https://www.youtube.com/embed/Z8jztPdUOAo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HLOOAJsiCGT6rSh3gJZDgCzYJMxQGXzfrFILkvW7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || त्रिकोणमिति-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eddc1930-038a-4ce1-a785-7828d70f7ae8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 18 || त्रिकोणमिति-2",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/cCEqok58iLM",
+      "hd_video_url": "https://www.youtube.com/embed/cCEqok58iLM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CwiclD2tQFwJnvdaLenZwPPOujdTRA5mXtpO49NH.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || त्रिकोणमिति-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e44b9b3-0714-4dc9-a8ea-7452fed6efed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 19 || त्रिकोणमिति-3",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/3hWdmLNqiro",
+      "hd_video_url": "https://www.youtube.com/embed/3hWdmLNqiro",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XK4aRuGq8HYE9ywNOvlNcxDmS0WBpmM1gsHjuSbR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || त्रिकोणमिति-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e3dd9a7-3cec-4fa7-9fea-b42e45291a56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 20 || त्रिकोणमिति-4",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OXSEnzeFQB4",
+      "hd_video_url": "https://www.youtube.com/embed/OXSEnzeFQB4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1fVg3DgZen9UNXfxfZCB8fpLaOu9NVIv0grWuojt.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 21 || त्रिकोणमिति-5",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/t3HwB1dl6ZQ",
+      "hd_video_url": "https://www.youtube.com/embed/t3HwB1dl6ZQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DmW9xjq7hbOmdMkxvZN5wM8xNvrGs84pBs7SS13k.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || त्रिकोणमिति-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1541898-2e76-4d1e-bd4b-2d7941a69c7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 22 || ऊँचाई और दूरी-1",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/juvrr-24MOc",
+      "hd_video_url": "https://www.youtube.com/embed/juvrr-24MOc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tluGRFZl4UpOikr0X8afP6qCHjKaXeSNU2yPKNzP.jpg",
+      "notes": [
+        {
+          "title": "Lecture6 22 || ऊँचाई और दूरी-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f99cdf5-a720-494d-93ab-0e21e6b9c88f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 23 || ऊँचाई और दूरी-2",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/S3HHKanmwv0",
+      "hd_video_url": "https://www.youtube.com/embed/S3HHKanmwv0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nZWWemwSuCDDkIjE4km4l8dtDKWDXxDCFk2nD276.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || ऊँचाई और दूरी-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3928a0ad-6852-4c4b-a640-5ac99309f482.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 24 || AP , GP & HP -01",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dERNMALiMx4",
+      "hd_video_url": "https://www.youtube.com/embed/dERNMALiMx4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8KQutEk3OT5OdEahPhnu74H6BxhAz36AEX82rgqN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || AP , GP & HP -01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17c973c9-1ab8-42f5-a213-33228b22368d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 25 || AP , GP & HP -02",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/aOo8w17G4RA",
+      "hd_video_url": "https://www.youtube.com/embed/aOo8w17G4RA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FP2u7bq8sHGN5oEUobq5iUvF60c7B1fTbX1wU4KC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || AP , GP & HP -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a682c3d-6e88-4b47-bced-ba19e476d14f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 26 || AP , GP & HP -03",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/vk7tzYp4W64",
+      "hd_video_url": "https://www.youtube.com/embed/vk7tzYp4W64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3wbS5gTLP1CtEyrQrAHXJtBbZ3hPlbQdwh6yCvdu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || AP , GP & HP -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdc8b121-7f88-4384-8aba-06ec7aabc66d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 27 || Geometry (ज्यामिति) 01",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/itQ6bmlesmg",
+      "hd_video_url": "https://www.youtube.com/embed/itQ6bmlesmg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eFgDSD9x0jHOjq5zLW0ac7hh8qkgrybcLk0bHyJP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Geometry (ज्यामिति) 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0514b133-e855-400a-aafc-3821fbc76a70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 28 || Geometry (ज्यामिति) 02",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/w9u3lTLQBO0",
+      "hd_video_url": "https://www.youtube.com/embed/w9u3lTLQBO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9jNBFD9iE82mYfmbbQv8Yek99v1qgiQB9l5aYoSt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Geometry (ज्यामिति) 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec686d17-9441-45ec-8acc-d72ab6aaa905.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 29 || Geometry (ज्यामिति) 03",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/v2SXGvaAth4",
+      "hd_video_url": "https://www.youtube.com/embed/v2SXGvaAth4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/M3Uon7Y9A1K8IVF0xRGMTZF1vJCYVyMQUIMAvj38.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Geometry (ज्यामिति) 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e401ff47-e527-42d1-b7cd-27d2e4949c2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 30 || Geometry (ज्यामिति) 04",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/bpW6zC35n68",
+      "hd_video_url": "https://www.youtube.com/embed/bpW6zC35n68",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z37VwY2QMNs2z6sHMXRc4kDfy5qMiic0RoXH7dC9.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Geometry (ज्यामिति) 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84af4653-8d6e-448b-b2ad-86e35305bd31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 31 || Geometry (ज्यामिति) 05",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/KlaqxYXZsLw",
+      "hd_video_url": "https://www.youtube.com/embed/KlaqxYXZsLw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pMcG7bM9bX4fYVy0ac5iY2ALFDYydMqNUIbJh2jo.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Geometry (ज्यामिति) 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c42d5f7-4502-4a06-bf5a-ad8354cd54ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 32 || Geometry (ज्यामिति) 06",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/KezcyZ_RqpI",
+      "hd_video_url": "https://www.youtube.com/embed/KezcyZ_RqpI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NmCFGhBSif2RaGtKV7Dzqi6vKHWJb9xWhpr7WTq0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Geometry (ज्यामिति) 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/907e5bfc-3363-4fc8-9fea-1fd54f1252c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 33 || Geometry (ज्यामिति) 07",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/bMFn50k_xRk",
+      "hd_video_url": "https://www.youtube.com/embed/bMFn50k_xRk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cObDPpsmcsPdGbV8AX4m71dnSr4eCpBrLSQ9FYJA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Geometry (ज्यामिति) 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1914635c-2a5d-4abb-bf78-19f480274d80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 34 || Geometry (ज्यामिति) 08",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/X80g5eFga2Y",
+      "hd_video_url": "https://www.youtube.com/embed/X80g5eFga2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NCnCW0DCFQuRokdWlc9sEurqAUA9W8vaXHkkoYDI.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Geometry (ज्यामिति) 08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8138794b-c2cd-4a12-be87-bb1bbd97b2c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 35 || Geometry (ज्यामिति) 09",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/9l1RLZInKiU",
+      "hd_video_url": "https://www.youtube.com/embed/9l1RLZInKiU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m31UcbcjzIRZe73sMmf7zM4p7KGZz5aw1VG0xKou.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Geometry (ज्यामिति) 09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d23705a3-f7d1-4f18-8b16-207244a1952c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 36 || Geometry (ज्यामिति) 10",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/XtSaYCOyQ_U",
+      "hd_video_url": "https://www.youtube.com/embed/XtSaYCOyQ_U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ikiHhXu6ohjtX9FAyfoDTJ1rpeeRea7l8A4DmxXP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Geometry (ज्यामिति) 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab8444f5-90de-4775-8127-3e07bdf21803.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 37 || Geometry (ज्यामिति) 11",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/rRkKFl0iFCg",
+      "hd_video_url": "https://www.youtube.com/embed/rRkKFl0iFCg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gYVc88qmrLrS8c9HXvxIEnOXLuattFmOOHckLnj4.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Geometry (ज्यामिति) 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b3b13e6-cd72-47db-9ec7-16d859ecb860.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 38 || Geometry (ज्यामिति) 12",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/EgqrhaqgJ2g",
+      "hd_video_url": "https://www.youtube.com/embed/EgqrhaqgJ2g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lW691S0f32hIyHfHY7umlO6M0hxWIhHkjkk6raqD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Geometry (ज्यामिति) 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4e2237c-c98c-4dcf-a50f-3474bf062509.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 39 || Geometry (ज्यामिति) 13",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/yxBdjkZPatI",
+      "hd_video_url": "https://www.youtube.com/embed/yxBdjkZPatI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/P21ykPGT96qXZkQ7bE4ozdMrLhfaRlltiCrXxP8s.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Geometry (ज्यामिति) 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99d7c060-469e-4cb0-af87-5e3a2379e131.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 40 || Geometry (ज्यामिति) 14",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/R2OR_sJPF78",
+      "hd_video_url": "https://www.youtube.com/embed/R2OR_sJPF78",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/K7yQXmCnddvbtryJ6eXrfiaKNfEYAoKmMNJi5LLT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Geometry (ज्यामिति) 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93238f0d-1bda-4c25-a870-82d9979061cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 41 || Geometry (ज्यामिति) 15",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/RPUacqSaPXA",
+      "hd_video_url": "https://www.youtube.com/embed/RPUacqSaPXA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3PzScH1WJf6qEXz6rOZBaSpVGdajjV6O0MZSJmK5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Geometry (ज्यामिति) 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/145c9e32-6841-43b5-9f0f-5104757ac823.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 42 || Mensuration (क्षेत्रमिति) 01",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/qiKibKjbCOM",
+      "hd_video_url": "https://www.youtube.com/embed/qiKibKjbCOM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SoxyfUEh4hPVPACodkZ83bYwYeye91sX7JfK7Bda.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Mensuration (क्षेत्रमिति) 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03e961ea-5ddf-41ec-b861-d925eac4010b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 43 || Mensuration (क्षेत्रमिति) 02",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/X-Y7-onoV6Q",
+      "hd_video_url": "https://www.youtube.com/embed/X-Y7-onoV6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ITgB91VzUVjLqStdYnWsfcTeSrEBPfj5fuaOyVnw.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Mensuration (क्षेत्रमिति) 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f8520e4-fd2a-498c-84ec-f83c3372d75c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 44 || Mensuration (क्षेत्रमिति) 03",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/tqd6X4Kj2zM",
+      "hd_video_url": "https://www.youtube.com/embed/tqd6X4Kj2zM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AtTuAn9pI4wv478chdbCUSwbBm9GP3K1XlF9KF8f.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Mensuration (क्षेत्रमिति) 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11c8504d-9943-4de0-acc0-5b7168533ca4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 45 || Mensuration (क्षेत्रमिति) 04",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/lRaIxWBolUA",
+      "hd_video_url": "https://www.youtube.com/embed/lRaIxWBolUA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bO7kCVFBuG034hPiFce5dcinKjSA39hLA1A9Pthh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Mensuration (क्षेत्रमिति) 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e58b5dd-38ad-4234-bd14-2267e2994fe1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 46 || Mensuration (क्षेत्रमिति) 05",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/2WlkV2FPv5o",
+      "hd_video_url": "https://www.youtube.com/embed/2WlkV2FPv5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yiOnyvpWbvxnYcZSiPitIyXMQ4jcKpJho2RXCP42.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Mensuration (क्षेत्रमिति) 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9baba89-6cc9-48b1-a8d0-1678b8e17902.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 47 || Mensuration (क्षेत्रमिति) 06",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ZA8kiMueTvA",
+      "hd_video_url": "https://www.youtube.com/embed/ZA8kiMueTvA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/le4G43LVQFsBmWJYuU1dKU9P063sEWJu9zGNjUAV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 || Mensuration (क्षेत्रमिति) 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9edb8b1-c085-4388-b532-bd306a8bc33b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 48 || Mensuration (क्षेत्रमिति) 07",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/yP3bsi24BWE",
+      "hd_video_url": "https://www.youtube.com/embed/yP3bsi24BWE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kRkOSBZ7M4Xwchi0YTtyNPP6xX29ULPStn6b0pGA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Mensuration (क्षेत्रमिति) 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/435e6da4-67eb-4845-ae99-bbf0f9e6719a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 49 || Mensuration (क्षेत्रमिति) 08",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Gc1UU4La9fQ",
+      "hd_video_url": "https://www.youtube.com/embed/Gc1UU4La9fQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UMx7XEGsZGQgSIhII7nN9Omjv2dXZ12rWOFaiIJ8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Mensuration (क्षेत्रमिति) 08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/277f6ea5-6fff-4bfd-a09e-469f184a1925.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 50 || Mensuration (क्षेत्रमिति) 09",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Jkh-vHC4u2Y",
+      "hd_video_url": "https://www.youtube.com/embed/Jkh-vHC4u2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1XYQpzcmdZ7EJ5nJJgyENPsYYZIuVXzM7dUseRUR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Mensuration (क्षेत्रमिति) 09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/577bb3d2-3f05-4973-83d9-b2ac3be861aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 51 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 01",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/taTsoMoFnd0",
+      "hd_video_url": "https://www.youtube.com/embed/taTsoMoFnd0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gvxkxb2UTYf41KT3scC48BTym4DKERQbL3sxvQm7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 51 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fade04f9-4790-49ef-85e5-3fe088063ae5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 52 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 02",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aoeYPhkXAXg",
+      "hd_video_url": "https://www.youtube.com/embed/aoeYPhkXAXg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QhXY2hU5yRhrIU7nUh9eWnKpcrvAA9NXPmyJZ1nU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 52 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc7cc349-7110-436b-bc67-4741d9a82cbb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 53 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 03",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/TkUwyLFuEHA",
+      "hd_video_url": "https://www.youtube.com/embed/TkUwyLFuEHA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qousLx2quRhI4XMCQGvNxtgTtNTD0CA0epo3iczZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 53 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b7f657c-d7ce-4266-bfcc-f4139b0b13aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 54 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 04",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/M_xjablfPuM",
+      "hd_video_url": "https://www.youtube.com/embed/M_xjablfPuM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UqaXJdYsM5Q1B2DVK8vtnJue4DqQYvvVBPx7heUR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 54 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aec9613-fa78-4a32-843e-ccb939a52256.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 55 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 05",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ksu-SpgFtqM",
+      "hd_video_url": "https://www.youtube.com/embed/ksu-SpgFtqM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/itlB8i7hlMCE9ozncXqplcsOVbUjXVfncAGowfHF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 55 || Co-ordinate Geometry (निर्देशांक ज्यामिति) 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/059ea341-4c95-405e-b8e7-e74ab3b6fff1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 56 || Permutations and Combinations (क्रमचय और संचय) 01",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qg-mwn10ZCY",
+      "hd_video_url": "https://www.youtube.com/embed/qg-mwn10ZCY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FlABAYoRP01M2JjgN7xaioH3bThh58UpWVzfJd88.jpg",
+      "notes": [
+        {
+          "title": "Lecture 56 || Permutations and Combinations (क्रमचय और संचय) 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8e3bff6-da15-4b4d-b612-a7ec6ad401a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 57 || Permutations and Combinations (क्रमचय और संचय) 02",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/J7B8sMJKTHw",
+      "hd_video_url": "https://www.youtube.com/embed/J7B8sMJKTHw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4P3mLB1i5hm6C3CjhK3ggRWhfqul5kcmdhWQF1lJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 57 || Permutations and Combinations (क्रमचय और संचय) 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37af6068-99a4-439d-8b03-ad38e6db8f6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 58 || Permutations and Combinations (क्रमचय और संचय) 03",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cQWdbOCeFCI",
+      "hd_video_url": "https://www.youtube.com/embed/cQWdbOCeFCI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9Fj1Ztxn0MIcdfIkpSG0ygrAJr1vW23xakthQY1G.jpg",
+      "notes": [
+        {
+          "title": "Lecture 58 || Permutations and Combinations (क्रमचय और संचय) 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1127325b-59d9-4e81-8be4-d227246d4751.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 59 || Probability प्रायिकता or संभावना (Part 01)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MZsKw6tSd2k",
+      "hd_video_url": "https://www.youtube.com/embed/MZsKw6tSd2k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kX9DSGqcfN7DVg5yitI9p5aHhDZkDhAGGVYjwhMk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 59 || Probability प्रायिकता or संभावना (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f72db2e-5dd4-4cee-9ffa-5ed0cad5ca41.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 60 || Probability प्रायिकता or संभावना (Part 02)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/HOksjD1vwr8",
+      "hd_video_url": "https://www.youtube.com/embed/HOksjD1vwr8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fYwSQ9CWrGijhxsieuSdHPh026zSfaHSwceaC4eV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 60 || Probability प्रायिकता or संभावना (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54dc4114-632a-4f33-bd41-d3b7ca3bd555.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 61 || Statistics (Part 01)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nFCLx9DoZao",
+      "hd_video_url": "https://www.youtube.com/embed/nFCLx9DoZao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rmno0VNI1rqPR3U4o4vtF6n8KTcBLgrdYzP1EGGW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 61 || Statistics (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c93f9a0-70fb-4840-8c45-c9158e1c4711.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 62 || Statistics (Part 02)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qc7mi_KfWQs",
+      "hd_video_url": "https://www.youtube.com/embed/qc7mi_KfWQs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DXBWNZJMrMZDA4lVRGXhrkcJbpi4j75V8tSqY6Wa.jpg",
+      "notes": [
+        {
+          "title": "Lecture 62 || Statistics (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/427befa1-1f72-4bde-bf7f-47d9aafedfb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 63 || Profit, loss, and Discount (Part 01)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/3yIjDKxYYYI",
+      "hd_video_url": "https://www.youtube.com/embed/3yIjDKxYYYI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0NgVj4ml7uGjskeiQ9FeQJHOSYj62G1FFW0JX0TJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 63 || Profit, loss, and Discount (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/532f2329-d896-42fe-829f-ff027532ed5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 64 || Profit, loss, and Discount (Part 02)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/04PRNMTgtgw",
+      "hd_video_url": "https://www.youtube.com/embed/04PRNMTgtgw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0groLTvGWkSlriu2DizdNgHH4IWRk3R1i3eyBfnj.jpg",
+      "notes": [
+        {
+          "title": "Lecture 64 || Profit, loss, and Discount (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5686cb6a-7d9f-4e09-9c45-c582a02bac6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 65 || Simple Interest",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ommsUBCm3jM",
+      "hd_video_url": "https://www.youtube.com/embed/ommsUBCm3jM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q89QK1xdu77zynK8h9YyTtROprBA1kTwN7Zxom0E.jpg",
+      "notes": [
+        {
+          "title": "Lecture 65 || Simple Interest",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39b6eb5b-7cbb-4682-ab3c-ace5dfc9be3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 66 || Math Pk Sir",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/PT1spoe7qi8",
+      "hd_video_url": "https://www.youtube.com/embed/PT1spoe7qi8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/poM6okHSSqeniRectQCq63UrMaTJX4Fa2jEo2iBX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture 67 || Math Pk Sir",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/wkus6HCmDgo",
+      "hd_video_url": "https://www.youtube.com/embed/wkus6HCmDgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MqZmTNY4QZqQANcxYNwp1fAwzbPeykal0MxvsoyO.jpg",
+      "notes": [
+        {
+          "title": "Lecture 67 || Math Pk Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb2634cb-64ea-4329-a878-eaf947c7ff1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture 68 || Math Pk Sir",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/67wwFeMXzBY",
+      "hd_video_url": "https://www.youtube.com/embed/67wwFeMXzBY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1hQUZH2MvuWgNdpqwtJiicCyUlkVsCzijdpYexiv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 68 || Math Pk Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1459002a-adb7-472e-ab84-317562a04a11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture 69 || (Last Class) Math Pk Sir",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/RFMs1iFgslU",
+      "hd_video_url": "https://www.youtube.com/embed/RFMs1iFgslU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DQ215f5jdzfyk1DFOe7AuniLsh2pjENtqmsgjbPV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 69 || (Last Class) Math Pk Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5a73cfb-fd73-44cb-9423-27a5157b4874.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

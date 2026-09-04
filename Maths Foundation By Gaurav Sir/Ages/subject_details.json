@@ -1,0 +1,23 @@
+{
+  "subject_name": "Ages",
+  "subject_id": 2911,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Problems on Ages",
+      "published_date": "06 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/91570/kgss-1720253129-v91570.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DS2Y2tcqKCs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PPSHbqI8BiiVoFdIz2pbUx6jXpZYU5Is4fr5HNcl.png",
+      "notes": [
+        {
+          "title": "Problems on Ages",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46be868c-5f0d-41db-974a-9c51b1c21cf5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

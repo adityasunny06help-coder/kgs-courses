@@ -1,0 +1,79 @@
+{
+  "subject_name": "English by Ashutosh Sir",
+  "subject_id": 3763,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || English Practice Session",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/125523/kgss-1727687679-v125523.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2KB4Pva6cBs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hvVYmeMYnWoKBW0vsdkBDEd8zqSeXwCDCcVs7uBo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class || परिचय कक्षा",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba84ce12-911e-4138-9d2d-4191481ff486.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || English Practice Session",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126156/kgss-1727773716-v126156.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GKOMxklMTPE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68892d10c4e40.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97a7434e-9bee-43de-bebd-ced53d7c6e79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || English Practice Session",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126810/kgss-1727946650-v126810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JZPdDPDZfkE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68892d104cc68.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/927c80f6-f60e-469c-bb8a-c1230baa59ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ||  English Practice Session",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127650/kgss-1728033302-v127650.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/633NArG-j7I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68892d0fc7f8d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 ||  English Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e91411f9-1576-4e32-ae27-533d165176ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || English Practice Session",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127799/kgss-1728120589-v127799.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F8h6CDoRt0c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68892d0f13273.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || English Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/255e62d1-6438-4bc4-b614-7d91e213e8f9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

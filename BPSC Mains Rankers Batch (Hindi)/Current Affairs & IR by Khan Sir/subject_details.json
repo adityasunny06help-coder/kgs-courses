@@ -1,0 +1,50 @@
+{
+  "subject_name": "Current Affairs & IR by Khan Sir",
+  "subject_id": 5132,
+  "video_count": 4,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || इजरायल-हमास विवाद",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189975/kgss-1738820604-v189975.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SnYvRApipvk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sKT8aAftDeRvbjmED4Tz4eyldqWnhUskwrXv3zrX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || इजरायल-हमास विवाद",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190185/kgss-1738900012-v190185.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ee_z8MtV4nw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R63YYSr20zhwNkbkwEmMyDxSLewoeGUHA10j2FN1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || रूस-यूक्रेन संघर्ष",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191512/kgss-1739161323-v191512.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WN_Quh_KbQ4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Sna5XfCHByd7kBVejkQvUhAJMCxOzeV5bqmdGmyL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || बांग्लादेश संकट और भारत पर इसके प्रभाव",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192404/kgss-1739338025-v192404.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ja1zSIfw-gM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/63coA66GiBXMECeFfNuim6t02HmQa1adxJwlSZp9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || बांग्लादेश संकट और भारत पर इसके प्रभाव",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24cfe2c1-5b7a-4414-a917-50e392e00f1a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

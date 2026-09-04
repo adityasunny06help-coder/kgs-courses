@@ -1,0 +1,90 @@
+{
+  "subject_name": "Medieval History by K.Shivesh Sir",
+  "subject_id": 3725,
+  "video_count": 9,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01|| Medieval History by K.Shivesh Sir",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123218/kgss-1727237893-v123218.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_f-8sIQ-4C4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9yKlsxIMLnDqirhVyJvoyOV0tJLIIOYk7wO4Nrrz.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Delhi Sultanate",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123735/kgss-1727324687-v123735.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dNzpXvcA_Gg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QZ7ek52j7L4PSOxYK9Q48fZ7SVBhRO47rItkurns.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Delhi Sultanate (Part-2)",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/124449/kgss-1727409991-v124449.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Lyzl8Q0Pg2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AnxzZuEQhuk0DkjI37d5nCZvCxPqAPtOQA6P35dZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Medieval History by K.Shivesh Sir",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/125047/kgss-1727496163-v125047.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6dLDdTgzfLU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rNnIu3USNDYvOGJrq5FwLjBLGES57TFnyUsuFceH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Mughal dynasty (Part-2)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/125637/kgss-1727669557-v125637.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4P15bX8ggZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XqK4uci45vDLkZsxFaNZdnNfQjIYrzv9TII2xrfZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Mughal dynasty -Administration and policies",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126125/kgss-1727756260-v126125.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ARgY5D3sGJM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fjiTEK45EUTQOB76uzHxn2nCsF8GVfZUmx8OyjWP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Regional States",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126738/kgss-1727929100-v126738.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ae0YqUKQA_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5LykEhTe93QWxvoGrq32bGYKpeklfOdzr3u0K6dO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Regional States (Part-2)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/upsc-eng-batch-04/medie-his-k-shivesh-sir/l-08/medieval-his-upsc-eng4.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o9dN-iSXUOE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IW2OyPhPylKBVcvZdryHg9N08hIhEMw7h0nWIMpM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Sufi and  Bhakti Movement + Regional dynasties",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127937/kgss-1728101617-v127937.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pN1GWHlA5_c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hMIaBC8yvIPY3wUwEcQRLmdohh54kZVGoth2FGmW.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

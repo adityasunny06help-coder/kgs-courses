@@ -1,0 +1,23 @@
+{
+  "subject_name": "Partnership",
+  "subject_id": 2800,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Partnership",
+      "published_date": "22 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/ief4dVvuvrU",
+      "hd_video_url": "https://www.youtube.com/embed/ief4dVvuvrU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Partnership",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13ddc7da-e2df-4129-b9c2-4b647d694743.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

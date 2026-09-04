@@ -1,0 +1,37 @@
+{
+  "subject_name": "BPSC TRE 3.0 English",
+  "subject_id": 2451,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Practice Class 1",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/HMyz_FW3Q2c",
+      "hd_video_url": "https://www.youtube.com/embed/HMyz_FW3Q2c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kKroJ8ISlh76PviQNTzymykG6TuMVh8g09FiaD4m.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/587aff2c-1686-44a3-89f8-c56ae169010a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Practice Class 2",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/aXxbwNJE6mM",
+      "hd_video_url": "https://www.youtube.com/embed/aXxbwNJE6mM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/OaoRqWCehimeoopcA9kxITVTAFDczUxQ1wLv7gpp.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/be694dd4-3a86-4287-8ec5-49f5b9f172ca.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

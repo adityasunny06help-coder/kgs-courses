@@ -1,0 +1,34 @@
+{
+  "batch_info": {
+    "title": "UPPCS  Paper 5 & 6 Module Batch 2025",
+    "price": "1999",
+    "id": "603",
+    "extracted_date": "2025-08-27T14:12:51.347386"
+  },
+  "subjects": [
+    {
+      "name": "Paper V by Dr. Amit Shukla Sir",
+      "id": 5856,
+      "video_count": 26,
+      "note_count": 26
+    },
+    {
+      "name": "Paper VI by Dr. Amit Shukla Sir",
+      "id": 6406,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "UPPSC Exam Guidelines",
+      "id": 6590,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Geography & Environment by V.K. Mishra Sir",
+      "id": 6619,
+      "video_count": 17,
+      "note_count": 17
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "UPSC Foundation Offline Batch - 2026 (Boring Road)",
+    "price": "35000",
+    "id": "622",
+    "extracted_date": "2025-08-27T14:02:21.671014"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class by Khan Sir",
+      "id": 6972,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Modern History by Sujeet Sir",
+      "id": 6984,
+      "video_count": 44,
+      "note_count": 41
+    },
+    {
+      "name": "Reasoning (CSAT) by Sanjeev Tiwari Sir",
+      "id": 7071,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Science & Tech by Piyush Sir",
+      "id": 7869,
+      "video_count": 31,
+      "note_count": 31
+    },
+    {
+      "name": "World Physical Geography by Shankar Jha Sir",
+      "id": 8320,
+      "video_count": 8,
+      "note_count": 7
+    }
+  ]
+}

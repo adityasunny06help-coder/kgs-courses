@@ -1,0 +1,76 @@
+{
+  "batch_info": {
+    "title": "NDA-2 Foundation Batch 2024 (Dehradun Offline)",
+    "price": "20000",
+    "id": "259",
+    "extracted_date": "2025-08-27T16:50:41.029982"
+  },
+  "subjects": [
+    {
+      "name": "English by Ruchir Sir",
+      "id": 2307,
+      "video_count": 57,
+      "note_count": 56
+    },
+    {
+      "name": "Geography by Vishal Sir",
+      "id": 2308,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 2309,
+      "video_count": 7,
+      "note_count": 6
+    },
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 2310,
+      "video_count": 36,
+      "note_count": 34
+    },
+    {
+      "name": "Polity by Ashish Sir",
+      "id": 2311,
+      "video_count": 29,
+      "note_count": 26
+    },
+    {
+      "name": "Mathematics by Vipin Sir",
+      "id": 2312,
+      "video_count": 100,
+      "note_count": 99
+    },
+    {
+      "name": "Polity by Vishal Sir",
+      "id": 2313,
+      "video_count": 3,
+      "note_count": 3
+    },
+    {
+      "name": "Current Affairs by Vishal Sir",
+      "id": 2962,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 3062,
+      "video_count": 17,
+      "note_count": 16
+    },
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 3101,
+      "video_count": 30,
+      "note_count": 29
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 3104,
+      "video_count": 76,
+      "note_count": 76
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "batch_info": {
+    "title": "Class 11th VISION BATCH JEE 2027 BILINGUAL",
+    "price": "1999",
+    "id": "592",
+    "extracted_date": "2025-08-27T14:17:21.277645"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 6283,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Rahul Gupta Sir (JPRG SIR)",
+      "id": 6302,
+      "video_count": 87,
+      "note_count": 85
+    },
+    {
+      "name": "Chemistry By Imran Nazir Sir (JCIN SIR)",
+      "id": 6303,
+      "video_count": 86,
+      "note_count": 85
+    },
+    {
+      "name": "Maths By Vishal Singh Sir (JMVS SIR)",
+      "id": 6304,
+      "video_count": 89,
+      "note_count": 88
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 6305,
+      "video_count": 15,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 6306,
+      "video_count": 16,
+      "note_count": 0
+    },
+    {
+      "name": "Maths Supporting Material",
+      "id": 6307,
+      "video_count": 16,
+      "note_count": 0
+    },
+    {
+      "name": "Test Paper And Solution",
+      "id": 6308,
+      "video_count": 3,
+      "note_count": 2
+    }
+  ]
+}

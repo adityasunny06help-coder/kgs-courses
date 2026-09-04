@@ -1,0 +1,79 @@
+{
+  "subject_name": "Pipe & Cistern",
+  "subject_id": 8115,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Pipe & Cistern (Part 1)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Ym-tLQ0CznM",
+      "hd_video_url": "https://www.youtube.com/embed/Ym-tLQ0CznM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OFixR9RlpXZDDuQhhZFrblNkKPKpmMNTXM0jGo6V.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Pipe & Cistern (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c8b71f8-fce9-49f8-ad47-00302f4244e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Pipe & Cistern (Part 2)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/M5fHyZ5PJww",
+      "hd_video_url": "https://www.youtube.com/embed/M5fHyZ5PJww",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/avfJFeOODq1VOVWfsC3fYOLVL4qj5oUPM6EZQRf3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Pipe & Cistern (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38436e85-0b08-47d7-9186-ea797a4be6fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Pipe & Cistern (Part 3)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_J-iFElSS5M",
+      "hd_video_url": "https://www.youtube.com/embed/_J-iFElSS5M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gAtFlJqOwNxX7gJFxfgLQ8vAh5oumktUvsayGnEB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Pipe & Cistern (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1174668f-4fd0-42df-925e-a33573e55b65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Pipe & Cistern (Part 4)",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rxQuhPmQABU",
+      "hd_video_url": "https://www.youtube.com/embed/rxQuhPmQABU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cvOHiHBU3QWoNu1fyIv1EtBr5fhtRwmwKKHeAgFv.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Pipe & Cistern (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/298d13a2-e6f8-4da1-afcb-0dadb67f9401.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Pipe & Cistern (Part 5)",
+      "published_date": "03 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/zDiJTpX87sw",
+      "hd_video_url": "https://www.youtube.com/embed/zDiJTpX87sw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 05 || Pipe & Cistern (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6b8cbc5-bad1-453e-83de-70e5eb9180c8.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,22 @@
+{
+  "batch_info": {
+    "title": "Biology Foundation 2024 by Amrita Ma'am",
+    "price": "200",
+    "id": "344",
+    "extracted_date": "2025-08-27T16:17:04.477826"
+  },
+  "subjects": [
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 2723,
+      "video_count": 83,
+      "note_count": 83
+    },
+    {
+      "name": "Introduction Class",
+      "id": 2701,
+      "video_count": 1,
+      "note_count": 1
+    }
+  ]
+}

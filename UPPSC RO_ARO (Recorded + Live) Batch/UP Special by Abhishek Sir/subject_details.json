@@ -1,0 +1,639 @@
+{
+  "subject_name": "UP Special by Abhishek Sir",
+  "subject_id": 1821,
+  "video_count": 70,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || General Introduction Of U.P. (यूपी का सामान्य परिचय) Part-1",
+      "published_date": "20 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-01/l-01-ro-up-special.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wF8hmbdSbss",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hd69dAhFBKYnT2jFgHIK2Fb0J9YMXiVeTjjswU9k.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || General Introduction Of U.P. (यूपी का सामान्य परिचय) Part-2",
+      "published_date": "25 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-02/l-02-ro-up-special.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UFBbtuaSLu0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FGIITRGYUdOfOTrj7SJLXpchcI7pXma2DQVwzqAu.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || General Introduction Of U.P. (यूपी का सामान्य परिचय) Part-3",
+      "published_date": "26 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-03/l-03-ro-up-special.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-03/l-03-ro-up-special.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3NYYho6QP3ny7NowDEW8dnzGFXGhFvNaPwoY9GgG.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Physiographic Region of U.P.(यूपी का भौगोलिक क्षेत्र )Part-1)",
+      "published_date": "27 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-04/l-04-ro-up-speciala.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-04/l-04-ro-up-speciala.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YDI8wzn7UJxlzx2Ww2El6zPSNX2oyzyNh80BumNz.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Physiographic Region of U.P.(यूपी का भौगोलिक क्षेत्र )  (Part-2)",
+      "published_date": "30 Oct 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-05/l-05-ro-aro-up-specia.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/ro-aro/up/l-05/l-05-ro-aro-up-specia.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2BN81P3Im8h8lvyITQbZpnh5UBp5KH89XYSyWdYt.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Physiographic Region of U.P.(यूपी का भौगोलिक क्षेत्र ) (Part-3)",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/31255/kgss-1698734530-v31255.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/oct-2023/31255/kgss-1698734530-v31255.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OAtoeda3MY2EuHNHwLADRR3h7JKi8hGZXvibblWK.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Physiographic Region of U.P.(यूपी का भौगोलिक क्षेत्र )( (Part-04)",
+      "published_date": "01 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31627/kgss-1698820299-v31627.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/31627/kgss-1698820299-v31627.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AmqfPL0lmhub8dvNSQJ7zF7AqFAbO30FrbtfR51M.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Ganga Yamuna Plains (गंगा-यमुना का मैदान) Part-1",
+      "published_date": "02 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-08/l-08-ro-aro-up-specia.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T11m-88nsq4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/cz86EJPAWj1V4AT6n34I8fYhAXgcAsdVyqnCWVpC.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Plateau Region of U.P. (उत्तर प्रदेश का पठारी क्षेत्र)",
+      "published_date": "04 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/vgsbgG5UR0Y",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/32374/kgss-1699080072-v32374.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mcQvBTgCmuPI3HZ3JQSvFtF3ITZ1yy5jWJRexNKA.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Climate Of U.P. (यूपी की जलवायु)(Part-1)",
+      "published_date": "06 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-10/l-10-ro-aro-up-special.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pgm6zXgGpZs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JntXuxjy4b8f9epBUytbFZZRBJvfq3HmrJM5voZ6.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Climate Of U.P. (यूपी की जलवायु)(Part-2)",
+      "published_date": "07 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/32869/kgss-1699339000-v32869.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QJ1wbUa2u2o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/18qhXnWgbYydZidprFPbyygKwc48ZikWFou7lYD7.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Climate Of U.P. (यूपी की जलवायु)(Part-3)",
+      "published_date": "08 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/zjylMmw05pw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33175/kgss-1699423119-v33175.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KPDNLdpvybkxekKtJAJXk9feXWLselmBpCdlijZw.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Soil of U.P. (यूपी की मिट्टी) Part-1",
+      "published_date": "09 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/LmeMZx9VZQY",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/33442/kgss-1699510536-v33442.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TfYO88dHgHgcZFsmdBS49yxpX8jdSbg2KMhg3aiS.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Soil of U.P. (यूपी की मिट्टी) Part-2",
+      "published_date": "16 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/lIPbis-uCAQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34070/kgss-1700113669-v34070.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CwHQQWXusRcMSQEtf5wXDZSpMr1z0lchjQYH69ZC.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Soil of U.P. (यूपी की मिट्टी) Part-3",
+      "published_date": "17 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/K9tItby5cr0",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34252/kgss-1700202911-v34252.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wDJouLVdLP2nTiJ01GgeoDxIq1nRwAg97Fx2HjQq.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ||  Soil of U.P. (यूपी की मिट्टी) Part-4 ( MCQ)",
+      "published_date": "18 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/z5UfffX46-Y",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34384/kgss-1700287469-v34384.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5WhCNEGFgDgG6SUvf7P330T1Igw5Ao2VSnjs4hGC.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Minerals of U.P. (यूपी के खनिज) (Part-1)",
+      "published_date": "20 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/7QPqdmjLFaY",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34559/kgss-1700459367-v34559.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KEPPBDRYD4yDtgehFnXqDOLZMTitUS30Ye3Md6io.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Minerals of U.P. (यूपी के खनिज) (Part-2)",
+      "published_date": "21 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/Bi_zJCaDPX4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34718/kgss-1700548237-v34718.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/amWCV1v2vzffiKuc7OtjJpg77LPgN1iqdWad52iD.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Minerals of U.P. (यूपी के खनिज) (Part-3)",
+      "published_date": "22 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/3ucEnOtL_7w",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34897/kgss-1700635230-v34897.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yeJHHyRvOLsfkaTSQUjdlVyPgPej34kDqRCzkqve.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Minerals of U.P. (यूपी के खनिज) (Part-4) MCQ",
+      "published_date": "24 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/hwaQtpYsITQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35221/kgss-1700807176-v35221.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xQXnb36pHrCvu9Xcqwv30NWYXQ8U1Um2ATRAXfzX.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Rivers of U.P.(उत्तर प्रदेश\nकी नदियाँ) (Part-1)",
+      "published_date": "25 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/COG2MxAFZ-E",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35488/kgss-1700894275-v35488.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RqtHNUMY94KJR3prJIEI1YEKmuu4eTmTZPX3X9C8.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Rivers of U.P.(उत्तर प्रदेश की नदियाँ) (Part-02)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/i-qkWhY_7R8",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35726/kgss-1701064449-v35726.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/U0N7190lkLrS4RvUlv3Twwg8azckuE7lRYSdN499.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Rivers of U.P.(उत्तर प्रदेश की नदियाँ) (Part-03)",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/Dd_1rh3FkKg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35971/kgss-1701238862-v35971.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Hj3KWgBgTcCjb6u3L4jUexWJOF38IuZSmPhm3VVY.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Rivers of U.P.(उत्तर प्रदेश की नदियाँ) (Part-04)",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/etOSsq0MjRs",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/36431/kgss-1701324678-v36431.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7vqcRI1xgqmAXDB3r7Dr5HdzPBfOpSEsCJkRmy3i.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Rivers of U.P.(उत्तर प्रदेश की नदियाँ) (Part-05)",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/7orItUXwSQ4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/36695/kgss-1701411187-v36695.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ggaV13noOFP4Rj9ApYK1ehkeHw8TgIzx5VCHDbox.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture- 26 || Lakes and Waterfalls of U.P. (उत्तर प्रदेश की झीलें एवं झरने) Part-1",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-26/l-26-ro-aro-up-special.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qjMFosa1vMQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/S7E9XqeERedx6RIbw0S98XwT3WoV3At7F4o4mnNP.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture- 27 || Lakes and Waterfalls of U.P. (उत्तर प्रदेश की झीलें एवं झरने) Part-2",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/A-GEt15nwfw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/37159/kgss-1701672278-v37159.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Cybo6E6jN5nV8G2bJuQpXhedWc72QyohtTtPLFfX.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture- 28 || Natural Vegetation and Wildlife of Uttar Pradesh (उत्तर प्रदेश की वनस्पति एवं वन्य जीवन) (Part-1)",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-28/l-28-ro-aro-up-special.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/smlQjPCnfbw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8etolFSextfxefrxVXPtb3a1xLq252Jyu6Cv12xp.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture- 29 || Natural Vegetation and Wildlife of Uttar Pradesh (उत्तर प्रदेश की वनस्पति एवं वन्य जीवन) (Part-2)",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/-ONQ3ODj9Ic",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/37670/kgss-1701845103-v37670.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8Tik8HOV0d0DYL3LaPcrHcDcZx64cBfVeBznBo4o.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture- 30 || Natural Vegetation and Wildlife of Uttar Pradesh (उत्तर प्रदेश की वनस्पति एवं वन्य जीवन) (Part-3)",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/VAIM2of42lI",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/37950/kgss-1701930142-v37950.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qHD56XpNmzDYi6mMcE897RSCmAczPGIVGkyCfid2.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture- 31 || Natural Vegetation and Wildlife of Uttar Pradesh (उत्तर प्रदेश की वनस्पति एवं वन्य जीवन) (Part-4)",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/GcaEOojzHJI",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/38187/kgss-1702017140-v38187.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/zXhozfRxte3GvHY4FKLqpc5dgtEMhLtjxvTuSUDi.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture- 32 || Natural Vegetation and Wildlife of Uttar Pradesh (उत्तर प्रदेश की वनस्पति एवं वन्य जीवन) (Part-5)",
+      "published_date": "09 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/1rENRI-JRGk",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/38472/kgss-1702103553-v38472.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HdqVPQ2GYfyBwWiK7rNaQA88McQDY3eof9hlWfYv.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture- 33 || Agriculture of Uttar Pradesh (उत्तर प्रदेश की कृषि) Part-1",
+      "published_date": "09 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/Zvqi425eli8",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/38474/kgss-1702113585-v38474.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/i4zDaqCLULeuoG8ZTf7EJCnzBdkfVSDLJZQBGAH7.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture- 34 || Agriculture of Uttar Pradesh (उत्तर प्रदेश की कृषि) Part-2",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/hv-G77xifUE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/38625/kgss-1702275518-v38625.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MmVR5FVNQA1AXSYF267OucB8uXzCangzdtZWGrv4.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture- 35 || Agriculture of Uttar Pradesh (उत्तर प्रदेश की कृषि) Part-3",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/W_fi0HHRBAY",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/38843/kgss-1702362995-v38843.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sdAFUsSWJKc5Gu8ttLs95zlbwkCI0UtziSVjJrpv.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture- 36 || Agriculture of Uttar Pradesh (उत्तर प्रदेश की कृषि) Part-4",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/Mv0FWLRxhj4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/39153/kgss-1702448917-v39153.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/pLzgy8KhMaM6T4QQWKipU3VuGQQynncKJPDaqSHa.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture- 37 || Folk Dance of Uttar Pradesh (उत्तर प्रदेश का लोक नृत्य) Part-1",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/EdLnQi5vlmE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/39466/kgss-1702535507-v39466.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/lADlxm2edgSYnBAinwnnWDCPelTYdkjLCos2i0kr.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture- 38 || Folk dance of Uttar Pradesh (उत्तर प्रदेश का लोक नृत्य) Part-2",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/JDDj6k1APM4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/39465/kgss-1702622312-v39465.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RU7HJAVMVC2C6PKlGFiQjtmF957kYNcyAg93cNiJ.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture- 39 || Folk song of Uttar Pradesh (उत्तर प्रदेश का लोकगीत) Part-1",
+      "published_date": "16 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/OQ_Md9DzHxA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/39895/kgss-1702708781-v39895.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xQchqtPeDEeCVDoLfpXNbFFmWNuHVyQ7b4L25Dfx.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture- 40 || Folk song of Uttar Pradesh (उत्तर प्रदेश का लोकगीत) Part-2",
+      "published_date": "18 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/nLLrYVAM6p0",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40025/kgss-1702879627-v40025.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/W57QlaAEaqDZmv7igputaxfWXEVmeYIL9XxveFB0.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Pramukh Gharane of U.P. (उत्तर प्रदेश के प्रमुख घराने)",
+      "published_date": "19 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/rPCA2XW4rss",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40024/kgss-1702967660-v40024.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HAmZEVeWlBFOmHc9yRKWtnwdZMRgE9mk3RXuzNGL.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Mahotsav of U.P.(उत्तर प्रदेश का महोत्सव) Part-1",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/HWjqBwWDtsk",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40465/kgss-1703054082-v40465.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TmlsUxmHTnZi13N9Jahgs8fwYByUDNFb4TiVvhwI.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Mahotsav of U.P.(उत्तर प्रदेश का महोत्सव) Part-2",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/3fsOQ3g2Ip0",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40673/kgss-1703138770-v40673.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IVRw1VyKIKoXOrF9Sytjvais61WRfQ5LRjDwj2dH.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Mahotsav of U.P.(उत्तर प्रदेश का महोत्सव) Part-3",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/zwiNjl-r1dw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/40926/kgss-1703225150-v40926.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3QKXUh5E9YQvjTaZaoHasRJLcF4YNnnlEqOZ8uqs.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Education and Literature of U.P. (यूपी की शिक्षा एवं साहित्य) Part-1",
+      "published_date": "23 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/o-tDRXUH2tI",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/41167/kgss-1703311407-v41167.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mFmnUwNMaWLRrYBZiYFuN76LR35oG3FNrpoH8lYx.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Education and Literature of U.P. (यूपी की शिक्षा एवं साहित्य) Part-2",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/2zRQjj3MmvU",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/42214/kgss-1703570836-v42214.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EcpnFSneRxPQPITsxSszJBk9WXEdj54rfyvdD6tP.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Schemes of Uttar Pradesh (उत्तर प्रदेश की योजनाएँ) Part-1",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/eGge5ZQu-uE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/42632/kgss-1703743456-v42632.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WBuX3aqLwfmrDEmMHyvKekworViEZDe2d5FUNuWV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Schemes of Uttar Pradesh (उत्तर प्रदेश की योजनाएँ) Part-2",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/8SvVRCQ2KaU",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/dec-2023/42631/kgss-1703829511-v42631.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HEG2MqR9pwADvvzJ5AJhhdsbVjZ6foPTOXZDgiIK.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Schemes of Uttar Pradesh (उत्तर प्रदेश की योजनाएँ) Part-3",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/r0fmR-Xgrbw",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/43407/kgss-1704175526-v43407.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DmX2T8IPHu2tbO6SMzNq4pPDC5SmJYTeXRKjdk2K.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Budget of Uttar Pradesh (उत्तर प्रदेश का बजट) Part-1",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/vnhXRe6DlGA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/43352/kgss-1704261761-v43352.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MHcGBiECRKYUrbzQZi2A5wFYZB2nDtAwkTpwryrO.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Budget of Uttar Pradesh (उत्तर प्रदेश का बजट) Part-2",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/pmz_hTFqZCc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44047/kgss-1704348203-v44047.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9C7Owrjvpp7gt8lxKLTm1O90x1bXG5yigSh6F6ZC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Mock Test -01",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/xlitPC767zg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44311/kgss-1704434328-v44311.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4jDxiJHbJHEo0gkrktQGwkxzuBnC8AzinNYI86LY.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Mock Test -02",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/6xqeR4HNDcI",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44579/kgss-1704521841-v44579.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3J7i6GMx5Kem4fLhuGlJmhQJ4PkuGgoVaqrdFrpL.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || History of U.P.(उत्तर प्रदेश का इतिहास) Part-1",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Yt0BoByksY8",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/44787/kgss-1704692512-v44787.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/puyaa59g5BdW36VWdwu4wR1786EY3fwvQ9I3xrBN.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || History of U.P.(उत्तर प्रदेश का इतिहास) \tPart-2",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45382/kgss-1704867754-v45382.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/p9YFUEGGcpw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/kd6NOTjfFZeD0FPHfQhyv0dMarGbfKMtWkYqNCkv.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || History of U.P.(उत्तर प्रदेश का इतिहास) Part-3",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/F6oVAdxjOiQ",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/45775/kgss-1704952746-v45775.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hM1K3WiGISc8oGROu956sCkdRhG2ZEfmradiA559.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || History of U.P.(उत्तर प्रदेश का इतिहास) Part-4",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/MmT38pCUtPM",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/46006/kgss-1705039982-v46006.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/E0kSJoelmR340SJgaxdiCByzqUZwt9Gbqmf72nqV.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Jainism and Buddhism (जैन धर्म और बौद्ध धर्म)",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/6w5clPKGV7U",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/oct-2023/30523/kgss-1698737530-v30523.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rKg2VLN3dQSl4YGcLkVE5YqwvcM5oMsjaoNURniE.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Medieval History of U.P. (यूपी का मध्यकालीन इतिहास) Part-1",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46538/kgss-1705299551-v46538.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OXRZu89IqeE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Q2X9nJzV5hghi7zLWVqwHQCqcUo2E7yme5uwk8Us.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Medieval History of U.P. (यूपी का मध्यकालीन इतिहास) Part-2",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45982/kgss-1705386248-v45982.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jxXLqBLzovI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HzrWr4m90flPeBz0IgX0wqKiWCXAW8T2gCAsSHvE.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Medieval History of U.P. (यूपी का मध्यकालीन इतिहास) Part-3",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47068/kgss-1705559321-v47068.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/z6s0N093ck4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GFMxseoDkDK3mc9K4xuHzoWJKS3bEiSERqaOOKPA.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Modern History of U.P. (यूपी का आधुनिक इतिहास) Part-4",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-62/l-62-up-special-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MoElHaPK4X8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QCF3hWpQfLC7lYhWXZFc8ao0BVwFqusKxrssm4g1.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Practice Test -01",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-63/l-63-up-special-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dOvLBmyHCi4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Vf4IvAbQWIf8YHrQBqLpMaPs2RJPB5x5ZbHaaoBN.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Practice Test -02",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-64/l-64-up-special-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PZ8exO5zN5o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GKgO28J5Y30XjAAkjyycSV5qwALUuo1nccRP3z33.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Practice Test -03",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-65/l-65-up-special-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iesCj5ShyXA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/17aPWcg5H64MJxCtiG7CDjpoMY8a0RjN1H0fahTS.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || Practice Test -04",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/up-special/l-66/l-66-up-sp-ro-aro.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o9StRtzX6EQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KttN0Y4UleP9YnKUqPdxOVJwpSe70K9O3cBwU7Dw.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Practice Test -05",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49615/kgss-1706163681-v49615.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ry4rvno4mZk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZWtK0Hna3clrbcfLFvm01OTblvommL05RR1cw0ge.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || Practice Test -06",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49979/kgss-1706336287-v49979.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8zlMw9NeNec",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3MYfs7XjJ5UAqTcehjereQdTv1cUgdbEliIUGCae.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-69 || Practice Test -07",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50124/kgss-1706509415-v50124.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/P1c_KiPtLSA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AF3co7HxkeMdDqwSICLaYs3q569AmV2SoQ6wgfvU.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-70 || Practice Test -08",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50414/kgss-1706594823-v50414.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KZdTJWIn01M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tWSBY0vs8p698r1N8yZWA4mcCtGhDieyvwslborO.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

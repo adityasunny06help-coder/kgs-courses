@@ -1,0 +1,107 @@
+{
+  "subject_name": "Simplification",
+  "subject_id": 7745,
+  "video_count": 7,
+  "note_count": 7,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Simplification (Part 1)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vuH-qisQgBU",
+      "hd_video_url": "https://www.youtube.com/embed/vuH-qisQgBU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c7VD7uoqQGPjQpLN79LMPBFiVKatGRh8Ylu1qkWZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Simplification (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7976eb7-7276-4202-815c-6f315f982aa0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Simplification (Part 2)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ken0xr5teEs",
+      "hd_video_url": "https://www.youtube.com/embed/ken0xr5teEs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hCIymIPMvnTVWqeCZXZwXGKX6H3Q2k5F8BSi2iyU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Simplification (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccf94e05-a1d0-4f83-9899-9ddf33b36dfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Simplification (Part 3)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VtDxVvmMRlM",
+      "hd_video_url": "https://www.youtube.com/embed/VtDxVvmMRlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/K7qRiBoMrJnw9XCNxmo6aYqA4gsfSD99EO0J8eqI.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Simplification (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e9867fd-614d-4674-b90e-c9321d688ca2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Simplification (Part 4)",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/07aZdDb50Zw",
+      "hd_video_url": "https://www.youtube.com/embed/07aZdDb50Zw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4IE0S8CCYCnul9SLQM01QZIJ5zlUS6Wj8CT0usTC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Simplification (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9fde646c-cc16-41e8-83e2-5a0131421821.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Simplification (Part 5)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/e5wTxTbLvyM",
+      "hd_video_url": "https://www.youtube.com/embed/e5wTxTbLvyM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h6TQuCpl4k1Fy8qhSMxPWwFQIJoA6xEcviNDbSzk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Simplification (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f99f0c5-dd1b-4fc2-83dd-452c207a8500.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || Simplification (Part 6)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LGjwiI50DTI",
+      "hd_video_url": "https://www.youtube.com/embed/LGjwiI50DTI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8wl06Co1D9QOz48EEB7CM9bZTEVXv4Jf14ChmtDA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 06 || Simplification (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07f31720-7489-4653-bd6f-1c5eecf7a837.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || Simplification (Part 7)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hZQiPhlhQ2E",
+      "hd_video_url": "https://www.youtube.com/embed/hZQiPhlhQ2E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zaK7EiXP6s76MHP9W9isAjC8Zdkhuj6kzbkiZExp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Simplification (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f735125-8664-4efe-9cdf-4a2eb8e5fe14.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

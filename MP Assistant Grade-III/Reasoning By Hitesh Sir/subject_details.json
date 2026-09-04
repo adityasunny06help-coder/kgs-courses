@@ -1,0 +1,74 @@
+{
+  "subject_name": "Reasoning By Hitesh Sir",
+  "subject_id": 4964,
+  "video_count": 5,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ZhzKNwKBmRw",
+      "hd_video_url": "https://www.youtube.com/embed/ZhzKNwKBmRw",
+      "thumbnail": "https://i.ytimg.com/vi/ZhzKNwKBmRw/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Direction Sense Test",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_y9V6UyOphs",
+      "hd_video_url": "https://www.youtube.com/embed/_y9V6UyOphs",
+      "thumbnail": "https://i.ytimg.com/vi/_y9V6UyOphs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Reasoning By Hitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f81083df-6adb-48f4-8324-c366897056a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Blood Relation",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/XzbWgXWX2tc",
+      "hd_video_url": "https://www.youtube.com/embed/XzbWgXWX2tc",
+      "thumbnail": "https://i.ytimg.com/vi/XzbWgXWX2tc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Reasoning By Hitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a817ed3-3764-4d40-9796-1349a9387429.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Analogy",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/hxWWs81Np1k",
+      "hd_video_url": "https://www.youtube.com/embed/hxWWs81Np1k",
+      "thumbnail": "https://i.ytimg.com/vi/hxWWs81Np1k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Reasoning By Hitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb78ac31-b1a1-46d5-b426-48b291ab610d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Dice",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/lKeh1zgfzTM",
+      "hd_video_url": "https://www.youtube.com/embed/lKeh1zgfzTM",
+      "thumbnail": "https://i.ytimg.com/vi/lKeh1zgfzTM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Reasoning By Hitesh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d44da8f-7152-487f-a554-e01694674c0e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

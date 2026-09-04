@@ -1,0 +1,32 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 7973,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Session",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/D1fvNoUhcg4",
+      "hd_video_url": "https://www.youtube.com/embed/D1fvNoUhcg4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/p7gC4w573qroucewwrwpdDU1IBTrbqZ0XHH7ooDE.jpg",
+      "notes": [
+        {
+          "title": "Orientation Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee74d4bb-87a4-4a0d-8402-c0732eacc860.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Complete KGS App Use Guide",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

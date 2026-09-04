@@ -1,0 +1,788 @@
+{
+  "subject_name": "Tejas Previous Class",
+  "subject_id": 5366,
+  "video_count": 56,
+  "note_count": 55,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ubzQaJTFEII",
+      "hd_video_url": "https://www.youtube.com/embed/ubzQaJTFEII",
+      "thumbnail": "https://i.ytimg.com/vi/ubzQaJTFEII/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Practice Set-01",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/wef3lPiLMe8",
+      "hd_video_url": "https://www.youtube.com/embed/wef3lPiLMe8",
+      "thumbnail": "https://i.ytimg.com/vi/wef3lPiLMe8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Practice Set-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc9e73a0-5ca0-4de6-abe4-9339bfa567e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Practice Set-02",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/mPsUthCdiLQ",
+      "hd_video_url": "https://www.youtube.com/embed/mPsUthCdiLQ",
+      "thumbnail": "https://i.ytimg.com/vi/mPsUthCdiLQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Practice Set-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06f226e8-6f82-444c-a9c9-bd831af93bbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Practice Set-03",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qmlt3MYK8R8",
+      "hd_video_url": "https://www.youtube.com/embed/qmlt3MYK8R8",
+      "thumbnail": "https://i.ytimg.com/vi/qmlt3MYK8R8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Practice Set-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1f72872-9863-4058-9092-ce89ee146886.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Practice Set-04",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/EpmNjfL5NTg",
+      "hd_video_url": "https://www.youtube.com/embed/EpmNjfL5NTg",
+      "thumbnail": "https://i.ytimg.com/vi/EpmNjfL5NTg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Practice Set-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c295a42-ffe6-49a4-83a5-444561dc911a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Practice Set-05",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/M0BAlWW4e0Y",
+      "hd_video_url": "https://www.youtube.com/embed/M0BAlWW4e0Y",
+      "thumbnail": "https://i.ytimg.com/vi/M0BAlWW4e0Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Practice Set-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82fe9899-0be4-4740-b7ca-2f720df9bd11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Practice Set-06",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/11KKGmGu8JE",
+      "hd_video_url": "https://www.youtube.com/embed/11KKGmGu8JE",
+      "thumbnail": "https://i.ytimg.com/vi/11KKGmGu8JE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Practice Set-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba34e3a6-ff4d-4cd2-80c7-424317ceebbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Practice Set-07",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/aVDjrtVkWTc",
+      "hd_video_url": "https://www.youtube.com/embed/aVDjrtVkWTc",
+      "thumbnail": "https://i.ytimg.com/vi/aVDjrtVkWTc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Practice Set-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/265fdaba-e7a5-47e1-b772-363188feccaf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Practice Set-08",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/H7tnILmlvbY",
+      "hd_video_url": "https://www.youtube.com/embed/H7tnILmlvbY",
+      "thumbnail": "https://i.ytimg.com/vi/H7tnILmlvbY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Practice Set-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fa463d3-07b6-4f4d-b4e1-0b9d60f2be5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Practice Set-09",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ajsio9FQhxU",
+      "hd_video_url": "https://www.youtube.com/embed/ajsio9FQhxU",
+      "thumbnail": "https://i.ytimg.com/vi/ajsio9FQhxU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Practice Set-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e94ec5c-dd40-44d9-a612-116af013f751.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Practice Set-10",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/iGvd7fMl5QU",
+      "hd_video_url": "https://www.youtube.com/embed/iGvd7fMl5QU",
+      "thumbnail": "https://i.ytimg.com/vi/iGvd7fMl5QU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Practice Set-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53224524-9ac5-4da3-a54d-0d922dddf992.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Practice Set-11",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qKtToSWZ7Qw",
+      "hd_video_url": "https://www.youtube.com/embed/qKtToSWZ7Qw",
+      "thumbnail": "https://i.ytimg.com/vi/qKtToSWZ7Qw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Practice Set-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66240007-31de-40f0-a520-26ff51236599.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Practice Set-12",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/IJxBAJCXCds",
+      "hd_video_url": "https://www.youtube.com/embed/IJxBAJCXCds",
+      "thumbnail": "https://i.ytimg.com/vi/IJxBAJCXCds/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Practice Set-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/166259d4-5a6a-4287-829b-e3c4c3648f1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Practice Set-13",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-gjQf4NgfwU",
+      "hd_video_url": "https://www.youtube.com/embed/-gjQf4NgfwU",
+      "thumbnail": "https://i.ytimg.com/vi/-gjQf4NgfwU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Practice Set-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b32199a7-5bae-4029-b8b9-5dc3d2e54b24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Practice Set-14",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EEn5gD2-mVw",
+      "hd_video_url": "https://www.youtube.com/embed/EEn5gD2-mVw",
+      "thumbnail": "https://i.ytimg.com/vi/EEn5gD2-mVw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Practice Set-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/070b13bb-d5a8-41cf-bb7a-4204aae2b611.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Practice Set-15",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/v6FKyvRpEAw",
+      "hd_video_url": "https://www.youtube.com/embed/v6FKyvRpEAw",
+      "thumbnail": "https://i.ytimg.com/vi/v6FKyvRpEAw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Practice Set-15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95676f97-c749-42fd-9e39-a5351e8f7003.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Practice Set-16",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IAyASlmRKds",
+      "hd_video_url": "https://www.youtube.com/embed/IAyASlmRKds",
+      "thumbnail": "https://i.ytimg.com/vi/IAyASlmRKds/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Practice Set-16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87972fbd-d7d7-4f35-8863-2675ead553bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Practice Set-17",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qNW9RXG1I08",
+      "hd_video_url": "https://www.youtube.com/embed/qNW9RXG1I08",
+      "thumbnail": "https://i.ytimg.com/vi/qNW9RXG1I08/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Practice Set-17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c968912-f47d-475d-b596-45a512eff463.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Practice Set-18",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rrPwsVRQiRw",
+      "hd_video_url": "https://www.youtube.com/embed/rrPwsVRQiRw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/D35Cc3sPcNbV2kBYBCpCTJKQzxFSHm78mV67DMxo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Practice Set-18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/decfc426-db22-4e58-9391-cd6ba1eebe18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Practice Set-19",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EwPkcTUmTDE",
+      "hd_video_url": "https://www.youtube.com/embed/EwPkcTUmTDE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QmjmxQgYi8hBJzqCC6YMYnmETzEnrt6D5k3OSU9j.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Practice Set-19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b4e43cf-cdf0-4909-bf11-c6729c0569ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Practice Set-20",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/bbH8nNzFFlk",
+      "hd_video_url": "https://www.youtube.com/embed/bbH8nNzFFlk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1vLBYsBIbeIRGTNJMdBKwpHZBs8rBXAdJ2q77eLd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Practice Set-20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dbe9eea0-b30f-4be0-af84-ac6c2f02559f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Practice Set-21",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9t79Ymudp5M",
+      "hd_video_url": "https://www.youtube.com/embed/9t79Ymudp5M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68160308e884a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Practice Set-21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05588036-aef2-4c87-a036-65afcac5bb4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Practice Set-22",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Fx1n5waljoA",
+      "hd_video_url": "https://www.youtube.com/embed/Fx1n5waljoA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fnCc4pJD0W6Y4G9aPLQUble8mM73Eas3Ho5JTw5k.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Practice Set-22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e10bc082-8360-4117-8b29-c78a3e7e5edc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Practice Set-23",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/FnVhGzbHi5s",
+      "hd_video_url": "https://www.youtube.com/embed/FnVhGzbHi5s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PzgmZ4WAc0p4zvkdVQ6RNpoTeO8ac329YIMGPThD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Practice Set-23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af656b66-4f22-4b7e-a395-bf2058fabdcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Practice Set-24",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/751Vugr56a8",
+      "hd_video_url": "https://www.youtube.com/embed/751Vugr56a8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OGNDR08IbsUlPfQmHlGSHTo1nJkwn0OKjsag1Frd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Practice Set-24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/788b336d-8a34-4cc7-8572-270049814b50.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Practice Set-25",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_YQoXH160RM",
+      "hd_video_url": "https://www.youtube.com/embed/_YQoXH160RM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iq8IcOdERQeiBpemtdr2G5dY2gGUCrpsHeTsMkni.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Practice Set-25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51316527-df52-4eb2-b3c3-9721e8c18b27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Practice Set-26",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sF_WM5f7-iI",
+      "hd_video_url": "https://www.youtube.com/embed/sF_WM5f7-iI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fRszVhuTijdrSfULWbYC8qX3A6m8wD8KTz3FjZPa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Practice Set-26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e03f244-b773-458e-9ccc-1ddf2fcc7f13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Practice Set-27",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/uohP7V-waHw",
+      "hd_video_url": "https://www.youtube.com/embed/uohP7V-waHw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hDFYNkRC6WgBoC0vaAxpOzYITcbR7gbYdEsfEnZ7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Practice Set-27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ff2c40f-5468-4a32-bdc5-540c054ed890.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Practice Set-28",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/_5FHxLFIIAY",
+      "hd_video_url": "https://www.youtube.com/embed/_5FHxLFIIAY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5xJsLUA9WTyNDi12OeDK1uejKJ9go9JFCJeUU1yU.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Practice Set-28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9c11210-d97e-4b41-827e-4b56a79f0293.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Practice Set-29",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/ruhBXHEx9kg",
+      "hd_video_url": "https://www.youtube.com/embed/ruhBXHEx9kg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/R1kkY7xVXbsdo51PkyupldQTurOeljDcu6ONgDHj.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Practice Set-29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13be3feb-2604-4889-b48f-db613fb6d6d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Practice Set-30",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/_md2gWiGqdQ",
+      "hd_video_url": "https://www.youtube.com/embed/_md2gWiGqdQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/685a4c5255fcc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Practice Set-30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f6cbfd0-5e52-480f-8a83-9ce42630aa05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Practice Set-31",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/SVdqMwvedHU",
+      "hd_video_url": "https://www.youtube.com/embed/SVdqMwvedHU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || Practice Set-31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bed61104-f396-4034-9c18-41178cecbddd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Practice Set-32",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/CWR_sWEAoY0",
+      "hd_video_url": "https://www.youtube.com/embed/CWR_sWEAoY0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/685a4c5101f37.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Practice Set-32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dde64c8e-63e7-4226-b2b8-a931c0107451.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Practice Set-33",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/4sdaeVdDE2c",
+      "hd_video_url": "https://www.youtube.com/embed/4sdaeVdDE2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2TYziwSGGyv8BRMOGeXOoOCsEmo4EF0xtskfYNOi.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Practice Set-33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3822993-6b67-412f-965b-cd931ae73979.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Practice Set-34",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/VBpS50sr8ko",
+      "hd_video_url": "https://www.youtube.com/embed/VBpS50sr8ko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KWLOPkXgKHWGdedfLORyobhTfJCy9TGPAF2UeqY1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Practice Set-34",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1eaaab32-303f-4d32-b1a0-ab30205cad3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Practice Set-35",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/kA5ddpal7-E",
+      "hd_video_url": "https://www.youtube.com/embed/kA5ddpal7-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/685a4c4f5a30b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Practice Set-35",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9cd9d9d-336c-4315-8365-72cdbedf1bbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Practice Set-36",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/Enu_lfTTitQ",
+      "hd_video_url": "https://www.youtube.com/embed/Enu_lfTTitQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/685a4c4dbc163.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Practice Set-36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fed6de52-bfba-4a98-85d6-d6e43b9236e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Practice Set-37",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qfEY86-Gu2s",
+      "hd_video_url": "https://www.youtube.com/embed/qfEY86-Gu2s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/m78dH8kX07T48GZL4Ok2EFonTmuK2GmSuOjtQ3fb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Practice Set-37",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e652701b-38b5-4d4d-8c9c-28651e50c421.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Practice Set-38",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/B-jCEO_yn1U",
+      "hd_video_url": "https://www.youtube.com/embed/B-jCEO_yn1U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F1Y9AA6whdJ5129kkXDK9pX60elTI3vVuadUQwvo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Practice Set-38",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53c4df96-526d-4c2f-b724-6e67a414970b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Practice Set-39",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6czr-sOef3g",
+      "hd_video_url": "https://www.youtube.com/embed/6czr-sOef3g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/i6n8gARn8bE4DIzLIfFz96QcxvjUGrQk3rdMJS2a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Practice Set-39",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f78b1398-b8e9-4ad4-ae3c-0eacd961358e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Practice Set-40",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qF2mhNUUaZ0",
+      "hd_video_url": "https://www.youtube.com/embed/qF2mhNUUaZ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YSzS3raOLJkJPeys8Ti1sR0DCdwN3hsGqhwqKJFb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Practice Set-40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0982abb-bdcc-4ed8-90dd-030f20ade903.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Practice Set-41",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CWDqWbJaTcU",
+      "hd_video_url": "https://www.youtube.com/embed/CWDqWbJaTcU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/31GszMGTh1QQweGWoHGs6DS8cUqvtLo9NDnuSKNL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Practice Set-41",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3334aaf-7a1a-416b-a864-de5b8e1379f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Practice Set-42 (Part-01)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/S5TdAd7NST0",
+      "hd_video_url": "https://www.youtube.com/embed/S5TdAd7NST0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/28bZavHaRXZWxiIdbU5aMY33Iti6zQJI1ttV78HF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Practice Set-42 (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3624fb71-53af-4fa5-8a37-5456d967cfb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-43 || Practice Set-42 (Part-02)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jzzB2MI3CvE",
+      "hd_video_url": "https://www.youtube.com/embed/jzzB2MI3CvE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q0K7KM1OcEs2wmiWVWdJfM77yidbN5lsP8biw94L.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Practice Set-42 (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3624fb71-53af-4fa5-8a37-5456d967cfb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-44 || Practice Set-43",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aXGx05edQBg",
+      "hd_video_url": "https://www.youtube.com/embed/aXGx05edQBg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cspe7uEok4BeNFyFhAZNJKGfOaFdaQPGyZ2thR3X.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Practice Set-43",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f614abde-8fce-4092-901a-ce7db0476428.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-45 || Practice Set-44",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cepfhlWITYM",
+      "hd_video_url": "https://www.youtube.com/embed/cepfhlWITYM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MvxibhBFwxQ41Qy21R3wC41ogft8GSddoGLpkWWz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Practice Set-44",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bf4c96f-c67b-49e0-b6b2-8a001f6bcf34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-46 || Practice Set-45",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/fvIwxHcAxv8",
+      "hd_video_url": "https://www.youtube.com/embed/fvIwxHcAxv8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8QLHVOSZgLobyJGyw38TfFGvU6XZgT9ougiUfHKL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Practice Set-45",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/432d2e5f-34a6-4889-87bc-c9bd060e36ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-47 || Practice Set-46",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/J0AkTIiO3EU",
+      "hd_video_url": "https://www.youtube.com/embed/J0AkTIiO3EU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3cOZmJoJrCU9Xs4emJ0wCAOAmEkZGyhJhn6k5uOV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Practice Set-46",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8a41e18-dc77-484b-ae2a-4f40e3590ce3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-48 || Practice Set-47 (Part 01)",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/pIT4__JWF3s",
+      "hd_video_url": "https://www.youtube.com/embed/pIT4__JWF3s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wJQ11ZPQjo8vmGmmr0YNLSVTNDoOGoEmQqAnq7Se.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Practice Set-47 (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/544439be-a9c3-47d5-8404-0bc935401b2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-49 || Practice Set-47 (Part 02)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/uTtXUIMBtYg",
+      "hd_video_url": "https://www.youtube.com/embed/uTtXUIMBtYg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cPv1apqJX6ASQmSColWM7hrY22X0JEj3Rsslte5Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Practice Set-47 (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8aff5143-b7e1-415f-b8d9-da0b2678aad0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-50 || Practice Set-48",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jQbHp64H254",
+      "hd_video_url": "https://www.youtube.com/embed/jQbHp64H254",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NCFbPqH0s2YtEgZNyqWUm7htQAPCBySdK03uCNnQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Practice Set-48",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fce0a2d-4e44-46a7-92f8-055d3e28b60c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-51 || Practice Set-49 (Part 01)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XrxZsFvllI0",
+      "hd_video_url": "https://www.youtube.com/embed/XrxZsFvllI0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KetQL14piBrZi0jMpoKJcVkx08ro4PVTDt57PNwk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Practice Set-49 (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7dac56f-6912-49a7-9ca3-bd931cd1839c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-52 || Practice Set-49 (Part 02)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/P1-Wu7AOkhU",
+      "hd_video_url": "https://www.youtube.com/embed/P1-Wu7AOkhU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VtWc2yXti2mxr5avUUWqFfqvqbKbhINMJD6NuiKY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Practice Set-49 (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c8a1c14-afef-4040-b234-92247ee66532.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-53 || Practice Set-50 (Part-01)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mASZspFhRVI",
+      "hd_video_url": "https://www.youtube.com/embed/mASZspFhRVI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g59ijt159xmap5fJPGTGe3sFhEnNBARlDTx6eS4s.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Practice Set-50",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdb1954a-e9b7-4e4a-b86d-646e6b1be91b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-54 || Practice Set-50 (Part-02)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lSwn3QzoCYI",
+      "hd_video_url": "https://www.youtube.com/embed/lSwn3QzoCYI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TxanJvJRDvnt80LsLTmxZTd1XuF6uY3pdqbLncDf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Practice Set-51",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab4d532d-7fa5-40c6-b7a1-16ab2a5c4d4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-55 || Practice Set-51",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XtKp8mefuuc",
+      "hd_video_url": "https://www.youtube.com/embed/XtKp8mefuuc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nO8pOjcvkNvTA5xOPGHN6RGiPhdjaIANDtYL6iR9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Practice Set-51",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/013a9d67-4871-4f72-8057-c3924c251705.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,275 @@
+{
+  "subject_name": "Geography by Abhishek Sir (For Group Y)",
+  "subject_id": 4700,
+  "video_count": 19,
+  "note_count": 19,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction & Orientation Class",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/LiRdgM84P20",
+      "hd_video_url": "https://www.youtube.com/embed/LiRdgM84P20",
+      "thumbnail": "https://i.ytimg.com/vi/LiRdgM84P20/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction & Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0c3a6cd-edeb-4dc3-b0e1-9b58204cb20c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || General Introduction of India - Part 01",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/yWe-cacHsWM",
+      "hd_video_url": "https://www.youtube.com/embed/yWe-cacHsWM",
+      "thumbnail": "https://i.ytimg.com/vi/yWe-cacHsWM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || General Introduction of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69eaf2d4-5308-4353-a052-2eaf9db1694c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || General Introduction of India - Part 02",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/YZ7XXxOdMWs",
+      "hd_video_url": "https://www.youtube.com/embed/YZ7XXxOdMWs",
+      "thumbnail": "https://i.ytimg.com/vi/YZ7XXxOdMWs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || General Introduction of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40de75c3-ac84-415a-8e35-d7be0592dd2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || General Introduction of India - Part 03",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/84lbi6a0Yjw",
+      "hd_video_url": "https://www.youtube.com/embed/84lbi6a0Yjw",
+      "thumbnail": "https://i.ytimg.com/vi/84lbi6a0Yjw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || General Introduction of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9955dd4-5ae8-4b08-aabe-5dc4673f621b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || General Introduction of India - Part 04",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/VW9aFyZOR7Y",
+      "hd_video_url": "https://www.youtube.com/embed/VW9aFyZOR7Y",
+      "thumbnail": "https://i.ytimg.com/vi/VW9aFyZOR7Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || General Introduction of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5cf13a8-7523-4704-8606-f2d81fc33095.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || General Introduction of India - Part 05",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ZaIJtlk6dXg",
+      "hd_video_url": "https://www.youtube.com/embed/ZaIJtlk6dXg",
+      "thumbnail": "https://i.ytimg.com/vi/ZaIJtlk6dXg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 06 || General Introduction of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af06cf86-cf8e-4549-8878-6686c64915ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || General Introduction of India - Part 06",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/hkOH2vbz6Zg",
+      "hd_video_url": "https://www.youtube.com/embed/hkOH2vbz6Zg",
+      "thumbnail": "https://i.ytimg.com/vi/hkOH2vbz6Zg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || General Introduction of India - Part 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f2d90dc-3e93-47ea-aebe-1a8821124e6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || General Introduction of India - Part 07",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/NVtqn7EBNv0",
+      "hd_video_url": "https://www.youtube.com/embed/NVtqn7EBNv0",
+      "thumbnail": "https://i.ytimg.com/vi/NVtqn7EBNv0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 08 || General Introduction of India - Part 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8da9cd31-0206-46a4-9f44-d6285dce1597.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || Coastal Plains",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/w5JUmzYPVRE",
+      "hd_video_url": "https://www.youtube.com/embed/w5JUmzYPVRE",
+      "thumbnail": "https://i.ytimg.com/vi/w5JUmzYPVRE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 09 || Coastal Plains",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86ac963d-7519-42a0-8017-38155990a630.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Islands in India - Part 01",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/WHjcFJh8WUU",
+      "hd_video_url": "https://www.youtube.com/embed/WHjcFJh8WUU",
+      "thumbnail": "https://i.ytimg.com/vi/WHjcFJh8WUU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Islands in India - Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37bb53d1-83b4-4ca2-bf97-4f0bb60bb4c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Islands in India - Part 02",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/82TOQaHuicQ",
+      "hd_video_url": "https://www.youtube.com/embed/82TOQaHuicQ",
+      "thumbnail": "https://i.ytimg.com/vi/82TOQaHuicQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Islands in India - Part 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a71f60a9-4931-4457-b9e4-c847468c9421.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Indian River System - Part 01",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qxDQCUl64s4",
+      "hd_video_url": "https://www.youtube.com/embed/qxDQCUl64s4",
+      "thumbnail": "https://i.ytimg.com/vi/qxDQCUl64s4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Indian River System - Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/027f9856-b204-4e30-949c-694c17074294.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Indian River System - Part 02",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/zrQx8qWFoyg",
+      "hd_video_url": "https://www.youtube.com/embed/zrQx8qWFoyg",
+      "thumbnail": "https://i.ytimg.com/vi/zrQx8qWFoyg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Indian River System - Part 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a960031f-2aa4-40f7-b461-9e0a91b5dc61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Indian River System - Part 03",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/S_dxP1SqSIs",
+      "hd_video_url": "https://www.youtube.com/embed/S_dxP1SqSIs",
+      "thumbnail": "https://i.ytimg.com/vi/S_dxP1SqSIs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Indian River System - Part 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e90f47b0-3304-48d4-9a55-01a621febb7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Indian River System - Part 04",
+      "published_date": "09 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ttP12-Ut93c",
+      "hd_video_url": "https://www.youtube.com/embed/ttP12-Ut93c",
+      "thumbnail": "https://i.ytimg.com/vi/ttP12-Ut93c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Indian River System - Part 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5296a8ea-4cb9-4723-abfb-93e9440ea9ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Indian River System - Part 05",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/twZfjUiKDIg",
+      "hd_video_url": "https://www.youtube.com/embed/twZfjUiKDIg",
+      "thumbnail": "https://i.ytimg.com/vi/twZfjUiKDIg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Indian River System - Part 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/292ce575-c817-463e-a084-71e0eda2597a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Indian River System - Part 06",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/anEpgbOPpiU",
+      "hd_video_url": "https://www.youtube.com/embed/anEpgbOPpiU",
+      "thumbnail": "https://i.ytimg.com/vi/anEpgbOPpiU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Indian River System - Part 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15b1f28b-b88f-4605-99b6-aca2d1c59115.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Indian River System - Part 07",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-J39nCTZ2Ug",
+      "hd_video_url": "https://www.youtube.com/embed/-J39nCTZ2Ug",
+      "thumbnail": "https://i.ytimg.com/vi/-J39nCTZ2Ug/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Indian River System - Part 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05d8dc4a-6fc1-4e40-8d3c-642721e96e11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || MCQ Class",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/baP0MCwdUaM",
+      "hd_video_url": "https://www.youtube.com/embed/baP0MCwdUaM",
+      "thumbnail": "https://i.ytimg.com/vi/baP0MCwdUaM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || MCQ Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26cf113c-aad4-4806-b0a1-c245b3c6ba4d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

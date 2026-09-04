@@ -1,0 +1,709 @@
+{
+  "subject_name": "Indian geography by Shankar Jha Sir",
+  "subject_id": 6000,
+  "video_count": 50,
+  "note_count": 50,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || परिचय कक्षा",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/219858/kgss-1743513843-v219858.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rDuhwUcAnFk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2bb587a0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Indian Geography by Shankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c3514a8-2cdd-40ac-a463-5fe57dc00266.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || भारतीय मानक समय",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220822/kgss-1743601018-v220822.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1IDPIhgMHUI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2bad0b72.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d2ef71b-a008-4ef2-83af-cbc3fb332cc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || भारत की तटरेखा",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-03/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r7jSuNON7UA",
+      "thumbnail": "https://i.ytimg.com/vi/r7jSuNON7UA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aad9e9f-bf6f-434e-a238-40d476908510.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || भारत की भौगोलिक एवं जलवायु स्थिति",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-04/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mP2a6qHclq4",
+      "thumbnail": "https://i.ytimg.com/vi/mP2a6qHclq4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9110094a-7a90-416b-be01-583e728a3498.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || उत्तर एवं पूर्वोत्तर पहाड़ी क्षेत्र",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222521/kgss-1743858784-v222521.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3gvGEaPJW3g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b9dd12d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d995050a-1aeb-499a-be1d-9a2f6949e41b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || मध्य हिमालय",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223443/kgss-1744119045-v223443.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AsHDRR_aEfg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b9624a1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b5b6c79-6031-4e1a-9240-15f04fa04b1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || हिमाचल और उत्तराखंड हिमालय",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223995/kgss-1744205132-v223995.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uZ3owYP8ib0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b8dd3c4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14ec2a2f-aced-471f-b434-9a3a79f0d9e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || यूरेशियन प्लेट",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-08/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dQzoJzla6YI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b8651c0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5e60b52-8ad3-4eac-9f84-6b03fbe39bd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || मैदान का क्षेत्रीय वर्गीकरण",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-09/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/C8iwIPhCuD4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b7db399.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1494785d-0743-44f1-a648-c9bf204a4cb7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || निचला गंगा का मैदान",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-10/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2tv_9w3g3k8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b75dcb6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61a5b964-0443-4e89-a59b-29defad4e7b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ||  प्रायद्वीपीय भारत",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227094/kgss-1744722523-v227094.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/i--DBhPlSsc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b6d8e5c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41ddf695-e9f1-4297-8bd2-62bbbcac1ea9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || पश्चिमी घाट",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228015/kgss-1744808944-v228015.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LYvQV1kOCvo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b65ecf5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/371d0cac-4aab-4977-9085-e44689897d8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 ||  पठार",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-13/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qOYFa6Tyf3I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b5d7514.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33fb04f9-f6ff-4cf0-8b75-5bbab66e80b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || दक्षिण दक्कन के पठार",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-14/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zeu73tmseps",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b55e3ff.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdbf947c-aaba-4378-b3ee-8f267c7f78d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ||  पश्चिमी तटीय मैदान का वर्गीकरण",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229637/kgss-1745068997-v229637.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X1zCouSR-ok",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b4da575.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b7bcefe-96e5-4301-98a1-4de8bf2d01d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || भारत के द्वीप",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-16/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uzDtwgd-eAM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b4629ab.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bce7128-4707-4217-b5fe-6adbf74fb6e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || उत्तर लेखन",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230904/kgss-1745327571-v230904.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CEH3SO9W6Kc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b3dd2a3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fbbccd1-4ba3-4a1d-8f6e-4b3461e2a402.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || भारत की भूवैज्ञानिक संरचना",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231348/kgss-1745413896-v231348.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Lj2KjDp37i4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b361d98.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9eaebc7-4dc5-4c53-8887-777d7f03362c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || चट्टानों का प्रकार",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232838/kgss-1745500007-v232838.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5pcNTbjK0oU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b2dc911.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d5e4352-fd55-45d5-a36a-0b768a8510c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || भारत में खनिज संसाधन",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233444/kgss-1745586512-v233444.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TfpalmQ1loE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b261287.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88d5b10b-a9ab-43d5-b8a0-93ff525b8165.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || भारत में तेल संसाधनों का वितरण",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233844/kgss-1745672088-v233844.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GB-87RZeEm8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b1d550a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/684c8a7d-c958-4522-a785-a51ba108d37e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || भारत में परमाणु खनिज",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234449/kgss-1745846814-v234449.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ET9JEsrtbQ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b1575f3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/229e9ec6-b343-4dcf-8df8-d282655986ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 ||  भारतीय जल निकासी प्रणाली",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-23/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tBRtNRd3fk8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b0cf33c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/735faa80-5b59-4703-ad58-6a5087ea2490.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || राष्ट्रीय अर्थव्यवस्था में नदियों का योगदान",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-24/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FrQ5lAaR9xA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2b04e304.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/456f787c-f705-4528-9353-7f667c5296f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || नदियों को जोड़ने की परियोजना",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241491/kgss-1746105234-v241491.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HzpY4V8QZGE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2afc9622.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf8e449d-739f-440d-999b-0ec0378a7df5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || बहुउद्देशीय नदियों को जोड़ने की परियोजना",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-26/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0BB-Ff439GI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2af515e2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e21f09db-a487-47d3-ab2f-bf0cc93e0f69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || भारत में जल संसाधन",
+      "published_date": "03 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-27/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MVwr44B8sKQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2aec4c78.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7a0b0a8-07cf-480c-bcef-9fcd2745bc2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || भूजल के ह्रास के प्रभाव",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243514/kgss-1746446509-v243514.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aSt_TH-0r18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2ae440fa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffbb3274-5a70-45ef-a491-d3b86d088d88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || भारत की जलवायु",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-29/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oIrziaUrEeU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2adb27b2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33468ec4-627a-44c7-bad3-bc56a1aff2a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || उत्तर पश्चिमी मानसून की उत्पत्ति",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245994/kgss-1746710738-v245994.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Xdmg_wv3LiU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YMoZRoYE7ouVMUBBS8GEW7VVMlUUa0V30ZnmWg8h.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b844fcd7-2052-4a8f-844c-b5d7a9e7469f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || मानसून का प्रत्यावर्तन",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246620/kgss-1746797020-v246620.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1EHqKrjM5cU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2acefa3e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4378dd1b-b3ce-4ec6-b300-e87fa55cc0d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || अल नीनो का प्रभाव",
+      "published_date": "10 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-32/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nUhZF92wqVo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2ac75e0b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8c20615-32ee-41df-a146-e8f1051fc8cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || मिट्टी प्रोफाइल",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-33/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BAs5OW9wgeU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2abebf98.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4f2b817-f946-4fef-bdd0-d3417a2d5ff4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || मरुस्थलीकरण",
+      "published_date": "13 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-34/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mjrM4wL48ZQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2ab73109.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1be0c745-1333-4f52-8bf7-e6c65d6a909d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || वनस्पति -01",
+      "published_date": "14 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-35/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MgQj0lKxbOA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2aaeb8f0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb2aec5d-b738-40b6-83a3-3afff16e1eaf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || वनस्पति -02",
+      "published_date": "15 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/252272/kgss-1747315854-v252272.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gVZx3Bl28kI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2aa7026e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37a5145a-d2ad-4093-ab14-1edba1403401.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || जनसांख्यिकीय संक्रमण",
+      "published_date": "16 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-37/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UjYtJsvrsAY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a9eb33e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54adb528-4d71-42a9-a6d2-dc75d9920492.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || ग्रामीण बस्ती",
+      "published_date": "17 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/256077/kgss-1747487819-v256077.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EO7IhH3Syso",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a96f5aa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e8075da-3685-4d75-813c-0c3ab753b7e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 ||  शहरीकरण",
+      "published_date": "19 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-39/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EyL0vQdCoe0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a8eba82.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39d2e727-e808-43c0-aa95-db97d05b9fdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || स्मार्ट शहर",
+      "published_date": "20 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/257144/kgss-1747747880-v257144.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xord0cOicfo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a86eb5f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56306031-453a-44d8-b738-6aac2e624c59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || परिवहन -01",
+      "published_date": "21 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/257878/kgss-1747834222-v257878.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YrK0jynqAlY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6szHi7L3INMwteGeb3O8va1jwT5yAoztcDhcKgGB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6df0cff4-b806-4684-ada5-2cf3e0e10445.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || परिवहन -02",
+      "published_date": "22 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-42/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IZ0V3YWk8lQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a7ad862.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e2c84db-9f3b-4de6-8c66-be9fe1a11e33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || इंडस्ट्रीज",
+      "published_date": "23 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-43/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dg93hC9IagI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a732909.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97f2f3d1-60d4-40da-9784-f8c2530b2cbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || कपास उद्योग दक्षिणपूर्वी राज्य",
+      "published_date": "24 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/262242/kgss-1748092552-v262242.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-9cM4CX-Rfg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a6ac701.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f74944d4-4510-43ed-86cf-382215b1a4ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || कृषि",
+      "published_date": "26 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-45/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D3m2ql6viZc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a632310.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/003fbe70-6ecc-4f53-a079-e67111ef5f1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || जैविक खेती",
+      "published_date": "27 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-46/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bZVs3MKXMOM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a5ac488.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ec1936a-58f2-4089-a257-d83dcca76971.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || शून्य बजट प्राकृतिक खेती",
+      "published_date": "28 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-47/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/La-NQ_CqOAo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a531ab3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Indian Geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ffb02ef-052b-4eb9-ba90-3dcb1cb8209c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || भारत में ऊर्जा",
+      "published_date": "29 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-48/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BZMzviy4bf8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a4ab896.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3326a294-afa3-494f-9e8e-54de32e78a78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || सामाजिक वानिकी",
+      "published_date": "30 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-49/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0C1UP_9Y23k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689cb2a3ef6be.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f218e22-fd28-480e-a5b2-bec0030e9701.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || हिमालयी दर्रे",
+      "published_date": "31 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc2025/in-geo-shankar-jha-sir/l-50/in-geo-uppsc25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CGVgDDGCJM4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fx9faJfyY96hK2nOtGRNBE4lhWSYlOVrUN5G6Y40.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Indian geography by Shankar Jha Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b821ce5-586c-4ab7-b505-6d32ef7ee695.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

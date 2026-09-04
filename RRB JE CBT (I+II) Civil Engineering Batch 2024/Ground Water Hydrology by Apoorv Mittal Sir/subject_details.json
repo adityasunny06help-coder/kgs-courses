@@ -1,0 +1,51 @@
+{
+  "subject_name": "Ground Water Hydrology by Apoorv Mittal Sir",
+  "subject_id": 5789,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Ground Water Hydrology (Part 1)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/nN1baJdqK1Q",
+      "hd_video_url": "https://www.youtube.com/embed/nN1baJdqK1Q",
+      "thumbnail": "https://i.ytimg.com/vi/nN1baJdqK1Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Ground Water Hydrology (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d54af57-aa7b-4fd8-b133-c28c73345a48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Ground Water Hydrology (Part-2)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_Sz7UNzyP3E",
+      "hd_video_url": "https://www.youtube.com/embed/_Sz7UNzyP3E",
+      "thumbnail": "https://i.ytimg.com/vi/_Sz7UNzyP3E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Ground Water Hydrology (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ff75738-a9f1-4296-a4cb-0fde90fa03fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Miscellaneous topics",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/O8h1ixrZ_b4",
+      "hd_video_url": "https://www.youtube.com/embed/O8h1ixrZ_b4",
+      "thumbnail": "https://i.ytimg.com/vi/O8h1ixrZ_b4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Miscellaneous topics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36f26856-41e5-4035-9e4e-8d05c93186e5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

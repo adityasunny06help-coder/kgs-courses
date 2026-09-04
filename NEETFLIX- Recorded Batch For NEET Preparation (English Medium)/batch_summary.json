@@ -1,0 +1,76 @@
+{
+  "batch_info": {
+    "title": "NEETFLIX- Recorded Batch For NEET Preparation (English Medium)",
+    "price": "999",
+    "id": "701",
+    "extracted_date": "2025-08-27T13:38:45.830693"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 7259,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Botany By Anil Pandey (AP Sir) (12th Class)",
+      "id": 8272,
+      "video_count": 104,
+      "note_count": 103
+    },
+    {
+      "name": "Physics By Mohit Agrawal (MA Sir)",
+      "id": 7164,
+      "video_count": 296,
+      "note_count": 292
+    },
+    {
+      "name": "Chemistry By Vineet Dwivedi (VD Sir) (11th Class)",
+      "id": 7279,
+      "video_count": 145,
+      "note_count": 140
+    },
+    {
+      "name": "Chemistry By Vineet Dwivedi (VD Sir) (12th Class)",
+      "id": 7280,
+      "video_count": 105,
+      "note_count": 105
+    },
+    {
+      "name": "Botany By Anil Pandey (AP Sir) (11th Class)",
+      "id": 7239,
+      "video_count": 93,
+      "note_count": 92
+    },
+    {
+      "name": "Zoology By Ashish Yadav (Guru Sir)",
+      "id": 7237,
+      "video_count": 105,
+      "note_count": 104
+    },
+    {
+      "name": "Physics By Mohit Agarwal (Other Material)",
+      "id": 7636,
+      "video_count": 50,
+      "note_count": 47
+    },
+    {
+      "name": "Zoology  Supporting Material",
+      "id": 7238,
+      "video_count": 36,
+      "note_count": 14
+    },
+    {
+      "name": "Chemistry by Ujjwal Piyush Sir(UP Sir) (12th Class IOC)",
+      "id": 8046,
+      "video_count": 44,
+      "note_count": 44
+    },
+    {
+      "name": "Chemistry By Ujjwal Piyush (UP Sir) (11th Class IOC)",
+      "id": 8048,
+      "video_count": 39,
+      "note_count": 36
+    }
+  ]
+}

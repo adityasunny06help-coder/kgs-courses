@@ -1,0 +1,989 @@
+{
+  "subject_name": "Botany By Anil Pandey (NBAP Sir)",
+  "subject_id": 5074,
+  "video_count": 70,
+  "note_count": 70,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Microbes in Human Welfare - 1",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/R_jIVxIj-cw",
+      "hd_video_url": "https://www.youtube.com/embed/R_jIVxIj-cw",
+      "thumbnail": "https://i.ytimg.com/vi/R_jIVxIj-cw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Microbes in Human Welfare - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2fbdf00-cbe2-4b9d-892b-300cd1094657.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Microbes in Human Welfare - 2",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/0bisKe_tOkw",
+      "hd_video_url": "https://www.youtube.com/embed/0bisKe_tOkw",
+      "thumbnail": "https://i.ytimg.com/vi/0bisKe_tOkw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || Microbes in Human Welfare - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04412a99-5944-48e2-9a0b-eeb12570c061.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Microbes in Human Welfare - 3",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Pv4PthVfBWQ",
+      "hd_video_url": "https://www.youtube.com/embed/Pv4PthVfBWQ",
+      "thumbnail": "https://i.ytimg.com/vi/Pv4PthVfBWQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Microbes in Human Welfare - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1eede402-0395-4c6e-8873-8799b975e236.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Biodiversity 1",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/m891ieNlMjQ",
+      "hd_video_url": "https://www.youtube.com/embed/m891ieNlMjQ",
+      "thumbnail": "https://i.ytimg.com/vi/m891ieNlMjQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -4 || Biodiversity 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/812202ee-0ba8-4984-8530-7c3f5795b5ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Biodiversity -2",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/UfrcJZZpNac",
+      "hd_video_url": "https://www.youtube.com/embed/UfrcJZZpNac",
+      "thumbnail": "https://i.ytimg.com/vi/UfrcJZZpNac/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -4 || Biodiversity -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad243de3-c1f9-452f-816e-5b62ad5c455d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 || Biodiversity -3",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/cOb2HmpN3hY",
+      "hd_video_url": "https://www.youtube.com/embed/cOb2HmpN3hY",
+      "thumbnail": "https://i.ytimg.com/vi/cOb2HmpN3hY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -6 || Biodiversity -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8715100b-9a4d-479b-a23f-c3fef31f9893.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 || DPP Discussion of Microbes in Human Welfare",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QljwHzq9ZRQ",
+      "hd_video_url": "https://www.youtube.com/embed/QljwHzq9ZRQ",
+      "thumbnail": "https://i.ytimg.com/vi/QljwHzq9ZRQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -7 || DPP Discussion of Microbes in Human Welfare",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e00eafb6-00b6-48fe-9c45-53d1e5eb65d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -8 || Anatomy (Leaf) - 1",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CGV_YqIJf-0",
+      "hd_video_url": "https://www.youtube.com/embed/CGV_YqIJf-0",
+      "thumbnail": "https://i.ytimg.com/vi/CGV_YqIJf-0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -8 || Anatomy leaf 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b0215cd-9b0c-41f0-8fb6-27c21d979789.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 1 || Sexual Reproduction in Flowering Plants - 1",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IRvOY1gDIJQ",
+      "hd_video_url": "https://www.youtube.com/embed/IRvOY1gDIJQ",
+      "thumbnail": "https://i.ytimg.com/vi/IRvOY1gDIJQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Sexual Reproduction in Flowering Plants 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d117e06f-9299-4eea-be51-feb81e23e816.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 2 || Sexual Reproduction in Flowering Plants - 2",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ov_WBJa7OnU",
+      "hd_video_url": "https://www.youtube.com/embed/ov_WBJa7OnU",
+      "thumbnail": "https://i.ytimg.com/vi/ov_WBJa7OnU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Sexual Reproduction in Flowering Plants 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f59eb080-439d-4e65-98a7-1a83e0e6978a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 3 || Sexual Reproduction in Flowering Plants 3",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5rh3LIfkcqQ",
+      "hd_video_url": "https://www.youtube.com/embed/5rh3LIfkcqQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051817e38b.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Sexual Reproduction in Flowering Plants 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/992ac64b-2608-425d-885d-433ee37fffdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 3 || Sexual reproduction in flowering plants - 3",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5rh3LIfkcqQ",
+      "hd_video_url": "https://www.youtube.com/embed/5rh3LIfkcqQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LE8XOeUUHxIzVm2zZcrI1CagHdE4sbCNGK6Tf5o1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Sexual reproduction in flowering plants - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/992ac64b-2608-425d-885d-433ee37fffdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 4 || Sexual Reproduction in Flowering Plants - 4",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/542JcynTAL4",
+      "hd_video_url": "https://www.youtube.com/embed/542JcynTAL4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805181054b7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Sexual Reproduction in Flowering Plants 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d4a57ed-6a63-42d0-809c-3b8512b31ea9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 5 || Sexual Reproduction in Flowering Plants - 5",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dsrwHDYYxeU",
+      "hd_video_url": "https://www.youtube.com/embed/dsrwHDYYxeU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aLr3nnHjt3bjz5PaBBnQhSYOXzPbsQSqDwV5UI7V.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Sexual Reproduction in Flowering Plants 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7458db74-eff5-498c-bab1-cc491de8273c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 6 || Sexual reproduction in flowering plants - 6",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qgiCTzQy7r8",
+      "hd_video_url": "https://www.youtube.com/embed/qgiCTzQy7r8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051804407b.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Sexual reproduction in flowering plants - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2f4ed9f-9bc4-48ad-99a4-b7156ab8380f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 7 || Sexual reproduction in flowering plants - 7",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/RZOH44K2h4k",
+      "hd_video_url": "https://www.youtube.com/embed/RZOH44K2h4k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517fb8110.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Sexual reproduction in flowering plants - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb68e975-404b-425f-98f4-0a332410ec09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 8 || Sexual reproduction in flowering plants - 8",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/alwYyl_BOWU",
+      "hd_video_url": "https://www.youtube.com/embed/alwYyl_BOWU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517f3f422.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Sexual reproduction in flowering plants - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4496e93a-61a0-42cc-acda-068ec15302fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 9 || Sexual reproduction in flowering plants - 9",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/g96REBecpEw",
+      "hd_video_url": "https://www.youtube.com/embed/g96REBecpEw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517eb83ef.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Sexual reproduction in flowering plants - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/431d06e9-c90f-4bb7-a2ef-5b3a9caa1e66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 10 || Sexual reproduction in flowering plants - 10",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ziJTd-q9jbo",
+      "hd_video_url": "https://www.youtube.com/embed/ziJTd-q9jbo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517e3d835.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Sexual reproduction in flowering plants - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2777c63-7a0d-4240-8899-933c4e25968b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture -11 || Organism & Population - 1",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Vk6VecTr-RQ",
+      "hd_video_url": "https://www.youtube.com/embed/Vk6VecTr-RQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517db3909.jpg",
+      "notes": [
+        {
+          "title": "Lecture -11 || Organism & Population - 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a94f7b3c-62ee-4d18-b138-5737699073d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -12 || Organism & Population - 2",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ulF1eoouBbk",
+      "hd_video_url": "https://www.youtube.com/embed/ulF1eoouBbk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517d3bf0c.jpg",
+      "notes": [
+        {
+          "title": "Lecture -12 || Organism & Population - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c1cdf7a-ae60-4fb1-9594-53fbd91c8c6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -13 || Organism & Population - 3",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/uPECZZ_r1sg",
+      "hd_video_url": "https://www.youtube.com/embed/uPECZZ_r1sg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -13 || Organism & Population - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/974c85f6-5385-4ab8-ac19-1da7bc343b8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -14 || Organism & Population - 4",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/M37_5N9TUD4",
+      "hd_video_url": "https://www.youtube.com/embed/M37_5N9TUD4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517cb5c45.jpg",
+      "notes": [
+        {
+          "title": "Lecture -14 || Organism & Population - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/374b1007-c0dc-4e7a-8101-9b79eba40158.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -15 || Organism & Population - 5",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5qXnltEMd8w",
+      "hd_video_url": "https://www.youtube.com/embed/5qXnltEMd8w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517c38234.jpg",
+      "notes": [
+        {
+          "title": "Lecture -15 || Organism & Population - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/434aaa35-aca9-4661-b0bb-758ea20c9ab7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -16 || Organism & Population - 6",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/f6PhJHarACc",
+      "hd_video_url": "https://www.youtube.com/embed/f6PhJHarACc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517baf5e3.jpg",
+      "notes": [
+        {
+          "title": "Lecture -16 || Organism & Population - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d7342c8-55be-494a-9808-7d423922d7bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture -17 || Ecosystem - 1",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/ykHSnufOI4w",
+      "hd_video_url": "https://www.youtube.com/embed/ykHSnufOI4w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517b36692.jpg",
+      "notes": [
+        {
+          "title": "Lecture -17 || Ecosystem - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f419bae7-0095-48d4-a268-a92e0a3d6ce3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -18 || Ecosystem - 2",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/o1qxlV3_0VI",
+      "hd_video_url": "https://www.youtube.com/embed/o1qxlV3_0VI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517ab17cb.jpg",
+      "notes": [
+        {
+          "title": "Lecture -18 || Ecosystem - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a5f4be6-5d5a-4612-879c-f5c904d5077b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -19 || Molecular Basis of Inheritance - 1",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/zFHQ-enx1-M",
+      "hd_video_url": "https://www.youtube.com/embed/zFHQ-enx1-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517a33bd3.jpg",
+      "notes": [
+        {
+          "title": "Lecture -19 || Molecular Basis of Inheritance - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0a475bc-54f5-4fdc-8279-536c9adb2357.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -20 || Molecular Basis of Inheritance - 2",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/uYt12oZ5qvM",
+      "hd_video_url": "https://www.youtube.com/embed/uYt12oZ5qvM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805179aed43.jpg",
+      "notes": [
+        {
+          "title": "Lecture -20 || Molecular Basis of Inheritance - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44f2efd6-6a85-4c1c-9740-b71ae2d80623.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -21 || Molecular Basis of Inheritance - 3",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/eo_CkTaqF6Y",
+      "hd_video_url": "https://www.youtube.com/embed/eo_CkTaqF6Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517931b05.jpg",
+      "notes": [
+        {
+          "title": "Lecture -21 || Molecular Basis of Inheritance - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d90d4f7d-8455-4fec-85ab-9fb7a357032c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -22 || Molecular Basis of Inheritance - 4",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/3iyvak62D0Q",
+      "hd_video_url": "https://www.youtube.com/embed/3iyvak62D0Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805178a6614.jpg",
+      "notes": [
+        {
+          "title": "Lecture -22 || Molecular Basis of Inheritance - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad821ba4-dc2c-4898-b733-865f4a819dd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture -23 || Molecular Basis of Inheritance - 5",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/F1H2fVeqIZI",
+      "hd_video_url": "https://www.youtube.com/embed/F1H2fVeqIZI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688051782c8ff.jpg",
+      "notes": [
+        {
+          "title": "Lecture -23 || Molecular Basis of Inheritance - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b59258d-9296-4946-bd5f-6b79f6d5b774.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture -24 || Molecular Basis of Inheritance - 6",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/AXlDBquClU4",
+      "hd_video_url": "https://www.youtube.com/embed/AXlDBquClU4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805177a5344.jpg",
+      "notes": [
+        {
+          "title": "Lecture -24 || Molecular Basis of Inheritance - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71c1632d-c646-424a-b73c-c374bc8c0ce8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture -25 || Molecular Basis of Inheritance - 7",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/jv-RBzH-ImM",
+      "hd_video_url": "https://www.youtube.com/embed/jv-RBzH-ImM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805177286f8.jpg",
+      "notes": [
+        {
+          "title": "Lecture -25 || Molecular Basis of Inheritance - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efee8872-8bf0-4e97-9a0d-22940b77e1f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture -26 || Molecular Basis of Inheritance - 8",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/94KGsQX4FAA",
+      "hd_video_url": "https://www.youtube.com/embed/94KGsQX4FAA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805176a2c40.jpg",
+      "notes": [
+        {
+          "title": "Lecture -26 || Molecular Basis of Inheritance - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5412f7c-35c9-4b43-b18c-93f5de0f45be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture -27 || Molecular Basis of Inheritance - 9",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/41D57MlvM4k",
+      "hd_video_url": "https://www.youtube.com/embed/41D57MlvM4k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68805176285d7.jpg",
+      "notes": [
+        {
+          "title": "Lecture -27 || Molecular Basis of Inheritance - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac829b49-f28a-4308-93fb-9eba8d74e6ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture -28 || Molecular Basis of Inheritance - 10",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/Bas7bUmfAX0",
+      "hd_video_url": "https://www.youtube.com/embed/Bas7bUmfAX0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880517566d13.jpg",
+      "notes": [
+        {
+          "title": "Lecture -28 || Molecular Basis of Inheritance - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81ae2b4a-1870-425d-8726-641821673a12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture -29 || Molecular Basis of Inheritance - 11",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/ma0ihdFynQA",
+      "hd_video_url": "https://www.youtube.com/embed/ma0ihdFynQA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0VlfQ8oStmvAU5JMLFib8DTSI2s3sDmgmM8sOJg1.jpg",
+      "notes": [
+        {
+          "title": "Lecture -29 || Molecular Basis of Inheritance - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47c24251-4ca7-4fb0-967b-5c118b88ee74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture -30 || Molecular Basis of Inheritance - 12",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ecm-5yzTlnU",
+      "hd_video_url": "https://www.youtube.com/embed/ecm-5yzTlnU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U3wB0ITol22E31tAh1kQOw4Hf4H309LGOdFptEzO.jpg",
+      "notes": [
+        {
+          "title": "Lecture -30 || Molecular Basis of Inheritance - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48d220f8-24c8-4958-997c-900418ffda55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture -31 || Molecular Basis of Inheritance - 13",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/QnHHiiAsZA8",
+      "hd_video_url": "https://www.youtube.com/embed/QnHHiiAsZA8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vDYY8OoiDbZurpwmBrljNGfY0SyzFkX6dhRnYuLS.jpg",
+      "notes": [
+        {
+          "title": "Lecture -31 || Molecular Basis of Inheritance - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0c41e5e-ff55-4068-8d70-da0d18f5c347.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture -32 || Molecular Basis of Inheritance - 14",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Gb1385oHAoc",
+      "hd_video_url": "https://www.youtube.com/embed/Gb1385oHAoc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QgbLPX9fb3mHcpoUneNtJP8TsUCPEd82ibfP5AOO.jpg",
+      "notes": [
+        {
+          "title": "Lecture -32 || Molecular Basis of Inheritance - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/089e8fe9-52d5-437b-bbc7-6f963733b659.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture -33 || Molecular Basis of Inheritance - 15",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lLRf9UpRfoE",
+      "hd_video_url": "https://www.youtube.com/embed/lLRf9UpRfoE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nBRfyjKtZjIhEbMiqk43X51GsDK8IM2bLUWCsMLX.jpg",
+      "notes": [
+        {
+          "title": "Lecture -33 || Molecular Basis of Inheritance - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/241b72c7-d366-4d8c-a6de-b608f625e6fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture -34 || Molecular Basis of Inheritance - 16",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OODWn-B4CpU",
+      "hd_video_url": "https://www.youtube.com/embed/OODWn-B4CpU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FYmzCWTdoXFkonXSa6oVPeIZ09k3OE3RZRvJL6Sx.jpg",
+      "notes": [
+        {
+          "title": "Lecture -34 || Molecular Basis of Inheritance - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b92941f-f697-45b9-a7c2-7c231378d56a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture -35 || Molecular Basis of Inheritance - 17",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pI3bM4wJVDE",
+      "hd_video_url": "https://www.youtube.com/embed/pI3bM4wJVDE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/E15zMvBQnuKEVrDcPk3hGBhxB7ihMHtJY1EbzxPr.jpg",
+      "notes": [
+        {
+          "title": "Lecture -35 || Molecular Basis of Inheritance - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffa6b4c5-5287-4b5e-bdcb-4f491f6ea67d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture -36 || Molecular Basis of Inheritance - 18",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/A3stHBtEqtc",
+      "hd_video_url": "https://www.youtube.com/embed/A3stHBtEqtc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3MtY5AjNTdb0al6Rhgzdho6mQjnqFXo8vrw0H0EG.jpg",
+      "notes": [
+        {
+          "title": "Lecture -36 || Molecular Basis of Inheritance - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6865b504-fd54-4f53-9a32-7f97d2321da0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture -37 || Molecular Basis of Inheritance - 19",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/2zcrLXKO_lA",
+      "hd_video_url": "https://www.youtube.com/embed/2zcrLXKO_lA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eU1noBWIWR5PKzG9k8iaSnE5YBOtxGitMgzP4Tli.jpg",
+      "notes": [
+        {
+          "title": "Lecture -37 || Molecular Basis of Inheritance - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01122b6a-b0d6-4cb7-abd3-06da50eec5c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture -38 || Molecular Basis of Inheritance - 20",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ih0JQlugnj0",
+      "hd_video_url": "https://www.youtube.com/embed/ih0JQlugnj0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UubCl5WCSQOKtkhjL8odcyuaY47ivNiA1yd9mQJb.jpg",
+      "notes": [
+        {
+          "title": "Lecture -38 || Molecular Basis of Inheritance - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05d29813-6dfb-4a46-b127-e1b6b0a5d6b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture -39 || Molecular Basis of Inheritance - 21",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/3uZ6cE-vsr0",
+      "hd_video_url": "https://www.youtube.com/embed/3uZ6cE-vsr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CD7K3mLdn9oZh2evFpAp7sBxVztXkNi1iK1yl2vW.jpg",
+      "notes": [
+        {
+          "title": "Lecture -39 || Molecular Basis of Inheritance - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2494089f-39fc-4760-882c-8be3e63da159.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 40 || Molecular Basis of Inheritance - 22 ( Test Paper Discussion )",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/khxA9OdY1nw",
+      "hd_video_url": "https://www.youtube.com/embed/khxA9OdY1nw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/knT4gTBSCBobzjRDnPCuT8UCVSzlYubyrlgmXfd0.jpg",
+      "notes": [
+        {
+          "title": "Lecture -40 || Molecular Basis of Inheritance - 22 ( Test Paper Discussion )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1aee3ca3-aacf-420d-9960-034ea66ca86c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 41 || Molecular Basis of Inheritance - 23",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/yjpLR8qtKhk",
+      "hd_video_url": "https://www.youtube.com/embed/yjpLR8qtKhk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g1ElCpcYedc0Fn4TOjxEMGAOP1eDYFjT04Bq7xfR.jpg",
+      "notes": [
+        {
+          "title": "Lecture -41 || Molecular Basis of Inheritance - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/033a44ab-6e48-45a5-8137-f1e205a2b74d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture -42 || Molecular Basis of Inheritance - 24",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kEnjtKQlw3o",
+      "hd_video_url": "https://www.youtube.com/embed/kEnjtKQlw3o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/icFcUkpIsvTpAJk9llWasMeMpLiq46xXyk8xc0gZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture -42 || Molecular Basis of Inheritance - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/441b3213-8904-4961-8506-18db462f25c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 43 || Molecular Basis of Inheritance - 25",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kEaxk-qPdPs",
+      "hd_video_url": "https://www.youtube.com/embed/kEaxk-qPdPs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CsiazoVVctT3YhmAn3TLYDVtohSKfvnzvvnOFVKp.jpg",
+      "notes": [
+        {
+          "title": "Lecture -43 || Molecular Basis of Inheritance - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be6a0398-10c6-472f-8ecf-4a47a5a701f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 44 || Molecular Basis of Inheritance - 26",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/8lULWqZ9Ric",
+      "hd_video_url": "https://www.youtube.com/embed/8lULWqZ9Ric",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WRlOfO14tSk1mWIqbr61R7bLsoQRqmfHhbbnFHdT.jpg",
+      "notes": [
+        {
+          "title": "Lecture -44 || Molecular Basis of Inheritance - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/740e89e1-f77d-4511-b13d-69c73845fb6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture -45 || Molecular Basis of Inheritance - 27",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iFBUOAFVOCg",
+      "hd_video_url": "https://www.youtube.com/embed/iFBUOAFVOCg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lLcwLlXEIxGbsrv9hk6Z5GMfSEHP3ghSgbhuqhLE.jpg",
+      "notes": [
+        {
+          "title": "Lecture -45 || Molecular Basis of Inheritance - 27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e642da0-e189-4f62-985f-f3ecdcd543f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 46 || Principles of Inheritance and Variation - 1",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lunHrX8CkLU",
+      "hd_video_url": "https://www.youtube.com/embed/lunHrX8CkLU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l91yA2mzzk1MUb2yLz2zuczMvHiosd9aYEOILm39.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Principles of Inheritance and Variation - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdc95c51-16c0-42d2-864f-368935a04327.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 47 || Principles of Inheritance and Variation - 2",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/7AqeL1yIgF4",
+      "hd_video_url": "https://www.youtube.com/embed/7AqeL1yIgF4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AgIhl1Of3IljgF1s03W7n1BkMcwlS4ckrczwmRKB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Principles of Inheritance and Variation - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1ecb4ea-037c-4850-a3ee-10e7ca6a3779.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 48 || Principles of Inheritance and Variation - 3",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YVw730sevFQ",
+      "hd_video_url": "https://www.youtube.com/embed/YVw730sevFQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nuixgHXebgWHwtk9WLbAFJxuf6s4mKhYUtxf4Yfp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Principles of Inheritance and Variation - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b3889de-4de9-4ba9-9008-eb3b3cb79a42.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture - 49 || Principles of Inheritance and Variation - 4",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vRcPjWEKSLA",
+      "hd_video_url": "https://www.youtube.com/embed/vRcPjWEKSLA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sBYlDmHotRifgk6js6QHjkaFeY5I84EjDIuHW0hr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Principles of Inheritance and Variation - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87f549ee-20fd-49f6-899b-4c1c8fe6bee7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture - 50 || Principles of Inheritance and Variation - 5",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TIppHbAlM4s",
+      "hd_video_url": "https://www.youtube.com/embed/TIppHbAlM4s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O6QQQUbNbvgurNGZMHfSjKWtvxu7kw4Yb8IrdY5v.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Principles of Inheritance and Variation - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52f4183d-c621-4f4e-852f-3fedec4d8b77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture - 51 || Principles of Inheritance and Variation - 6",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/zAfnXGLva4M",
+      "hd_video_url": "https://www.youtube.com/embed/zAfnXGLva4M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DSwAuC3ggumKdRbtrHbECFpWJYFYnOYXGPm4lraB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Principles of Inheritance and Variation - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/246a8136-1278-4b6e-acc8-f83eb6b7c9ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture - 52 || Principles of Inheritance and Variation - 7",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jyCiOD7795A",
+      "hd_video_url": "https://www.youtube.com/embed/jyCiOD7795A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HOQFrXWNf05kls1T8t1tpdZBOeHorA1fqUIkwuCU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Principles of Inheritance and Variation - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e30196df-691c-4713-9ffb-6a86e2db0168.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture - 53 || Principles of Inheritance and Variation - 8",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/HL9B1xvpF8U",
+      "hd_video_url": "https://www.youtube.com/embed/HL9B1xvpF8U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bWehU0eOa3dh1Eg44lZdbDfcC8exvSagg9OTS8bT.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || Principles of Inheritance and Variation - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25ecf70a-1024-40ea-8011-d4200c236da7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture - 54 || Principles of Inheritance and Variation - 9",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/GfgMzt5cMpI",
+      "hd_video_url": "https://www.youtube.com/embed/GfgMzt5cMpI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/73XspCDvTghvdVI7bSQuYoQvgxDfiyqARDrwoIrU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || Principles of Inheritance and Variation - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4ea5deb-7145-43c5-bcef-ba8bc29baed2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture - 55 || Principles of Inheritance and Variation - 10",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YBXKTvbmfww",
+      "hd_video_url": "https://www.youtube.com/embed/YBXKTvbmfww",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/01QnbwiyUpodr2xSHH6LOstXRMoTpGo61lQiw24r.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || Principles of Inheritance and Variation - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73967f9a-d543-4c71-94dd-d278a69237d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture - 56 || Principles of Inheritance and Variation - 11",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rs9L8vx4wNQ",
+      "hd_video_url": "https://www.youtube.com/embed/rs9L8vx4wNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bvyg0cXz2Tm2lqPGyjmXLADVdIl4YdDzHWcleXRW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || Principles of Inheritance and Variation - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f80b9961-4028-42b3-9733-634954dbe33d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture - 57 || Principles of Inheritance and Variation - 12",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/uITsz1-5604",
+      "hd_video_url": "https://www.youtube.com/embed/uITsz1-5604",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PeFW6ShJds7jVgILK8Nwjsn28FDURBxLf0d3cGy3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || Principles of Inheritance and Variation - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d8f9f7e-9b1d-4c81-86ba-7f9c19922753.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture - 58 || Principles of Inheritance and Variation - 13",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/R8othwdltc0",
+      "hd_video_url": "https://www.youtube.com/embed/R8othwdltc0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lwRUxK1s6Uu5UT0fuchBWB9Mxg7c0Y8BiXT6dMhy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 58 || Principles of Inheritance and Variation - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e91165da-17d8-4d32-b6dc-73484bed74e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture - 59 || Principles of Inheritance and Variation - 14",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/uSWVyZcuFUo",
+      "hd_video_url": "https://www.youtube.com/embed/uSWVyZcuFUo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wFPO9oZ25yEThUwKOXW65GPT3lRIt0NmTLwdls6u.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 59 || Principles of Inheritance and Variation - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f1c9a94-bc47-4e43-b913-dd1775ee7e19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture - 60 || Principles of Inheritance and Variation - 15",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rrS8k3jupNM",
+      "hd_video_url": "https://www.youtube.com/embed/rrS8k3jupNM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1cCEipIVydhhhNwAlzGwUZBUFaieVs2SlHMRNdQN.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 60 || Principles of Inheritance and Variation - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62a969fa-c1f3-46f4-a193-74255f27a4fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture - 61 || Principles of Inheritance and Variation - 16",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/F9IHdRmK_VU",
+      "hd_video_url": "https://www.youtube.com/embed/F9IHdRmK_VU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1mfvPkscS1jwwmBDEtmXZQQ6xvhtPwUIXU1LeDEK.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 61 || Principles of Inheritance and Variation - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c98b90b-172a-4684-bc4f-d855a641954d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

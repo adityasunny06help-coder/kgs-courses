@@ -1,0 +1,51 @@
+{
+  "subject_name": "Law & Order Administration",
+  "subject_id": 5386,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -149 || Development , Democracy",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194869/kgss-1740056820-v194869.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/x8a5kV0UQAM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ESQdL6MNt3NWubUfA6CP1RdjUYaekW6i6blXqfTp.jpg",
+      "notes": [
+        {
+          "title": "Lecture -149 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12c5d56b-293f-47ca-b14f-063a064e18c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -150 || Structure of Police, IG model , Commissioner system",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197630/kgss-1740108303-v197630.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/epTOWNQ7R3g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kqG6O0jkkKC6V2cMZ628MUNI9BFB3AUSxPp37Zn8.jpg",
+      "notes": [
+        {
+          "title": "Lecture -150 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/345cbd10-8b36-4a7d-ac39-0bf7e646d4ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -151 || Criminalization of politics",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198610/kgss-1740384512-v198610.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wxmNEG-_0vo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VemZNDOPlHHz7jKBD3ifwrDVIMRfEeo787sdQWF1.jpg",
+      "notes": [
+        {
+          "title": "Lecture -151 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6887f5ea-af68-4ee3-97a1-db24a5fe4961.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,550 @@
+{
+  "subject_name": "Hindi By Kiran Ma'am",
+  "subject_id": 7030,
+  "video_count": 39,
+  "note_count": 38,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || संज्ञा",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/hZkajPPvJ28",
+      "hd_video_url": "https://www.youtube.com/embed/hZkajPPvJ28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884dd2754126.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || संज्ञा",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c006bbd2-b015-4b3e-87c1-655670ac1e03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || संज्ञा (Part 02)",
+      "published_date": "24 May 2025",
+      "video_url": "https://www.youtube.com/embed/c-qXekjMAaY",
+      "hd_video_url": "https://www.youtube.com/embed/c-qXekjMAaY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884dd26d3f79.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || संज्ञा (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4368c2c0-8716-4654-be20-62cc4331891d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || सर्वनाम",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/yemfcpVsnis",
+      "hd_video_url": "https://www.youtube.com/embed/yemfcpVsnis",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6884dd2626bed.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || सर्वनाम",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb4db219-7c2a-48e4-9e8a-5a4594ab5fe0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || सर्वनाम (Part 02)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/bBOS1X5NaVI",
+      "hd_video_url": "https://www.youtube.com/embed/bBOS1X5NaVI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k0oTnvIoSdXFHiuDh16zLDJkR0q9fmKYzaabl5Ky.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || सर्वनाम (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed854a11-9351-41fb-9737-5cf6b1ed78ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || सर्वनाम (Part 03)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6NdWu0YqvCQ",
+      "hd_video_url": "https://www.youtube.com/embed/6NdWu0YqvCQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tzxBd7s1TJHhTofWltzkJSkglOncSZMAsCMcBoHh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || सर्वनाम (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be60a89c-dc2c-4537-8f4b-53feac6eaa97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || क्रिया (Part-01)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/kBXgX5PP3cg",
+      "hd_video_url": "https://www.youtube.com/embed/kBXgX5PP3cg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/blZm62VUMhUr1KYTCOwVsF1CADsr1cmg4ISUsov8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || क्रिया",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3129ff1f-7c49-40e2-908a-d05cb3df7f9e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || क्रिया (Part-02)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Mgge7UuOYAw",
+      "hd_video_url": "https://www.youtube.com/embed/Mgge7UuOYAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2EXvSGREjpWjvRQk0qEWNgZgBNnVPJNbz5J0mDuc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || क्रिया (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/491c8c1c-48bd-416a-9ec3-7ab663124dae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || क्रिया (Part-03)",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RU8BZh1eeyE",
+      "hd_video_url": "https://www.youtube.com/embed/RU8BZh1eeyE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F71HJMGjBysP6ztQqJDYodV3Fooih2Xu3qYt4bHP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || क्रिया (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/908f7f08-f844-48ec-bcc0-65b1e8b23065.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || विशेषण (Part-01)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cESl-wWmXKw",
+      "hd_video_url": "https://www.youtube.com/embed/cESl-wWmXKw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wBMyXAGdon1VudrbEQOJNlCLmPoNvB5IwUBvQBnc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || क्रिया (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a404d211-0bbd-491d-9d2f-87283adbe20b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || विशेषण (Part-02)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/XIIgH0Pdz1E",
+      "hd_video_url": "https://www.youtube.com/embed/XIIgH0Pdz1E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DXYVIg3p4uULfknc4Ijso189Ot48empOPuZE3vxr.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || विशेषण (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/802856ba-3051-4db6-93fe-cc6d0255aed2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 ||तत्सम तद्भव, देशज एवं विदेशी शब्द (Part-01)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/JTrC6iXhD54",
+      "hd_video_url": "https://www.youtube.com/embed/JTrC6iXhD54",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9XCmr0BkDf02shrp9bKcVtYXtji6jXlPBuR53t67.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || विशेषण (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a8fe582-97b0-468f-b362-fb711b222c88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || तत्सम तद्भव, देशज एवं विदेशी शब्द (Part-02)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/d_93rg6lf8U",
+      "hd_video_url": "https://www.youtube.com/embed/d_93rg6lf8U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fmWd9Cv6jDu6aAw0pOJaZLEN9C6nnaYk5W2wABRt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || विशेषण (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a356de8d-2537-4cd3-8892-3ab9c48d1454.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || तत्सम तद्भव, देशज एवं विदेशी शब्द (Part-03)",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/BXQjD5z5ZWc",
+      "hd_video_url": "https://www.youtube.com/embed/BXQjD5z5ZWc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kLCuJKmDMsq6rP9nsfvfepV9VNoSwvyFheT7s9YF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce854dde-271a-4f84-a911-58fc94699577.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-01)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/sSrxSczArFI",
+      "hd_video_url": "https://www.youtube.com/embed/sSrxSczArFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BhxoRrrJnhOOiOYiZtwrrQsYuqEa2ctYvtgc9kH2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b6b2571-c79a-4c7a-85f1-c0f7d4c4b6e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-02)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E28V3CDXBQ0",
+      "hd_video_url": "https://www.youtube.com/embed/E28V3CDXBQ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nLrzwfttK0415FxMZMp1AFLhTnE6iat0AfqgwWdn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6215891c-e586-4acf-a546-19995445fae2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-03)",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iXGrD3PBvE0",
+      "hd_video_url": "https://www.youtube.com/embed/iXGrD3PBvE0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YcHdPsn5BvLtaTfBvcFNTTPbQhMGqdf0izSpfXPB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ee4d645-b5ee-412e-bebc-1a66636833c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-04)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/e5eslrKQZzE",
+      "hd_video_url": "https://www.youtube.com/embed/e5eslrKQZzE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I4OZjeUwfsuq3dAZScEewyP9CLpOUgsqICj91tyn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || संधि - अर्थ, प्रकार एवं संधि-विच्छेद (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fd607f7-e11b-484a-a324-df76cec8381e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || संधि Practice Question",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LZc1VXNvH_M",
+      "hd_video_url": "https://www.youtube.com/embed/LZc1VXNvH_M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Wvu9NzANQE1ThegGXwdxrZn5QRmvxckYkkKotCDO.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || संधि Practice Question",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f318502c-8805-402a-a93b-f1fafd5c1ef0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 ||  उपसर्ग",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/cGGH0SAyitc",
+      "hd_video_url": "https://www.youtube.com/embed/cGGH0SAyitc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XAFZECUwfVAh5axxYlrJkaypvqx0ReQ4itpkhtf2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || उपसर्ग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d20d857e-fdc5-45b5-9955-ad5e07936962.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 ||  प्रत्यय",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xc4xHEiTi8Q",
+      "hd_video_url": "https://www.youtube.com/embed/xc4xHEiTi8Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UnouOQ7xij4YrgCxJG1FAriPcHRsBAthqQsolSxC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || उपसर्ग (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28a4542a-fe01-479e-a883-e1784d8d2483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 ||  उपसर्ग, प्रत्यय बहुविकल्पीय",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XzrChLCAMu8",
+      "hd_video_url": "https://www.youtube.com/embed/XzrChLCAMu8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jPXXjz6ccwJqL3BYShVlU7bAaJWyLB2kN643d62T.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 ||  उपसर्ग, प्रत्यय बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/243f0eee-9414-4c3a-8a80-be9230ca2a8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || पर्यायवाची शब्द (Part-01)",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/3A-WYOr81eA",
+      "hd_video_url": "https://www.youtube.com/embed/3A-WYOr81eA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CZambE5GEwYEd7d82EKc07joHhC59S0WIXaxrgO8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || पर्यायवाची शब्द (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4194210d-ec0d-49de-9d6e-2b0e2831e273.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || पर्यायवाची शब्द (Part-02)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/AnVmp3-B6Zs",
+      "hd_video_url": "https://www.youtube.com/embed/AnVmp3-B6Zs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/crO9BJb46N3YGKEoisLLqy7sT3mNhaZrUQzaYVBb.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || पर्यायवाची शब्द (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e34e8157-1d5c-41f9-bd84-bb18d8f98ad7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || पर्यायवाची बहुविकल्पीय",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Nndamv_Q4DI",
+      "hd_video_url": "https://www.youtube.com/embed/Nndamv_Q4DI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/INmflYMvxnmB35ac1T9dOFwwfBPjavBYjvCApw0Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || पर्यायवाची शब्द (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af4d8931-6435-40e3-9f06-41efa615138e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || अनेक शब्दों के लिए एक शब्द (Part-01)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Bt719tJ5uT8",
+      "hd_video_url": "https://www.youtube.com/embed/Bt719tJ5uT8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u95Ei36arsoJ3tmhcNLrvTrsOCkxnxVCTcdYwkzu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || पर्यायवाची बहुविकल्पीय (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23da4007-b9f5-4d4a-b219-98f9335aaf04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || अनेक शब्दों के लिए एक शब्द (Part-02)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/bq2xHdR5BDA",
+      "hd_video_url": "https://www.youtube.com/embed/bq2xHdR5BDA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RTYC7uRLUV1hNrXQ8JVnrj2qrxyuym8Oov69VzvB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || अनेक शब्दों के लिए एक शब्द (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0211b5c-0ca3-439a-b1d9-11bbc24b696b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || अनेक शब्दों के लिए एक शब्द बहुविकल्पीय",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cfp3rnqgbQY",
+      "hd_video_url": "https://www.youtube.com/embed/cfp3rnqgbQY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/A8kEhZ5w1Y6tHbAIVp1pOw7JuV1nLWCkPxGtt9Nz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || अनेक शब्दों के लिए एक शब्द बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1460fa31-104f-4734-9f56-a891ccf08f84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || वर्तनी",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Xh3AVBwguzA",
+      "hd_video_url": "https://www.youtube.com/embed/Xh3AVBwguzA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bDYOe7TKTD4ZazcgyOmEuUMY2BAYxt0qr7PCM7jl.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || वर्तनी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e592032f-0038-4e72-bae0-cc7503ef345b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || वर्तनी बहुविकल्पीय",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ARfl_YddTu8",
+      "hd_video_url": "https://www.youtube.com/embed/ARfl_YddTu8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mXVTrbLmEcLO23oJFdQhPiK2fyjWpfsoDzRKnAmn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || वर्तनी बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d358ef0-3e1f-4465-86ee-6c28ae7170ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || वाक्य शुद्धि",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Iqq8v3LX1y8",
+      "hd_video_url": "https://www.youtube.com/embed/Iqq8v3LX1y8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9dS1mEQCGTtTTj48z3r95GXrCdu3rPVJMEFkouwb.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || वाक्य शुद्धि",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e43854d-c1fe-4477-bfc6-e3c5268a8ed4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || काल (Part-01)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/P64CAwAXcN8",
+      "hd_video_url": "https://www.youtube.com/embed/P64CAwAXcN8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l2KkZPYtytnIh6u0r02pOyXVkMflWTw1ROXUOkxk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || वाक्य शुद्धि बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af42b47d-e16f-4e63-be00-ed2622d9072a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || काल बहुविकल्पीय",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/CuHKNHoz--c",
+      "hd_video_url": "https://www.youtube.com/embed/CuHKNHoz--c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wKFLxcWGPhmAwK9ImpIb7ll9Y1A4F6xVomO8NrrU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || काल बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/678b5fca-80f7-44b9-a8bc-838628f4463b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || मुहावरे एवं लोकोक्तियाँ (Part-01)",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/h5YcSsNMeSw",
+      "hd_video_url": "https://www.youtube.com/embed/h5YcSsNMeSw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FiA0Eu32bmqERRmEvyoaSShkCegnQY9a1lzYVps3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || मुहावरे एवं लोकोक्तियाँ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18436561-4b6c-441a-a86b-90fbca464f05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || मुहावरे एवं लोकोक्तियाँ (Part-02)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jsFgeyt_uLQ",
+      "hd_video_url": "https://www.youtube.com/embed/jsFgeyt_uLQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cenSKNi41OB55BCBXrycoXUJXXut4SJthTUyawPB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || मुहावरे एवं लोकोक्तियाँ बहुविकल्पीय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/527a7859-1f28-4bfc-a8cd-87cf6a54c7ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || मुहावरे एवं लोकोक्तियाँ (Part-03)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/weuDXlo3BNU",
+      "hd_video_url": "https://www.youtube.com/embed/weuDXlo3BNU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FskTVLuzGE9mY3DSyWieEKI2Ygb3KVBF9EftduPy.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || अंग्रेजी के पारिभाषिक (तकनीकी) शब्दों के समानार्थक हिन्दी शब्द",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f258a02-d2e1-4003-b8ba-7e6127ffc418.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || मुहावरे एवं लोकोक्तियाँ MCQs",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/RBztUxrcfyk",
+      "hd_video_url": "https://www.youtube.com/embed/RBztUxrcfyk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KdKQ6Lrsov2q9DcUcPgEDYBUQ6Bxnq8q106wMPPz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || मुहावरे एवं लोकोक्तियाँ MCQs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5e0ff58-a40b-4ce4-ad75-b312d2c1ca20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || अंग्रेजी के पारिभाषिक (तकनीकी) शब्दों के समानार्थक हिन्दी शब्द पत्र   (Part-01)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/x6NjIHWKuws",
+      "hd_video_url": "https://www.youtube.com/embed/x6NjIHWKuws",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VgBF4T75UxjV0FzXjJJhwIPGm1gg5tXO3sDEkkdR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 ||  पत्र (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62e448cd-a5f5-47f0-aa5e-5655fa5109be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || विलोम शब्द (Part-01)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/bJOpYTNW8e8",
+      "hd_video_url": "https://www.youtube.com/embed/bJOpYTNW8e8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Fbh6ZPnYeDqdjOrJFPoLr5FvjVxq3ujm0pxSE8yK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || अंग्रेजी के पारिभाषिक (तकनीकी) शब्दों के समानार्थक हिन्दी शब्द पत्र (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed614450-c472-4856-87cb-0f99e2aea753.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 ||  विलोम शब्द (Part-02) Last Class",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ddmRlFPWalQ",
+      "hd_video_url": "https://www.youtube.com/embed/ddmRlFPWalQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/B3HrLKimY4vgjcdVl9dHWrOKhk19ViqQYRz6ReiV.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

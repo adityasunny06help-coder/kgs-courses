@@ -1,0 +1,121 @@
+{
+  "subject_name": "Open Channel Flow by Amanpreet Sir",
+  "subject_id": 5285,
+  "video_count": 8,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Types of Flow",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Bb4uhFekwHk",
+      "hd_video_url": "https://www.youtube.com/embed/Bb4uhFekwHk",
+      "thumbnail": "https://i.ytimg.com/vi/Bb4uhFekwHk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Types of Flow",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8975a30b-7e2d-489b-9981-94f7af2d53c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Sub, Super & Critical Flow",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/_sn2yVShYPM",
+      "hd_video_url": "https://www.youtube.com/embed/_sn2yVShYPM",
+      "thumbnail": "https://i.ytimg.com/vi/_sn2yVShYPM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Sub, Super & Critical Flow",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2aa66ffe-bede-4e8d-bdaf-1be9d9e5e585.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Flow Over Humps",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/MG045C6fhs8",
+      "hd_video_url": "https://www.youtube.com/embed/MG045C6fhs8",
+      "thumbnail": "https://i.ytimg.com/vi/MG045C6fhs8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Flow Over Humps",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fabc0c70-7ac0-4f6f-8ad0-e0a0047fcb38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Chezy's & Manning's Equation",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Xe4OAm5Yz4o",
+      "hd_video_url": "https://www.youtube.com/embed/Xe4OAm5Yz4o",
+      "thumbnail": "https://i.ytimg.com/vi/Xe4OAm5Yz4o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Chezy's & Manning's Equation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba68d457-23f9-4209-a4b5-1e3e637c6b4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Efficient Sections",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/EbMsQqVrbZw",
+      "hd_video_url": "https://www.youtube.com/embed/EbMsQqVrbZw",
+      "thumbnail": "https://i.ytimg.com/vi/EbMsQqVrbZw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Efficient Sections",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4880a610-9192-4466-a35a-c75f0a8a85cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Hydraulic Jump",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/jX_IztS2jb0",
+      "hd_video_url": "https://www.youtube.com/embed/jX_IztS2jb0",
+      "thumbnail": "https://i.ytimg.com/vi/jX_IztS2jb0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Hydraulic Jump",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20e6a8ba-6ddb-4c53-820d-30b80799eb26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Types of Jump",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/IZZfxyT4NXQ",
+      "hd_video_url": "https://www.youtube.com/embed/IZZfxyT4NXQ",
+      "thumbnail": "https://i.ytimg.com/vi/IZZfxyT4NXQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Types of Jump",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16780f6f-f810-445e-9c59-9ddca7e75860.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Flow Profile",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/0CKQbEP7pjo",
+      "hd_video_url": "https://www.youtube.com/embed/0CKQbEP7pjo",
+      "thumbnail": "https://i.ytimg.com/vi/0CKQbEP7pjo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Flow Profile",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d02813e-8361-4a28-9045-2a5af97ca988.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,401 @@
+{
+  "subject_name": "Strength of Materials by Chadha Sir",
+  "subject_id": 1905,
+  "video_count": 28,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Civil Engineering Introduction",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/BKEBFKIu0pA",
+      "hd_video_url": "https://www.youtube.com/embed/BKEBFKIu0pA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/zeY8AwuWq2LjDrMVmxZsDQCPILkr8lZTtKPYYj7G.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Civil Engineering Introduction",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/113c1541-c7ea-4882-9baf-ecec59804911.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Hooke's law & Elongation of the bar || हुक का नियम एवं बार का बढ़ाव",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Rjtpq7ZsgI4",
+      "hd_video_url": "https://www.youtube.com/embed/Rjtpq7ZsgI4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KZ7ezx7Y0YqpCdRJkh5US3HJdwPhlyBALL63abQW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Hooke's law & Elongation of the bar",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/064e3c11-10f4-44c4-bcb9-edc512ba7427.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Elastic Constants || लोचदार स्थिरांक",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/NRB_zPHd3Fo",
+      "hd_video_url": "https://www.youtube.com/embed/NRB_zPHd3Fo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Q1lQiXtTM6MiXmnRZ0kJr1IircPvLfUY1g5O1jZa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Elastic Constants || लोचदार स्थिरांक",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/27a77674-5ba9-4524-bbe5-6a3bd94bc0cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Stress Strain Diagram of Mild steel || माइल्ड स्टील का तनाव आरेख",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/NOi7FVTeFVg",
+      "hd_video_url": "https://www.youtube.com/embed/NOi7FVTeFVg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/M4ulcGwQVStDD2dMvGt9hBAfs3OTETReE1WThaQc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Stress Strain Diagram of Mild steel || माइल्ड स्टील का तनाव आरेख",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a676ba72-4d30-477d-b6c7-4ad6cfaafd29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Thermal stresses || तापीय तनाव",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/_Qrfg4PAKlQ",
+      "hd_video_url": "https://www.youtube.com/embed/_Qrfg4PAKlQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/B7Yxn7q6EtYnIrIdBsyMjGquMtsc4BhoJtsZgsAz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Thermal stresses || तापीय तनाव",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f84a4e9d-745f-459e-8663-376c4b1f3a4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Strain Energy & Type Of Loadings || तनाव ऊर्जा एवं लोडिंग का प्रकार",
+      "published_date": "06 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Lp-mO772Yt8",
+      "hd_video_url": "https://www.youtube.com/embed/Lp-mO772Yt8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/u1jIyYBYkQSNgCSay24eePBGtL0OtnFZu5jdfGj3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Strain Energy & Type Of Loadings || तनाव ऊर्जा एवं लोडिंग का प्रकार",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/53d2723c-eb27-49e5-9ad8-394a89dff3b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Stresses at Different Planes || विभिन्न स्तरों पर तनाव",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Dq2vod32PuU",
+      "hd_video_url": "https://www.youtube.com/embed/Dq2vod32PuU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Wbv0eCRYSLDKBZSbS7QhkIQiHYW5SbVC5jdjgtzL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Stresses at Different Planes || विभिन्न स्तरों पर तनाव",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d60642a3-8ea3-4d2f-8c48-434b58ef3154.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Principal Stresses || प्रधान बल",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/AoHPn8WOBZg",
+      "hd_video_url": "https://www.youtube.com/embed/AoHPn8WOBZg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZOgzT46nd503QNsAfEKEz0QmGN13DZawLB5RkxJn.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Principal Stresses || प्रधान बल",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4169ea37-5cbb-4e8b-aa5a-ad257bf3373e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Mohr's Circle Of Stresses || मोहर का तनाव चक्र",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/KWXKkqStey4",
+      "hd_video_url": "https://www.youtube.com/embed/KWXKkqStey4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UGGxEqPnTYs9qABVnxf7KlwBkzbQn6DQFuAwSZKN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Mohr's Circle Of Stresses || मोहर का तनाव चक्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3e3c5405-1567-4dc4-ad96-4bd814911ddd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Principal Strains || प्रधान उपभेद",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Zr5cM4NEXZo",
+      "hd_video_url": "https://www.youtube.com/embed/Zr5cM4NEXZo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DYL4cuazSssdLXu9SH5s4NnraJ5EBppNLGUQ7pso.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Principal Strains || प्रधान उपभेद",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/6ba54f84-8b39-4412-a776-1dc26e1a99af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11|| Calculation Of Reactions || प्रतिक्रियाओं की गणना",
+      "published_date": "13 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/b_0frzb0Znw",
+      "hd_video_url": "https://www.youtube.com/embed/b_0frzb0Znw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/BHhk1SZV0AFlNnymYlz12ObGSdt0hEYXcsZzlz6Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Calculation Of Reactions || प्रतिक्रियाओं की गणना",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3c30b344-3fec-426b-b70f-d934cbaf3778.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || SFD & BMD For Cantilevers || एसएफडी और बीएमडी कैंटिलीवर",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/QtoVg10jfWM",
+      "hd_video_url": "https://www.youtube.com/embed/QtoVg10jfWM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5MWeJF7mHDJktlVIsJAoedRHrEH4LW6U6AeNREuy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || SFD & BMD For Cantilevers || एसएफडी और बीएमडी कैंटिलीवर",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/50f2cd80-e772-4487-b15f-89117b97f895.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || SFD & BMD For Simply Supported Beams || एसएफडी और बीएमडी समर्थित बीम",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/TZAT_1iair0",
+      "hd_video_url": "https://www.youtube.com/embed/TZAT_1iair0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Lpmlq9nNRUA8suiawDDW4w6SaZmLIwwlyvqnYwLj.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || SFD & BMD For Simply Supported Beams || एसएफडी और बीएमडी समर्थित बीम",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/833ca692-32f4-4306-9448-172f2e8967fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || SFD & BMD For Overhanging Beams || एसएफडी और बीएमडी ओवरहैंगिंग बीम",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/dWFWj1QH5Co",
+      "hd_video_url": "https://www.youtube.com/embed/dWFWj1QH5Co",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/fUC192cMyrErnuuVcUKdgJp5ZLFrHUx1ZwI2Qu57.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || SFD & BMD For Overhanging Beams || एसएफडी और बीएमडी ओवरहैंगिंग बीम",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/026b60d4-1021-44e9-8d7b-ba7c02a2b4b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || SFD & BMD For Internal Hinge || एसएफडी और बीएमडी आंतरिक काज",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/rhRwdbKqhvM",
+      "hd_video_url": "https://www.youtube.com/embed/rhRwdbKqhvM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/e6fu1jaLqaZWod5RNB4kiqNk1XTDcaaaqWJ34lyr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || SFD & BMD For Internal Hinge || एसएफडी और बीएमडी आंतरिक काज",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0ad29f1a-8902-49f0-ac70-83b21d080b38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Bending Equation || बंकन का समीकरण",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/cCQqTnOyclY",
+      "hd_video_url": "https://www.youtube.com/embed/cCQqTnOyclY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Wegk3JcPkYwHhkUQEGxSsuVRjXYQcmJZZI9qE71p.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Bending Equation || बंकन का समीकरण",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c9c3e1c0-66fa-4802-b97e-4f007b6aeb06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Section Modulus || परिच्छेद मापांक",
+      "published_date": "20 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/BllZNqjsrKk",
+      "hd_video_url": "https://www.youtube.com/embed/BllZNqjsrKk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/7dnhixCECai9Je0NIzKZesDwr2vlRRU0oa9yClkb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Section Modulus || परिच्छेद मापांक",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/52bd43df-e642-4544-aaba-a9912043e00b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Combined Bending & Direct Stresses &  Beams Of Uniform Strength  ||एक समान क्षमता वाली बीम",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/W0j4wstTygA",
+      "hd_video_url": "https://www.youtube.com/embed/W0j4wstTygA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/rvyO8mR1y8jlbfMuyVYTVT6SAQWVL9oclkxVMYpG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 | | Combined Bending & Direct Stresses &  Beams Of Uniform Strength  ||एक समान क्षमता वाली बीम",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bda3bd27-8c80-43ea-90f4-967b0209098b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Beams of Uniform Strength And Shear Stress Distribution In Rectangular, Triangular & Diamond Section || आयताकार, त्रिकोणीय और हीरा खंड",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/7yyYL3-WF5w",
+      "hd_video_url": "https://www.youtube.com/embed/7yyYL3-WF5w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EStgCbfbeB86rXEwXs6aMToia8VV1x4TyRHL5Fur.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 | | Beams of Uniform Strength And Shear Stress Distribution In Rectangular, Triangular & Diamond Section || आयताकार, त्रिकोणीय और हीरा खंड",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5d622866-9bec-4647-bc5e-ab23e9431bac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || I Section, T Section & Diamond Section || I सेक्शन, T सेक्शन और डायमंड सेक्शन",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/mNCuKK7ORzI",
+      "hd_video_url": "https://www.youtube.com/embed/mNCuKK7ORzI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/fuOz3WPBRy5X8GHvm56JDyXt04wfLqtJBQJu9d1X.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 | | I Section, T Section & Diamond Section || I सेक्शन, T सेक्शन और डायमंड सेक्शन",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e1708b7a-d68a-46c9-a492-f85f3efeddac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21|| Moment Area Mathod || आघूर्ण-क्षेत्रफल विधि",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/T6s5akzKo3g",
+      "hd_video_url": "https://www.youtube.com/embed/T6s5akzKo3g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3IHfc5a1JHR1La61URpwDJNfjKbUcxjBwqoLBBd7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 | | Moment Area Mathod || आघूर्ण-क्षेत्रफल विधि",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2fe2d00a-279e-4d56-b79b-1b7e4ab01731.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Macaulay's mathod || मैकाले की विधि (डबल इंटीग्रेशन विधि)",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/_0f-k5aMBeU",
+      "hd_video_url": "https://www.youtube.com/embed/_0f-k5aMBeU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8QlUGde0hqa9aDQJZUehD3imTG4gXeLLGoYvrCc7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 | | Macaulay's mathod || मैकाले की विधि (डबल इंटीग्रेशन विधि)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/aa4b7b93-0dd9-4770-a79d-44d2291b5b1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Strain Energy Method || तनाव ऊर्जा विधि",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/G7KK5v5cgSE",
+      "hd_video_url": "https://www.youtube.com/embed/G7KK5v5cgSE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dWs6vCHiRGpAp4Ls3Kq32ouUOenzRpIOVNlgVjuN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 | | Strain Energy Method || तनाव ऊर्जा विधि",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2d9183b0-e194-4d21-a5a1-2651fdb619a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Torsional Equation || मरोड़ समीकरण व्युत्पत्ति",
+      "published_date": "01 May 2024",
+      "video_url": "https://www.youtube.com/embed/yOQx97lqDV4",
+      "hd_video_url": "https://www.youtube.com/embed/yOQx97lqDV4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0GMy86Chy9TmMPxeZXhxnrp6lAA7q41airSsJNR1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 | | Torsional Equation || मरोड़ समीकरण व्युत्पत्ति",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5d3b9356-8082-4d6b-badd-2617d0768632.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Shafts In Connection ||  शाफ्ट से संबंध",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/vQ3tX2cb_TA",
+      "hd_video_url": "https://www.youtube.com/embed/vQ3tX2cb_TA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3tLObOn2AXEKLBGPoySohpZEOiOmvZrEPa0dKXFI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Shafts In Connection ||  शाफ्ट से संबंध",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/74f9ffef-3082-4540-90c0-bcfad47f174b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Struts & Columns || कॉलम और स्ट्रट्स,",
+      "published_date": "03 May 2024",
+      "video_url": "https://www.youtube.com/embed/mqQVioVSayg",
+      "hd_video_url": "https://www.youtube.com/embed/mqQVioVSayg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6xmUKH19ayNU1DOdZz4nmIc1VoKvzAnwLpdjSRaB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Struts & Columns || कॉलम और स्ट्रट्स,",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1127ffbd-e2f7-48e4-ba84-ec75f04d1508.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Theories Of Failure || विफलता के सिद्धांत",
+      "published_date": "04 May 2024",
+      "video_url": "https://www.youtube.com/embed/UZD6YXgPIZk",
+      "hd_video_url": "https://www.youtube.com/embed/UZD6YXgPIZk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kUrOk48HhsTYDQCO468QktOJn3U6KiEku6hKwh9D.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Theories Of Failure || विफलता के सिद्धांत",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a7377ae5-fc3b-4eb8-ac6d-0867f1b27d39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Thin Cylinders & Spheres || पतले, सिलेंडर और गोले",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/5aan8GqRUGk",
+      "hd_video_url": "https://www.youtube.com/embed/5aan8GqRUGk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jOFAnDXZsgwAPQkmc5MxKH9XySI29viGbZkrdGXA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Thin Cylinders & Spheres || पतले, सिलेंडर और गोले",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b7429bdc-8069-48b8-8238-a686ba760187.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

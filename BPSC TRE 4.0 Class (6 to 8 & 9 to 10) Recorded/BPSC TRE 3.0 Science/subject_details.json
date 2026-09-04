@@ -1,0 +1,65 @@
+{
+  "subject_name": "BPSC TRE 3.0 Science",
+  "subject_id": 6879,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Practice Class 1",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/Ct6L3RFUeUs",
+      "hd_video_url": "https://www.youtube.com/embed/Ct6L3RFUeUs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/uoVqrQBHyKa6KMrZKIsBtGBglchP5VuN6QNxh1St.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/09bdb5a3-f083-4497-bd3d-8e7d6ff539e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Practice Class 2",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/-77kZz6W_2c",
+      "hd_video_url": "https://www.youtube.com/embed/-77kZz6W_2c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/BkzfPh5FrCjlt5omvtEB2O0GutrdGLJ3WX8Vm1Jp.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c437d142-2a54-478e-bc3d-e09c8fe6f274.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Practice Class 3",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/ApTkcvTDO10",
+      "hd_video_url": "https://www.youtube.com/embed/ApTkcvTDO10",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/1F9ZiRg6h1RIQP41MPlLZBQxjdKcLFrLlDgolFyd.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/25062b44-9dee-45f4-a6d7-14c68d4e5459.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Practice Class 4",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/34mSrMKGQiI",
+      "hd_video_url": "https://www.youtube.com/embed/34mSrMKGQiI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/JVhCbm6b7bCn8vJhgfESvsu3GKNa8KVRvCuIyTAt.jpg",
+      "notes": [
+        {
+          "title": "Lecture -16 || Chemistry by Avinash Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/57513bc7-8e66-4a80-b191-2a01187cc8c3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,23 @@
+{
+  "subject_name": "Physics by Rahul Gupta Sir",
+  "subject_id": 5638,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Wave - 1",
+      "published_date": "09 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/d7ZTIBkLIlY",
+      "hd_video_url": "https://www.youtube.com/embed/d7ZTIBkLIlY",
+      "thumbnail": "https://i.ytimg.com/vi/d7ZTIBkLIlY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Wave - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bb9dcec-6627-4c64-ba63-996101278058.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

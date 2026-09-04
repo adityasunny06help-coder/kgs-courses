@@ -1,0 +1,648 @@
+{
+  "subject_name": "Economics",
+  "subject_id": 1232,
+  "video_count": 71,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 II Introduction +Sector of Economy-01",
+      "published_date": null,
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/economics-184/l-01/l1.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L1/L1.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 II Sector of Economy-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L2/L2.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L2/L2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 II Sector of Economy-03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L3/L3.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L3/L3.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 II Sector of Economy-04+Production",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L4/L4.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L4/L4.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eaeca14c-7386-498b-b078-5d1af225632b.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 II GDP-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L5/L5.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L5/L5.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d967ab2f-d653-4a6b-a483-567b03936e35.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 II GDP-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L6/L6.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L6/L6.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3fcd4851-d705-4354-83d8-c75e3981dda4.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 II GDP-03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L7/L7.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L7/L7.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//30693598-9aa8-4402-b1cf-31b4e8efb717.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 II Nominal + Real GDP",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L8/L8.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L8/L8.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//856757b0-2bf7-4bee-93b1-b37a8af4cb66.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 II Purchasing Power Parity (PPP)-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L9/L9.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L9/L9.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d30d0a18-5dfa-46e7-a448-d76f7083dfed.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 II Purchasing Power Parity (PPP)-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L10/L10.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L10/L10.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d88a9dfc-2c75-4f93-ad2b-9bd7f93be579.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 II Income-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/new-folder-economy/l-11/l-11.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L11/L11.M3U8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 II Income-02+Unemployment",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L12/L12.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L12/L12.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b8fc505a-3017-489b-8c34-33d0e86a635e.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 II Unemployment+Poverty",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L13/L13.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L13/L13.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 II Poverty-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L14/L14.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L14/L14.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//19a59254-9fc1-40c7-8ea3-293b146014ab.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 II National Income",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L15/L15.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L15/L15.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//86763a87-a531-43f9-a1f4-c22746fc30c6.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 II Economic Planning-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L16/L16.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L16/L16.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b8f6d858-f3fb-4416-9bb6-b475185e47b6.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 II Economic Planning-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L17/L17.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L17/L17.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bec2365b-2de2-42b4-a159-2b0968320623.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 II Economic Planning-03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L18/L18.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L18/L18.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 II Special Economic Zone",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L21/L21.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L21/L21.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4ee2e532-ac27-4854-aa69-741ab6aea3bc.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 II Budget(बजट)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L20/L20.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L20/L20.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//90e3a0f7-84d6-4738-a194-ecae59392e6e.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-22 II Fiscal Deficit (राजकोषीय घाटा)-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L22/L22.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L22/L22.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//75f7503f-5a21-4383-952f-db858c0a87f6.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-23 II Fiscal Deficit (राजकोषीय घाटा)-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L23/L23.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L23/L23.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//17125892-23a6-48ba-b03d-3a4ddaa3024e.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-24 II Tax (कर)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L24/L24.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L24/L24.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0cce5607-df22-43c6-9e8c-fae36d19a008.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-25 II GST (Goods & Service Tax)-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L25/L25.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L25/L25.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33b690da-281b-4971-a611-ccc07ff09012.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-26 II GST (Goods & Service Tax)-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L26/L26.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L26/L26.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//133cefec-0a63-416f-a318-d95ab6edf447.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-27 II Income Tax-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L27/L27.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L27/L27.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ca8d2d9c-cd8a-4a53-aa90-35f41cfe46ba.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-28 II Income Tax-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L28/L28.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L28/L28.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//80c82e0d-feb1-44ca-ac51-181e2096dcc6.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-29 II Balance Payment (भुगतान संतुलन)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L29/L29.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L29/L29.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//58bb4168-1900-4817-8205-ad33ee223ec8.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-30 II Monetary Policy-01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L30/L30.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L30/L30.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//81ebe4bc-4b58-4990-a389-b47597198ca1.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-31 II Monetary Policy-02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L31/L31.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L31/L31.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7851d97a-c415-4115-9e44-508ef467cad8.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-32 II Inflation (मुद्रास्फीति) -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L32/L32.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L32/L32.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-33 II Inflation (मुद्रास्फीति) -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L33/L33.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L33/L33.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0af5e68e-b711-4391-9734-7d9fb778e6a3.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-34 II RBI (Reserve Bank of India)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L34/L34.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L34/L34.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f5c5e8eb-bc25-48c1-ae59-fddb7f4c1cae.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-35 II Banking System -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L35/L35.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L35/L35.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3162a64d-3531-4a91-9238-da875c9a783e.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-36 II Banking System -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L36/L36.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L36/L36.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d43098c9-2de6-4ccf-acd2-53744da249ae.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-37 II Types of Cheque",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/l-37/l-37.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L37/L37.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//be5e0762-53f4-4865-8a0a-ea580e2bb72e.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-38 II Types of Money -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L38/L38.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L38/L38.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fc8061ea-e16b-470a-8a84-01ca3989e6b2.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-39 II Types of Money -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L39/L39.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L39/L39.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//775fdea5-4cdd-4992-9609-9607dfbafd0f.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-40 II Types of Money -03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L40/L40.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L40/L40.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//743f9d3f-3155-4c98-9833-302555193bae.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-41 II Microeconomics",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L41/L41.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L41/L41.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e201ff1c-42ef-4aea-ae62-bb02092bfb6a.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-42 II Types of Goods -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L42/L42.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L42/L42.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e1aaa5c3-1a5b-4d77-a510-93adf79861ed.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-43 II Types of Goods -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L43/L43.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L43/L43.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-44 II Elasticity of Demand -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L44/L44.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L44/L44.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8a0af4da-b083-40d4-a807-37db5c61a410.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-45 II Elasticity of Demand -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L45/L45.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L45/L45.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//70db7438-902e-4b25-be78-1aec7b04dace.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-46 II Types of Market -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L46/L46.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L46/L46.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2359de91-af80-404e-b724-9133fa6346c6.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-47 II Types of Market -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L47/L47.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L47/L47.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9796fb4a-dc1c-4a5f-ae65-8d597d918661.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-48 II Utility (उपयोगिता) -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L48/L48.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L48/L48.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b3bd990b-1e15-4cbf-8458-f0334120cc91.png",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-49 II Utility (उपयोगिता) -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L49/L49.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L49/L49.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//149f6a5b-4be3-4b57-8b93-aca9e8a533da.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-50 II Utility (उपयोगिता) -03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L50/L50.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L50/L50.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//57977444-098e-4013-9850-e10d114c6970.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-51 II Equilibrium State (संतुलित अवस्था) -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L51/L51.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L51/L51.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1719a87c-0f99-42ee-9db8-1dd5f405dd1b.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-52 II Equilibrium State (संतुलित अवस्था) -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L52/L52.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L52/L52.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-53 II Revenue -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L53/L53.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L53/L53.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6c183368-a05e-4afa-9bb2-d95d7d30a940.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-54 II Revenue -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L54/L54.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L54/L54.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c0b51a8e-0ea8-4d2f-abac-31ac769af7d0.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-55 II Company -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L55/L55.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L55/L55.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fefc1869-c7b9-48e1-b8d3-2c1c7b430764.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-56 II Company -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L56/L56.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L56/L56.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f1aecb97-d93a-4ad0-99dd-818a7eff528c.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-57 II SENSEX & NIFTY -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L57/L57.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L57/L57.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c153f379-8064-4d7c-88f9-732f43009045.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-58 II SENSEX & NIFTY -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L58/L58.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L58/L58.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d33ccb6a-4161-4564-9a20-a616de013ed5.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-59 II SENSEX & NIFTY -03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L59/L59.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L59/L59.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//02406073-650f-448e-a4fa-d10ccf1e9e3e.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-60 II SENSEX & NIFTY -04",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L60/L60.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L60/L60.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//150f9094-b432-4c44-9bac-d53feeed01b3.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-61 II महारत्न कम्पनी",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L61/L61.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L61/L61.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//00293db9-3c89-4c32-b000-45b4222b440d.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-62 II Crypto Currency -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L62/L62.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L62/L62.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//84aa2543-0fa1-4358-bd72-2746feaacf8d.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-63 II Crypto Currency -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L63/L63.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L63/L63.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b4192f7c-1164-433d-83ed-edad2b5a14b4.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-64 II Crypto Currency -03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L64/L64.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L64/L64.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a4023be7-a1f1-4880-b7d2-50a48d753fb6.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-65 II Intellectual Property Rights (IPRs)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L65/L65.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L65/L65.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//436f3f8a-a559-4caa-a253-72fe57d221f5.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-66 II International Organization",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L66/L66.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L66/L66.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-67 II Provident Fund(PF)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L67/L67.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L67/L67.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//21725fc9-a326-4937-92f3-f3d2d30e4cbc.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-68 II Core Sector",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L68/L68.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L68/L68.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0e8e4478-331c-4502-af06-ae4be11c6ea4.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-69 II Agriculture -01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L69/L69.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L69/L69.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a138be8b-69d8-485f-80cd-e41b8472d09e.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-70 II Agriculture -02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L70/L70.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L70/L70.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//34acb36d-c41e-4dea-a090-e304582cdce7.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-71 II Industrial Corridor",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/economics-foundation-new/L71/L71.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/economics-foundation-new/L71/L71.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b5712197-8563-4be0-a8bb-618a92ecb3cf.png",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-21 II Public Finance (लोक राजस्व)",
+      "published_date": "13 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/economics-184/l-21/l21.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8zsTkxWLR0Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2fbed481-1799-41fa-a44f-42cc010354ae.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,779 @@
+{
+  "subject_name": "Polity by Sanjay Thakur Sir",
+  "subject_id": 5223,
+  "video_count": 55,
+  "note_count": 55,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Polity || Introduction Class",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193389/kgss-1739499607-v193389.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aKkpLE8PqKM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a5c87d7-2ffd-47b0-8a2c-aba3e514b055.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Polity",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193671/kgss-1739585578-v193671.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qEMkBl6SzH0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/67RBeAr1aLFcas73yWPpRAGaeteSJNQ2rwBhKdqk.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe7c00e5-6037-45b1-a190-60ee0cc2ed7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || भारतीय संविधान || Indian Constitution (Part-2)",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194971/kgss-1739931480-v194971.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iEpASO3RFxY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MOSa8SOaHjWPFLlqFk2vDu1JumZH2QuCGoL5UTi8.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || भारतीय संविधान || Indian Constitution (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da0c15ae-9ad5-4028-9f58-2b6fdf3453eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || भारतीय संविधान || Indian Constitution (Part-3)",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197397/kgss-1740017715-v197397.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XX9gtV-PRoA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CZMQeT4hRylztPE0OrOCodBBlpOsQHEBgHpqvDif.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || भारतीय संविधान || Indian Constitution (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1a16e9e-4b1e-45d1-91c8-fa7065ee2d24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || भारतीय संविधान || Indian Constitution (Part-4)",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197927/kgss-1740103881-v197927.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ARCezUwCFv0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KtSjaFZEXJiTyoHPZmCxjC44viWagJvYeLxKDESH.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || भारतीय संविधान || Indian Constitution (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cd9d6a5-e802-47e1-84d1-bab85ef0bdac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || भारतीय संविधान || Indian Constitution (Part-5)",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198358/kgss-1740190392-v198358.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eVVaUaZzDI8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h5wAuVlPNilA3RYKKGRMYcVvc8Vwn8rfPmqXwoO9.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || भारतीय संविधान || Indian Constitution (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6cda9fa-4fde-4923-9418-54935465e9bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || भारतीय संविधान || Indian Constitution (Part-6)",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199034/kgss-1740363573-v199034.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Z6GXSXwtLlE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 || भारतीय संविधान || Indian Constitution (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d985a4a-b2e2-4df4-bb93-e34d9dfb6701.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || भारतीय संविधान || Indian Constitution (Part-7)",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199433/kgss-1740450136-v199433.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7yy4W5W8EnM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/34UWjBUUM3DKC0o0supGh7PRkYucufwFm0ZRh9aM.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || भारतीय संविधान || Indian Constitution (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d844af05-be42-47fa-9090-15b3fd091a67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || भारतीय संविधान || Indian Constitution (Part-8)",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199985/kgss-1740535893-v199985.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yaZN2v9W-4o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v6JpMIucUcUyrMz4XmPjgvro3OvWElR0zNzCMkvA.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || भारतीय संविधान || Indian Constitution (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc175e5f-a480-4494-811e-9e1c22b7ed6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || भारतीय संविधान || Indian Constitution (Part-9)",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/200014/kgss-1740622457-v200014.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KKoXdlOFxDM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pZpOyFzpvYKO5rpdfzEytBYkM3lRaUOcicH8wkRW.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || भारतीय संविधान || Indian Constitution (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07054bdd-ff4d-48f1-8096-44b62def3073.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || भारतीय संविधान || Indian Constitution (Part-10)",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/200492/kgss-1740708450-v200492.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zq7DB0vnEHc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sXeORfsnVOcT6L2PssoPgZN9zTCEWdHecttUlR19.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || भारतीय संविधान || Indian Constitution (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79415554-a1d2-407a-a236-c5a8d6849a58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || भारतीय संविधान || Indian Constitution (Part-11)",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/200913/kgss-1740795269-v200913.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nHLwTTAjA-I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yRi4BjXtVUnQrAYAbSzUCXLMGCrNwKpC9wk1sUtX.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || भारतीय संविधान || Indian Constitution (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bd9a3c0-cb46-4463-9e37-1ada5ca4c293.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || भारतीय संविधान || Indian Constitution (Part-12)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201575/kgss-1740967686-v201575.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rhZaxBRIS5g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dR8UjV15cJrLZ00XF96B1ciQgHL5BuOyzHQc4JvY.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || भारतीय संविधान || Indian Constitution (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/630e674d-c3b8-43c8-ad77-032353abb3a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || भारतीय संविधान || Indian Constitution (Part-13)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202114/kgss-1741054468-v202114.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QeFKfgWZm7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ySBgj0MNfP0sS0GlrUCL68NRnl5FOswBHj2UZwFL.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || भारतीय संविधान || Indian Constitution (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cbae830-dbc1-46ac-bc65-a743f63dba1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || प्रस्तावना || Preamble",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206415/kgss-1741141225-v206415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OcBXPjhRV9c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/svTxLHA6ykUBlP6SLtjlaCjCvker71MfvZsaJ7GF.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || प्रस्तावना || Preamble",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a456df9d-33c3-432e-87db-4f88396949d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || प्रस्तावना || Preamble",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206824/kgss-1741227212-v206824.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c4s1dtzJe-U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fIq2XVh4iW1DrwTFEdgNAsZdvTUsvekh2eJPaUVM.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || प्रस्तावना || Preamble",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/394bab51-39ac-4a48-b96e-378da583ee9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || मौलिक अधिकार || Fundamental Right",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208323/kgss-1741313536-v208323.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/STBISFiMtNM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/p8M17UYkin1ZuZhLu2j33FesWP22jnK17Ed1AHba.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || प्रस्तावना || Preamble",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8020136b-5f45-46b9-9440-65c385044748.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || मौलिक अधिकार || Fundamental Right (Part-2)",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210137/kgss-1741399334-v210137.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kbeSemielXE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m4BFjDNWvPvorzPQW0guNuozKVGXqcReIOaKuKFk.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || प्रस्तावना || Preamble",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a14bd6c-3f76-4881-9705-270038c0c0bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || मौलिक अधिकार || Fundamental Right (Part-3)",
+      "published_date": "09 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210702/kgss-1741485730-v210702.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tD2pKRlbv-I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/P005XzHZl4Nowuz2g5v4TBQDqPi9c1fGieuXtgwB.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || मौलिक अधिकार || Fundamental Right (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f059a2f3-2af5-4f7c-bf67-0acc62b00c9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || मौलिक अधिकार || Fundamental Right (Part-4)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212574/kgss-1742263820-v212574.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xpNhmKUXMdI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || मौलिक अधिकार || Fundamental Right (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b1958a8-2950-4549-9e45-3d9948ba3161.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || मौलिक अधिकार || Fundamental Right (Part-5)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212964/kgss-1742350098-v212964.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/noPh4bnwIpw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-21 || मौलिक अधिकार || Fundamental Right (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/119bece5-f9fb-486b-a968-5e7d17dc409a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || मौलिक अधिकार || Fundamental Right (Part-6)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/bihar-upsc/boring-road/polity-sanjay-thakur-sir/l-22/polity-upsc-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ETx2DsUi24I",
+      "thumbnail": "https://i.ytimg.com/vi/ETx2DsUi24I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || मौलिक अधिकार || Fundamental Right (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f20ed0a-2d45-4040-bb12-e1c776b332f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || मौलिक अधिकार || Fundamental Right (Part-7)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/214019/kgss-1742523284-v214019.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7heuJsWOBGU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5BJYj9E9c8pDLH8VbhZOeE1rWfbSVkIQcdkNtrtD.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || मौलिक अधिकार || Fundamental Right (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/237fc5dc-723a-4d5e-8331-c2dcdf28f115.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || स्वतंत्रता का अधिकार || Right to Freedom (Part-1)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216655/kgss-1742609077-v216655.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qBbZhlRHLO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jRreOodsAalM7xeIkE5hWGAmBR3YycjBLvOWqbp5.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || स्वतंत्रता का अधिकार || Right to Freedom (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f7f391c-d7bd-438d-b5d9-0f4312fa5153.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || स्वतंत्रता का अधिकार || Right to Freedom (Part-2)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/217582/kgss-1742782040-v217582.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wB0PpaIFdig",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || स्वतंत्रता का अधिकार || Right to Freedom (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faa0b45e-c28d-4117-bf93-a7c728fd30bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || स्वतंत्रता का अधिकार || Right to Freedom (Part-3)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218039/kgss-1742868605-v218039.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xfqvW93NZVw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4CEnEhQeB9OlFSRT5g7hKFu3hE82kTNq8MFTrMFX.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || स्वतंत्रता का अधिकार || Right to Freedom (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c716d030-4bd2-4fff-93c3-637e329dc07f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || स्वतंत्रता का अधिकार || Right to Freedom (Part-4)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218477/kgss-1742955500-v218477.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FV3r9KP9qFk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iMsaJJL2KrfYHqAEaBG8OZCYS5DFpihcVbS0dZ9v.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || स्वतंत्रता का अधिकार || Right to Freedom (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25f5a553-c155-4a27-8238-e1d85d260421.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-2)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218944/kgss-1743041809-v218944.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X9MY6SPU3j0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fgUaxi4kztD9FfTvz2ULwIgQ7Z3LysRgGKLRNrM2.png",
+      "notes": [
+        {
+          "title": "Lecture-28 ||धार्मिक का अधिकार || Right to Religious || (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26d25979-c6c3-4c14-a2c2-21be1ce7d9c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-3)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219214/kgss-1743049568-v219214.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e64YHWmnNRU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FugHYL3uPVC5aqCk30fTzsqunKu4gxs8aUDWGx8S.png",
+      "notes": [
+        {
+          "title": "Lecture-29 ||धार्मिक का अधिकार || Right to Religious || (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65a36d3d-35bf-4c46-881c-5de149e71866.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-4)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219514/kgss-1743128121-v219514.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/feJMBAm5SJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/99kNfJPjn9YR0BbpVh1LQ0HKNg5leXeUyOhEHEev.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32626bbf-f78a-43a1-b492-c37c12f17684.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-5)",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219901/kgss-1743214259-v219901.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yfqs94EBnzg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58da22d9-9f09-45f3-b9bd-cc6a1e6ee33c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-6)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220857/kgss-1743560079-v220857.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1DN-frEnztc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83a5656a-52af-40f7-9118-91f074e698e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || संघवाद के समक्ष चुनौतियां || Challenges before federalism",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221512/kgss-1743646426-v221512.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mPDpzWEZeio",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QynQUz5coBrleT4r13b3eSD3t7R3ugcUvgVQbVQw.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || धार्मिक स्वतंत्रता का अधिकार || Right to Religious freedom || (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6cab7b8-d505-45fe-b47b-0c2601c10da2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222106/kgss-1743733157-v222106.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PKPBHPqQljo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/x78tkyYDvOQ51VWs82eoZngjwMCPVdokhFtrp60u.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3420dbba-b391-4c12-98f0-f8a3e174d12b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism (Part-2)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222459/kgss-1743818109-v222459.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sA_nD9u0350",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kAk7G4CaUu0evejaYMvrJzCvlDHvdm8TOmvIUohv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed5e1d5a-3ca8-463e-b56d-7190b9136fe9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism (Part-3)",
+      "published_date": "06 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223010/kgss-1743904731-v223010.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fHClZjVkejg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Cz13xOrJ7kY7M3bRpMs5HJ8JNXG2MTHckTri9nQL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || शक्तियों का पृथक्करण और वैकल्पिक निवारण तंत्र || Separation of powers and alternative redressal mechanism (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a19b4df6-930b-4815-9071-0ee5d376901d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 ||तुलनात्मक संविधान|| Comparative Constitution|| part 2",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223392/kgss-1744077549-v223392.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kMxEIosVmW4",
+      "thumbnail": "https://i.ytimg.com/vi/kMxEIosVmW4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 ||तुलनात्मक संविधान|| Comparative Constitution|| part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ac75928-0a07-4567-9b67-da1db03f52ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 ||तुलनात्मक संविधान|| Comparative Constitution|| part 3",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224010/kgss-1744164704-v224010.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BBkkhSy22bk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BXVgwfWk5Ue9eOxquznybr1pvVTIxslCN4OtMvnV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 ||तुलनात्मक संविधान|| Comparative Constitution|| part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a63e0d45-de05-4a3a-be37-408a43b44a57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || संसद एवं राज्य विधायिका",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225212/kgss-1744250592-v225212.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BXY-r5R3sHU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/y1Owr3QQv0FEvu8aos2sMcE7wAtev6e6y9goxyvb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Polity ||",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c310005c-439a-4b1c-8af9-86050fe3b4ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || संसद एवं राज्य विधायिका",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226483/kgss-1744337071-v226483.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V3_NSz1cmBk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WwHaMW4YuE31YgicklNdsCabs1kyeO6vaBl4QTnf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || संसद एवं राज्य विधायिका",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9bf9329-eafa-456b-8d12-b104f928649b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 ||  न्यायपालिका की संरचना",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226933/kgss-1744423836-v226933.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HBy_z8jC0rM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H0f8rCsb7SwrxbhGnMBn6EhVozNzP9JeRv3Iitpb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 ||  न्यायपालिका की संरचना",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36c79920-46e4-4a9e-bf5a-ead06af86a65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || शासन के विभिन्न अंग की शक्ति",
+      "published_date": "13 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227373/kgss-1744509192-v227373.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/61ZIFcsPEuo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Aas5ORQMJMCiYN0Yn9kiUaR7VAUHLqxq9MxhdJag.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || शासन के विभिन्न अंग की शक्ति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4eb9afd-7c72-4779-bd93-7bd7ff15cd5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || विधायिका के कार्य || FUNCTIONS OF LEGISLATURE",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227374/kgss-1744596254-v227374.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JVjpbC6MUpI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ePA1C59wb0gPDSxGIYzEP6N7qOjmHXZ6fJiZHQ2q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || विधायिका के कार्य || FUNCTIONS OF LEGISLATURE",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/243f0ba2-5253-495c-8e77-57d207c9e44b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || विधायिका के कार्य|| FUNCTIONS OF LEGISLATURE PART 2",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227383/kgss-1744682935-v227383.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zAXOK1HLQbM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NY2ozUCAqnBZVAjFRpAS2bFhID2MoNGVMgywGdX1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || विधायिका के कार्य|| FUNCTIONS OF LEGISLATURE PART 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74defb6c-4986-47d3-bdaf-247f0f737faa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || State legislature and Parliament || राज्य विधायिका और संसद",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234562/kgss-1745807187-v234562.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PrQNi17VzI4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-45 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddcdcc09-cb2e-466b-9f74-4035b327e507.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 ||Question Paper Discussion",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/241005/kgss-1745980068-v241005.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H4-Qwazg3-I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PijQfFSe8RzVd50NIahgfAuUwuKFhGzwxKWlYiXb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || State legislature and Parliament || राज्य विधायिका और संसद",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25bc0e3b-2eb0-4569-a503-571f509ebc74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Business of Parliament || संसद के कामकाज",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241592/kgss-1746066069-v241592.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/00KLulhPp9s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oRQNGBNYNdMtOywofutjAAIdehJ7jrLjhLJ7bZ6q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/238aa712-57fb-488f-91b7-39535f693804.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || संसदीय समितियाँ और मंत्रिमंडलीय समितियाँ",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/242235/kgss-1746152957-v242235.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kBG2GYm1vls",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PzwL1zOqoNXQ2icRLBukmcK0j8HRfkKnb5uOMh6k.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aea385c9-8a0b-44dc-a9d7-1c57440aad76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || संसदीय समितियाँ || Parliamentary Committees",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243728/kgss-1746411061-v243728.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UKFhzek5PZA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-49 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c51a36c-4a4a-44b7-9269-dc977ca62724.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || भारत के राष्ट्रपति || President of INDIA",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244041/kgss-1746498128-v244041.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/A7hBx8M4p0Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-50 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a632cfe-a5f8-47a8-bef9-2aa9e441e5e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Pressure Groups || दबाव समूह",
+      "published_date": "07 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245423/kgss-1746584019-v245423.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2935gGQua00",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bNw9kysOleVhKuUeADUMDKxoRGBJolNmXhQOCoq0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd29bf6e-4127-40b8-9b60-7bf5c2d5f8b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || चुनाव और प्रतिनिधित्व || Election and Representation",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246112/kgss-1746670765-v246112.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZmfJy71eA8k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lnbaVYnrgMlxrsOVz0X3l3IbWc4Yo4eywX9VaWO9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f7eb051-edc3-42d5-99e1-e5f4b60ca81d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 ||  चुनाव और प्रतिनिधित्व || Election and Representation",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246555/kgss-1746757762-v246555.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FUbk9wFWyb0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B246SvDudPi16fGF3QkwTFBGJ0vXecN23BSVKxZi.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13b75e3d-db79-4d12-acee-f09524040f39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || संवैधानिक निकाय || Constitutional Bodies",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248243/kgss-1747016230-v248243.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lY4oT-WRZKk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iWPQksDM74VQFfLiIgUOeOnn7PwGpacrF7gmOv4o.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7ca105c-335d-40f5-8a0f-b19747ba0e67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || गैर संवैधानिक निकाय || Non constitutional Body",
+      "published_date": "13 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248623/kgss-1747103063-v248623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pPzUO7f--gg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/P0Sgy0D13quHsaQlGXvGzLCpQbhToVinHpQDdF7I.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8006cbf8-ab4a-4426-9950-446979ac0fe0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

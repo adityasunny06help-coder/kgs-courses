@@ -1,0 +1,499 @@
+{
+  "subject_name": "Maths by Neeraj Sir (CSAT)",
+  "subject_id": 5460,
+  "video_count": 35,
+  "note_count": 35,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201633/kgss-1740979021-v201633.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yh8d8XUM73U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/222ef4bd-2325-4370-a678-ad2a8b4a171d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || संख्याओं का वर्गीकरण",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202132/kgss-1741065498-v202132.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lsXxE4-3Fe4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Math  (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c562d2d-290a-41a0-951d-07e1e4f4b1da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || विभाज्यता नियम",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206422/kgss-1741148814-v206422.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sxphzhr9gnE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f532eb84-af0b-4a0b-8c92-da745a430bf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Factors of a Number || किसी संख्या के गुणनखंड ||",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206825/kgss-1741237700-v206825.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2j1NPbuNFts",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c804ede3-299f-4300-ad71-8661730c8201.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Factorial || क्रमगुणित ||",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208326/kgss-1741324238-v208326.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5YtCVTIaUbg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d16755f9-1677-4f37-8d40-28214a52c72a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Doubt Session ||",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/bihar-upsc/boring-road/csat-maths-neeraj-sir/l-06/csat-upsc-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d7dcepRPTo4",
+      "thumbnail": "https://i.ytimg.com/vi/d7dcepRPTo4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3b1f1d3-b338-4e08-b83e-3f2fabc256a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Remainders || शेषफल ||",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210741/kgss-1741580895-v210741.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vuUXcmei_q4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27ebbf97-03d7-4ecb-a61f-eb258f2ffbfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || HCF & LCM || महत्तम समापवर्तक और लघुत्तम समापवर्तक ||",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212967/kgss-1742360751-v212967.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VYfiCz7lmxM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94e81042-868b-4227-9add-83b603954bd4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || महत्तम समापवर्तक और लघुत्तम  समापवर्तक ||",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/bihar-upsc/boring-road/csat-maths-neeraj-sir/l-09/maths-csat-upsc-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/B8M7QDoF2Vw",
+      "thumbnail": "https://i.ytimg.com/vi/B8M7QDoF2Vw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e105af72-9bcb-4a0b-b7ae-f02cfed3e498.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Equation || समीकरण ||",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/214022/kgss-1742532471-v214022.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/J2fmowASOmk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/A5vaZWKn3eIIFBkWqae0XMLJgnhgE7TC0ekPAtYD.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b60dc74-920a-494f-b60a-dd461e0f812c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Equation || समीकरण ||",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216657/kgss-1742619793-v216657.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eZNAitJIBNE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba476cb931.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc9fb45a-babe-4fe9-961b-94abb88d2e8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Questions based on age || आयु पर आधारित प्रश्न ||",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218041/kgss-1742878993-v218041.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MkK8RIxfnC0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba475abe61.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2429376f-5d20-4402-bf0a-746a0b4bc97d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Probability || प्रायिकता ||",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223773/kgss-1744088714-v223773.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QDnbbiXxAxw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-13 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b4986e3-91d0-4aed-b7c0-12baa504826a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ||  Probability || प्रायिकता ||",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224013/kgss-1744174723-v224013.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7r_fiwW_5Hk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-14 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12b36d8e-2893-4e27-b13a-e578f917bba1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ||  Probability || प्रायिकता ||",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225215/kgss-1744262183-v225215.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nFcLOFO84ko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba4749345d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcb1d55b-7dbc-4d0a-93ce-7f47cb46af37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ||Permutation and combination || क्रमचय और संयोजन ||",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226488/kgss-1744347934-v226488.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GQW5f7w5lms",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba4734799f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a1138cf-7f33-4655-a45f-5850aae9907c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Permutation and combination || क्रमचय और संयोजन",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226936/kgss-1744434437-v226936.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Zzx7MihpJhg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba4718effa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb74af70-2c82-429e-99c9-d309982cd155.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Doubt Session",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227389/kgss-1744607212-v227389.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vNjNqYrqyrs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba46f44602.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a82f21ee-77a3-4ae7-8d0b-5e05fb383b77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Percentage || प्रतिशतता Part-1",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227391/kgss-1744692799-v227391.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DlOE-KBUKTs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680ba46b8664a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0703d11c-1fd5-4d5f-a16f-500054b3af85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 ||  Percentage || प्रतिशतता Part-2",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228345/kgss-1744769685-v228345.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/suf7jlYXkW0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b97c7a76-c247-4b53-81bf-dfac1122cb1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Percentage || प्रतिशतता",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228785/kgss-1744855477-v228785.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZxvckWVcnJg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-21 || Math (CSAT)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa6a98a3-0628-4697-b6b0-cac0e45543af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Profit and Loss || लाभ और हानि",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229329/kgss-1744942809-v229329.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RFfMwVJQBQk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-22 || Math CSAT",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e30be61e-37b4-4197-a56d-a5aee0e76ceb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Profit and Loss || लाभ और हानि (Part-2)",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229621/kgss-1745028615-v229621.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zAKttBI2meU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-23 || Profit and Loss || लाभ और हानि (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e467be3f-95b7-4e17-b6a8-52e48db990ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || साधारण ब्याज || Simple Interest",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243734/kgss-1746420517-v243734.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lEmC_tHX2GU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-23 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d62fa4f-bc6a-45ef-89fc-d2574e39eb49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || साधारण ब्याज और चक्रवृद्धि ब्याज || Simple Interest and Compound Interest",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244045/kgss-1746507446-v244045.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ce0CZDAV3kY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-24 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9aa20bc9-7ca4-42dd-b5c7-dc8fed25d91c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || साधारण ब्याज और चक्रवृद्धि ब्याज || Simple Interest and Compound Interest",
+      "published_date": "07 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245425/kgss-1746592876-v245425.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U5_cvXbjjNM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3a95a52-5e20-46af-84c4-c4a285376200.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || अनुपात और समानुपात || Ratio and Proportion",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246114/kgss-1746679521-v246114.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ELBfQFv7qzM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1244683e-8d9f-4837-871d-188252a94c94.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || अनुपात || Proportion",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246562/kgss-1746764431-v246562.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xLL8y7NAR-s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PnFGZgtWHF8NPMknVuoPIFbWSVFV9l61kFQp5JyL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9786f8ca-502c-469c-a94e-ee1794fd5166.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 ||  औसत || Average",
+      "published_date": "10 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246564/kgss-1746843395-v246564.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/okVPGootaqQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5GfQcvbq446wErIEEheSESEBo9XEAiYBZUODH8os.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3cdb06f-e2bb-4795-bfcd-6b8acc8d8e2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 ||  समय और कार्य || Time and Work",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248245/kgss-1747025348-v248245.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LuLz_0TTApg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YEeOlH3S4OtdOOSsQ2WSdVSKzsNFMXha4HMNcCGk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2caf87f-9bed-48e6-97e1-54675f22fbb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || समय और कार्य || Time and Work (Part-2)",
+      "published_date": "13 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248626/kgss-1747112683-v248626.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ssspus3mXAY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11e52fd8-11d3-4ba6-a497-fcbe01688395.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Data sufficiency",
+      "published_date": "14 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/251861/kgss-1747189477-v251861.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4c6lipoCfw0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4613d0bb-9b70-4721-afc3-84c30cb6a4aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || समय, गति और दूरी || Time , Speed and Distance(Part-1)",
+      "published_date": "15 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/252513/kgss-1747275726-v252513.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LeYgxF6igg0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-33 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c667800-ad64-46f2-9b8f-336e15480de6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 ||  समय, गति और दूरी || Time , Speed and Distance (Part-2)",
+      "published_date": "16 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/255595/kgss-1747361919-v255595.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_A3uQnDk7zI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-34 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5120bcc8-d53a-4f31-b914-443c5145143f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 ||  समय, गति और दूरी || Time , Speed and Distance (Part-3)",
+      "published_date": "17 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/256107/kgss-1747447788-v256107.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qJGy-UUcwq8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-35 || Math",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4962f6fa-ade4-446b-a8eb-d893ea82007d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

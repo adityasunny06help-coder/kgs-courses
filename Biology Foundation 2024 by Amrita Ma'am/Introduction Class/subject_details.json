@@ -1,0 +1,23 @@
+{
+  "subject_name": "Introduction Class",
+  "subject_id": 2701,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/EVH3Oma_Chw",
+      "hd_video_url": "https://www.youtube.com/embed/EVH3Oma_Chw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "orientationclass",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f08daa8b-ff67-4150-8e33-bf9b17c7c5aa.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

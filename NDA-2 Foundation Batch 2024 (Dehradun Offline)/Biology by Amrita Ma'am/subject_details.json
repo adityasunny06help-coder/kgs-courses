@@ -1,0 +1,424 @@
+{
+  "subject_name": "Biology by Amrita Ma'am",
+  "subject_id": 3101,
+  "video_count": 30,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introduction & Syllabus discussion",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/LnGz2ujYzcA",
+      "hd_video_url": "https://www.youtube.com/embed/LnGz2ujYzcA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UZjKoxmffauIERK1WOuTpkCPTItsRT3xIBtIHBU1.jpg",
+      "notes": [
+        {
+          "title": "Introduction & Syllabus discussion",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fe855424-d89e-4655-a903-a63ed0b9c34f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture  - 01 || Living & Non Living (सजीव और निर्जीव)",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/4PCruOiXYdg",
+      "hd_video_url": "https://www.youtube.com/embed/4PCruOiXYdg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/tS7sZlo87Q9RkESSO66HXf1TFaEI0ZyITGPcrTdA.png",
+      "notes": [
+        {
+          "title": "Lecture  - 01 || Living & Non Living (सजीव और निर्जीव)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/77d1bf50-9df7-4bb5-99a8-d029bebdc4f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 02 || Cell Biology (कोशिका विज्ञान) Part 01",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/JqZ1M9KkGY8",
+      "hd_video_url": "https://www.youtube.com/embed/JqZ1M9KkGY8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/YzJWLqPIp9N69dash6gjrwlJwrKnE7ki2chYKKAJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Cell Biology (कोशिका विज्ञान) Part 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/31c4efb5-4be7-4a8e-9309-8391bd581f95.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 03 || Cell Biology (कोशिका विज्ञान) Part 02",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/nKuMt3_yHbs",
+      "hd_video_url": "https://www.youtube.com/embed/nKuMt3_yHbs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EM3XJZNQWXcyLZWEY5wcZiRGR86J4MyL9F01Z2gk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Cell Biology (कोशिका विज्ञान) Part 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/824434b4-e11c-49d7-a983-c947659c9fa4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 04 || Cell Organelles (कोशिका अंग) Part 01",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/B-O7lR6lotE",
+      "hd_video_url": "https://www.youtube.com/embed/B-O7lR6lotE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EnQV0REcvvMAJBs2b8hQr0OxezdSGCi7kg8UABRy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Cell Organelles (कोशिका अंग) Part 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a3888f6a-b45f-46c8-a297-ba52da3c77b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 05 || Cell Organelles(कोशिका अंग) Part 02",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/TN4-tpxxrmw",
+      "hd_video_url": "https://www.youtube.com/embed/TN4-tpxxrmw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Cell Organelles(कोशिका अंग) Part 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7f101e9-b1e1-4dec-8f20-4e27dbe5a0f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 06 || Cell Organelles (कोशिका अंग) Part 03",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/xwC15js15a8",
+      "hd_video_url": "https://www.youtube.com/embed/xwC15js15a8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 06 || Cell Organelles (कोशिका अंग) Part 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9cb7f51-93c8-4cfa-8a0c-c0945eb1c60f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 07 || Cell Organelles (कोशिका अंग) Part 04",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/nkvfC9DIjzw",
+      "hd_video_url": "https://www.youtube.com/embed/nkvfC9DIjzw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Cell Organelles (कोशिका अंग) Part 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e0e3953-0709-4b44-a3e0-a27dcd0ccde2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 08 || Prokaryotic and eukaryotic cells and cell biology tests(प्रोकैरियोटिक और यूकेरियोटिक कोशिकाएँ और कोशिका जीव विज्ञान परीक्षण)",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/u5YT154Tda0",
+      "hd_video_url": "https://www.youtube.com/embed/u5YT154Tda0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L8prokaryoticandeukaryoticcellsandcellbiologytests",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a89b5ae-5e94-4827-80a1-471c27752767.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 09 || DNA and RNA (डीएनए और आरएनए) Part 01",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/80k__QTxOAk",
+      "hd_video_url": "https://www.youtube.com/embed/80k__QTxOAk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 09 || DNA and RNA (डीएनए और आरएनए) Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/655d844c-b546-48fc-be0a-1ff7614c814e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 10 || DNA and RNA (डीएनए और आरएनए) Part 02",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/ZgZJT-4BMV4",
+      "hd_video_url": "https://www.youtube.com/embed/ZgZJT-4BMV4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 10 || DNA and RNA (डीएनए और आरएनए) Part 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee87a1ff-5f17-43e5-9f4c-6dff77bba11f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 11 || DNA and RNA (डीएनए और आरएनए) Part-03",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/iYIVe3GMgt0",
+      "hd_video_url": "https://www.youtube.com/embed/iYIVe3GMgt0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l11dnaandrna",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5aabfa90-ca8e-44ce-80ac-4cd651d1e440.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 12 || Skeletal system(कंकाल प्रणाली) part-1",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/0G5QfzdqQrE",
+      "hd_video_url": "https://www.youtube.com/embed/0G5QfzdqQrE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Skeletal system(कंकाल प्रणाली) part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4e5b145-ad17-40ba-a4cb-2f8f2dbfab3a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 13 || Skeletal system(कंकाल प्रणाली) part-2",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/AIjrs6_UFmQ",
+      "hd_video_url": "https://www.youtube.com/embed/AIjrs6_UFmQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Skeletal system(कंकाल प्रणाली) part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b525c867-aa34-4a05-9d6f-878cc1bb0db6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 14 || Skeletal system(कंकाल प्रणाली) part-3",
+      "published_date": "01 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/_LfZ22ZWQ0A",
+      "hd_video_url": "https://www.youtube.com/embed/_LfZ22ZWQ0A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Skeletal system(कंकाल प्रणाली) part-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aede0b9d-9ee3-47ef-ad4a-4c408a76457f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 15 || Bone Joints (हड्डी के जोड़)",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/fWOFM8MNfT8",
+      "hd_video_url": "https://www.youtube.com/embed/fWOFM8MNfT8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Bone Joints (हड्डी के जोड़)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5c2f6da-1517-4a15-a318-d63b671cef7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 16 || Formation of bones and cartilage(हड्डियों और उपास्थि का निर्माण)",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/G0M7Y2HfHtM",
+      "hd_video_url": "https://www.youtube.com/embed/G0M7Y2HfHtM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Formation of bones and cartilage(हड्डियों और उपास्थि का निर्माण)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81d9d479-3455-47df-8f71-907451328d01.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 17 || Human heart(मानव हृदय)",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/zz_yTJg31Y4",
+      "hd_video_url": "https://www.youtube.com/embed/zz_yTJg31Y4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Human heart(मानव हृदय)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ceddcd1-3c93-466c-9164-bef6d305d80d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 18 ||Human Heart & Circulation(मानव हृदय एवं परिसंचरण)",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/azXKiOIRM5U",
+      "hd_video_url": "https://www.youtube.com/embed/azXKiOIRM5U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 18 ||Human Heart & Circulation(मानव हृदय एवं परिसंचरण)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4487c63-2b22-484f-a6c8-df7863accedf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 19 || Blood (रक्त)",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/VClMCKAd7Rw",
+      "hd_video_url": "https://www.youtube.com/embed/VClMCKAd7Rw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Blood (रक्त)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a19c4625-ea73-4903-8f6c-bf057a4debac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 20 || Blood (रक्त)",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/IQ4B3MeJQR0",
+      "hd_video_url": "https://www.youtube.com/embed/IQ4B3MeJQR0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Blood (रक्त)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a53f695d-05e6-45b6-8182-24ccee06081f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 21 || WBC & Platelets (श्वेत रक्त कोशिकाएं एवं प्लेटलेट्स)",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Vm4ylOPnORc",
+      "hd_video_url": "https://www.youtube.com/embed/Vm4ylOPnORc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 21 || WBC & Platelets (श्वेत रक्त कोशिकाएं एवं प्लेटलेट्स)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1824cbf-10e5-4fb8-af3e-91456c876bfd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 22 || Blood Group(रक्त समूह)",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Z_moxjCyezA",
+      "hd_video_url": "https://www.youtube.com/embed/Z_moxjCyezA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Blood Group(रक्त समूह)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1199f9d-dcf6-4cde-ae8d-54bd19f4fc15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 23 || Excretory system(उत्सर्जन प्रणाली )part-1",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/9-veL8WQwdc",
+      "hd_video_url": "https://www.youtube.com/embed/9-veL8WQwdc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Excretory system(उत्सर्जन प्रणाली )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd6a4bcf-aa86-4d14-97de-b03152930a70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Special Announcement by Amarendra Sir & Amrita Ma'am",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/IWuyjVdLQHY",
+      "hd_video_url": "https://www.youtube.com/embed/IWuyjVdLQHY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 24 || Excretory system(उत्सर्जन प्रणाली )part-2",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Qqmxs4lvwkI",
+      "hd_video_url": "https://www.youtube.com/embed/Qqmxs4lvwkI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Excretory system(उत्सर्जन प्रणाली )part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe299153-a6cc-4567-98ae-879627724ff0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 25 || Formation bones and cartilage(हड्डियों और उपास्थि का निर्माण)",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/g3KlNEayE_8",
+      "hd_video_url": "https://www.youtube.com/embed/g3KlNEayE_8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Formation bones and cartilage(हड्डियों और उपास्थि का निर्माण)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/162861c3-9985-4270-8573-643656ff9227.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 25 || Human Brain",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/sZk43hxEuT8",
+      "hd_video_url": "https://www.youtube.com/embed/sZk43hxEuT8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Human Brain",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c42fe12-467f-4a5c-99f5-92f69b9b24ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-26 || Nervous system",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/vRwIcOwREQI",
+      "hd_video_url": "https://www.youtube.com/embed/vRwIcOwREQI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-26 || Nervous system",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63f45dd7-02c3-410d-8295-1374ff4edd39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-27 || Human Diseases",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/CLxXCraoJes",
+      "hd_video_url": "https://www.youtube.com/embed/CLxXCraoJes",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-27 || Human Diseases",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d645f239-cbbc-4fe3-be57-332a30793824.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

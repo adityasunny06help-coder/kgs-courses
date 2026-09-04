@@ -1,0 +1,359 @@
+{
+  "subject_name": "Physics by Sumit Sir",
+  "subject_id": 7798,
+  "video_count": 25,
+  "note_count": 25,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Physics Introduction",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9SWe8C2BFMk",
+      "hd_video_url": "https://www.youtube.com/embed/9SWe8C2BFMk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-01 || Physics Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b8df875-c7d3-476f-b506-81046b86f0ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || परमाणु (Part-1)",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hzVQnBGLCwA",
+      "hd_video_url": "https://www.youtube.com/embed/hzVQnBGLCwA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TYvOJXI8SnOK0L7dPtK64Od45G6nt1LPZZjg8CdE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09a45994-6c17-4f44-b7bf-393afe2ed6d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || परमाणु (Part-2)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/300055/kgss-1752660818-v300055.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eoZh3pvnojc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KSSIqRZC5OO56ZZMpEMpJ6quuPZGNkRl5zBLmpp4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b54c3724-c4ee-42ab-b5c0-f168552777e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || परमाणु (Part-3)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/300966/kgss-1752746901-v300966.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dfalp-SIQQ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ddRzhtOWmww5qBa9q5FJ8vDOM687BYmNfhGc6uP1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4baf9e7-92b5-4b1e-9565-bf857f8ead53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || इलेक्ट्रानिक्स (Part-1)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/301768/kgss-1752833437-v301768.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xYr9U_F2cFw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w9ys1Y8Cf6ji7wkHTgO4MeM54MNMq7SLfbVWTFkI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/438ea8c5-fcb7-4200-a4ff-8922fa4a96ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || इलेक्ट्रानिक्स (Part-2)",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/303413/kgss-1752917231-v303413.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ssLdrP2dCwU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mE4aSFKqBDZDv2p1ZWhhao5JrvDUDtflqdNYkMEs.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/034d034b-33f3-4f7f-a0d4-e8ff628f0fbc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || विद्युत",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304260/kgss-1753003381-v304260.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TNNmM1d9OE4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vuow7mPfGDfsL4maARDAwb4hT13HAeQgkksp9sir.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9afbb955-93f2-4465-9d5c-a8d760b8fddc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || प्रकाश (Part-1)",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304283/kgss-1753012125-v304283.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aE-bZVn2P8A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0Rda3qbFQn7uH2LYEkxyn1E31Tn1sorxe0Hmd8Sj.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2feef73a-755e-4f81-8b0e-36846c5e468d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || प्रकाश (Part-2)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304266/kgss-1753092548-v304266.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fpHW-vhpvg4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GKSSyu57idlsl2YT2Z3Blu5RJuW7jCHE3mVB0ZeH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f170d604-5e34-4278-a57a-2a63b7ab9548.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || प्रकाश (Part-3)",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/o72BhQuPxuI",
+      "hd_video_url": "https://www.youtube.com/embed/o72BhQuPxuI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UCl79k7eQ8lHDusIv7On8hTIp5ixNCz0HGYwAWJO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/489b63cc-ecf2-4109-a97c-69424765371b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || प्रकाश (Part-4)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/306016/kgss-1753251320-v306016.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T8ztydAi8fw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hNzpCbDa95EKlUTyiFvi5OENFgHPCcxjFVlhj0He.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2902793-fde1-4830-ac7f-7cb5ec3b7bf1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || प्रकाश (Part-5)",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/306939/kgss-1753336299-v306939.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pdNjE3y8iVQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jYdodIrDH7MWLarZ4ix23KiWLHVxf8cm8xIy5FRo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27bafbbf-d147-4add-81a7-13dec1021852.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || प्रकाश (Part-6)",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_BXOhRxrcHQ",
+      "hd_video_url": "https://www.youtube.com/embed/_BXOhRxrcHQ",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-13 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cdc960f-491c-4225-86da-ff7c57a8efe4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || ऊष्मा और ऊष्मागतिकी (Part-1)",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/310102/kgss-1753521543-v310102.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LquslwkAuIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a57yEo0fVRzNOxdAqCzVhxFrtfFnXFJOHa49oJHH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a86b6a7e-8081-40fb-bb10-ad6adf86d067.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || ऊष्मा और ऊष्मागतिकी (Part-2)",
+      "published_date": "27 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/310810/kgss-1753608531-v310810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T2b7a1E-GAk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oLhNFnxywsQ3ZFym1iTF2OZuLsQHVxqkodrrtJH6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e88d84a-5bd1-4eca-aad6-9817a54ab74d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || ऊष्मा और ऊष्मागतिकी (Part-3)",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/310836/kgss-1753681864-v310836.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wQUIVcRoBXs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oZlhiUOoC8xCwVgK641YARh3Llu7W7K9A8xGFY3H.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dffd1d3e-671d-4658-b16a-d53ecc42a2d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || पदार्थ की अवस्थाएँ (Part-1)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/311521/kgss-1753768276-v311521.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oN0ewKcGDaA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JD6VWDbCa3KcgQQqoPGz0HcwjwqCWExoNGQ0OcWV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7c7cc5d-71b8-4389-a17e-3291b579c546.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || पदार्थ की अवस्थाएँ (Part-2)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/312553/kgss-1753855114-v312553.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NhNS3XFPwAg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TJ2M1frsHK8B6tTC0xDV8BuxGbnmNOVkbNNX1CJw.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c467810-18ab-4391-b4f7-db210f29fc85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || पदार्थ की अवस्थाएँ (Part-3)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/313641/kgss-1753941547-v313641.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dwJaBN7H6BA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tiOiGz66oNQZnmHW39A0YF8D3in7gxHFwF2jB38B.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6ccca04-e405-4fb7-a1e5-979200eec80b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || तरंग और ध्वनि (Part-1)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/315284/kgss-1754027531-v315284.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UTlEKNKcKtE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LpVuAedC7a7fHr6BcZ1i0ssaKQ0CSHg2D6ZuQSOS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c23c8e6b-d845-4f32-82f6-835d82a654f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || तरंग और ध्वनि (Part-1)",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/315814/kgss-1754126739-v315814.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dAiR9ZaZbPA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OqKCVDLFH9GL6fkKqS3QvSd9B7y6P0wb6TAmDvwf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f8ed29e-6d5c-43c5-947a-686e9a88dfb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || यांत्रिकी (Part-1)",
+      "published_date": "03 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/316551/kgss-1754213027-v316551.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-sn8m5VKBIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/elkvdECK5QYahbX8Cx8Tm2CfnMC67Aytemzn4Lkb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2df329e-a82a-4188-88bd-0d9229e4e319.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || यांत्रिकी (Part-2)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/316597/kgss-1754286766-v316597.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hUBDatwU-qo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RNednDTjsuUeV5tODY13SKwjxvrdF50z5X9VwKxH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f77047f9-51d6-4964-8b9d-89a826428760.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || गुरुत्वाकर्षण",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/317607/kgss-1754373258-v317607.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VwrDJB_n-Dw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zeSFLljXWCqozdvw6C199k2nKKZut2kwqpqDVHKw.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Physics by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fd895e2-f539-4494-bf30-561ef4cd7bfa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || गति || Last Lecture",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/318560/kgss-1754476992-v318560.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ST5wxmxlY-U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oAY4KnuIViYGNMDLFcRQrMRUmb28EVcr896gwYh9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Physics by Sumit Sir || Last Lecture",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e02e4d2-4f3d-48a9-ba09-de0b2ba01ba6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

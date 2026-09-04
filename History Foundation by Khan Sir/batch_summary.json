@@ -1,0 +1,22 @@
+{
+  "batch_info": {
+    "title": "History Foundation by Khan Sir",
+    "price": "300",
+    "id": "562",
+    "extracted_date": "2025-08-27T14:30:40.345831"
+  },
+  "subjects": [
+    {
+      "name": "History by Khan Sir",
+      "id": 5291,
+      "video_count": 91,
+      "note_count": 1
+    },
+    {
+      "name": "History Test",
+      "id": 6508,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

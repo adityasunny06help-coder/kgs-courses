@@ -1,0 +1,1409 @@
+{
+  "subject_name": "Biology by Amrita Ma'am",
+  "subject_id": 5764,
+  "video_count": 100,
+  "note_count": 100,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introductions Class",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ITPsjUMhggM",
+      "hd_video_url": "https://www.youtube.com/embed/ITPsjUMhggM",
+      "thumbnail": "https://i.ytimg.com/vi/ITPsjUMhggM/default.jpg",
+      "notes": [
+        {
+          "title": "Introductions Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c302501e-9b53-4d02-a680-bcc99854fe83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 1 || Cell || कोशिका (Part 01)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/eJWJK2h8LeQ",
+      "hd_video_url": "https://www.youtube.com/embed/eJWJK2h8LeQ",
+      "thumbnail": "https://i.ytimg.com/vi/eJWJK2h8LeQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44dea9be-bbc8-41f6-a679-4e1487db4e47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 2 || Cell || कोशिका (Part 02)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/t487EyBkCbQ",
+      "hd_video_url": "https://www.youtube.com/embed/t487EyBkCbQ",
+      "thumbnail": "https://i.ytimg.com/vi/t487EyBkCbQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Cell || कोशिका (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ed42d10-0b84-4dec-bab3-86c843a15c7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 3 || Cell || कोशिका (Part 03)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_f_ONWKpbZg",
+      "hd_video_url": "https://www.youtube.com/embed/_f_ONWKpbZg",
+      "thumbnail": "https://i.ytimg.com/vi/_f_ONWKpbZg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Cell || कोशिका (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a619875-8c54-423d-a333-489ce7fcd805.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 4 || Cell || कोशिका (Part 04)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/p3B0jrwdxdQ",
+      "hd_video_url": "https://www.youtube.com/embed/p3B0jrwdxdQ",
+      "thumbnail": "https://i.ytimg.com/vi/p3B0jrwdxdQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Cell || कोशिका (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b78f9b1b-ed5f-47c5-9ff8-101bbe987dc9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 5 || Cell || कोशिका (Part 05)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/yPIolvCiCr4",
+      "hd_video_url": "https://www.youtube.com/embed/yPIolvCiCr4",
+      "thumbnail": "https://i.ytimg.com/vi/yPIolvCiCr4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Cell || कोशिका (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33c77164-ec48-4596-b176-d285560e3a6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 6 || Cell || कोशिका (Part 06)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/EqJ4pfl8o-w",
+      "hd_video_url": "https://www.youtube.com/embed/EqJ4pfl8o-w",
+      "thumbnail": "https://i.ytimg.com/vi/EqJ4pfl8o-w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Cell || कोशिका (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3fed721-c5ed-400a-a89e-15e98d21b758.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 7 || Cell || कोशिका (Part 07)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/5z47zKYM7mw",
+      "hd_video_url": "https://www.youtube.com/embed/5z47zKYM7mw",
+      "thumbnail": "https://i.ytimg.com/vi/5z47zKYM7mw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Cell || कोशिका (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a759af1-3985-4020-8b73-e2288a287e04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 8 || Cell || कोशिका (Part 08)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/EldjwJv0OPw",
+      "hd_video_url": "https://www.youtube.com/embed/EldjwJv0OPw",
+      "thumbnail": "https://i.ytimg.com/vi/EldjwJv0OPw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Cell || कोशिका (Part 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0723f0c-c796-4415-a3be-376de221e448.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 9 || Biology MCQ",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/lzKKW9BXzsE",
+      "hd_video_url": "https://www.youtube.com/embed/lzKKW9BXzsE",
+      "thumbnail": "https://i.ytimg.com/vi/lzKKW9BXzsE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Cell Biology Test",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e71df57c-9691-4ea7-993c-f1f77fceefbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 10 || Tissue || ऊतक (Part 01)",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Qow0TElQd8g",
+      "hd_video_url": "https://www.youtube.com/embed/Qow0TElQd8g",
+      "thumbnail": "https://i.ytimg.com/vi/Qow0TElQd8g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ca98e9e-ec5d-4f17-a1c8-79d921ad3770.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 11 || Tissue || ऊतक (Part 02)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/V_uTsdNZf1g",
+      "hd_video_url": "https://www.youtube.com/embed/V_uTsdNZf1g",
+      "thumbnail": "https://i.ytimg.com/vi/V_uTsdNZf1g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Tissue || ऊतक (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/439338e9-dda8-444e-9e40-310989b11164.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 12 || Tissue || ऊतक (Part 03) || MCQ",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/0eVbtS1Tzlc",
+      "hd_video_url": "https://www.youtube.com/embed/0eVbtS1Tzlc",
+      "thumbnail": "https://i.ytimg.com/vi/0eVbtS1Tzlc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Tissue || ऊतक (Part 03) || MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddaa8b56-ea15-4463-9583-7f9b5325a682.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 13 || Nucleic Acid DNA and RNA",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/29Qr_LgmQEk",
+      "hd_video_url": "https://www.youtube.com/embed/29Qr_LgmQEk",
+      "thumbnail": "https://i.ytimg.com/vi/29Qr_LgmQEk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Nucleic Acid DNA and RNA",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8f4bab8-5143-431b-af55-dd20ec83e74c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 14 || Nucleic Acid DNA and RNA (Part 02)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9sgFLeoZwxA",
+      "hd_video_url": "https://www.youtube.com/embed/9sgFLeoZwxA",
+      "thumbnail": "https://i.ytimg.com/vi/9sgFLeoZwxA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3dab5c9-a138-44cf-96db-2f82fe8234bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 15 || Nucleic Acid DNA and RNA (Part 03)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/scV4RuAkL5E",
+      "hd_video_url": "https://www.youtube.com/embed/scV4RuAkL5E",
+      "thumbnail": "https://i.ytimg.com/vi/scV4RuAkL5E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f68421b4-8444-424a-ba81-28c521fbad22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 16 || Human Skeleton System || मानव कंकाल तंत्र (Part 01)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Sv4hSm3B7jE",
+      "hd_video_url": "https://www.youtube.com/embed/Sv4hSm3B7jE",
+      "thumbnail": "https://i.ytimg.com/vi/Sv4hSm3B7jE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72fc58c1-ad1d-4ac9-9b7b-62967d479cf2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 17 || Human Skeleton System || मानव कंकाल तंत्र (Part 02)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/U8a62Q5sBLQ",
+      "hd_video_url": "https://www.youtube.com/embed/U8a62Q5sBLQ",
+      "thumbnail": "https://i.ytimg.com/vi/U8a62Q5sBLQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5e05653-6f80-46d7-a0b3-06568721fc86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 18 || Human Skeleton System || मानव कंकाल तंत्र (Part 03)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/JhnHXtp2vLo",
+      "hd_video_url": "https://www.youtube.com/embed/JhnHXtp2vLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rYx5PH2GSqXRuVHWPo5fRALM7YCzmC020JOzBLiq.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Human Skeleton System || मानव कंकाल तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48a75639-df3b-4826-9d6b-fdf594acd389.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 19 || Human Skeleton System || मानव कंकाल तंत्र (Part 04)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/uvbXA762Gn8",
+      "hd_video_url": "https://www.youtube.com/embed/uvbXA762Gn8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QW6y9rqF8TLzvGqr1Acn9YSUidLRq27xorDEO0nf.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Human Skeleton System || मानव कंकाल तंत्र (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9938d3b-ff58-496b-bece-06121f9d7358.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 20 || Human Skeleton System || मानव कंकाल तंत्र (Part 05) and MCQ",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/JC_00oznjFQ",
+      "hd_video_url": "https://www.youtube.com/embed/JC_00oznjFQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v25rpBTuYMHZQWu83njClEhgYNDpve5sFlcJTw71.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Human Skeleton System || मानव कंकाल तंत्र (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aa109ca-6d64-4d8b-a3da-51fb0d46a903.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 21 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 01)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/gwffGtiKPQo",
+      "hd_video_url": "https://www.youtube.com/embed/gwffGtiKPQo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/seDBIi0k3HDupKGwTaTzQOZbx6JaZHSCnOfEbV85.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f8438a1-1096-4888-b75a-f626fed2de6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 22 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 02)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/nP6BnMRT5Ng",
+      "hd_video_url": "https://www.youtube.com/embed/nP6BnMRT5Ng",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0bFdcVzMYdOl91esrFRMKGaD8DR1HVVilLyvWF30.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d1eeaf7-b8ec-4508-98a5-4d14f032914c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 23 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 03)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zLFF2cUuEgw",
+      "hd_video_url": "https://www.youtube.com/embed/zLFF2cUuEgw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gGGt0a5qVshOaxieXhjCvK6H1GyEwQsF6nChOBgF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0222b136-badb-4908-848b-91793af44e62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 24 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 04)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_bzappfmtMM",
+      "hd_video_url": "https://www.youtube.com/embed/_bzappfmtMM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/d3MFbQbAmikB4DbYXZMX3nSWUxocqUqdBnajLfNN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/346df4e4-f6cd-4888-a436-27c5b2fe81f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 25 || Blood || रक्त ( Part 01)",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ZlomORY8ia0",
+      "hd_video_url": "https://www.youtube.com/embed/ZlomORY8ia0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GITQW9vw7OYVmQIWzrW1Pn4eGjItf5D5ggAeqLyJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Blood Circulatory System || रक्त परिसंचरण तंत्र ( Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd869beb-7876-47e8-af32-813006ff3a8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 26 || Blood || रक्त ( Part 02)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WROXRJPkB-I",
+      "hd_video_url": "https://www.youtube.com/embed/WROXRJPkB-I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QYIDunF0tBsw0344bAquBlW8g5HuHTYDUZGscami.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Blood || रक्त ( Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1eef97ae-8df3-473f-a32c-cb6e00c945d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 27 || Blood || रक्त ( Part 03)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5UeqbKrhzsM",
+      "hd_video_url": "https://www.youtube.com/embed/5UeqbKrhzsM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tfS507np0gwCdg9NwKfrYQqHKqzRvmm9jJQBht74.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Blood || रक्त ( Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faca6e16-4319-478c-9ee9-39c31164b076.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 28 || Blood || रक्त ( Part 04)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7ZiX0_WH3XI",
+      "hd_video_url": "https://www.youtube.com/embed/7ZiX0_WH3XI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/90g5st7v0AwN8SyIQE5lFR3fzRPx78F5HytWGpCt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Blood || रक्त ( Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d373d84d-ccd0-4b1b-baa0-a74ed36bbefb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 29 || Blood || रक्त ( Part 05)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/W_FzhRfGAp8",
+      "hd_video_url": "https://www.youtube.com/embed/W_FzhRfGAp8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kbPFU5QlqiFivpd2MXkgsFlG0xqbnk6vnNTawdwH.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Blood || रक्त ( Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dac954e1-ea7c-471f-ad53-97750e61d678.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 30 || Blood || रक्त ( Part 06)",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/feKGFpJsrfI",
+      "hd_video_url": "https://www.youtube.com/embed/feKGFpJsrfI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VFuxxTfGZZsSyKpRxR7n1SdliLUk3CSsC3p8z1xY.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Blood || रक्त ( Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/707ca606-b818-40ba-854d-ed40082cc40e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 31 || Nutrition and Vitamins || पोषण और विटामिन (Part 01)",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/npwSzRlaKmM",
+      "hd_video_url": "https://www.youtube.com/embed/npwSzRlaKmM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nMgQDUC2g9wkDdANSBVSOmdyGQz1QeCrX1lgSByg.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68aa41be-bb83-406c-aa74-683fe9fd50a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 32 || Nutrition and Vitamins || पोषण और विटामिन (Part 02)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/xfIrGniuZcE",
+      "hd_video_url": "https://www.youtube.com/embed/xfIrGniuZcE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FY6LEvz0Tw3zTHpCsMBs7u4W6wEtirZKgOJg3CDJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Nutrition and Vitamins || पोषण और विटामिन (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf734f93-114f-4ebf-a4a9-f3ff5e1b7dd4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 33 || Nutrition and Vitamins || पोषण और विटामिन (Part 03)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EirV1k543tk",
+      "hd_video_url": "https://www.youtube.com/embed/EirV1k543tk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Gv1VobdDP66Pz5m3fOEP3pdlSO8SLFEef9Dmnt4l.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Nutrition and Vitamins || पोषण और विटामिन (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc9f128c-0433-4992-b4c6-0afaffdc784d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 34 || Nutrition and Vitamins || पोषण और विटामिन (Part 04)",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/0Ep2Y8SwaEs",
+      "hd_video_url": "https://www.youtube.com/embed/0Ep2Y8SwaEs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vTOB7E7Vpb7JcFYP1CS7V5dzTrV9DtxGpkFoG5mJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Nutrition and Vitamins || पोषण और विटामिन (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15f602a1-198f-49c7-8e07-2151f833af8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 35 || Nutrition and Vitamins || पोषण और विटामिन (Part 05)",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/X3bxxzmyuHQ",
+      "hd_video_url": "https://www.youtube.com/embed/X3bxxzmyuHQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3SAVy0yK8G4JjuVosyT8EJAjxUZBn10tqBXTOWN5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Nutrition and Vitamins || पोषण और विटामिन (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab9f7626-bac7-4249-9cd9-9b8af7c63d1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 36 || Nutrition and Vitamins || पोषण और विटामिन (Part 06)",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/nYltEJvOnyw",
+      "hd_video_url": "https://www.youtube.com/embed/nYltEJvOnyw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DCfpHuoPMmQyz4qWCiey9FmYhSR8VHJ8s28mv4Jc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Nutrition and Vitamins || पोषण और विटामिन (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b3f5949-9244-434b-ad6a-409999a1534d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 37 || Nutrition and Vitamins || पोषण और विटामिन (Part 07)",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/CxJL0PaRO0o",
+      "hd_video_url": "https://www.youtube.com/embed/CxJL0PaRO0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KOQ0DaaJbem3e3pa1YCJD0Q1qd9TzDGaBscKX8Qe.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Nutrition and Vitamins || पोषण और विटामिन (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a35c02ae-779a-48d8-b9c9-1b32a1a8a2ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 38 || Digestive System || पाचन तंत्र (Part 01)",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/E-rLQSoOlgQ",
+      "hd_video_url": "https://www.youtube.com/embed/E-rLQSoOlgQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dYXgadWZiwyUBa3E8w92y0EGonn6vT2iBclCk7Pt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f122932-3dfc-40da-bd19-32cac238330c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 39 || Digestive System || पाचन तंत्र (Part 02)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/WYNe1qXh0UQ",
+      "hd_video_url": "https://www.youtube.com/embed/WYNe1qXh0UQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2yTKnWBXq2ZgZPJSKKmIVa0tskrVXg0RYGXXGQfs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Digestive System || पाचन तंत्र (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8ca08af-0704-4241-9b56-a5ca053b753c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 40 || Digestive System || पाचन तंत्र (Part 03)",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/WgESuFMP5fI",
+      "hd_video_url": "https://www.youtube.com/embed/WgESuFMP5fI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UtKKy2JiQSQ3itwxWY8mK4B2NYrZIkLIhqf87ntW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Digestive System || पाचन तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/058ae309-ba35-41f1-ab10-737c5e9d49f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 41 || Digestive System || पाचन तंत्र (Part 04)",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/lrKM8AoBI3A",
+      "hd_video_url": "https://www.youtube.com/embed/lrKM8AoBI3A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oApL8zqVsYc2YvMMXvOCntNxmroxCBSptnHwjaeD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Digestive System || पाचन तंत्र (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cc2cb0d-92e2-4671-9540-847e5708cbdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 42 || Digestive System || पाचन तंत्र (Part 05)",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/4mM7U--aPWA",
+      "hd_video_url": "https://www.youtube.com/embed/4mM7U--aPWA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ewk6kOqVgzaeJDY1Hy32mW4f0DhUpqB6zCs5cVt2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Digestive System || पाचन तंत्र (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab5aa06a-ae17-42e4-b27d-a42cb2df6e17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 43 || Digestive System || पाचन तंत्र (Part 06)",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/Wvz3JDQCUsg",
+      "hd_video_url": "https://www.youtube.com/embed/Wvz3JDQCUsg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3Ut0R3APoFpfqM7WHv6jTp10wT5A7OmuwEvzgfu2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Digestive System || पाचन तंत्र (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/080c6324-e6c8-4b5d-880c-cbffed0d34cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 44 || Digestive System || पाचन तंत्र || MCQ",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/JjWwDIsf0xY",
+      "hd_video_url": "https://www.youtube.com/embed/JjWwDIsf0xY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eLsX5vjTEj09O3jExHTKmzKhBUkrTQQCc8g5wBrE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Digestive System || पाचन तंत्र (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03a8a64d-3ce1-4d34-8ff1-2bd6526b9b4b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 45 || Respiratory System || श्वसन तंत्र (Part 01)",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/1I-pdVZ1dpQ",
+      "hd_video_url": "https://www.youtube.com/embed/1I-pdVZ1dpQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Y4E6KoyAvaQTeRUiOcUnwK9JxroJpEU76QyZXxSC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Digestive System || पाचन तंत्र (Part 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d633d72e-4dd6-42ba-b873-618aaf3af9c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 46 || Respiratory System || श्वसन तंत्र (Part 02)",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/HR0gRta23qk",
+      "hd_video_url": "https://www.youtube.com/embed/HR0gRta23qk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UB9TcNHUBOhViTCSLkjB2ZwqdJHGAJoSmeOKlQfp.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Blood Circulatory System || रक्त परिसंचरण तंत्र (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef641720-fdb9-421d-9048-41e8038174ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 47 || Respiratory System || श्वसन तंत्र (Part 03)",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/RlwhSI7Of8E",
+      "hd_video_url": "https://www.youtube.com/embed/RlwhSI7Of8E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dP8xXUOHdcXuH3XSHIuJj7e2PhFlEuD32ZmeQSQP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 || Blood Circulatory System || रक्त परिसंचरण तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2324f0e5-cc29-44e0-8602-3d4de8a9859c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 48 || Respiratory System || श्वसन तंत्र (Part 04)",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/gQfiSS6L2T4",
+      "hd_video_url": "https://www.youtube.com/embed/gQfiSS6L2T4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xdv4wjHLXqrUyBDAw7ZKb2jom2FuUg3SVMIBqX37.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Blood Circulatory System || रक्त परिसंचरण तंत्र (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86599514-d286-441f-977f-4c8c0cbb31f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 49 || Excretory System || उत्सर्जन तंत्र (Part 01)",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/bsV-vCc0DQg",
+      "hd_video_url": "https://www.youtube.com/embed/bsV-vCc0DQg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SX4GePp4dUcnaxv1UfCHwpEIq5YipE8OdYAfnP3J.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Respiratory System || श्वसन तंत्र (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6c906e3-d506-4755-94bc-bfb813cabdcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 50 || Excretory System || उत्सर्जन तंत्र (Part 02)",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/HPltkPbiv-Q",
+      "hd_video_url": "https://www.youtube.com/embed/HPltkPbiv-Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/izA3dYpjQSJ7zWOdRLL9Oyv737jybOx9tgt7Csr3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Biology by Amrita Mam",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30c909e5-0cfc-403c-82d2-6114a047f8c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 51 || Excretory System || उत्सर्जन तंत्र (Part 03)",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/jQzxJyBG_TY",
+      "hd_video_url": "https://www.youtube.com/embed/jQzxJyBG_TY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/l6RzLbFzQvBpIrnXIz5BTHmFAZXduYEgpep39G9s.jpg",
+      "notes": [
+        {
+          "title": "Lecture 51 || Excretory System || उत्सर्जन तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fe4fb90-69aa-4e4a-b397-985b6f8ab31e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 52 || Nervous System || तंत्रिका तंत्र (Part 01)",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/87CFCnJ9J2M",
+      "hd_video_url": "https://www.youtube.com/embed/87CFCnJ9J2M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MlTyIbMRl9flKNHpVxXfm9vAtAp8Db8Q2lBvchON.jpg",
+      "notes": [
+        {
+          "title": "Lecture 52 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20f09cad-943c-47f9-942d-3d0bb44fa4e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 53 || Nervous System || तंत्रिका तंत्र (Part 02)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/w-z07FOC_yQ",
+      "hd_video_url": "https://www.youtube.com/embed/w-z07FOC_yQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zlDuj2ogYdasXljXmAn6tlVEppy08LfstJzt8Ye8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 53 || Nervous System || तंत्रिका तंत्र (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/280619d5-9869-4f52-8e73-597206c443be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 54 || Nervous System || तंत्रिका तंत्र (Part 03)",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/kNiYWbpjraA",
+      "hd_video_url": "https://www.youtube.com/embed/kNiYWbpjraA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/esNTcpVrcgk9vRBzyMRCdniu36oigxjBOO4BfWPK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 54 || Nervous System || तंत्रिका तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29b61c15-448b-47c2-92da-66b646113c92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 55 || Nervous System || तंत्रिका तंत्र (Part 04)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/G5U41vwbR4Q",
+      "hd_video_url": "https://www.youtube.com/embed/G5U41vwbR4Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TaxzwwrRXHNk4Ph3S2XEUeRePEpa76mjHHxWwZSv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 55 || Nervous System || तंत्रिका तंत्र (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/852390e3-7e68-4716-9529-d097da615479.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 56 || Nervous System || तंत्रिका तंत्र (Part 05)",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/TjgR6NWN25U",
+      "hd_video_url": "https://www.youtube.com/embed/TjgR6NWN25U",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 56 || Nervous System || तंत्रिका तंत्र (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2195af6-78c7-4488-a554-ab344e8a7ce6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 57 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 01)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/JwIP4_qNso0",
+      "hd_video_url": "https://www.youtube.com/embed/JwIP4_qNso0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wCAQusQLv1Rdwh82qiYhSNWZa2ypgE9mQ62YSDAJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 57 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee8de867-993f-47ba-97b4-46356e50cdd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 58 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 02)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tmAXy6nnNJk",
+      "hd_video_url": "https://www.youtube.com/embed/tmAXy6nnNJk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/p9HYSoLq4MzspVJar7hF8Ga1XRcuZHvSag198yqh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 58 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2699407-b3a3-42cb-9199-24dc11b98081.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 59 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 03)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/14hrFDy3giA",
+      "hd_video_url": "https://www.youtube.com/embed/14hrFDy3giA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CjP3H6EilX2rRYsv2TXMuhVdHURvPl7dH5iFY6vu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 59 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8e8d91d-523d-491b-a92e-ee77797a18bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 60 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 04)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OGVf3gbdCPg",
+      "hd_video_url": "https://www.youtube.com/embed/OGVf3gbdCPg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xUlxqJTGWgRTNNafQGZLFA3QrjKVqxtqtosfJvAZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 60 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/612b4ed8-f632-412e-b0aa-d8a4e05102c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 61 || Reproductive System || प्रजनन तंत्र (Part 01)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/1ojneAVcgKs",
+      "hd_video_url": "https://www.youtube.com/embed/1ojneAVcgKs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tEQsSiJN17cPGyFAwwS61mdc4HC1Y6St8lYUjiXO.jpg",
+      "notes": [
+        {
+          "title": "Lecture 61 || Endocrine Glands || अंतःस्रावी ग्रंथि (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f093337-97b4-4af2-b3a1-b87312c5586f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 62 || Reproductive System || प्रजनन तंत्र (Part 02)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/YOCKkkZ1sSg",
+      "hd_video_url": "https://www.youtube.com/embed/YOCKkkZ1sSg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NN1EVPATjjrX7Mo8NkSsjIPB9jl175ZNIdwLo6E3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 62 || Reproductive System || प्रजनन तंत्र (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f97f579d-b7e5-43ed-91a5-95ed4984d72e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 63 || Reproductive System || प्रजनन तंत्र (Part 03)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OwrpnZOwWAw",
+      "hd_video_url": "https://www.youtube.com/embed/OwrpnZOwWAw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dY7yLzrNgGpFoUXkkbdDDkjTLbZi2pyxmvbFOB0q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 63 || Reproductive System || प्रजनन तंत्र (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21582510-d822-4d7d-a507-b10ea5689a23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 64 || Reproductive System || प्रजनन तंत्र (Part 04)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/H3EeTnP308I",
+      "hd_video_url": "https://www.youtube.com/embed/H3EeTnP308I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jpmIR1GbN8RpMzpWpZbZLtyTMZgrVW67T6gzRrxK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 64 || Reproductive System || प्रजनन तंत्र (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d08da98d-c0c6-4c1d-9d0f-5a3beb5974fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 65 || Reproductive System || प्रजनन तंत्र (Part 05)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/3Gcr0pqX7Hg",
+      "hd_video_url": "https://www.youtube.com/embed/3Gcr0pqX7Hg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dbUCp7pYylw4omDdlT4cbLfY6udciAumJGEYOF3e.jpg",
+      "notes": [
+        {
+          "title": "Lecture 65 || Reproductive System || प्रजनन तंत्र (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15cd551a-2fe4-4466-93e6-a681534cf7d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 66 || Reproductive System || प्रजनन तंत्र (Part 06)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lnwuO2UvK7Q",
+      "hd_video_url": "https://www.youtube.com/embed/lnwuO2UvK7Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/npWUvaICM5Xmv6R2OMr64LMY2pvcB40kDS0Pv35g.jpg",
+      "notes": [
+        {
+          "title": "https://www.youtube.com/embed/lnwuO2UvK7Q",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c01fcd57-a1a1-41ab-ac2c-3d7426526624.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture 67 || Taxonomy || वर्गीकरण विज्ञान (Part 01)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ezB14Dd81_4",
+      "hd_video_url": "https://www.youtube.com/embed/ezB14Dd81_4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k61jHrvKypOv9vhrg5hKH5btgtIRm9qMwY1HLfbk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 67 || Reproductive System || प्रजनन तंत्र (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/969830aa-debe-4fba-9af4-c6482a192dcd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture 68 || Five Kingdom Classification || पाँच  जगत का  वर्गीकरण (Part 01)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ZKMw6oZN7Q4",
+      "hd_video_url": "https://www.youtube.com/embed/ZKMw6oZN7Q4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8alDkOMiLalBsbxZuePsZ7Uf8iuNrTYcyZL0pI5J.jpg",
+      "notes": [
+        {
+          "title": "Lecture 68 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b10b7960-3a58-4d30-aed4-42eca6cfa70f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture 69 || Animal Kingdom || जन्तु जगत (Part 01)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/L3dp2iAbO1M",
+      "hd_video_url": "https://www.youtube.com/embed/L3dp2iAbO1M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z4yQzIgoti8NGqr7MVZtYKnH66OGWAwWhN8TzkCU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 69 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d143903-aa1b-4c8a-a32d-0bb30ee0bf21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture 70 || Animal Kingdom || जन्तु जगत (Part 02)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2ZyOuTy7a-A",
+      "hd_video_url": "https://www.youtube.com/embed/2ZyOuTy7a-A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UH7RfvYMzCs7fn7didCI2NHhUp9z2v9lDKt5tZZz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 70 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ae2c6a2-5132-452a-8fbd-687809e0e715.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 72,
+      "title": "Lecture 71 || Animal Kingdom || जन्तु जगत (Part 03)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Ggxkz6B2rqs",
+      "hd_video_url": "https://www.youtube.com/embed/Ggxkz6B2rqs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8aaNjUSHKgPwNPYEU9PVNQ94YG84ijdSAv7q07TT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 71 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a24fcf2c-9502-41e1-9473-f303db063b69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 73,
+      "title": "Lecture 72 || Animal Kingdom || जन्तु जगत (Part 04)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UB9ZxmBuSSc",
+      "hd_video_url": "https://www.youtube.com/embed/UB9ZxmBuSSc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GrG3S7uq6grPDh6ATJIIqwehx4geb1e6xSswn1Gc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 72 || Animal Kingdom || जन्तु जगत (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d94be91-d10d-44af-b98b-576cea166510.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 74,
+      "title": "Lecture 73 || Animal Kingdom || जन्तु जगत (Part 05)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/rjxlhvKi6zY",
+      "hd_video_url": "https://www.youtube.com/embed/rjxlhvKi6zY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MOzGk2QgbFMowzub7nqW4GGMRXo4Vil9p1Fl3mqo.jpg",
+      "notes": [
+        {
+          "title": "Lecture 73 || Animal Kingdom || जन्तु जगत (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e118d07a-7342-4f31-9d12-a7a951eb388a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 75,
+      "title": "Lecture 74 || Botany || वनस्पति विज्ञान (Part 01)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nyhbzPV0HQo",
+      "hd_video_url": "https://www.youtube.com/embed/nyhbzPV0HQo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RH5EgdDLOaD7obeCExUNo3X1n8jdkqfjWH7eaKlj.jpg",
+      "notes": [
+        {
+          "title": "Lecture 74 || Animal Kingdom || जन्तु जगत (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e9e332f-defe-4371-a3b1-ef32963c47b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 76,
+      "title": "Lecture 75 || Botany || वनस्पति विज्ञान (Part 02)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/M3A1YAivvuM",
+      "hd_video_url": "https://www.youtube.com/embed/M3A1YAivvuM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QIGL3SVqxfmkNp2MeLgbWgL9Y20auUH6UTo9O6MZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 75 || Botany || वनस्पति विज्ञान (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee1f3d4a-9c76-4f10-bd03-52e12a0ee25b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 77,
+      "title": "Lecture 76 || Botany || वनस्पति विज्ञान (Part 03)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/rfWWQwODZJg",
+      "hd_video_url": "https://www.youtube.com/embed/rfWWQwODZJg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HYZczXPoaCb1uVwNy06ai6WapOJ1PsJHFSIyOD8f.jpg",
+      "notes": [
+        {
+          "title": "Lecture 76 || Botany || वनस्पति विज्ञान (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/732b2eaf-996a-41dc-b2c0-3a76b469f8d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 78,
+      "title": "Lecture 77 || Botany || वनस्पति विज्ञान (Part 04)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/qfR-UelyBAE",
+      "hd_video_url": "https://www.youtube.com/embed/qfR-UelyBAE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/By7GwlZdNrs2iTGuczSy8MrVgMRhGE0ugcbxq2sW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 77 || Botany || वनस्पति विज्ञान (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d666b82-f579-4abf-9337-5292247bba84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 79,
+      "title": "Lecture 78 || Botany || वनस्पति विज्ञान (Part 05)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/um6BhxN5WTk",
+      "hd_video_url": "https://www.youtube.com/embed/um6BhxN5WTk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o9j9tYVLpooN6t5L0PIKaHFNa1n91pyXNwuYPpLk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 78 || Botany || वनस्पति विज्ञान (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a60faa37-cbba-4d92-b3ef-6052522fcc15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 80,
+      "title": "Lecture 79 || Botany || वनस्पति विज्ञान (Part 06)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/C8_Qu-5OaIo",
+      "hd_video_url": "https://www.youtube.com/embed/C8_Qu-5OaIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xcnv0fvfVRGlz8Kt9QsaaSzkMQ9nFXBZBExE3mVC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 79 || Botany || वनस्पति विज्ञान (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b3de4c0-8e41-40f9-b9e5-5509388f4ebf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 81,
+      "title": "Lecture 80 || Plant Tissues || पादप ऊतक (Part 01)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/icrwHELXsxw",
+      "hd_video_url": "https://www.youtube.com/embed/icrwHELXsxw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Dm324cYd5KhQHbiQjVsc6H8nLJxRwH7VgCb3YUOE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 80 || Botany || वनस्पति विज्ञान (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f63aeae9-2554-46c3-8a4d-6390984a3276.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 82,
+      "title": "Lecture 81 || Plant Tissues || पादप ऊतक (Part 02)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YHtfhrIgO_o",
+      "hd_video_url": "https://www.youtube.com/embed/YHtfhrIgO_o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CkLrlM4bjShzrGgePBDVG4JWfbIExXn2vNomDguX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 81 || Plant Tissues || पादप ऊतक (Part 0",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b0bc510-f97e-4ce4-b5f4-f70a9ab8e3b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 83,
+      "title": "Lecture 82 || Disease || रोग (Part 01)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E1Y8EjBWXls",
+      "hd_video_url": "https://www.youtube.com/embed/E1Y8EjBWXls",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y9vdFg7KH7aQNwoh76at1hv4fKEclWMXiuUF1CZe.jpg",
+      "notes": [
+        {
+          "title": "Lecture 82 || Plant Tissues || पादप ऊतक (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a5b02e6-6b05-4cc8-b685-784283a9a251.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 84,
+      "title": "Lecture 83 || Disease || रोग (Part 02)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/022hsAumwi0",
+      "hd_video_url": "https://www.youtube.com/embed/022hsAumwi0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9SwMSm99QLAMs2qtNNGYDoJynN5XB7W6dbcfRsuk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 83 || Disease || रोग (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2609697-de39-4762-88a2-dfe410922daa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 85,
+      "title": "Lecture 84 || Disease || रोग (Part 03)",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/uFMQLkJKJ7g",
+      "hd_video_url": "https://www.youtube.com/embed/uFMQLkJKJ7g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2rloWJ5xDv29rq7aAgE8LJerXNMsmz1JKE5XXxfN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 84 || Disease || रोग (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/870e3539-ea20-4ee2-961f-129530f8acfa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 86,
+      "title": "Lecture 85 || Disease || रोग (Part 04)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vxGev2bQjJc",
+      "hd_video_url": "https://www.youtube.com/embed/vxGev2bQjJc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HpUaTBGN9AiBSYzh7RCgIWD2x92hFbTlLE6Y7rbm.jpg",
+      "notes": [
+        {
+          "title": "Lecture 85 || Disease || रोग (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/219d604e-0403-4fe0-a3b0-de0af9bf10be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 87,
+      "title": "Lecture 86 || Disease || रोग (Part 05)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/uS2WO9jxor0",
+      "hd_video_url": "https://www.youtube.com/embed/uS2WO9jxor0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/v5Il7VNg8vk4RN2Nmxu2OvQibH8e46if0aH5o3q6.jpg",
+      "notes": [
+        {
+          "title": "Lecture 86 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb4a94f2-9836-4ea1-9095-0007145dfa56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 88,
+      "title": "Lecture 87 || Disease || रोग (Part 06)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/gLokBMl4pq8",
+      "hd_video_url": "https://www.youtube.com/embed/gLokBMl4pq8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XZee797OISmp5o2ARHXWlNDfoXeDyobSv9pBJBJZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 87 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5605f37-6cba-4c68-bb16-d43f3cff3894.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 89,
+      "title": "Lecture 88 || Disease || रोग (Part 07)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jKKqJXDd4rc",
+      "hd_video_url": "https://www.youtube.com/embed/jKKqJXDd4rc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rEUJYzm0reCXORLiIIT3lUt5I6hPZkU31sM3mKV8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 88 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4191d402-be32-4649-ac8d-d729e3888fe0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 90,
+      "title": "Lecture 89 || Disease || रोग (Part 08)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/7hmAficVO20",
+      "hd_video_url": "https://www.youtube.com/embed/7hmAficVO20",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VtLApwrgpOZpCJcbNTTJVU17GbX5wixuKD1izCIA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 89 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a646a82-1eee-49d6-9db9-ccb042f667fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 91,
+      "title": "Lecture 90 || Disease || रोग (Part 09)",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/i7sdtESio-w",
+      "hd_video_url": "https://www.youtube.com/embed/i7sdtESio-w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ACKahGTFdVpRriYqD2aFVbMmsZk5dGzAXAgtvIHE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 90 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a04047f-dbb5-4e16-af0b-fb05b62a0c2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 92,
+      "title": "Lecture 91 || Biology MCQ",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TdHK72sDGJM",
+      "hd_video_url": "https://www.youtube.com/embed/TdHK72sDGJM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dsTcVqpVqJlmyX9vGROJnOM8I0kXa5uHpQZtd3WT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 91 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8348c48-3e8e-4702-92f0-83c58e43dd5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 93,
+      "title": "Lecture 92 || Pigments || वर्णक",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/rrnJM_RCV7s",
+      "hd_video_url": "https://www.youtube.com/embed/rrnJM_RCV7s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fJIlLaQCaqXEYfXLk6qNJaAhUgamQnFe4WspslqT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 92 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba745194-87ed-4a6f-96c9-a8f5a3d4c083.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 94,
+      "title": "Lecture 93 || Branch of Biology || जीवविज्ञान की शाखा",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ybC7z84c_5E",
+      "hd_video_url": "https://www.youtube.com/embed/ybC7z84c_5E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hZq4RlvvyfJhH8vsOjVGoxvFYKCQFHeJ3iIYAUGA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 93 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37099891-c23e-4018-92dc-be92aa802b8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 95,
+      "title": "Lecture 94 || Branch of Biology || जीवविज्ञान की शाखा (Part 02)",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CWrWq__wYLg",
+      "hd_video_url": "https://www.youtube.com/embed/CWrWq__wYLg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HmaeYeDkNrbw9YkCNPTaoljRoqX71NNElJAKonvU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 94 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34ea4694-0b95-44ad-afdc-55a12ee667d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 96,
+      "title": "Lecture 95 || Evolution Biology || विकासवाद जीवविज्ञान (Part 01)",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PJrOuItYcaQ",
+      "hd_video_url": "https://www.youtube.com/embed/PJrOuItYcaQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/42sJ8kLhsxuMQ3eEJ86qfW7yct1on6FJVNMD1X92.jpg",
+      "notes": [
+        {
+          "title": "Lecture 95 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8a8903f-ea9f-4c55-b2e4-a3be60b16abf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 97,
+      "title": "Lecture 96 || Evolution Biology || विकासवाद जीवविज्ञान (Part 02)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/2tPbNpdirg4",
+      "hd_video_url": "https://www.youtube.com/embed/2tPbNpdirg4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/djIEHf6HSzjMJqYk8MIOCcms4DwxkABbiaPduiVs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 96 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c7592ec-dff0-4307-a914-820f3642ef84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 98,
+      "title": "Lecture 97 || Evolution Biology || विकासवाद जीवविज्ञान (Part 03)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/s7hJTT65a2I",
+      "hd_video_url": "https://www.youtube.com/embed/s7hJTT65a2I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DmlsOfA6LbzaVDu0rznIMeVEN2zszawwAWcHN82i.jpg",
+      "notes": [
+        {
+          "title": "Lecture 97 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7a2e3cd-9a73-4fc6-ae4c-f1648a30a3db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 99,
+      "title": "Lecture 98 || Evolution Biology || विकासवाद जीवविज्ञान (Part 04)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/39OticOqrWw",
+      "hd_video_url": "https://www.youtube.com/embed/39OticOqrWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ibRap97jJFMIP9P5gKnAoBowyXrUZWJ1hrgQ2IcQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 98 || Evolution Biology || विकासवाद जीवविज्ञान (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4637a770-65c0-4f85-823c-f75ed4f3b81f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 100,
+      "title": "Lecture 99 || Eye || आँख || Last Class",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BcL6GMezrxw",
+      "hd_video_url": "https://www.youtube.com/embed/BcL6GMezrxw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uhw2azLxrL84aqF5URMrTtKfDODTkfUAGkzRjaQF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 99 || Biology By Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f75d82a-b048-42ab-bd79-9f5c8831954a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

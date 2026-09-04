@@ -1,0 +1,23 @@
+{
+  "subject_name": "Mega Workshop",
+  "subject_id": 6515,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Mega Workshop by Ashutosh Sir",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/7BzJlHjfhRg",
+      "hd_video_url": "https://www.youtube.com/embed/7BzJlHjfhRg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oOVG13YkKl60Xj7iiFP1TNqQ645ElMwYKEMTkDJl.jpg",
+      "notes": [
+        {
+          "title": "Mega Workshop by Ashutosh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5328b3f-fd68-49f6-a1fc-2553427941fd.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

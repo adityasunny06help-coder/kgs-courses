@@ -1,0 +1,541 @@
+{
+  "subject_name": "Environmental Engineering by Apoorv Mittal Sir",
+  "subject_id": 6551,
+  "video_count": 38,
+  "note_count": 38,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Introduction to Raw water Engineering",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/VQQ4sxJGerQ",
+      "hd_video_url": "https://www.youtube.com/embed/VQQ4sxJGerQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oJJAgeFsS3yhHFlXT2LoCFYkzBMGpyMOycfrEt2z.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Introduction to Raw water Engineering",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6c97788-d146-4552-aa70-3f890e8458b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Physical water quality parameter",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/bccrDZaCUUw",
+      "hd_video_url": "https://www.youtube.com/embed/bccrDZaCUUw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/s0r9Rams6fMGBtfdRDW9R3NI0JYakT2S2wnxiFxc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Physical water quality parameter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0c89885-30ae-4ead-8d27-51026e87a2e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Chemical water quality parameter",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/-ParK-ErPW0",
+      "hd_video_url": "https://www.youtube.com/embed/-ParK-ErPW0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lJte4FnNrpbcz2tgAmRnNqdEE0dfXR69bgEKi5sf.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Chemical water quality parameter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30540ccb-2aae-4c5a-a4db-ded0744996b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 ||  Biological water quality parameter",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/MrA-hpcRmr0",
+      "hd_video_url": "https://www.youtube.com/embed/MrA-hpcRmr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1cCoPTOBfV7n0vBpNvRXntNTpGfotB4Vwa8vADpa.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 ||  Biological water quality parameter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38cdc4f7-9aea-4b8a-87cd-2148d121adc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || IS 10500 Codal Provision",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/I38Fn4pkT3w",
+      "hd_video_url": "https://www.youtube.com/embed/I38Fn4pkT3w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KC6y06GP5TmkAJUajETFENF3tV0vUz2xFZetz5zr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || IS 10500 Codal Provision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50b13fc3-8a8a-4a7c-bbc4-f9867389b145.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Treatment of Water Introduction",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/G-Axr2VJsHI",
+      "hd_video_url": "https://www.youtube.com/embed/G-Axr2VJsHI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sHauMRAZE9wRyulTLL56farMBVfKAVqroM19Co2K.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Treatment of Water Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/034857a4-4511-4871-bddf-b176089bde1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Screening & Aeration",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/mHx7O_LcstM",
+      "hd_video_url": "https://www.youtube.com/embed/mHx7O_LcstM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XkYeVGQAr753T1X1Iz0SX2CxeXW4RUQW2loBGWGT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Screening & Aeration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1c6f8ca-fe6d-4e01-92b6-ffc60bcd9f54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Sedimentation",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/T0iQyfyI63I",
+      "hd_video_url": "https://www.youtube.com/embed/T0iQyfyI63I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21c2bd2dc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Sedimentation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12746f73-49a2-400f-a9f9-6a1ddfc890b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Filteration",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/XY1OPn0C7wQ",
+      "hd_video_url": "https://www.youtube.com/embed/XY1OPn0C7wQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21c21dd6a.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Filteration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9484de8f-3370-4ca1-91a7-940f69c174df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Chlorination",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/dwaYjNI6jNo",
+      "hd_video_url": "https://www.youtube.com/embed/dwaYjNI6jNo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21c175353.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Chlorination",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39780243-5a78-4555-878f-18c23093a36c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Water Demand",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/vjBUR9R_0sw",
+      "hd_video_url": "https://www.youtube.com/embed/vjBUR9R_0sw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21c0cc4ed.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Water Demand",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04c82ebe-e742-47d5-b55b-ad844ed7445d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Distribution System",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/MpciitJsX24",
+      "hd_video_url": "https://www.youtube.com/embed/MpciitJsX24",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21c03269b.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Distribution System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bce9685b-56eb-4944-a411-e5340a4cb9e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Water Conveyance",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/0AbOGqscCUI",
+      "hd_video_url": "https://www.youtube.com/embed/0AbOGqscCUI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bf8ae27.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Water Conveyance",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac4e4c27-fe4b-4d78-b6f9-0049b4af927c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Waste Water Characterstic",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/ev3R4OruESA",
+      "hd_video_url": "https://www.youtube.com/embed/ev3R4OruESA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bee0f79.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Waste Water Characterstic",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70d23cc0-2925-421f-a329-98dcdf27b290.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Biological Waste water Quality",
+      "published_date": "24 May 2025",
+      "video_url": "https://www.youtube.com/embed/GyLSrSM0aQg",
+      "hd_video_url": "https://www.youtube.com/embed/GyLSrSM0aQg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21be478fa.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Biological Waste water Quality",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80fc62b7-d1db-49a9-8eae-7ac231f20104.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Disposal Of Waste Water (Part-1)",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/v3PoRKsbdV0",
+      "hd_video_url": "https://www.youtube.com/embed/v3PoRKsbdV0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bd9f409.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Disposal Of Waste Water (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7db5ae66-fd86-4671-8713-aee31401c14e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Disposal Of Waste Water (Part-2)",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/n2_M2IwLsbw",
+      "hd_video_url": "https://www.youtube.com/embed/n2_M2IwLsbw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bd03191.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Disposal Of Waste Water (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/582ee8f4-d202-4d39-acce-10c35588cf85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Sewage Treatment (Part-1)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/acZqvor7xsM",
+      "hd_video_url": "https://www.youtube.com/embed/acZqvor7xsM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bc502cf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Sewage Treatment(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/873a8a7e-58d6-41fe-bc0c-9003e2e707cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Sewage Treatment (Part-2)",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/u8HqYz3T0JU",
+      "hd_video_url": "https://www.youtube.com/embed/u8HqYz3T0JU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21bb73d74.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Sewage Treatment (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49cd3263-2530-4bc6-bbc1-a6337c935ffa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Sewage Treatment (Part-3)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/r2Mljl0khBw",
+      "hd_video_url": "https://www.youtube.com/embed/r2Mljl0khBw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/688a21ba98387.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Sewage Treatment (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a074829-02c2-4e70-ae41-c8658b660a10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Secondary Biological Treatment (Part-1)",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/o7vUVl8JW0w",
+      "hd_video_url": "https://www.youtube.com/embed/o7vUVl8JW0w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Fto2OhZqeylKaDID3D5JMKjP9Q3UQiUJ4lrIMl2Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Secondary Biological Treatment (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89d69adc-6e6b-4cf5-88f8-80fbe2560789.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Secondary Biological Treatment (Part-2)",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tmCBdPEIupQ",
+      "hd_video_url": "https://www.youtube.com/embed/tmCBdPEIupQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BbUuFdypn1nr71pH9rMip4uGABJbIPoahdkFsYBK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Secondary Biological Treatment (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fa7ce01-7889-418f-b4ad-06a552e0bfb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Design of sewar System",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aPsdOeI8JUI",
+      "hd_video_url": "https://www.youtube.com/embed/aPsdOeI8JUI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tE5kbRarnJEseRoU95OS3H7QRQ8fdlDXqNZDVQuo.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Design of sewar System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4bbe6f6e-38ff-445b-9600-78b65255defc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Design of Sewer Appurtenances (Part-1)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UVKTZy1PYMQ",
+      "hd_video_url": "https://www.youtube.com/embed/UVKTZy1PYMQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qa8q7z2kiW15qK1NS08ZZ1O8JMHU3fv6GZcMutDl.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Design of Sewer Appurtenances (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/975d6ea2-0667-4109-a03e-13a4805d4cb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Design of Sewer Appurtenances (Part-2)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tzX0vEQYqNc",
+      "hd_video_url": "https://www.youtube.com/embed/tzX0vEQYqNc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VENqhjI7uD3bB72sq1Zqw0JuFwr3fAXv0sCs6kZf.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Design of Sewer Appurtenances (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf53739e-34e7-481d-aa2e-bb8cd600e5a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Solid Waste Management (Part-1)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/79YHwcDpyag",
+      "hd_video_url": "https://www.youtube.com/embed/79YHwcDpyag",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cvc5upxVbYykvS4yytcrlhLLbTHSKFMKExkosSar.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Solid Waste Management (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ac45fd9-2986-4e2f-96fa-3a9daa03b340.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 ||  Solid Waste Management (Part-2)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/HhBwyueIGvs",
+      "hd_video_url": "https://www.youtube.com/embed/HhBwyueIGvs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ilpTkoVJVT1plXfRqXTlXTnQv8wtZKpoOrG4Lvsq.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 ||  Solid Waste Management (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7202e6c0-052f-401e-acd4-685be104018c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Air Pollution (Part-1)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/oLnrLiK53nU",
+      "hd_video_url": "https://www.youtube.com/embed/oLnrLiK53nU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/V7092EVKBbn0mpVhpkTjIVlVPI9V7Q2T9fmZFDUJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Air Pollution (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee9e1769-34f5-47b3-93a4-08f1ddca1d8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Air Pollution (Part-2)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jRStbODspuM",
+      "hd_video_url": "https://www.youtube.com/embed/jRStbODspuM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YlIG6KsIltkXMP6pzPY8oF3MgTzsfnpzhI9nJN4S.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Air Pollution (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7308a394-26f9-43ed-8b31-e7801db71d2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Grit Chamber",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/LOxyDNyWpHM",
+      "hd_video_url": "https://www.youtube.com/embed/LOxyDNyWpHM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LwElac7gZPEKZPXquUqQqBmUtWK7MgfyZSE0v58N.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Grit Chamber",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c23b071f-b4f2-465c-84fc-7e6a22b4bcbd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Noise Pollution (Part-2)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/DRVtZuYqo7c",
+      "hd_video_url": "https://www.youtube.com/embed/DRVtZuYqo7c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/omRQ2eiKXaeKYiE34pmiBnbJB6wkItjCcRfoLRen.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Noise Pollution (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d24f9915-57fc-44f9-94c2-b089535bf44d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Trickling Filter",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/hCIfd3ykuV8",
+      "hd_video_url": "https://www.youtube.com/embed/hCIfd3ykuV8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LC1NmnbsG6Y1u3MaQjCStxYmPiNXDMXw7lMh5JCX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Trickling Filter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9858538b-b96e-4ed1-841c-dcb53b83e06d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || Activated Sludge Process",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/G7ZIjEkI0-M",
+      "hd_video_url": "https://www.youtube.com/embed/G7ZIjEkI0-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/H83lmBQBxo7ZfmLxMmKKFZ6a7nStCvXKlISu9uke.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Activated Sludge Process",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2866efd3-7081-47ee-b435-7b2883595e32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || Air Pollutant",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CQvNiOKM0Yk",
+      "hd_video_url": "https://www.youtube.com/embed/CQvNiOKM0Yk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PFcVRDZf8uJUIPrCqc5jRTIN6TFpa0R29FJwGhgm.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Air Pollutant",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4114705a-3bec-4b64-9f53-98f1ba33c9cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || Noise Pollution",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/SvdzlYw2sX4",
+      "hd_video_url": "https://www.youtube.com/embed/SvdzlYw2sX4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Bk8tCoi7kt32Ile7UN3Iff4pu1txphf7cUO44a0P.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Noise Pollution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e654e0e5-7d00-446e-8290-c3c7b721755b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || Solid waste Management",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/93Mrthw8ERw",
+      "hd_video_url": "https://www.youtube.com/embed/93Mrthw8ERw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YPYgtYLvdkAZonpjazTL2O7Ge2g4wvDSmkYCRJfS.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Solid waste Management",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/165ce08b-e5a0-41af-b953-a3941652144d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || Miscellaneous",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VYrrMGY0ZfQ",
+      "hd_video_url": "https://www.youtube.com/embed/VYrrMGY0ZfQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uB1upz70NMcgXc9tvhZwxbGoO6SAMQcoSelT78l0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Miscellaneous",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9718524-3a6e-4d6b-8083-c4cdd8aa7263.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || Miscellaneous (Part-2)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/AfuJln0456k",
+      "hd_video_url": "https://www.youtube.com/embed/AfuJln0456k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/W6bJ6FneRSchCgV5Nbn8bHMjv9enbBbNe6zIKCD3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Miscellaneous (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e36a181f-a448-4855-9b54-6b4909c7e5b6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

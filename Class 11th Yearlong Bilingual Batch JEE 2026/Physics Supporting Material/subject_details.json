@@ -1,0 +1,55 @@
+{
+  "subject_name": "Physics Supporting Material",
+  "subject_id": 2555,
+  "video_count": 4,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. JEE Flashback Physics PYQs Series || JEE Physics || Vector || Physics by UF Sir",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://youtu.be/PSwxgxqj2Lw?si=xyOL48QkvA-DowG-",
+      "hd_video_url": "https://youtu.be/PSwxgxqj2Lw?si=xyOL48QkvA-DowG-",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "2. Kinematics ( Ranker's Stuff ) : Video Solution || Part - 1",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/CjqMd-huY-4",
+      "hd_video_url": "https://www.youtube.com/embed/CjqMd-huY-4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Kinematics ( Ranker's Stuff ) : Video Solution || Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6636f72f-c55e-4b6e-ac0e-8c14c1d67be4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. Kinematics ( Ranker's Stuff ) : Video Solution || Part - 2",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/iK9YLRgJaAI",
+      "hd_video_url": "https://www.youtube.com/embed/iK9YLRgJaAI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "4. Kinematics ( Ranker's Stuff ) : Video Solution || Part - 3",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/MJI7yX79ak8",
+      "hd_video_url": "https://www.youtube.com/embed/MJI7yX79ak8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Kinematics ( Ranker's Stuff ) : Video Solution || Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7dcf054-cbb9-4fd9-8038-4870d8e3298f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

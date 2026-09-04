@@ -1,0 +1,983 @@
+{
+  "subject_name": "Physics By Jitesh Parashar Sir",
+  "subject_id": 6552,
+  "video_count": 71,
+  "note_count": 67,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "NEET PHYSICS Syllabus Discussion & Roadmap",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/m8FaikmIMLY",
+      "hd_video_url": "https://www.youtube.com/embed/m8FaikmIMLY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rR34YAL1TUrTZYlxvz3UUHqN5ABWL4xgcHrR7AUA.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 1 || सदिश राशि - 1",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/3TpjL3u-6YM",
+      "hd_video_url": "https://www.youtube.com/embed/3TpjL3u-6YM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lhr8akP1AI03ALkZN87U1B2YnecG2AHcdMDfwU8Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || सदिश राशि - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1d0a407-1376-46c9-b3aa-f1c242da6bc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 2 || सदिश राशि - 2",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/Bqa3brWqvhE",
+      "hd_video_url": "https://www.youtube.com/embed/Bqa3brWqvhE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AxdVejEZsUJnUnfIhKeOXO5KuPQzK3L7LGHMbJeb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || सदिश राशि - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bfc3e3c-bef6-40bc-904c-2464db60bd2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 3 || सदिश राशि - 3",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/3IVTuWo-58U",
+      "hd_video_url": "https://www.youtube.com/embed/3IVTuWo-58U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LxR9WIXXnkYImY1XUx0kzUxkJFux04Nwp7HXEC8K.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || सदिश राशि - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1d1fa35-dbb5-4520-844c-293a22679bea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 4 || सदिश राशि - 4",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/jbCsYwrqP18",
+      "hd_video_url": "https://www.youtube.com/embed/jbCsYwrqP18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dW16p5ew7KBgO8ZmuYOmeI6ZivP4YIwwX5Wbwx7x.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || सदिश राशि - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11bd561c-5522-4bc4-82cf-74c980c8f76f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 5 || सदिश राशि - 5",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/OiHjskeaJf8",
+      "hd_video_url": "https://www.youtube.com/embed/OiHjskeaJf8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vZR8JQAubu4yP1flCsGUrROv5F5VN5iTHK1HsGr0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || सदिश राशि - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c36498b-4f3b-4dba-86da-a23c85c30545.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 6 || सदिश राशि - 6",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/MkuiOOCsKIQ",
+      "hd_video_url": "https://www.youtube.com/embed/MkuiOOCsKIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/T1QfCF400eJjBcn23oMJaiN4MniknGWdrHDkK7oe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || सदिश राशि - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3d76775-60a1-4bd4-be0d-7257da098857.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 7 || सदिश राशि - 7",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/_dIHNk8o0nI",
+      "hd_video_url": "https://www.youtube.com/embed/_dIHNk8o0nI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7gP9aUZDQCScvXamjrFgDNBWIHuKa2hwVxLD8yam.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || सदिश राशि - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6279163e-9e55-4619-8c11-14d63cd034b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 8 || मूलभूत गणित - 1",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/z-t5tDhs0Ps",
+      "hd_video_url": "https://www.youtube.com/embed/z-t5tDhs0Ps",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/U9eY1KIZlqp3dqaP0ANYOekwOLpIET07sR45amjm.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || मूलभूत गणित - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9e48457-b4da-4dca-b5f1-811fd2a181cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 9 || मूलभूत गणित - 2",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/2AtdFswSy4g",
+      "hd_video_url": "https://www.youtube.com/embed/2AtdFswSy4g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Uvxpe9w4veakk4T82sA99Jjd1pPE3mzZFeJdW5a4.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || मूलभूत गणित - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcf69a8c-6128-4a63-8f32-f4e1ce88658c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 10 || मूलभूत गणित - 3",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/DyXAOLDegHg",
+      "hd_video_url": "https://www.youtube.com/embed/DyXAOLDegHg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vN7H1reO0XMGUyZGDbBAI3pXVNkMlBnS9QS2g4vY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || मूलभूत गणित - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d810e94d-485f-4420-9410-c14490ba3d2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 11 || मूलभूत गणित - 4",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/IfdRE8cfj0o",
+      "hd_video_url": "https://www.youtube.com/embed/IfdRE8cfj0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5p7U7v95va83dTtmhyzLjkDOeetLe28F6jKREVjC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || मूलभूत गणित - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8e36b82-dd07-49fb-8133-8d4d1b73d46b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 12 || मूलभूत गणित - 5",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/03Qx_cKrDrA",
+      "hd_video_url": "https://www.youtube.com/embed/03Qx_cKrDrA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Yrot8f6dgqPcgvuVRY5LhIspoqJKKLAztej08vIe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || मूलभूत गणित - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf96ed40-7b46-41bb-a543-764ea434c070.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 13 || मूलभूत गणित - 6",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/VA8022-Dl_A",
+      "hd_video_url": "https://www.youtube.com/embed/VA8022-Dl_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lMX3EqhHJmThLvZUPDHNqE3F5nJnOWGE7WLFnnPe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || मूलभूत गणित - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ca54fd6-9666-4880-ac55-aa5fa9d71f56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 14 || मूलभूत गणित - 7",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/Yc84ZPrIGRU",
+      "hd_video_url": "https://www.youtube.com/embed/Yc84ZPrIGRU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Cs0g4QNucjalpgeleOKszjgAurCHqVfaJUubMeoC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || मूलभूत गणित - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f884f52-bac9-43d4-b631-2e4c4601ae20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 15 || मात्रक एवं मापन - 1",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/5b7X8YdSGQY",
+      "hd_video_url": "https://www.youtube.com/embed/5b7X8YdSGQY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CVHZOJq3mBh9LwKamP8M7CQexqgy0exK3KLtHD76.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || मात्रक एवं मापन - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2787496-ae50-4dee-9a40-88e6d859b1d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 16 || मात्रक एवं मापन - 2",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/PYgUCJz8CUA",
+      "hd_video_url": "https://www.youtube.com/embed/PYgUCJz8CUA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1lEgTRn8sIjvIB02bLURJzTgfY3K2ZoZC2JfyWHj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || मात्रक एवं मापन - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19570ffc-9478-402b-98b6-da3303d8f928.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 17 || मात्रक एवं मापन - 3",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GewALeV-UlY",
+      "hd_video_url": "https://www.youtube.com/embed/GewALeV-UlY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/toEX93vFxlQrwnSMkjKZyqDxNlUEv7wYVl0FHU2G.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || मात्रक एवं मापन - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7de14a42-bc67-44af-872a-4855ffa15278.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 18 || मात्रक एवं मापन - 4",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qCzQTvYdKBU",
+      "hd_video_url": "https://www.youtube.com/embed/qCzQTvYdKBU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MKzNlNP6kjjiQkDjW28r0IdFVtB7E34oyWCQZezt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || मात्रक एवं मापन - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0feb3ae5-5ff3-4c7f-a2ad-a418dba11caa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 19 || मात्रक एवं मापन - 5",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Hbg9LH2ACu0",
+      "hd_video_url": "https://www.youtube.com/embed/Hbg9LH2ACu0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hkTwOk2dEXMa6jgNbtP6h10IFsg6fGyCs95Bt5Co.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || मात्रक एवं मापन - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a97fa872-835f-48c9-baaa-91c778da6f4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 20 || मात्रक एवं मापन - 6",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/TFmOvdI39Lo",
+      "hd_video_url": "https://www.youtube.com/embed/TFmOvdI39Lo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vMel6YONN962FB9sC5BVm3s8afnLGDXAlUtrvoSc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || मात्रक एवं मापन - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/510d4742-1a19-4834-b273-c4018da9d87e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "सदिश राशि DPP 1 - Video Solution",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/67vriDxyaII",
+      "hd_video_url": "https://www.youtube.com/embed/67vriDxyaII",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "सदिश राशि DPP 1 - Video Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95851997-04cf-46a6-a236-900023b32227.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 21 || मात्रक एवं मापन - 7",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6najqobhUgU",
+      "hd_video_url": "https://www.youtube.com/embed/6najqobhUgU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PYoRAjzCuvmQjNa8UVZBdCYhbw0Psgyieq3Kmj0O.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || मात्रक एवं मापन - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31d48fbe-6096-4b40-9006-8c50362743f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 22 || मात्रक एवं मापन - 8",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CDlB54iippQ",
+      "hd_video_url": "https://www.youtube.com/embed/CDlB54iippQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mqkhuOaSs9e7zpsvidDAVDLDjTWrBWV1SuDOxIap.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || मात्रक एवं मापन - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87009661-79dc-412d-89ff-92966e831f00.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 23 || मात्रक एवं मापन - 9 (DPPs Solution - 1)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/yvYDKyT6SVQ",
+      "hd_video_url": "https://www.youtube.com/embed/yvYDKyT6SVQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VESrKnEZCgkbEUNrX3jpIVhY6y5gm9C9JvlsEae2.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || मात्रक एवं मापन - 9 (DPPs Solution)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44963aaa-58a9-4a25-a8e4-acfdcd2cd7bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 24 || मात्रक एवं मापन - 10 (DPPs Solution - 2)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lkQzVGUEXXQ",
+      "hd_video_url": "https://www.youtube.com/embed/lkQzVGUEXXQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WgCLwYO0oEDMiegYATlLpxqqeXPNBS2rCFdgjhOE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || मात्रक एवं मापन - 10 (DPPs Solution - 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0345da52-f259-48b7-a773-abd673644c38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 25 || Unit Test-1 Test discussion",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/oaUcwFB0OqM",
+      "hd_video_url": "https://www.youtube.com/embed/oaUcwFB0OqM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TBTtQfJDO90V08dR3yVVyin2iLcaNIlyjABGHhRc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Unit Test-1 Test discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96c0e2b9-ef1e-4823-806d-bd6ac7d2ab23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 26 ||सरल रेखा में गति - 1",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/iroazPh6oUU",
+      "hd_video_url": "https://www.youtube.com/embed/iroazPh6oUU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XK1WzLx5mwOUEOolQ5qFdXiyc1XludtCbMmFKEch.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || सरल रेखा में गति - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f686315d-2ca5-484f-a80c-d7d9483d1a8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 27 || सरल रेखा में गति - 2",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KkU7gIE7Pz0",
+      "hd_video_url": "https://www.youtube.com/embed/KkU7gIE7Pz0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8wv9heM3Y8tNRWIE1dbEIQoUfwPYGKbNHTRbbv03.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || सरल रेखा में गति - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e40294e1-c4c9-44d9-bb77-8f754f7b5c4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 28 || सरल रेखा में गति - 3",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/gGnQSbu1_tU",
+      "hd_video_url": "https://www.youtube.com/embed/gGnQSbu1_tU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OtgDx3rlQqw2CW5n04ExwueWWdfxUSRTA3NQldfK.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || सरल रेखा में गति - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61dbe26e-9e87-44db-be54-eecbd133f173.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 29 || सरल रेखा में गति - 4",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/anYfLv2YcfE",
+      "hd_video_url": "https://www.youtube.com/embed/anYfLv2YcfE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2TK4D9oistZQIoQ6fkhH7OsYi82DYoPTCcfsyVkd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || सरल रेखा में गति - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77102450-2191-4ea2-a891-832c22780cfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 30 || सरल रेखा में गति - 5",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/8xsa1FmyV2Q",
+      "hd_video_url": "https://www.youtube.com/embed/8xsa1FmyV2Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UMbxGo8WoYFPC3Z6OiZoqH9bBUFpqsUNT6BMLTmy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || सरल रेखा में गति - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89c5d353-801f-42ee-812f-f414c3ede730.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 31 || सरल रेखा में गति - 6",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pfBBz08NwFI",
+      "hd_video_url": "https://www.youtube.com/embed/pfBBz08NwFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L5gZk1Ow6DJoACb8pIVCsfggHUh3MEFFdHq2cY5Y.jpg",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 32 || सरल रेखा में गति - 7",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/rVyj5Cz2znA",
+      "hd_video_url": "https://www.youtube.com/embed/rVyj5Cz2znA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hDDrFEM1mlfTNxXx3aeaq7YFagDgBqGniHieegcU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || सरल रेखा में गति - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/931cb5aa-f1b2-4a20-804b-d3675e7b5ebb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 33 || सरल रेखा में गति - 8",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tsSbcOwUip0",
+      "hd_video_url": "https://www.youtube.com/embed/tsSbcOwUip0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YyuStmxsRxhGsuwQDSJQte6pzFO7UDzsWJNLTpaA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || सरल रेखा में गति - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a9e1cbb-ad26-4d2a-9f9f-80436a73a657.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 34 || सरल रेखा में गति - 9",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/RBASXBIYQ4Q",
+      "hd_video_url": "https://www.youtube.com/embed/RBASXBIYQ4Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3luFVWP8l49velwxmUEpGmS91z4F7NmSxM6e6bxu.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || सरल रेखा में गति - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a5a6b77-a665-46b2-85a2-901a3611a253.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 35 || सरल रेखा में गति - 10",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zs8uLxbBchM",
+      "hd_video_url": "https://www.youtube.com/embed/zs8uLxbBchM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xK9EZhBcD3EY9y1es5JP4RprPDqBzry1XvANnUMh.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || सरल रेखा में गति - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eae55c28-a744-46dc-8b04-9582e94ff9ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 36 || सरल रेखा में गति - 11",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/oV45I7b4g4E",
+      "hd_video_url": "https://www.youtube.com/embed/oV45I7b4g4E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fOMElgfuyETSf6zFUPk211iu2PQ0oLUdWSJNPTFl.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || सरल रेखा में गति - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8de9a310-e40c-4b14-94d8-876995f53f86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 37 || सरल रेखा में गति - 12",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E2ivvTRhotY",
+      "hd_video_url": "https://www.youtube.com/embed/E2ivvTRhotY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c0oLtFYorPiH2CjBTuAJpygrzOh91WyiJzH1gLM5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || सरल रेखा में गति - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d570367-6cab-49aa-846e-5eda7ef7bf82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 38 || सरल रेखा में गति - 13",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iXE8Swejo-M",
+      "hd_video_url": "https://www.youtube.com/embed/iXE8Swejo-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WVmvfW9PrUeFwAhWotkE7HyWbcY9OxXwfKK2Y4tC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || सरल रेखा में गति - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa0e05eb-3b2f-4167-9f9d-fe4afbe41da4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 39 || सरल रेखा में गति - 14",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/T-PCFqu-IN4",
+      "hd_video_url": "https://www.youtube.com/embed/T-PCFqu-IN4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UEP6EBgXcYn8cEzwtR6U5StcKJ1VMcBKcyxxS1IW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || सरल रेखा में गति - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f262637b-e920-4402-a097-66b899e905a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 40 || सरल रेखा में गति - 15",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/UaNgSrx_ChA",
+      "hd_video_url": "https://www.youtube.com/embed/UaNgSrx_ChA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DGbYjwrwdfbOKguntedNMiTDHpc66AFfcPNYDp2R.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || सरल रेखा में गति - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c7eabdf-dd43-49d0-a57e-333cc7ad7cb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 41 || सरल रेखा में गति - 16",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/JhjMF_iTa0M",
+      "hd_video_url": "https://www.youtube.com/embed/JhjMF_iTa0M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CrAHYi8ZEZF2IU4drlioxYDyGTEHMQ70zHGQ18WX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || सरल रेखा में गति - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c18da4e-e16d-40ae-b41d-8b569655e570.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 42 || समतल में गति - 1",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/GO5tC9KOamE",
+      "hd_video_url": "https://www.youtube.com/embed/GO5tC9KOamE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MR93HCVubJEwVnRM3JnA1SRBtbnXts4B2C5x3Dq9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || समतल में गति - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/374546a9-95ed-4cd4-9dee-30919df44585.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 43 || समतल में गति - 2",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Lz5-5VuqOts",
+      "hd_video_url": "https://www.youtube.com/embed/Lz5-5VuqOts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P7y2E16B0KusJvhc6YIznbvUUtlRxhnUGTGKD1sk.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || समतल में गति - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee85b193-b0ff-4c3b-a76c-8e9ee7d7b736.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 44 || समतल में गति - 3",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EbHaKEiASrA",
+      "hd_video_url": "https://www.youtube.com/embed/EbHaKEiASrA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/C2gGAcl1DWHV6H2WITonE4Locwr9oqxub9jsIQdE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || समतल में गति - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5280b9f4-d57b-4b2d-a41c-617579ffc21b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 45 || समतल में गति - 4",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/tfMTBGOOPSY",
+      "hd_video_url": "https://www.youtube.com/embed/tfMTBGOOPSY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/839tTgL1ji42fSV80Yk4noKMbQijaJhOCza1DoKp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || समतल में गति - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e699da71-8992-41fd-983d-d28692cd4133.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 46 || समतल में गति - 5",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/6v_9iIVO9n8",
+      "hd_video_url": "https://www.youtube.com/embed/6v_9iIVO9n8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Bxz38ZiuRao5oWetcmQlFrLsEiJZGA9cGSF3zEmx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || समतल में गति - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21be6c9a-aa49-4191-a878-b3637096a2d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 47 || समतल में गति - 6",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-0lYHxKr1xQ",
+      "hd_video_url": "https://www.youtube.com/embed/-0lYHxKr1xQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WvXOYNqkCfomoaqGEKZcUNX2XzpbnFKywJUH5dz1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || समतल में गति - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4fc5c89-4af8-4121-a11c-c24fa99bcd14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 48 || समतल में गति - 7",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/V2v-fXiUbBo",
+      "hd_video_url": "https://www.youtube.com/embed/V2v-fXiUbBo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IaLURTV877dL6fAsGFstihL6nWeuYdgWQPgaFR3e.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || समतल में गति - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7efe7a05-b0d6-45e9-a657-5b5287834d5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 49 || समतल में गति - 8",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Cepdl4vcZFU",
+      "hd_video_url": "https://www.youtube.com/embed/Cepdl4vcZFU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n8xfIRCJvf5LkqWY5GlCBa4JpgYGI6gTvW6Ljini.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || समतल में गति - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78b4622a-5847-417b-8528-d9049f5c4b1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 50 || समतल में गति - 9",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Vgb5H2XG1WE",
+      "hd_video_url": "https://www.youtube.com/embed/Vgb5H2XG1WE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IOB1PpBBsRKoRF7diqADqPQE0uW7iq6fMxqKJ2Uf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || समतल में गति - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36768b4f-56ef-42c7-b630-f92512fb331e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 51 || समतल में गति - 10",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KOHcN4-gzq4",
+      "hd_video_url": "https://www.youtube.com/embed/KOHcN4-gzq4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QjjHSVzpCAlJ4yxm7KNggvNy9Y1NSGozdeWPIrAu.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || समतल में गति - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f33ee9f2-b60f-4c9d-a1d0-2060493d392d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 52 || समतल में गति - 11",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/DwNMcwPOovY",
+      "hd_video_url": "https://www.youtube.com/embed/DwNMcwPOovY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gk9TrjttdXCgZJbafGakv33hyC2DhM1pbT6atx6S.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || समतल में गति - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3bb131d-8f9d-4792-a578-aad29bac6ec6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 53 || समतल में गति - 12",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/6jJc8fATr88",
+      "hd_video_url": "https://www.youtube.com/embed/6jJc8fATr88",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nljxNAtAPPAfNVoTcUiXWQ8Zt9ht7NSr3Hc1SkoE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || समतल में गति - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fb14db1-de4e-4c36-b08c-b853c69995ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 54 || न्यूटन के गति के नियम - 1",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Vbm1JqIUiCo",
+      "hd_video_url": "https://www.youtube.com/embed/Vbm1JqIUiCo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/x7AAtEVjEF3fwmK8cWNzUaDvrbvhNi2Dbgff2xeE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || न्यूटन के गति के नियम - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed92a355-5832-40e8-bf76-e22068d0e795.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 55 || न्यूटन के गति के नियम - 2",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/SGvtwLHi8xU",
+      "hd_video_url": "https://www.youtube.com/embed/SGvtwLHi8xU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4ccJOKSjaPLLQmi1oiqwp7RJyYdSxHlyzxt4eJQY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || न्यूटन के गति के नियम - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f1150ae-efa4-4d9d-a012-541a79568ed2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture - 56 || न्यूटन के गति के नियम - 3",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/y4bsrBGdetw",
+      "hd_video_url": "https://www.youtube.com/embed/y4bsrBGdetw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3gsOGFAToulSGf4N8b3tdLE2xSblFiqbDvTqPT3O.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || न्यूटन के गति के नियम - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43fa1ae8-ff3c-4899-b169-06ce25f840b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture - 57 || न्यूटन के गति के नियम - 4",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Fwaq1KrmhHE",
+      "hd_video_url": "https://www.youtube.com/embed/Fwaq1KrmhHE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yaCJumD8R4FE0bECHZQf5WeexMlMlJVi5UyFMmIC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || न्यूटन के गति के नियम - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a3d3194-3cb9-4170-8599-b5ac07a037e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture - 58 || न्यूटन के गति के नियम - 5",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/T1JB9doh7HQ",
+      "hd_video_url": "https://www.youtube.com/embed/T1JB9doh7HQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PrvTZWzxqavY93fLe3e17Ml8vMFyape1iCgtpClo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 58 || न्यूटन के गति के नियम - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b63af2ca-7ab2-4bf8-8f16-3477e20bc2e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture - 59 || न्यूटन के गति के नियम - 6",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1KTr7ckjtrc",
+      "hd_video_url": "https://www.youtube.com/embed/1KTr7ckjtrc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6m439ChoTrXgGI74ptmmeLf4orZ7dT5ACAcd9Aco.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 59 || न्यूटन के गति के नियम - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f20d196-559c-488c-a622-cf5cf6b8ba43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture - 60 || न्यूटन के गति के नियम - 7",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/N0JBHDtYQUU",
+      "hd_video_url": "https://www.youtube.com/embed/N0JBHDtYQUU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D29dYnEFaajD4fM0SIVdcB5CsxIPpSUyKWk4M64Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 60 || न्यूटन के गति के नियम - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b99cb3cd-cc77-46b4-ac42-fedb072d1696.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture - 61 || न्यूटन के गति के नियम - 8",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/vOdVNdyk8Xk",
+      "hd_video_url": "https://www.youtube.com/embed/vOdVNdyk8Xk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NeScrdYfGoEHbLYkl6llUXq38G5nvE5le8B6LN17.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 61 || न्यूटन के गति के नियम - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1aaa05c9-4b52-4ba5-8508-ed9623590c60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture - 62 || न्यूटन के गति के नियम - 9",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2Ct-qdFT4pg",
+      "hd_video_url": "https://www.youtube.com/embed/2Ct-qdFT4pg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1czg7nDIVo095iGLx3Dchfwn38DXKq3zeRvziKqx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 62 || न्यूटन के गति के नियम - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1271f418-6f43-4f6b-9805-b3196e8c1183.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture - 63 || न्यूटन के गति के नियम - 10",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YKnNtdw0tZU",
+      "hd_video_url": "https://www.youtube.com/embed/YKnNtdw0tZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PTYBfgsmCx74r6sH91RYuSAssik7rXhqwwkDlPHt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 63 || न्यूटन के गति के नियम - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe71d913-94da-48c6-b27d-48369de6ba13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture - 64 || घर्षण - 1",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/TojHKU_N1DE",
+      "hd_video_url": "https://www.youtube.com/embed/TojHKU_N1DE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/B0fUzQChxq7man9K4AmvKHuEbDOdS0kwhSPyPhCM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 64 || न्यूटन के गति के नियम - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23b3520a-337f-4f33-868f-e0ca8ac87972.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture - 65 || घर्षण - 2",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Ey4r5UtfHsQ",
+      "hd_video_url": "https://www.youtube.com/embed/Ey4r5UtfHsQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IV4ZMmDtDCYphRxFVCsZxUeB9cDAweiOlmn5JoXt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 65 || न्यूटन के गति के नियम - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01a7110a-a208-4838-b045-2f14a4a712c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture - 66 || घर्षण - 3",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2pUSmtaxIvo",
+      "hd_video_url": "https://www.youtube.com/embed/2pUSmtaxIvo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bB6ENnBTcM8PfRETs4bzbCh6UjRdWpuhmc7rWJ2g.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 66 || घर्षण - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc99d5c6-fb92-407e-8cca-e32a79be86e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture - 68 || कार्य ऊर्जा और शक्ति  - 1",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/FroNd4ycZTM",
+      "hd_video_url": "https://www.youtube.com/embed/FroNd4ycZTM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JEMdkvAZzrpLKcNkLEVPib6AwxOIYvA6VcJ0nFaH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 68 || कार्य ऊर्जा और शक्ति  - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c6df476-0ee0-4d16-9945-89ae26dc3f91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture - 69 || कार्य ऊर्जा और शक्ति - 2",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pMU2Ge5fi7YvtUA5cuFVUVZP1vFLqK3MJm4AEiqB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture - 70 || कार्य ऊर्जा और शक्ति - 3",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YkuKPWQZTWiHK7Xtxx1gRLvcZLYag7QxsdG6qpjz.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

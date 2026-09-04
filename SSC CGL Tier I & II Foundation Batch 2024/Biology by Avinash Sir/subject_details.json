@@ -1,0 +1,320 @@
+{
+  "subject_name": "Biology by Avinash Sir",
+  "subject_id": 1220,
+  "video_count": 29,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Circulatory System Part-01 (परिसंचरण तंत्र भाग-01)",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/z1uf2-b3KMU",
+      "hd_video_url": "https://www.youtube.com/embed/z1uf2-b3KMU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b4e16bdd-68fa-4dda-bb7a-a27b61450b9f.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Circulatory System Part-02 (परिसंचरण तंत्र भाग-02)",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/hO_PU8UveTI",
+      "hd_video_url": "https://www.youtube.com/embed/hO_PU8UveTI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//070e4ad0-5a31-4e84-908a-67f198d6f11a.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Blood Part-01 (रक्त भाग-01)",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/sKA9gYv43ws",
+      "hd_video_url": "https://www.youtube.com/embed/sKA9gYv43ws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a70ebb66-2c00-4c31-a2c5-ef909a7237c6.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Blood Part-02 (रक्त भाग-02)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/qsdTz2pK5M0",
+      "hd_video_url": "https://www.youtube.com/embed/qsdTz2pK5M0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//860c8046-9186-408e-9c2a-c5447ceeaef8.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Respiratory System Part-01 (श्वसन तंत्र भाग-01)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/wm-uzAzM-Fw",
+      "hd_video_url": "https://www.youtube.com/embed/wm-uzAzM-Fw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0e44af13-21ea-488b-a531-1e7fe17c5789.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Respiratory System Part-02 (श्वसन तंत्र भाग-02)",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/8bNPyPFloAU",
+      "hd_video_url": "https://www.youtube.com/embed/8bNPyPFloAU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d2140c57-0e32-4af2-a697-e9aeba335b89.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Digestive System Part-01 (पाचन तंत्र भाग-01)",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/l4xLbSmT11U",
+      "hd_video_url": "https://www.youtube.com/embed/l4xLbSmT11U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//00719d1c-b3ce-43ae-8fac-4c49b940a264.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Digestive System Part-02 (पाचन तंत्र भाग-02)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/t5Kc-cD3MLg",
+      "hd_video_url": "https://www.youtube.com/embed/t5Kc-cD3MLg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dee839e1-4650-48c1-9d66-59336a3e1aa1.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Excretory System (उत्सर्जन तंत्र)",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/d-NHrVu9ql4",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/jan-2024/43984/kgss-1704362908-v43984.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c60594f4-22b5-42ee-b728-4772652f0e1a.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Skeleton System Part-01 (कंकाल तंत्र भाग-01)",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44265/kgss-1704449577-v44265.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IMluACgqvwQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4c821a98-9755-4e50-adc7-ed93310c9816.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Skeleton System Part-02 (कंकाल तंत्र भाग-02)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/BQGfELIrWxI",
+      "hd_video_url": "https://www.youtube.com/embed/BQGfELIrWxI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d1476872-2d2a-4d7b-85c7-178d6ffec02d.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Cell & Tissue Part-01 (कोशिका एवं ऊतक भाग-01)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/JkaKkZwrOPU",
+      "hd_video_url": "https://www.youtube.com/embed/JkaKkZwrOPU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//852591b5-115b-47fe-9850-fbc3607e20a8.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Cell & Tissue Part-02 (कोशिका एवं ऊतक भाग-02)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/8QPaQsZku-4",
+      "hd_video_url": "https://www.youtube.com/embed/8QPaQsZku-4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b6ece23b-f644-46df-a92a-5d296d158cbf.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Cell & Tissue Part-03 (कोशिका एवं ऊतक भाग-03)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/5EoKb4nqKT4",
+      "hd_video_url": "https://www.youtube.com/embed/5EoKb4nqKT4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//be6a36ca-6690-4bda-827a-096b0afc016d.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Endocrine Gland Part-01 (अंतःस्रावी ग्रंथि भाग-01)",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/cjB_vOglUws",
+      "hd_video_url": "https://www.youtube.com/embed/cjB_vOglUws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fb01c0d0-02e1-4c3d-80f4-54be17609107.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Endocrine Gland Part-02 (अंतःस्रावी ग्रंथि भाग-02)",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/acPmA7LqfAU",
+      "hd_video_url": "https://www.youtube.com/embed/acPmA7LqfAU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b1065927-ea1f-49e7-a539-dffdbfefd657.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Endocrine Gland Part-03 (अंतःस्रावी ग्रंथि भाग-03)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/N4B4bncRaxU",
+      "hd_video_url": "https://www.youtube.com/embed/N4B4bncRaxU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/d08Yu1l7T0W8bKia59oL9X87Q7DpuNBZlowQT0H4.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Endocrine Gland Part-04 (अंतःस्रावी ग्रंथि भाग-04)",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/1ywZVXNYTmM",
+      "hd_video_url": "https://www.youtube.com/embed/1ywZVXNYTmM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/PvJy9WdbbplrfmR5ypQEyDegJV8M86doSi3KQlQv.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Nutrition Part-01 (पोषण भाग-01)",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/aZt7k2niba8",
+      "hd_video_url": "https://www.youtube.com/embed/aZt7k2niba8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/O70uofNThOjucHZ3MfncGIEQBHUVSFylyrWQ90lI.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Nutrition Part-02 (पोषण भाग-02)",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/gjW5xfv3prw",
+      "hd_video_url": "https://www.youtube.com/embed/gjW5xfv3prw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yQbeLQee2uzNOaQ8nGQRjN7scinFdEOvHKI8P5kR.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Nutrition Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/591ee580-2a06-450c-81cd-3b090c6725c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 ||  Nutrition Part-03 (पोषण भाग-03)",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/FLc1Kc3lY70",
+      "hd_video_url": "https://www.youtube.com/embed/FLc1Kc3lY70",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8rH0Y2zgKnWa6VtJWZ7VjeBJBiGNfIV0nHL5SaCc.png",
+      "notes": [
+        {
+          "title": "Lecture-21 ||  Nutrition Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f6329cb2-964a-4d5e-aa98-7775ec7e9a7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Plant and Animal Kingdom Part-01 (पादप एवं प्राणी जगत भाग-01)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/a5iGvwcbXIA",
+      "hd_video_url": "https://www.youtube.com/embed/a5iGvwcbXIA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6VwX3Xk0DccUYFFBOCUyrHaExKHUzujJ86goixZ6.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || Plant and Animal Kingdom Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c100af84-7bdb-4a10-b5d4-126f71fd6581.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Plant and Animal Kingdom Part-02 (पादप एवं प्राणी जगत भाग-02)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/q-fD9eXYEc4",
+      "hd_video_url": "https://www.youtube.com/embed/q-fD9eXYEc4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/LYmCIe5h5eONUflDE8OTiOpfB5aw5lq3M56YiOsn.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Plant and Animal Kingdom Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a87fc78-47bc-454d-ad25-a924d47b94c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Nervous System Part-01 (तंत्रिका तंत्र भाग-01)",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/XhZt0ugpcss",
+      "hd_video_url": "https://www.youtube.com/embed/XhZt0ugpcss",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/P3d0PtkYNjej6rLvnR33GI7A0pPTvw9aZrqAibNG.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Plant and Animal Kingdom Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/cca9836d-be1d-4e3a-9829-46c762518271.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Nervous System Part-02 (तंत्रिका तंत्र भाग-02)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Tv2QpD7sS2I",
+      "hd_video_url": "https://www.youtube.com/embed/Tv2QpD7sS2I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vcOV3tDKu0Lr1Hd9sPPyO5zb2RaD5QUoLmXnqEmM.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Nervous System Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1fe1125b-5605-45c1-86b9-c765758dcc97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Human Disease Part-01 (मानव रोग भाग-01)",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ZacToaSyV80",
+      "hd_video_url": "https://www.youtube.com/embed/ZacToaSyV80",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sNHipAFevAgn0HdfjsjnyMwKqNhjP33t6XSX4FTk.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Diseases Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fc541543-e4f9-4744-a7ad-752ee84f2221.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Human Disease Part-02 (मानव रोग भाग-02)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/LhdQivt9Y3U",
+      "hd_video_url": "https://www.youtube.com/embed/LhdQivt9Y3U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MSdCAj6KapBLFArEDC9ipF16aI5CHVmRrXByHsL5.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Human Disease Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bbc42ff2-050c-4232-b1f6-138558afdaa8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Human Disease Part-03 (मानव रोग भाग-03)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/sGBlWbCkaP8",
+      "hd_video_url": "https://www.youtube.com/embed/sGBlWbCkaP8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/nxTFQDHpdj59clLqNovXvWD98PoBl1dZnuAhH72U.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Human Disease Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c4d15915-7810-42c0-a023-13a57c11314c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Plant Disease (पादप रोग)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/8VxX1CGHnTc",
+      "hd_video_url": "https://www.youtube.com/embed/8VxX1CGHnTc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xoH1rG3w9GPyec6gfQfHlNIQE3yJ2zNNFH1imgAM.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || Plant Disease Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ea487bcf-ee5b-4424-8557-d6cf19472ebc.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

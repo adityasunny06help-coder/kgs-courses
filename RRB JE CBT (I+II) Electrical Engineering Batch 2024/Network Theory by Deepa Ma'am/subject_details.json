@@ -1,0 +1,709 @@
+{
+  "subject_name": "Network Theory by Deepa Ma'am",
+  "subject_id": 5365,
+  "video_count": 50,
+  "note_count": 50,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Basic of Electricity (Part-1)",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/z1eW47sgwgE",
+      "hd_video_url": "https://www.youtube.com/embed/z1eW47sgwgE",
+      "thumbnail": "https://i.ytimg.com/vi/z1eW47sgwgE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Basic of Electricity (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6328ec94-2dcc-467a-81df-ec49213ab483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 ||  Electrostatics (Part-1)",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qoC8sURWKEM",
+      "hd_video_url": "https://www.youtube.com/embed/qoC8sURWKEM",
+      "thumbnail": "https://i.ytimg.com/vi/qoC8sURWKEM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 ||  Electrostatics (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c967601-fffc-4dce-828f-590543c901c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Electrostatics (Part-2)",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/xV8B9YmXmyM",
+      "hd_video_url": "https://www.youtube.com/embed/xV8B9YmXmyM",
+      "thumbnail": "https://i.ytimg.com/vi/xV8B9YmXmyM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Electrostatics (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ce4e8b4-3814-4b58-984d-20e27741d928.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Electrostatics (Part-3)",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/gnIGtxXQZFs",
+      "hd_video_url": "https://www.youtube.com/embed/gnIGtxXQZFs",
+      "thumbnail": "https://i.ytimg.com/vi/gnIGtxXQZFs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Electrostatics (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d835d93-9586-4cf1-b8af-28adf508ffd7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Electrostatics (Part-4)",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/n696FuBLGGQ",
+      "hd_video_url": "https://www.youtube.com/embed/n696FuBLGGQ",
+      "thumbnail": "https://i.ytimg.com/vi/n696FuBLGGQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Electrostatics (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74689ac3-3d8e-4902-8af0-3378e3600f23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Electrostatics (Part-5)",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/xGxmiT_shMw",
+      "hd_video_url": "https://www.youtube.com/embed/xGxmiT_shMw",
+      "thumbnail": "https://i.ytimg.com/vi/xGxmiT_shMw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Electrostatics (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2397619f-8cba-471f-930d-fc2a346fef17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Electrostatics (Part-6)",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/GPsQZZ9rxmY",
+      "hd_video_url": "https://www.youtube.com/embed/GPsQZZ9rxmY",
+      "thumbnail": "https://i.ytimg.com/vi/GPsQZZ9rxmY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Electrostatics (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3819ec1-f971-4eaa-a0fd-1402b835cf32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Electrostatics (Part-7)",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/udJK-pTOfgU",
+      "hd_video_url": "https://www.youtube.com/embed/udJK-pTOfgU",
+      "thumbnail": "https://i.ytimg.com/vi/udJK-pTOfgU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Electrostatics (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86cbd590-68a3-4ffc-9e14-5d02cba995bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Electrostatics (Part-8) + Basic of Electricity (Part-2)",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-CmLTNdkV0s",
+      "hd_video_url": "https://www.youtube.com/embed/-CmLTNdkV0s",
+      "thumbnail": "https://i.ytimg.com/vi/-CmLTNdkV0s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Electrostatics (Part-8) + Basic of Electricity (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d2de72d-dd77-4d5a-99db-6cfbab7e3f98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Basic of Electricity (Part-3)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Lj8x_XSuqgU",
+      "hd_video_url": "https://www.youtube.com/embed/Lj8x_XSuqgU",
+      "thumbnail": "https://i.ytimg.com/vi/Lj8x_XSuqgU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Basic of Electricity (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37cd9c93-6895-42fe-9407-3af7c9517e2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Basic of Electricity (Part-4)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qqZY4J561zM",
+      "hd_video_url": "https://www.youtube.com/embed/qqZY4J561zM",
+      "thumbnail": "https://i.ytimg.com/vi/qqZY4J561zM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Basic of Electricity (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76eb4385-b39d-402a-bb98-4776798650cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Basic of Electricity (Part-5)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/zSqVr3yLjmg",
+      "hd_video_url": "https://www.youtube.com/embed/zSqVr3yLjmg",
+      "thumbnail": "https://i.ytimg.com/vi/zSqVr3yLjmg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Basic of Electricity (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1779659f-6fef-4a04-8630-09b30663f8c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || AC Fundamental (Part-1)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/AgbDSt40pwA",
+      "hd_video_url": "https://www.youtube.com/embed/AgbDSt40pwA",
+      "thumbnail": "https://i.ytimg.com/vi/AgbDSt40pwA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || AC Fundamental (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7c3d21c-f97c-49a7-9799-bdbfd1c1ae05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || AC Fundamental (Part-2)",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/8WT6M1Zw1Gw",
+      "hd_video_url": "https://www.youtube.com/embed/8WT6M1Zw1Gw",
+      "thumbnail": "https://i.ytimg.com/vi/8WT6M1Zw1Gw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || AC Fundamental (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0ae423a-2ca1-459c-a0c1-b2ab8e94413e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || AC Fundamental (Part-3)",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/JxF3n2oUI8o",
+      "hd_video_url": "https://www.youtube.com/embed/JxF3n2oUI8o",
+      "thumbnail": "https://i.ytimg.com/vi/JxF3n2oUI8o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || AC Fundamental (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d1041c4-6cef-424b-9c7f-392a59acd99d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || AC Fundamental (Part-4)",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FXBMnq6RI9Y",
+      "hd_video_url": "https://www.youtube.com/embed/FXBMnq6RI9Y",
+      "thumbnail": "https://i.ytimg.com/vi/FXBMnq6RI9Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || AC Fundamental (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/638602a4-95f3-4804-b1cc-6df373663d60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || AC Fundamental (Part-5)",
+      "published_date": "15 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/JfrYvSHPLf4",
+      "hd_video_url": "https://www.youtube.com/embed/JfrYvSHPLf4",
+      "thumbnail": "https://i.ytimg.com/vi/JfrYvSHPLf4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || AC Fundamental (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1350985-855d-478c-a713-19a547035a18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || AC Fundamental (Part-6)",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DW6kpHynI88",
+      "hd_video_url": "https://www.youtube.com/embed/DW6kpHynI88",
+      "thumbnail": "https://i.ytimg.com/vi/DW6kpHynI88/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || AC Fundamental (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc78b60b-c70f-4571-9ef6-dbb0075ce446.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || AC Fundamental (Part-7)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/X2PUz-12wEM",
+      "hd_video_url": "https://www.youtube.com/embed/X2PUz-12wEM",
+      "thumbnail": "https://i.ytimg.com/vi/X2PUz-12wEM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || AC Fundamental (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6341d876-1d39-4b6b-bf76-da30093f70f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || AC Fundamental (Part-8)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/E9gOq-Pr_NE",
+      "hd_video_url": "https://www.youtube.com/embed/E9gOq-Pr_NE",
+      "thumbnail": "https://i.ytimg.com/vi/E9gOq-Pr_NE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || AC Fundamental (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56691161-5535-45ba-8531-b94fc7e50ac2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || AC Fundamental (Part-9)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/6KSGPu1jmVc",
+      "hd_video_url": "https://www.youtube.com/embed/6KSGPu1jmVc",
+      "thumbnail": "https://i.ytimg.com/vi/6KSGPu1jmVc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || AC Fundamental (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70817433-c534-4a56-9b73-373310051a83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || AC Fundamental (Part-10)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/rGYwy5z8VI0",
+      "hd_video_url": "https://www.youtube.com/embed/rGYwy5z8VI0",
+      "thumbnail": "https://i.ytimg.com/vi/rGYwy5z8VI0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || AC Fundamental (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eadb25f-8612-4169-bb49-8ec0d4a64cc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || AC Fundamental (Part-11)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/2xWqi6ncARM",
+      "hd_video_url": "https://www.youtube.com/embed/2xWqi6ncARM",
+      "thumbnail": "https://i.ytimg.com/vi/2xWqi6ncARM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || AC Fundamental (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53f7b85f-1a39-4d9f-8121-19a0eeecb563.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || AC Fundamental (Part-12)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_gf36mdKIZ0",
+      "hd_video_url": "https://www.youtube.com/embed/_gf36mdKIZ0",
+      "thumbnail": "https://i.ytimg.com/vi/_gf36mdKIZ0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || AC Fundamental (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/deda2e55-f29b-4dc5-a62f-098e437dbee9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || AC Fundamental (Part-13)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/z4u5pbqL4iI",
+      "hd_video_url": "https://www.youtube.com/embed/z4u5pbqL4iI",
+      "thumbnail": "https://i.ytimg.com/vi/z4u5pbqL4iI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || AC Fundamental (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/143b1f76-40c6-4ce1-b2dd-096f49bec9bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || AC Fundamental (Part-14)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cembQp0Bby4",
+      "hd_video_url": "https://www.youtube.com/embed/cembQp0Bby4",
+      "thumbnail": "https://i.ytimg.com/vi/cembQp0Bby4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || AC Fundamental (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb6f2a72-b0b7-4459-b79e-64915dcfcd6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Magnetic Circuit (Part-1)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/siI-o8RY65g",
+      "hd_video_url": "https://www.youtube.com/embed/siI-o8RY65g",
+      "thumbnail": "https://i.ytimg.com/vi/siI-o8RY65g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Magnetic Circuit (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b844974-c7c2-4b45-8990-4794e678cda7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Magnetic Circuit (Part-2)",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/2vE47QlPGDk",
+      "hd_video_url": "https://www.youtube.com/embed/2vE47QlPGDk",
+      "thumbnail": "https://i.ytimg.com/vi/2vE47QlPGDk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Magnetic Circuit (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af2b8ed6-0fad-4bbd-9a46-1fe9f0f0e876.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Magnetic Circuit (Part-3)",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Kolplb6qmew",
+      "hd_video_url": "https://www.youtube.com/embed/Kolplb6qmew",
+      "thumbnail": "https://i.ytimg.com/vi/Kolplb6qmew/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Magnetic Circuit (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a64b6249-8a0b-4456-91a1-e6467ef0b496.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Magnetic Circuit (Part-4)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/W9BEoIDmdrs",
+      "hd_video_url": "https://www.youtube.com/embed/W9BEoIDmdrs",
+      "thumbnail": "https://i.ytimg.com/vi/W9BEoIDmdrs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Magnetic Circuit (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88a66350-8f4a-488b-9340-b28b723aefb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Magnetic Circuit (Part-5)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/PNKY3DCXI8c",
+      "hd_video_url": "https://www.youtube.com/embed/PNKY3DCXI8c",
+      "thumbnail": "https://i.ytimg.com/vi/PNKY3DCXI8c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Magnetic Circuit (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d176b3b2-b252-43a7-b951-59fa09fd876b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Magnetic Circuit (Part-6)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/m_FNRSWNJjg",
+      "hd_video_url": "https://www.youtube.com/embed/m_FNRSWNJjg",
+      "thumbnail": "https://i.ytimg.com/vi/m_FNRSWNJjg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Magnetic Circuit (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4c3a3f8-0114-469e-9287-017e83f7afb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-42 || Law & Theorem (Part-1)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5whl6JWTdJ4",
+      "hd_video_url": "https://www.youtube.com/embed/5whl6JWTdJ4",
+      "thumbnail": "https://i.ytimg.com/vi/5whl6JWTdJ4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Law & Theorem (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ebb4b59a-95b5-4493-8245-e79145d553b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-33 || Magnetic Circuit (Part-7)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fhrxzFSf_no",
+      "hd_video_url": "https://www.youtube.com/embed/fhrxzFSf_no",
+      "thumbnail": "https://i.ytimg.com/vi/fhrxzFSf_no/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Magnetic Circuit (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6c086fb-1c6c-465c-8bb1-2f63871b741b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-34 || Magnetic Circuit (Part-8)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/bwCeSzT0Jns",
+      "hd_video_url": "https://www.youtube.com/embed/bwCeSzT0Jns",
+      "thumbnail": "https://i.ytimg.com/vi/bwCeSzT0Jns/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Magnetic Circuit (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/115cffc5-cc07-43d0-b047-df73f85daafe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-35 || Magnetic Circuit (Part-9)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/3_LZgR6SysQ",
+      "hd_video_url": "https://www.youtube.com/embed/3_LZgR6SysQ",
+      "thumbnail": "https://i.ytimg.com/vi/3_LZgR6SysQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Magnetic Circuit (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e425321f-730c-493b-b966-a1eb97f61cb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 || Magnetic Circuit (Part-10)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EO7E-foKJR8",
+      "hd_video_url": "https://www.youtube.com/embed/EO7E-foKJR8",
+      "thumbnail": "https://i.ytimg.com/vi/EO7E-foKJR8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Magnetic Circuit (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b3be7c0-ed9a-4c6a-abb9-02a186ba60c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-37 || Magnetic Circuit (Part-11)",
+      "published_date": "07 Apr 2025",
+      "video_url": "www.youtube.com/embed/9AUaoGXyibY",
+      "hd_video_url": "www.youtube.com/embed/9AUaoGXyibY",
+      "thumbnail": "https://i.ytimg.com/vi/9AUaoGXyibY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Magnetic Circuit (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aef264a-f081-45b4-9dcc-8f73baf33d48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-38 || Magnetic Circuit (Part-12)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/LxOIDf3CQSs",
+      "hd_video_url": "https://www.youtube.com/embed/LxOIDf3CQSs",
+      "thumbnail": "https://i.ytimg.com/vi/LxOIDf3CQSs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Magnetic Circuit (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b38c43f-9329-4ccc-abd5-1927a62dc196.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-39 || Magnetic Circuit (Part-13)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/2zI-J55dZlk",
+      "hd_video_url": "https://www.youtube.com/embed/2zI-J55dZlk",
+      "thumbnail": "https://i.ytimg.com/vi/2zI-J55dZlk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Magnetic Circuit (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/330c28ef-dbc0-47d8-b942-2b133d522c9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-40 || Magnetic Circuit (Part-14)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qseV0CCbXbY",
+      "hd_video_url": "https://www.youtube.com/embed/qseV0CCbXbY",
+      "thumbnail": "https://i.ytimg.com/vi/qseV0CCbXbY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Magnetic Circuit (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/210d158e-cebc-4c26-a844-6e359fb7e74d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-41 || Magnetic Circuit (Part-15)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/asEd6AEEdU4",
+      "hd_video_url": "https://www.youtube.com/embed/asEd6AEEdU4",
+      "thumbnail": "https://i.ytimg.com/vi/asEd6AEEdU4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Magnetic Circuit (Part-15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c6cb437-ca15-4222-939d-89eedb102f8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Law & Theorem (Part-2)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/iSIv69gF770",
+      "hd_video_url": "https://www.youtube.com/embed/iSIv69gF770",
+      "thumbnail": "https://i.ytimg.com/vi/iSIv69gF770/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Law & Theorem (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d7c5218-33f8-458c-b49b-f289a4b84699.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Law & Theorem (Part-3)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/mKldlofz99w",
+      "hd_video_url": "https://www.youtube.com/embed/mKldlofz99w",
+      "thumbnail": "https://i.ytimg.com/vi/mKldlofz99w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Law & Theorem (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24186d23-df7e-4e40-8fe8-1ca77f72cbf1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Law & Theorem (Part-4)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jyLiek7DwsI",
+      "hd_video_url": "https://www.youtube.com/embed/jyLiek7DwsI",
+      "thumbnail": "https://i.ytimg.com/vi/jyLiek7DwsI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Law & Theorem (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/625db896-a31f-4212-8481-d906641fe039.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Law & Theorem (Part-5)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/tHPRmIel8vc",
+      "hd_video_url": "https://www.youtube.com/embed/tHPRmIel8vc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9ZCZAQ8vyk25Tvt3Em3oyoWWUn5x6UTUhI0OFmuo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Law & Theorem (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8578bbd-ce32-461d-af73-6031c6a21d95.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Law and Theorem (Part-6)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/e7PjNO7S_wI",
+      "hd_video_url": "https://www.youtube.com/embed/e7PjNO7S_wI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B6e8PDkpwor9RBcMgBaJuqp9bzmrTAj88LRCm96u.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Law and Theorem (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79238f0b-f09e-4140-82d0-77d2492dfc30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Law and Theorem (Part-7)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WTTTJwg2W_c",
+      "hd_video_url": "https://www.youtube.com/embed/WTTTJwg2W_c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5HQRKoJzQDR9rkuYzrXcaoN59eLMsPihy9KW8gzC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Law and Theorem (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/932aaa88-ad81-4dae-a111-40fb17fb22aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Law and Theorem (Part-8)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sl0buPIdTpM",
+      "hd_video_url": "https://www.youtube.com/embed/sl0buPIdTpM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PXaoa6WmFH7MtVjCHN90HVZQBKPl8CEs1Nql3mp7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Law and Theorem (Part-8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f0e2a85-d1ab-444f-bd1f-f41d67f5866f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Law and Theorem (Part-9)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/3SsmHxw3yyo",
+      "hd_video_url": "https://www.youtube.com/embed/3SsmHxw3yyo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/c5lkrqsVx5xArc55zt4Qm8ZASzqmbv8k1ZAntMuX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Law and Theorem (Part-9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aef8fa96-cdbf-447a-aed3-119aac5183f9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

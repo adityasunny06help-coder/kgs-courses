@@ -1,0 +1,102 @@
+{
+  "subject_name": "Chemistry by Shubhankar Sir",
+  "subject_id": 2309,
+  "video_count": 7,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Basics of chemistry",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/6Wgj5knU-TQ",
+      "hd_video_url": "https://www.youtube.com/embed/6Wgj5knU-TQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 01 || Basics of chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c197f47-675b-4274-b5ab-11e8c9e2475c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Classification Of Matter",
+      "published_date": "13 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/tEQ7pbKo46s",
+      "hd_video_url": "https://www.youtube.com/embed/tEQ7pbKo46s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 02 || Classification Of Matter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e854d7f5-e847-4c35-ae29-7f98242cdebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Chemical Reaction",
+      "published_date": "20 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/28rZMpu_p4w",
+      "hd_video_url": "https://www.youtube.com/embed/28rZMpu_p4w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 03 || Chemical Reaction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75b0f4c3-4ace-4840-bae2-ebc9eba4e8e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Atom And Nucleus",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/AHyKuxnUtzY",
+      "hd_video_url": "https://www.youtube.com/embed/AHyKuxnUtzY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Chemistry Practice",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/hvZe_yBuC7A",
+      "hd_video_url": "https://www.youtube.com/embed/hvZe_yBuC7A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 05 || Chemistry Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37a3623a-64b0-4069-95cf-c462ac855142.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Periodic Table",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/IzKAbXo6pE4",
+      "hd_video_url": "https://www.youtube.com/embed/IzKAbXo6pE4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Periodic Table",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94d3b1a2-8900-4119-9fc7-f8fc7f7c270b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Classification of Matter",
+      "published_date": "17 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/zrj_xhX1vLI",
+      "hd_video_url": "https://www.youtube.com/embed/zrj_xhX1vLI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || Classification of Matter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/553ae74b-c196-4760-89b5-00800e514d7b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

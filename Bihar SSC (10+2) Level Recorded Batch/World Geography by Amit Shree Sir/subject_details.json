@@ -1,0 +1,230 @@
+{
+  "subject_name": "World Geography by Amit Shree Sir",
+  "subject_id": 4898,
+  "video_count": 24,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 : Internal structure of the Earth (पृथ्वी की आंतरिक संरचना) Part 01",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/W76yyiCA4D8",
+      "hd_video_url": "https://www.youtube.com/embed/W76yyiCA4D8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c0a312ff-f26a-4050-b60b-351505d2d27d.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 : Internal structure of the Earth (पृथ्वी की आंतरिक संरचना) Part 02",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/-Ps7VhnSXcE",
+      "hd_video_url": "https://www.youtube.com/embed/-Ps7VhnSXcE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e095fa0b-2ccc-4e7b-8676-39d359a0e5da.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03: Earthquake (भूकंप ) Part 01",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/-NKSVcHlg_Q",
+      "hd_video_url": "https://www.youtube.com/embed/-NKSVcHlg_Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3a8b47a1-e020-4d6f-bb77-0839979a2fd2.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04: Earthquake (भूकंप ) Part 02",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/NrYw2eY3Yjs",
+      "hd_video_url": "https://www.youtube.com/embed/NrYw2eY3Yjs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cc6502e1-4088-454f-88f7-96f54ca255d6.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05: Volcano ( ज्वालामुखी ) Part 01",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/yvZTuwcjcvE",
+      "hd_video_url": "https://www.youtube.com/embed/yvZTuwcjcvE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//13abaa88-d7e4-41e5-99b8-b4dde08a9593.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06: Volcano ( ज्वालामुखी ) Part 02",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/KGp8q854588",
+      "hd_video_url": "https://www.youtube.com/embed/KGp8q854588",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//620fa005-0ebf-4ee7-ba1a-d10b53714f45.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07: Volcano ( ज्वालामुखी ) Part 03",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/4USRyJsX4l0",
+      "hd_video_url": "https://www.youtube.com/embed/4USRyJsX4l0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c5b5e047-6cdb-47d2-b233-5724d00f6ac4.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08: Volcano ( ज्वालामुखी ) Part 04 &  Rocks (चट्टानें) Part 01",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/fQcCKZ9olig",
+      "hd_video_url": "https://www.youtube.com/embed/fQcCKZ9olig",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//42c365b5-9063-46d6-968d-dd0ef394c221.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09: Rocks (चट्टानें) Part 02",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/fpFP6TMz8b8",
+      "hd_video_url": "https://www.youtube.com/embed/fpFP6TMz8b8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//31034f27-cc24-4b8a-b8d1-f9c55df93a9f.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10: Latitude and Longitude Lines (अक्षांश एवं देशांतर रेखाएँ) Part 01",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Ipab86Np_YQ",
+      "hd_video_url": "https://www.youtube.com/embed/Ipab86Np_YQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d7ad6418-a0dc-4e51-9bc5-e8aafd0e66e5.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 : MCQs Practice",
+      "published_date": "07 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Gavyh6gmea8",
+      "hd_video_url": "https://www.youtube.com/embed/Gavyh6gmea8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b247bbc6-692b-473b-bf35-36275e64176c.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 : Latitude and Longitude Lines (अक्षांश एवं देशांतर रेखाएँ) Part 02",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/gG7B-EANskY",
+      "hd_video_url": "https://www.youtube.com/embed/gG7B-EANskY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dd955beb-e945-44c2-8171-693a7803c4a5.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 : Latitude and Longitude Lines (अक्षांश एवं देशांतर रेखाएँ) Part 03",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/vproCDAszC0",
+      "hd_video_url": "https://www.youtube.com/embed/vproCDAszC0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a1f3ea75-f7a7-454e-b65f-fa007614ec63.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 : Motion of Earth (पृथ्वी की गतियाँ)  Part 01",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/vkixpnFCAAg",
+      "hd_video_url": "https://www.youtube.com/embed/vkixpnFCAAg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//985290e9-6dda-450e-9025-02eeecced1f3.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 : Motion of Earth (पृथ्वी की गतियाँ) Part 02",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/AWSM3Ot8CyY",
+      "hd_video_url": "https://www.youtube.com/embed/AWSM3Ot8CyY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4e57d88b-cbcb-426a-acce-3913303de804.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 : Atmosphere  (वायुमंडल) Part 01",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/_xJCgm-lIsk",
+      "hd_video_url": "https://www.youtube.com/embed/_xJCgm-lIsk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ba1dad21-6fb0-4fb7-9044-1b7b0973995d.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 : Atmosphere (वायुमंडल) Part 02",
+      "published_date": "14 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/c5eH36iNnLQ",
+      "hd_video_url": "https://www.youtube.com/embed/c5eH36iNnLQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//866d529f-6408-48ea-a659-d83cb001b157.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 : Census (जनगणना )",
+      "published_date": "14 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/fRfnAkghGm8a",
+      "hd_video_url": "https://www.youtube.com/embed/fRfnAkghGm8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b5c8c685-a77d-420a-b78d-2f245f647c66.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 : Atmosphere (वायुमंडल) Part 03",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/FBCrr1iNIEo",
+      "hd_video_url": "https://www.youtube.com/embed/FBCrr1iNIEo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//123b2287-1593-4c5c-8972-a3a75913db92.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 : Air Pressure and Winds (वायुदाब और पवने) Part 01",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/u0sgi312Z78",
+      "hd_video_url": "https://www.youtube.com/embed/u0sgi312Z78",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//12b2364c-8da3-415c-ad9f-bbccc46dc9db.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 : Air Pressure and Winds (वायुदाब और पवने) Part 02",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/UkgwvWCwGJw",
+      "hd_video_url": "https://www.youtube.com/embed/UkgwvWCwGJw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d48163dd-94e8-4b05-a493-d62b793a9c26.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 :  Air Pressure and Winds (वायुदाब और पवने) Part 03",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/w7YrAjQ-w_0",
+      "hd_video_url": "https://www.youtube.com/embed/w7YrAjQ-w_0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0e73de4c-55d5-4967-aaeb-6e6efee5ec1c.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 : Mountain Breeze & Valley Breeze (पर्वत समीर और घाटी समीर)",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/RwEfucz47Hw",
+      "hd_video_url": "https://www.youtube.com/embed/RwEfucz47Hw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/D1l9VRxr5Vhq4Unm3a3bwF0YcFWdvQwKAGczYi0R.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 : Sunday Special (Revision Class)",
+      "published_date": "21 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/DZUGA1FGZD4",
+      "hd_video_url": "https://www.youtube.com/embed/DZUGA1FGZD4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vSJCGWsMrzkO2vwQO2MjgswE2LqyLBTqluIEi6Sv.png",
+      "notes": [
+        {
+          "title": "Sunday Special",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fbc617dd-e3d0-499e-ab40-52f34b5b22a0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

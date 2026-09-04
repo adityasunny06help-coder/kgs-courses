@@ -1,0 +1,37 @@
+{
+  "subject_name": "Hcf & Lcm",
+  "subject_id": 3330,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Hcf & Lcm - 01",
+      "published_date": "31 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112667/kgss-1725078091-v112667.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tSAn2mqB_NY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Smzi4CR3W0GaNPSbmFtIq7LuaLyIbqsjeWIhUlJx.jpg",
+      "notes": [
+        {
+          "title": "Hcf & Lcm - 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d776818a-e1e7-438f-bd06-c00915567b47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Hcf & Lcm - 02",
+      "published_date": "01 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/112934/kgss-1725163768-v112934.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yKyl9I7j3-8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lks1xgTc3N8gA0tkfEebNbDpmQWRzpGufZIarH5l.jpg",
+      "notes": [
+        {
+          "title": "Hcf & Lcm - 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2112b808-3186-42e0-8d27-a5b7c9fa30d0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

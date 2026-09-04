@@ -1,0 +1,947 @@
+{
+  "subject_name": "Advance Maths by Amit sir",
+  "subject_id": 5582,
+  "video_count": 67,
+  "note_count": 67,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Mensuration 2D (Part-01)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/0WTEFA56Uqc",
+      "hd_video_url": "https://www.youtube.com/embed/0WTEFA56Uqc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HZTkwoTGfHtYGLBr3x1S2X6Yi7tngDinjcnS7RM8.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Mensuration 2D (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/10435e13-60a5-427c-9171-19f8acad6f97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Mensuration 2D (Part-02)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/-PUvM_ilBzw",
+      "hd_video_url": "https://www.youtube.com/embed/-PUvM_ilBzw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/y9ZhxpO9njhPP9IGLCnov4KBxITgx3XZ3pWxwgEy.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Mensuration 2D (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f6426203-ee75-4875-9fc3-87f98b9c81ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Mensuration 2D (Part-03)",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/vNObYSoS1SU",
+      "hd_video_url": "https://www.youtube.com/embed/vNObYSoS1SU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fKPVMEi4wJ3pqL5GcA3IMqJSwW36MOj1yTdBO58S.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || Mensuration 2D (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f98ddded-eb81-4671-bf81-dbb06569dfb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Mensuration 2D (Part-04)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/dZenaL5Py3g",
+      "hd_video_url": "https://www.youtube.com/embed/dZenaL5Py3g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1bvUVm8H09mdm9eZEFZ3FrO7R5vbXkAi88WPORNH.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Mensuration 2D (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/191ca71d-49c6-4fb1-bf62-1d2fd31b77ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Mensuration 2D (Part-05)",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/-1r74ceFSEs",
+      "hd_video_url": "https://www.youtube.com/embed/-1r74ceFSEs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bZSagIpHkpWdwDDtxOegyBz0ayU7JFvOoU4XGchR.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Mensuration 2D (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0c7ec462-a723-4c31-be9a-ef31915527d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Mensuration 2D (Part-06)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Kxg4YmxFaNE",
+      "hd_video_url": "https://www.youtube.com/embed/Kxg4YmxFaNE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OhTisPclT3m6pqQzLm7HAsgFJfClfBKRUwBe5KKn.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || Mensuration 2D (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bf105298-5d40-4fc5-81a4-6dc3e2d95a22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Mensuration 2D (Part-07)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/6k2vhJyTLRQ",
+      "hd_video_url": "https://www.youtube.com/embed/6k2vhJyTLRQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IqYI9vLZv0YQBlLA4sihca714zUWZmgn6oBKnZAc.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Mensuration 2D (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0cf58ba9-1404-4890-84ba-e77cc2c31cf7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Mensuration 2D (Part-08)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/qmBuKl0vEL8",
+      "hd_video_url": "https://www.youtube.com/embed/qmBuKl0vEL8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EAHGxsd2AHl0kqiwRFoSabgUgIow2OSRA2ITGFV5.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Mensuration 2D (Part-08)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4dbb86c4-bfbb-42cb-a134-7f25ac83001f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Mensuration 3D (Part-01)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ARamhZKxbAc",
+      "hd_video_url": "https://www.youtube.com/embed/ARamhZKxbAc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZEAkUPAQyZM4z9YMAERrobFIwhhKnAqjor15yFIA.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Mensuration 3D (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5f435bcb-d621-4cc4-9c50-667ef6605d36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Mensuration 3D (Part-02)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/7iMWjqBbVWs",
+      "hd_video_url": "https://www.youtube.com/embed/7iMWjqBbVWs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jNkXVNNDCydYzT7icWGaCQvLR4Y8QR2VsjdsUwtx.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Mensuration 3D (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5a2e1e62-be09-42be-8753-9180d49d156f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Mensuration 3D (Part-03)",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Y6oTJb4YVGY",
+      "hd_video_url": "https://www.youtube.com/embed/Y6oTJb4YVGY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MHBQDLy0PvzKVlALvphguKWNvpyczoykSAn71s2l.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Mensuration 3D (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bdc5725c-4614-44ce-9f5f-b06808a7b9f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Mensuration 3D (Part-04)",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/wkc_cBGEb0c",
+      "hd_video_url": "https://www.youtube.com/embed/wkc_cBGEb0c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7ZzwZfQXhaRJTcZpZsrsSbQ2moL6TngW6Y2TnB4W.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || Mensuration 3D (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5b339103-9f15-4d35-bc5f-210903a82cfc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Mensuration 3D (Part-05)",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/S8Xj5ZUm2zo",
+      "hd_video_url": "https://www.youtube.com/embed/S8Xj5ZUm2zo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OFkgZBqgn033J4WQVhTIYH7A05O9rKV3QpWii6Jr.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || Mensuration 3D (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/52a96781-dd33-47ac-b386-59fb519f4f70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Mensuration 3D (Part-06)",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/wIbSFe5wpCI",
+      "hd_video_url": "https://www.youtube.com/embed/wIbSFe5wpCI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/N7GnbMbI7jGIETTs1aXTeh4uj2IhOyd7GG2UYiUt.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || Mensuration 3D (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/08025966-1e87-4a97-a552-b639abbae594.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Mensuration 3D (Part-07)",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/bCJPypmIf6E",
+      "hd_video_url": "https://www.youtube.com/embed/bCJPypmIf6E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TFLLQpRbQnlM1w5DRdmepPuwotutHQ83gKWosrgw.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || Mensuration 3D (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9098d4c9-c82d-4f0d-ac1e-19e7637c778c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Mensuration 3D (Part-08)",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/VulBCN3H3Ww",
+      "hd_video_url": "https://www.youtube.com/embed/VulBCN3H3Ww",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/06xm8Nu7YvSG6rdRKhr4FKOqC85aLFoRZPYR70O7.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || Mensuration 3D (Part-08)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8ac1b2f8-64be-4c5f-a1bb-e254fa640a78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Polygon (Part-01)",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/-w37RdnbM5c",
+      "hd_video_url": "https://www.youtube.com/embed/-w37RdnbM5c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QJKqfAWMRIrMl38nKBqd31EVgbCCBy5k9Lzw82Nr.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Polygon (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a9258c61-4559-4777-a6f3-74a15123e165.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Polygon (Part-02)",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/_3KH-cOLjXo",
+      "hd_video_url": "https://www.youtube.com/embed/_3KH-cOLjXo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/A08JrKjRLiuzGCVj0Ub8c0tysxGjA8NW6rQT2xpG.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Polygon (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/789909ed-9c03-42e8-b803-f467030bc894.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Algebra (Part-01)",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/-wBXgSYzSfs",
+      "hd_video_url": "https://www.youtube.com/embed/-wBXgSYzSfs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FpVAh3LlMJ7TsyAPTPPyPnexe22qC1qqKjdRTxrm.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || Algebra (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1e2b97c8-4521-4198-95b4-dfc1a9b72498.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Algebra (Part-02)",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/yYt9hOew-RQ",
+      "hd_video_url": "https://www.youtube.com/embed/yYt9hOew-RQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/L88L4SiSWv9a2aPeK8gWRbdH5mLBWV8oTccndHWo.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Algebra (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/17f20f57-8175-42c5-b0fb-d2b8e6e5bf21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Algebra (Part-03)",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/ItXEK44v0X4",
+      "hd_video_url": "https://www.youtube.com/embed/ItXEK44v0X4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MOcyioRCTHmtpSGVD5oV8rZ5NGNqzZaFR8DpJLnN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21Algebra Part-03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5b83f93a-c7db-4803-8e2c-210990e2ea8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Algebra (Part-04)",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/VM1YXtnTPSs",
+      "hd_video_url": "https://www.youtube.com/embed/VM1YXtnTPSs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rMxpMOurUF1WjWxiaR83pK3PW8BeygWmKxwwNBUD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Algebra (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/58a22e9f-4092-4156-8646-bd040d2acd86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Algebra (Part-05)",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/U7tGvZgwVqM",
+      "hd_video_url": "https://www.youtube.com/embed/U7tGvZgwVqM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4Zx8ibqJHMvLqGUjGrOilrn7UA6T9XtR5sIIuosk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Algebra (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c2f2b011-1ccb-4995-84f9-89fef07fe635.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Algebra (Part-06)",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/G2702e7zZkE",
+      "hd_video_url": "https://www.youtube.com/embed/G2702e7zZkE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NGFOGT94ZDtiofd38QIOjHx3RzWs4pMOpQLg9MQZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Algebra (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ddf3c41f-c526-4ab5-8ff9-1e68a3293079.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Number System (Part-01)",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/GLonKwxOOJ4",
+      "hd_video_url": "https://www.youtube.com/embed/GLonKwxOOJ4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4Qfq10eneuC1STnhSV839F8eSLnPcZ2PKKLFYS4E.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Number System (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/880f1dcb-9394-4af8-8565-ead059f88e10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Number System (Part-02)",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/XAKQDy1YFFE",
+      "hd_video_url": "https://www.youtube.com/embed/XAKQDy1YFFE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AguFAvrehhg3o3fOk2tjF7BYEq11T8J1VKWOdVBq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Number System (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e579c86c-c172-4b98-ad75-b1acb20a871b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Number System (Part-03)",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/1KXfAYJCBhQ",
+      "hd_video_url": "https://www.youtube.com/embed/1KXfAYJCBhQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/u2jwNjODISCpYqRAITYaKBTMQOKYAXM4uuyq0c2M.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Number System (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1e4ade83-8b00-4719-a912-67da49908e0c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Number System (Part-04)",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/54PQurMWteQ",
+      "hd_video_url": "https://www.youtube.com/embed/54PQurMWteQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2oK9tOpvaAfwTWss3uSfnsmqV7wRm7UwuKWU09TW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Number System (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e9ceee76-fe2d-4d2c-a064-c515ab9d49a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Number System (Part-05)",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/9doXLvPLNzc",
+      "hd_video_url": "https://www.youtube.com/embed/9doXLvPLNzc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Ic8hNK6Rdfqrg8DZup3ZIc7ymOY6GG76P5Dnj9PR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Number System (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b75b9b30-603f-47ca-935a-673090540350.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Number System (Part-06)",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/ZYWnsoGTYko",
+      "hd_video_url": "https://www.youtube.com/embed/ZYWnsoGTYko",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/V7vIO4ToOdKINX9oiTYmQVQF4rYmPygSIrHKrMU0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Number System (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/dea8a885-9d55-45fd-b8d6-f35c74e06306.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Number System (Part-07)",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/3rX0qElm1PI",
+      "hd_video_url": "https://www.youtube.com/embed/3rX0qElm1PI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2Ws1DkyZBmXIfmz8Fr2o55JZd4SNYdxmo5YCUWAA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Number System (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/141c6ded-5596-4890-9978-8cce4711f87c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Number System (Part-08)",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/50mlPhoBGO8",
+      "hd_video_url": "https://www.youtube.com/embed/50mlPhoBGO8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EVFvDzCg1POE2Z2YTlWd6ynTCqWzOdN768xDCE9q.jpg",
+      "notes": [
+        {
+          "title": "lecture-32-number-system-part-08",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/50982ca1-a16c-4ade-b8e0-e2ee689835eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Number System (Part-09)",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/H-FJo3fIHtI",
+      "hd_video_url": "https://www.youtube.com/embed/H-FJo3fIHtI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/fo87lZ6pJTehxFEEGX3eGXKlvwC4qrT0Fb3EYPXT.jpg",
+      "notes": [
+        {
+          "title": "lecture_number_system_part",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/cdf1f875-cb43-460e-b864-87733c8c60be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Number System (Part-10)",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/kCmUvbYDJRY",
+      "hd_video_url": "https://www.youtube.com/embed/kCmUvbYDJRY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8MNd5nLnmlNr8bXlF1OLvIrJT56tmrIgP9Q8gAvb.jpg",
+      "notes": [
+        {
+          "title": "lecture-34-number-system-part-10",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8f458a62-ec8d-4cc4-b3cf-f1a8931bebf3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Number System (Part-11)",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/FrxxPB-QtZQ",
+      "hd_video_url": "https://www.youtube.com/embed/FrxxPB-QtZQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/eA2WMOvBtxKLV8TnW0Pb4mzpRwkV9g1EMxpJWYPt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Number System (Part-11)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/41d35428-007c-4108-9fc8-8a832a5c0b76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Number System (Part-12)",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/6Jpvzd0o7FM",
+      "hd_video_url": "https://www.youtube.com/embed/6Jpvzd0o7FM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/BdF5BhejVBzRTIuLapOArxmsRa8uHgoAlUJYXVR1.jpg",
+      "notes": [
+        {
+          "title": "numbersysteml36p2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5e27ede9-42c7-40be-8aa0-85038dae16e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Number System (Part-13)",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/up2hj3U07ZU",
+      "hd_video_url": "https://www.youtube.com/embed/up2hj3U07ZU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/d6VZAc6wHTR6BEGTfSGf61JxyAi7k62QsGWQ6PHF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Number System (Part-13)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2a8ccc4e-938a-4146-afdc-8f32448fc844.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Number System (Part-14)",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/5suTigLOtJ0",
+      "hd_video_url": "https://www.youtube.com/embed/5suTigLOtJ0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Rp7iCu4aOgg4SFpfR9E3jaZQ0K6zQFFxNc85SaIF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 Number System Part14",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f62db026-ae7a-4c79-a85a-79dd1dee5163.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Number System (Part-15)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/mbmKTwWz7_g",
+      "hd_video_url": "https://www.youtube.com/embed/mbmKTwWz7_g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/KXdPTQfGhy8ntpdhAIMdFnuHphZ6dN9GPMh8RkRW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Number System (Part-15)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bca3f67c-c765-45e4-b1f4-c698dc9dedf7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Number System (Part-16)",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/dhaDalB0hA8",
+      "hd_video_url": "https://www.youtube.com/embed/dhaDalB0hA8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/o59GrS3bViRx0g2FocaFORELbvHsAFUpDeiY5AOu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Number System (Part-16)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/165263f6-c513-4a11-b6ec-c534ab2655a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Number System (Part-17)",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Eh_fpX_Yv7k",
+      "hd_video_url": "https://www.youtube.com/embed/Eh_fpX_Yv7k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/OScsoYnBvegTXFHgBrCt2EJOkBRFCKML32BeBMIC.jpg",
+      "notes": [
+        {
+          "title": "lecture-41-number-system-part-17",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/713110ce-5a0d-4f9d-822a-3c108019bb34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Number System (Part-18)",
+      "published_date": "01 May 2024",
+      "video_url": "https://www.youtube.com/embed/qyXzGlW2BgQ",
+      "hd_video_url": "https://www.youtube.com/embed/qyXzGlW2BgQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/rCxzWGeUWZHChLWMxMyJ9IUIDMNqhI417GH1ktlL.png",
+      "notes": [
+        {
+          "title": "Lecture 42 Number System Part 18",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2577bbad-f59d-498f-bf83-adad61595f3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Trigonometry (Part-01)",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/PbLpRfS4r1Q",
+      "hd_video_url": "https://www.youtube.com/embed/PbLpRfS4r1Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/1viiSsAnB4KQVDQTHEIKRwW0QgzKP9ORHluIGz0M.png",
+      "notes": [
+        {
+          "title": "Lecture-43 || Trigonometry (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7dbe2992-8d56-48be-9f9d-5bdbc65c8bdd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Trigonometry (Part-02)",
+      "published_date": "03 May 2024",
+      "video_url": "https://www.youtube.com/embed/IqjtkAGHLNY",
+      "hd_video_url": "https://www.youtube.com/embed/IqjtkAGHLNY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8GpaBIU7wYzXjC0kIZB5zNifLus2cGa543uMp9xj.png",
+      "notes": [
+        {
+          "title": "Lecture 44  Trigonometry Part 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b9f1fa38-b172-439d-a43f-b7519a871006.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Trigonometry (Part-03)",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/haXmCmZxqQo",
+      "hd_video_url": "https://www.youtube.com/embed/haXmCmZxqQo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Q9dNJlCLunlWnlmNm9M98HtOiwTZcvJa8WdNAeVa.png",
+      "notes": [
+        {
+          "title": "Lecture-45 || Trigonometry (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/15392d64-96a4-46da-992f-751106577503.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Trigonometry (Part-04)",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/DO20ghpZGzY",
+      "hd_video_url": "https://www.youtube.com/embed/DO20ghpZGzY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ekphnqyyov6DJFUIfuUozYIXryOfwe7XFxgYqtif.png",
+      "notes": [
+        {
+          "title": "Lecture-46 || Trigonometry (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8854e35e-fcd0-4ce3-927b-7a761db1769b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Trigonometry (Part-05)",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/hKU0RSOqxCs",
+      "hd_video_url": "https://www.youtube.com/embed/hKU0RSOqxCs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EHRakvtpFVFgCBVBhfv8swqLwOPbvcpICu9ehIU4.png",
+      "notes": [
+        {
+          "title": "Lecture-47 || Trigonometry (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ab7583d7-ba43-4a1d-8942-34d5e0c5165e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Trigonometry (Part-06)",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/XpabUrREgz4",
+      "hd_video_url": "https://www.youtube.com/embed/XpabUrREgz4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/B8nFgXZ0eoylNqXneRAyySW7m6qHpyKz29kVlipm.png",
+      "notes": [
+        {
+          "title": "rigonometry",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2a10d96c-8148-4db8-9a06-c2bc231ab161.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Trigonometry (Part-07)",
+      "published_date": "10 May 2024",
+      "video_url": "https://www.youtube.com/embed/DxwH3uiNNC0",
+      "hd_video_url": "https://www.youtube.com/embed/DxwH3uiNNC0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/TXHAhizlDCJt1zpB5QWHcbmmi46jilWfsnbJxKBL.png",
+      "notes": [
+        {
+          "title": "Lecture-49 || Trigonometry (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ebf8397c-728f-4c73-b6b7-5bccb03a8a74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Trigonometry (Part-08)",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/8ggff2l2yNg",
+      "hd_video_url": "https://www.youtube.com/embed/8ggff2l2yNg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EQbfoTadzDuYD5IjAwAbypy6VHuXXtxDPFHlJDUU.png",
+      "notes": [
+        {
+          "title": "maths",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1afa342c-40f0-46c4-a8e3-3047f7d396bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Trigonometry (Part-09)",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/dg3mN-MNNPs",
+      "hd_video_url": "https://www.youtube.com/embed/dg3mN-MNNPs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/wBoTKHszdFzcmoXfFgowHdBudpZNxEF3mlNbySvb.png",
+      "notes": [
+        {
+          "title": "maths",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8d2e725b-8ec2-4f48-89af-264963b23c11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Trigonometry (Part-10)",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/YrIHTiHolDU",
+      "hd_video_url": "https://www.youtube.com/embed/YrIHTiHolDU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6lThDMrAhlih7lAsM2XIhMLAdWC5PZJcVZp6ogC3.png",
+      "notes": [
+        {
+          "title": "Lecture-52 || Trigonometry (Part-10)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b1cd145c-af07-4704-b34a-995a83d9277f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Trigonometry (Part-11)",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/7GMzkJXm33A",
+      "hd_video_url": "https://www.youtube.com/embed/7GMzkJXm33A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/yvjq2l5L3GystDwyeE2OE1SELfZ2xvPc5WDk7rBY.png",
+      "notes": [
+        {
+          "title": "Lecture-53 || Trigonometry (Part-11)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2becf555-3f38-4371-b7fd-b4a076da9df1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Trigonometry (Part-12)",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/PvIHdAeZPLM",
+      "hd_video_url": "https://www.youtube.com/embed/PvIHdAeZPLM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kRu91PF99IKjWQqkzakncstPCVDsvZ1YRYEm4plK.png",
+      "notes": [
+        {
+          "title": "l54trigonometry",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/99bf0b03-c74e-4a5f-87fd-1fab99fdc918.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Trigonometry (Part-13)",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/O6Lo4xLYPhI",
+      "hd_video_url": "https://www.youtube.com/embed/O6Lo4xLYPhI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6MX6bTbAVfMPcZ9MBBs4GYUWPyrQNOXZCEbhtH6q.png",
+      "notes": [
+        {
+          "title": "Lecture-55 || Trigonometry (Part-13)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dff79213-6082-48a6-bb46-000049c9230e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Trigonometry (Part-14)",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/3nhuG2ytM0I",
+      "hd_video_url": "https://www.youtube.com/embed/3nhuG2ytM0I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Ag6Mai5y73RX53oKKIzwYUx2qmfRQ6zoqcqbMrtW.png",
+      "notes": [
+        {
+          "title": "Lecture 56 Trigonometry Part 14",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/aecf36c8-0aa8-49d8-ba7d-984fbe1cfc38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Trigonometry (Part-15)",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/rAY4HN7OPLw",
+      "hd_video_url": "https://www.youtube.com/embed/rAY4HN7OPLw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/XIvYDvl7Ez42bLE49orzRPt4TLjvJQUE03LupCbj.png",
+      "notes": [
+        {
+          "title": "Lecture-57 || Trigonometry (Part-15)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/63b7fa02-ac40-4f85-b7ca-ab2de85581bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Height & Distance (Part-01)",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/WLCvZ5QDQ_A",
+      "hd_video_url": "https://www.youtube.com/embed/WLCvZ5QDQ_A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/b10wpd8QnQXVsqNNPMHZOwS8uq3ShpK4UeQpV3xg.png",
+      "notes": [
+        {
+          "title": "Lecture-58 || Height & Distance (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8781244a-86ba-4b68-b497-c7142ea59566.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Height & Distance (Part-02)",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/yv7TQMW4gVY",
+      "hd_video_url": "https://www.youtube.com/embed/yv7TQMW4gVY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/GK0iOA63OCCZg0cFJquF7ju7RhLmvFeVmOd0P0z8.png",
+      "notes": [
+        {
+          "title": "Lecture-59 || Height & Distance (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/aaee3160-207c-4de7-a385-513e35f997d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Geometry (Part-01)",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZmroBqHveFs",
+      "hd_video_url": "https://www.youtube.com/embed/ZmroBqHveFs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/zTK5UxKqh6JkskjRNejF8BPQJgOZcI6YcxloqjVG.png",
+      "notes": [
+        {
+          "title": "Lecture-60 || Geometry (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c60c01ef-5798-49ac-9c9d-3e633638bf5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Geometry (Part-02)",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/f50SYgF-a3U",
+      "hd_video_url": "https://www.youtube.com/embed/f50SYgF-a3U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/TSrTzcxkqVrDSD8rWg1SEqeIBcwKK7ynZa3dDL1A.png",
+      "notes": [
+        {
+          "title": "Lecture 61Geometry Part 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8d6eb796-fce8-40c6-bce6-1c641fff4cca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Geometry (Part-03)",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/kar_r2sQl94",
+      "hd_video_url": "https://www.youtube.com/embed/kar_r2sQl94",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/TfmEgZIIzeDudqYXA5Fa5l7ICI9nIxv4Zt80cECA.png",
+      "notes": [
+        {
+          "title": "Lecture 62 Geometry Part 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/46f8afe8-b488-43dd-a524-3b7bdcc28b7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Geometry (Part-04)",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/03W5zcEarH4",
+      "hd_video_url": "https://www.youtube.com/embed/03W5zcEarH4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/AAYyocEldARvXo4r64irHaw7F0bQHQyBPH0NLC5G.png",
+      "notes": [
+        {
+          "title": "Lecture-63 || Geometry (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0095a59-fd21-4ced-a338-88b199737735.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Geometry (Part-05)",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/AkqoxqS7LGU",
+      "hd_video_url": "https://www.youtube.com/embed/AkqoxqS7LGU",
+      "thumbnail": "https://i.ytimg.com/vi/AkqoxqS7LGU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-64 || Geometry (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac763619-0988-4f60-8dbb-36f0d61dda87.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Geometry (Part-06)",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/x9iRN3CHqmI",
+      "hd_video_url": "https://www.youtube.com/embed/x9iRN3CHqmI",
+      "thumbnail": "https://i.ytimg.com/vi/x9iRN3CHqmI/default.jpg",
+      "notes": [
+        {
+          "title": "l65",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a9eb400-e963-4a55-aff5-051ea734bca3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || Geometry (Part-07)",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/46iDY1_uvdY",
+      "hd_video_url": "https://www.youtube.com/embed/46iDY1_uvdY",
+      "thumbnail": "https://i.ytimg.com/vi/46iDY1_uvdY/default.jpg",
+      "notes": [
+        {
+          "title": "l66",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16fd677e-9674-4384-85a0-e6f9567d0ad1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Geometry (Part-08)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/NEQuOZJ---s",
+      "hd_video_url": "https://www.youtube.com/embed/NEQuOZJ---s",
+      "thumbnail": "https://i.ytimg.com/vi/NEQuOZJ---s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-67 || Geometry (Part-08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed2bf219-67fd-458a-982a-63e5f975b5aa.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

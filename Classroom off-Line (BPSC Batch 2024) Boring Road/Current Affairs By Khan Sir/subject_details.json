@@ -1,0 +1,51 @@
+{
+  "subject_name": "Current Affairs By Khan Sir",
+  "subject_id": 1730,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। March Current Affairs ।। मार्च करेंट अफेयर्स (Part-1)",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "hd_video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ty2g1bbPtyavq8tpmvbRkSmRFrPauZyhOmUlM1l7.png",
+      "notes": [
+        {
+          "title": "March Current Affairs ।। मार्च करेंट अफेयर्स (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1d8e2737-b1bb-4fbe-9698-f1aa6fd45e9b.03"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ।। March Current Affairs ।। मार्च करेंट अफेयर्स (Part-2)",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "hd_video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OKjBj7P4wnKJv7GCGeeanYkRVqRom9Wkjl3yJuIP.png",
+      "notes": [
+        {
+          "title": "March Current Affairs ।। मार्च करेंट अफेयर्स (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/cd1dea0d-3104-4102-9ade-130c01addc61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-68 ।। Important Operation In India 2024",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/saNyRQW6idU",
+      "hd_video_url": "https://www.youtube.com/embed/saNyRQW6idU",
+      "thumbnail": "https://i.ytimg.com/vi/saNyRQW6idU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-68 ।। Important Operation In India 2024",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/829e83a3-d4be-482b-b749-607f2ad2feb0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

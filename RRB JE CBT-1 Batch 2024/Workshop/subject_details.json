@@ -1,0 +1,41 @@
+{
+  "subject_name": "Workshop",
+  "subject_id": 6143,
+  "video_count": 3,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Workshop by Chadha Sir",
+      "published_date": "11 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sFLUOIcqQubKvKidRc7SdmrLArJhgrsnKykblOKe.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Workshop by Apoorv Mittal Sir",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/3kuXR1CWlVM",
+      "hd_video_url": "https://www.youtube.com/embed/3kuXR1CWlVM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/avjVPtEnBZKVKsPnlVg8i0nLSwAiAuB7bLJ5t0jx.jpg",
+      "notes": [
+        {
+          "title": "Workshop by Apoorv Mittal Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a19ae58-7742-4602-9c23-a94b0e2372ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Workshop by Amit Maurya Sir",
+      "published_date": "02 May 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qt0UCqswQGhk2jAbu2gJAoFVUUXVnlrzuRjyX5tj.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

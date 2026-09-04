@@ -1,0 +1,23 @@
+{
+  "subject_name": "Orientation",
+  "subject_id": 2480,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/ABTAyELCpNM",
+      "hd_video_url": "https://www.youtube.com/embed/ABTAyELCpNM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/88RsadJFzaOO3NNMRr2wKPW9jMGrExd1GwbokBGN.png",
+      "notes": [
+        {
+          "title": "Orientation Class",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/af0b4239-0a4a-4ae3-b251-6a70e04f2013.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,180 @@
+{
+  "subject_name": "समुद्र विज्ञान",
+  "subject_id": 7572,
+  "video_count": 19,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || जलमंडल (Part- 1)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l47/lecture47.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l47/lecture47.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pJz8ttXjvgGGT7vIVOVQX1AZXBNd1hQsV4tnKwgv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || जलमंडल (Part- 2)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l48/lecture48.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l48/lecture48.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S0AmwUgGmvEN39so6gk8JxuMJLtrVhhnxf3W0YnQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || जल चक्र",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l50/lecture50.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l50/lecture50.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WqudMgSQLfFRqPfs4DcPCSch4U0Q08ZWRyeWDJ4L.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || महासागरीय तल की रूपरेखा",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l51/lecture51.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l51/lecture51.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yOS51HZC2rMcPMmQsOvrKNVIz0WcoSMF5WvF9Sm9.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || अटलांटिक महासागर",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l52/lecture52.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l52/lecture52.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ItTOj0WPBfzh1zJIiuLHMUonZA1isE9tbQknchiw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || महासागरीय प्रदूषण",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l53/lecture53.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l53/lecture53.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VBzfV3yg0v47emMhthGAkibLtxNkAewVm1cFmkwD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || महासागरीय लवणता",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l54/lecture54.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l54/lecture54.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zbkqb4qkrEX539kBXQBzLBrfbTr3bl501H7RLOMP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || महासागरीय तापमान",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l55/lecture55.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l55/lecture55.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AkDtrwkGDFQF14fgiZvCCEvtqvQLWl97hXHPA2r3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || महासागरीय तापमान एवं लवणता",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l56/lecture56.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l56/lecture56.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mE3oi64V3K38HaJdWv1kV5hBvyrlLEDYBSGxIekv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || महासागरीय धाराएं (Part- 1)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l57/lecture57.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l57/lecture57.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gUFKoTW5nKn1qXvx1wLIQV2wNDXtxAfij8M4X3Hn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || महासागरीय धाराएं (Part- 2)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l58/lecture58.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l58/lecture58.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FzqKGCkCGeh1EvVi4GuFYJl2GB8t9jChTEBODNVV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || महासागरीय धाराएं (Part- 3)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l59/lecture59.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l59/lecture59.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ytXWgySEoB8CPHpe2nBlUZAMZgWc5vQOjBmDs2BB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || प्रवाल एवं प्रवाल भित्ति (Part- 1)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l60/lecture60.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l60/lecture60.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cYO1pNfYSslZBafoTCYVV77k86sSnkaziAk2LUUl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || प्रवाल एवं प्रवाल भित्ति (Part- 2)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l61/lecture61.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l61/lecture61.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WlRYgB2GXGAH6lMurlloHIOmgL7mVo0F5zxtwsVw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || महासागरीय निक्षेप",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l62/lecture62.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l62/lecture62.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EsF8R0yiT4jjHMK0bdXKkI9ylfneExMWMOCv107o.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || महासागरीय निक्षेप एवं संसाधन",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l63/lecture63.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l63/lecture63.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4N5QhhszhC3oiDwsfd9PnIiz5q7YyUC0NxOee2dh.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || महासागरीय संसाधन || मत्स्यन, खनिज",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l64/lecture64.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l64/lecture64.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mhBuuL3Szxq25jF7U6sDi7IMz4PZHvwr5Q0j4o1Z.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || महासागरीय संसाधन || ऊर्जा संसाधन (तरंग ऊर्जा)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l65/lecture65.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l65/lecture65.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/x3F6qUgcLJ1dAqrpXhmaBlx0N3Vi3SCH7DmUnvqV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || सागरीय तरंग || सुनामी, ज्वार भाटा",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l66/lecture66.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l66/lecture66.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1HUxsV4QkNX1krr4mZdKrH62av0NPxtUk3YhJKU3.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

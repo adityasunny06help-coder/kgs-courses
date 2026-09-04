@@ -1,0 +1,909 @@
+{
+  "subject_name": "विजेता 2.O बैच",
+  "subject_id": 7341,
+  "video_count": 65,
+  "note_count": 63,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Astronomy",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/281624/kgss-1750769009-v281624.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/t_lVzyDBRdo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iuodCghRBdtsqbitqfbrI2txGA7aoesj0jt9Uzll.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Astronomy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d18e1259-4d05-4697-afb8-67efd3d33473.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Astronomy",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/wytP1FEFKo8",
+      "hd_video_url": "https://www.youtube.com/embed/wytP1FEFKo8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aehEcWs3ng7vrfFgFuBB6bZKgiPCmg04uHLXCDt8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Astronomy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d18e1259-4d05-4697-afb8-67efd3d33473.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Geography By Ajeet Sir",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/sOrjH_See_4",
+      "hd_video_url": "https://www.youtube.com/embed/sOrjH_See_4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faed93d7-e24f-4a3f-a2a9-76e3dc9be739.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Geography By Ajeet Sir",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/0qg1fT9AUMM",
+      "hd_video_url": "https://www.youtube.com/embed/0qg1fT9AUMM",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-04 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e2f8139-9284-45ea-be15-8eeaa6fb989c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Geography By Ajeet Sir",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/NAZmSRHMdJY",
+      "hd_video_url": "https://www.youtube.com/embed/NAZmSRHMdJY",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-05 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d28d31b-e323-4e08-b9cf-6e0c26a9a36d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Geography By Ajeet Sir",
+      "published_date": "29 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Iyacazz3cF8",
+      "hd_video_url": "https://www.youtube.com/embed/Iyacazz3cF8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-06 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8463a305-6609-44be-bc7d-bfd639d1b6e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Geography By Ajeet Sir",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6LqwjqAD0vE",
+      "hd_video_url": "https://www.youtube.com/embed/6LqwjqAD0vE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2onQFwCIiSt63shUUM3QbGAyXet3a4qxPjn1gdOg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/540d2e8d-9a8b-408c-a151-2c91bb918c20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Geography By Ajeet Sir",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/287049/kgss-1751370001-v287049.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2RhRWMERY6s",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-08 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0b71a22-06d6-40e9-a1c0-18b44170a7be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Geography By Ajeet Sir",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/288017/kgss-1751453788-v288017.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/v2dHwA2GPWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uunIgt6CVkUGwt4jE0cWf3QxKHNFkffD5ssvTJdn.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55492d00-b19a-43e0-9f23-90cbd4fef336.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Geography By Ajeet Sir",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hj-US70P9Mo",
+      "hd_video_url": "https://www.youtube.com/embed/hj-US70P9Mo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-10 || Indian Geography (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f131ecbb-dabc-41d7-a40e-c91e0b739ee1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Geography By Ajeet Sir",
+      "published_date": "06 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292665/kgss-1751801627-v292665.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kKSP86hqReA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-11 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15732306-3acb-479e-b02c-538a2ab70aa2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Geography By Ajeet Sir",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292886/kgss-1751886637-v292886.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T1PbRJtFTok",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-12 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60076dad-f0b9-4c1a-9d55-ee6e9432866d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Geography By Ajeet Sir",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/293613/kgss-1751974779-v293613.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_BLZqOEcE-0",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-13 || Geography By Ajeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54fd1aca-5146-4aca-a672-6e0b18c05a37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-1 || Economy Introduction",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294508/kgss-1752056289-v294508.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fhAyqgjWsDE",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-01 || Economy Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85f68ec8-2acc-4368-aa93-4a6d90283379.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-2 || Economy",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mADTRe9kXkM",
+      "hd_video_url": "https://www.youtube.com/embed/mADTRe9kXkM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hLU9ZDlOEq1UNJ74Jg2JhqyEeuzRRjfvKQ3FArtG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55c73425-f611-4273-a880-102ed880a589.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-03 || Economy",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zhFZRs5Y24Q",
+      "hd_video_url": "https://www.youtube.com/embed/zhFZRs5Y24Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03 || Financial Market",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d1f4ffd-d841-4e57-8a05-50aae8cdff05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-04 || Money & Banking",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/297150/kgss-1752314392-v297150.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GP5goISCJ74",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XiUfLVgxY8xiCw9kItHn7oSkOL8vKirMoJkc4znz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Money & Banking",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b88a9040-afee-403c-8525-e7695bda0128.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-05 || Banking",
+      "published_date": "13 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BtbDZqy88N8",
+      "hd_video_url": "https://www.youtube.com/embed/BtbDZqy88N8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-05 || Banking",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11e16645-d5c5-46e5-ba3e-32a2156e0422.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-06 || Economic Growth & Development",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/298265/kgss-1752487367-v298265.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0IXUx1Nj28Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-06 || Economic Growth & Development",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09b9b672-53c8-4882-b96f-094b30f147cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-07 || Economy",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LssL5SU5Kek",
+      "hd_video_url": "https://www.youtube.com/embed/LssL5SU5Kek",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-07 || Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ef84a5e-fcd0-45d9-9ccf-b399175f0ac5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-08 || Economy",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BxbOCSSRJeU",
+      "hd_video_url": "https://www.youtube.com/embed/BxbOCSSRJeU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-08 || Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de98761f-ee3a-465e-b43d-c80c1201884e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-09 || Economy",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jTLhyXFDv4k",
+      "hd_video_url": "https://www.youtube.com/embed/jTLhyXFDv4k",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-09 || Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b8b6a2f-6b5a-4cd4-b22f-9db037f96021.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-10 || Budget & Taxation",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/k3UhsgjxsX0",
+      "hd_video_url": "https://www.youtube.com/embed/k3UhsgjxsX0",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-10 || Budget & Taxation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91e39c85-cec7-44e5-ae3c-91b9b441b8c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-11 || Economy",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/C8C3Dus_hKI",
+      "hd_video_url": "https://www.youtube.com/embed/C8C3Dus_hKI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-11 || Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a538fbc-7259-4826-b4ae-b635a8f6cd7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-01 || Bihar Special",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YoV0iuLLaFA",
+      "hd_video_url": "https://www.youtube.com/embed/YoV0iuLLaFA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-01 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e2cfe27-409c-4f95-9f30-fe00e2c99478.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-02 || Bihar Special",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/bvnKpj7anGA",
+      "hd_video_url": "https://www.youtube.com/embed/bvnKpj7anGA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-02 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/129a5168-d78d-49ad-8116-e49724db526f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-03 || Bihar Special",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/QrASNuNTKHw",
+      "hd_video_url": "https://www.youtube.com/embed/QrASNuNTKHw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a85d201-ddff-4c61-8210-b5b1cdcd6aae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-04 || Bihar Special",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/AGKFR67AAJo",
+      "hd_video_url": "https://www.youtube.com/embed/AGKFR67AAJo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-04 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcdff5f4-e660-47d0-94d7-2db5fc76a24d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-05 || Bihar Special",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/307040/kgss-1753350950-v307040.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/307040/kgss-1753350950-v307040.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oDR2FdgrRBIzCOieveDIH4DYErFP0UJQ77Dr8MQx.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5045d88f-2556-43eb-a46c-c1e0fda82471.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-06 || Bihar Special",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NnlzgjuXOhA",
+      "hd_video_url": "https://www.youtube.com/embed/NnlzgjuXOhA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-06 || Bihar Special",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01d856f1-c8c8-469c-9ba9-4f2d56aff99a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-01 || Polity by Karan Sir",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/309736/kgss-1753524016-v309736.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DuVrJMimtBQ",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-01 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23a51d03-cb08-4fe5-b97e-8a34a75a24fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-02 || Polity by Karan Sir",
+      "published_date": "27 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CV5_gIJFFZs",
+      "hd_video_url": "https://www.youtube.com/embed/CV5_gIJFFZs",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-02 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73689de4-0832-4522-915c-f2f74d1a3cfc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-03 || Polity by Karan Sir",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/nCsFOYXwoJY",
+      "hd_video_url": "https://www.youtube.com/embed/nCsFOYXwoJY",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8419a0e8-9f9e-4085-8601-5bb49ab71df6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-04 || Polity by Karan Sir",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zoaMFMadgAM",
+      "hd_video_url": "https://www.youtube.com/embed/zoaMFMadgAM",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-04 || Polity by Karan SIr",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2fd776e-c8d0-4d70-a32a-dc3832dfe70b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-05 || Polity by Karan Sir",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/VlS9NA2mptw",
+      "hd_video_url": "https://www.youtube.com/embed/VlS9NA2mptw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-05 || Polity by Karan SIr",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6460db9-4134-44e2-b0d1-dc7c7a5a0ff5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-06 || Polity by Karan Sir",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-GaYm7hMPJE",
+      "hd_video_url": "https://www.youtube.com/embed/-GaYm7hMPJE",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-06 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df327a60-09c5-4b4a-aac8-635a565711f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-07 || Polity by Karan Sir",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/W_qJ7Id6ua8",
+      "hd_video_url": "https://www.youtube.com/embed/W_qJ7Id6ua8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-07 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac208a1c-e3c7-438c-9ef9-d018974d7a5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-08 || Polity by Karan Sir",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qU8BS9eB4go",
+      "hd_video_url": "https://www.youtube.com/embed/qU8BS9eB4go",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-08 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f454435d-b3e9-4d70-a9b7-f33b353506d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-09 || Polity by Karan Sir",
+      "published_date": "03 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/PWlmyNOY7ys",
+      "hd_video_url": "https://www.youtube.com/embed/PWlmyNOY7ys",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-09 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/645bec89-8fa0-4172-9d3b-76868532e9fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-10 || Polity by Karan Sir",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Eo8EAo5W2Yc",
+      "hd_video_url": "https://www.youtube.com/embed/Eo8EAo5W2Yc",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-10 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14d25ebc-89b6-4b68-b951-d153b50cd225.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-11 || Polity by Karan Sir",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7Mz8XhtEb0Y",
+      "hd_video_url": "https://www.youtube.com/embed/7Mz8XhtEb0Y",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-11 || Polity by Karan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bd623eb-c01e-49e0-8307-05db566c8ee0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-01 || Current Affairs",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Ycq9DaqSM7A",
+      "hd_video_url": "https://www.youtube.com/embed/Ycq9DaqSM7A",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c24f2063-ec54-41f2-8382-f99319331172.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-02 || Current Affairs",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/q6K36eAEjO4",
+      "hd_video_url": "https://www.youtube.com/embed/q6K36eAEjO4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-02 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/819a5945-622a-450c-a7aa-9d5c1a934da3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-03 || Current Affairs",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gUXvQfFxa4Y",
+      "hd_video_url": "https://www.youtube.com/embed/gUXvQfFxa4Y",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/749f91f0-34cb-4d69-a350-d8c3ed17e8f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-04 || Current Affairs",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rKTF44mAOy4",
+      "hd_video_url": "https://www.youtube.com/embed/rKTF44mAOy4",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-05 || Current Affairs",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0T4vnsXIahs",
+      "hd_video_url": "https://www.youtube.com/embed/0T4vnsXIahs",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-05 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32e9cb0c-82b4-477b-95c4-cbb59815735a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-06 || Current Affairs",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gpB_3GGtxKE",
+      "hd_video_url": "https://www.youtube.com/embed/gpB_3GGtxKE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bc0PVDaWPPyMSREh7GFacwOhOS4ZpRbU7QdkTnND.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c207d5a-b0a9-4de1-8d7b-9846a3917936.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-07 || Current Affairs",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/EIFOMOqlHRA",
+      "hd_video_url": "https://www.youtube.com/embed/EIFOMOqlHRA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/weOH0oCX0ux3NuEBRzk00Exyno11XuD3uXTAUa5C.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8777c6ea-88bc-4ce1-8ca5-e6a0e808b28e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-08 || Current Affairs",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZPkwz6BAv7o",
+      "hd_video_url": "https://www.youtube.com/embed/ZPkwz6BAv7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MbIDciqbDIO70UmY1wNSsslbRG8Bxravnd6WAcSQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8deb697b-3a5f-4b49-8e79-bc4c8f4dbc55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-01 || Biology",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/324138/kgss-1755343815-v324138.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/a6r3FGRhWVM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ee1wrLIPtIpp0PMEVkRWKpRfyWHED5fiJCXUiw0S.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea352216-f792-4d62-ae9a-e994b8645be3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-09 || Current Affairs",
+      "published_date": "17 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/dZnz-xc7haA",
+      "hd_video_url": "https://www.youtube.com/embed/dZnz-xc7haA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Rps6rfA7wPeroOe1hjLKjHTYnVlUfIvhTMpnhnRm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c332fa03-c259-470b-8c3c-91be3cf6ad96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-10 || Current Affairs",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/k8uRK-drELI",
+      "hd_video_url": "https://www.youtube.com/embed/k8uRK-drELI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZkN4apNhzx86KqWsvpyknSd21jMgxsjP3PNBNpRZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51272a1e-c76a-4466-bf3b-be63f979e3ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-02 || Biology",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5IqHnFonAeI",
+      "hd_video_url": "https://www.youtube.com/embed/5IqHnFonAeI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PNyEamDRsH1aYHTESDn2127pkv309knv0ZjERWKR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d85e8b70-f79a-4908-b8fa-053cb88af04f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-11 || Current Affairs",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qgTyN2VZvDU",
+      "hd_video_url": "https://www.youtube.com/embed/qgTyN2VZvDU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ixc0hq1w5pHes8hKmXxgjTiKnYgSdCL2HBqP9C5n.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f205645c-ac81-4f52-a15d-114525eb0c27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-03 || Biology",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Lsy6DNrfuIw",
+      "hd_video_url": "https://www.youtube.com/embed/Lsy6DNrfuIw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xT4GR3V5rRENKhmwizHvfGH1Q7TFqOk0oB9WzBAE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b09d64f-1814-417a-93b2-46e23494724b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-12 || Current Affairs",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/N1GmQFFmiAM",
+      "hd_video_url": "https://www.youtube.com/embed/N1GmQFFmiAM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mwxHN5fInoQdfTeExIHF6vT4dCyVGLT6pCgfuxA8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || December 2024 MCQ'S",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f99f8653-ed02-4114-a30f-fe71fcc73cee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-04 || Biology",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/KokikLc2R_E",
+      "hd_video_url": "https://www.youtube.com/embed/KokikLc2R_E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IbAwSB2ldwsNiV4iac3ysn3bNU1TjLmKxjo8peld.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae544c78-407a-44f5-9c55-92a8c4e514fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-05 || Biology",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/327767/kgss-1755780066-v327767.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/__wx01gur2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zr9do8kllaixRd5YO0JbPnWLYK78BIgxVMuv38aa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6090820-b970-4a91-a4c0-732c1f8aac7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-06 || Biology",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/328530/kgss-1755865643-v328530.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iMek_qT0IDQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Vrk955JNamW3sr8hzwXSj1YcNGtfvoOfPU3l4Vpc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f46b5869-7c87-4536-a3d7-57b5f52834c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-07 || Biology",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/329399/kgss-1755939894-v329399.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fsT0bGFgfOg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EIsgmY28i9snKjFz9Fuca7PGVvJNxkZNAxvLPho1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95273634-6685-462d-9607-1c8a091070b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-01 || History by Manju Sir",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331021/kgss-1756115412-v331021.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cRUKTUdOnao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jThgBU2EvuXXFgKOyL24g5cBdjJ7J6bh9wE9MgfH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || History by Manju Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee56a70a-7ce1-4d71-a7a6-0e54f050bc20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-08 || Biology",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/330697/kgss-1756124016-v330697.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cETDx2VzvOg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-08 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85e65adb-2a47-4b9e-86e3-5c950c97835d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-02 || History by Manju Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331926/kgss-1756200908-v331926.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fouZ5xmgqgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZDgEF1sSYfdDbjBX9yCV2cVDops3wAfo4KKrKqTH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || History by Manju Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51d9d00c-97dd-41d5-ac9d-01580fbb83d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-09 || Biology",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331675/kgss-1756211430-v331675.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MibQs0SbZOc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/trrua5s9W4NngklDC4FZA0b1piv6ZGQIryZpzUA6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Biology by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3886ed15-0e3b-4206-a2c1-d6fe10ef3171.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-03 || History by Manju Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://stream-kgs.akamaized.net/hls/kgss-1756290251-v332619.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HHL2K8WsBjQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uA8GRbSa7cSkyeppEl39CbWaz8WdqODW8Sc9AxFl.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

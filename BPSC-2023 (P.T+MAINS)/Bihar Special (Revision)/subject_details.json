@@ -1,0 +1,394 @@
+{
+  "subject_name": "Bihar Special (Revision)",
+  "subject_id": 1295,
+  "video_count": 35,
+  "note_count": 14,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01: बिहार : एक सामान्य परिचय",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-01/l-01-rev-bihar-sp.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wk6hCe1b3h0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e0948585-884a-4543-8362-6f73e92a5f03.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02: बिहार का इतिहास",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-02/l-02-rev-bihar-sp.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vOINx-k40rI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//44c22152-dce7-4849-b51f-64a1a9494194.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03: वैदिक काल",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-03/l-03-rev-bihar-sp.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2CoRAXlUc4c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//caea6a0f-fad2-49c0-b95b-a6081b699a7b.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04: मौर्य वंश",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-04/l-04-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iL6BE1Vt_is",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f6cc2d35-6897-4f65-8e7b-347785c89b22.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05: गुप्त साम्राज्य और वंश",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-05/l-05-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/B36hUIngJ6I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5d18fc41-84b7-4d32-93aa-ffd040452f84.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06: कर्नाट वंश, बौद्ध वंश तथा जैन धर्म",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-06/l-06-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/El-II9BQRLM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3c5fe6aa-0502-4e54-b0a2-8200a1307c67.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07: मध्यकालीन बिहार",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-07/l-07-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/m1IdXYXIybc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4262473b-7576-40cf-a2bc-8faacb651c15.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08: आधुनिक बिहार का इतिहास",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-08/l-08-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/if-J8k5aTPU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//49b1ce4b-6c41-46cf-b4eb-d56c9e324a8a.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09: आधुनिक बिहार का इतिहास (भाग -2 )",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-09/l-09-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/odDwOtVAY0U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f1c100de-5064-43cf-8e70-ed1f6e783b8b.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10: 1857 की क्रांति और बिहार",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-10/l-10-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XyRAi5LNfvU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//54bac7a1-b944-42b3-8300-ea92f4a3013f.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11: होमरूल आंदोलन एवं बिहार",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-11/l-11-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KeY1nUH9EEQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//48c2a185-a116-4074-b073-02cebefc8f86.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12: असहयोग आंदोलन और बिहार, खिलाफत आंदोलन और बिहार , साइमन कमीशन और बिहार तथा सविनय अवज्ञा आंदोलन",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-12/l-12-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QBAUX23ckcw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//753aaaa0-9ba9-431d-bef8-d36a0a1df932.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13: भारत छोडो आन्दोलन और बिहार",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-13/l-13-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1LiIQCyzGT0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8baa0dd6-58d7-40b7-bc0d-ce4a55147045.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14: History Test",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-14/l-14-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5Xw8mODLnzU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9927f996-34b8-4b7e-b3e1-7a0dcb8ac481.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15: बिहार की भू. गर्भित संरचना",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-15/l-15-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zCXGxd0cSsk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WQxH6xRsXGEC5zukLx8T1SsaTVHjsh855bbePmtI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16: बिहार की जलवायु",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-16/l-16-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mpMkdzOL5sk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yTMUMbu6mO7lUQmUE2GK96Y57cUSycB9XYlEDCYp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17: वर्षा ऋतु तथा बिहार की मिट्टी",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-17/l-17-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S3QqlLfZi9M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/aezQhRDDxKufCtW9k3QZGWwlSV05BW7KvdoacD8n.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18: बिहार की मिट्टी",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-18/l-18-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aUMB0UlY5Bk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/O5TbXozjGuBOCxHoTUE8M3Uki3Dukve1fcDPkReG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19: बिहार की नदियाँ",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-19/l-19-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MtGTvQ5y4s4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gvVDtgQms29txy97NNDVbJF8HeQQ8sHuMB9usnFg.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20: बिहार में सिचाई",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-20/l-20-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xx6T-i4CcYw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Z71BIyShFr9Etxq99VP5JmqAfg2bikcQnPGCRd3q.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21: बिहार की कृषि",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-21/l-21-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iOmVY8eQ-KQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YWBtlJJ9zez1vDPc5c9LvvpZFzJUMxkhxS7ipext.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22: खनिज संसाधन",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-22/l-22-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0aXrZc9pj4A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dZu57ICI8pklGge5bLE7EvBIGT9ViVpPrxsoXRR6.jpg",
+      "notes": [
+        {
+          "title": ": खनिज संसाधन",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ef16166e-78fd-440f-b401-f34b3a989b5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23: उद्योग",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-23/l-23-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YmH-izHEjQk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/0brd6BewwS9rTugy6mIhJzNuJcReWcGQXIUElWxb.jpg",
+      "notes": [
+        {
+          "title": "उद्योग",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e3115eea-3eb9-4972-b999-d9a67ef97c7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24: बिहार परिवहन एवं संचार",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-24/l-24-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/apMAAyyGkf4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6tiatZUQJXdp4a6ZxgLRZfTAKqXHhPSRzrvSUPCc.jpg",
+      "notes": [
+        {
+          "title": "बिहार परिवहन एवं संचार",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/86607c1b-8c2b-4463-a60e-784e495deb83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25: बिहार: जनगणना 2011",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-25/l-25-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bivXyvKazlE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/w3rpzVKxiUvFtIRgzysCKgV4fj1pJsnPNFmN7BMC.jpg",
+      "notes": [
+        {
+          "title": "बिहार: जनगणना 2011",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/aca6eb87-2a63-4eaf-af61-472b429fefce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26: बिहार की राजव्यवस्था",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-26/l-26-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ly30SX2hixc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/l3mwWV1bIJWfjsPYLf239GFVQDmu1D4w1HPCifk4.jpg",
+      "notes": [
+        {
+          "title": "बिहार की राजव्यवस्था",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9712d155-d003-42cb-bbdd-8f95a79cbdcc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27: बिहार में प्रशासनिक इकाईयां",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-27/l-27-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ocu4B1mVrc8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/baJFQTPxyh3FX1lXsuNC5L0MuByf8fYJwo91Vhll.jpg",
+      "notes": [
+        {
+          "title": "बिहार का प्रशासनिक इकाई",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/84952e47-5b9a-48c5-af3a-2a7ef6413d0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28: बिहार के प्रमुख साहित्यकार",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-28/l-28-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OHIAjcQZVHc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ch346xlGi5p741m0dNJyGvhiw3oKigoks2AzKhfw.jpg",
+      "notes": [
+        {
+          "title": "प्रमुख साहित्यकार",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/98cf1f67-09e8-451a-b18c-051877846391.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29: राज्य में पर्यटन एवं पर्यटक स्थल का स्वरूप",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-29/l-29-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LwjTU9w9JE4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hjhaZVtx8axaNrD0fB6VF2Miuy1FoFcpwwgYrRTi.jpg",
+      "notes": [
+        {
+          "title": "राज्य में पर्यटन",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7bfc6745-40cb-4ffc-9c4f-b83544193283.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30: प्रसिद्ध व्यक्तित्व",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-30/l-30-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K_id8RUel6g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ILoX5ccwuJfBsh5KEnSQuKCdanzbgD2S3ALZnXK9.jpg",
+      "notes": [
+        {
+          "title": "प्रसिद्ध व्यक्तित्व",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/239edff9-851f-4347-a209-c4f2e5391958.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31: कला और संस्कृति",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-31/l-31-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QpC4IxTHECA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7Up9lNV9KLuNbnNG7SmrLdKz5Px4ee3YmsNczQ2a.jpg",
+      "notes": [
+        {
+          "title": "कला और संस्कृति",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/71008268-ada5-4b5f-9949-13e90de4a908.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32: प्रमुख पर्व एवं त्योहार",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-32/l-32-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fI6HhfReBlo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/thSsK3pZU0og451JeHm3g152MS96Hnt9Ipfzq3h7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32: Bihar Special By Jaswant Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/07de4989-a622-4221-88e1-7534b471b305.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33: प्रश्न अभ्यास",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-33/l-33-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Qabz0KtgAc4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fwRTeHBDqpE5tp3ME0E1ipiptMoowVj3iB1nXpRZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33: Bihar Special By Jaswant Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/95f51ef5-54d4-44df-83f0-788aab6d794d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34: प्रमुख जनजातीयाँ",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-34/l-34-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pmkkaYss-ZU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Uel0mRpYPItXEpQNpua5tRWsrgUD8brXM6aqqZbr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34: Bihar Special By Jaswant Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a4725356-8ae1-4e60-85ca-21602145faf3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35: Bihar Special By Jaswant Sir",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc/bihar-sp/l-35/l-35-rev-bihar-sp-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SGiAlqh2v7s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "सात निश्चय योजना",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c87a026f-fada-4692-95f6-b74587e8f12d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

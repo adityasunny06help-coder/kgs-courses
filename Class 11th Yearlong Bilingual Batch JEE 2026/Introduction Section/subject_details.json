@@ -1,0 +1,64 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 1852,
+  "video_count": 5,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "JEE 2026 Students Orientation Session By KM SIr & JD Sir",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/8hUVw8VQH3E",
+      "hd_video_url": "https://www.youtube.com/embed/8hUVw8VQH3E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qKx0VMZR5K3XI0ycFrYCyVtiZLdZhvwXsK3LC4i8.jpg",
+      "notes": [
+        {
+          "title": "jeeintroduction",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e77d7527-f8db-41c5-b8f4-b5bdb8f32319.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Number System || Lecture 1 || Class 11st JEE Maths | SETU Batch (Target JEE 2026) Maths by KM Sir",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://youtu.be/yD7r1BZgP0A?si=2VdgP6FeCGJuH51h",
+      "hd_video_url": "https://youtu.be/yD7r1BZgP0A?si=2VdgP6FeCGJuH51h",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Number System || Lecture 1 || Class 11st JEE Maths | SETU Batch (Target JEE 2026) Maths by KM Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/65d09e33-59a3-43cf-8de4-deaabc904a2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Khan Sir Ke Teachers are Here !! 🚀Who will be your Faculties in Class 11th JEE Batch 2026? 🙏",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://youtu.be/A5RDRd2KB50?si=S9KnCj6WtSGuOguU",
+      "hd_video_url": "https://youtu.be/A5RDRd2KB50?si=S9KnCj6WtSGuOguU",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Set Theory || Lecture 1 || Class 11st JEE Maths | SETU Batch (Target JEE 2026) Maths by KM Sir",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://youtu.be/VPgA2ePI_s0?si=6guZWUvcygWRryPi",
+      "hd_video_url": "https://youtu.be/VPgA2ePI_s0?si=6guZWUvcygWRryPi",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Inequalities || Lecture 1 || Class 11st JEE Maths | SETU Batch (Target JEE 2026) Maths by KM Sir",
+      "published_date": "27 Apr 2024",
+      "video_url": "https://youtu.be/DL7Om4LNl1w?si=eJqYfmpVFoKoXgzQ",
+      "hd_video_url": "https://youtu.be/DL7Om4LNl1w?si=eJqYfmpVFoKoXgzQ",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

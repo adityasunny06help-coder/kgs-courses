@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "72nd BPSC Foundation Batch VI (Online)",
+    "price": "4500",
+    "id": "709",
+    "extracted_date": "2025-08-27T13:35:24.396552"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class by Khan Sir",
+      "id": 7870,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 7891,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 7895,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Economy by Dr. Bharat Sir",
+      "id": 8282,
+      "video_count": 9,
+      "note_count": 8
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 8404,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

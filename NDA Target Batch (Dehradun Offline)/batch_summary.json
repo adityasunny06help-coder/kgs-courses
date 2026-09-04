@@ -1,0 +1,112 @@
+{
+  "batch_info": {
+    "title": "NDA Target Batch (Dehradun Offline)",
+    "price": "40000",
+    "id": "400",
+    "extracted_date": "2025-08-27T15:44:48.889494"
+  },
+  "subjects": [
+    {
+      "name": "SSB Guidance",
+      "id": 4172,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Science by Shubhankar Sir",
+      "id": 3640,
+      "video_count": 90,
+      "note_count": 90
+    },
+    {
+      "name": "History Practice by Amarendra Sir",
+      "id": 5595,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Maths by Vipin Sir",
+      "id": 3641,
+      "video_count": 118,
+      "note_count": 118
+    },
+    {
+      "name": "English by Ruchir sir",
+      "id": 3642,
+      "video_count": 97,
+      "note_count": 89
+    },
+    {
+      "name": "GS by Vishal Kumar sir",
+      "id": 3643,
+      "video_count": 92,
+      "note_count": 91
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 4356,
+      "video_count": 54,
+      "note_count": 50
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 4422,
+      "video_count": 17,
+      "note_count": 17
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 4607,
+      "video_count": 44,
+      "note_count": 44
+    },
+    {
+      "name": "Biology by Amrita mam",
+      "id": 4766,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "NDA TEST-01",
+      "id": 5150,
+      "video_count": 13,
+      "note_count": 37
+    },
+    {
+      "name": "Physics by Shubhankar Sir 02",
+      "id": 7114,
+      "video_count": 71,
+      "note_count": 69
+    },
+    {
+      "name": "English by Ruchir sir 02",
+      "id": 7116,
+      "video_count": 80,
+      "note_count": 76
+    },
+    {
+      "name": "Polity by Vishal Kumar Sir 02",
+      "id": 7118,
+      "video_count": 64,
+      "note_count": 64
+    },
+    {
+      "name": "Current Affairs By Vishal Sir 02",
+      "id": 7119,
+      "video_count": 19,
+      "note_count": 17
+    },
+    {
+      "name": "History by Amarendra Sir 02",
+      "id": 7121,
+      "video_count": 55,
+      "note_count": 53
+    },
+    {
+      "name": "Math by Salman Sir 02",
+      "id": 7141,
+      "video_count": 110,
+      "note_count": 104
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "subject_name": "Chemistry by Gyan Sir",
+  "subject_id": 8331,
+  "video_count": 9,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 ||  MATTER",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7YmaPEzVxeY",
+      "hd_video_url": "https://www.youtube.com/embed/7YmaPEzVxeY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r5MZeHh6lOsD5DXQaszCR6RDnZ312PZlNDUxmz1v.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d9498ff-9cbf-44f1-9526-46e044904ebf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 ||  Matter",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_5DJAhLVMIM",
+      "hd_video_url": "https://www.youtube.com/embed/_5DJAhLVMIM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PDX1xCp5GFWxbqSjqhC99nTOxREwgtpj1L26dIia.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7a2a717-6751-43b6-9bc6-bafc7c4f76ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || MIXTURE",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/xUPgcJHul90",
+      "hd_video_url": "https://www.youtube.com/embed/xUPgcJHul90",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3BEUAWNmZqlIUwUc8nHkrw4Z5xdDMqv7yUXRRR1Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || MIXTURE",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/653faa53-11bd-437f-95cc-b7908c8aa512.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4|| Mixture (Part-2)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ujK2KPAt8yM",
+      "hd_video_url": "https://www.youtube.com/embed/ujK2KPAt8yM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yxcFp89FeBGvFtdKz59uyF5RnQS6tKmfahKeJqGk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4|| Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dee982e-d94e-4f12-b9e3-05aa83965835.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5|| Mixture (Part-3)",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/KDuEKiBXX3w",
+      "hd_video_url": "https://www.youtube.com/embed/KDuEKiBXX3w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ej0LslVjqMlySdyAKCqa6AkCQNsAjef4qQ4i3tDS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5|| Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/195cea9e-63e0-402a-925a-0cc0cf065393.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Metals and Non-Metal",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Qi91mvleC18",
+      "hd_video_url": "https://www.youtube.com/embed/Qi91mvleC18",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4U1ZNBn4EOyFIdDqbOzw9mGAw6p0ARF0Mx83CAtV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/054dafcd-6729-42e0-8e04-d557ee8834dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Chemistry by Gyan Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/nwU-mpVcglk",
+      "hd_video_url": "https://www.youtube.com/embed/nwU-mpVcglk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r5zIE3O23sBeg0etdiy9rZu57cjG2iz36mLJTwQ6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af561694-7288-46dd-b50f-a7b75975f222.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Chemistry by Gyan Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/mDMnHhM4mXI",
+      "hd_video_url": "https://www.youtube.com/embed/mDMnHhM4mXI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nSFbHBFIbclWmbkH2gG3xKDhV5mJfkkiirNUju9V.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Chemistry by Gyan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36c076c3-e3f2-4190-a2c8-26ee58cbb451.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Chemistry by Gyan Sir",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/f3gTJuuwpvUOJYkm4L2BJU8O0vkXpzHiDD6EbRm6.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

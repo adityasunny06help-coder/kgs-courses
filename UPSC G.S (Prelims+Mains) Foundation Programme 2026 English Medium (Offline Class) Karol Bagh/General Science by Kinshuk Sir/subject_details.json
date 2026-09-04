@@ -1,0 +1,189 @@
+{
+  "subject_name": "General Science by Kinshuk Sir",
+  "subject_id": 7788,
+  "video_count": 20,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Cell (Part-1)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/298007/kgss-1752477572-v298007.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ykEOoQxyzgU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DF9WehsFotunBkzN83cZil3lkcRjYNhlssyouphv.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Genetic Material",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/298718/kgss-1752563437-v298718.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c0KLUFQke4g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6K78oulAxGkt8gscKQAO8tBJv3HC8QWz0o2y8frc.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Cell (Part-2)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/299393/kgss-1752649235-v299393.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cdd7JOM3s-0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GX0tzhVkWk4cuVX1hTWDH958JasVQ9enROaJXMgz.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Kingdom Classification",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/300333/kgss-1752736282-v300333.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GeNzYaGuuZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eUGARVbjVXfqdN4D9y4KtwGjhxSl1UJsnkrjijOn.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || DNA and RNA",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/299392/kgss-1752822606-v299392.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FSevqIe8fcI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LsP70j0C4qdDJYD5m9wy3EtbMNUjm80K0nZ47pnK.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Respiratory System",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/303634/kgss-1753081809-v303634.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VzU6mV8ylMA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EoaT1WfGoNXQKUUIYaYVBBy3Wh49oqiLZD7Grx2s.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Brain",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/304522/kgss-1753168636-v304522.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GJnTc5_JbqY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rk61TTh6uRWnY73eQDiUYAMSR3Y0BeG0mogqC12G.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Gland System",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/305392/kgss-1753255534-v305392.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KKMKFjQ6xOw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jZCXzxt1bOAN9AzRy0oj3BgyPJRcsuScXiohBRWX.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Cancer Cell",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/306234/kgss-1753340028-v306234.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ybXOYCGY6xk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XyVz6gFZCjEY9ENj2nXb8NwGxG23qGVEESeZw7OV.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Chromosome",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/307298/kgss-1753428451-v307298.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Tvxovh9v1YI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zoaWnCBrmyVW49xbDQCIBPdYqEFNiaZJlCAAUx78.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Anti Microbial Resistance",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/310231/kgss-1753686485-v310231.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dWkgowHk-Cw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TBgD9hYgMelSkOKjH8eZaSDE9nwSOk4CIjL1qya4.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Vaccine",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/311163/kgss-1753773603-v311163.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ovRY7667ZKI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/frmcPI28V3o9sjbdGT3hRkn2vcsXprLO2biS8UBE.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Light",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/312111/kgss-1753859399-v312111.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HSnHBpoOsPs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/d3if8sciga72LSah2AFH7wO2YdlOwMKPXicXCBjJ.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Light (Part-2)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/312958/kgss-1753945659-v312958.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/veulTuLhaS8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Evo8fegPCZgChf9DAAKwco6qDy8z7dDieedsaJeW.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Light (Part-3)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/316580/kgss-1754291346-v316580.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dc6iTutNSZQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZvKGqZdfYiQ8XB3Z0C4MMZvNsBk9dA1bO3Y9k5ee.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Magnetism",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/316997/kgss-1754377929-v316997.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YBO4IXd7qCU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hZQixortsZx0DrDvXHZuEeb0z17OUe2MRncfOQgo.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Dark Matter",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/318296/kgss-1754464070-v318296.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ESsn_isDb_M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pLnrnKLvLNjRqKE5a26dVpMLQPVBDTJ5TQKn000U.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Black hole regions",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/319672/kgss-1754636785-v319672.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oRdqZhoB7lM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WTJavfII7YyBbrhsRxikPzShHbRrfuz4lwEONJZd.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Planets",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LrZln8Kd6QU",
+      "hd_video_url": "https://www.youtube.com/embed/LrZln8Kd6QU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SNckOxuTlohxBftTvf0ZBmEKlVg56VoJrWhpxUZP.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Rare earth element",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/325048/kgss-1755587438-v325048.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NBPVDD6vMmE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2D6pKcW3kA4H3zDKGFooInwjdbnqADdl7AB2VRAr.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

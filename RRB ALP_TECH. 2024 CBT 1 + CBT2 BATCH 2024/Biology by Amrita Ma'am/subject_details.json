@@ -1,0 +1,961 @@
+{
+  "subject_name": "Biology by Amrita Ma'am",
+  "subject_id": 1582,
+  "video_count": 68,
+  "note_count": 68,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Biology Introduction Class",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/rQYQV_CuEuM",
+      "hd_video_url": "https://www.youtube.com/embed/rQYQV_CuEuM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1ehqfcDUzFP2AY9rPNTu0fLti3znJ9fe1tUs63cH.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Biology Introduction Class",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/98517961-8f30-49f4-9116-5610d211e335.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Skeletal System || कंकाल तंत्र (Part 01)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/hTUW7LUCfzI",
+      "hd_video_url": "https://www.youtube.com/embed/hTUW7LUCfzI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tKUpbZOtqxW7JSBkwJtIGKIM60HGh5rbYzhbfSq1.png",
+      "notes": [
+        {
+          "title": "Skeletal System || कंकाल तंत्र (Part 01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ea720963-2b3f-4b46-bf89-adb108bc4cd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Skeletal System || कंकाल तंत्र (Part 02)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/3rbq1_1s9O0",
+      "hd_video_url": "https://www.youtube.com/embed/3rbq1_1s9O0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1rK22RwyUUOgv7OWIfD5KFWS5hgyY9HUK02k1UQp.png",
+      "notes": [
+        {
+          "title": "Skeletal System || कंकाल तंत्र (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/43ecb731-bbe2-46d7-9b67-58ae8a8789b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Bone Joints || अस्थि संधि",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/brlZe_pDMW8",
+      "hd_video_url": "https://www.youtube.com/embed/brlZe_pDMW8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qwYADi4xS7JoKmP6Vwlbvs0fzgvlSI03eRadG47U.png",
+      "notes": [
+        {
+          "title": "Bone Joints || अस्थि संधि",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7171ec8c-a35a-4c59-b0ed-a5c072ccd855.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Formation Of Bones & Cartilage || हड्डियों एवं उपास्थि का निर्माण",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/nOgAv_FhloU",
+      "hd_video_url": "https://www.youtube.com/embed/nOgAv_FhloU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/x5VsRKQOL2N6UtfbWqN9BS3fsWwRxMq6uJXylNtV.png",
+      "notes": [
+        {
+          "title": "Formation Of Bones & Cartilage || हड्डियों एवं उपास्थि का निर्माण",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/252735c2-dd96-40a8-b05a-0a272d672d12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Blood & Blood Circulatory System || रक्त एवं रक्त संचार प्रणाली (Part 01)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/PVUuc-LCgNU",
+      "hd_video_url": "https://www.youtube.com/embed/PVUuc-LCgNU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VS1K3ZZySCBrNJDhoV3dsnDpkG0euukR7dm5TPnN.png",
+      "notes": [
+        {
+          "title": "Blood & Blood Circulatory System",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/26070641-0734-43d5-b7f7-1bf53e363538.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Blood || रक्त (Part 02)",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/4ya41Wbk1ow",
+      "hd_video_url": "https://www.youtube.com/embed/4ya41Wbk1ow",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XaAJiQb32DRMRI0CCqP7i1CkCrMh1JwHzxObNTj4.png",
+      "notes": [
+        {
+          "title": "Blood || रक्त (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/78233e9b-0107-4ea3-b19c-e19ed917ff03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Blood || रक्त (Part 03)",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/EgoSu-fzBgk",
+      "hd_video_url": "https://www.youtube.com/embed/EgoSu-fzBgk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qQAR671Vn3spZT0tgI9J8LXhiauCrZGfTtYJ5l05.png",
+      "notes": [
+        {
+          "title": "Blood || रक्त (Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/969e2a4b-c196-4d9e-9cc0-4493ba65cf43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Blood Groups || रक्त समूह",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/4gS3daThi5k",
+      "hd_video_url": "https://www.youtube.com/embed/4gS3daThi5k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JCFHh6l7cz5sat6cMIzGUSkuGanKXXVLc7L3n5V7.png",
+      "notes": [
+        {
+          "title": "Blood Groups || रक्त समूह",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f90cbc2e-379b-486a-96f4-db8689f12b49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Rh Blood Groups and Blood Vessels || Rh रक्त समूह एवं रक्त वाहिकाएं",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/MdYiXGNxoBE",
+      "hd_video_url": "https://www.youtube.com/embed/MdYiXGNxoBE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/G3rwbAC7O3lLOrt1XnLgHzZlCFevWT4Qui2hyIZz.png",
+      "notes": [
+        {
+          "title": "Rh Blood Groups and Blood Vessels",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c6de471b-9012-4bf3-95bc-b8dfbba60765.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Blood Circulation || रक्त परिसंचरण",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/INnh4Hq3I3Y",
+      "hd_video_url": "https://www.youtube.com/embed/INnh4Hq3I3Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/snkLQa3Yg2vGnKWxFHkNEoA9uDYEWkxZTeHLLdSD.png",
+      "notes": [
+        {
+          "title": "Blood Circulation",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f671e18f-80cc-4a9a-9b66-6d99c7bc2938.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Human Heart || मानव हृदय",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/9qIq-cMCPmk",
+      "hd_video_url": "https://www.youtube.com/embed/9qIq-cMCPmk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WwaiHwBCh4N1zBbjFVNnt728iF2sQcI6FRMOvP6h.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || Blood || रक्त (Part 07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4bf16359-4248-48f4-925c-6ed1eb8c6a2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Blood Circulatory System Disorders and Test",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/u3bfHoJsWck",
+      "hd_video_url": "https://www.youtube.com/embed/u3bfHoJsWck",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MOaGVY0GXsR3v3j4dfbXxOmphnNIOwmNU2M9l0Ga.png",
+      "notes": [
+        {
+          "title": "Blood Circulatory System Disorders and Test",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/286e1c06-1b13-45ac-a0f3-8f680dcac206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Digestive System || पाचन  तंत्र",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/wTcFACLjjLE",
+      "hd_video_url": "https://www.youtube.com/embed/wTcFACLjjLE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JCmGdbsEebthHykoNkaqu1qzJmC1n7Loql5qB3Zw.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || Digestive System",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a0a98d4-32dd-443b-ae94-4bb7467a713d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Digestive Glands || पाचन ग्रन्थि",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/-7Z-Lcml13M",
+      "hd_video_url": "https://www.youtube.com/embed/-7Z-Lcml13M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/q2dFfqddSHZMREO9lWDxlRkc2d1CmP7duXF2YsxL.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || Digestive Glands",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/430b24ff-0321-41cf-999f-d24754e2a9f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Teeth and Tongue",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/d416TzXLffI",
+      "hd_video_url": "https://www.youtube.com/embed/d416TzXLffI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mWLDdyRl7A2hn5QmillnQAGP8YwDsIjz1Xq2VL9v.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || Teeth and Tongue",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3a7aa0c1-af94-4300-aa53-f9a1fc1cf7f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Digestion of Food (P-1) || भोजन का पाचन(P-1)",
+      "published_date": "22 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/xPGsMqPWMUc",
+      "hd_video_url": "https://www.youtube.com/embed/xPGsMqPWMUc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VfoOC0Hig3hfrB1q57VkNZwnkpQSqNN7FHKrrSWw.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Digestion of Food (Part 01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/6cd5946b-bd26-4998-b6e6-ac45c879bfec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Digestion of Food (P-2) || भोजन का पाचन (P-2)",
+      "published_date": "27 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/LxNBuiHldQ4",
+      "hd_video_url": "https://www.youtube.com/embed/LxNBuiHldQ4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tWIVoOMB7aumIdOGhnOIgdnHtQBBIl3mBOBREz58.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Digestion of Food (P-2) and MCQs",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/21a06f13-b55c-4d50-810d-042a568a8d8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || MCQs Practice",
+      "published_date": "28 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/kys4pqt-mR8",
+      "hd_video_url": "https://www.youtube.com/embed/kys4pqt-mR8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qwJuaAClNjRMN7qtQnP6kAr86ebuzGkQGUZkMYHt.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || MCQs Practice",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3db488f5-4642-469c-b580-86a0f9895921.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Nutrition and Vitamin",
+      "published_date": "29 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/nVYFpOL6E8Y",
+      "hd_video_url": "https://www.youtube.com/embed/nVYFpOL6E8Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SZHzub9bJwocalvYM4aYofSgxlWKYHHpzOfVWYFb.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Nutrition and Vitamin",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7cc3b97d-e416-485a-9e5b-e90c977c697a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Nutrition and Vitamin(P-2)",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/85_qGv74wyc",
+      "hd_video_url": "https://www.youtube.com/embed/85_qGv74wyc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tUhjCBvL0DRkYBdONoxg3Mme3uYrayaPH0CQvdVj.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Nutrition and Vitamin(P-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9b03d1bb-8d65-4d3a-885b-676fc39db27c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Nutrition and Vitamin(P-3)",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/pjuX61LOlC4",
+      "hd_video_url": "https://www.youtube.com/embed/pjuX61LOlC4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Qglv6gfQr0cigfpuhF8kFwJI4zym0XyF7zS2JTu9.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || Nutrition and Vitamin(P-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/33052541-9f8e-4a47-9bd3-23bac979761c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Nutrition and Vitamin(P-4)",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/VtxEe06j0E4",
+      "hd_video_url": "https://www.youtube.com/embed/VtxEe06j0E4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8oTP33LadthUIimvLKmR3RZJRjf3GkKe5NLRttF0.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Nutrition and Vitamin(P-4)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d7f3cfbb-bfe5-4526-84a1-8b79d715433c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Nutrition and Vitamin(P-5)",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/CFPDGvKmhQ0",
+      "hd_video_url": "https://www.youtube.com/embed/CFPDGvKmhQ0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KurFmGS9EyBA3F56OOZdwPK2zMRk2ZwsoJD4xCIp.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Nutrition and Vitamin(P-5)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2b8ea5bd-9798-45a0-ba19-653f1a3259cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Nutrition and Vitamin(P-6)",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/YIHYXOlfSxs",
+      "hd_video_url": "https://www.youtube.com/embed/YIHYXOlfSxs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7VBJ9rcKpTlTwIl2NsyrB8Jng6GlU0DkRdmG5ROe.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Vitamin",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/aefee3f0-ebf5-4486-9645-0ad1d5abc0ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Nutrition and Vitamin(P-7)",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Nu1-AWneaJU",
+      "hd_video_url": "https://www.youtube.com/embed/Nu1-AWneaJU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EWStaNwXvOPDpdwCq1CffaQy6pD1JwBFTw4jxGeO.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Nutrition and Vitamin(P-7)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/30264613-3cfd-4138-afe3-a4a62e5e0bc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Vitamin Test",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/OnLJAwuZS0Y",
+      "hd_video_url": "https://www.youtube.com/embed/OnLJAwuZS0Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1e0mkIJPIZ26g2BqVohKjcUprfCUVfDFEHG1C4um.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Vitamin Test",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b720496b-f83a-4f3a-9b1c-405fe0b13597.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Human Diseases || मानव रोग",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/4ncTAwtwx4w",
+      "hd_video_url": "https://www.youtube.com/embed/4ncTAwtwx4w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7jyrKPyOYLIDCkkAfLuLu62RR60KJIHYu0626qQp.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Human Diseases || मानव रोग",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/166e270b-f332-485d-a927-1027e138eeca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Human Diseases (Part 02) || मानव रोग",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/25t23LaYOEU",
+      "hd_video_url": "https://www.youtube.com/embed/25t23LaYOEU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/AWXgyYrqLKvm58KucweaXDdjSkvPnDHkHbk3vWAn.png",
+      "notes": [
+        {
+          "title": "lecture-29-human-diseases-part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/49bf51d9-98b1-47f6-a9f7-5ab3bd244daa."
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Human Diseases (Part 03) || मानव रोग ( Part 03)",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/iPktGc535tM",
+      "hd_video_url": "https://www.youtube.com/embed/iPktGc535tM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cXgC7sMuQwPIWqSSV4XrzBt4YjGYw7kgHhofJZnR.png",
+      "notes": [
+        {
+          "title": "lecture30humandiseasespart03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/db9933e3-d8c6-49ce-a6b6-970cb2e52b00.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Human Diseases (Part 04) || मानव रोग ( Part 04)",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/djYPqS34uOk",
+      "hd_video_url": "https://www.youtube.com/embed/djYPqS34uOk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dEWQ4pyJlawrk2gFoXliQLfRaQpaLcGxaAZdskE0.png",
+      "notes": [
+        {
+          "title": "l31",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8b98e4f1-fe0b-42b0-b2b6-95992e3dd69e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Human Diseases (Part 05) || मानव रोग ( Part 05)",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/zOWited2_B4",
+      "hd_video_url": "https://www.youtube.com/embed/zOWited2_B4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/nuUhrPJsKUCO3FtpviWvXSoNTYrJlf5nJkS1umNN.png",
+      "notes": [
+        {
+          "title": "lecture32humandiseasespart5",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9a309aeb-dcf2-4638-bf92-c37fcfc12391.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Human Diseases (Part 06) || मानव रोग ( Part 06)",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/mHEgdAhfRIQ",
+      "hd_video_url": "https://www.youtube.com/embed/mHEgdAhfRIQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Fniqqz86nHBoXRVEXdQqvu3i14TClpKAORPT5aPG.png",
+      "notes": [
+        {
+          "title": "Lecture-33 || Human Diseases (Part 06) || मानव रोग ( Part 06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a1cbb993-f1cf-4b0c-a008-6cf40656b6f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Human Diseases (Part 07) || मानव रोग ( Part 07)",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/jFq5jku8f1Y",
+      "hd_video_url": "https://www.youtube.com/embed/jFq5jku8f1Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/CZ0Iubl4ae1jLopEvK7uHrbraazeO4AckQuyWkD1.png",
+      "notes": [
+        {
+          "title": "Lecture-34 || Human Diseases (Part 07) || मानव रोग ( Part 07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5f0e4d3c-d276-44c7-8071-fd84afd1e687.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Excretory System(Part 01) || उत्सर्जन तंत्र(Part 01)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/K3kG3v00xLw",
+      "hd_video_url": "https://www.youtube.com/embed/K3kG3v00xLw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/YGGN6WzO0zYnSSu8MgAMV9FzSlwU5E7TNu06P8JP.png",
+      "notes": [
+        {
+          "title": "Lecture-35 || Excretory System || उत्सर्जन तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dc6feedf-9a77-44af-8d36-0b3bf38054a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Excretory System(Part 02) || उत्सर्जन तंत्र (part 02)",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/nFJiRZ6kRss",
+      "hd_video_url": "https://www.youtube.com/embed/nFJiRZ6kRss",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/MK0TkI9K7kTWepCL36NXp2WlH1HZPQbtJWYjrPde.png",
+      "notes": [
+        {
+          "title": "Lecture-36 || Excretory System(Part 02) || उत्सर्जन तंत्र (part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/29fd94ee-d6fc-4220-af0b-74e82a50842f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Excretory System(Part 03) || उत्सर्जन तंत्र (part 03)",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Ja8U9t0HY_Q",
+      "hd_video_url": "https://www.youtube.com/embed/Ja8U9t0HY_Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/85IfeaFNLc9yjWgUAHXjlMAJ4N0tPIbFJMVjXfe2.png",
+      "notes": [
+        {
+          "title": "Lecture-37 || Excretory System(Part 03) || उत्सर्जन तंत्र (part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4492be66-dc0e-4e73-b438-6bc1ac756adc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Respiratory System(Part 01) ||  श्वसन तंत्र (Part 01)",
+      "published_date": "01 May 2024",
+      "video_url": "https://www.youtube.com/embed/hiM__kMnr-Y",
+      "hd_video_url": "https://www.youtube.com/embed/hiM__kMnr-Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/YwA6kpyzhL4iztSkXLJHOO56J6JXkPfZQPxgYaZa.png",
+      "notes": [
+        {
+          "title": "Lecture-38 || Excretory System(Part 04) || उत्सर्जन तंत्र (part 04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1abbe196-8555-4ffe-ab3a-33803218e735.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Respiratory System (Part 02) || श्वसन तंत्र (Part 02)",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/ybwiu9rhyPM",
+      "hd_video_url": "https://www.youtube.com/embed/ybwiu9rhyPM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Ej2TZsTreDmwZGGeT6efkozlo8FrVLmKvPkaR5EI.png",
+      "notes": [
+        {
+          "title": "Lecture-39 || Respiratory System (Part 02) || श्वसन तंत्र (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/60684451-6560-42de-a5f5-45b9be31065c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Respiratory Diseases & Nervous System(Part 01) || श्वसन रोग & तंत्रिका तंत्र  (Part 01)",
+      "published_date": "03 May 2024",
+      "video_url": "https://www.youtube.com/embed/7I0VDW_p30w",
+      "hd_video_url": "https://www.youtube.com/embed/7I0VDW_p30w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/7o1EaaxieIkZyhe8RttF6LnBw5Cra0LTGbiXStpG.png",
+      "notes": [
+        {
+          "title": "Lecture-40 || Respiratory System (Part 03) || श्वसन तंत्र (Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1ade1747-1539-4492-bc24-4649cf5bb40d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Nervous System(Part 02) || तंत्रिका तंत्र (Part 02)",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/iSFLzQKujIA",
+      "hd_video_url": "https://www.youtube.com/embed/iSFLzQKujIA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4mVSFIW1Zci4qtzPKgg3NpJoKyHnCkZgsyJyjSNA.png",
+      "notes": [
+        {
+          "title": "Lecture-41 || Nervous System(Part 02) || तंत्रिका तंत्र (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c30860e6-d0d6-4350-91ff-2d1fab33ff44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Nervous System (Part 03) || तंत्रिका तंत्र (Part 03)",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/qvv77XvR7qA",
+      "hd_video_url": "https://www.youtube.com/embed/qvv77XvR7qA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/y506wkllNJW42O4EQ2m6XaCGZZkYOVc9wKvxAtLh.png",
+      "notes": [
+        {
+          "title": "Lecture-42 || Nervous System (Part 03) || तंत्रिका तंत्र (Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/aecf51fc-8fae-4f00-b00e-d7e72d76a78f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Nervous System (Part 04) || तंत्रिका तंत्र (Part 04)",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/hg2HNppriG4",
+      "hd_video_url": "https://www.youtube.com/embed/hg2HNppriG4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/NdEEp1j8NOWnvm6EShzBihhalx3bRolagCd3LpIT.png",
+      "notes": [
+        {
+          "title": "Lecture-43 || Nervous System (Part 04) || तंत्रिका तंत्र (Part 04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/73fef06b-b3c6-47a6-b0cc-c371ff939460.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Endocrine System(Part 01) || अंत: स्रावी प्रणाली  (Part 01)",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/YHwWFSN3M0A",
+      "hd_video_url": "https://www.youtube.com/embed/YHwWFSN3M0A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ruz0zgJpFklLaOPqksnNshXZWVaoLBrE5HFXUktN.png",
+      "notes": [
+        {
+          "title": "Lecture-44 || Endocrine System(Part 01) || अंत: स्रावी प्रणाली  (Part 01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c33ad272-4877-4224-8014-4776c009c2b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Endocrine System(Part 02) || अंत: स्रावी प्रणाली (Part 02)",
+      "published_date": "10 May 2024",
+      "video_url": "https://www.youtube.com/embed/eZCIV8RDkjE",
+      "hd_video_url": "https://www.youtube.com/embed/eZCIV8RDkjE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/wDdd9R58nWTJGdmAe7frZa4VfdEwtkw4EYoazevF.png",
+      "notes": [
+        {
+          "title": "Lecture-45 || Endocrine System(Part 02) || अंत: स्रावी प्रणाली (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/07fd611e-3181-46b2-824e-a4ef256e3c86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Endocrine System(Part 03) || अंत: स्रावी प्रणाली (Part 03)",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/CFI66vYOTQA",
+      "hd_video_url": "https://www.youtube.com/embed/CFI66vYOTQA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UdGvhfiDQSA4RIfI5FtM9B73yX8Kqpy1GK6E3UDh.png",
+      "notes": [
+        {
+          "title": "Lecture-46 || Endocrine System(Part 03) || अंत: स्रावी प्रणाली (Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/154a4cae-49a0-4599-a61e-16c386f37133.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Endocrine System Test",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZrU_S4EoCT0",
+      "hd_video_url": "https://www.youtube.com/embed/ZrU_S4EoCT0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/m9Fjoa1R0mEYJH73Cw5eFRlgh62fjFlNlVWe9UFi.png",
+      "notes": [
+        {
+          "title": "Lecture-47 || Endocrine System Test",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0be2b0a6-e0ed-4e1e-8d64-571af83c791f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Pancreas and Reproductive System",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/TEV4yZHIb54",
+      "hd_video_url": "https://www.youtube.com/embed/TEV4yZHIb54",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cvBED6NXiZRwkTrVqoQIl3mHkwaiU681J18yPDjG.png",
+      "notes": [
+        {
+          "title": "Lecture-48 || Pancreas and Reproductive System",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/17eb5925-3930-4971-8236-52e642db371e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Reproductive System(Part 02)",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/54kKC-D1pJ8",
+      "hd_video_url": "https://www.youtube.com/embed/54kKC-D1pJ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/LFaXGtNa2gJPoc4yQdLduYluy0V3xhm1KSqeKF9t.png",
+      "notes": [
+        {
+          "title": "Lecture-49 || Reproductive System(Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9015c202-a557-4ed6-b9c2-7c4c4daa4ff4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Reproductive System(Part 03)",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/O7HHzVmf6g8",
+      "hd_video_url": "https://www.youtube.com/embed/O7HHzVmf6g8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/yQMW8rmN50RLjP34bOgeGkjCNXmbGoBPI87IgfYP.png",
+      "notes": [
+        {
+          "title": "Lecture-50 || Reproductive System(Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/49045b2e-941f-454f-865a-99f796ee5de4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Reproductive System(Part 04)",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/W9spICUH4i4",
+      "hd_video_url": "https://www.youtube.com/embed/W9spICUH4i4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/WdQyC49JweYMAV1UffUdrmB07L494fBnEIc7HW9X.png",
+      "notes": [
+        {
+          "title": "Lecture-51 || Reproductive System(Part 04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b7b4c59c-5610-4781-8d57-159b2e4ac815.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Reproductive System(Part 05)",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/jnvjjoQDMRo",
+      "hd_video_url": "https://www.youtube.com/embed/jnvjjoQDMRo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/m7wOubUkAKyDfYwhdQ0YxLSgmy9HJMVYRhtFfbaA.png",
+      "notes": [
+        {
+          "title": "Lecture-52 || Reproductive System(Part 05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dae8a85a-0ed0-4681-aaac-992130100b09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Taxonomy (Part 01)",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/f1wBvx4Yqm8",
+      "hd_video_url": "https://www.youtube.com/embed/f1wBvx4Yqm8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/iUACo7Zzp76sK2ePfwTmRZq0Q1kD7nuk8rKKDnaB.png",
+      "notes": [
+        {
+          "title": "Lecture-53 || Taxonomy (Part 01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e9a03a3f-65d1-4cc7-8830-72c580ed44cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Taxonomy (Part 02)",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/GD-Z1PPuKKc",
+      "hd_video_url": "https://www.youtube.com/embed/GD-Z1PPuKKc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/LCG5ZQjK1KeuzChcgA79e2vgsHNlbkMTJoeHp5K4.png",
+      "notes": [
+        {
+          "title": "Lecture-54 || Taxonomy (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/03a1b2a7-c890-4c0d-8b7a-f73c6049118d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Taxonomy (Part 03)",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/_AVhEsQGS44",
+      "hd_video_url": "https://www.youtube.com/embed/_AVhEsQGS44",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3Rwblz2dLqTYSv6Trb0wq6mANQdWqKBosblylEnD.png",
+      "notes": [
+        {
+          "title": "Lecture-55 || Taxonomy (Part 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5018be71-9483-4735-8f0d-f08c0c57d78c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Animal Kingdom(Part 01)",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/GyNak4-IXc0",
+      "hd_video_url": "https://www.youtube.com/embed/GyNak4-IXc0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0yw1galCgcH8IlJGvRwxRb3SvD5HHSVaJb3CCNNw.png",
+      "notes": [
+        {
+          "title": "Lecture-56 || Animal Kingdom(Part 01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4c302728-b18a-48df-a06d-c92ec3f2c6d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Animal Kingdom(Part 02)",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/wsBNQr5lRYo",
+      "hd_video_url": "https://www.youtube.com/embed/wsBNQr5lRYo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/KPo812EJ5GNyBh8EFBrK4uISVE1jQzlvwLQyLxI8.png",
+      "notes": [
+        {
+          "title": "Lecture-57 || Animal Kingdom(Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c1578e34-c847-4bd7-aaff-b6c204b83e1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Animal Kingdom(Part 03)",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/-rqTSctE9LQ",
+      "hd_video_url": "https://www.youtube.com/embed/-rqTSctE9LQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/BbXRZgwM3mNx9D767vUWAI5H0UO65C1kUpmai2C6.png",
+      "notes": [
+        {
+          "title": "Lecture-58 || Animal Kingdom(Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14f7213e-6dd8-4772-8b47-6fd480d0f416.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Botany",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/jTYY25bE0Mo",
+      "hd_video_url": "https://www.youtube.com/embed/jTYY25bE0Mo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-59 || Botany",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d31cd451-0c89-465b-9f25-e7ff777f2a11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Botany (Part 02)",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Bng_Zam3TXU",
+      "hd_video_url": "https://www.youtube.com/embed/Bng_Zam3TXU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-60 || Botany (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9f74b2a-b382-4ad4-8e52-a26129dc9cc9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Botany (Part 03)",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/nmpKqXTQOY4",
+      "hd_video_url": "https://www.youtube.com/embed/nmpKqXTQOY4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-61 || Botany (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e74682ac-9f9a-44c5-be3b-2939458bca75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Botany (Part 04)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/oA6CTNphAv8",
+      "hd_video_url": "https://www.youtube.com/embed/oA6CTNphAv8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-62 || Botany (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b882264-5b3c-472d-8407-e5ceeabec132.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Botany (Part 05)",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Rc-aMGgetpo",
+      "hd_video_url": "https://www.youtube.com/embed/Rc-aMGgetpo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-63 || Botany (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdb567e3-ca81-4005-ae93-2c6d4ac74ea0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Botany (Part 06)",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/c6K9uSsDUR0",
+      "hd_video_url": "https://www.youtube.com/embed/c6K9uSsDUR0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-64 || Botany (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edce84a9-ff7c-49bc-bf6e-2fcd7399bedf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Plant Tissue & Plant Hormones",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Tb68VUWHWwM",
+      "hd_video_url": "https://www.youtube.com/embed/Tb68VUWHWwM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-65 || Plant Tissue & Plant Hormones",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5305a61a-083b-42d7-8d25-fb2a95a93fe3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || Plant Tissue",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Ia2PndtUPTc",
+      "hd_video_url": "https://www.youtube.com/embed/Ia2PndtUPTc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-66 || Plant Tissue",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e052758a-9dbb-4692-b8be-912316d05afe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Cell Biology",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/a_NV-THpdUk",
+      "hd_video_url": "https://www.youtube.com/embed/a_NV-THpdUk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-67 || Cell",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c753f9e6-ca79-4b60-8799-05551f308aee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || Biology by Amrita Ma'am",
+      "published_date": "06 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/GxOLvOI-GOQ",
+      "hd_video_url": "https://www.youtube.com/embed/GxOLvOI-GOQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-68 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c979f95c-0003-4e40-835d-a7f33f7dd932.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

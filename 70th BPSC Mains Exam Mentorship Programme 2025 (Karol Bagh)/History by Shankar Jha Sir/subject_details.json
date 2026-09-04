@@ -1,0 +1,60 @@
+{
+  "subject_name": "History by Shankar Jha Sir",
+  "subject_id": 5649,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Art & Culture",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/6xSAGUYBDvs",
+      "hd_video_url": "https://www.youtube.com/embed/6xSAGUYBDvs",
+      "thumbnail": "https://i.ytimg.com/vi/6xSAGUYBDvs/default.jpg",
+      "notes": [
+        {
+          "title": "l4-geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9982fc52-b49b-4ef9-8ca0-5d9794f1f59e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || History",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/k1Of9I6Ad28",
+      "hd_video_url": "https://www.youtube.com/embed/k1Of9I6Ad28",
+      "thumbnail": "https://i.ytimg.com/vi/k1Of9I6Ad28/default.jpg",
+      "notes": [
+        {
+          "title": "l2-history",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ea13615-bd5b-4d94-baf9-5c11722efba0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || History",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ijAcmrJGNu8",
+      "hd_video_url": "https://www.youtube.com/embed/ijAcmrJGNu8",
+      "thumbnail": "https://i.ytimg.com/vi/ijAcmrJGNu8/default.jpg",
+      "notes": [
+        {
+          "title": "l3-history",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23a158d2-ca31-49da-8e27-efef7565dfa4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || History",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/k4wkirkUJoU",
+      "hd_video_url": "https://www.youtube.com/embed/k4wkirkUJoU",
+      "thumbnail": "https://i.ytimg.com/vi/k4wkirkUJoU/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

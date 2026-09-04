@@ -1,0 +1,345 @@
+{
+  "subject_name": "Nutrition and health by Ram sir",
+  "subject_id": 4929,
+  "video_count": 24,
+  "note_count": 24,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tHSF177L9iY",
+      "hd_video_url": "https://www.youtube.com/embed/tHSF177L9iY",
+      "thumbnail": "https://i.ytimg.com/vi/tHSF177L9iY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7254f131-5144-4f0d-8d74-2fe889dea553.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Nutrition (Part- 01)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ahVMelVckNo",
+      "hd_video_url": "https://www.youtube.com/embed/ahVMelVckNo",
+      "thumbnail": "https://i.ytimg.com/vi/ahVMelVckNo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Nutrition  Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fca5e2b-9f2f-4417-8f30-7428eb9c52ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Nutrition (Part- 02)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/PPavx5cDKoc",
+      "hd_video_url": "https://www.youtube.com/embed/PPavx5cDKoc",
+      "thumbnail": "https://i.ytimg.com/vi/PPavx5cDKoc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Nutrition (Part- 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e3f3f2e-2b36-4d5f-ae24-2e0689ebb191.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ||  Nutrition (Part- 03)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/DxVPLtYpqg0",
+      "hd_video_url": "https://www.youtube.com/embed/DxVPLtYpqg0",
+      "thumbnail": "https://i.ytimg.com/vi/DxVPLtYpqg0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad672cd2-fe2a-4502-849a-674c934de36b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Nutrition (Part- 04)",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/aK3-p93Rm4w",
+      "hd_video_url": "https://www.youtube.com/embed/aK3-p93Rm4w",
+      "thumbnail": "https://i.ytimg.com/vi/aK3-p93Rm4w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb9e4945-79ad-4fad-92fe-5a2ba9ad9102.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Nutrition (MCQs)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LE6qbPcHIGA",
+      "hd_video_url": "https://www.youtube.com/embed/LE6qbPcHIGA",
+      "thumbnail": "https://i.ytimg.com/vi/LE6qbPcHIGA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d458b02e-2ab2-481d-bf83-2fe9314a2f8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Minerals (Part-01)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/X1JooCRalUM",
+      "hd_video_url": "https://www.youtube.com/embed/X1JooCRalUM",
+      "thumbnail": "https://i.ytimg.com/vi/X1JooCRalUM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5811752-3a0f-48f2-becc-a46ea03e6f19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Icmr report RDA",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7ZsR4H1pGv0",
+      "hd_video_url": "https://www.youtube.com/embed/7ZsR4H1pGv0",
+      "thumbnail": "https://i.ytimg.com/vi/7ZsR4H1pGv0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Icmr report RDA",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7abb710-9f8a-48ab-a104-191cb6b9f44c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Icmr report RDA  MCQ",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Q37Gk06oSKE",
+      "hd_video_url": "https://www.youtube.com/embed/Q37Gk06oSKE",
+      "thumbnail": "https://i.ytimg.com/vi/Q37Gk06oSKE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Icmr report RDA  MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79675fab-9e4e-42df-8ddb-99ef9ee51a5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Balanced Diet",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CRkLg-7zxT4",
+      "hd_video_url": "https://www.youtube.com/embed/CRkLg-7zxT4",
+      "thumbnail": "https://i.ytimg.com/vi/CRkLg-7zxT4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Nutrition by ram sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4506b115-1e44-4efe-95e7-1d94efe41b97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Malnutrition (Part-01)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/OkJlhPFAwNs",
+      "hd_video_url": "https://www.youtube.com/embed/OkJlhPFAwNs",
+      "thumbnail": "https://i.ytimg.com/vi/OkJlhPFAwNs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Nutrition & Health by ram sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5da5cadd-4e59-4a6a-8c97-a1ea78516a14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Malnutrition (Part-02)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/AYLrPIDfjLQ",
+      "hd_video_url": "https://www.youtube.com/embed/AYLrPIDfjLQ",
+      "thumbnail": "https://i.ytimg.com/vi/AYLrPIDfjLQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Nutrition & Health by ram sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f028f98f-1941-44ae-a960-90320912731e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || What, Why & How to Vaccinate",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/1v0_TPGHhtY",
+      "hd_video_url": "https://www.youtube.com/embed/1v0_TPGHhtY",
+      "thumbnail": "https://i.ytimg.com/vi/1v0_TPGHhtY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3e165d3-0084-49a9-9a00-468f8b57eab1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Vaccines for Various Diseases",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/defDF01tcj0",
+      "hd_video_url": "https://www.youtube.com/embed/defDF01tcj0",
+      "thumbnail": "https://i.ytimg.com/vi/defDF01tcj0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6343d3c0-8136-4515-87f8-3f0f157c57d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Vaccination (MCQs)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/5NdzuReyPyc",
+      "hd_video_url": "https://www.youtube.com/embed/5NdzuReyPyc",
+      "thumbnail": "https://i.ytimg.com/vi/5NdzuReyPyc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdd55dd9-1713-4f0c-8e44-549c267f09d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || What to eat and what not to eat during pregnancy",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/C0_CPqthhYs",
+      "hd_video_url": "https://www.youtube.com/embed/C0_CPqthhYs",
+      "thumbnail": "https://i.ytimg.com/vi/C0_CPqthhYs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || What to eat and what not to eat during pregnancy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38a8b37f-b8ec-414a-94b2-43a080cb3a31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Care of Pregnant Woman",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/cEXNucy_JwI",
+      "hd_video_url": "https://www.youtube.com/embed/cEXNucy_JwI",
+      "thumbnail": "https://i.ytimg.com/vi/cEXNucy_JwI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Care of Pregnant Woman",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc281e6d-2cce-4a2d-9418-331db0f344f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Information on Various Diseases (Part-01)",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Utcb1djuc4M",
+      "hd_video_url": "https://www.youtube.com/embed/Utcb1djuc4M",
+      "thumbnail": "https://i.ytimg.com/vi/Utcb1djuc4M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Nutrition & Heath By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4611f41e-7e98-4b19-995a-024592585cfa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Information on Various Diseases (Part-02)",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2fWxk2WiQcM",
+      "hd_video_url": "https://www.youtube.com/embed/2fWxk2WiQcM",
+      "thumbnail": "https://i.ytimg.com/vi/2fWxk2WiQcM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Nutrition & Heath By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e810699-264a-4dae-a5f6-190ae25c7b96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Aids & Covid-19",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Gz0p3Ect11I",
+      "hd_video_url": "https://www.youtube.com/embed/Gz0p3Ect11I",
+      "thumbnail": "https://i.ytimg.com/vi/Gz0p3Ect11I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Nutrition & Heath By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46e7c588-a057-4b3d-88ee-690ebcfb5af8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Bacterial Diseases",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/vouccbJsbG0",
+      "hd_video_url": "https://www.youtube.com/embed/vouccbJsbG0",
+      "thumbnail": "https://i.ytimg.com/vi/vouccbJsbG0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Nutrition & Heath By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1409d9d9-d0b7-4699-8c06-7eded1b4f41c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Helminthic Diseases",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/wM98EUof_2k",
+      "hd_video_url": "https://www.youtube.com/embed/wM98EUof_2k",
+      "thumbnail": "https://i.ytimg.com/vi/wM98EUof_2k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Helminthic Diseases",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2978f057-72e8-47ed-b884-a7268e75a355.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Major Diseases (MCQs)",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/N4O9ffecu0I",
+      "hd_video_url": "https://www.youtube.com/embed/N4O9ffecu0I",
+      "thumbnail": "https://i.ytimg.com/vi/N4O9ffecu0I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2e12810-f3a1-4ae3-b851-2ddeb9565e2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Development of the Fetus",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/v3q7GOh5zdo",
+      "hd_video_url": "https://www.youtube.com/embed/v3q7GOh5zdo",
+      "thumbnail": "https://i.ytimg.com/vi/v3q7GOh5zdo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Nutrition & Health By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46b11b1d-1ad5-4b91-8460-0ee6035757b1.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

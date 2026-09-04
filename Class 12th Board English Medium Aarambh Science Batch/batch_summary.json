@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Class 12th Board English Medium Aarambh Science Batch",
+    "price": "None",
+    "id": "420",
+    "extracted_date": "2025-08-27T15:32:07.010677"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 3499,
+      "video_count": 9,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Pragya Ma'am",
+      "id": 3500,
+      "video_count": 54,
+      "note_count": 53
+    },
+    {
+      "name": "Chemistry By Deepika Ma'am",
+      "id": 3501,
+      "video_count": 61,
+      "note_count": 60
+    },
+    {
+      "name": "Maths By Jayshankar Sir",
+      "id": 3502,
+      "video_count": 62,
+      "note_count": 50
+    },
+    {
+      "name": "Biology By Anshi Ma'am",
+      "id": 3504,
+      "video_count": 71,
+      "note_count": 66
+    }
+  ]
+}

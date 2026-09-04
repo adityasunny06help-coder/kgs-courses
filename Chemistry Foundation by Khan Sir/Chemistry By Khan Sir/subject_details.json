@@ -1,0 +1,477 @@
+{
+  "subject_name": "Chemistry By Khan Sir",
+  "subject_id": 6118,
+  "video_count": 52,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction to Chemistry || रसायन विज्ञान का परिचय",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sLliQBq_-z4",
+      "hd_video_url": "https://www.youtube.com/embed/sLliQBq_-z4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZxZPhV3u9Eplw0pjVSkULmenYTe01mBB3xfiVLGO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Particles of Matter || पदार्थ के कण",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227382/kgss-1744598412-v227382.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YJMEEFKcn2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Li4eaX5AYn2iW7FI1yXvMQn12thJDB8czjm8PJln.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Atomic Structure || परमाणु संरचना",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227282/kgss-1744684630-v227282.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JER5WxP02pU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Uv83mLrGuvAIuEWuoYqEOllncGtRqOqgNvc0IQmW.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Atomic Number || परमाणु क्रमांक",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228078/kgss-1744770974-v228078.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WKBEg4KIJ8c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uyZTI3effLOEYqFarNyt8tbIS0BBWUEwcp5fu5Na.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Particles Of Matter || पदार्थ के कण",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228634/kgss-1744857762-v228634.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AfdV7y4BJfg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8xarj3PrXsbcxpFJGdUVJ7aSdIGEzhxzRMGTzl21.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Periodic Table Of The Elements || तत्वों की आवर्त सारणी",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229214/kgss-1744943745-v229214.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BkYehNyEfx8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c0aa7264.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Structure Of The Atom || परमाणु की संरचना (Part-01)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229976/kgss-1745203192-v229976.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cJxq3_1Pr5U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c0b37202.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Structure Of The Atom || परमाणु की संरचना (Part-02)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231002/kgss-1745289689-v231002.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/l8F25OICXvI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IN1jCAJNWBYnDtPZFvdUEdSDbGNDePA3jo1FYuyW.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Quantum Number || क्वाण्टम संख्या (Part-01)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232486/kgss-1745376065-v232486.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1Xs0Zkjd3Ow",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lDVA74PniN0dsUqDbXt591DYeYMAkC5FLEEuls20.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Quantum Number || क्वाण्टम संख्या (Part-02)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233067/kgss-1745463067-v233067.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZVuFb5hz8Lg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tYj8GIn2IXhiEiMhG4tPjCCFJ2rs3ooqpI9LgFqI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Chloride & Sulfuric Acid || क्लोराइड और सल्फ्यूरिक अम्ल",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233560/kgss-1745548774-v233560.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ToWhqIkhNsY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mOWWv3YSGwhZzmZl0EVxcPHMUZGIC124CuzWQI6Q.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Nitrogen content in Urea || यूरिया में नाइट्रोजन की मात्रा",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234475/kgss-1745807945-v234475.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ul15_1lMi_M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ptlgQY7dQyNWOVJ7cdpHsL7dkcz6DX9BRnDoQVt2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Structure of the Atom || परमाणु की संरचना",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235119/kgss-1745893924-v235119.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nGvcW_L-Gnc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rvU35iw0XeiaatYD7xtxrcUQpGiqMTwngYmkeCyp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ||  Periodic Table of Elements || आवर्त सारणी -01",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243623/kgss-1746412845-v243623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eN1xZxOAEl0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Dpjs5UFSJBJgfF84krlE4Ml34VD7Ew2s8GT5ymAG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Periodic Table of Elements || आवर्त सारणी - 02",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244275/kgss-1746499728-v244275.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Fs71q5Pm6ts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8CcGqASHL0ZjAlAyJ2k2hUHq7RSxW7aJtkACnVIv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Periodic Table of Elements || आवर्त सारणी - 03",
+      "published_date": "14 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/251874/kgss-1747190413-v251874.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/f49-xCTXE4Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b1iNJQrOcq0yYpdOsRZKPPDjwBGKdlM8jGAPhicP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Periodic Table of Elements || आवर्त सारणी - 04",
+      "published_date": "15 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/252489/kgss-1747276689-v252489.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iA2FKnM1_zI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VLAxPsWLQZpbvjfvqmhmV0Z5fjJerEkpw8xNnXCz.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Periodic Table of Elements || आवर्त सारणी - 05",
+      "published_date": "16 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/255183/kgss-1747363214-v255183.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iAJ_7Yaneek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c0dde6f1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Periodic Table of Elements || आवर्त सारणी - 06",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/8DtM0bASdLs",
+      "hd_video_url": "https://www.youtube.com/embed/8DtM0bASdLs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IZcrB4EwCJs8USKITj0XADmfEfA5KJE2AH3DmIWP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Covalent Bond || सह-संयोजक बन्ध",
+      "published_date": "20 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/257214/kgss-1747708276-v257214.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Wzxdwp3ySPA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PueuQjDdJmA3WLdmXLarvIxfyKx2TNTsqRYVPwLy.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Sodium hydroxide, Nitrous Oxide & Hydrogen || सोडियम हाइड्रोक्साइड, नाइट्रस ऑक्साइड और हाइड्रोजन",
+      "published_date": "21 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/258023/kgss-1747795223-v258023.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iZoCYd3AeWY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8smMGputkJMsOJf7IElN0xOPKE1A9BzOSF3G35PZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Acid || अम्ल (Part-01)",
+      "published_date": "22 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/258721/kgss-1747881551-v258721.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pmtw0df58W0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QWaxk7BB4B8sWBmjDsV2lhH8DI1guv0l8FAwd2Ze.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Acid || अम्ल (Part-02)",
+      "published_date": "23 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/261083/kgss-1747968590-v261083.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Zfh4Bwf8Mr8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c0f4493c.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Acid || अम्ल (Part-03)",
+      "published_date": "26 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/262734/kgss-1748228303-v262734.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UKjtmHHndmc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c0fbb6cf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Radio Action || भेदिकिला",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/DZmeKEmuH_M",
+      "hd_video_url": "https://www.youtube.com/embed/DZmeKEmuH_M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c103e336.jpg",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Half-Line Period || अर्द्ध-आयु काल",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/Xg6zbywjjC8",
+      "hd_video_url": "https://www.youtube.com/embed/Xg6zbywjjC8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c10b28ce.jpg",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Fusion and Fission || संलयन और विखंडन (Part-01)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/LyeA_DAgKl0",
+      "hd_video_url": "https://www.youtube.com/embed/LyeA_DAgKl0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b1c113516b.jpg",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Fusion and Fission || संलयन और विखंडन (Part-02)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/267575/kgss-1749005027-v267575.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nkvzGak4-No",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ey0t3KyS0oiYugF85Q1cUkYA8m9Q5GCjV6XmEHJy.jpg",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Catalyst Solution || उत्प्रेरक विलयन",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/269949/kgss-1749090950-v269949.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6nyggSig3go",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6G2chaS9kQztjjC5lt8Ibmrj6mJMOL6l4i26rZ8g.jpg",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Physically Reversible & Chemically Reversible || भौतिक उत्क्रमणीय और रासायनिक उत्क्रमणीय",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/270810/kgss-1749177437-v270810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mkJ_yWhrF0M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aZNtaVo1iyLjSvojIRcVFqCxmS69CMxb50deZldy.jpg",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Gay-Lussac’s Law – Pressure & Temperature Relationship || गे-लुसाक का नियम – दाब और तापमान का संबंध",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271437/kgss-1749434431-v271437.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AE-3zepc2nM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aRxYRaWU5ivjbeFZjHwwVFGz4GTKcSgZvnCW4cCT.jpg",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Boyle’s Law – Pressure and Volume Relationship || बॉयल का नियम – दाब और आयतन का संबंध",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/272022/kgss-1749522671-v272022.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K_nW0TKVQZ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KSBTQfYUnJe5OCZaFCfZ4LtDJVtJ44zsdnaZTINf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Application of Ideal Gas Equation at STP || STP पर आदर्श गैस समीकरण का उपयोग (Part-01)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/274363/kgss-1749696200-v274363.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4Mz9gcp3Csw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9ymUYba0Cv5NJgDoOBcaFrdXABZakVYezH0aHfl3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Application of Ideal Gas Equation at STP || STP पर आदर्श गैस समीकरण का उपयोग (Part-02)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/274953/kgss-1749782741-v274953.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dJzpryiISUw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LtjIjpWEAQVlzUWpkzqz5gFqidhVQC9pOv4cnevx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Chemistry By Khan Sir",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/276221/kgss-1750041510-v276221.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/En1EZ-VScPs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mfIBeGeKOQ5N2QGCid73liCZzc0ia0RrzuHUUy95.jpg",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Chemistry By Khan Sir",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/277316/kgss-1750127895-v277316.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eIYScZMH6Uc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bUDHYbdpsscWHBYpTpr5qOU7zE0lyeRqUET7G47D.jpg",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Chemistry By Khan Sir",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/277947/kgss-1750214710-v277947.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HbcUq5S8n4k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yg0GMBwrMjUveIxBQwNWdYSy79QiHSp8W3lJkWVp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Chemistry By Khan Sir",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278589/kgss-1750300834-v278589.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278589/kgss-1750300834-v278589.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OosBrYdsBqceBmtEdkpiTygFXNHlmLASUDlL2IDu.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Chemistry By Khan Sir",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/280649/kgss-1750646269-v280649.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H8O6iwVaFjM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zo7Iwa0Lk2d48xavOy4WpkfBXY8k2jffMMlmfDZb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Chemistry By Khan Sir",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qg7TH4M4j4Y",
+      "hd_video_url": "https://www.youtube.com/embed/qg7TH4M4j4Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6T7tVfEEqaV1wrwwqrgPjAqFnApqXsDjPafascOf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Chemistry By Khan Sir",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282704/kgss-1750992494-v282704.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QOW7km1BHQM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uYENhLEMsAvHkRy3rwgZ9DAqurTDhC5uHDVOUuM5.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Chemistry By Khan Sir",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/284846/kgss-1751250561-v284846.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D1rk16Lc6D8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a7B2sn5AEO14gPSpKjlPSGLWqvrsP8MMKYssQ4VX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Chemistry By Khan Sir",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/69jbMBBW2Gg",
+      "hd_video_url": "https://www.youtube.com/embed/69jbMBBW2Gg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n3X4rqXLcIhe4cLDaXACRD7M88OLsTYbiXV41A8A.jpg",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Chemistry By Khan Sir",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/287574/kgss-1751424680-v287574.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GQM_Lz4gnj4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F6EdLlUCvmOLKIiY3IQFXUXTHnBg98WXu6MTSAgp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Chemistry By Khan Sir",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/288117/kgss-1751510253-v288117.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hEzcdBrkzRE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jNeLPjmIodpczxkSo0bGhsvXKKvlg8u3hfIFv6cS.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Chemistry By Khan Sir",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/290177/kgss-1751596981-v290177.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CupnqjtDLps",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CdDZHr3Mm11zLsWIr6P4A8bz5lELTVM6pn5qJARD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Chemistry By Khan Sir",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292290/kgss-1751856580-v292290.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1751856580-v292290.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9osoAkpHVJFYfVjXEZ0pvyBsVnRlGfbeE7Z1ODB0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Chemistry By Khan Sir",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/293223/kgss-1751942844-v293223.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1751942844-v293223.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/J4UOaN9ZDxiHylNhTktqr67gflxBDyagyKZoNGo0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Chemistry By Khan Sir",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294172/kgss-1752028638-v294172.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1752028638-v294172.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8IiT8E7fcJsA5Qaq5d24p3CQPKhMD4Nd1iOhVbKL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Chemistry By Khan Sir",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294979/kgss-1752115512-v294979.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1752115512-v294979.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/55Pqgme6w7ETW4NjeIXZXP0JunoNc7C3iDrnZA56.jpg",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Chemistry By Khan Sir",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/295960/kgss-1752201464-v295960.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1752201464-v295960.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0r3OdeaD6jjcfFdeLjANl8u3eiLyACmbpvF2M0Zb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Chemistry By Khan Sir",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/296933/kgss-1752283542-v296933.m3u8",
+      "hd_video_url": "https://stream-kgs.akamaized.net/hls/kgss-1752283542-v296933.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CVIa35erPViTLScGtPoRtenarBeV5p7hHnwKtDll.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "Maths Foundation 2025 By Gaurav Sir",
+    "price": "650",
+    "id": "572",
+    "extracted_date": "2025-08-27T14:26:26.233022"
+  },
+  "subjects": [
+    {
+      "name": "Number System",
+      "id": 5709,
+      "video_count": 18,
+      "note_count": 18
+    },
+    {
+      "name": "Percentage",
+      "id": 6567,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Vedic Maths",
+      "id": 6638,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Ratio and Proportion",
+      "id": 6747,
+      "video_count": 13,
+      "note_count": 13
+    },
+    {
+      "name": "Average",
+      "id": 7221,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Mixture & Alligation",
+      "id": 7423,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "Data Interpretation",
+      "id": 7599,
+      "video_count": 3,
+      "note_count": 3
+    },
+    {
+      "name": "Simplification",
+      "id": 7745,
+      "video_count": 7,
+      "note_count": 7
+    },
+    {
+      "name": "Time & Work",
+      "id": 7799,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "LCM & HCF",
+      "id": 7944,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Pipe & Cistern",
+      "id": 8115,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Time, Speed & Distance",
+      "id": 8124,
+      "video_count": 13,
+      "note_count": 12
+    }
+  ]
+}

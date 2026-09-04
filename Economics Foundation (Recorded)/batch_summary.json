@@ -1,0 +1,22 @@
+{
+  "batch_info": {
+    "title": "Economics Foundation (Recorded)",
+    "price": "199",
+    "id": "84",
+    "extracted_date": "2025-08-27T17:43:50.560090"
+  },
+  "subjects": [
+    {
+      "name": "Economics Classes",
+      "id": 335,
+      "video_count": 69,
+      "note_count": 0
+    },
+    {
+      "name": "Revision Classes",
+      "id": 337,
+      "video_count": 6,
+      "note_count": 0
+    }
+  ]
+}

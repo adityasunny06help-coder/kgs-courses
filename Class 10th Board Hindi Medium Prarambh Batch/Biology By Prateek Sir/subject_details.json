@@ -1,0 +1,564 @@
+{
+  "subject_name": "Biology By Prateek Sir",
+  "subject_id": 3675,
+  "video_count": 40,
+  "note_count": 39,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. जैव प्रक्रम Part 1",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/VAtZaCEJJQ8",
+      "hd_video_url": "https://www.youtube.com/embed/VAtZaCEJJQ8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d13f5b23-529e-4938-b352-322064718bbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. जैव प्रक्रम Part 2",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/tn5FNgVvWyc",
+      "hd_video_url": "https://www.youtube.com/embed/tn5FNgVvWyc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f79122a6-10a0-4d2e-88c2-2c97c9d969d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. जैव प्रक्रम Part 3",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/wdM54oDsk0U",
+      "hd_video_url": "https://www.youtube.com/embed/wdM54oDsk0U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47769baa-5277-4834-83b4-ae3eed14b80f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. जैव प्रक्रम Part 4",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Hb_A1QEfGIQ",
+      "hd_video_url": "https://www.youtube.com/embed/Hb_A1QEfGIQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "5. जैव प्रक्रम Part 5",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/3TMGmmRV-rc",
+      "hd_video_url": "https://www.youtube.com/embed/3TMGmmRV-rc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7af636f0-f90d-484c-9abb-b28df948e87a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. जैव प्रक्रम Part 6",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/kkrmaU259cE",
+      "hd_video_url": "https://www.youtube.com/embed/kkrmaU259cE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62c1dbdf-d775-4f93-9394-3b698214dbfd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. जैव प्रक्रम Part 7",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/VpssG7Iw260",
+      "hd_video_url": "https://www.youtube.com/embed/VpssG7Iw260",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6fe36bc-5150-41dc-b623-126c4d24b674.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. जैव प्रक्रम Part 8",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/rqXZyoXsenU",
+      "hd_video_url": "https://www.youtube.com/embed/rqXZyoXsenU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b016c049-01a3-41e1-98b1-f01c64ac49f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. जैव प्रक्रम Part 9",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/kqKoXPcPOY8",
+      "hd_video_url": "https://www.youtube.com/embed/kqKoXPcPOY8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c64c1652-bc5e-46a2-8007-79fbed9ba4a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. जैव प्रक्रम Part 10",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/tol2-1O1BR8",
+      "hd_video_url": "https://www.youtube.com/embed/tol2-1O1BR8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जैव प्रक्रम Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0eeeaa5-b25f-4371-9354-52240bbf8c9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. जैव प्रक्रम Part 11",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ASgI-ChHBIo",
+      "hd_video_url": "https://www.youtube.com/embed/ASgI-ChHBIo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव प्रक्रम Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ff3fffd-9382-4894-8c63-56dc9cb7c78c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. जैव प्रक्रम Part 12",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/2wJfwF48tY8",
+      "hd_video_url": "https://www.youtube.com/embed/2wJfwF48tY8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव प्रक्रम Part 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb81cf47-3ae0-4e9b-b1ee-5f9d8c229660.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "13. नियंत्रण एवं समन्वय Part 1",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/t0gav1pCZ3s",
+      "hd_video_url": "https://www.youtube.com/embed/t0gav1pCZ3s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be15a3ad-be6f-4a75-b1bd-43f4b946f7e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. नियंत्रण एवं समन्वय Part 2",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/o01o1lLbLl0",
+      "hd_video_url": "https://www.youtube.com/embed/o01o1lLbLl0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed13c997-dfa2-4c2f-9ca1-dd9b9935f8b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. नियंत्रण एवं समन्वय Part 3",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/iuBZ0Ylf3h8",
+      "hd_video_url": "https://www.youtube.com/embed/iuBZ0Ylf3h8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26dfcb26-5a1b-41e7-9c34-bf01887f1057.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. नियंत्रण एवं समन्वय Part 4",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/aOqejF87NhY",
+      "hd_video_url": "https://www.youtube.com/embed/aOqejF87NhY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80b36e81-88a5-4a53-ba2e-2080db3d95a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. नियंत्रण एवं समन्वय Part 5",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ghPx4K6DO7g",
+      "hd_video_url": "https://www.youtube.com/embed/ghPx4K6DO7g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3b1407b-433b-4d5d-9853-b1f58f691cd4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. नियंत्रण एवं समन्वय Part 6",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/J4sKLYAPso8",
+      "hd_video_url": "https://www.youtube.com/embed/J4sKLYAPso8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db63ec65-c684-4d27-be81-6a3b13cd2133.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. नियंत्रण एवं समन्वय Part 7",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/_8R1srLxA0w",
+      "hd_video_url": "https://www.youtube.com/embed/_8R1srLxA0w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9ce2c27-4a4d-4d5f-9e7e-c6593aca028d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "20.  नियंत्रण एवं समन्वय Part 8",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/fx28q55C3ms",
+      "hd_video_url": "https://www.youtube.com/embed/fx28q55C3ms",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- नियंत्रण एवं समन्वय Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47cebc00-5762-4a6f-8b96-06fb51e0e3ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "21. जीव जनन कैसे करते हैं ? Part 1",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/yEf2pyamrKQ",
+      "hd_video_url": "https://www.youtube.com/embed/yEf2pyamrKQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ca0ccec-d6c7-4d95-9eed-1d73fdedf578.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "22. जीव जनन कैसे करते हैं ? Part 2",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/K57rigpZoME",
+      "hd_video_url": "https://www.youtube.com/embed/K57rigpZoME",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जीव जनन कैसे करते हैं ? Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d9eb88b-68e2-4688-97c2-4beb5be9b5ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "23. जीव जनन कैसे करते हैं ? Part 3",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/o2uNwPFu4To",
+      "hd_video_url": "https://www.youtube.com/embed/o2uNwPFu4To",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  जीव जनन कैसे करते हैं ? Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa525d94-cce5-4a13-8ca3-e98cea5e860f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "24. जीव जनन कैसे करते हैं ? Part 4",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/SCSbNnAQJFA",
+      "hd_video_url": "https://www.youtube.com/embed/SCSbNnAQJFA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddc14e1f-2995-4643-9adb-438cea1d583f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "25. जीव जनन कैसे करते हैं ? Part 5",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/niiIr35jftg",
+      "hd_video_url": "https://www.youtube.com/embed/niiIr35jftg",
+      "thumbnail": "https://i.ytimg.com/vi/niiIr35jftg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b46e966a-116b-4c12-b7ad-b6177428c3c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "26. जीव जनन कैसे करते हैं ? Part 6",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/mfZm0oLHzQY",
+      "hd_video_url": "https://www.youtube.com/embed/mfZm0oLHzQY",
+      "thumbnail": "https://i.ytimg.com/vi/mfZm0oLHzQY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9268dd82-0485-45bb-93fa-8137bb16108a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "27. जीव जनन कैसे करते हैं ? Part 7",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/T4TGPR7IqjA",
+      "hd_video_url": "https://www.youtube.com/embed/T4TGPR7IqjA",
+      "thumbnail": "https://i.ytimg.com/vi/T4TGPR7IqjA/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/733aec83-dbf1-4ea1-b986-d6d261bfa689.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "28. जीव जनन कैसे करते हैं ? Part 8",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/C4Qk48zrrbU",
+      "hd_video_url": "https://www.youtube.com/embed/C4Qk48zrrbU",
+      "thumbnail": "https://i.ytimg.com/vi/C4Qk48zrrbU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  जीव जनन कैसे करते हैं ? Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/440b6194-c86f-4d47-b124-ef159bc4702f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "29. जीव जनन कैसे करते हैं ? Part 9",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/wiZmOrNv5HI",
+      "hd_video_url": "https://www.youtube.com/embed/wiZmOrNv5HI",
+      "thumbnail": "https://i.ytimg.com/vi/wiZmOrNv5HI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जीव जनन कैसे करते हैं ? Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39f4e795-9167-465f-9729-b546f5ec2948.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "30. आनुवंशिकता और विकास Part 1",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/XA7rx-DTuNo",
+      "hd_video_url": "https://www.youtube.com/embed/XA7rx-DTuNo",
+      "thumbnail": "https://i.ytimg.com/vi/XA7rx-DTuNo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- आनुवंशिकता और विकास Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/231440a1-034b-423b-9273-adcf63b4f978.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "31. आनुवंशिकता और विकास Part 2",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/IhveAZpvsyk",
+      "hd_video_url": "https://www.youtube.com/embed/IhveAZpvsyk",
+      "thumbnail": "https://i.ytimg.com/vi/IhveAZpvsyk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- आनुवंशिकता और विकास Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54738666-89aa-445d-8dee-7200e74d666f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "32. आनुवंशिकता और विकास Part 3",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Kh00HATSWiQ",
+      "hd_video_url": "https://www.youtube.com/embed/Kh00HATSWiQ",
+      "thumbnail": "https://i.ytimg.com/vi/Kh00HATSWiQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- आनुवंशिकता और विकास Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3701b29b-0a42-4ff6-9c18-d81dc51493cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "33. आनुवंशिकता और विकास Part 4",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/wZ_HKiLj-0M",
+      "hd_video_url": "https://www.youtube.com/embed/wZ_HKiLj-0M",
+      "thumbnail": "https://i.ytimg.com/vi/wZ_HKiLj-0M/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- आनुवंशिकता और विकास Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aa9946f-9883-452a-baa0-085d4e4a1315.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "34. आनुवंशिकता और विकास Part 5",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/GsYWlyIDbdg",
+      "hd_video_url": "https://www.youtube.com/embed/GsYWlyIDbdg",
+      "thumbnail": "https://i.ytimg.com/vi/GsYWlyIDbdg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- आनुवंशिकता और विकास Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b9fdf09-ea20-4acb-91e3-afbb687ea97b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "35. आनुवंशिकता और विकास Part 6",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kjSCc_Eso3Y",
+      "hd_video_url": "https://www.youtube.com/embed/kjSCc_Eso3Y",
+      "thumbnail": "https://i.ytimg.com/vi/kjSCc_Eso3Y/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- आनुवंशिकता और विकास Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/077b882a-7276-4034-bc5b-b26e8278c46a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "36. आनुवंशिकता और विकास Part 7",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/w5Kw3Z6FXDI",
+      "hd_video_url": "https://www.youtube.com/embed/w5Kw3Z6FXDI",
+      "thumbnail": "https://i.ytimg.com/vi/w5Kw3Z6FXDI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- आनुवंशिकता और विकास Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abd1e9d9-ddbc-4268-92dc-0b8bf0077278.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "37.  हमारा पर्यावरण Part 1",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Q668w4TvS4o",
+      "hd_video_url": "https://www.youtube.com/embed/Q668w4TvS4o",
+      "thumbnail": "https://i.ytimg.com/vi/Q668w4TvS4o/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :-  हमारा पर्यावरण Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fa6b947-688b-4272-857e-555008079f53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "38. हमारा पर्यावरण Part 2",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/xdDmeGDwlv0",
+      "hd_video_url": "https://www.youtube.com/embed/xdDmeGDwlv0",
+      "thumbnail": "https://i.ytimg.com/vi/xdDmeGDwlv0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- हमारा पर्यावरण Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b11b8712-4e8a-4454-81fb-71f111c8fe5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "39. हमारा पर्यावरण Part 3",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/LWOzrBKjH1A",
+      "hd_video_url": "https://www.youtube.com/embed/LWOzrBKjH1A",
+      "thumbnail": "https://i.ytimg.com/vi/LWOzrBKjH1A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- हमारा पर्यावरण Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/852646ab-66e9-48e2-991f-a3efff00e497.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "40. हमारा पर्यावरण Part 4",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WlHIN2RUFC0",
+      "hd_video_url": "https://www.youtube.com/embed/WlHIN2RUFC0",
+      "thumbnail": "https://i.ytimg.com/vi/WlHIN2RUFC0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- हमारा पर्यावरण Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0ee218b-2d38-43fb-b4ee-abde5877532f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

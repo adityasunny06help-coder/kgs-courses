@@ -1,0 +1,54 @@
+{
+  "subject_name": "संसाधन",
+  "subject_id": 7877,
+  "video_count": 5,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || भारत के खनिज संसाधन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l135/lecture135.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l135/lecture135.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iMkULSDEocXMjhGz75GSfZ22uw0p5FdilEgtbGpO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भारत में ऊर्जा संसाधन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l136/lecture136.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l136/lecture136.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YhIiq1oj2N1ftNUcTgALgEfnBUShIirQq4P3v5qc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || विश्व के जलीय संसाधन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l146/lecture146.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l146/lecture146.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SNkE3XYBPw1kU471X7KOXpwMHEMwhQwgrj3aOEo2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || भारत के जलीय संसाधन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l147/lecture147.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l147/lecture147.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5N14xGzBgDP9ID5WmcRDisVJe4YSlAips0VGC6yZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || अंतर्राज्यीय नदी जल विवाद",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l148/lecture148.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l148/lecture148.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z4Sqn207Phi0fWbAS00arLXrScb4cYTi0MaX3zSq.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

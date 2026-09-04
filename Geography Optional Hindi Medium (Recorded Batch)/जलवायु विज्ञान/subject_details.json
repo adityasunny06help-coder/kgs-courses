@@ -1,0 +1,198 @@
+{
+  "subject_name": "जलवायु विज्ञान",
+  "subject_id": 7510,
+  "video_count": 21,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || वायुमंडल की संरचना",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l13/lecture13.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l13/lecture13.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zwZUIQe8707FEEijAv4Sqs61WzXjpUV3xeVsGJTH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || सौर विकिरण एवं ताप संतुलन (Part- 1)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l14/lecture14.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l14/lecture14.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UIcGqircaaPBaQPTpHx9oe5QWmhQSf85B62o3poo.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || सौर विकिरण एवं ताप संतुलन (Part- 2)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l15/lecture15.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l15/lecture15.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZRUxr08xXFobfdVSzIfqAueCz9wrqy59egMpbFUv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || वायुमंडलीय तापमान एवं आर्द्रता",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l16/lecture16.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l16/lecture16.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Nffyk3E3YGNvQu54cvkvJXYbJfQVL6JUj9NGSHoj.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || वर्षण की प्रक्रिया",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l17/l17.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l17/l17.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ys444NxrzDtuwhULlTiHOHllQzfeQWL9797VEv7v.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || दाब पेटियां और पवन प्रणाली",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l33/lecture33.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l33/lecture33.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O4rlmrl8qApgu33KWMrw1ybzJB9PnsPrwAzv5plm.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || वायुमंडलीय परिसंचरण",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l34/lecture34.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l34/lecture34.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h9t5zagluiy3KQFwG6wSOoQVSbG1s0LfuWUFHAeD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || वायुमंडलीय स्थिरता एवं अस्थिरता",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l35/lecture35.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l35/lecture35.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yTzkeSZk5N2hZX5wW9TDv0kvdmki1qisC9sqdbkD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || वायुराशियाँ",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l36/lecture36.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l36/lecture36.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ZoJMZanl34afq9qqMAF1jY8bSG7nuuu3usb4m2m.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || वायु राशि एवं वाताग्र जनन",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l37/lecture37.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l37/lecture37.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0lLskYRxZWUjdH3K6DV7dTLkLSB5wO2P32ihZ11L.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || वाताग्र जनन",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l38/lecture38.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l38/lecture38.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O2iZOKFJTL5Ke1thiAfcxJ6mmJoLbHPA62yHioE4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || जेट धारा",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l39/lecture39.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l39/lecture39.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0IJ0X2a7C7oel8rmT9th6EkC7nlkP28p5yMHRL1j.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || शीतोष्ण एवं उष्णकटिबंधीय चक्रवात (Part- 1)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l40/lecture40.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l40/lecture40.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EQ2IFSvygftWC23zyS1Wkotbj5wAtwaSrBWeBpft.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || शीतोष्ण एवं उष्णकटिबंधीय चक्रवात (Part- 2)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l41/lecture41.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l41/lecture41.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gQbix1HGF9kyMLk7dN4ufFdJnqQAxft87Mi2SLCC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || उष्णकटिबंधीय चक्रवात एवं जलवायु वर्गीकरण",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l42/lecture42.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l42/lecture42.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RG2VK1p7wfonJqlZ4ljzoS0JlEA4yZqwtvj8EAU2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || जलवायु वर्गीकरण || कोपेन",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l43/lecture43.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l43/lecture43.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lLSqFWQfMTSxZCDrzKYvW7GxIv9NomvdPY3KtC0R.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || जलवायु वर्गीकरण || कोपेन, ट्रिवार्था",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l44/lecture44.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l44/lecture44.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wDJNDXuI0tO4vAdl6WFjbffxwX50mJphKsZ2ZP7q.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || जलवायु वर्गीकरण || थॉर्नथ्वेट",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l45/lecture45.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l45/lecture45.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LXsfmYf4DNs5IRqdkFSHQbf9wInpw4CByQVQ2c83.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || जलवायु वर्गीकरण || कोपेन, थॉर्नथ्वेट (Part- 1)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l46/lecture46.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l46/lecture46.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UvMW3VgXsfohQNMveYgz3rVCGSEoMrkLffiJi9vr.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || जलवायु वर्गीकरण || कोपेन, थॉर्नथ्वेट (Part- 2)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l49/lecture49.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l49/lecture49.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tE0FodPSmNvKLzJneWAJafPLWOKW6q0tyBYF6YlU.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || अनुप्रयुक्त जलवायु विज्ञान",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l197/lecture197.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l197/lecture197.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gS3dOp3u1fYgmKQAPBqx7JDNQxFiOQIPFmiROVid.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

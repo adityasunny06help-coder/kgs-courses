@@ -1,0 +1,65 @@
+{
+  "subject_name": "English Narration  Chapter",
+  "subject_id": 5953,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || E letter - 08 & Narration 01",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Y9AeOf0H7OQ",
+      "hd_video_url": "https://www.youtube.com/embed/Y9AeOf0H7OQ",
+      "thumbnail": "https://i.ytimg.com/vi/Y9AeOf0H7OQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || E letter - 08 & Narration 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9de52993-8409-4830-9e43-315f9a6d4199.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Narration 02",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Uq1azmi2Us0",
+      "hd_video_url": "https://www.youtube.com/embed/Uq1azmi2Us0",
+      "thumbnail": "https://i.ytimg.com/vi/Uq1azmi2Us0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Narration 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8fcd299-3a18-43b7-9864-1c8412debc2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || E letter - 09 || Narration 03",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/9W48gcuOLHU",
+      "hd_video_url": "https://www.youtube.com/embed/9W48gcuOLHU",
+      "thumbnail": "https://i.ytimg.com/vi/9W48gcuOLHU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || E letter - 09 || Narration 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae66233a-89b9-492d-a7d9-d56409b2b180.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ||  E letter - 10 || Narration 04",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DPkpxKzn_Fc",
+      "hd_video_url": "https://www.youtube.com/embed/DPkpxKzn_Fc",
+      "thumbnail": "https://i.ytimg.com/vi/DPkpxKzn_Fc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 ||  E letter - 10 || Narration 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b57b9fc-375d-455d-80ec-790ef93bd87e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

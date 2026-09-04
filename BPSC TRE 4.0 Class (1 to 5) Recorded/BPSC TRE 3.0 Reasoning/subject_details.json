@@ -1,0 +1,121 @@
+{
+  "subject_name": "BPSC TRE 3.0 Reasoning",
+  "subject_id": 6908,
+  "video_count": 8,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Practice Class 1",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/HVoqs2oISz8",
+      "hd_video_url": "https://www.youtube.com/embed/HVoqs2oISz8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6ccXW2x09VMSQIa4CUNyYS7VFaIwc9FuTKfcY3sI.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9f422046-4096-467a-be64-cf14ef220b27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Practice Class 2",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/w-8EbCJYVA0",
+      "hd_video_url": "https://www.youtube.com/embed/w-8EbCJYVA0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/W0ZnofcHpXstHEe0MSBFlc6bmKoQxaeIoHzAVeKx.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4fc32762-37f2-4260-a40b-c28af2865e56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Practice Class 3",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/bkJmjww46KI",
+      "hd_video_url": "https://www.youtube.com/embed/bkJmjww46KI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/k43gKAnYxg7OX6KNOvvg5xNNNQkaD1ZAHCLMRXAD.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6fa30ccb-d302-4074-a46a-3738a8fed01e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Practice Class 4",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/GL9C4zUuF9w",
+      "hd_video_url": "https://www.youtube.com/embed/GL9C4zUuF9w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/23kTs3DqCowR7KdusIhRbiRyfiyKwRqc9S3k68Ad.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 4",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1eb3e85d-8bea-4420-8c08-8eb4560fafa2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Practice Class 5",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/oupNWkV87q0",
+      "hd_video_url": "https://www.youtube.com/embed/oupNWkV87q0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/REBdH6e6retDSsdLAhbwDqNwhexIWXmlydGAQXiZ.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 5",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/10e49cbd-1a93-48c1-9b8c-f31a17118a35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Practice Class 6",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/-OLT3G6CCIY",
+      "hd_video_url": "https://www.youtube.com/embed/-OLT3G6CCIY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/xnPUGSrLRx0P3bzydejE61ZEaO0wQvjpkxf6AaY3.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 5",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8a998d7d-6433-4be3-9bc1-03a3e9b1b9c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Practice Class 7",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/_QmVyIvOPaY",
+      "hd_video_url": "https://www.youtube.com/embed/_QmVyIvOPaY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Practice Class 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d0ab9af-d47a-4696-8929-e48bc0fe5f48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Practice Class 8",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/n02jBLvV5sg",
+      "hd_video_url": "https://www.youtube.com/embed/n02jBLvV5sg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Practice Class 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9284c822-2bf8-49a1-92d8-58f48681c23f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

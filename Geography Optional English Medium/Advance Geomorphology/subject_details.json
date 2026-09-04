@@ -1,0 +1,90 @@
+{
+  "subject_name": "Advance Geomorphology",
+  "subject_id": 4760,
+  "video_count": 9,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 57 || Geomorphic Cycles & Landscape Development (Part -01)",
+      "published_date": "04 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174462/kgss-1735964452-v174462.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IpcKqY6-QMk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CvjbtlqRz9MvrZUbGpXywOQwO27lXciFS0qzWNjx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 58 || Geomorphic Cycles & Landscape Development (Part -02)",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/175277/kgss-1736216108-v175277.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yf9VljREOO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B9Budk3eHpwCU5uAEanye37vDxytLA8ORYt5eizL.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 59 || Geomorphic Cycles & Landscape Development (Part -03)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176170/kgss-1736309509-v176170.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bnRoIXWrEHA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ojzPQFL7VM86cvbjSTUeHQuLgiMkZR21T6nXNYe8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 60 || Aeolian Landforms",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/geo-op-sachin-arora-sir-eng/l-60/geo-op-eng.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bMBKdrBLJhY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WQzhhj0U1Pw71njg7vIMK1wM5XiPhVvNQxpvWRwz.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 61 || Geomorphic Cycles & Landscape Development (Part -04)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177154/kgss-1736481336-v177154.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o9hxr4QAov4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/buEtDC75z859f7MxT86Ixzqke01P1vuptVXRktRf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 62 || Landform Evolution as per Penck",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177557/kgss-1736573032-v177557.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JT2YhKWExM0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YvfMVXQlY4ByJZgEFWF12kwgsJG0MB7mpss6JM0R.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 63 || Slope Modification",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177889/kgss-1736739387-v177889.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VP1SKte8BdA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TjlFmWQ8lSxpuv87hB6mBz9k6xA6lsjIurnWVBXo.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 64 || Erosion Surfaces",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178453/kgss-1736827960-v178453.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DNDMB0A0Sr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0fBhsJj3VI216gL4XPZ1SRwLXecV1nqh0jkw6jcV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 65 || Applied Geomorphology",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179512/kgss-1737001581-v179512.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kDFZtNZU8aM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Bh0nOoPEz2ndR16Jkd3IpFThv3MT7vwAt9l9cwZY.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

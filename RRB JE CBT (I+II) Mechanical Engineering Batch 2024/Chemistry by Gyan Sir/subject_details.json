@@ -1,0 +1,555 @@
+{
+  "subject_name": "Chemistry by Gyan Sir",
+  "subject_id": 3833,
+  "video_count": 39,
+  "note_count": 39,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/SEaPDKbCzeM",
+      "hd_video_url": "https://www.youtube.com/embed/SEaPDKbCzeM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VKXI3h0qTGHL2V2BaQo8eGTiifiRYLbcfCITOXQj.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2169acd1-6e96-4bd4-92f3-41139200705c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Matter (Part-1)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/8cZHZqPG71w",
+      "hd_video_url": "https://www.youtube.com/embed/8cZHZqPG71w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/t25ISYWPnLhVRmFbN8SIdF3ICLiMA1a5EZ8d1wCx.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Matter (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31a3a48d-a2ee-407f-b029-e5a9b698f87d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Matter (Part-2)",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/bRzVDI_37Gs",
+      "hd_video_url": "https://www.youtube.com/embed/bRzVDI_37Gs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/062fbFTKgCNMMicda2HSBL0ASUr1QGSup5ZuTyRr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Matter (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bef9240-9d4e-4329-885c-83a0f5e34140.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Matter (Part-3)",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/130624/kgss-1728874390-v130624.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JBfm3wAKe3o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/J49Y5I2nEdqTmyNcy4r0w0mfKU54E8bvtkEgV69i.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Matter || द्रव्य (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ac0dad1-5cfd-486f-acb4-c09a5ac96e1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Matter (Part-4)",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131194/kgss-1728960474-v131194.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3E44E00EVyo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6C5jP3z96FKVtPLgjZVqpwEjhZe36JfgMRASs840.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Matter (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4fb578a-2ce8-4ef1-a7d0-9d50f25519d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Mixture (Part-1)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Of2sqDIsQTM",
+      "hd_video_url": "https://www.youtube.com/embed/Of2sqDIsQTM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AoLisNztSGqwoNhwpM522n5vocBJIxVcAoMzTfGG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Mixture",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87e254fc-766f-4815-86c6-1bac8dee2d75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Mixture (Part-2)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131377/kgss-1729134215-v131377.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tEeJFWV9pn8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IYB2d3ljx3Iby2dvPtuPvC3uHqGQ7sp5GngRiLj0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Solution (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d12d660-0b1c-4174-b7ed-31158a97487e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Mixture (Part-3)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132763/kgss-1729220546-v132763.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3EDsc1GMtx4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/g4hp7j53EhbSzqDXZN7BgQQwrMI0ueXvXnNN01gD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Solution (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf248391-9273-4d29-b620-a0a13d978e79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Separation of mixture || मिश्रण का पृथक्करण",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/137350/kgss-1729479703-v137350.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/StoTwgcDN80",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/751PetCO69Kz5JeNT8e3TBYg3Z4m1vRWvxSK8VJA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Separation of mixture || मिश्रण का पृथक्करण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f5cc178-a90e-4f29-bc6c-c6aa1828ca7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Solution (Part-1)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/137348/kgss-1729566309-v137348.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jr1_WUimr8c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YfUN46OudejJOSAMEBhB5lMQJtD97FTobQYLEJTd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Solution (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9136042-4426-4606-aaa5-32b2e3f362b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Solution (Part-2)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138855/kgss-1729652044-v138855.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IudTO3pRceY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CvEbgyEVvK02lodrpniZKay9TcvRihpk7InpqWr2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Solution (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16c3dc7d-dc61-4b37-996d-1f7186bd56f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Acid Base salt (Part-1)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139362/kgss-1729739345-v139362.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ahl-2N2qW-c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/g3fRcFvS3MCdB7UKHWi3rcCcFhbamXohi0T0r599.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Acid Base salt (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d218871-2f92-4843-844b-3cc486b90ce5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Acid Base salt (Part-2)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140033/kgss-1729825345-v140033.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RLhZrm3crl0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ry8s5315NNaxic6nMfmwQsp8am0hFHDfXc7ZHG2V.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Acid Base salt (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a57e06d-3182-4eb4-8009-a0c97090a91b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Acid Base salt (Part-3)",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140947/kgss-1729934456-v140947.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Eagk-qQ5Htw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RFUb4iSddfWap6OWRVQcilTiwg3JiLpdmZzGSU8d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Acid Base salt (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a412842-015b-4ed1-9d35-0cba4579516a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Atomic Structure",
+      "published_date": "27 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/xwHC6g9ZTFI",
+      "hd_video_url": "https://www.youtube.com/embed/xwHC6g9ZTFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Llu3jG2h8ciAymRaZiDy2Nfilwbsb3O5MOJmMoHK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Atomic Structure",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/666005f7-c037-45bb-b863-5cc78027c657.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Atomic Structure (Part-2)",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141276/kgss-1730085153-v141276.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/73u8Chj6CcY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EmRQJOhy9WyV3cqxqeYDwSmxlfAY03qCZhK0yhxg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Atomic Structure (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f3475d1-fb1a-4967-a5ac-f87f732f830b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Atomic Structure (Part-3)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141359/kgss-1730171886-v141359.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r4LODETGfS8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yBSrcXYl6UurUlt3seLKd0mBURidxBYawPGaOy8Y.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Atomic Structure (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03b510eb-a0c5-4598-8c06-8bad72ef9235.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Atomic Structure (Part-4)",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/145683/kgss-1730257215-v145683.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lsO5V0w1kC8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NEjcG9OO1sAIznk510PJmOgbXeCKwWn2xq2NkIVt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Atomic Structure (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d1c04e5-ff4a-4aad-bd7c-35721a5659df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Atomic Structure (Part-5)",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/145786/kgss-1730689744-v145786.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hA0KVuEx4zU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eB0fX596qMmMqJIf0IAcQA3xxxImJcAzFddmg0gb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Atomic Structure (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee148af3-a82b-4354-857d-bf82cc355890.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Atomic Structure (Part-6)",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146387/kgss-1730776328-v146387.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wTAc6A6Voao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jDVUHfIAXsS9SwGrgXvAy74pzZqJdIaKbPFqPOKL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Atomic Structure (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a643b90-368c-4d81-90e6-d93ca11fa267.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Atomic Structure (Part-7)",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146734/kgss-1730862734-v146734.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uI_ugIbTMBI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rwxNqUOi8EYpRyFTpZ6R0BhTXlmn4OXZNw9Dgwbg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Atomic Structure (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c56995e2-a0db-4ade-837b-903e22f78c92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Radioactivity",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147035/kgss-1730949910-v147035.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4JGQjKcS7yM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ebhuiRzhmeStVQxlf0KTYFt1jQYA0VrMbtonukwK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Radioactivity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4ea5c3a-15ff-4910-8e96-32daa783c5f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Oxidation and Reduction",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147328/kgss-1731035037-v147328.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bNVptivGiLk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oIYmLxtPrhkUtbWEFsU8MN1suPUpJskLDocKhtw0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Oxidation and Reduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9076192a-e8fa-45ae-a525-031fff47afe1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Chemical Bonding(Part-1)",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147739/kgss-1731121775-v147739.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UqggvTVft04",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FVVTuL0pfAyHM2IRQmG5mTGxiWiYjTzR6qXVR9pJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Chemical Bonding(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0af22300-a625-44a3-9ee2-fef5c3c23c29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Chemical Bonding(Part-2)",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147795/kgss-1731140814-v147795.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TKUgyWb-Kqo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/S38niwSYOCx9SQ5uASrhUCDEl1JyMrmatymuJt9w.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Chemical Bonding(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d7fb9ee-cd46-414d-b850-a04c347368fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Periodic Table",
+      "published_date": "10 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/148261/kgss-1731203631-v148261.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TWaScBlCZys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mFUYBYtsH2FlaGi6rwSJxVXMIPl0a4Rac2ttgw4F.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Periodic Table",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8149ef68-9157-472a-9db3-0f59b3582611.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Metal and Their Ores",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/148146/kgss-1731294464-v148146.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xlx2Y-fXT7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0famWSUbn0pRqVgC8cdTwmsLnexR8ea0YxAioPdh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Metal and Their Ores",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78195d5e-f151-4b4b-bba7-5c99d9be4ec9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Metal(Part-1)",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/148772/kgss-1731380763-v148772.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QJBa08w3XuI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zeCVScn8shgBvzGWA9ZDmJwu5A5Bgd4UWyGdaSlQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Metal(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d1a4ded-9e22-47e1-a7a6-25a3cc0126ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Metal(Part-2)",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/149810/kgss-1731466608-v149810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UUT9fBeWiVE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2I4x1v46zOHqaGvp3b9AIBTXBGgQQA3iCKS9qwFW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Metal(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfb6697c-6d8a-4726-90d5-dbf29bd00b53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Metal(Part-3)",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/149747/kgss-1731553466-v149747.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F58cDbUumuM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tcFjhH0UJAGYNCuta27xqkQxvyQMyGG2F85PrGV7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Metal(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9a5b7c0-33c2-47f8-b753-89d0518fc29d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Non Metal(Part-2)",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/150939/kgss-1731640323-v150939.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_MYai2zkrQY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4JkFbU5pUXpdj7FhYyOV2oQg9VOnINLAIKTO7xGv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Non Metal(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd97fb80-9b04-4db2-9164-0d7798f71c0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Non Metal(Part-3)",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/151532/kgss-1731723612-v151532.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q3rwHhUVmvw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pkK20SmKpU7IYrY6vGzxhHwKB7uLaoN7YIbxbCl1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Non Metal(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf15adf9-ba3d-4733-ab3a-bcf04528ee5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Non Metal(Part-4)",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/159228/kgss-1733108504-v159228.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0MUnM-JsSgI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tp39WtGIgVOMevtFELcXrnlnFbNkmzMKSsaS82CO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Non Metal(Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d011283-100e-4cb3-8b02-c5218035bff9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Cement and Glass",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/159916/kgss-1733195578-v159916.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4y6bZtS5fj4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aP6W5ggNmpQkYtalAyLsv47a9BP8tpxPdiy04BxY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Cement and Glass",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c127b15c-e98c-469b-be87-9af7890ae098.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Fuel and Hydrocarbon",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/160623/kgss-1733282240-v160623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Akf9o24sHYQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YANBZHzhOj9neFG9Xm9GZ2noKygI0rw5f5RRLkeX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Fuel and Hydrocarbon",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c1fa64b-8d3f-4bcd-bf94-f2c10e0fd987.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Fuel and Hydrocarbon (Part-2)",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/162276/kgss-1733368486-v162276.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_HzKQ2lAoxM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dLIHy5Bj44d6PjrMIdZ78hixZTjZcqpm1Sc75I7i.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Fuel and Hydrocarbon (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7c7a402-3a6f-47bc-b823-723a0d9c7e87.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Fuel and Hydrocarbon (Part-3)",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/162935/kgss-1733454939-v162935.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AFrtn5e8cvs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hbDdklU2znq394WzHrVIYFcxpIHVJRuYDmURASdX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Fuel and Hydrocarbon (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04fd5819-c758-474d-94ab-6ce3269cc9f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Polymer",
+      "published_date": "07 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/163337/kgss-1733540979-v163337.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LqJireHTbfs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8P73Si2yuCpKBcQFSV9c8iloNmk6jeB5fmsgs2Bz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Polymer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d00b8e9e-60bb-467d-b206-aeb222554ba3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Chemistry in daily Life",
+      "published_date": "08 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/163801/kgss-1733628557-v163801.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PK6Tzk8wDvc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/a0pE0T4UV38EzzF3DgKsIj8o7YXwYO9zemGSoSTh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Chemistry In Daily Life",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdb99002-9162-4cd8-86b3-bb84a0360f73.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

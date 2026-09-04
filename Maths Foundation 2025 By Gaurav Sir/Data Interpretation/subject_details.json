@@ -1,0 +1,51 @@
+{
+  "subject_name": "Data Interpretation",
+  "subject_id": 7599,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Data Interpretation (Part 1)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/QJOOlRj_Y0E",
+      "hd_video_url": "https://www.youtube.com/embed/QJOOlRj_Y0E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TopGKiFHISmu3jHA4EONQHmtDdhSIu8BOdNMaHkM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Data Interpretation (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5feb1d8d-e9dc-492a-a560-0ea5829984bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Data Interpretation (Part 2)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/HFz6QetkDcg",
+      "hd_video_url": "https://www.youtube.com/embed/HFz6QetkDcg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MEgnZ6ZriZfPsx0ns0itfmCd1yLFHhP3ljMoPwTc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Data Interpretation (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/484e54f0-e249-4a25-85a2-7c812512b17d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Data Interpretation (Part 3)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/uB521HVHBrU",
+      "hd_video_url": "https://www.youtube.com/embed/uB521HVHBrU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Qrnlt0DigeiAjdk24GhjomNR3BIVEa9U03Deh9GT.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Data Interpretation (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6963410f-3142-4365-9941-ccc7f45313c3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

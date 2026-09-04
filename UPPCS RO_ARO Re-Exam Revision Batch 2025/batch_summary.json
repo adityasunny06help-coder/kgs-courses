@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "UPPCS RO/ARO Re-Exam Revision Batch 2025",
+    "price": "499",
+    "id": "608",
+    "extracted_date": "2025-08-27T14:09:11.775663"
+  },
+  "subjects": [
+    {
+      "name": "Reasoning by Yogendra Sahu Sir",
+      "id": 5949,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 5950,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "Hindi by Jitendra Soni Sir",
+      "id": 5951,
+      "video_count": 45,
+      "note_count": 45
+    },
+    {
+      "name": "Science by Sushant Sir",
+      "id": 5952,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 6079,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Current Affairs by Shivam Sir",
+      "id": 6192,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 6748,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 6847,
+      "video_count": 24,
+      "note_count": 24
+    },
+    {
+      "name": "Polity by Abhishek Tripathi Sir",
+      "id": 7326,
+      "video_count": 18,
+      "note_count": 18
+    },
+    {
+      "name": "UP Special by Abhishek Sir",
+      "id": 7395,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Environment & Ecology by Abhishek Sir",
+      "id": 7746,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Math by Amit Sir",
+      "id": 7756,
+      "video_count": 1,
+      "note_count": 1
+    }
+  ]
+}

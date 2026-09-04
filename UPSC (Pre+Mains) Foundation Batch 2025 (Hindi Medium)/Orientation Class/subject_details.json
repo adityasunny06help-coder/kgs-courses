@@ -1,0 +1,32 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 2329,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class by Dr. Vishal Mishra Sir",
+      "published_date": "11 May 2024",
+      "video_url": "https://www.youtube.com/embed/Xl3uhd3jnaY",
+      "hd_video_url": "https://www.youtube.com/embed/Xl3uhd3jnaY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kCiAWrkVvIkOX5A2K3Qy4QlduTHrrBQ1qP7kjzai.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Orientation Class by Jeet Sir",
+      "published_date": "31 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/81026/kgss-1717151030-v81026.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jjsJrJ58yWk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/J9SW3PCSjH5bIcLdpKEkfRsz3BYMvnvhARs9ogIY.png",
+      "notes": [
+        {
+          "title": "orientation",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6480efa0-4aeb-4247-a88e-8d8c9353798a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

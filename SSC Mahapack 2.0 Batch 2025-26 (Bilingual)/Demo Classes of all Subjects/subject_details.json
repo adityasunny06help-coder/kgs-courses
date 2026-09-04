@@ -1,0 +1,45 @@
+{
+  "subject_name": "Demo Classes of all Subjects",
+  "subject_id": 6273,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Demo Class of English (Vocabulary)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/NNrvVIMqE1c",
+      "hd_video_url": "https://www.youtube.com/embed/NNrvVIMqE1c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/neok2xxBAbmLC7QeupNPxjU44hhbkxWXO03awDhr.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Demo Class of Economics (Inflation - मुद्रा स्फ़ीति)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "hd_video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vvr6Cf24Wowg2KF7p2lK9QaVmaFJpwhVYDXyouYN.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Clock Demo Class",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/FRp82rkN8hU",
+      "hd_video_url": "https://www.youtube.com/embed/FRp82rkN8hU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nNjupyQnHE5nu0ljbKhsKEraI1v1ErAsnMwjNvx2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Defects of Eye || आंखों के दोष || Demo Class",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/c7R_lPKmHYE",
+      "hd_video_url": "https://www.youtube.com/embed/c7R_lPKmHYE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Fzrd2TN7CLCvkmKT0HJnCOPE5r2ZqeWAAvZK5rSt.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

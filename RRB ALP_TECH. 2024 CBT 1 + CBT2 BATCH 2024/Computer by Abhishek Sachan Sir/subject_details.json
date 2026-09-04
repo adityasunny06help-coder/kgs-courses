@@ -1,0 +1,331 @@
+{
+  "subject_name": "Computer by Abhishek Sachan Sir",
+  "subject_id": 3900,
+  "video_count": 23,
+  "note_count": 23,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Computer Fundamental-01",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/eT0cI53x9gg",
+      "hd_video_url": "https://www.youtube.com/embed/eT0cI53x9gg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B3Qi88mLR0w07zpX2ydTNX6MGI0nQFe4RONt0s8k.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Computer Fundamental-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/045a5b41-c6ae-4956-bb29-2b4c4a850875.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Computer Fundamental-02",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zs6a-ZA3QKk",
+      "hd_video_url": "https://www.youtube.com/embed/zs6a-ZA3QKk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hfqIZszXeU140y1BW0RQa0R4ymkTR8iSQ43wimuL.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Computer Fundamentals (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5abe6a1-4413-4cca-8929-cf108c706893.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Computer Fundamental-03",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/xjZ0awTy1AM",
+      "hd_video_url": "https://www.youtube.com/embed/xjZ0awTy1AM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/p0JxUaOQg9dSYIts2n5C8IpinzcAjNnfHTefnDCs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Computer Fundamental-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b043d17-01ee-4b5a-b612-9d19bfc98258.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Computer Fundamental-04",
+      "published_date": "21 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4AMsVg9m2ULfZ0dkobiuLyy6PPiMqTcolx0XnL4h.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Computer Fundamental-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d164785-a73f-4b49-a6ba-91507a29d7e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Computer Fundamental-05",
+      "published_date": "21 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Nge6gsh3yizcn4eicSMEZYzpYtGgD9Cqah1DaG3O.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Computer Fundamental-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d16737d-3b11-4954-a08b-d559ea2c93bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Computer Fundamental-06",
+      "published_date": "22 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0oNVWl0P1YqprddVQiYr3DXSppeYLXXO2TiKw1Sq.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Computer Fundamentals (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31d21e2c-82a9-4e7d-af31-538c4e4fee98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Computer Practice Session",
+      "published_date": "22 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/E0H3krygyt3I7pCR6ejfgcqTSHVgOO4y56CCEje8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Computer Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3418b241-8944-4a53-8214-6e041c662b14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Computer Networking (Part 01)",
+      "published_date": "23 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Xmtl3CcPXZXCf81f2pRl8xRlJnC9esnrRxMGfTlB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Computer Fundamental-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17f8dc96-9b6f-4f02-8efb-e7af020ca3f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Computer Networking (Part 02)",
+      "published_date": "23 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7ADAiJHSjeVJgvnRLpyW1Lc7iqtuk8Y4Xp0X7yOk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Computer Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/845df913-5185-4743-9d66-ed3854d4a241.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Computer Networking (Part-03)",
+      "published_date": "24 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hBGlpIQJ3mAdKwsvxTqTUHc2kpAWGxQ2LqrIzPDt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Computer Networking (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00dfef71-3386-4a20-a2bc-9a70db694d1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Computer Internet Part-1",
+      "published_date": "25 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1ERjvNLybYpgBAfHkl4YvmZVU1mqIcAj2dk94pJK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 Computer Internet Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38ac809f-554f-42cb-940c-c9a3fd4b968a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Computer Internet Part-2",
+      "published_date": "25 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZVpmuvy1kUiN67gkQvopa86vZmQ5lKYY7UMYId1r.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Computer Internet Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d189f3fe-3e84-438a-ad76-19ef96d25901.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Computer Internet Part-3",
+      "published_date": "26 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xA1j4wdUB9O4SFW84yAdgQBTFR6KdpMghnuQPxa3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Computer Internet Part-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8127229b-25dd-4bc8-956a-031fe5dda468.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Computer DBMS Part-1",
+      "published_date": "04 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/L9Mwm3vuo8m8k5FhTXrT3GRNdxGMHQw3hqTrEn5v.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Computer DBMS Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/744964b4-9a2e-4152-ba1f-fbad6c34fe73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Computer DBMS Part-2",
+      "published_date": "05 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MuFYKTlIr1nTlk2Kan2KJqvKZXrAQTo6vpg7Mw39.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Computer DBMS Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e10ff3b-812a-4877-a62e-3ca077cb5fd0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Computer MS-Word Part-1",
+      "published_date": "06 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8qKjn5hciHB3XCRWrbRUE4wUkkjRDWs9DDbGXlRh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Computer MS-Word Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43fd475d-5cea-4c51-b2bd-aaf111cbcd13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Computer MS-Word Part-2",
+      "published_date": "07 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XK5WJbqCJy53Id1gGhPjA3SQKSNiXfkoNkmoDJuP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Computer MS-Word Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4aa4ed9-5dd0-4da0-9e7e-c8c482463ed0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Computer MS-Excel Part-1",
+      "published_date": "08 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0klbqZZ62VWNPZrnEs2mOvSQn4MHH3ROR45UlTDu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Computer MS-Excel Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29f727cd-9a24-4d2a-8cf6-bf22ac59b169.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Computer Operating System Part-1",
+      "published_date": "09 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SVrpcLzhKfZLP8vL9AgidB1p7hhDm1BVkq10XWQL.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Computer Operating System Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5503f753-06f0-4b0b-a364-5d50f465a72f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Computer Operating System Part-2",
+      "published_date": "09 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZII2GHyVRQ7rgTMQPC1Wd22LsnU6hyzuuXMHInd1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Computer Operating System Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4abfb28-fbc8-4a60-81f7-fb4df26dde4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Computer Data Representation Part-1",
+      "published_date": "11 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ubDCLXxdVj3HXwcWWf3IMilrKGuGebQFEF6Jxc8n.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Computer Data Representation Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cbd0051-3eed-4481-b7b6-0614249f15ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Computer Data Representation Part-2",
+      "published_date": "11 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CKayD0IdmTLr8Xih9wDydBwiXgnvSLowjGejiIWh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Computer Data Representation Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bde38882-72c2-465f-bcbf-c68b137d3b38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Computer by Abhishek Sachan Sir",
+      "published_date": "12 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pCFx31I1dWUy3ts1Z80JNO3lBgAVRpCwASXd62xv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Computer by Abhishek Sachan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29bbe063-c39e-4817-8331-f9f8888cfad6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

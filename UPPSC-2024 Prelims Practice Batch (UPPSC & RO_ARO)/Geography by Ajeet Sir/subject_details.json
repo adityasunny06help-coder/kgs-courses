@@ -1,0 +1,634 @@
+{
+  "subject_name": "Geography by Ajeet Sir",
+  "subject_id": 1895,
+  "video_count": 45,
+  "note_count": 44,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Geography Practice Session - 01",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/kC25P80IPkk",
+      "hd_video_url": "https://www.youtube.com/embed/kC25P80IPkk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/A6PkuOfb7SNd6IWMS9EjQ6jb4OYEVmDiwBOY3Lqp.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/edfa1a74-1826-40aa-a40f-3200d8522274.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Geography Practice Session - 02",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/69396/kgss-1713149831-v69396.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ckMZUDrgI00",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/47fwAkYlF2kumKnFLtBTsp5JGm2H8WAPr5ywzlrS.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d45cef89-b5f1-4ec1-b962-ca5d3cbafdc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Geography Practice Session - 03",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/69702/kgss-1713266906-v69702.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5niTXpOPw8U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/nSaOSGRKWdOotQJqn4C0heXRcmdlveTtFX56jTDJ.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f8e3e9ec-d5fd-459a-83dc-e6e938ca4fd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Geography Practice Session - 04",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/69983/kgss-1713348898-v69983.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6UQcNsC8GC0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/T027EyxOjUMKWaZUQs2yWfYtNcYclc328OpeIWLi.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ed70318c-4fbf-4db2-9bf9-edd395ae3103.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Geography Practice Session - 05",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/70171/kgss-1713436006-v70171.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U-Wj6MtfLik",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/nEXq2ukZBZ1QwU1GdRk9YfP7DC2ZVNWHStT4qSCG.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 05",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8391db27-1191-4a2a-8bb3-386279f3e02c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Geography Practice Session - 06",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/70462/kgss-1713523106-v70462.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aYH39guA8cg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/h5ZshFw5mldDat43Y4EsxRjjfbSIStC17myA2uap.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 06",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/040373ac-a679-4482-84ec-5d78707a9b67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Geography Practice Session - 07",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/71642/kgss-1714021748-v71642.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lpAJ-JsYbuE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/HejsnqPUuP7FR4cImVOYdPCGsfWHE2rMXx3w2i5O.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession07",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9f39f2f7-1d76-4f0d-a020-a8bb898bb193.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Geography Practice Session - 08",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/71901/kgss-1714128469-v71901.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1wtvxuNpPco",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/k2rqPksukZCQrPjsIQeKeue1nwKqmxSFI580P7L4.jpg",
+      "notes": [
+        {
+          "title": "l8ajeetsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bea73bdb-7fbd-4fca-b760-bddba2f0211d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Geography Practice Session - 09",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/72190/kgss-1714367840-v72190.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k6TApJG_7zQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/gISjXqGf5sMoeghwOAFadEX1VbfmZSBmAnNPqkCG.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession09",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/51da5648-47bb-4735-9d17-329e45bb91c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Geography Practice Session - 10",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/ro-aro-practice-batch-2024/geography-ajit-sir/l-10/l-10-geography-ro-aro-pb.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dGbx9DHsGWQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/c8DGqnFlaiSCws8N9SyMDm0zBlSLdMGsaGS4Fzez.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession10",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8a6cefd7-82b7-45cd-8995-3e01bc1b6250.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Geography Practice Session - 11",
+      "published_date": "01 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/72937/kgss-1714541033-v72937.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MPHpbRuOY3M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4zQmrjbZpfUkoNtJY2A29yKagWcJ53tXEWHlDFK6.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession11",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c6f28dee-18c6-4172-9f82-44f8fe2dbedd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Geography Practice Session - 12",
+      "published_date": "02 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/73094/kgss-1714627458-v73094.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/C13r8uj_GmM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/wEro5h4H3HvNx03xI5g0B0dvNrb2CTQaAZq2ZqyK.jpg",
+      "notes": [
+        {
+          "title": "geographypracticsession12",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/083c49ae-a08b-44ce-97c9-57b4cca16d6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Geography Practice Session - 13",
+      "published_date": "03 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/73368/kgss-1714714185-v73368.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CQe8xTw4wjE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/5lekwIfvdFVpf6F8NnjMX51YW0pmPYpHe4JCo8B0.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession13",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8e231583-718b-4cf0-ae96-51c81bed8d14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Geography Practice Session - 14",
+      "published_date": "06 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/73998/kgss-1714971814-v73998.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lZySEa8tXek",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/PqR6EmixhkPop4e686MLZnaeX9f7q04SYwnl9aWE.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession14",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4be77492-a055-4806-904a-61747770d6f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Geography Practice Session - 15",
+      "published_date": "07 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74515/kgss-1715058470-v74515.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K2QlKrFw-gk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0tKU2L6wk6CvNupKORT9PUNczUjdyChpZZdCEgR3.jpg",
+      "notes": [
+        {
+          "title": "l15ajeetsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0a6ea4f1-6be0-4f29-b9df-023945605968.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Geography Practice Session - 16",
+      "published_date": "08 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74651/kgss-1715146193-v74651.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/btKqJjro5JI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/t1TKFYdwpQvmm7gqpn5rE7cQeb0rY6UsTxEfoonG.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession16",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ad27c5c4-b887-46ee-808f-8bb84b4aa433.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Geography Practice Session - 17",
+      "published_date": "09 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74961/kgss-1715232431-v74961.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FRqJQDsq2b4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/uHVLwEK5pH8ZpMOvPTbVHOlQtmR00W6MJDOCbXBU.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession17",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5d4d27f3-2407-47c8-8382-6cdcfa49c1e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Geography Practice Session - 18",
+      "published_date": "10 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/75271/kgss-1715318440-v75271.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cNHZX-Sn0LM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8thebe27BhFup4nKVuxA8kqsn1Or7GtC3Pmz0Hcb.jpg",
+      "notes": [
+        {
+          "title": "10maygeoajeetsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d47db999-e1cb-49cf-8221-15766d21ed8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Geography Practice Session - 19",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/IxfL-D0j2CA",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/75612/kgss-1715577764-v75612.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/o7LqLkeVxqKpaxbPCSjzNGBqc4KwDXyolnneDVke.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession19",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5648ad28-7a3f-40e8-85c1-373ee82fc6e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Geography Practice Session - 20",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/Ym7zYOY528Q",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/76133/kgss-1715664270-v76133.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/n7WGexyt0j77DgJWhQAr2Bz5YOLcfOLwVeK5So5l.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession20",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/07d5f55f-a50d-42e4-a0fc-2bf3873c8d4d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Geography Practice Session - 21",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/ZM2zFnqo2Mk",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/76543/kgss-1715750683-v76543.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/l9H40Kg78vxigLju2hGPmpT7KcUiUZ22vrg4ihrM.jpg",
+      "notes": [
+        {
+          "title": "15mayajeetsirgeo",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/116d66c3-b9d8-444b-8552-657894eeae1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Geography Practice Session - 22",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/S7C9JVxhQ6A",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/76545/kgss-1715836908-v76545.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/bGzAFrAOQaZk0YS0Fwzt0TsU0MtwCeUv70dh7oc9.jpg",
+      "notes": [
+        {
+          "title": "16maygeographyajeetsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/79493e53-6013-45ab-90cc-9aae4cc15dd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Geography Practice Session - 23",
+      "published_date": "20 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/77672/kgss-1716183744-v77672.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bUQ86ZHxkmI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6zqnZiLkq6EzHWZvcxG2JzhzTYqY1ZUN3FEk5fRV.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 23",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d989faa3-d780-4e31-8b38-796ed2304330.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Geography Practice Session - 24",
+      "published_date": "21 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78085/kgss-1716270283-v78085.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CByZkds7nuA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4GP1O8JmNLhAmZsVIfldkSVrTjl5WjFn5BkOZMxD.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession24",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b74a8836-5148-4284-a4c6-7bbc4e0b6320.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Geography Practice Session - 25",
+      "published_date": "22 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78353/kgss-1716356844-v78353.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V9jSILr38s4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/JVXP5Xg948Yr54igTvPO5A3VPN65qhJcqmY3EpO2.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession25",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0557b33f-7b54-452d-916b-12ab5b383d6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Geography Practice Session - 26",
+      "published_date": "24 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/78920/kgss-1716529644-v78920.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w0l1Vekiwi8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/BMaTOBg0qVLw4NieySnzdmULx7thevrB5Yaqi1zb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Geography Practice Session - 27",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/4jCaCKyYguc",
+      "hd_video_url": "https://www.youtube.com/embed/4jCaCKyYguc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/zYIEZ5KnJPr4NBdUcJGJCYqxKUVEQQpCsMseL3iF.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession27",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6222de60-54cd-4a45-943b-3cde5a363c30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Geography Practice Session - 28",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/ro-aro-practice-batch-2024/geography-ajit-sir/l-28/l-28-geography-ro-aro-pb.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UImYdmzSTr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe611388a.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1496dd05-3f89-4e74-89ec-90fa9e59dfd2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Geography Practice Session - 29",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/ro-aro-practice-batch-2024/geography-ajit-sir/l-29/l-29-geography-ro-aro-pb.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RfNshBq6PZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe609293f.jpg",
+      "notes": [
+        {
+          "title": "l29ajeetsir05june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ecb38e3-0456-4e63-a136-14a6b971c5e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Geography Practice Session - 30",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/ro-aro-practice-batch-2024/geography-ajit-sir/l-30/l-30-geography-ro-aro-pb.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hYkHboy0atw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe6019f36.jpg",
+      "notes": [
+        {
+          "title": "l30ajeetsir06may",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b96786a-4bc1-49c1-a9f9-01166cbcef98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Geography Practice Session - 31",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/bq8OClRLpcg",
+      "hd_video_url": "https://www.youtube.com/embed/bq8OClRLpcg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l31ajeetsir07june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f30d8584-2efd-4cd7-99a7-48a44282c205.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Geography Practice Session - 32",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83323/kgss-1717989613-v83323.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eHgZwhyUh3c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5f98c35.jpg",
+      "notes": [
+        {
+          "title": "l32ajeetsir10june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d128d6a-653c-4c91-9470-ca36e3b26ebc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Geography Practice Session - 33",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83324/kgss-1718075519-v83324.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HNOgTWTlIKI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5f215c1.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 33",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cc03c90-b93d-48db-a9d5-07317b31c030.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Geography Practice Session - 34",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83326/kgss-1718162140-v83326.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Sq7Ul8ydSgQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5ea1cf9.jpg",
+      "notes": [
+        {
+          "title": "l34ajeetsir12june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c603889-19f9-4314-aeec-147aefe764c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Geography Practice Session - 35",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83328/kgss-1718249099-v83328.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pp9s6Dvlv4A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5e29659.jpg",
+      "notes": [
+        {
+          "title": "l35ajeetsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f466df6c-fb03-456b-9ec2-3dc9953ad808.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Geography Practice Session - 36",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83330/kgss-1718335227-v83330.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y2ZVa9ZL0a4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5da81ab.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da4cfcc0-d06f-477c-97aa-cdc780df5a78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Geography Practice Session - 37",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83333/kgss-1718680439-v83333.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jSyANuhP7tU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5d2ea38.jpg",
+      "notes": [
+        {
+          "title": "l37ajeetsir18june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3d7172a-554e-43a3-ab6e-34118b94b05b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Geography Practice Session - 38",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83331/kgss-1718767237-v83331.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9sE9CaFdjZU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5ca74f9.jpg",
+      "notes": [
+        {
+          "title": "l38ajeetsir19june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d87b216-927d-49d9-a252-bd8ad6fb6af6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Geography Practice Session - 39",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/86216/kgss-1718853207-v86216.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lZvWzxrLYg8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5c32bb4.jpg",
+      "notes": [
+        {
+          "title": "l39ajeetsir20june",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ed2672a-d987-4cfe-a558-585bce2f75a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Geography Practice Session - 40",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/86653/kgss-1718940712-v86653.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fA-TiPNyRCc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5bad2d2.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cac04391-3e96-4e2d-87bf-a8626be81320.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Geography Practice Session - 41",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/87177/kgss-1719199313-v87177.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ojg0UGhoae0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5af1dd4.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession41",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39f07471-bb86-4419-8a62-ce5c9af6dd5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Geography Practice Session - 42",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/87868/kgss-1719285848-v87868.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y78yOl2F8bo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5a7e275.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession42",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9898bcbb-94cf-41ce-9bcb-0cede00efe63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Geography Practice Session - 43",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/88134/kgss-1719372060-v88134.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YERGkxB3-SE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe599b58b.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession43",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb60c0dc-0c28-4065-91c4-16aa53111ac0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Geography Practice Session - 44",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/88500/kgss-1719458612-v88500.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7ijHIApdeBU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe5923473.jpg",
+      "notes": [
+        {
+          "title": "geographypracticesession44",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24e3284a-d50a-45c7-b1d0-404790f38ff0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Geography Practice Session - 45 (Environment & Ecology)",
+      "published_date": "24 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/ro-aro/ro-aro-practice-batch-2024/geography-ajit-sir/l-45/l-45-geography-ro-aro-pb.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lM8gsmqQmGM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6888fe58708e3.jpg",
+      "notes": [
+        {
+          "title": "Geography Practice Session - 45 (Environment & Ecology)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e18a82f2-8f07-4f4c-924e-a91b94395c42.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

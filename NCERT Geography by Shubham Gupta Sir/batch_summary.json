@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "NCERT Geography by Shubham Gupta Sir",
+    "price": "299",
+    "id": "418",
+    "extracted_date": "2025-08-27T15:32:42.809171"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class by Shubham Gupta Sir",
+      "id": 3538,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Climatology : जलवायु विज्ञान",
+      "id": 3561,
+      "video_count": 44,
+      "note_count": 38
+    },
+    {
+      "name": "Oceanography : महासागरीय विज्ञान",
+      "id": 4241,
+      "video_count": 13,
+      "note_count": 12
+    },
+    {
+      "name": "Geomorphology by Shubham Gupta Sir",
+      "id": 5042,
+      "video_count": 20,
+      "note_count": 18
+    },
+    {
+      "name": "Indian Geography : भारत भूगोल",
+      "id": 4487,
+      "video_count": 31,
+      "note_count": 20
+    }
+  ]
+}

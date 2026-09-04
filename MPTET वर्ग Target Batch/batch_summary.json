@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "MPTET वर्ग Target Batch",
+    "price": "249",
+    "id": "375",
+    "extracted_date": "2025-08-27T16:03:13.035149"
+  },
+  "subjects": [
+    {
+      "name": "Hindi by Navneet Sir",
+      "id": 3118,
+      "video_count": 39,
+      "note_count": 39
+    },
+    {
+      "name": "Sanskrit by Chetan Sir",
+      "id": 3247,
+      "video_count": 40,
+      "note_count": 39
+    },
+    {
+      "name": "Mathematics by Deepanker Sir",
+      "id": 3031,
+      "video_count": 46,
+      "note_count": 46
+    },
+    {
+      "name": "EVS by Abhishek Sir",
+      "id": 3038,
+      "video_count": 41,
+      "note_count": 41
+    },
+    {
+      "name": "CDP Practice Class by Pramod Sir",
+      "id": 3863,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "CDP by Pramod Faujdar Sir",
+      "id": 3029,
+      "video_count": 63,
+      "note_count": 63
+    },
+    {
+      "name": "MATHS Practice class by Deepankar Sir",
+      "id": 3864,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "English by Kartik Sir",
+      "id": 3028,
+      "video_count": 39,
+      "note_count": 39
+    },
+    {
+      "name": "English  Practice Class by Ashutosh Sir",
+      "id": 3881,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Hindi Practice Class by Navneet Sir",
+      "id": 3899,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Sanskrit Practice Class by Chetan Sir",
+      "id": 3954,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "EVS  Practice class by Abhishek Sir",
+      "id": 4160,
+      "video_count": 4,
+      "note_count": 4
+    }
+  ]
+}

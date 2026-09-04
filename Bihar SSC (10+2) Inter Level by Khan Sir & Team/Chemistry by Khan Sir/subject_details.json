@@ -1,0 +1,108 @@
+{
+  "subject_name": "Chemistry by Khan Sir",
+  "subject_id": 1051,
+  "video_count": 11,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 : पदार्थो का वर्गीकरण || Classification of Substances",
+      "published_date": "13 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33853/kgss-1699879919-v33853.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33853/kgss-1699879919-v33853.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5f88390a-36f4-41c9-9a12-63208aed499d.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 : परमाणु संरचना || Atomic Structure",
+      "published_date": "14 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33911/kgss-1699965215-v33911.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/33911/kgss-1699965215-v33911.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//593640a4-5e7c-474d-b590-2367d460a68a.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 : तत्व, यौगिक एवं मिश्रण || Element Compound and Mixture",
+      "published_date": "15 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34058/kgss-1700052661-v34058.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34058/kgss-1700052661-v34058.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//04155456-dbfe-4b2f-bc3d-0445287bc823.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 : मोल संकल्पना || Mole Concept",
+      "published_date": "16 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34289/kgss-1700137905-v34289.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34289/kgss-1700137905-v34289.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5d9405a1-1aa9-4cfa-acdb-4d5b14c01af2.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 : रासायनिक अभिक्रियाएँ एवं समीकरण || Chemical Reactions and Equations",
+      "published_date": "17 Nov 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34210/kgss-1700223404-v34210.m3u8",
+      "hd_video_url": "https://kgs-v3.akamaized.net/kv1/nov-2023/34210/kgss-1700223404-v34210.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//145b4eaa-3aef-40c0-8552-a886d8342b39.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 : गैसीय सिद्धांत || Gaseous Theory",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-06/l-06-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Nw2QePAZa7Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//db8192fa-dcc5-4779-85e7-7a06b2b381bc.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 : धातु तथा अयस्क || Ores and Metallurgy",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-07/l-07-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-07/l-07-chemistry-khan-sir-bihar-si.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7388b304-2d4f-4750-8732-4ae15617cb26.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 : धातु तथा अयस्क || Ores and Metallurgy 02",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-08/l-08-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GKuOm-8jDlA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bffc56e4-91da-4338-90bb-1d83decbd183.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 : Organic Chemistry (कार्बनिक रसायन )",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-09/l-09-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XGPmkNGJV-A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2cf28ee6-ed86-425b-9bb0-e628ccf2e50a.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 :Periodic Classification of Elements (तत्वों का आवर्ती वर्गीकरण)",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-10/l-10-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hW1H4OMky8I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0adb0b6e-bed6-4854-a862-3da351dd00d0.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 : Chemistry in Human Life (दैनिक जीवन में रसायन)",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/chemistry-khan-sir/l-11/l-11-chemistry-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/l1oFHsdlg0U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4b7f4d2e-357a-4de5-a9d3-a7f15be4072d.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

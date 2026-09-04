@@ -1,0 +1,307 @@
+{
+  "subject_name": "CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+  "subject_id": 5481,
+  "video_count": 22,
+  "note_count": 20,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202336/kgss-1741144922-v202336.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3nBw5AnwtBk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nUHxzs8iu1o8EJzetilS4RMxPPVZ8ZWhrPX60QCS.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Calendar 1",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206739/kgss-1741230993-v206739.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XWiEFG6AedE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wueyNKC4CLMM3B9ZMEDNcoSlg4tKmPKWNvZ6XsV9.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Calendar 2",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208088/kgss-1741317605-v208088.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ibbQKOg525k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6lTSUu8Zs7cIhCArUPh3tLMyJx4iwL3AsYPhdBBB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0508ef8c-1bb5-4747-8d5d-98c39e9e6faa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Clock 1",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210268/kgss-1741404293-v210268.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4GHMSxdMaYk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ifyrTAREy0wydhiTgVcC4NX0kUxKjdX1raL4bCms.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee02728c-0f95-4a09-a4e8-8bd0bf37b7ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Clock 2",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210772/kgss-1741576940-v210772.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aUiHGngyKZQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AOQyZss0OssucTAayPNbagU86FWv8lUxli91WUGm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cc1fd7b-1287-46bc-9c2c-fc367843c383.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Clock 3/ Puzzle 1",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/211169/kgss-1741663468-v211169.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2B9pw0rUKPk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bUR464iB3zTlmwfuj6AwpOpulQNb3GlseQ51jtPe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a4a9ab5-671c-4042-9e50-44fe73c24fe8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Puzzle 2",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212825/kgss-1742354518-v212825.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nvkOIYg9Vq0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iGkyKhKD1RBIcZXywonLfY3ntaAb6kbNsJ88SGuA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c65fce30-7b39-48db-8b49-3714b0b296a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Coding Decoding 1",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213507/kgss-1742440950-v213507.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lVeBOqEkWKg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/w4stPHxETF5u8gog1h6aNjcfzKeDqceSUZejemg3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e716ca4-c7a1-459c-b72c-dfac5b18cd38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Coding Decoding 2",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/214125/kgss-1742527383-v214125.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QjibdwU4sak",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ybSOXOZf6s3N3PmQI3tepyHNYSQU3zRHNoAHujzJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60bc3716-fa4f-40c6-b9ab-39a73f77fdc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Ranking 1",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/217606/kgss-1742786245-v217606.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-fd2FKtj1Go",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Usea0qxwCWxHCgljwSMje8VLyOUQD8BMpyUGhGK1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7663322f-c157-45c7-9638-eec7fbe7b051.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Ranking 2",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218193/kgss-1742873204-v218193.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mrz4MoCBFKg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gMPWO0R3Q7KRw3u96Coq5tA1yXoZUPvRckJQvTPV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f98e9c7-1dc0-4b28-844e-2292d725b178.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Arrangement 1",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218652/kgss-1742959407-v218652.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6TU5ssBPB1Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kyXyQUAZSTjP7aiieltCqFS1sai68YEGxb9F1N2l.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04157a9d-d9a1-4d7b-9f7c-e4e54d081c77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Arrangement 2",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218909/kgss-1743045619-v218909.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RFpp6QvWcIA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5rI21xaSmQbZYzJ8DJbkvpx0ax9uPncwuSo6htTD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/311876e6-8c6f-4285-a95b-89fa6b5c1f41.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Arrangement 3",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219341/kgss-1743132234-v219341.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/u7kv3xssIZQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aHUSJKoMOP7WjFBTE8FTu92Q7piP90ZAETXiRX2b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3baefb64-09bd-4e64-a926-256f3f912999.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Arrangement 4",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220490/kgss-1743477849-v220490.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GhM8Ex69x5Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sXwz6xaPifnSxzwbx8QWT9dMo41hpgih5KDbq18Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b762980-0889-4353-9e42-a15c898369cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Direction 1",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220831/kgss-1743564314-v220831.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bRMrthJFzQ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nff8yk95mgZceMqnEasQi3R5T7ZdzqxR0zSB9fmh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/249dd17f-07cb-400c-8f36-52c01bcb0947.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Direction 2",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221493/kgss-1743650633-v221493.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AgM_SXCsrSY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ie7bk2EkGHQNgsNwR4acfCXK630S6pWQr5ytzZ0f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2de74901-947a-4b23-a656-40bb0b87ee26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222144/kgss-1743737087-v222144.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iavI5a8QbQ4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fDv2tj4OwaJY8NR0J1cqwko5GYqG5ADPnrdf9htv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ab592fe-22a3-4b24-a36f-9a96dc33e783.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222706/kgss-1743823102-v222706.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WEp8-KCYUDU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jfiOnxrmtYzhTAgjDLKmu5ttQHlZzMuTPjc50IZT.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7a9e8a9-3e1d-4c00-b9f9-35fe221c6918.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223760/kgss-1744082465-v223760.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7TiGYtuew10",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rHi7DuRvRw9qZ6CwbzmZAOh8QCMEEYZmh6NBvb40.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8172754-477a-4126-9ff0-d04a12a97171.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224933/kgss-1744168599-v224933.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9bV7b5o0oBM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IGyKf8AflyTi6zPqneTWFjrn4pwtlHdSPFFsR5sc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc40558b-a3fe-4a8c-97ad-248da128a4f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || CSAT( Reasoning ) by Sanjeev Tiwari Sir",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225387/kgss-1744255847-v225387.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jgik36N7V7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6TrunQdc1duaIpowf4r6MxXy4ChPdBHULIEsS7QR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a210204-0e26-49bb-a62a-3e2fb8944ca2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

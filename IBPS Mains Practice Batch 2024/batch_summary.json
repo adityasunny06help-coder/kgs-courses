@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "IBPS Mains Practice Batch 2024",
+    "price": "499",
+    "id": "381",
+    "extracted_date": "2025-08-27T15:59:44.931628"
+  },
+  "subjects": [
+    {
+      "name": "Banking Awareness by Sukesh Sir",
+      "id": 3364,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Reasoning by Shantanu Sir",
+      "id": 3207,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Quantitative Aptitude by Bharat Gupta Sir",
+      "id": 3208,
+      "video_count": 28,
+      "note_count": 27
+    },
+    {
+      "name": "English by Vishal Sir",
+      "id": 3215,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Shantanu Sir (FDN)",
+      "id": 3223,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Sukesh Sir",
+      "id": 3227,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Blank",
+      "id": 3228,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affair By Yadavendra Sir",
+      "id": 3235,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Hindi By Navneet Sir",
+      "id": 3265,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Mega Workshop",
+      "id": 4019,
+      "video_count": 4,
+      "note_count": 3
+    }
+  ]
+}

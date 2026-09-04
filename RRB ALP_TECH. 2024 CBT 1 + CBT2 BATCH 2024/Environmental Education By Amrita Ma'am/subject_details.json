@@ -1,0 +1,93 @@
+{
+  "subject_name": "Environmental Education By Amrita Ma'am",
+  "subject_id": 5572,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Environmental Education",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/VDfzPv7Jvdk",
+      "hd_video_url": "https://www.youtube.com/embed/VDfzPv7Jvdk",
+      "thumbnail": "https://i.ytimg.com/vi/VDfzPv7Jvdk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0603263f-05d1-4f8a-a013-0caf486621c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Environmental Education",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Yz2nFo29nQg",
+      "hd_video_url": "https://www.youtube.com/embed/Yz2nFo29nQg",
+      "thumbnail": "https://i.ytimg.com/vi/Yz2nFo29nQg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf6edf0e-f9d0-4a0f-a84f-f268700adcb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Environmental Education",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/PN7ilHwwDsY",
+      "hd_video_url": "https://www.youtube.com/embed/PN7ilHwwDsY",
+      "thumbnail": "https://i.ytimg.com/vi/PN7ilHwwDsY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50904419-92cc-4b4f-bc66-c2ade35d5f92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Environmental Education",
+      "published_date": "15 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/xguuE-Mnoyk",
+      "hd_video_url": "https://www.youtube.com/embed/xguuE-Mnoyk",
+      "thumbnail": "https://i.ytimg.com/vi/xguuE-Mnoyk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4706f9d-a5d9-4209-a9b8-1454a29f5a38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Environmental Education",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Ap03DgLa3lI",
+      "hd_video_url": "https://www.youtube.com/embed/Ap03DgLa3lI",
+      "thumbnail": "https://i.ytimg.com/vi/Ap03DgLa3lI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40f5d77d-dd8e-4dcb-bede-288598794869.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Environmental Education",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-c1HehBMU2Y",
+      "hd_video_url": "https://www.youtube.com/embed/-c1HehBMU2Y",
+      "thumbnail": "https://i.ytimg.com/vi/-c1HehBMU2Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Environmental Education",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/639cef95-4132-418c-84a7-3540330916a5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

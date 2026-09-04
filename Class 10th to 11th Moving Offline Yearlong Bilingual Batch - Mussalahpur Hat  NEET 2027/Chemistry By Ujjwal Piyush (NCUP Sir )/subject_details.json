@@ -1,0 +1,998 @@
+{
+  "subject_name": "Chemistry By Ujjwal Piyush (NCUP Sir )",
+  "subject_id": 6250,
+  "video_count": 71,
+  "note_count": 70,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Some Basic Concepts of Chemistry -1",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/cxZk6vaQ8q4",
+      "hd_video_url": "https://www.youtube.com/embed/cxZk6vaQ8q4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/12AZBg9edjIhaZWcxATzmGpEFknmwVKvmlztvE0t.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Some Basic Concepts of Chemistry -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bfd4e66-4b87-4937-b2f5-e69431a3fce3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Some Basic Concepts of Chemistry -2",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/BgUaJ2vfhxQ",
+      "hd_video_url": "https://www.youtube.com/embed/BgUaJ2vfhxQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LlKdOHPjm2YcZVqWw5BxHXudrkV1vh6WG3h7LElA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Some Basic Concepts of Chemistry -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f713d5bc-b6d0-4cab-9259-649e22f7bda2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Some Basic Concepts of Chemistry -3",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/cPEqKid-pVk",
+      "hd_video_url": "https://www.youtube.com/embed/cPEqKid-pVk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z2VIczu9sNPvmrMRKKUVQ5W4r2lOU2pQjQkFL9LQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Some Basic Concepts of Chemistry -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc06a819-f0a7-46b0-81f0-192f32a20e08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Some Basic Concepts of Chemistry -4",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/t401VTZ76sk",
+      "hd_video_url": "https://www.youtube.com/embed/t401VTZ76sk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QW2tcJhhnikzPWheIfJ8bWQnetoMBt8GNSTcjJ4V.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Some Basic Concepts of Chemistry -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0979e05b-26ca-4e73-84ea-805d92c65580.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Some Basic Concepts of Chemistry -5",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Yhwky2RPgyQ",
+      "hd_video_url": "https://www.youtube.com/embed/Yhwky2RPgyQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xu6imIQwGqOPWLWWrl9ApopoMvikXWOnSMsChcvd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Some Basic Concepts of Chemistry -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c943af5-f3d0-43a7-9311-c8ec4fbca87e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Some Basic Concepts of Chemistry -6",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/E2meZwfnwOo",
+      "hd_video_url": "https://www.youtube.com/embed/E2meZwfnwOo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y8evbDOn8l9ZkTMaWQiruo7Faf3t3AnMrWOCyhhE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Some Basic Concepts of Chemistry -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/985558a4-a3b2-44a2-83c4-7cfb9346ba2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Some Basic Concepts of Chemistry - 7",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/TOU4e6HCFX0",
+      "hd_video_url": "https://www.youtube.com/embed/TOU4e6HCFX0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Psjd2AsHSrXZC0Yv1CqvUTjIw1tu2bJO2tjQGv1e.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Some Basic Concepts of Chemistry - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bec8df3-1aa1-45e8-b3cf-711287737da8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Some Basic Concepts of Chemistry - 8",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WqCdsm07V4o",
+      "hd_video_url": "https://www.youtube.com/embed/WqCdsm07V4o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ab08ieJlFspUutEJkRgku04pJgLIkSwwn6EdkPTQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Some Basic Concepts of Chemistry - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42720028-ca3a-4117-a249-217754bcbaeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Some Basic Concepts of Chemistry - 9",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/vtsBxWtlrQA",
+      "hd_video_url": "https://www.youtube.com/embed/vtsBxWtlrQA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/midgi2eBEIJEncm8JzXoQEqAFd50cSRBNCXZzANB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Some Basic Concepts of Chemistry - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9d126ed-f2f3-45cb-aae9-2a563b7f9a57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Some Basic Concepts of Chemistry (Revision)",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/AJhz96xR1zo",
+      "hd_video_url": "https://www.youtube.com/embed/AJhz96xR1zo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gYIQcKfTl8LQIc1Yycq330FUrkD6hdUYp1KRm0ej.jpg",
+      "notes": [
+        {
+          "title": "Some Basic Concepts of Chemistry (Revision)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79c93c0d-3a09-4a76-999c-72424994dec4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 10 || Some Basic Concepts of Chemistry - 10",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/5GNYhqmKHYE",
+      "hd_video_url": "https://www.youtube.com/embed/5GNYhqmKHYE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tzQ5il2XNa0fbIMcKkXdYqbvr4ML448Gsymx1NpP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Some Basic Concepts of Chemistry - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/152afbd0-fc31-498c-ac28-2c28ef05008f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 11 || Some Basic Concepts of Chemistry - 11",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/-fHBp4iam4Y",
+      "hd_video_url": "https://www.youtube.com/embed/-fHBp4iam4Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L4JmE8yaLWKS3kwhG8oG9XFFZ7caJgJYt7UKTCeM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Some Basic Concepts of Chemistry - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05c364e2-2698-4bb7-bc2f-c90266cccd07.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 12 || Some Basic Concepts of Chemistry - 12",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/aMK7wbXv-Mg",
+      "hd_video_url": "https://www.youtube.com/embed/aMK7wbXv-Mg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GeQR2xi65d9LR7ubJoro24t4LO6HVFJvFzMmDSi3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Some Basic Concepts of Chemistry - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15f74142-d282-4586-92aa-93f39b15fe86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 13 || Some Basic Concepts of Chemistry - 13",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/tt7ZhbMB3Fc",
+      "hd_video_url": "https://www.youtube.com/embed/tt7ZhbMB3Fc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KGAKjs50RGL1iyiat2JFEao3DQcWAASmmGCx6zsQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Some Basic Concepts of Chemistry - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58acd115-4b52-490d-9df2-b74939009302.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 14 || Some Basic Concepts of Chemistry - 14",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/Au-4XboYOn8",
+      "hd_video_url": "https://www.youtube.com/embed/Au-4XboYOn8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Wys1iz50MvQEad5UNz4OFfrFbOme5fqYI69daKUa.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Some Basic Concepts of Chemistry - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3661913e-47d7-455a-ac1b-69bcfe440b12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 15 || Some Basic Concepts of Chemistry - 15",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/fwc50aKiJwQ",
+      "hd_video_url": "https://www.youtube.com/embed/fwc50aKiJwQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KqmY2kdCoffe0NB7fB3fkLkj6Jn3NagVAZOZDYoH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Some Basic Concepts of Chemistry - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73becb9c-57bb-4bf1-a39a-894db54889de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Some Basic Concepts of Chemistry (Revision)",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/0SY9Lj9OCko",
+      "hd_video_url": "https://www.youtube.com/embed/0SY9Lj9OCko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7ZfoBFgVAktNA7qWT4RKbK04CUaYN90DA6zjqUF5.jpg",
+      "notes": [
+        {
+          "title": "Revision - Some Basic Concepts of Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cba8216-695d-4b24-8c01-69a5be73800d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 16 || Some Basic Concepts of Chemistry - 16",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/6K03b5aktSE",
+      "hd_video_url": "https://www.youtube.com/embed/6K03b5aktSE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mtdJxVFBo12GuF3Lxm85Imkc5X3sPDKL3GXFWTm5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Some Basic Concepts of Chemistry - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79baa612-0bee-484f-9846-423100d94777.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 17 || Some Basic Concepts of Chemistry - 17",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/aPYaJpbVeIo",
+      "hd_video_url": "https://www.youtube.com/embed/aPYaJpbVeIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qhivK2hrOhqiwWFJD3jb20q6YO8VXhXds1VT6qXA.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Some Basic Concepts of Chemistry - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b9e14d8-73f8-450b-ab30-59662734486c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 18 || Some Basic Concepts of Chemistry - 18",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/CUrCcSKvbbk",
+      "hd_video_url": "https://www.youtube.com/embed/CUrCcSKvbbk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JqQFrnXsX7smlo9W1ZOhvLHOK7dZawqzNthMWVVd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Some Basic Concepts of Chemistry - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d62a1f1-868f-4aa7-8988-b8ad22b9b24a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 19 || Some Basic Concepts of Chemistry - 19",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/UbYEOuERMGw",
+      "hd_video_url": "https://www.youtube.com/embed/UbYEOuERMGw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/V2TU5wpEQwJnPpbZzrGVKoABTwe9lFak5eN6bvhr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Some Basic Concepts of Chemistry - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73c2aa17-d957-4b13-8f28-da727c8aefe9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 20 || Some Basic Concepts of Chemistry - 20",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/fYynfz1cjjU",
+      "hd_video_url": "https://www.youtube.com/embed/fYynfz1cjjU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fT35OoJgWUreyFDniqHqZpTNpRjDbpn89d8qYlNs.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Some Basic Concepts of Chemistry - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc515f1c-bbf7-44c5-bbd4-454d1fdc7aa8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Some Basic Concepts of Chemistry (Revision)",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/T4Dnd2FPYTU",
+      "hd_video_url": "https://www.youtube.com/embed/T4Dnd2FPYTU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ec1xiEwIJBEZXDLQkIuV2QEWBqZhpQgezcCPRuiU.jpg",
+      "notes": [
+        {
+          "title": "Revision || Some Basic Concepts of Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c286654c-e8ec-4f74-9ce2-361e4dc13483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 21 || Some Basic Concepts of Chemistry - 21",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/0h0YydjyB_0",
+      "hd_video_url": "https://www.youtube.com/embed/0h0YydjyB_0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oipQieWOQCEqAnKCGe4b1UBfImomNfuSI1qW27RR.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Some Basic Concepts of Chemistry - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce8d5ef1-9d2f-481a-9aab-9165a85e4f3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 22 || Some Basic Concepts of Chemistry - 22",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/tLgSSBrUlfw",
+      "hd_video_url": "https://www.youtube.com/embed/tLgSSBrUlfw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TGyaZRG2E4lRGp7UXXQILvEEHUGnQdBxofAQLV8E.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Some Basic Concepts of Chemistry - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3f1388f-b0d3-4b6a-adf1-ee51cdcb6aa5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 23 || Some Basic Concepts of Chemistry - 23",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/AARtxBjObC8",
+      "hd_video_url": "https://www.youtube.com/embed/AARtxBjObC8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ffG4jDeLfI8SvCuwvs62DXpZfOB2s2FDPM0RGnyF.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Some Basic Concepts of Chemistry - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25ec118d-f47b-465e-89c1-47e5e3cdb8c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 24 || Some Basic Concepts of Chemistry - 24",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/L4YcZIZOmuc",
+      "hd_video_url": "https://www.youtube.com/embed/L4YcZIZOmuc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4TsNRY9viAq9fdHFnrANJuPGGr5gLyVTrBCOFSQS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Some Basic Concepts of Chemistry - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e966b47-c9c4-48f9-b355-8b5b695675e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 25 || Some Basic Concepts of Chemistry - 25",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/ZI8iOrOK2-o",
+      "hd_video_url": "https://www.youtube.com/embed/ZI8iOrOK2-o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/foDhUQmLPXIogK3KflnzF0xfSNjcZEkRIhZ3QJFW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Some Basic Concepts of Chemistry - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d40b5c58-96fd-40cd-abed-6ddd3473b150.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 26 || Structure of Atom - 1",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/bVkVv_X8-No",
+      "hd_video_url": "https://www.youtube.com/embed/bVkVv_X8-No",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GeJoGzzWEd9qpTQpN6ZYzC5lrH9XkNaNxHoRbFb9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Structure of Atom - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22d24fd1-8f14-4143-aa67-1d04be89187c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 27 || Structure of Atom - 2",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/ty_GewGPJLc",
+      "hd_video_url": "https://www.youtube.com/embed/ty_GewGPJLc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/14Ydihd4f6spXEGstGl7v8ukRH1HE3d7DW580iao.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Structure of Atom - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea346250-6e46-4711-80c4-136f6dacfd86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 28 || Structure of Atom - 3",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/IFXqNNNjRQs",
+      "hd_video_url": "https://www.youtube.com/embed/IFXqNNNjRQs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IDPoneFdGgszIx2VYjhq12RX2e2q41eyFZrlfI3t.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Structure of Atom - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02dd9773-d266-44a5-833d-bfeb6211d4ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 29 || Structure of Atom - 4",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/y9VYXiapCIA",
+      "hd_video_url": "https://www.youtube.com/embed/y9VYXiapCIA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vmkpG5aV2zLvCMFAs8oMQgTSbqySk1kx4PO9AbwH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Structure of Atom - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd88483d-c150-4838-9673-05d1303d5b43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 30 || Structure of Atom - 5",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jDoSvG1sNyY",
+      "hd_video_url": "https://www.youtube.com/embed/jDoSvG1sNyY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2pH17gIf6dWtwkOgDvnhKLSptQNi3Tlaoiai4bMn.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Structure of Atom - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d4be3d1-8aba-42b9-861a-62383da188ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 31 || Structure of Atom - 6",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/mEzXzVrG3dU",
+      "hd_video_url": "https://www.youtube.com/embed/mEzXzVrG3dU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PbF4PA2TCzknBhNBRYloT2r1fl4W2F5F2Gd5eyct.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Structure of Atom - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3172f800-2576-4993-813b-4962efc5a4fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 32 || Structure of Atom - 7",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OrHlMmB5eeU",
+      "hd_video_url": "https://www.youtube.com/embed/OrHlMmB5eeU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2gfVo5UIeqeWt3KOETwYJFA4jR0CB1lfb0QQ3vSr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Structure of Atom - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85559089-aef7-4fa8-9330-a4d03429dc54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 33 || Structure of Atom - 8",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pHURt4fqyQ8",
+      "hd_video_url": "https://www.youtube.com/embed/pHURt4fqyQ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NnrO6jpJec4vHczmyniRkzfqwyQdvg5UYFCxZWGo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Structure of Atom - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6a67f05-4f8f-4e78-b78c-82134a5791a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 34 || Structure of Atom - 9",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jJzcsYEOJzI",
+      "hd_video_url": "https://www.youtube.com/embed/jJzcsYEOJzI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Trkl0ScrH7uJ1Aw7EEyHiBVa1EL63WuS9863VZiN.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Structure of Atom - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2f7c064-5804-4f78-9c6a-d30ecb00ceea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 35 || Structure of Atom - 10",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Czmix7Tf5qc",
+      "hd_video_url": "https://www.youtube.com/embed/Czmix7Tf5qc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n5CB4uc9K5m97ipPWMzD4SySeDPxEeumfQM1Pk1g.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Structure of Atom - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1fc116a6-1bfc-4396-95e8-c38188186ae8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 36 || Structure of Atom - 11",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EAfpexQIgLo",
+      "hd_video_url": "https://www.youtube.com/embed/EAfpexQIgLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pkTgcmNYVeYJAo2LBssfjtQlZxF4OlpjC5xTdMUM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Structure of Atom - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5328fa4-2408-429a-a5bf-8178372847cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 37 || Structure of Atom - 12",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nscCJv4Z8l0",
+      "hd_video_url": "https://www.youtube.com/embed/nscCJv4Z8l0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r9WaFiSvMKBB4NYcZsCayEvdPI03qffHxH5V5BX2.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Structure of Atom - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be0d75e1-cc82-4e20-8efe-fcd23f2d7155.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 38 || Structure of Atom - 13",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/K_3d8sep_kc",
+      "hd_video_url": "https://www.youtube.com/embed/K_3d8sep_kc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JqrhfQ3fZp6jiZQHohCxgSLgmq5ecG7nwEFZIlF6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Structure of Atom - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6234afc-571f-4509-a737-ba671dd7b5a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 39 || Structure of Atom - 14",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/zB0Eph_Qk90",
+      "hd_video_url": "https://www.youtube.com/embed/zB0Eph_Qk90",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pCVHHwHODJmBM0sXSah50B6gACut6B07ffxnZBZz.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Structure of Atom - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dfd0dac-ff18-4d29-a6de-1cddc16ab25f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 40 || Structure of Atom - 15",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OuFhhTIar2Q",
+      "hd_video_url": "https://www.youtube.com/embed/OuFhhTIar2Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uwSteOpoU0cWlTXy0Jy9kvpcp5xX2TtBX0USVDP2.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Structure of Atom - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b6f60a8-8cd9-406a-898a-ebd8369fc53c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 41 || Structure of Atom - 16",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/YIuQeBmNDDU",
+      "hd_video_url": "https://www.youtube.com/embed/YIuQeBmNDDU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uTlWQgeTfexVPn1QQvuGrcqzRBf0t0r9VJbdRLub.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Structure of Atom - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2371162-b96d-4b27-a805-f22206743bbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 42 || Structure of Atom - 17",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MJGZva9Es1w",
+      "hd_video_url": "https://www.youtube.com/embed/MJGZva9Es1w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RnlJDe6XtvvEYhx7qpDFA1xlurLSRI1W0rAaRbji.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Structure of Atom - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5daa6bdd-56a4-4780-9398-27fde255c1b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 43 || Structure of Atom - 18",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RY2JwF2eoQM",
+      "hd_video_url": "https://www.youtube.com/embed/RY2JwF2eoQM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IM6mO4GLP6G4K0EEhSAzxDi1BBnHkPQl9bUscUcC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || Structure of Atom - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d560086-c2fc-4864-9016-a862472ccd8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 44 || Structure of Atom - 19",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KyXKCvYHBdI",
+      "hd_video_url": "https://www.youtube.com/embed/KyXKCvYHBdI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cERpzFdlpVVUdJBOyHOSZ3xhztzKytafGlytPJCC.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || Structure of Atom - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df3d6f38-5a45-4270-b798-31a3bd30a6f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 45 || Structure of Atom - 20",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/24HWsAyvwuA",
+      "hd_video_url": "https://www.youtube.com/embed/24HWsAyvwuA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sGno78t203hlgipgV2z76ZsPGIcBjtcMdJDVkZcY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Structure of Atom - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bf80cf1-38a0-411f-99b4-a0505a1ee451.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 46 || Structure of Atom - 21",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YFc9IvBA1UA",
+      "hd_video_url": "https://www.youtube.com/embed/YFc9IvBA1UA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KOPIkfmjCwHOPHHoPwBsISn7U8N6bMmZ6aXSrHQ0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Structure of Atom - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd3de34c-7d5a-49f6-a8fe-6a63a4277125.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 47 || Structure of Atom - 22",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/rArWOAchVkQ",
+      "hd_video_url": "https://www.youtube.com/embed/rArWOAchVkQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/68VXpJ9VJhtMegrOiDNfhB7Jz773dQLnliPdBxPm.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Structure of Atom - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/727af822-5c4c-46f0-a293-9d0c3ca309db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 48 || Structure of Atom - 23",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/o_off9TDq6Q",
+      "hd_video_url": "https://www.youtube.com/embed/o_off9TDq6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7BOpZoRB8WsCf4ZhyztcUygoZ5XqUNQhLL6RwRgB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Structure of Atom - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb9f6013-e01e-41b4-a1bd-460569a9dc53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 49 || Structure of Atom - 24",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9pMMoiQZYCo",
+      "hd_video_url": "https://www.youtube.com/embed/9pMMoiQZYCo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yvbMmgN9QpOHJx9QqnPr9G92J9Bc5iNOpvDZcz7z.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Structure of Atom - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0931c4bd-7cc7-4c81-bb11-e17b8c4117ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 50 || TEST PAPER DISCUSSION",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/d0_qfpR8L2k",
+      "hd_video_url": "https://www.youtube.com/embed/d0_qfpR8L2k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S5YTGjkT6yUEutddSKx6AL0AAyc1NRDysaGYpRJ6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Structure of Atom - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a255a68-3702-4ea8-bf76-ae480331a12d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 51 || Classification of Elements and Periodicity in Properties - 1",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/S3RWx9MsqR0",
+      "hd_video_url": "https://www.youtube.com/embed/S3RWx9MsqR0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SmAz4CgHUd29TqacoH7fsLqrS3aeW5U8C0Wm4RLq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Classification of Elements and Periodicity in Properties - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7238618b-eea7-4a41-b1a7-afba6d29ede3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 52 || Classification of Elements and Periodicity in Properties - 2",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/FdL7h5A-e88",
+      "hd_video_url": "https://www.youtube.com/embed/FdL7h5A-e88",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/82Nn7q5sbeQuHYY4WouaRKlgJ2IbwM22x0mFowTo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Classification of Elements and Periodicity in Properties - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3896fad-c0b6-412b-8c0b-11dd262d456c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 53 || Classification of Elements and Periodicity in Properties - 3",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ryc1NPVEU5c",
+      "hd_video_url": "https://www.youtube.com/embed/ryc1NPVEU5c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DJdpPE4cP0IX9WlNQ7IVtcLFtaquL5angDwFg2Yf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || Classification of Elements and Periodicity in Properties - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5044b36a-aafa-4327-8f30-6f50ab9f9194.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 54 || Classification of Elements and Periodicity in Properties - 4",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BzjzcN3CfFk",
+      "hd_video_url": "https://www.youtube.com/embed/BzjzcN3CfFk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yG4UuoY8knOquMpIvzBCFzooEewMEucZYQ2susk3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || Classification of Elements and Periodicity in Properties - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3079accf-3b9b-42bf-b182-a67c8ecbff0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture - 55 || Classification of Elements and Periodicity in Properties - 5",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/y_ay9S3BkPk",
+      "hd_video_url": "https://www.youtube.com/embed/y_ay9S3BkPk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jjaULHNmWTwxGNEO8xnZhOGlKBsGszhxTbRTygAM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || Classification of Elements and Periodicity in Properties - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b56e6705-689e-4ae0-956c-37b058590dc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture - 56 || Classification of Elements and Periodicity in Properties - 6",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/GQQu0aTTyTE",
+      "hd_video_url": "https://www.youtube.com/embed/GQQu0aTTyTE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5UhcY1fj5QVbglNZQAu7dWPC6XcK6rYlBwRQyAJd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || Classification of Elements and Periodicity in Properties - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a28dab39-a24a-41ee-ab53-85f8ac6bd5c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture - 57 || Classification of Elements and Periodicity in Properties - 7",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/nBOCCQGWrvk",
+      "hd_video_url": "https://www.youtube.com/embed/nBOCCQGWrvk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/40bV7XZF2xdTfu0sCV2xMi6EdemLpfu1sAezesNX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || Classification of Elements and Periodicity in Properties - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21bf2703-c896-438b-8947-9718f4c4da61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture - 58 || Classification of Elements and Periodicity in Properties - 8",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/axjsfNTmIKE",
+      "hd_video_url": "https://www.youtube.com/embed/axjsfNTmIKE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iANUCvOVVOlRttNfEaf6w1jUzHcQPbc75FfyAFPT.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Classification of Elements and Periodicity in Properties - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c98420b8-d7ed-4171-a758-52a836eaff3a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture - 59 || Classification of Elements and Periodicity in Properties - 9",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/OW3uX8AFK8k",
+      "hd_video_url": "https://www.youtube.com/embed/OW3uX8AFK8k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/omLjN1O9K2DKnptgDjJyeOStxoZk9QFo0kedqj8V.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 59 || Classification of Elements and Periodicity in Properties - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5908492-af77-42c6-a265-51222b14dd75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture - 60 || Classification of Elements and Periodicity in Properties - 10",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/yfLHVbvVeIk",
+      "hd_video_url": "https://www.youtube.com/embed/yfLHVbvVeIk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QZRD0t3owz2IsqV89DUShvWXJ3lX32QTUF7wwXG1.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 60 || Classification of Elements and Periodicity in Properties - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3563c3c1-760a-49bf-ad43-0c73f238b19d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture - 61 || Classification of Elements and Periodicity in Properties - 11",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/JtL7dzWdzso",
+      "hd_video_url": "https://www.youtube.com/embed/JtL7dzWdzso",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/60QD3r2ZcGKy1oVL7vImYUTSwLnnSdmbV9ul1gyK.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 61 || Classification of Elements and Periodicity in Properties - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d771ace-dfd6-4e6b-a153-48b26d1c3a25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture - 62 || Classification of Elements and Periodicity in Properties - 12",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5YxnNKFvSPg",
+      "hd_video_url": "https://www.youtube.com/embed/5YxnNKFvSPg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fhf2alZYMH1r4R0onyluBdGJJy4lxFkjjzDQQQ8u.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 62 || Classification of Elements and Periodicity in Properties - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a67591f1-ee63-48e7-be55-7825656cbc2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture - 63 || Classification of Elements and Periodicity in Properties - 13",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7SOqTHAV2S4",
+      "hd_video_url": "https://www.youtube.com/embed/7SOqTHAV2S4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DEBjyVDximHQyjlwOvje8x4fe3wHYLq1x2YzORYp.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 63 || Classification of Elements and Periodicity in Properties - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2af12672-df05-46a9-a3bc-b205b6f0f02d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture - 64 || Classification of Elements and Periodicity in Properties - 14",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/enWO6x3ucnY",
+      "hd_video_url": "https://www.youtube.com/embed/enWO6x3ucnY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YKK5se3i3XOVe1DaUgYF4PVG2efyXW92SG3PDxfM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 64 || Classification of Elements and Periodicity in Properties - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08651ee1-1432-4f9f-9105-fc2e5f6a66ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture - 65 || Classification of Elements and Periodicity in Properties - 15",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qalhEO1sN7E",
+      "hd_video_url": "https://www.youtube.com/embed/qalhEO1sN7E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TjRRaP7z7C5cUvgujPL4Xnizl5ABf5kLSNRIfvQW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 65 || Classification of Elements and Periodicity in Properties - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10fd5e99-1dde-40a1-b353-80d333e589b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture - 66 || Classification of Elements and Periodicity in Properties - 16",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/RNEMD0rfHbs",
+      "hd_video_url": "https://www.youtube.com/embed/RNEMD0rfHbs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/29ufVynb2UPa0Quff4w0xtmhDOnaCzyKWMqnV21K.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 66 || Classification of Elements and Periodicity in Properties - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cd5b326-7847-4289-b165-21fdc997aeac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture - 67 || Classification of Elements and Periodicity in Properties - 17",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/2n6uNfGyppI",
+      "hd_video_url": "https://www.youtube.com/embed/2n6uNfGyppI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/naZBIhwuNWTS8jq2sWFibKkDceeXtrtqlKNzatER.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 67 || Classification of Elements and Periodicity in Properties - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c70b220a-73cd-4c9d-8206-a690ad268020.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture - 68 || Classification of Elements and Periodicity in Properties - 18",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P8z5MmPncl0NjMxDRY46ahQxh6tD5hYD6QTEC8X7.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

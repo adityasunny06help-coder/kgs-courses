@@ -1,0 +1,289 @@
+{
+  "subject_name": "Environment & Ecology by Abhishek Sir",
+  "subject_id": 5164,
+  "video_count": 20,
+  "note_count": 20,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Environment || पर्यावरण",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191102/kgss-1739166407-v191102.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JZZZY0dXvWg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RnWOX3ldEVoKqZwzKKYxJMXnji4k57BxnHsDCG0q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3574a22f-89ed-497d-a4d3-279271e4d02a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Eco-System || पारिस्थितिकी तंत्र",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191797/kgss-1739253233-v191797.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fXV1Gcjlzsk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DqSnUbjXP1gtnLulLcycxK5kvkZY9vn6wrQbmhLB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73aa692a-1bce-4d4e-a40a-59fa24d7f38b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Inorganic Components || अजैविक घटक",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192023/kgss-1739339883-v192023.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DVOsSpS64e8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vSuFlCI4lAim3gF4G68qvYKfvU3ExFJTG3pt2yq2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5156865f-2eaa-407c-91d1-d02b09c708e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Types of Ecology || पारिस्थितिकी के प्रकार (Part-1)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193495/kgss-1739512542-v193495.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ggy9uYn03o4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7bpLFP6InZiP52vAuZZUMvo2sBxYZXCkDyWlhuzL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c9902af-88e3-4a94-aab7-0c19faee36af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Types of Ecology || पारिस्थितिकी के प्रकार (Part-2)",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193840/kgss-1739771492-v193840.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qY9EITrJf8I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ekD8Pc8UZluqvGKcSTd93cfWPdGLzFSc8J7WqCtu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a066807-bad2-43aa-afa0-990a0f02904c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Water Ecosystem || जल पारिस्थितिकी तंत्र (Part-1)",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194451/kgss-1739856875-v194451.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jBCs8NOOeOY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XoWbzaLV3FJezh1esZjk8uYwc2SIgIfKxozOEl6k.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Types of Ecology || पारिस्थितिकी के प्रकार (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef13805f-9906-4fa3-b226-8463094f16b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Water Ecosystem || जल पारिस्थितिकी तंत्र (Part-2)",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/195038/kgss-1739944614-v195038.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EJVJg4z0OiA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WTECzEq5KODNmgFnJoX4r4US2b8k7hjc0A2a8bDm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Water Ecosystem || जल पारिस्थितिकी तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25a44371-56e1-4723-ada4-cf2b5e32314e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Coral Reef || प्रवाल भित्ति",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197360/kgss-1740030696-v197360.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GvSau8v6Dac",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IaxOcR57GZkH5ixuN1B08DMP3asgTWKNTyqERv8l.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Water Ecosystem || जल पारिस्थितिकी तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/061ea5cc-f0ef-42b6-83d2-9f4bd939e8cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || पारिस्थितिकी पदार्थों का संचरण",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197762/kgss-1740116881-v197762.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hxxHvxR0YBo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SgVROZpEmnvxnrzTxCZ6EkNEBr3lzMboaVx3gdtC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6186faad-dcb3-473c-89ad-a71f00bb1201.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Biogeochemical Cycles || जैव भू-रासायनिक चक्र",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc-crash-course/envi-ecology-abhishek-sir/l-10/envi-crash-co.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/87VLvpCDhPM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FaHV3sXNZZUkvxnmTSCYha1DBstNiM2kVBhO080E.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1089309-f5da-40af-ac9d-297de9d80e2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Sulpher Cycle || सल्फर चक्र",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/200415/kgss-1740721802-v200415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pAZv7WJKmmQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h7x1Rx1uRGTqpPbyNenP7ERDahTno1VFjX5LJVqE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9795958-46a9-4e87-8b79-9510a93c48b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Biodiversity || जैव विविधता",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201446/kgss-1740981328-v201446.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/m5j0YCbi_H0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CaR363WhAJMeSDBKROdZDB4Rb8V8SqGFH6ODFByf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Ecology by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ed34d05-5d1a-42c2-a9e6-e9deff7bd864.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Types of Biodiversity || जैव विविधता के प्रकार",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202099/kgss-1741067582-v202099.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IRugCW7hucU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zwzqUUEzR4oFgUvgVPQWVsvkKKDu7n4nFuIKgATq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c695ed6a-9829-4b1d-8c0d-b610f869e14f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Biodiversity in India || भारत में जैव विविधता",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206705/kgss-1741240297-v206705.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1QSlsV1Aqts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RMxcl9KKKbexWEXJgIqXZKcSPDl3Ui297xa0KkbL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a2f865f-1e17-4328-88f6-138eb17eff67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Environmental Pollution || पर्यावरण प्रदूषण",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208449/kgss-1741326811-v208449.m3u8",
+      "hd_video_url": "https://youtube.com/embed/muDyNTXcTnw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/a3Gu2KLd1mHNETvb4kzSjMBXPKb2z2JhsW0XfaTl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f34bdb2-e6ae-49b3-880e-432d44bf1391.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Practice Questions || अभ्यास प्रश्न",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210459/kgss-1741585731-v210459.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cM60CkokUTM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fkKL7ebhJDX1O3unNMYDR9sh0pp8wEZTj6k9Es0x.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Environmental by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22502fe7-72e6-47e9-a390-41faf2372dc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || MCQs (Part-1)",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/211482/kgss-1741758587-v211482.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QcXWSS0yz8A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TEltKMGYb0PetdwtPh5V1I2XGKZMy8tA9PFv0LoA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Environmental by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca7fd5fe-e7ed-42a2-9268-470b958801d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || MCQs (Part-2)",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212075/kgss-1742190308-v212075.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uM0kLG_TYns",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rez15lPmmkysMafXto0vifrj4qtyC187hdj7vKRv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f45506eb-50f6-4d6c-afb8-791553abf0a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || MCQs (Part-3)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212490/kgss-1742277357-v212490.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/52Bh0II6Aq0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bH00PdSV0LlngygIH5AfsXBFLurZkox1KuY0DQM0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ef7a390-4ff8-4d6a-831d-0f1284a5f37e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || MCQs (Part-4)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212770/kgss-1742363546-v212770.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/of8ewdpz6CQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/X9ZoGP1nDz5dbTvPzSZa4aRrtINgXA5qw6wov8lX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Environment by Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8791518a-902c-49e8-82d3-193ec47c07b0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

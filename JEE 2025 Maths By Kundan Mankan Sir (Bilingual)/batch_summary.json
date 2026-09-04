@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "JEE 2025 Maths By Kundan Mankan Sir (Bilingual)",
+    "price": "499",
+    "id": "346",
+    "extracted_date": "2025-08-27T16:15:48.627929"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 2675,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Maths By Kundan Mankad (KM Sir)",
+      "id": 2676,
+      "video_count": 156,
+      "note_count": 156
+    },
+    {
+      "name": "Maths Supporting Material",
+      "id": 2677,
+      "video_count": 40,
+      "note_count": 36
+    },
+    {
+      "name": "Test Paper and  Solutions",
+      "id": 3085,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Diwali Assignment",
+      "id": 4143,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

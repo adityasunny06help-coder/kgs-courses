@@ -1,0 +1,615 @@
+{
+  "subject_name": "Physics by CS Singh",
+  "subject_id": 6031,
+  "video_count": 44,
+  "note_count": 42,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introductions Class",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/CGBP598u4Jk",
+      "hd_video_url": "https://www.youtube.com/embed/CGBP598u4Jk",
+      "thumbnail": "https://i.ytimg.com/vi/CGBP598u4Jk/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 1 || Units And Dimensions || मात्रक और मापन",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dEKTT3a1Wmc",
+      "hd_video_url": "https://www.youtube.com/embed/dEKTT3a1Wmc",
+      "thumbnail": "https://i.ytimg.com/vi/dEKTT3a1Wmc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Physics by CS Singh",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/720bf5d9-9e20-4272-9299-0111d1e97516.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 2 || Units And Dimensions || मात्रक और मापन(Part 02)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/4ydGMuSrrGs",
+      "hd_video_url": "https://www.youtube.com/embed/4ydGMuSrrGs",
+      "thumbnail": "https://i.ytimg.com/vi/4ydGMuSrrGs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fccda29b-b84e-4bad-aa5e-4af0bf399044.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 3 || Dimensions Formula  || विमीय सूत्र",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/yOYdKqb26gU",
+      "hd_video_url": "https://www.youtube.com/embed/yOYdKqb26gU",
+      "thumbnail": "https://i.ytimg.com/vi/yOYdKqb26gU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Dimensions Formula  || विमीय सूत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26ac0aaa-510f-4490-becb-773f95601274.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 4 || Dimensions Formula || विमीय सूत्र ( Part 02)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/KhOwkrgJQfU",
+      "hd_video_url": "https://www.youtube.com/embed/KhOwkrgJQfU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6aFSj5S7TZnT7gNsyfUbx9WN9ZBAF7SOXUUHQiqS.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e26e6ef-0622-44fb-9ffe-f4dbbee61930.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 5 || Unit and Measurement MCQ",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/I3ElEyDZXSU",
+      "hd_video_url": "https://www.youtube.com/embed/I3ElEyDZXSU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oZm8ejpOZthVbkQQt0wt8sLB3F7HxI4qD3nx7QE1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Unit and Measurement MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3fda2ad-8141-4dec-8eab-f89bc7e35e43.12"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 6 || Unit and Measurement MCQ (Part 02)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/1MpmCLuvm38",
+      "hd_video_url": "https://www.youtube.com/embed/1MpmCLuvm38",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GtRLsXHtTMvjODV7QCDx5kgdBmsASd2yiiF4Ic8A.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a68a14f-582d-41a2-8d2b-a25c52da1fb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 7 || Motion (Part 01)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/XraJGP7GR1c",
+      "hd_video_url": "https://www.youtube.com/embed/XraJGP7GR1c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hYUE7CgGZvt64Y09eYs3HdueknXqHYAPmmbJVfnh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Motion (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/851ada0c-3b08-4af6-9e76-e0618aca1de4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 8 || Motion (Part 02)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IYxEacKpISw",
+      "hd_video_url": "https://www.youtube.com/embed/IYxEacKpISw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OvxMyyB0aizcWP1meVrKLUXGTwwV6s9bXdZh11Tg.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Motion (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5b05407-8a36-46ae-b93c-7e8f96e98f40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 9 || Motion (Part 03)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/zXlbjJK0OQI",
+      "hd_video_url": "https://www.youtube.com/embed/zXlbjJK0OQI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aPp9PC3M5KxZID7XBWcZFLnvZZ9B0M7a6GLPHPyX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Motion (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bbec22f-2d4b-4887-a04b-326164521646.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 10 || Motion (Part 04)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/L9uLZuS_YIY",
+      "hd_video_url": "https://www.youtube.com/embed/L9uLZuS_YIY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QwCVBnrg9VUc0uoFGMdxbXl9qdFdedHBiEhWaYeC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Motion (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d5d7d59-ba26-4489-a79f-9719d88833be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 11 || Motion (Part 05)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/DmW-_hbR8pY",
+      "hd_video_url": "https://www.youtube.com/embed/DmW-_hbR8pY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9nSPJopvYUmFZ0QY5caWAIko5z6dCmZevyBMuYhz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Motion (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3405fa2-d885-4bae-8238-42ac88fcbcb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 12 || Motion (Part 06)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/2PQLAIPf4z0",
+      "hd_video_url": "https://www.youtube.com/embed/2PQLAIPf4z0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LBLKixyjQpWDrJyLnJF3pjSJ5VOPKpOUqadzi33r.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Motion (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0ca50e4-8fbf-485b-819c-c86e21b3583e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 13 || Motion (Part 07)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/psCWT1I6bbE",
+      "hd_video_url": "https://www.youtube.com/embed/psCWT1I6bbE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FGEaQXVy4Y7EF0hQco6hXh9UnZ3ws8qMOMOe7fAb.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Motion (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/771a4ab4-0dca-47c6-a779-662b2467b5c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 14 || Motion (Part 08)",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/FQo0wP5DCtU",
+      "hd_video_url": "https://www.youtube.com/embed/FQo0wP5DCtU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vZhsaTsnKovAemOdSjh9irljcbH7omW8qt1GXURP.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Motion (Part 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f0dc95f-8e7d-4c26-8f14-a233f8072379.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 15 || Motion (Part 09)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_9W-tKclYQE",
+      "hd_video_url": "https://www.youtube.com/embed/_9W-tKclYQE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uQsUiCODccwR77JBI9Rc0PNUr6V0rRJMAN9OIcjo.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Motion (Part 09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c0caa6d-5861-48d0-9526-72ff1eff6c16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 16 || MOTION MCQ (Part 10)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Zm5vhl4MqtA",
+      "hd_video_url": "https://www.youtube.com/embed/Zm5vhl4MqtA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7yHahDrtnvlVaQWrBzb7ur4R7TVcvQsBHt3vBRni.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Motion (Part 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42054989-d6e1-4707-811e-2888b8f20ee4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 17 || Motion (Part 11)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/mUWaCcnjyhM",
+      "hd_video_url": "https://www.youtube.com/embed/mUWaCcnjyhM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nGcPpdrMkSUdkJRGWK8lVV5OOgoIuQNBpeD3TawU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Motion (Part 11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8eb0702b-0be1-4048-b3ac-9e7e79ea8f8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 18 || Motion (Part 12)",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/bNm-8lM3Ymk",
+      "hd_video_url": "https://www.youtube.com/embed/bNm-8lM3Ymk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uPfXMmt3rlpzeogyqUJKUhNdlsyiwGjyX9rLLpLs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Physics by CS Sing Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fdca79fc-c4ba-4e3b-a287-b5b0065407f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 19 || Motion (Part 13)",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/GzxZsmq-wKA",
+      "hd_video_url": "https://www.youtube.com/embed/GzxZsmq-wKA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0hqIm4M2EVBmWDfKG5EJCSymxsNnoHJWJ7oYkVsr.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Physics by CS Sing Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e643198-e8b5-4c8b-89b0-9bb8d50e5bcd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 20 || Motion (Part 14)",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/jys0QwG67JY",
+      "hd_video_url": "https://www.youtube.com/embed/jys0QwG67JY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Fv29VpEn7SuKByfn4EbgOw5TLVZrckLAw0a9bA22.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef8bef46-6c19-469a-b822-bf9c1b175642.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 21 || Newton's laws of motion (Part 01)",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/C1TX3pV7NY8",
+      "hd_video_url": "https://www.youtube.com/embed/C1TX3pV7NY8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9mWmj0SF15ksDJGlBPM1OAWmQU3rMNjpNCT6xzPj.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/428e0fa1-d51e-4a92-8e8a-eecd19fbd5bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 22 || Newton's Laws of Motion (Part 02)",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/Sdwv4zlKkG4",
+      "hd_video_url": "https://www.youtube.com/embed/Sdwv4zlKkG4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6TWgaQNmVTnqhL6STigRaSxopJm4fj66tluaN7uA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15c244b9-9443-4ab0-a70d-dfbf025682a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 23 || Newton's Laws of Motion (Part 03)",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/3XTzn-HErdM",
+      "hd_video_url": "https://www.youtube.com/embed/3XTzn-HErdM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9rGIR9Psh5YvSqaDToNFX6ZBvNvHTxhFbPEvzaNN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Newton's Laws of Motion (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5373074-8006-48b5-9d8a-64849d96118b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 24 || Newton's Laws of Motion (Part 04)",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/AD_oEEHJiuk",
+      "hd_video_url": "https://www.youtube.com/embed/AD_oEEHJiuk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ihlEZSeWJaDDKRkyHbzr7mWGPxXf7P3bo0gPce5P.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Newton's Laws of Motion (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a645fbd7-4ae8-4b0d-a69f-305a476a2bb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 25 || Newton's Laws of Motion (Part 05)",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/zr0xHFK8NvY",
+      "hd_video_url": "https://www.youtube.com/embed/zr0xHFK8NvY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bnyZkt7Dj0PSzxRtQ4mEKoMEndGBsDUxIggA0uvv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Newton's Laws of Motion (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb60d49d-6283-4962-8941-811884b584ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 26 || Newton's Laws of Motion (Part 06)",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/plPOP6QV600",
+      "hd_video_url": "https://www.youtube.com/embed/plPOP6QV600",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sN1mx6a7xUWCNAKw4ra2Y7setkqIUg5uwZf2FeJR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Newton's Laws of Motion (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63b1df37-422b-4eec-a5e4-a6dfe26150ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 27 || Newton's Laws of Motion (Part 07)",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/Gyb3ksu2kRg",
+      "hd_video_url": "https://www.youtube.com/embed/Gyb3ksu2kRg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MEXx5pNRhA4GLg3uEWDrRdFe6vt8fgLXh4iem8qq.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Newton's Laws of Motion (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a941ea9-7a8d-4fd1-a58a-ab1975a062dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 28 || Friction (Part 01)",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/ceJcsh1Fj24",
+      "hd_video_url": "https://www.youtube.com/embed/ceJcsh1Fj24",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VeR2tW5y6tP9ESNLRLrBiZiw1D6rDp0wlsd3ZHwB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 29 || Friction (Part 02)",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/dbe_hoNauf0",
+      "hd_video_url": "https://www.youtube.com/embed/dbe_hoNauf0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TtPWS5zLyJwIoiBKTyQvXK2zaRgtQmB0dpvBRyLz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Friction (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/281293f6-3890-495a-8d04-cfd685ae9adb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 30 || Friction (Part 03)",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/TBnfL6BQrjg",
+      "hd_video_url": "https://www.youtube.com/embed/TBnfL6BQrjg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bON7L7oW1COApcEQ1YjAGX1haXwMSCeZnlpBZFSC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Friction (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b7cc6a6-6d70-4155-86e1-6de60ab94738.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 31 || Question Practice",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/PhW-aT3mbFk",
+      "hd_video_url": "https://www.youtube.com/embed/PhW-aT3mbFk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XOw42frwnwonO1KsSUFERy7CjENu38taPEgVAUo2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd6823d8-00f6-4cef-ba4a-9f98ecb4d03d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 32 || Physics by CS Singh Sir",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/FT48ms7gObM",
+      "hd_video_url": "https://www.youtube.com/embed/FT48ms7gObM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KAg55DSXcJlGhEliIL2s5P0h32MynboLNAFO0hfL.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/984d8681-1635-4369-ba3e-20d002bd2d9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 33 || Work Power and Energy (Part 01)",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/YWtBKZAEY_Y",
+      "hd_video_url": "https://www.youtube.com/embed/YWtBKZAEY_Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/unQdaInWErkuuKRNiYmOYvUbRx2T6P762RiWFObs.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 || Work Power and Energy (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5af688f-5a99-4008-bd77-f8fb59fbf309.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 34 || Work Power and Energy (Part 02)",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/kRwObCQPni8",
+      "hd_video_url": "https://www.youtube.com/embed/kRwObCQPni8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/00haV0nhqgcrcZIAX2ujhmRmZYEK4X59fsY7Ce0M.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Work Power and Energy (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99ae157c-2314-44dd-8a85-2db869ca4c02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 35 || Work Power and Energy (Part 03)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/Xy3DrEx-Sjk",
+      "hd_video_url": "https://www.youtube.com/embed/Xy3DrEx-Sjk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/O4ol5K9UVrgHNEnxLKnxxTspvqSWDYIuDJWLYf3Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Work Power and Energy (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0ce348e-8c60-43db-9711-602090292271.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 36 || Work Power and Energy (Part 04)",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/GkDy9BrwNjU",
+      "hd_video_url": "https://www.youtube.com/embed/GkDy9BrwNjU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BicarOzbnSD3jBae0gq9tggPQ1cSH8bS0QW5V4CU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 || Work Power and Energy (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78be527c-0315-4652-a2cc-85c81bbf7461.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 37 || Work Power and Energy (Part 05)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/faHB2vFXGfY",
+      "hd_video_url": "https://www.youtube.com/embed/faHB2vFXGfY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ntOttn8YfoX9XsGAlaKC24b0kkBj96gg11CE4htn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Work Power and Energy (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/384335e6-3f96-4f7e-ba4d-8f53558e6b20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 38 || Work Power and Energy (Part 06)",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lt4pwD5zyBA",
+      "hd_video_url": "https://www.youtube.com/embed/lt4pwD5zyBA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RkIz2gGuDSmq8ZvTGSO07RljtPf46fZlmkjtcFCF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 || Work Power and Energy (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5254d181-c632-4e5e-8c12-ea8a77dc119d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 39 || Work Power and Energy (Part 07)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/eaiZ32orAUU",
+      "hd_video_url": "https://www.youtube.com/embed/eaiZ32orAUU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9c4QJUXULnwbzmNhEOyjA1qC7pCBbvIjZ8SLmfF1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Work Power and Energy (Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15a912d7-011d-446d-afac-bdaf5aa645c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 40 || Work Power and Energy (Part 08)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MRIoPuoiYWg",
+      "hd_video_url": "https://www.youtube.com/embed/MRIoPuoiYWg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/X2DGjLsdxXx9YsbjuCONcR8txczJnqCl0y13GJ9L.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6e7be42-05a5-4d06-90ae-3ecae8f73d27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 41 || Work Power and Energy (Part 09)",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/hMTaSB0Wupw",
+      "hd_video_url": "https://www.youtube.com/embed/hMTaSB0Wupw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7xLYmu4BJM7cu0MAyhJsqQifk2tCdX5gvQqMRRT6.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e420152b-f705-4971-80b5-398befa7dacc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 42 || Work Power and Energy (Part 10)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/9p2fURT6aNo",
+      "hd_video_url": "https://www.youtube.com/embed/9p2fURT6aNo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yHaDDqxK5w7F4ZkAFyhU8R0ZTcm0kNxDEtSVfTBD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Physics by CS Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4447924a-1972-492b-8d9c-41b8850799ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 43 || Work Power and Energy (Part 11) || Last Class",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/glsMlOciBy8",
+      "hd_video_url": "https://www.youtube.com/embed/glsMlOciBy8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bncmlJWn7IAkPURoM763dBxjxd8QqCII6sqiT7ar.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 || Work Power and Energy (Part 11) || Last Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09f85354-7120-4f55-9550-9ce458f8590b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "subject_name": "Mega Workshop",
+  "subject_id": 3745,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Mega Workshop",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/D36m0aDXa9Y",
+      "hd_video_url": "https://www.youtube.com/embed/D36m0aDXa9Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sarIq2bU1Wst90D86TP9oFCHYPiPYQ9RQmorX5Ty.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Mega Workshop by Ashish Soni Sir",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/KFvJdQFu5pg",
+      "hd_video_url": "https://www.youtube.com/embed/KFvJdQFu5pg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/C3PEIZiXPE0mkSd6uBjzM4WdJYkJhVnFdUlrMv7S.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Mega workshop by Varun Sir",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/_EbTMob3-RQ",
+      "hd_video_url": "https://www.youtube.com/embed/_EbTMob3-RQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qi3OFepJjwr1I4buGQNwPghp1GDMrnDiWln0ZpWy.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Mega Workshop by Apoorv Mittal Sir",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/r54lhj-yQ7s",
+      "hd_video_url": "https://www.youtube.com/embed/r54lhj-yQ7s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xvFJYMzrpChrH300bTzUQjSoe1Z87rKQYidKt0nG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Mega Workshop by Kartik Sir",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/QCGV5ciGri8",
+      "hd_video_url": "https://www.youtube.com/embed/QCGV5ciGri8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hWGEMEiW47vpmpMqUhsMNdoHUDksGtUUjCcdv9gp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Mega Workshop By Amit Maurya Sir",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/acdQaw4TlaQ",
+      "hd_video_url": "https://www.youtube.com/embed/acdQaw4TlaQ",
+      "thumbnail": "https://i.ytimg.com/vi/acdQaw4TlaQ/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

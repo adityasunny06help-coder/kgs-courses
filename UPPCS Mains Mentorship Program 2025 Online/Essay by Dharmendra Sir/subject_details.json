@@ -1,0 +1,79 @@
+{
+  "subject_name": "Essay by Dharmendra Sir",
+  "subject_id": 5855,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || कक्षा परिचय",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/217130/kgss-1742811789-v217130.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/I646HRyFD54",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/utEZftiR0wkGcuDdIk5VAaHA3pYXKk5UGh2bHxqi.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Essay by Dharmendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecf7171e-f17f-42c7-b11c-51de08f8a32c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || निबंध (Part-01)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218067/kgss-1742899112-v218067.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jRhMJdBaLdA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aovkzONfxZURjnBYNV3ci0wVEva3TfbyvleCf28h.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Essay by Dharmendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06cb681a-dd21-4246-b24b-f1dfd284dd0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || निबंध (Part-02)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218496/kgss-1742984999-v218496.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ucVksjeEHJU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PhVIumGkiHK4LBLRFlE6KuIE8p9oSPU9RR87oupQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Essay by Dharmendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91471925-17aa-4833-8ca6-80a3f52195cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || निबंध (Part-03)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/606-ment-ship-uppsc/essay-dharmendra-sir/l-04/essay-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/70cr-5HRTi4",
+      "thumbnail": "https://i.ytimg.com/vi/70cr-5HRTi4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Essay by Dharmendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5105c9e-98f7-478e-a2f1-fe8caaeccc97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ||  निबंध (Part-04)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219437/kgss-1743157777-v219437.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/djhRLtMi78k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/56ttWsEUG8HHODDW7LFYVzfGZ02JCcyjhK3kkQEG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Essay by Dharmendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4937f6bf-93bf-48b3-846a-fc47177839bf.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

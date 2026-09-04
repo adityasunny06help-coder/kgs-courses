@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Class 11th VISION BATCH NEET 2027 Hindi",
+    "price": "1999",
+    "id": "594",
+    "extracted_date": "2025-08-27T14:16:40.317054"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 6392,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Jitesh Parashar Sir",
+      "id": 6552,
+      "video_count": 71,
+      "note_count": 67
+    },
+    {
+      "name": "Chemistry By Gogi sir",
+      "id": 6553,
+      "video_count": 75,
+      "note_count": 72
+    },
+    {
+      "name": "Biology By Shashank Yadav (Sapiens Sir)",
+      "id": 6554,
+      "video_count": 86,
+      "note_count": 85
+    },
+    {
+      "name": "Test Paper and Solution",
+      "id": 7127,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

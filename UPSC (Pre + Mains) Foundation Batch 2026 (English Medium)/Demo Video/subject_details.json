@@ -1,0 +1,45 @@
+{
+  "subject_name": "Demo Video",
+  "subject_id": 5928,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Indian Polity by Kumud Ranjan Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/78487/kgss-1716433874-v78487.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oIss_J55lu8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rZmgwon5wlsKE4NEAnsSsQQFz9tNeup8buF9aAgi.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Indian Economy by Rameshwar Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/upsc-eng-batch-04/in-economy-rameshwar-sir/l-01/l-01-in-economy-rameshwar-sir-eng4.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_Cg_t9pfM5Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e296368ee.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "History by K. Shivesh Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188629/kgss-1738636020-v188629.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Le93YVJ6OVo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4wadINYom6y9H6aw3bYOzMDJZzddndSzC9tAJllv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Indian Geography by Sachin Arora Sir",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192832/kgss-1739430975-v192832.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/t1S9JWL7IEE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/azqdMaMRwBM46kauys2T4ANpoJ43NAlf8GybFarE.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

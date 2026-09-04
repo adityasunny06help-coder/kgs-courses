@@ -1,0 +1,359 @@
+{
+  "subject_name": "Biology by Sushant sir",
+  "subject_id": 7946,
+  "video_count": 25,
+  "note_count": 25,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Introduction of Biology || जीव विज्ञान का परिचय",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/357IEx3IYl8",
+      "hd_video_url": "https://www.youtube.com/embed/357IEx3IYl8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gm09ZiJy2yOMO57XNXKdx7dtF4AA7Xkbm0HWvepg.jpg",
+      "notes": [
+        {
+          "title": "Introduction of Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/109e3706-51da-4f3e-afac-3c88df70d00f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Circulatory System || परिसंचरण तंत्र (Part 1)",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/J__lpLGJJrE",
+      "hd_video_url": "https://www.youtube.com/embed/J__lpLGJJrE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Mk0Jgc1dC1o4OqbB1dyVZw0rs9IC0xUvM8aY2sza.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Circulatory System || परिसंचरण तंत्र (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1194c6d7-4af1-48a4-b0de-0dc19709c4e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Circulatory System || परिसंचरण तंत्र (Part 2)",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jdrr2douQGA",
+      "hd_video_url": "https://www.youtube.com/embed/jdrr2douQGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SbyX8jisDx8g9ocTPSz0fHW0XqUDO0YHZKHzpb8S.jpg",
+      "notes": [
+        {
+          "title": "Circulatory System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/840a7b77-aaab-433e-9086-22e37b04096c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Circulatory System || परिसंचरण तंत्र (Part 3)",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/em6iZlBmS-A",
+      "hd_video_url": "https://www.youtube.com/embed/em6iZlBmS-A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xALOUnslIjRCdPSSext06AqVzaiktGpqsNRDckMA.jpg",
+      "notes": [
+        {
+          "title": "Circulatory System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70838063-4fda-48aa-9ee6-1a2c42de8c54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Blood || रक्त (Part 1)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/e813F9XBFZw",
+      "hd_video_url": "https://www.youtube.com/embed/e813F9XBFZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/p7w4E4kzqY4pq5WYsTy3Ts4X0FSR24btazQk6pWB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Blood || रक्त (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4422cc42-db97-4fac-9009-c32415db7fab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Blood || रक्त (Part 2)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/6be63g7wIdg",
+      "hd_video_url": "https://www.youtube.com/embed/6be63g7wIdg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WKsL0hUAXK38ErO4n0GuwCQJ7T4JKXsyU7BdDMwt.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Blood || रक्त (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdaa7d2c-bd45-4f01-ada8-31ddf5ab5d45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Blood || रक्त (Part 3)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0WsWSGzd1Iw",
+      "hd_video_url": "https://www.youtube.com/embed/0WsWSGzd1Iw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Lum3rloHCerssB8ashqTIfnxTeyNNLstXoxtxtfc.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Blood || रक्त (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f116d222-2a8c-479a-bfa0-d8c96e006d5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Blood Group || रक्त समूह",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/VZvTQ3V5t9Q",
+      "hd_video_url": "https://www.youtube.com/embed/VZvTQ3V5t9Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h3KNG4KABhGhd0bXrudjgcGisXoSWHX3EvEVOmYj.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Blood Group || रक्त समूह",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e7ada88-cae0-4e8e-9bc1-dd1589289627.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Digestive System || पाचन तंत्र (part 1)",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jIPiEw0I1wA",
+      "hd_video_url": "https://www.youtube.com/embed/jIPiEw0I1wA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QzZr21yzjPzUiOCFhcjwAeBL8DUUErqPLRVIgFb6.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Digestive System || पाचन तंत्र (part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e4e50b8-f959-4222-b5b6-2d31221da610.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Digestive System || पाचन तंत्र (part 2)",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ALWsnopOAaQ",
+      "hd_video_url": "https://www.youtube.com/embed/ALWsnopOAaQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sU7Wk01MXCoRP2TvmKEXhu3BLIKiibdqSc8Fqgsf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Digestive System || पाचन तंत्र (part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b90bafab-fe28-4a05-b945-2d33b0e0ec7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Digestive System || पाचन तंत्र (part 3)",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/WsEStaY51EM",
+      "hd_video_url": "https://www.youtube.com/embed/WsEStaY51EM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lQuU3f4fvKpbCJTl92Sq2flBWqMW2e9V9E8MIT0P.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Digestive System || पाचन तंत्र (part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/101c2d0e-0b1e-4f44-abd5-e65f13d1772b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Vitamin || विटामिन (Part 1)",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/KuMw0HPg9nI",
+      "hd_video_url": "https://www.youtube.com/embed/KuMw0HPg9nI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6E8koXBjfaTXgI3WwPCOrE0GAK2mbzuqkjObWnQi.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Vitamin || विटामिन (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9ddbca7-200b-4386-8817-79e059376d9e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Vitamin || विटामिन (Part 2)",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ImwuvAH40GI",
+      "hd_video_url": "https://www.youtube.com/embed/ImwuvAH40GI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rKylBmgRdAIlZwaDu11McexxMNZXsmVcdcFScGzW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Vitamin || विटामिन (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6092703c-5a03-44aa-b934-a69f91fd2058.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Cell Biology || कोशिका विज्ञान (Part 1)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/s_-ziVTEUUk",
+      "hd_video_url": "https://www.youtube.com/embed/s_-ziVTEUUk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2jGCViqJhNWngrdxSADFwWq1SvkSmw8ZQzcxyzkH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Cell Biology || कोशिका विज्ञान (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c1de0fb-3999-4dab-a4f4-7f0e3a0b5fa0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Cell Biology || कोशिका विज्ञान (Part 2)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1zh0hIQyFFI",
+      "hd_video_url": "https://www.youtube.com/embed/1zh0hIQyFFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LqCGhcU4spNdluqELS2PTZGV4b24wplejcapP1aF.jpg",
+      "notes": [
+        {
+          "title": "Cell Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f913ee5-827a-4d23-9def-7e2cc51600a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Cell Biology || कोशिका विज्ञान (Part 3)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/D7sjZ46_TqY",
+      "hd_video_url": "https://www.youtube.com/embed/D7sjZ46_TqY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eXGjQ1uRQqzdGmKfJ0E1IklNzIlqY1P6jTs0Y3TF.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Cell Biology || कोशिका विज्ञान (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aedde345-805f-4ff9-aee1-84fbd8931d64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Plant Physiology || पादप शरीरक्रिया विज्ञान (Part 1)",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/vEc6C_ZyVvI",
+      "hd_video_url": "https://www.youtube.com/embed/vEc6C_ZyVvI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CiliPRwTsXJ3ozRPeE3auVStefGuUyuf44wdx8Yw.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Plant Physiology || पादप शरीरक्रिया विज्ञान (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8466c729-b78f-4e21-8bfb-c4c3a5210790.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Plant Physiology || पादप शरीरक्रिया विज्ञान (Part 2)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/vp-OwaKsCgY",
+      "hd_video_url": "https://www.youtube.com/embed/vp-OwaKsCgY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/714P0vNXjN5lzXIIlxil8W4Xyf1trtNTHCTPFZw5.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Plant Physiology || पादप शरीरक्रिया विज्ञान (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36e3b747-da58-46ad-b038-41dd8efd8578.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Plant Physiology || पादप शरीरक्रिया विज्ञान (Part 3)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/QhSIujbdZGI",
+      "hd_video_url": "https://www.youtube.com/embed/QhSIujbdZGI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aQe5eV7GOmHcifHeXpt2uoAaToPS5TTc7wvGKovC.jpg",
+      "notes": [
+        {
+          "title": "Plant Physiology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a250be43-1785-43e0-b5ba-245f0871ab36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Plant morphology || पादप आकारिकी (Part 1)",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/q-MS24jEgvA",
+      "hd_video_url": "https://www.youtube.com/embed/q-MS24jEgvA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ibwbdqnbLtm53NiixU5oDQBk1RvROj5aaU1wDXll.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Plant morphology || पादप आकारिकी (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1950838e-df24-4fa0-b693-faeb878f1fd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Plant morphology || पादप आकारिकी (Part 2)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/-bSzGQglSf8",
+      "hd_video_url": "https://www.youtube.com/embed/-bSzGQglSf8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ykciftk0JQyVLhr7ZUzQN7tsXuEG0iAPXy66PXSM.jpg",
+      "notes": [
+        {
+          "title": "Plant morphology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86e4ba02-027a-4e51-8cd2-dc9bad5bf2c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || Respiratory System || श्वसन तंत्र",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/wjHj5-jsIZA",
+      "hd_video_url": "https://www.youtube.com/embed/wjHj5-jsIZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9QNCeOrXGc5d45jrJs6aEpoJx21OUv9IlK1ER0A0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Respiratory System || श्वसन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d8d8f70-d346-4542-bc67-4b10828a83a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || Excretory system || उत्सर्जन तंत्र",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/6_Q9x2Mio7E",
+      "hd_video_url": "https://www.youtube.com/embed/6_Q9x2Mio7E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/29mitydhoeIuEHSCxIT8yQNWZuoMCK0BbcD7rHfz.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Excretory system || उत्सर्जन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57d13bde-a135-47ee-bc7e-a7121dadf730.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || Nervous system || तंत्रिका प्रणाली",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/i9vilgggjfk",
+      "hd_video_url": "https://www.youtube.com/embed/i9vilgggjfk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6kZzFhBSw6SVQRlBCSEpbboMFs234x3EUNrO84LT.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || Nervous system || तंत्रिका प्रणाली",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/716df644-4251-4b18-9fa3-a57bebcefe1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || Skeleton system || कंकाल प्रणाली",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qajnyJoDhJY",
+      "hd_video_url": "https://www.youtube.com/embed/qajnyJoDhJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cwt2E3E3hUYwiDYiomA6JidY4B1Z0pRQfKveOdHq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Skeleton system || कंकाल प्रणाली",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de7dd444-a00e-4e45-a5b7-fee75fdd46ef.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

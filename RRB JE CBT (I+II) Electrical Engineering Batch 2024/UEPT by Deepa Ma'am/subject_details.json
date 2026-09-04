@@ -1,0 +1,102 @@
+{
+  "subject_name": "UEPT by Deepa Ma'am",
+  "subject_id": 6155,
+  "video_count": 7,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Illumination(Part-1)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_L7rMLnAwKM",
+      "hd_video_url": "https://www.youtube.com/embed/_L7rMLnAwKM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XfuoxwS9nQW9yllDdRFyhBxKMlyc6570iy9DM4bG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07a7c6e0-7584-4788-b306-462d212731ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Illumination(Part-2)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HYC-dl1Ko3E",
+      "hd_video_url": "https://www.youtube.com/embed/HYC-dl1Ko3E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mUDgLdgOeUrQsPMV7KAPXZZPQ4vmt5FtV6NGfWfv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Illumination(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a24f2dd-b628-488c-b329-22a8734ca4c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Illumination(Part-3)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/XxPU2KehKqk",
+      "hd_video_url": "https://www.youtube.com/embed/XxPU2KehKqk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dmStcSmFxnb99K1Y7nGLcjZC8qF8oj4qkhBrngJq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Illumination(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dbc2d52-565e-479f-ad1a-655807eb14f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Illumination(Part-4)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/b_W5cRxGVgc",
+      "hd_video_url": "https://www.youtube.com/embed/b_W5cRxGVgc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VMb8sYDViQKYcyLLuS1y0hS7Nb4gvdybTTu4HciF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Illumination(Part-5)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/99cfq8KzWXw",
+      "hd_video_url": "https://www.youtube.com/embed/99cfq8KzWXw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hbVJL2Rjlmig1l4ckRaRdIbRRRgbjg2seVAukts1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Illumination(Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afe56fb4-3f44-4a4c-9c5b-0f59211e9ac0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Illumination(Part-6)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/j0hdNm6UwjQ",
+      "hd_video_url": "https://www.youtube.com/embed/j0hdNm6UwjQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RjDbFS8pdqxjsO1Vo5HzhjP5bkvdB8bM5LGbVHRr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Illumination(Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ccda402-6f87-43c7-8085-81f57daf3ffd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Illumination(Part-7)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/pt3auX5g27s",
+      "hd_video_url": "https://www.youtube.com/embed/pt3auX5g27s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/deDk8IGTa6l51HPrzx22lrZHHS8aPW3u0jz117ua.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Illumination(Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/338eb64f-f71e-4c9d-8703-62917583f048.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

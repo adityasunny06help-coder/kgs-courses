@@ -1,0 +1,79 @@
+{
+  "subject_name": "Current Affairs By Khan Sir",
+  "subject_id": 5483,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Current Affairs (Part 01)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/bsTZiqy3XrQ",
+      "hd_video_url": "https://www.youtube.com/embed/bsTZiqy3XrQ",
+      "thumbnail": "https://i.ytimg.com/vi/bsTZiqy3XrQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Current Affairs by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4413d798-a5a5-4433-89d4-09b3f0d80838.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Current Affairs (Part 02)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/JjpGdkyisaU",
+      "hd_video_url": "https://www.youtube.com/embed/JjpGdkyisaU",
+      "thumbnail": "https://i.ytimg.com/vi/JjpGdkyisaU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Current Affairs by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcc8699f-a524-45f8-bab5-0e6be96878c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Current Affairs (Part 03)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/8-OlGWk46hY",
+      "hd_video_url": "https://www.youtube.com/embed/8-OlGWk46hY",
+      "thumbnail": "https://i.ytimg.com/vi/8-OlGWk46hY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Current Affairs (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/836276cf-1dd9-4e51-ad6c-7c336b980332.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Current Affairs (Part 04)",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/z7Qs3YPjhRg",
+      "hd_video_url": "https://www.youtube.com/embed/z7Qs3YPjhRg",
+      "thumbnail": "https://i.ytimg.com/vi/z7Qs3YPjhRg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Current Affairs (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9709064b-e084-42e1-bb41-d21f61168cbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Current Affairs (Part 05)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/9FG_vNfBEuQ",
+      "hd_video_url": "https://www.youtube.com/embed/9FG_vNfBEuQ",
+      "thumbnail": "https://i.ytimg.com/vi/9FG_vNfBEuQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Current Affairs (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ac6cd09-6c98-4f25-86ba-dd65792aae3e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

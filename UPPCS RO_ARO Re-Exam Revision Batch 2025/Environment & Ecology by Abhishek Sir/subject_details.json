@@ -1,0 +1,65 @@
+{
+  "subject_name": "Environment & Ecology by Abhishek Sir",
+  "subject_id": 7746,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Concept+Practice-01",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IpX_gSElMxU",
+      "hd_video_url": "https://www.youtube.com/embed/IpX_gSElMxU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/f9YYBdvV5TLgVNbemiMyhN3FttrV314sW987nM36.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class || परिचय कक्षा",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d43f981-b86b-4b92-be9c-fed12f6ffd37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Concept+Practice-02",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TOIGgGa_e64",
+      "hd_video_url": "https://www.youtube.com/embed/TOIGgGa_e64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n6fgzF3q6PS9HW91cukzNTpS5mmQZblflxHtXLCS.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Environment & Ecology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfc2be5d-ff3e-4e0c-9689-7b1235abd017.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Concept+Practice-03",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/dUr1FZ8oJVM",
+      "hd_video_url": "https://www.youtube.com/embed/dUr1FZ8oJVM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uFCJadEWk5z1SgYuzszS5NL2Fgwjf9CidcKKnDPC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Environment & Ecology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b4c0627-0077-4c03-a9f0-8518d4a4542f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Concept+Practice-04",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/dmk0nOMOruo",
+      "hd_video_url": "https://www.youtube.com/embed/dmk0nOMOruo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CgLtI5J0XZb58wIjoqeGshJUAnOxg4IttBq7bZJM.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Environment & Ecology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df38e45d-d0f3-4e25-adeb-86a6e0d5677a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

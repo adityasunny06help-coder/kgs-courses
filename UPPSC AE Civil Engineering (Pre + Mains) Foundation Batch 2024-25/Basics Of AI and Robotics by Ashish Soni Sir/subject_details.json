@@ -1,0 +1,93 @@
+{
+  "subject_name": "Basics Of AI and Robotics by Ashish Soni Sir",
+  "subject_id": 5442,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Fundamentals Of AI & machine Learning",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/kKXOvRhCs4s",
+      "hd_video_url": "https://www.youtube.com/embed/kKXOvRhCs4s",
+      "thumbnail": "https://i.ytimg.com/vi/kKXOvRhCs4s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Fundamentals of AI & Machine Learning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27a21300-5cc8-49dd-b8fe-7abf09374f45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Neural Network, Convolutional Neural Networks, Recurrent Neural Network , Natural Language Processing",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/5Gg2BI2tC2g",
+      "hd_video_url": "https://www.youtube.com/embed/5Gg2BI2tC2g",
+      "thumbnail": "https://i.ytimg.com/vi/5Gg2BI2tC2g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Neural Network, Convolutional Neural Networks, Recurrent Neural Network , Natural Language Processing",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf99f116-1647-4275-9c39-ff8113e5cfc3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Fundamentals Of Robotics, Components Of a Robot, Degrees Of Freedom & Workspace",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/NIJWMDjiWAE",
+      "hd_video_url": "https://www.youtube.com/embed/NIJWMDjiWAE",
+      "thumbnail": "https://i.ytimg.com/vi/NIJWMDjiWAE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Fundamentals Of Robotics, Components Of a Robot, Degrees Of Freedom & Workspace",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a832c1e-d2fe-4266-9e8a-67817c30cf91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Types Of Sensors, Types of Actuators & Robotics Programming Languages, Task- Level Programming ,Path Planning Algorithms",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/H-_Fj6UaZ3Y",
+      "hd_video_url": "https://www.youtube.com/embed/H-_Fj6UaZ3Y",
+      "thumbnail": "https://i.ytimg.com/vi/H-_Fj6UaZ3Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Types Of Sensors, Types of Actuators & Robotics Programming Languages, Task- Level Programming ,Path Planning Algorithms",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dbca8b2-5939-4c83-b26f-9955992efb56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || ML For Robot Control , NLP For Human Robot Interaction , Autonomous Vehicles , Medical Robotics, Industrial Automation ,Space Exploration",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/HtngiIGundQ",
+      "hd_video_url": "https://www.youtube.com/embed/HtngiIGundQ",
+      "thumbnail": "https://i.ytimg.com/vi/HtngiIGundQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || ML For Robot Control , NLP For Human Robot Interaction , Autonomous Vehicles , Medical Robotics, Industrial Automation ,Space Exploration",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9202d064-4aa4-4a67-98cc-5556c7b8a637.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-5 || MCQ Practice Session",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/v3y2kYSkuuc",
+      "hd_video_url": "https://www.youtube.com/embed/v3y2kYSkuuc",
+      "thumbnail": "https://i.ytimg.com/vi/v3y2kYSkuuc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || MCQ Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db6b58fb-95ff-46ff-804b-701f26a8a664.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

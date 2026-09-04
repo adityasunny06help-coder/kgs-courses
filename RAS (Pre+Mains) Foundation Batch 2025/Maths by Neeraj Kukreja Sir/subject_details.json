@@ -1,0 +1,177 @@
+{
+  "subject_name": "Maths by Neeraj Kukreja Sir",
+  "subject_id": 4734,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Percentage || प्रतिशत (Part-1)",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/sjKyOwfnvoM",
+      "hd_video_url": "https://www.youtube.com/embed/sjKyOwfnvoM",
+      "thumbnail": "https://i.ytimg.com/vi/sjKyOwfnvoM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c659d1a-61d9-46c1-9836-b5b5bbaf1474.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Percentage || प्रतिशत (Part-2)",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/175714/kgss-1736246475-v175714.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Mh4qvw1sYb8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Yyoh8qSKQ1GIrASMbRAsbYcSNZdEfPALrjLKnKvJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Percentage || प्रतिशत (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c44e2fde-1795-4ece-9649-4c216e895faa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Simple Interest || साधारण ब्याज",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176287/kgss-1736333138-v176287.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bOR-C5c-604",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0d7U573ZF6L8WafVRze7EKA0kvnXegehvyXgY6wb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Simple Interest || साधारण ब्याज",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/344e605f-5942-4f1f-8315-86d6b4cfaf21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Compound Interest || चक्रवृद्धि ब्याज",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176666/kgss-1736419485-v176666.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2cmwS4w6rwU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BqzMFUUPHK9nhR4TqFr8JO1TVlF3uipPQeXMUjZI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Compound Interest || चक्रवृद्धि ब्याज",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ec2d579-c842-4357-bd0d-ba65d14cbb3e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Ratio || अनुपात",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177204/kgss-1736505419-v177204.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EY43F8_7ij0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/01QDioPZYO0di4QCCOeWBY2cZIxA6fzAO5E3mHOc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Ratio || अनुपात",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a42cacc1-847f-4a42-b18a-0be487ab90d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Probability || प्रायिकता",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177500/kgss-1736581277-v177500.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Av_SEbRwgKY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sgpEqm5doeb9JSLu4EDGSdWBCGKf8jCMPxK8uQ7L.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0013b2c5-a0bd-4ffd-afac-9c3e5ad5858e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Permutation and Combination || क्रमचय और संचय",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179009/kgss-1736937998-v179009.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vSbgIC4_NGE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pG7sF8TkXRdzQ6CpNMYFGL0N03um9igay3un6qqg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57b7d02f-8189-4806-ad8e-5b422be18f3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Linear Arrangement || रैखिक व्यवस्था",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179545/kgss-1737024226-v179545.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RZBybtu7660",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xJ1FMWfajdejfl2as3s66wrHciHJpmGJ2ShzCSfa.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58a46f76-a5a5-4acf-b7eb-cc7b34da3d0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Data Interpretation || डेटा व्याख्या (Part-1)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/180029/kgss-1737111078-v180029.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-DGkRFNCY_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/he2brNGZC0eERuocz8z2JeqgZ8pT18BMDFodnNW7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/feca0a51-3058-4941-b7ac-cf32b4d683e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Data Interpretation || डेटा व्याख्या (Part-2)",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181444/kgss-1737115360-v181444.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aNNZSwXsv1Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iiIGiLvkzu3W9011zM1HLGKZLgqFceo7QzgnmT5l.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/679825ae-3013-4ce6-a2f2-22a324cbc9a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Statistics || सांख्यिकी",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182501/kgss-1737456259-v182501.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T1VTOZgHfbE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uqYYJUf5LmfcyNBj9ZNqVDcvLlyC69Nl4hs4tJOP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Maths by Neeraj Kukreja Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7e07091-977e-4632-9188-8465522800d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Mensuration || क्षेत्रमिति",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182920/kgss-1737542698-v182920.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TQM7mXvfXX4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bmIjBW0Qzuib4MDoAZ7xJurzD841blw9Fx721Zxd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Mensuration || क्षेत्रमिति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f128875d-cfa6-406f-a87a-a985891ab193.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

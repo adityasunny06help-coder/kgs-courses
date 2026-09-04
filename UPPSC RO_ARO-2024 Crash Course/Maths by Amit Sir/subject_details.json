@@ -1,0 +1,135 @@
+{
+  "subject_name": "Maths by Amit Sir",
+  "subject_id": 4404,
+  "video_count": 9,
+  "note_count": 9,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Percentage  || प्रतिशत",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/156227/kgss-1732533816-v156227.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Av3XiccJyDA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LwybzF5KpqcWNndV47sefpipbNk3C5DWArWti9Jb.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Percentage & Profit and Loss || प्रतिशत एवं लाभ एवं हानि",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfa6383a-b869-4d99-83e1-7e5244c0e99c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Profit & Loss || लाभ एवं हानि",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/156537/kgss-1732620396-v156537.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AFsEDeG9OXY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SlGRsKcUTfSYgty4qHw3IZd8ChznaZfKXT2C9ov0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Profit & Loss || लाभ एवं हानि",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe879d03-2254-4088-84a9-3bb9320c7504.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Simple Interest || साधारण ब्याज",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/157126/kgss-1732706452-v157126.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WYmtdJoRG84",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4cVsyPlWwkZD5pWHd4PisoDFZ4gQcPxNkB7GCLpA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Simple Interest || साधारण ब्याज",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b146113e-d83c-439d-beae-f0d01ee4a138.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Compound Interest || चक्रवृद्धि ब्याज",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/158246/kgss-1732878701-v158246.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JmbbmWgJmM8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JSCypczQfy62mQfLnONl57nHwpVckFQzcVbJuIOe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Compound Interest || चक्रवृद्धि ब्याज",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bb31b2c-80ff-48e4-ab1c-9a797748adf8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Time and Work || समय और कार्य",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/158886/kgss-1733138408-v158886.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1IFY4F73cZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/roEUj4Yjg0ZVSIF3J12I88rO8DjzhckZ15nkZjKo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Time and Work || समय और कार्य",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65f36413-a385-41d7-87db-221c6d1f8b91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Ratio and Proportion || अनुपात और समानुपात",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/160095/kgss-1733224724-v160095.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wju2jt3HWaE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HumyjCf1na3ON8ZHkm05mwJu6VyHR255EhOOCQZI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Ratio and Proportion || अनुपात और समानुपात",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b99e36cf-52cc-4f1c-8013-ed50eac141de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || LCM and HCF || एलसीएम और एचसीएफ",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/160746/kgss-1733311140-v160746.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9tLRqxthmVw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/F5Q717JHLXz1c2dfF5nU38ajmkOKQiL13UXQYnOp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || LCM and HCF || एलसीएम और एचसीएफ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb41005e-1f79-4fb0-a928-d6fbbd3822af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Time & Distance || समय एवं दूरी",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/163930/kgss-1733743312-v163930.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eCIaYU2P39U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8RSfKyBN7jvuV2flwa3P8Cjn3QYMdd2HhkHAdBz1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Maths by Amit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63cf94dd-d1d5-4960-8bfc-1894f423ee1f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Statistics || सांख्यिकी",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/164719/kgss-1733829607-v164719.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BbXMxLSAKkE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/laZx71uMEk86BYNtUXMOgTmMQdQ7nsUcFRigYWgJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Maths by Amit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42387812-6071-433e-9ec3-d79a73c30d0f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

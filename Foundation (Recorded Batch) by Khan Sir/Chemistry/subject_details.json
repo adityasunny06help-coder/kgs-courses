@@ -1,0 +1,765 @@
+{
+  "subject_name": "Chemistry",
+  "subject_id": 1229,
+  "video_count": 84,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "L-01 || हमारे आसपास  के पदार्थ 01 || Matter Around Us 01",
+      "published_date": "04 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-01/l1.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lqoalPQCCGc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c88b7cf8-a983-4ec5-9741-103400933915.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "L-02 || हमारे आसपास  के पदार्थ 02 || Matter Around Us 02",
+      "published_date": "05 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-02/l2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qP9QjpXBefg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f1ba4bf1-0c69-4a15-9728-2bd5e4c77edc.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "L - 03 || परमाणु संरचना 01 ||  Atomic Structure 01",
+      "published_date": "08 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-03/l3.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/B4YLmm3Icwc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7169b4a8-c627-4cbd-b43c-bfa25b313be3.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "L - 04 || परमाणु संरचना 02 || Atomic Structure 02",
+      "published_date": "09 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-04/l4.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JwgrNmCi05U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a55e4007-96a6-436c-a686-c64fdd20a525.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "L - 05 || परमाणु संरचना 03 || Atomic Structure 03",
+      "published_date": "09 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-05/l5.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4Xrc8EztchY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ae2adf6d-729c-4260-823a-ef0ac14206b5.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "L - 06 || परमाणु संरचना 04 || Atomic Structure 04 (कक्षा- Orbit)",
+      "published_date": "10 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-06/l6.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MUrtlg3DkpM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f05a5972-4ccf-42b3-8544-1f79f091315d.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "L - 07 || इलेक्ट्रोनिक विन्यास भाग 01 || Electronic Configuration Part 01",
+      "published_date": "11 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-07/l7.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/myH3v5TFrK0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a2247bee-5458-40fd-a068-1065e534f968.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "L - 08 || क्वांटम संख्या || Quantum Number",
+      "published_date": "15 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-08/l8.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4MU5tvQg4qM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//23495cee-68ef-4d11-9803-35b43a6b3811.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "L - 09 || क्वांटम संख्या के प्रकार || Types of Quantum Number",
+      "published_date": "16 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-09/l9.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VpLyqJsIHBI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f12a4ff9-674b-4098-9ecd-156eabd2ea23.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "L - 10 || इलेक्ट्रोनिक विन्यास भाग 02 || Electronic Configuration Part 02",
+      "published_date": "17 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-10/l10.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/koOr0mQnQrk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e182ba84-a3f4-4b7a-a607-7dbcb2134590.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "L - 11 || संयोजकता || Valency",
+      "published_date": "18 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-11/l11.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DkLkUxvs5xA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0a10ebec-cd8e-4ef6-882b-b2be028966d3.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "L - 12 || आयन भाग 01 || Ions Part 01 ||",
+      "published_date": "19 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-12/l12.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yLGhd75Xiv8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2288c1d1-78ab-4ea6-a734-046a44d3d246.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "L - 13 || आयन भाग 02 || Ions Part 02 ||",
+      "published_date": "22 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-13/l13.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XY0nly4aPwI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c10f3e05-3ebf-41b8-ab6f-0fc3750e2269.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "L - 14 || मूलक || Radicals",
+      "published_date": "23 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-14/l14.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ww9kuQYEK5s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3a71b58a-e73e-4555-9bc3-0616c0c0bdfe.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "L - 15 || अणुभार || Molar Mass",
+      "published_date": "24 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-15/l15.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tbxdff3XwPU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7f55fba6-c21c-411d-bd12-af92ff412b70.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "L - 16 || वाष्प घनत्व , आयनन विभव || Vapor Density, Ionization Potential",
+      "published_date": "25 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-16/l16.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q9H6PjEu6Rk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f30ad3ea-be85-4eea-a0e5-a42c7ae315d5.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "L - 17 || रासायनिक बंध || Chemical bonding",
+      "published_date": "26 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-17/l17.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WGLp7wNVCl4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c3813b11-50a5-4319-be83-b06e577449a0.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "L - 18 || सहसंयोजक बंध भाग 01 || Covalent Bond Part 01",
+      "published_date": "29 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-18/l18.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WWmQscluPcQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2c3cc1f7-006c-46f1-8794-29485f6dd5e5.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "L - 19 || सहसंयोजक बंध भाग 02 || Covalent Bond Part 02",
+      "published_date": "30 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-19/l19.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jwMkUfB-tGU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5cd302f3-f7ae-4998-a9e5-1260d5088a3d.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "L - 20 || हाइड्रोजन बंध  , संकरण || Hydrogen Bond, Hybridization",
+      "published_date": "31 May 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-20/l20.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OYxe1hTTxQ0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//37682157-78ca-49c9-b2e3-b65895859778.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "L - 21|| संकरण || Hybridization",
+      "published_date": "01 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-21/l21.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iCw1w2vtbOA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//384a72c6-6dda-4f78-8de0-b780c147bf25.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "L -22 || तत्वों का वर्गीकरण || Classification of Elements",
+      "published_date": "02 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-22/l22.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GzgntZ8_sh4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//369a8036-7070-4cc2-aadb-869cf69c212a.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "L - 23 || आवर्त सारणी भाग 01 || Periodic Table Part 01",
+      "published_date": "05 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-23/l23.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ws3kYqweHFQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//61ce365e-6087-4bf2-96ac-a22af77999cd.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "L - 24 || आवर्त सारणी भाग 02 || Periodic Table Part 02",
+      "published_date": "06 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-24/l24.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/674W2XkeTdA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//39474070-0127-401f-96e0-7e8ff9de07dd.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "L - 25 || Solution || विलयन",
+      "published_date": "07 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-25/l25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iRL1G2FHSHA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8273ad85-6227-4114-ba3c-5f2bd0b9f13e.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "L - 26 || Molarity || मोलरता",
+      "published_date": "08 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-25-2/l25-2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4DlHRdGpuag",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//adb9d391-722d-4f4b-885e-da4028c8e519.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "L - 27 || Mole Concept || मोल संकल्पना",
+      "published_date": "12 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-26/l26.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R7PXcQ2J3no",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5c8956f5-e583-4280-b06e-490509ceefc7.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "L - 28 || Mole Concept 02 || मोल संकल्पना 02",
+      "published_date": "13 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-27/l27.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3jE8Pbzrpaw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c8d65e10-a43d-491f-b161-322d325de5f3.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "L - 29 || Mole Concept 03 || मोल संकल्पना 03",
+      "published_date": "14 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-28/l28.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GZARvBVmfoo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7dfb5068-c4fb-4164-90e5-d2606ca751a3.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "L - 30 || Acid , Base and Salt ||अम्ल, क्षार और लवण",
+      "published_date": "15 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-29/l29.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XqlwfUYGNLE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cb3554f2-347c-48fe-b200-f7145735288e.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "L - 31 || Acid , Base and Salt Part 02 ||अम्ल, क्षार और लवण  भाग 02",
+      "published_date": "16 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-30/l30.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MF0RGK4fhWA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0335f6d0-de25-44ce-ac9e-7b22e6485e4f.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "L - 32 || PH scale",
+      "published_date": "19 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-31/l31.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W-J_8O5OK5s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//58c6f746-46fe-49c8-b67f-31a41f21b13b.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "L - 33 || Salt || लवण",
+      "published_date": "20 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-32/l32.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s9rDFuHqG7c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3b201a70-a5ac-40e0-ad53-46ec0557a09b.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "L - 34 || रेडियोधर्मिता भाग 01 || Radioactivity Part 01",
+      "published_date": "21 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-33/l33.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UbrhcInk4eo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f5423d41-6336-460a-93cc-3e41b6bfe2af.png",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "L - 35 || रेडियोधर्मिता भाग 02 || Radioactivity Part 02",
+      "published_date": "22 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/l-33-2/l33-2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KrBnnrwSTGM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3079469f-31ae-4d28-8e49-1855c28f608f.png",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "L - 36 || रेडियोधर्मिता भाग 03 || Radioactivity Part 03",
+      "published_date": "23 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-36/l36.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kJkVFZdx_nY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e1d33589-4d3d-4fad-9d5d-1787d587a3f2.png",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "L - 37 ||  अर्द्ध आयुकाल || Half Life Period",
+      "published_date": "26 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-37/l37.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YOXroy9oA_M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7c6974f9-91d5-45ae-9653-e6c7caef5aa2.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "L - 38 ||  नाभिकीय रसायन  || Nuclear Chemistry",
+      "published_date": "27 Jun 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-38/l38.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DPi051_GDUE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//8e6caad6-a895-426d-96e5-d5e0503d07bc.png",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "L - 39 || नाभिकीय रिएक्टर || Nuclear Reactor",
+      "published_date": "04 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-39/l39.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7vdbU4qOyUI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d033df76-91ea-4291-bce8-287fc4eaa765.png",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "L - 40 ||  उत्प्रेरक , सक्रियता ऊर्जा || Catalyst , Activation Energy",
+      "published_date": "05 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-40/l40.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y6bARBnWrlA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5a82f884-166c-49ce-8aaa-240aef8b04a4.png",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "L - 41 || रासायनिक अभिक्रिया || Chemical Reaction",
+      "published_date": "06 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-41/l41.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zWBW0ZR9viM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//feb72afe-d003-4a95-b070-d532150f9594.png",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "L - 42 || गैसीय सिद्धांत  भाग 01 || Gaseous Law Part 01",
+      "published_date": "07 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-42/l42.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VCL6SU3NRvc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1a131175-0556-4cfd-be19-76afe0781cb4.png",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "L - 43 || गैसीय सिद्धांत  भाग 02 || Gaseous Law Part 02",
+      "published_date": "10 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-43/l43.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/M6OQqxMCg3k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//06f6f5d2-e27a-48b1-8f20-c88a9f5c5366.png",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "L - 44 || Gaseous law Numericals",
+      "published_date": "11 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-44/l44.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ouAHSLU164U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0e893e89-946b-427f-bcb1-3ab2f0164d28.png",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "L - 45 || अवोगाद्रो का नियम, ग्राहम का प्रसार का नियम || Avogadro's law , Graham's law of diffusion",
+      "published_date": "12 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-45/l45.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HAWmzNQ2tuo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cf579842-09ba-413a-9500-1c720aa9f17b.png",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "L - 46 || डाल्टन का आंशिक दबाव का नियम || Dalton's Law Of Partial Pressure",
+      "published_date": "13 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-46/l46.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/u8KNessxjgM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b356b573-1fc6-43a5-b31e-0d0844cab51c.png",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "L - 47 || जल || Water",
+      "published_date": "14 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-47/l47.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UAKm_eueVw0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "L - 48 || जल का शुद्धिकरण || Purification of Water",
+      "published_date": "17 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-48/l48.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3DRNIMsqi4w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ed00b6eb-23bf-4191-95b9-9f29da1ecbcd.png",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "L - 49 || अयस्क  तथा धातुकर्म || Ore And Metallurgy",
+      "published_date": "18 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l49/l49.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g_IhkdY8nig",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fe5c1ea8-f122-487d-8495-7bfe4148659e.png",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "L - 50 || अयस्क तथा धातुकर्म || Ore And Metallurgy",
+      "published_date": "19 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-50/l50.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wAiP6eW7D2E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e6ecdb37-3d0c-434e-9efb-b9d95e15dfa6.png",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "L - 51 || कुछ महत्वपूर्ण अयस्क || Some Important Ore",
+      "published_date": "20 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-51/l51.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OM088tpP7DE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e90e1ba4-bde0-43df-93a7-8ac2382e9073.png",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "L - 52 || मिश्रधातु  भाग 01 ||  Alloy  Part 01",
+      "published_date": "21 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-52/l52.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XZvXL-Qifuc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b2aa0ff6-3acc-4074-befe-73dabe8dffa6.png",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "L - 53 || मिश्रधातु  भाग 02 ||  Alloy  Part 02",
+      "published_date": "21 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-53/l53.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Iu4tdPzQK5U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//96951580-0bd0-449d-8bb7-9e29c7411060.png",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "L - 54 || मिश्रधातु  भाग 03 ||  Alloy  Part 03",
+      "published_date": "24 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l54/l54.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/60HdticthNM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cb309782-2e83-40fe-8dd0-eff694d79687.png",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "L - 55 || ऑक्सीकरण और अवकरण अभिक्रिया भाग 01 || Oxidation And Reduction Reaction Part 01",
+      "published_date": "25 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l55/l55.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aWfQKiDvlDU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d93ebd78-0f67-4c02-885c-bc00ae744097.png",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "L - 56 || ऑक्सीकरण और अवकरण अभिक्रिया भाग 02 || Oxidation And Reduction Reaction Part 02",
+      "published_date": "26 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l56/l56.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MzMo7b2elFI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//867e114e-5749-4c27-b24a-8bc1a480e199.png",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "L - 57 ||  कार्बनिक रसायन भाग 01 ||  Organic Chemistry Part - 01",
+      "published_date": "27 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l57/l57.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BsaU8KTB6u4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//536e0240-9dca-4a44-a26c-3b907c414728.png",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "L - 58 || कार्बनिक रसायन भाग 02 ||  Organic Chemistry Part - 02",
+      "published_date": "28 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l58/l58.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/73wXZ5T1pok",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3fea4599-ee34-420f-b763-4f5f7d72a39a.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "L - 59 || कार्बनिक रसायन भाग 03 ||  Organic Chemistry Part - 03",
+      "published_date": "31 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l59/l59.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ggt24e2XUuA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a130b27e-6530-4d62-a1cf-2e82b3062c6a.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "L - 60 || कार्बनिक रसायन भाग 04 ||  Organic Chemistry Part - 04",
+      "published_date": "02 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l60/l60.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SDwDlo_Se8M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4e9c1997-aa8c-4596-b851-ea1e8b409431.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "L - 61 || श्रृंखला अभिक्रिया भाग 01  || Chain Reaction Part 01",
+      "published_date": "03 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l61/l61.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uG-61c90EJ0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a1f77d45-a29d-4115-bc78-2d875271f2ab.png",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "L - 62 || श्रृंखला अभिक्रिया भाग 02  || Chain Reaction Part 02",
+      "published_date": "04 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l62/l62.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ni1_bao2Gf0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e52de31a-87ac-410b-97e2-b770d6be2834.png",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "L - 63 || आवर्त सारणी भाग 01 || Periodic Table Part 01",
+      "published_date": "07 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l63/l63.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/x9SuPgm--k4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//63d23ed4-5962-4738-98fb-5c416f9aa4d0.png",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "L - 64 || आवर्त सारणी भाग 02 || Periodic Table Part 02",
+      "published_date": "09 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l64/l64.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jIgM0E3MsaM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b86ccfda-66c1-4dc8-a1a9-d2ad3b047af2.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "L - 65 || आवर्त सारणी भाग 03 || Periodic Table Part 03",
+      "published_date": "10 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l65/l65.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/toa3LXwkZ7s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//475d72e4-5543-4464-9a56-35ab1d4c2d6a.png",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "L - 66 || आवर्त सारणी भाग 04 || Periodic Table Part 04",
+      "published_date": "11 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l66/l66.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jsupmi5eqFs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//12303c57-d55a-4c1f-a118-eeede6c50208.png",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "L - 67 || आवर्त सारणी भाग 05 || Periodic Table Part 05",
+      "published_date": "14 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l67/l67.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_Psfp7DegQI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//06a82882-3bb8-4792-8c77-35109903f917.png",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "L - 68 || आवर्त सारणी भाग 06 || Periodic Table Part 06",
+      "published_date": "28 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l68/l68.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9_dP-NH-CEY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9797a713-2b8c-452e-8e9d-46bd427f24cf.png",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "L - 69 || आवर्त सारणी भाग 07 || Periodic Table Part 07",
+      "published_date": "29 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l69/l69.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IJCyNYYsGU4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a1c594f9-976b-4fa0-a0cd-569864dda996.png",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "L - 70 ||  औद्योगिक रसायन भाग 01 || Industrial Chemistry Part 01",
+      "published_date": "04 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l70/l70.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vTgCf46V8gY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f6ed7474-869d-408e-98aa-d81319532939.png",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Teacher's Day Special Class",
+      "published_date": "05 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/history-foundation/l-32/l-32-his-foun.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/history-foundation/l-32/l-32-his-foun.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "L-71 || औद्योगिक रसायन भाग 02 || Industrial Chemistry Part 02",
+      "published_date": "06 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l71/l71.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QLWzYwvEzws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7dcdac29-d4f5-491b-8e26-7fe51e336d48.png",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "L-72 || औद्योगिक रसायन भाग 03 || Industrial Chemistry Part 03",
+      "published_date": "06 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l72/l72.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UzSEb9P5dRk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5d10146b-7ba8-40bf-bc54-a9d4fe728e0a.png",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "L-73 | औद्योगिक रसायन भाग 04 || Industrial Chemistry Part 04",
+      "published_date": "07 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l73/l73.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/23tQrbQgsJU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0ff966ad-fdcb-4038-bf1b-41619083a65e.png",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "L-74 || औद्योगिक रसायन भाग 04 || Industrial Chemistry Part 04",
+      "published_date": "07 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l74/l74.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/itm2XGDz08g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9af08821-a80e-47c3-9597-6468181e6ca2.png",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "L-75 || औद्योगिक रसायन भाग 05 || Industrial Chemistry Part 05",
+      "published_date": "08 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l75/l75.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K_0Fh2dxV-U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eebcd7c0-5945-4334-bb83-2a5a584ccdf4.png",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "L-76 ||औद्योगिक रसायन भाग 06 || Industrial Chemistry Part 06",
+      "published_date": "11 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l76/l76.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4Jep2ELe244",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//207502d7-b0e2-4e0f-bec4-3e185ffc1b59.png",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "L-77 || औद्योगिक रसायन भाग 07 || Industrial Chemistry Part 07",
+      "published_date": "12 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l77/l77.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FeOgqtJqE1I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f53c5c7a-46c3-48a1-9ec8-df47a7b336fa.png",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "L-78 || औद्योगिक रसायन भाग 08 || Industrial Chemistry Part 08",
+      "published_date": "13 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l78/l78.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sgRpt8v4s0I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b80a992e-49ee-425e-a19c-27544c4c629d.png",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "L-79 || औद्योगिक रसायन भाग 09 || Industrial Chemistry Part 09",
+      "published_date": "14 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l79/l79.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/h_2-8qeo5I8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6e6e3eb6-4116-4cc0-912e-7f3b75d6e9fe.png",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "L-83 || औद्योगिक रसायन भाग 12 || Industrial Chemistry Part 12",
+      "published_date": "14 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-83/l83.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/G85m4I_ifEI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6e0bdf14-9601-4ee8-9751-24d61958b816.png",
+      "notes": []
+    },
+    {
+      "serial": 82,
+      "title": "L-80 || औद्योगिक रसायन भाग 10 || Industrial Chemistry Part 10",
+      "published_date": "15 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l80/l80.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pV2RA0mAYaM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4eec4fb6-5fea-4ade-a0f8-15dc4205148f.png",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "L-81 || औद्योगिक रसायन भाग 11 || Industrial Chemistry Part 11",
+      "published_date": "18 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new-2/l81/l81.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sfH3_2AxnkM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7e4e79d3-5738-4c99-a5cf-45a8d397ced3.png",
+      "notes": []
+    },
+    {
+      "serial": 84,
+      "title": "L-82 || औद्योगिक रसायन भाग 12 || Industrial Chemistry Part 12",
+      "published_date": "19 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/chemistry-94/new/l-82/l82.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/G85m4I_ifEI?si=hCUhlV2BUFpAgVgB",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f7e47376-4a9a-4f2c-b2aa-f6718d3da905.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "batch_info": {
+    "title": "विजेता 2.0 बैच – 71वीं बीपीएससी प्रारंभिक परीक्षा",
+    "price": "499",
+    "id": "707",
+    "extracted_date": "2025-08-27T13:35:52.621497"
+  },
+  "subjects": [
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 7337,
+      "video_count": 13,
+      "note_count": 13
+    },
+    {
+      "name": "Economy by Dr. Bharat Sir",
+      "id": 7711,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 7923,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 7974,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Current Affairs by SKC Sir",
+      "id": 8179,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "Biology by Sumit Sir",
+      "id": 8296,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Chemistry by Sumit Sir",
+      "id": 8405,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Ancient History by Manju Sir",
+      "id": 8406,
+      "video_count": 3,
+      "note_count": 2
+    }
+  ]
+}

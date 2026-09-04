@@ -1,0 +1,65 @@
+{
+  "subject_name": "BPSC TRE 3.0 Maths",
+  "subject_id": 6907,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Practice Class 1",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/VFOvo6RE2Z4",
+      "hd_video_url": "https://www.youtube.com/embed/VFOvo6RE2Z4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/VtRtzNaFnreAZGULmJdqyKhiQgYbzWHRhXTI6XI9.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ffa9be12-c838-488e-965b-4719926661fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Practice Class 2",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/U9RPIXE9VqE",
+      "hd_video_url": "https://www.youtube.com/embed/U9RPIXE9VqE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/E1Nme5irPWrFPAAhICpws5XTjH41YTrz8oqZcUFR.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f9604aea-fbec-4ca8-a51f-58d27d07483e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Practice Class 3",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/_kTm1p2_mPk",
+      "hd_video_url": "https://www.youtube.com/embed/_kTm1p2_mPk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ILsPFPb0lhmRYDzeRYYLnVwOhCcPcOzT5cSl8OZC.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fcd952fd-6a1b-4216-982f-8c7ad6e1d7c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Practice Class 4",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/Fh-HOm7eO7s",
+      "hd_video_url": "https://www.youtube.com/embed/Fh-HOm7eO7s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/PmRubg6giY8GzJ4BbFlcx8vsLoJijlEOLA06e8QF.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 4",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/107b4f3c-89b2-42bb-9357-25544233ed63.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

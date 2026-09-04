@@ -1,0 +1,46 @@
+{
+  "batch_info": {
+    "title": "NEET 2025 Physics By Mohit Agarwal Sir (English Medium)",
+    "price": "599",
+    "id": "341",
+    "extracted_date": "2025-08-27T16:18:17.374370"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 2585,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Diwali Assignment",
+      "id": 4130,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Announcement Section",
+      "id": 3266,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 2597,
+      "video_count": 129,
+      "note_count": 111
+    },
+    {
+      "name": "Physics By Mohit Agrawal (MA Sir)",
+      "id": 2590,
+      "video_count": 279,
+      "note_count": 277
+    },
+    {
+      "name": "Test Paper And Solution",
+      "id": 2964,
+      "video_count": 3,
+      "note_count": 2
+    }
+  ]
+}

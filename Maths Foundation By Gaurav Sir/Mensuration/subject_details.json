@@ -1,0 +1,415 @@
+{
+  "subject_name": "Mensuration",
+  "subject_id": 2596,
+  "video_count": 29,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Mensuration-01",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/pgHifVnCPyo",
+      "hd_video_url": "https://www.youtube.com/embed/pgHifVnCPyo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration -01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/604d9b26-4983-48c9-9815-b488d13174be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Mensuration-02",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/ax8vdQkaBHg",
+      "hd_video_url": "https://www.youtube.com/embed/ax8vdQkaBHg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/OKjOllRD5L9xWDyoSInAvea1wstgaJKIQkx0BQqT.png",
+      "notes": [
+        {
+          "title": "Mensuration-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e608134-9a5c-4828-a2be-64000ac76f66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Mensuration-03",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/_lJBR6EmPUg",
+      "hd_video_url": "https://www.youtube.com/embed/_lJBR6EmPUg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fc4b0b2-37d4-4104-8851-251dcb0b6443.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Mensuration-04",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/mensuration-gaurav-sir/l-04/l-04-mensuration-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/esKEHrKvbgI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xgba53DkjpRrxPMoRpdmsHoR11ebV6C8G01e2igM.png",
+      "notes": [
+        {
+          "title": "Mensuration-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36df2cf3-9649-4852-ae2e-dade1e037305.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Mensuration-05",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/bGX3EpCrYwU",
+      "hd_video_url": "https://www.youtube.com/embed/bGX3EpCrYwU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration -05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cfd0461-e3d9-4e76-ad49-92330b5a566c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Mensuration-06",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83234/kgss-1717992627-v83234.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4slC9b7rRIM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Smo6wwHEF0coNr5nwo5X0jKDvpVSdnEwqqjBTsZj.png",
+      "notes": [
+        {
+          "title": "Mensuration-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/981c6360-081b-4cf8-9db5-4c8a8d4d5e16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Mensuration-07",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83780/kgss-1718079934-v83780.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cjA2AeCodLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3ZZewcaqDYpQi2iow4xx6vs4ccHS0S0m40IEvaRo.png",
+      "notes": [
+        {
+          "title": "Mensuration -07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de16bb3b-b7b5-47cd-89f2-3bceb9cc9504.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Mensuration-08",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/84551/kgss-1718252682-v84551.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tGxmdPEQWWk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/w2uAon04cwmzediN7rQj83fb2jdKE3p78bJyeMvD.png",
+      "notes": [
+        {
+          "title": "Mensuration-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c499825-d765-4f25-8360-351f11f5fad1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Mensuration-09",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/84862/kgss-1718338654-v84862.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ll4ymdZg8kw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6CINwkfJLcFriP7Rd7vnYNpvv5QeQzYAYBPQYJvx.png",
+      "notes": [
+        {
+          "title": "Mensuration -09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8de7f2e7-552a-4a31-a106-e5e191f0eee8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Mensuration-10",
+      "published_date": "18 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/85510/kgss-1718684563-v85510.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cce9d2FzvsA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IvUJpNqxH5j9VLSSX4WLNerWHk1VS5rGuQhT3oqq.png",
+      "notes": [
+        {
+          "title": "Mensuration -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7227f1e5-9a14-4fd1-ba93-f5d2d9b802db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Mensuration -11",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/85881/kgss-1718770874-v85881.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OTe20Tit5Xs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/khS5HuY41Nk1Oqbjp1OFdx9q6DpVb9d21zbhoDda.png",
+      "notes": [
+        {
+          "title": "Mensuration -11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ce78973-4f74-4051-8c6d-fe72740543c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Mensuration -12",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/eXEEOuODRks",
+      "hd_video_url": "https://www.youtube.com/embed/eXEEOuODRks",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration -12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d530439-cb92-4494-81d3-d7863e127d33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Mensuration -13",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/86585/kgss-1718942615-v86585.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/78F_jf2GzUw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7qX4OLdTVLf7dkrJTS7W56dRIoAIxw38qdpZPX3K.png",
+      "notes": [
+        {
+          "title": "Mensuration -13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28c9515f-777d-4ce5-9d10-95f5ef76d1bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Mensuration -14",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2024/87464/kgss-1719202270-v87464.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-pv9Em0Gq6E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kMadrVIvuyHsgAGId7F5o0sAAW4OWMbJwBzIPh45.png",
+      "notes": [
+        {
+          "title": "Mensuration -14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f35c898b-7425-473b-ae57-e8f33e8d4ed5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Mensuration -15",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/87876/kgss-1719288249-v87876.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eFYzKy2EMA8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AYSSxkzCyM4vjaYV9Ydz2v3MuXT6rOA62RlsVObL.png",
+      "notes": [
+        {
+          "title": "Mensuration -15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9d78001-6de2-4207-ad73-00365ace1158.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Mensuration -16",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/GwdAu_7hkzE",
+      "hd_video_url": "https://www.youtube.com/embed/GwdAu_7hkzE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration -16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e0bf7d3-8694-474a-9979-4905a1dabdb7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Mensuration 17",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/mcOYC5M8R-M",
+      "hd_video_url": "https://www.youtube.com/embed/mcOYC5M8R-M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Mensuration 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50c8b5c6-378e-43f5-bfce-66e1f950a63c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Mensuration -18",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/mensuration-gaurav-sir/l-18/l-18-mensuration-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/h3I3fz05m0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/x3NtcuGLIn6GDLzFNwIqTkM4vrR1VRaQyKBfHm87.png",
+      "notes": [
+        {
+          "title": "Mensuration -18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3bdeb55-3921-4391-a3b9-5f63cca8f647.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Mensuration -19",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/90293/kgss-1719979405-v90293.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ycNzf_UJ580",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2cUPENi2oj2VZMjcyYp5lpy7XaZD8yjQmG1Lrtmk.png",
+      "notes": [
+        {
+          "title": "Mensuration -19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/440bd291-246f-46f7-99b0-18fafee87805.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Mensuration -20",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/91053/kgss-1720152098-v91053.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1INdKNWupCg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ocQYQ99JzCEhYZsqByQU5CNb8bpERvtRBricp398.png",
+      "notes": [
+        {
+          "title": "Mensuration -20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39e0ea28-1a33-4e84-b260-ed66cfc85ddf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Mensuration 3D -21",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/91889/kgss-1720410920-v91889.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xJ4JlrbtEAY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/k7ZZbYvs043IxU8zSALG0bA2BrWDcdeKdRwyJ0nt.png",
+      "notes": [
+        {
+          "title": "Mensuration -21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef60976f-2556-420e-a243-3a0761febf8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Mensuration 3D -22",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/92136/kgss-1720497041-v92136.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iGc5kR_MrJs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RYIY9zKbnUGFDcrRuEeJDSq6t0IDXI5Mg1Ec5Gf0.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7d2b6b0-e189-47bd-a974-7fd6ee5c4a18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Mensuration 3D -23",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/92772/kgss-1720584075-v92772.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jcplXIsCVbI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m1KW1KfHBeccw91YiwnLjbWHig6FVlOacXJqOPSH.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45c5602f-92ae-4f9e-b2e1-234e80f6313e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Mensuration 3D -24",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/93254/kgss-1720671235-v93254.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bPWaaJzFqKA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/s100o7Bh7lPT0GuYYUdQfoa4VWfL23zfZuGqgTE5.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43f23b02-d6ca-48c6-83b4-fa16a63dfe09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Mensuration 3D -25",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/95383/kgss-1721017017-v95383.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2xeHv6Ocbm4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OYTV5RiYABQ2vnA911XMwaCz5mnIVf0AZE3mCW4D.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84ac5d6a-06fa-49f1-8fb6-35becdbcbab4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Mensuration 3D -26",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/95799/kgss-1721102737-v95799.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0wCxLPjncl8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7vYbJoWJmiXpJ7IPiW15wkjzRRRdCPU12KltQuqO.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16e5b582-5956-4696-8c37-7ca2a090a7bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Mensuration 3D -27",
+      "published_date": "20 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/97404/kgss-1721448729-v97404.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RJuRpFQz9Bo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zh1FFLAu7sHf8OtChbWC0TbmHgSS6LO9Jiy2QnvY.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b8d604a-2b76-484a-8626-cd54465b9d77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Mensuration 3D -28",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/mensuration-gaurav-sir/l-28/l-28-mensuration-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lMFXwHiu2tA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MZD4HNEdtNY7M3wBxktqeAaevYxxoBG7sE4hurQY.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd08684c-08da-44aa-9fa9-f86711435817.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Mensuration 3D -29",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/mensuration-gaurav-sir/l-29/l-29-mensuration-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1c4-DJUtIWA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gXaTjLF9STjEWHdeCzWukECNmDhkHnLY2Zhghpin.png",
+      "notes": [
+        {
+          "title": "Mensuration 3D -29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b55de2ac-edfd-4dfa-834f-6d0c199479b4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

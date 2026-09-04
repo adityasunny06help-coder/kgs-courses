@@ -1,0 +1,65 @@
+{
+  "subject_name": "Bihar Special by Jaswant Sir",
+  "subject_id": 4335,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। Bihar History",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/HHGxuaiOnOY",
+      "hd_video_url": "https://www.youtube.com/embed/HHGxuaiOnOY",
+      "thumbnail": "https://i.ytimg.com/vi/HHGxuaiOnOY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 ।। Bihar History",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6562d59c-1a41-4d70-b6d8-e5bb7b72b049.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ।। Bihar Geography",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/nauavsMEA0w",
+      "hd_video_url": "https://www.youtube.com/embed/nauavsMEA0w",
+      "thumbnail": "https://i.ytimg.com/vi/nauavsMEA0w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 ।। Bihar Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee12dbc4-b8a7-4c18-834f-c3d1f13cb2cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03  || Bihar Polity & Economy",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/mVT4IdZBdUc",
+      "hd_video_url": "https://www.youtube.com/embed/mVT4IdZBdUc",
+      "thumbnail": "https://i.ytimg.com/vi/mVT4IdZBdUc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03  || Bihar Polity & Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa70ddcd-9300-401d-b42f-5511d64933e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Bihar Art & Culture",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/dUax3kszoaI",
+      "hd_video_url": "https://www.youtube.com/embed/dUax3kszoaI",
+      "thumbnail": "https://i.ytimg.com/vi/dUax3kszoaI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Bihar Art & Culture",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44a16fae-db84-4c20-91c8-5c1004ae6db4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

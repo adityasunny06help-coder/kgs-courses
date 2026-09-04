@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "MPPSC Prelims Target Batch 2026",
+    "price": "2499",
+    "id": "748",
+    "extracted_date": "2025-08-27T13:25:51.760138"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class",
+      "id": 7807,
+      "video_count": 4,
+      "note_count": 2
+    },
+    {
+      "name": "MPPSC Pre Unit 2 - M.P History and Art & Culture by Ashutosh Sharma Sir",
+      "id": 7843,
+      "video_count": 35,
+      "note_count": 32
+    },
+    {
+      "name": "MPPSC Pre Unit 5 -Indian Polity by Shubham Tripathi Sir",
+      "id": 7848,
+      "video_count": 32,
+      "note_count": 10
+    },
+    {
+      "name": "MPPSC Pre Unit 1-Ancient History by Shubham Gupta Sir",
+      "id": 7866,
+      "video_count": 33,
+      "note_count": 16
+    },
+    {
+      "name": "MPPSC Pre Unit-9 Computer by Shubham Gupta Sir",
+      "id": 8369,
+      "video_count": 8,
+      "note_count": 0
+    }
+  ]
+}

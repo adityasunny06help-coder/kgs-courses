@@ -1,0 +1,60 @@
+{
+  "subject_name": "AAKHRIWAR Botany One Shot",
+  "subject_id": 5918,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Cell : the unit of life (One Shot)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fSGawk3dGfY",
+      "hd_video_url": "https://www.youtube.com/embed/fSGawk3dGfY",
+      "thumbnail": "https://i.ytimg.com/vi/fSGawk3dGfY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Cell : the unit of life (One Shot)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a8b48e8-840f-481b-a6ba-c199e6f8aa68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Cell : cycle and cell division  (One Shot)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_NobLE-BiSk",
+      "hd_video_url": "https://www.youtube.com/embed/_NobLE-BiSk",
+      "thumbnail": "https://i.ytimg.com/vi/_NobLE-BiSk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Cell : cycle and cell division  (One Shot)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9317c47a-7a22-4aba-85d4-a5b5c9f19164.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Principles of Inheritance & Variation",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/oH79tZzND64",
+      "hd_video_url": "https://www.youtube.com/embed/oH79tZzND64",
+      "thumbnail": "https://i.ytimg.com/vi/oH79tZzND64/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Principles of Inheritance & Variation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5427879-94f0-454a-b391-397bf187496f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Revision (One Shot)",
+      "published_date": "15 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

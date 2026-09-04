@@ -1,0 +1,41 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 6391,
+  "video_count": 3,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Session",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SotVT6hhfos",
+      "hd_video_url": "https://www.youtube.com/embed/SotVT6hhfos",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6c1c34488.jpg",
+      "notes": [
+        {
+          "title": "Orientation Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c767c603-14a6-4385-b304-fa4481ccb9a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Complete KGS App Use Guide",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "KGS Mein Admission Kaise Lein? Step-by-Step Complete Guide",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "hd_video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

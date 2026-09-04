@@ -1,0 +1,54 @@
+{
+  "subject_name": "Mains Test with Solution",
+  "subject_id": 4842,
+  "video_count": 5,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Indian Polity and Constitution (Part-1)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3w5b23ym1Kc",
+      "hd_video_url": "https://www.youtube.com/embed/3w5b23ym1Kc",
+      "thumbnail": "https://i.ytimg.com/vi/3w5b23ym1Kc/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Indian Polity and Constitution (Part-2)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/l_1bKjOFDNo",
+      "hd_video_url": "https://www.youtube.com/embed/l_1bKjOFDNo",
+      "thumbnail": "https://i.ytimg.com/vi/l_1bKjOFDNo/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Indian Polity and Governance Test-02 (Part-1)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://youtu.be/DcGjHTrFmU0?si=QrghV_ZK9FJ70X_O",
+      "hd_video_url": "https://youtu.be/DcGjHTrFmU0?si=QrghV_ZK9FJ70X_O",
+      "thumbnail": "https://i.ytimg.com/vi/DcGjHTrFmU0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || History of India and Bihar (Test-01)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/182051/kgss-1737287730-v182051.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0DZPG9HoJIU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9maarHVyZAAXHSj8iYoioQpGsfwTjZmJzubObqOk.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Indian Polity and Governance Test-02 (Part-2)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/wz8hwDTlV0s",
+      "hd_video_url": "https://www.youtube.com/embed/wz8hwDTlV0s",
+      "thumbnail": "https://i.ytimg.com/vi/wz8hwDTlV0s/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

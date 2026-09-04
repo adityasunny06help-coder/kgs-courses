@@ -1,0 +1,564 @@
+{
+  "subject_name": "GS Mains-3(A): Unit-3&4 (MP Economy)",
+  "subject_id": 5397,
+  "video_count": 45,
+  "note_count": 30,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "L-01 || म.प्र की अर्थव्यवस्था परिचय ( Part - 1 )",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/I76bla_Z4T4",
+      "hd_video_url": "https://www.youtube.com/embed/I76bla_Z4T4",
+      "thumbnail": "https://i.ytimg.com/vi/I76bla_Z4T4/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "L-02 || म.प्र की अर्थव्यवस्था परिचय ( Part - 2 )",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/eET-LThuS5c",
+      "hd_video_url": "https://www.youtube.com/embed/eET-LThuS5c",
+      "thumbnail": "https://i.ytimg.com/vi/eET-LThuS5c/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "L-03 || म.प्र की GDP व प्रतिव्यक्ति आय",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ad2ueLONBCM",
+      "hd_video_url": "https://www.youtube.com/embed/ad2ueLONBCM",
+      "thumbnail": "https://i.ytimg.com/vi/ad2ueLONBCM/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "L-04 || आत्म निर्भर म.प्र व ODOP ( Part - 1 )",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/jZwIRdZQM2o",
+      "hd_video_url": "https://www.youtube.com/embed/jZwIRdZQM2o",
+      "thumbnail": "https://i.ytimg.com/vi/jZwIRdZQM2o/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "L-05 || आत्म निर्भर म.प्र व ODOP ( Part - 2 )",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/8aqVlFSPlHI",
+      "hd_video_url": "https://www.youtube.com/embed/8aqVlFSPlHI",
+      "thumbnail": "https://i.ytimg.com/vi/8aqVlFSPlHI/default.jpg",
+      "notes": [
+        {
+          "title": "L-05 || आत्म निर्भर म.प्र व ODOP ( Part - 2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f65261a5-bf32-482f-8fc4-a3948bf30aa3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "L-06 || प्रमुख फसले,फसल पैटर्न तथा जोत ( Part - 1 )",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/CefwXCvV1IY",
+      "hd_video_url": "https://www.youtube.com/embed/CefwXCvV1IY",
+      "thumbnail": "https://i.ytimg.com/vi/CefwXCvV1IY/default.jpg",
+      "notes": [
+        {
+          "title": "L-06 || प्रमुख फसले,फसल पैटर्न तथा जोत ( Part - 1 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54a37b11-43ab-4da1-b8bf-3222fe953919.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "L-07 || प्रमुख फसले,फसल पैटर्न तथा जोत ( Part - 2 )",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Oson-d96Ms0",
+      "hd_video_url": "https://www.youtube.com/embed/Oson-d96Ms0",
+      "thumbnail": "https://i.ytimg.com/vi/Oson-d96Ms0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "L-08 || ODOP और फसल पैटर्न",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/fajbpJaw_rU",
+      "hd_video_url": "https://www.youtube.com/embed/fajbpJaw_rU",
+      "thumbnail": "https://i.ytimg.com/vi/fajbpJaw_rU/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "L-09 || फसल फसल पैटर्न एवं जोत",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ASltxD9Pesc",
+      "hd_video_url": "https://www.youtube.com/embed/ASltxD9Pesc",
+      "thumbnail": "https://i.ytimg.com/vi/ASltxD9Pesc/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "L-10 || खाद्य सुरक्षा वितरण प्रणाली एवं भंडारण",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/TG7anBR7XSw",
+      "hd_video_url": "https://www.youtube.com/embed/TG7anBR7XSw",
+      "thumbnail": "https://i.ytimg.com/vi/TG7anBR7XSw/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "L-11 || खाद्य सुरक्षा वितरण एवं भंडारण",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/siKmMU4ctMA",
+      "hd_video_url": "https://www.youtube.com/embed/siKmMU4ctMA",
+      "thumbnail": "https://i.ytimg.com/vi/siKmMU4ctMA/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "L-12 || उद्यानिकी पशुपालन डेयरी मत्स्य पालन",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wCRnCx5fTuk",
+      "hd_video_url": "https://www.youtube.com/embed/wCRnCx5fTuk",
+      "thumbnail": "https://i.ytimg.com/vi/wCRnCx5fTuk/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "L-13 || पशुपालन डेयरी एवं मत्स्य पालन",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/B8_TTpF-WwY",
+      "hd_video_url": "https://www.youtube.com/embed/B8_TTpF-WwY",
+      "thumbnail": "https://i.ytimg.com/vi/B8_TTpF-WwY/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "L-14 || औद्योगिक क्षेत्र की स्तिथि एवं अवसंरचना",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/KR4oi2Fkm7Y",
+      "hd_video_url": "https://www.youtube.com/embed/KR4oi2Fkm7Y",
+      "thumbnail": "https://i.ytimg.com/vi/KR4oi2Fkm7Y/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "L-15 || अवसंरचना का विकास",
+      "published_date": "15 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/g4drT9MVmmQ",
+      "hd_video_url": "https://www.youtube.com/embed/g4drT9MVmmQ",
+      "thumbnail": "https://i.ytimg.com/vi/g4drT9MVmmQ/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "L-16 || अवसंरचना और एमएसएमई",
+      "published_date": "16 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/vLi0sXT17Z0",
+      "hd_video_url": "https://www.youtube.com/embed/vLi0sXT17Z0",
+      "thumbnail": "https://i.ytimg.com/vi/vLi0sXT17Z0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "L-17 || पारंपरिक उधोग का विकास एवं समर्थन ( Part - 1 )",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/OU36U9jHS1E",
+      "hd_video_url": "https://www.youtube.com/embed/OU36U9jHS1E",
+      "thumbnail": "https://i.ytimg.com/vi/OU36U9jHS1E/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "L-18 || पारंपरिक उधोग का विकास एवं समर्थन ( Part - 2 )",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/mLDEEV5r9Cw",
+      "hd_video_url": "https://www.youtube.com/embed/mLDEEV5r9Cw",
+      "thumbnail": "https://i.ytimg.com/vi/mLDEEV5r9Cw/default.jpg",
+      "notes": [
+        {
+          "title": "L-18 || पारंपरिक उधोग का विकास एवं समर्थन ( Part - 2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8be227c-f949-4293-929e-fb3412b309e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "L-19 || ग्रामीण एवं शहरी विकास",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/sIPVGXEcJJg",
+      "hd_video_url": "https://www.youtube.com/embed/sIPVGXEcJJg",
+      "thumbnail": "https://i.ytimg.com/vi/sIPVGXEcJJg/default.jpg",
+      "notes": [
+        {
+          "title": "L-19 || ग्रामीण एवं शहरी विकास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac7b9e66-b21c-4a59-8f5f-fc271fce0788.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "L-20 || जनजातीय अर्थव्यवस्था",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FE8DLRX1g5Y",
+      "hd_video_url": "https://www.youtube.com/embed/FE8DLRX1g5Y",
+      "thumbnail": "https://i.ytimg.com/vi/FE8DLRX1g5Y/default.jpg",
+      "notes": [
+        {
+          "title": "L-20 || M.P Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2a84eb4-162a-43a8-93fb-b835f4936a93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "L-21 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 1 )",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/sAJ_A0zzaLg",
+      "hd_video_url": "https://www.youtube.com/embed/sAJ_A0zzaLg",
+      "thumbnail": "https://i.ytimg.com/vi/sAJ_A0zzaLg/default.jpg",
+      "notes": [
+        {
+          "title": "L-21 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 1 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43c8da4c-dd14-4831-b788-6fbe0a06fc2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "L-22 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 2 )",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/HS19cHTfG7c",
+      "hd_video_url": "https://www.youtube.com/embed/HS19cHTfG7c",
+      "thumbnail": "https://i.ytimg.com/vi/HS19cHTfG7c/default.jpg",
+      "notes": [
+        {
+          "title": "L-22 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3eb628ff-9641-46b0-adcf-d0cb088be725.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "L-23 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 3 )",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/97CaEF1HZ1w",
+      "hd_video_url": "https://www.youtube.com/embed/97CaEF1HZ1w",
+      "thumbnail": "https://i.ytimg.com/vi/97CaEF1HZ1w/default.jpg",
+      "notes": [
+        {
+          "title": "L-23 || पर्यटन व्यापार निवेश प्रोत्साहन ( Part - 3 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4f16df7-d3eb-4585-ac14-4749f2df20f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "L-24 || व्यापार और निवेश प्रोत्साहन",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Y6vAGXWpLdw",
+      "hd_video_url": "https://www.youtube.com/embed/Y6vAGXWpLdw",
+      "thumbnail": "https://i.ytimg.com/vi/Y6vAGXWpLdw/default.jpg",
+      "notes": [
+        {
+          "title": "L-24 || व्यापार और निवेश प्रोत्साहन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3447de2-194c-4e7a-a077-fd75fa39e86d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "L-25 || निवेश प्रोत्साहन",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/bjosJv9SqWE",
+      "hd_video_url": "https://www.youtube.com/embed/bjosJv9SqWE",
+      "thumbnail": "https://i.ytimg.com/vi/bjosJv9SqWE/default.jpg",
+      "notes": [
+        {
+          "title": "L-25 || निवेश प्रोत्साहन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff7af1d0-9106-4c00-8f5b-6ca77b0f8419.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "L-26 || स्वास्थ अवसंरचना",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/8_nFcvjXcYo",
+      "hd_video_url": "https://www.youtube.com/embed/8_nFcvjXcYo",
+      "thumbnail": "https://i.ytimg.com/vi/8_nFcvjXcYo/default.jpg",
+      "notes": [
+        {
+          "title": "L-26 || स्वास्थ अवसंरचना",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8254ce33-3996-4c49-afbb-9a02936802b7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "L-27 || स्वास्थ और शिक्षा अवसंरचना",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/2LI5yDXofHg",
+      "hd_video_url": "https://www.youtube.com/embed/2LI5yDXofHg",
+      "thumbnail": "https://i.ytimg.com/vi/2LI5yDXofHg/default.jpg",
+      "notes": [
+        {
+          "title": "L-27 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea4dd46a-e834-4976-962e-ddb62dbd0883.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "L-28 || स्वास्थ एवं शिक्षा",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ZBOAz02w-Y4",
+      "hd_video_url": "https://www.youtube.com/embed/ZBOAz02w-Y4",
+      "thumbnail": "https://i.ytimg.com/vi/ZBOAz02w-Y4/default.jpg",
+      "notes": [
+        {
+          "title": "L-28 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc055142-cc71-49f1-a838-30d5ad1d4313.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "L-29 ||  शिक्षा",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/dGruc2q6oUs",
+      "hd_video_url": "https://www.youtube.com/embed/dGruc2q6oUs",
+      "thumbnail": "https://i.ytimg.com/vi/dGruc2q6oUs/default.jpg",
+      "notes": [
+        {
+          "title": "L-29 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b42d6dc1-236c-4522-b5bd-62303a76e4fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "L-30 || शिक्षा एवं कौशल विकास",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_bggrQY6iAA",
+      "hd_video_url": "https://www.youtube.com/embed/_bggrQY6iAA",
+      "thumbnail": "https://i.ytimg.com/vi/_bggrQY6iAA/default.jpg",
+      "notes": [
+        {
+          "title": "L-30 || शिक्षा एवं कौशल विकास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b5755b8-30c2-4ecc-8c5a-c2a31857f9b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "L-31 || शिक्षा",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Bfbx_VsbGq8",
+      "hd_video_url": "https://www.youtube.com/embed/Bfbx_VsbGq8",
+      "thumbnail": "https://i.ytimg.com/vi/Bfbx_VsbGq8/default.jpg",
+      "notes": [
+        {
+          "title": "L-31 || शिक्षा एवं कौशल विकास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d81a1883-5c8a-4683-8a58-fb406fabd1ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "L-32 || कौशल विकास एवं वन नीति",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/i0l7D75Oiyg",
+      "hd_video_url": "https://www.youtube.com/embed/i0l7D75Oiyg",
+      "thumbnail": "https://i.ytimg.com/vi/i0l7D75Oiyg/default.jpg",
+      "notes": [
+        {
+          "title": "L-32 || शिक्षा एवं कौशल विकास",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/852cc2a7-bccf-46cc-af69-413cc65493b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "L-33 || वन नीति जल नीति एवं खनिज नीति",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rTsXVYmiSMA",
+      "hd_video_url": "https://www.youtube.com/embed/rTsXVYmiSMA",
+      "thumbnail": "https://i.ytimg.com/vi/rTsXVYmiSMA/default.jpg",
+      "notes": [
+        {
+          "title": "L-33 || वन नीति जल नीति एवं खनिज नीति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/125a659d-fcb7-4cd6-9e53-87f33c978a3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "L-34 || जल नीति खनिज नीति",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/UuODqHhVwKI",
+      "hd_video_url": "https://www.youtube.com/embed/UuODqHhVwKI",
+      "thumbnail": "https://i.ytimg.com/vi/UuODqHhVwKI/default.jpg",
+      "notes": [
+        {
+          "title": "L-34 || जल नीति खनिज नीति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/528c07d4-a86a-4232-ba98-33795cffb3da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "L-35 || खनिज नीति और वित्तीय समावेशन",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Kz1LSTTJwT0",
+      "hd_video_url": "https://www.youtube.com/embed/Kz1LSTTJwT0",
+      "thumbnail": "https://i.ytimg.com/vi/Kz1LSTTJwT0/default.jpg",
+      "notes": [
+        {
+          "title": "L-35 || खनिज नीति और वित्तीय समावेशन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8333c5cb-fc95-4705-9a0a-94666316b6aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "L-36 || वित्तीय और सामाजिक समावेशन",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/0j6WF34o4eo",
+      "hd_video_url": "https://www.youtube.com/embed/0j6WF34o4eo",
+      "thumbnail": "https://i.ytimg.com/vi/0j6WF34o4eo/default.jpg",
+      "notes": [
+        {
+          "title": "L-36 || MP Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5716affe-8e70-4b81-881d-02b5fb721ec4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "L-37 || सामाजिक समावेशन एवं कल्याणकारी योजना",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fHxEABbWZr4",
+      "hd_video_url": "https://www.youtube.com/embed/fHxEABbWZr4",
+      "thumbnail": "https://i.ytimg.com/vi/fHxEABbWZr4/default.jpg",
+      "notes": [
+        {
+          "title": "L-37 || MP Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d79daace-b856-44e4-8c62-443e9785483c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "L-38 || मध्य प्रदेश की जनसांख्यिकी का प्रभाव",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/i1QXZLY8AtI",
+      "hd_video_url": "https://www.youtube.com/embed/i1QXZLY8AtI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZLa0ItVqaLi6Ir02PxALMr8ZbMrMXEhBNSbzbCgq.png",
+      "notes": [
+        {
+          "title": "L-38 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ec684bf-83d5-4447-9d60-1baaf60b3170.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "L-39 || कल्याणकारी योजना और मानव संसाधन उत्पादकता",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IDMLjkFG0ao",
+      "hd_video_url": "https://www.youtube.com/embed/IDMLjkFG0ao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FveSrnWh56HehdsTyet5lhsCN2P1LFffHX2I8RJA.png",
+      "notes": [
+        {
+          "title": "L-39 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65454b2e-9828-40eb-bee5-c1e12c07e3c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "L-40 ||  मानव संसाधन उत्पादकता",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/xBX9EfCWNvk",
+      "hd_video_url": "https://www.youtube.com/embed/xBX9EfCWNvk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7LPSAVGuOWfJgDchfPAez98aq3ynkurVoUrOPLZx.png",
+      "notes": [
+        {
+          "title": "L-40 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bc632dd-bd7c-4f71-b544-2cd05daa49a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "L-41 || मानव संसाधन उत्पादकता एवं जनसंख्या प्रभाव",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ezXlI6BGmr8",
+      "hd_video_url": "https://www.youtube.com/embed/ezXlI6BGmr8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AKgVMCMdxloHdtvqexr8zO3IkadyEEJUK3t78hDp.png",
+      "notes": [
+        {
+          "title": "L-41 || मानव संसाधन उत्पादकता एवं जनसंख्या प्रभाव",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9785b243-a6cd-436e-97b0-67dc67592d6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "L-42 || रोजगार",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/-GbaaRqIiKs",
+      "hd_video_url": "https://www.youtube.com/embed/-GbaaRqIiKs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eDKpq0tPWlrz3Y76ySAWOQD9g1TVEX1bCCnD7Isw.png",
+      "notes": [
+        {
+          "title": "L-42 || रोजगार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6fc0591-897b-46ed-8101-34c069dd12ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "L-43 || बौद्धिक संपदा अधिकार में प्रगति और जनसांख्यिकी का प्रभाव",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OPuKKCZaRwo",
+      "hd_video_url": "https://www.youtube.com/embed/OPuKKCZaRwo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TvuX69qs31DzOUDFBtDc2vgxcEYByGdWYEoC79z3.png",
+      "notes": [
+        {
+          "title": "L-43 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c078d9d6-a9b7-48ba-8e22-7d4dc97be1b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "L-44 || बौद्धिक संपदा अधिकार में प्रगति",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/lU5q8Y3g0kg",
+      "hd_video_url": "https://www.youtube.com/embed/lU5q8Y3g0kg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lvageD0oTurouePohKvgdUZ7Y5ibiaA4WWpXBfpL.png",
+      "notes": [
+        {
+          "title": "L-44 || बौद्धिक संपदा अधिकार में प्रगति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6339ebf-1f68-454b-98a9-90bf25ed95fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "L-45 || बौद्धिक संपदा अधिकार में प्रगति",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/C2eA2EiySkU",
+      "hd_video_url": "https://www.youtube.com/embed/C2eA2EiySkU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CLk28vOro69QMxfog5p2ln7QDdXLR8YFiirFJifp.png",
+      "notes": [
+        {
+          "title": "L-45 || MP Economy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c8c022b-5054-4487-892b-50fe8f8628c3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

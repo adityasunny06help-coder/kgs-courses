@@ -1,0 +1,71 @@
+{
+  "subject_name": "CDS 01-2025 Test 04",
+  "subject_id": 5182,
+  "video_count": 3,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "CDS 01-2025 Test 04 (English)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/daHVazdaDM4",
+      "hd_video_url": "https://www.youtube.com/embed/daHVazdaDM4",
+      "thumbnail": "https://i.ytimg.com/vi/daHVazdaDM4/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 04 (English) Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68b13479-4d56-4081-b41e-f76c21411f92.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (English) Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16329cc8-1bc9-4b98-b8b5-1d92fca77388.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "CDS 01-2025 Test 04 (Paper-02) [GK]",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/VmGYt7DUX0Q",
+      "hd_video_url": "https://www.youtube.com/embed/VmGYt7DUX0Q",
+      "thumbnail": "https://i.ytimg.com/vi/VmGYt7DUX0Q/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-02) [GK] Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d790958a-ee6f-4838-86ba-9f0b123a6f78.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-02) [GK] Solution {in English}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28f046ee-40f2-4e29-9507-90c6a5365c86.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-02) [GK] Solution {in Hindi}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/522a5d90-0dea-4822-a903-05b1562f08a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "CDS 01-2025 Test 04 (Paper-03) [Mathematics]",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/SoUDr-iAC5I",
+      "hd_video_url": "https://www.youtube.com/embed/SoUDr-iAC5I",
+      "thumbnail": "https://i.ytimg.com/vi/SoUDr-iAC5I/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-03) [Mathematics] Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e6ce815-8f9b-4eb4-a465-cb8ff3ac03be.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-03) [Mathematics] Solution {in English}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b2de0c8-fa6d-4121-80bb-2f3a888fe197.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (Paper-03) [Mathematics] Solution {in Hindi}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00fd4c13-b015-4be6-98e9-81dbd9020d4e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

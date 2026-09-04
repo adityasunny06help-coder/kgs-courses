@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "SSC JE Electrical Engineering Batch 2025-26",
+    "price": "599",
+    "id": "648",
+    "extracted_date": "2025-08-27T13:53:30.592283"
+  },
+  "subjects": [
+    {
+      "name": "Physics by Sushant Sir",
+      "id": 6509,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Electrical Machines by Ashish Soni Sir",
+      "id": 6541,
+      "video_count": 52,
+      "note_count": 52
+    },
+    {
+      "name": "Network Theory by Deepa Ma'am",
+      "id": 6542,
+      "video_count": 59,
+      "note_count": 58
+    },
+    {
+      "name": "History By Ashish Chamoli Sir",
+      "id": 6830,
+      "video_count": 46,
+      "note_count": 50
+    },
+    {
+      "name": "Basic of Electronics by Ashish Soni Sir",
+      "id": 7421,
+      "video_count": 21,
+      "note_count": 20
+    },
+    {
+      "name": "Biology by Sushant Sir",
+      "id": 7554,
+      "video_count": 40,
+      "note_count": 39
+    },
+    {
+      "name": "Polity by Ashish Chamoli sir",
+      "id": 7750,
+      "video_count": 25,
+      "note_count": 24
+    },
+    {
+      "name": "Reasoning By Kartik Sir",
+      "id": 7764,
+      "video_count": 34,
+      "note_count": 33
+    },
+    {
+      "name": "UEPT by Deepa Ma'am",
+      "id": 7922,
+      "video_count": 26,
+      "note_count": 26
+    },
+    {
+      "name": "Power System by Deepa Ma'am",
+      "id": 8178,
+      "video_count": 32,
+      "note_count": 29
+    },
+    {
+      "name": "Geography by Ashish Chamoli Sir",
+      "id": 8315,
+      "video_count": 8,
+      "note_count": 7
+    },
+    {
+      "name": "Current Affairs By Arya Ma'am",
+      "id": 8399,
+      "video_count": 3,
+      "note_count": 2
+    }
+  ]
+}

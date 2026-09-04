@@ -1,0 +1,79 @@
+{
+  "subject_name": "Role Of Science & Technology by Deepa Ma'am",
+  "subject_id": 6185,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rTp1yAFJn1M",
+      "hd_video_url": "https://www.youtube.com/embed/rTp1yAFJn1M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ulr0K6p9XepBDTfmh0LwjCMx0yLGErmENOf00nKH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ca3e989-f45f-40f5-9abb-cf964f17be3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Biotechnology",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/mLQVZp2JV30",
+      "hd_video_url": "https://www.youtube.com/embed/mLQVZp2JV30",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vQCrRTTFuUJlukt4hK4rnGGZKnmqxPK4Ubqx0SHg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Biotechnology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb8bd062-47ed-41c2-8a39-98a9c559539d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Biotechnology(Part-2)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WKezl7EP8CM",
+      "hd_video_url": "https://www.youtube.com/embed/WKezl7EP8CM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LG5ClbyerykD2BLRZ70OawDsrKynFUCma8HL8bjh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Biotechnology(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4589d65f-959e-4e6e-863f-859bab066586.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Biotechnology(Part-3)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EVG2I0knuwo",
+      "hd_video_url": "https://www.youtube.com/embed/EVG2I0knuwo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5YsBAdSp5Au8wUNkdVD1USX3gBteVzvsdTOw1gei.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Biotechnology(Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76b2e846-3152-44a3-b56e-5c96b84f282b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Solar Energy",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/r8__UYNiNvY",
+      "hd_video_url": "https://www.youtube.com/embed/r8__UYNiNvY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Mxt2limGxcv5VJog0ZrfwRcDg5Az6H4x37ifKA80.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Solar Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc43557a-dd17-4aed-bac4-de7626691705.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

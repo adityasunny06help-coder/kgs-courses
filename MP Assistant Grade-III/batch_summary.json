@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "MP Assistant Grade-III",
+    "price": "499",
+    "id": "524",
+    "extracted_date": "2025-08-27T14:48:35.566086"
+  },
+  "subjects": [
+    {
+      "name": "Reasoning By Yogendra Sir",
+      "id": 5067,
+      "video_count": 20,
+      "note_count": 18
+    },
+    {
+      "name": "Current Affairs By Shivam Tiwari Sir",
+      "id": 5235,
+      "video_count": 7,
+      "note_count": 6
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 6612,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Geography By Ram Sir",
+      "id": 6639,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Computer By Anjali Ma'am",
+      "id": 4962,
+      "video_count": 18,
+      "note_count": 18
+    },
+    {
+      "name": "Hindi By Jitendra Soni Sir",
+      "id": 4963,
+      "video_count": 45,
+      "note_count": 45
+    },
+    {
+      "name": "Reasoning By Hitesh Sir",
+      "id": 4964,
+      "video_count": 5,
+      "note_count": 4
+    },
+    {
+      "name": "Polity By Ram Sir",
+      "id": 4965,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "English By Vishal Sir",
+      "id": 4966,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "Maths By Deepankar Sir",
+      "id": 4967,
+      "video_count": 50,
+      "note_count": 50
+    },
+    {
+      "name": "History By Ram Sir",
+      "id": 5774,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "MP GK By Ram Sir",
+      "id": 6196,
+      "video_count": 17,
+      "note_count": 17
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Introduction Class",
+  "subject_id": 4417,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || English By Priyanshu Sir",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/cFrHp_CxlCk",
+      "hd_video_url": "https://www.youtube.com/embed/cFrHp_CxlCk",
+      "thumbnail": "https://i.ytimg.com/vi/cFrHp_CxlCk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || English By Priyanshu Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84a17b7e-5113-4ffc-9f4f-4c3683d772f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Antonyms & Synonyms 01",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/D8Qml0RO-NY",
+      "hd_video_url": "https://www.youtube.com/embed/D8Qml0RO-NY",
+      "thumbnail": "https://i.ytimg.com/vi/D8Qml0RO-NY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Antonyms & Synonyms 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd79187a-fce2-4cbe-a57d-c3a2cd2749e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Antonyms & Synonyms 02",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/M10Xw9UWEXI",
+      "hd_video_url": "https://www.youtube.com/embed/M10Xw9UWEXI",
+      "thumbnail": "https://i.ytimg.com/vi/M10Xw9UWEXI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Antonyms & Synonyms 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/238b345e-a5d2-459f-a825-8a9787ed1f0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || gender",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Qwc1VPTibEk",
+      "hd_video_url": "https://www.youtube.com/embed/Qwc1VPTibEk",
+      "thumbnail": "https://i.ytimg.com/vi/Qwc1VPTibEk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || gender",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/866b0b6c-c8ea-4708-aed0-a5b7ada21776.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

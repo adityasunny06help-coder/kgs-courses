@@ -1,0 +1,51 @@
+{
+  "subject_name": "Test Paper And Solution",
+  "subject_id": 2550,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "PART TEST - 1 Discussion(Zoology) Video Solution 1",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/h4ICm1oxS9k",
+      "hd_video_url": "https://www.youtube.com/embed/h4ICm1oxS9k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes PART TEST - 1 Discussion(Zoology) Video Solution 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cb91bd6-9d8b-4142-807d-7dda46d7e810.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "PART TEST - 1  Discussion(Chemistry) Video Solution 2",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/7TuOoxR8FwA",
+      "hd_video_url": "https://www.youtube.com/embed/7TuOoxR8FwA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes PART TEST - 1  Discussion(Chemistry) Video Solution 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5fc51f7-b584-4a64-bd8c-9543607e97e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "PART TEST -1 Discussion(Physics) Video Solution 3",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/xc6kpNaPYnM",
+      "hd_video_url": "https://www.youtube.com/embed/xc6kpNaPYnM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes PART TEST -1 Discussion(Physics) Video Solution 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca545735-c087-431a-a994-0b3c1713df8e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

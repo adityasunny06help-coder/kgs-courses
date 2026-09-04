@@ -1,0 +1,401 @@
+{
+  "subject_name": "English By Aditya Sir",
+  "subject_id": 7064,
+  "video_count": 28,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || English Introduction",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/SGGFvyoP0QU",
+      "hd_video_url": "https://www.youtube.com/embed/SGGFvyoP0QU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FGkTKL5CaZFDVpMYyFz1s12p8a3fMt2QKuEIRRz0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || English Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd4b0c93-5537-4afe-a756-2e95de4708cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Overview of parts of Speech",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/j_tOi_6kGsg",
+      "hd_video_url": "https://www.youtube.com/embed/j_tOi_6kGsg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zo8nqCArWf0qGN9At4LNIdDBtt9GybXmYdTpjbUM.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Overview of parts of Speec",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92db5091-56ca-49ba-8d39-84f03966b400.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Noun",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/3XdxNBnoJi0",
+      "hd_video_url": "https://www.youtube.com/embed/3XdxNBnoJi0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FonN0IpL2zPP5tkAUGuPUExeeNxYJcX9URynEgXI.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Noun",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8eda1de4-4f7f-4a10-aec9-8d422bbf91ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Noun (Part 02)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lfuFrJQZDjQ",
+      "hd_video_url": "https://www.youtube.com/embed/lfuFrJQZDjQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/E41CrucbRAD3eq9dkinZTI1t3fp0CjVIC911J2T1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Noun (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a077cf98-1a40-4143-9fc6-974534b83fba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Pronoun",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/l76dTI_fHzs",
+      "hd_video_url": "https://www.youtube.com/embed/l76dTI_fHzs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4wle2vu1ZtjYNOMviLwlY8GtlgCbb4C9y05qDk9H.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Noun (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9ebbdb2-d1c4-47e4-baa1-bcf787b64a22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Verb",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/vzOzEuWSzNY",
+      "hd_video_url": "https://www.youtube.com/embed/vzOzEuWSzNY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/B6wl0OzdxUxqEtq6nJOkHGeUIT7gR3SCJjXAkCgt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Noun (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf678fec-edfd-4442-8f09-61a1c85a9773.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Tense",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/XAR2Fl1gOUo",
+      "hd_video_url": "https://www.youtube.com/embed/XAR2Fl1gOUo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VSbd6j5B8rk5jZ8qSjNm2W0Bi4b4pPAOVQ7muMPN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Noun (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6b677fc-72ff-41d7-9a1f-d422f1d974c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Sub-Verb Agreement",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/zYrZy8lQlrw",
+      "hd_video_url": "https://www.youtube.com/embed/zYrZy8lQlrw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GHGfPOx6gO2RWDm8a3Xo7YA7kJytEYA02kxg7FT9.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Tense (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14a9a302-e413-42b9-b80b-499f60ad79b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Active & Passive Voice (Part-01)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/zjNkckOF4Vg",
+      "hd_video_url": "https://www.youtube.com/embed/zjNkckOF4Vg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7SCpQ1x62fBZeXP92FTvfSvJZIk5U9lDn8bjMnei.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Active & Passive Voice (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9955a8b6-df03-4aae-a66c-67941b2fef10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Active & Passive Voice (Part-02)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/J74rpVAhm1A",
+      "hd_video_url": "https://www.youtube.com/embed/J74rpVAhm1A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/X8vhKz7SyuYyZKxN3gzl8E4K96nsnx4GQmrv022f.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Active & Passive Voice (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99768126-375a-4ff7-9c63-cf043803e483.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Active & Passive Voice (Part-03)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/bj_6AssS_0w",
+      "hd_video_url": "https://www.youtube.com/embed/bj_6AssS_0w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5KmXjLe8sLfyVB2NTdfSmHC5oMIVPxCvpLsUV5Oz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Active & Passive Voice (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eeeff88f-2001-4fcb-9935-f679973ec5d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Narration (Part-01)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ABsJOi8wh5o",
+      "hd_video_url": "https://www.youtube.com/embed/ABsJOi8wh5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Flpj7d5XTQRsAoOphqA87KlmcGcmoPEwX2MIQVQc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Active & Passive Voice (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da84fa36-c6d8-4b1a-a8e8-f87fb87dc26f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Narration (Part-02)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RK6QlW9PIe8",
+      "hd_video_url": "https://www.youtube.com/embed/RK6QlW9PIe8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JcLpnnEZnVcOAPqYdZWx3f5Mk9AVGKSu0UMAWAt5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Direct & Indirect",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/350b682d-2dc6-48e4-b2e0-7f6070c44f59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Narration Practice Question",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/cCVLxhoQGao",
+      "hd_video_url": "https://www.youtube.com/embed/cCVLxhoQGao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xAln01izXkoaYRDUFqBvouz9HDo64oPFNIpHJSFD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Narration Practice Question",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04380730-cf9e-4916-a7e0-f28c08996155.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Articles (Part-1)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_Dc74tcLfG8",
+      "hd_video_url": "https://www.youtube.com/embed/_Dc74tcLfG8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HbLYotLlmAi5WO2bEYPzNwDQlPAqEm983wPBh9eJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Articles",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42a28553-419f-42cb-ab8d-2d14d8457a81.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Adjective (Part-01)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iWSkIFH6Ki4",
+      "hd_video_url": "https://www.youtube.com/embed/iWSkIFH6Ki4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FZ6nJS63tvy3QxmDh7EThCriqmhaTqj73SqosVoV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Articles (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9a88ceb-5806-46dd-ae4d-f624d75bcdc9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Adjective (Part-02)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iXaLnbaGIIM",
+      "hd_video_url": "https://www.youtube.com/embed/iXaLnbaGIIM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3VrApwxzK4J6umkdgzRjNt9eAo9MWK2be9UDTfmB.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Adjective (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33feb1c7-256a-4500-81ac-fa544f4c9411.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Conjunction",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NXM77L6y9FM",
+      "hd_video_url": "https://www.youtube.com/embed/NXM77L6y9FM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3q2tM39kYFOBMOSnOQ9A5H2MTBcBQHdPpHraexyF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Adjective (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/538cca8c-5e51-4bdb-a243-44bc13f2454e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Proposition",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/k1XKyJITKJ8",
+      "hd_video_url": "https://www.youtube.com/embed/k1XKyJITKJ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xuFkDPxNtFJrvE2P2SpHMMTXCgnNj83ppkEX2l6Q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Proposition",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c332e3f-9b32-4d6e-bed9-476aff7d41d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Adverb",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/HsuuHEMBE6U",
+      "hd_video_url": "https://www.youtube.com/embed/HsuuHEMBE6U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HyWWOpuEtedL5yblCvmvfIMKHPXVicMffoHQA9t0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Adverb",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9637893f-c498-4f4e-9ef5-a782d6a5d25d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Vocabulary",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fVeJlfZO2C4",
+      "hd_video_url": "https://www.youtube.com/embed/fVeJlfZO2C4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zcKR7RuJf2LcFe3Ecxnj3JT39FzgoA8KxOmWCyKu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Vocabulary",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d915c4b-13c1-4392-af8e-0e246d1dd09a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 ||  Official Glossary (Part-01)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/i35P1lvv6Ew",
+      "hd_video_url": "https://www.youtube.com/embed/i35P1lvv6Ew",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yA37P5ZPWw4NT6YsIhNLLXMZiSm6ciQ7ATfII8xQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 ||  Official Glossary",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/240ff6d2-0645-403b-adb9-1bb3b4bd6fae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 ||  Official Glossary (Part-02)",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/sUXfkf1GXC4",
+      "hd_video_url": "https://www.youtube.com/embed/sUXfkf1GXC4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JMumKgamkKKy4EVERxNvRthsHuLD7JaWGStlgapV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 ||  Official Glossary (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13c714b6-bf0e-449d-9e36-95996c90d489.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Official Glossary (Part-03)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XQS9UcvI8pg",
+      "hd_video_url": "https://www.youtube.com/embed/XQS9UcvI8pg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wyN8Xtj7FzxeOmzvTMmBLsib9IS1X8TB2L6vkCEu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Official Glossary (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8001e08-09c9-48b2-b359-1ed576d8934e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Punctuation",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/v9BzF5ftaMI",
+      "hd_video_url": "https://www.youtube.com/embed/v9BzF5ftaMI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hLfVTwlYmAzaVZy8QjsQkRpGiUXWAifH39SvvF0v.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Punctuation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61c54c27-f715-4f92-9358-a8bf3f60fca6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Translation(Part-01)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LxQmynczpqQ",
+      "hd_video_url": "https://www.youtube.com/embed/LxQmynczpqQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QOF8uBQCj1Ns1WKGSiDOu9iVjabrAe6mv94p4GKZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Translation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8061678-2be5-4899-8e0b-279d672da0a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Translation (Part-02)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/swolNgeBWJ8",
+      "hd_video_url": "https://www.youtube.com/embed/swolNgeBWJ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/C1YG2N8Yo7ammvLqBn8g3LUDbXsf0GOJoyWIrFQ3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Translation (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d49dc6d6-ddd1-42ca-bf6c-6c3328c8ac32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Translation (Part-03) (Last Class)",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/RwDkPIdP_Eg",
+      "hd_video_url": "https://www.youtube.com/embed/RwDkPIdP_Eg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fjhFqfU36fTVuW8KggxxT10gxNdoHF9xqo3tZSOn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Translation (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9165169e-8cd2-4884-8212-026c99715322.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

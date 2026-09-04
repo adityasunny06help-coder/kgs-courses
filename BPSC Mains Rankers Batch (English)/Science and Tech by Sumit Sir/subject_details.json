@@ -1,0 +1,60 @@
+{
+  "subject_name": "Science and Tech by Sumit Sir",
+  "subject_id": 6044,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Science & Tech",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221675/kgss-1743681644-v221675.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8KIdKxZjXVg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AiwEDBosLQnoKYk0UXAeKTvdKGyGZFDbzeLns5T5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86db5b15-0108-4468-903a-33e432902796.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Science & Tech",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222798/kgss-1743855195-v222798.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/19LGbQrMn6w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/04jCSmiM4v2PznSelO8YJVW0CFPDVbPZK4iE3vaN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f4a7825-c2ec-4ac1-aa31-f87cd2d54603.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Science & Tech",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228414/kgss-1744806178-v228414.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K-EkGoEHaew",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MHF1J9zw1TnG7FmFQKIHMLj4hk9v9piu0tPfFgcy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba88cbf6-be23-4489-8011-9fc985028b4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Science & Tech",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228885/kgss-1744891959-v228885.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q4WNaAOSsEM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HJ4LKP8M3Ac1HMfV4rUn5PWlvDeGLgbRWcKeWgNS.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

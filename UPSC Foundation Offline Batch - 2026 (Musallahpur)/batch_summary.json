@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "UPSC Foundation Offline Batch - 2026 (Musallahpur)",
+    "price": "30000",
+    "id": "623",
+    "extracted_date": "2025-08-27T14:02:06.680464"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class by Khan Sir",
+      "id": 6845,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Modern History by Sujeet Sir",
+      "id": 6974,
+      "video_count": 46,
+      "note_count": 43
+    },
+    {
+      "name": "Reasoning (CSAT) by Sanjeev Tiwari Sir",
+      "id": 7070,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Science & Tech by Piyush Sir",
+      "id": 7868,
+      "video_count": 31,
+      "note_count": 30
+    },
+    {
+      "name": "World Physical Geography by Shankar Jha Sir",
+      "id": 8322,
+      "video_count": 8,
+      "note_count": 8
+    }
+  ]
+}

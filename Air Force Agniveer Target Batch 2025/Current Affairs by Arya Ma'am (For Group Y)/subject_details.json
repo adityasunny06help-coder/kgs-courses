@@ -1,0 +1,37 @@
+{
+  "subject_name": "Current Affairs by Arya Ma'am (For Group Y)",
+  "subject_id": 4730,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Current Affairs Part 1",
+      "published_date": "04 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/803bY_fhL6o",
+      "hd_video_url": "https://www.youtube.com/embed/803bY_fhL6o",
+      "thumbnail": "https://i.ytimg.com/vi/803bY_fhL6o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Current Affairs Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df7bb261-d6bf-48fc-915b-cc2cf729ce69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Current Affairs Part-02",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fL88efWboac",
+      "hd_video_url": "https://www.youtube.com/embed/fL88efWboac",
+      "thumbnail": "https://i.ytimg.com/vi/fL88efWboac/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Current Affairs Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff60853c-2f9c-46f2-82a1-a7da4ba3736d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "batch_info": {
+    "title": "UP LT Grade Maths Batch 2025",
+    "price": "799",
+    "id": "775",
+    "extracted_date": "2025-08-27T13:19:36.378212"
+  },
+  "subjects": [
+    {
+      "name": "Mathematics by Anjesh Sir",
+      "id": 8193,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "History by Anjali Ma'am (General Studies)",
+      "id": 8194,
+      "video_count": 10,
+      "note_count": 9
+    },
+    {
+      "name": "Geography by Abhishek Sir (General Studies)",
+      "id": 8195,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Economics by Sukesh Sir (General Studies)",
+      "id": 8198,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Prabhu Sir (General Studies)",
+      "id": 8199,
+      "video_count": 9,
+      "note_count": 11
+    },
+    {
+      "name": "General Science by Avinash Sir",
+      "id": 8200,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by Yadvendra Sir",
+      "id": 8201,
+      "video_count": 12,
+      "note_count": 11
+    },
+    {
+      "name": "Mathematics by Deepankar Sir (General Studies)",
+      "id": 8202,
+      "video_count": 12,
+      "note_count": 12
+    }
+  ]
+}

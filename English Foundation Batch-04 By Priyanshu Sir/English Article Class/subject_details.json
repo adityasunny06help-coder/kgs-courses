@@ -1,0 +1,106 @@
+{
+  "subject_name": "English Article Class",
+  "subject_id": 2473,
+  "video_count": 8,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -41 || Article",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/Xu_nVvMtAWE",
+      "hd_video_url": "https://www.youtube.com/embed/Xu_nVvMtAWE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -41 || Article",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/061ca303-481e-4714-86a1-7db745452301.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -42 || C Letter 10 & Article 02",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/gNYBWU4VEc4",
+      "hd_video_url": "https://www.youtube.com/embed/gNYBWU4VEc4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -42 || C Letter 10 & Pronoun 12",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/800fad1a-5501-4544-8b74-9dc0cbf48361.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -43 || D Letter 01 & Article 03",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/3YpuoS4uanM",
+      "hd_video_url": "https://www.youtube.com/embed/3YpuoS4uanM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -43 || D Letter 01 & Article 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f1b0f867-a18f-475c-a86b-133f27dd7e10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -44 || D Letter 02 & Article 04",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/xuNRg1Tw5-U",
+      "hd_video_url": "https://www.youtube.com/embed/xuNRg1Tw5-U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -44 || D Letter 02 & Article 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5a902438-57f3-4204-a15a-5a91e7c34cdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -45 || D Letter 03 & Article 05",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/a6ntCKJgtsE",
+      "hd_video_url": "https://www.youtube.com/embed/a6ntCKJgtsE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -45 || D Letter 03 & Article 05",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/148d9e1e-48f2-4aa6-9e1c-dafff507ca93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -107 || Article Practice Set 01",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/tDZD82e70mI",
+      "hd_video_url": "https://www.youtube.com/embed/tDZD82e70mI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -108 || Article Practice Set 02",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/NAAHoRh9vdo",
+      "hd_video_url": "https://www.youtube.com/embed/NAAHoRh9vdo",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -109 || Article Practice Set 03",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/1H-uWY2RUfM",
+      "hd_video_url": "https://www.youtube.com/embed/1H-uWY2RUfM",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

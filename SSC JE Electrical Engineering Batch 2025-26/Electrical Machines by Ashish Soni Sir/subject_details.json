@@ -1,0 +1,737 @@
+{
+  "subject_name": "Electrical Machines by Ashish Soni Sir",
+  "subject_id": 6541,
+  "video_count": 52,
+  "note_count": 52,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Introduction to Electrical Machines",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/QDSZwDIcCVU",
+      "hd_video_url": "https://www.youtube.com/embed/QDSZwDIcCVU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pM58h3OvENd0pKzNcDq5tI493cnBfe9HrUrSL4pF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Introduction to Electrical Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4d93299-05a4-4087-817c-b4059a3430c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Basic Concepts of Magnetic Materials",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/-Ek3J495Jrk",
+      "hd_video_url": "https://www.youtube.com/embed/-Ek3J495Jrk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tiyNWN4GMg4BrMBjLX24lAdLuqt6nyHOR4ymj1WC.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Basic Concepts of Magnetic Materials",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02585078-798c-4be2-a752-58c0411e3ca1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Basic concepts of Rotating Machines",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/NBfEI7FO8PU",
+      "hd_video_url": "https://www.youtube.com/embed/NBfEI7FO8PU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BsYoB97OsWWTf9gvE21whL3gXb5TkhsZSi2pvAqJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Basic concepts of Rotating Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4dd8682-4d18-4596-a65b-5a44bfb3454b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Working of DC Generators",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/IdZY7gjXhgc",
+      "hd_video_url": "https://www.youtube.com/embed/IdZY7gjXhgc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0HLEbb5HeGWQyChU2UNwNEHmxSPsxJ50iCgTtFdR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Working of DC Generators",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98047f69-4136-4096-b2b4-e56f59a84597.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Constrution of DC Machines",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/PZfiXWD4Kio",
+      "hd_video_url": "https://www.youtube.com/embed/PZfiXWD4Kio",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/heB3OPTAMO9rugVcXyCqEMhZJGu5aXfjOV5IM1wt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Constrution of DC Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc7324bd-a099-4b23-a029-a87a6c47225d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || EMF Equation and Types of DC Generators",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/C7nDkTeDjhI",
+      "hd_video_url": "https://www.youtube.com/embed/C7nDkTeDjhI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UBPSL6P84JOMzofInkkZGjgvntU2er8Hzoz1dYa4.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || EMF Equation and Types of DC Generators",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f08bda42-41ce-4028-b2e5-f54bf936a87a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Armature Reaction of DC Generators (Part-1)",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/Xuc3RtyvDu4",
+      "hd_video_url": "https://www.youtube.com/embed/Xuc3RtyvDu4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/30Hgm5Bcw9oSvCtgvfQYoLxqQMRYfB3jaD8gc5Vh.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Armature Reaction of DC Generators (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c443dc8-aac2-48b7-9016-a88d7b42a486.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Armature Reaction of DC Generators (Part-2)",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/i43ISTWa9KQ",
+      "hd_video_url": "https://www.youtube.com/embed/i43ISTWa9KQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TldqKmxy87DKBs5fPntsP5DC47KqH17aOUzyVEA6.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Armature Reaction of DC Generators (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b09ba87-1b0e-4ac8-9cc0-c8ef13186d69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Commutation in DC Machines",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/lUuiozMY8CA",
+      "hd_video_url": "https://www.youtube.com/embed/lUuiozMY8CA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f798182e7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Commutation in DC Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f6341b2-1737-4d01-bb8e-74b9e303eaeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Methods of improving commutations",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/oZYfXLVCo4w",
+      "hd_video_url": "https://www.youtube.com/embed/oZYfXLVCo4w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f797861cb.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Methods of improving commutations",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2588c1da-bff6-4312-a930-5ed34154f163.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Basic Principle of Motor",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/XbLR8wrAjVc",
+      "hd_video_url": "https://www.youtube.com/embed/XbLR8wrAjVc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f796ed185.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Basic Principle of Motor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28d9fd95-cd9a-45f4-bc91-78819bc1101a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Torque Equation of DC Motors",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/siEw18DUpo4",
+      "hd_video_url": "https://www.youtube.com/embed/siEw18DUpo4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7966771b.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Torque Equation of DC Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81149769-6cd5-47aa-914d-080a5e07e965.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Speed control of DC Motors",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/PyrjCA7Jvjw",
+      "hd_video_url": "https://www.youtube.com/embed/PyrjCA7Jvjw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f795d3f42.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Speed control of DC Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d33c84bb-b31c-4cd2-a6dd-5c4bc9024836.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Starting and Braking methods of DC Motors",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/vId1TjIfTKI",
+      "hd_video_url": "https://www.youtube.com/embed/vId1TjIfTKI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7954bced.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Starting and Braking methods of DC Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce7da4ce-e4c3-4e80-99a5-35f1228c699f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Efficiency and testing methods of DC Motors",
+      "published_date": "17 May 2025",
+      "video_url": "https://www.youtube.com/embed/rhgEeUNd0KM",
+      "hd_video_url": "https://www.youtube.com/embed/rhgEeUNd0KM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f794b9873.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Efficiency and testing methods of DC Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c918aae8-3a1a-4319-b566-cbe7567f7e49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Basics of Transformers",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/Im5XhovbqrU",
+      "hd_video_url": "https://www.youtube.com/embed/Im5XhovbqrU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f794302a5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Basics of Transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a270af0-d3aa-4a10-89b1-d0de704d3645.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Construction of transformers & Emf Equation of transformers,",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/QqotGZUdkQE",
+      "hd_video_url": "https://www.youtube.com/embed/QqotGZUdkQE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7939e55a.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Construction of transformers & Emf Equation of transformers,",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d616da22-6395-478b-a698-7604a062105d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Equivalent circuit, O.C.& S.C. Tests",
+      "published_date": "21 May 2025",
+      "video_url": "https://www.youtube.com/embed/jXRTZJO0fFE",
+      "hd_video_url": "https://www.youtube.com/embed/jXRTZJO0fFE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7931253f.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Equivalent circuit, O.C.& S.C. Tests",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7143b5a-1204-40e9-8fad-3b3f185ed414.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Equivalent Circuit of transformers",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/ajESppAQVUo",
+      "hd_video_url": "https://www.youtube.com/embed/ajESppAQVUo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7927a27b.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Equivalent Circuit of transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4974fc2d-be18-47e4-9ccd-a3dc24d4606f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || O.C  Test and SC Test of Transformers",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/P1toccP5m_Q",
+      "hd_video_url": "https://www.youtube.com/embed/P1toccP5m_Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f791e5281.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || O.C  Test and SC Test of Transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e3532ec-d7ba-4008-a63b-2b7276ccc88b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 ||  Voltage Regulation of Transformers",
+      "published_date": "24 May 2025",
+      "video_url": "https://www.youtube.com/embed/NC82cv_IUzM",
+      "hd_video_url": "https://www.youtube.com/embed/NC82cv_IUzM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7915dce9.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 ||  Voltage Regulation of Transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dced7138-6599-4acd-9255-ad6e8be70ebe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Losses and efficiency calculation of Transformers",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/ZpjJFNdlCxY",
+      "hd_video_url": "https://www.youtube.com/embed/ZpjJFNdlCxY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f790c1493.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Losses and efficiency calculation of Transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4990e31c-ca12-4122-b2fd-3075103d529b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 ||  Autotransformers",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/TE8y22yce8s",
+      "hd_video_url": "https://www.youtube.com/embed/TE8y22yce8s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f7902d8c1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 ||  Autotransformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd71d3e7-e3b6-4500-9a91-34405f735d06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || 3 phase Transformers",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/32nHV6ZAJvc",
+      "hd_video_url": "https://www.youtube.com/embed/32nHV6ZAJvc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f78f9465b.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || 3 phase Transformers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04047493-d2fb-4bdf-9ad0-c751fd5a231c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Doubt Session",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/Vtd52oRiojs",
+      "hd_video_url": "https://www.youtube.com/embed/Vtd52oRiojs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f78f08e8e.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Doubt Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0ca1dbd-acb3-4ce5-bf44-d0f5dc9c05c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Parallel operation of Transformers (Part-1)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/YzvtA1RWVIA",
+      "hd_video_url": "https://www.youtube.com/embed/YzvtA1RWVIA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6880f78e3fd71.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Parallel operation of Transformers (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa24e8f9-7527-431c-9cee-e33f5bf55a83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Parallel operation of Transformers (Part-2)",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/dRg2R-1dlMo",
+      "hd_video_url": "https://www.youtube.com/embed/dRg2R-1dlMo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ubp5E1f2Ns2WM4YZgu1dEh8Ls58wMHXSz2hnSVae.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Parallel operation of Transformers (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24fdc62c-5761-4289-adf0-4946827675c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28  ||  Magnetising current phenomenon & tests of transformer",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/drzUBP7LDfk",
+      "hd_video_url": "https://www.youtube.com/embed/drzUBP7LDfk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3ZaxvlqJbWmb3X7wpA8MIo4HM1kjzh2QpYxPcEuD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28  ||  Magnetising current phenomenon & tests of transformer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de7aa8e2-6bb0-458f-b228-0b25c9312d4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || 3-phase induction motor introduction",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MCyUbJDYnkA",
+      "hd_video_url": "https://www.youtube.com/embed/MCyUbJDYnkA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZhtxDcZckoOOzicZLLrW6SF8f29lE3W31Qp42B1q.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || 3-phase induction motor introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f99b7cb-ba7e-43bf-a8bd-5de970ddbe6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Construction of 3-phase induction motor",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/jPAgZLw0-NQ",
+      "hd_video_url": "https://www.youtube.com/embed/jPAgZLw0-NQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YlrWpPeovyuuvvchhvwF9y9wz81Y2SfMV7YeDbHX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Construction of 3-phase induction motor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8989c0e5-574f-4ce8-8bf8-9af6f86cd0aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Doubt Session",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/fY2dl5NTKi4",
+      "hd_video_url": "https://www.youtube.com/embed/fY2dl5NTKi4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LVjyfk0afxLRp5wjDuXceCwgExkJbaAkynb31Pq3.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Doubt Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb938ae2-458f-43ec-a251-53b9f2e7854b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Working & Equivalent Circuitof 3-Phase Induction Machines",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/AmejXUDxiq8",
+      "hd_video_url": "https://www.youtube.com/embed/AmejXUDxiq8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/46Fntep0Frl3W56bNInT3WRdqt4J00QDqvNWlfFR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || Working & Equivalent Circuitof 3-Phase Induction Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a6e529e-ae8a-4a77-8ce9-c30385983591.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 ||  Torque Equation of 3-Phase induction Machines",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pTGk1cD_KsY",
+      "hd_video_url": "https://www.youtube.com/embed/pTGk1cD_KsY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LmgEpsuue6f44FJ8tjrqhwHEunoeE52hETFcxBHD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 33 ||  Torque Equation of 3-Phase induction Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd7d9876-36b8-43bb-b1fd-7e205bb8b7c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || Torque slip characteristics of 3-phase induction Motors",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/-a0RfQPE5ik",
+      "hd_video_url": "https://www.youtube.com/embed/-a0RfQPE5ik",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/42EhX7Ww4hakPQgDgRZ7OSwuZiKIPaCkuNQp4FsT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 34 || Torque slip characteristics of 3-phase induction Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e08b9032-6b47-47c4-b486-9fb40be33bb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || Starters & Braking methods of 3-Phase induction machines",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RC4ygaTpjXI",
+      "hd_video_url": "https://www.youtube.com/embed/RC4ygaTpjXI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kObMyajdclII3pGuHUxge1qhYqLW2iyqbLiTsSyp.jpg",
+      "notes": [
+        {
+          "title": "Lecture 35 || Starters & Braking methods of 3-Phase induction machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81d94153-0aae-43ab-80c6-e29589cb37a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 ||  Speed control of 3-Phase induction motors",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/xw6VF-O2MQQ",
+      "hd_video_url": "https://www.youtube.com/embed/xw6VF-O2MQQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iSlRvz7phl82nwnpK9Fh3Zjx0EMSDjHwnfUOnToV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 36 ||  Speed control of 3-Phase induction motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/604286f4-7453-4778-9aa5-9ca82b11b4bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || Losses, efficiency, Cogging, Crawling of 3-Phase induction Motors",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cGKKr4v5xyc",
+      "hd_video_url": "https://www.youtube.com/embed/cGKKr4v5xyc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dmjhNgAhEXF3B1fCaoKBc7wYTKdV12alX1pQHw7o.jpg",
+      "notes": [
+        {
+          "title": "Lecture 37 || Losses, efficiency, Cogging, Crawling of 3-Phase induction Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eaf131e8-a21f-4b2f-937c-b5cbb5499147.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 ||  Consturction and working of 1-Phase induction motors",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/o9EVyftOkfw",
+      "hd_video_url": "https://www.youtube.com/embed/o9EVyftOkfw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MKEqsrcls3fpFufX3bTEY2iUvHKuUkSb7pQ50gUc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 38 ||  Consturction and working of 1-Phase induction motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2b250dd-5fae-42ab-a443-4208915b356a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || Split phase Induction Motors, Capacitor start, Capacitor start capacitor run, Shaded pole Induction Motors",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/bG8NOQRU5YY",
+      "hd_video_url": "https://www.youtube.com/embed/bG8NOQRU5YY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rQ06dDop6H7XuYKS5cSgagFmSFkgHig2wBTVHzoE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 39 || Split phase Induction Motors, Capacitor start, Capacitor start capacitor run, Shaded pole Induction Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/040a5694-722b-4d67-a4d8-5c7a8cb70c8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || Consturction and working of 1-Phase induction motors",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/8T8E_p1_t1k",
+      "hd_video_url": "https://www.youtube.com/embed/8T8E_p1_t1k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BUPZ1O3cfMEFvN8zoTORz2C0Tf09hUEhan7qSyjU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 40 || Consturction and working of 1-Phase induction motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f923e4c-f952-4e01-a821-b7adadbf0e80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || Split phase Induction Motors, Capacitor start, Capacitor start capacitor run, Shaded pole Induction Motors",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MG9WTza3KPQ",
+      "hd_video_url": "https://www.youtube.com/embed/MG9WTza3KPQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nH2lFnMMWIYw4TPnZw3H9CneSk8gumtasHeaBB6d.jpg",
+      "notes": [
+        {
+          "title": "Lecture 41 || Split phase Induction Motors, Capacitor start, Capacitor start capacitor run, Shaded pole Induction Motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6d71b3c-e72a-425c-84f0-b2cecd61de31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || Hysteresis, Switched Reluctance motors, stepper motors",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Qp2PWB0ju0E",
+      "hd_video_url": "https://www.youtube.com/embed/Qp2PWB0ju0E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r6d6nNVRZ5N5BmXD0x7GORpji6PFmkbwgoVcf1F2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 42 || Hysteresis, Switched Reluctance motors, stepper motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77a80104-8dc7-4aa1-9304-fc15708b86c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 ||  Construction & Working of 3-phase Synchronous Machines",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ijdrDykifQg",
+      "hd_video_url": "https://www.youtube.com/embed/ijdrDykifQg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WqOmAPJfTjvG6aTHgaj2OGaVNWc2c56u1qdSCXAW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 ||  Construction & Working of 3-phase Synchronous Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37231fae-d632-4e60-959b-3958a712a2e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || Armature reaction of 3-Phase synchronous generators at unity , Lagging pf & Leading pf",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/RVqwDiMUrFI",
+      "hd_video_url": "https://www.youtube.com/embed/RVqwDiMUrFI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ajH27xINSwAizGJqgkWomxEBSUQ0dDyWNiP4AmAu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 || Armature reaction of 3-Phase synchronous generators at unity , Lagging pf & Leading pf",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/867cf491-3478-40f9-a230-6dc32b4b011f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || Voltage Regulation of 3-Phase Synchronous generators",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/4w2udwcmmxs",
+      "hd_video_url": "https://www.youtube.com/embed/4w2udwcmmxs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y6bBoCqQFzmwVOdRuikcdIO7pMfdR7fBvN7VFpBu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 45 || Voltage Regulation of 3-Phase Synchronous generators",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b5ed3a2-9199-422a-8de4-f5bf980fd4f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || Power flow, Synchronous condenser & important curves in synchronous machines in Synchronous Machines",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/HuNJD_O4DyA",
+      "hd_video_url": "https://www.youtube.com/embed/HuNJD_O4DyA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5BFnmbasU1UFJirDL32WUVLdj95ntAzfUwR57WZ1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 46 || Power flow, Synchronous condenser & important curves in synchronous machines in",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83ce4102-5ae5-4878-85ce-b78a604f12e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 ||  Voltage Regulation of 3-Phase Synchronous generators",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EnXyszJf8Ek",
+      "hd_video_url": "https://www.youtube.com/embed/EnXyszJf8Ek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BHNZU5YV7ljTMyELxnNftKbdi2NhUVj4VMxQPOPx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 47 ||  Voltage Regulation of 3-Phase Synchronous generators",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02f3372d-8d68-4e90-aad9-8336697ae237.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 || Power flow, Synchronous condenser & important curves in synchronous machines in Synchronous Machines",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/5JSSPsrsBIM",
+      "hd_video_url": "https://www.youtube.com/embed/5JSSPsrsBIM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JntzlkVQl4ANbNExZ3w06tJ6SMxwt6Sumf5wD2V8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 || Power flow, Synchronous condenser & important curves in synchronous machines in Synchronous Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1eea2f7-7fff-4f21-9902-71e089c4aaae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 || Parallel Operation of Synchronous Machines",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hbQqG9sfo74",
+      "hd_video_url": "https://www.youtube.com/embed/hbQqG9sfo74",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cHz2aEUbY67td7khCoeM6o2ABm9YKzE3mlDQDy7V.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 || Parallel Operation of Synchronous Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d06c25f9-3226-4894-830e-96a19400205b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 || Working of 3-Phase synchornous motors",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ieNXrsfHzy8",
+      "hd_video_url": "https://www.youtube.com/embed/ieNXrsfHzy8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AYOq6Xie32eMxFvQaf3Y51CSNy4RzDctg5nRoq01.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 || Working of 3-Phase synchornous motors",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d9f1471-fff5-40af-848e-1914a32ab036.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 ||  Starting methods of synchronous motors, Synchronizing coefficient",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/39ubFNoQ3QE",
+      "hd_video_url": "https://www.youtube.com/embed/39ubFNoQ3QE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DKHxBqaXgbbzhmz7P6VUnWbJ6Me1ScgjC3i65qel.jpg",
+      "notes": [
+        {
+          "title": "Lecture 51 ||  Starting methods of synchronous motors, Synchronizing coefficient",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31584481-84c1-47e7-ab66-d6de6b0141a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 52 || Electrical Machine Question Practice",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/V5RiABZHdOQ",
+      "hd_video_url": "https://www.youtube.com/embed/V5RiABZHdOQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qxQhpd6u4OKMlK8yGCyNVxR0kFWK7OEXiyo9DC1R.jpg",
+      "notes": [
+        {
+          "title": "Lecture 52 || Electrical Machine Question Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f240177b-e2f6-43bb-a888-9685ead2d31f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

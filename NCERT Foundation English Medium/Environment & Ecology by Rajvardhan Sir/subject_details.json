@@ -1,0 +1,177 @@
+{
+  "subject_name": "Environment & Ecology by Rajvardhan Sir",
+  "subject_id": 6071,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientation",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222354/kgss-1743759035-v222354.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6KvvwBAu37o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/i7lfbvrCvaFxp84jdGQPAj9taLnV0JlB0LzQo09v.png",
+      "notes": [
+        {
+          "title": "lecture-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c875506-67a2-426a-88ab-6573ee0ed93e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Organism & Population Part 01",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222816/kgss-1743845859-v222816.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MFi0D89pcfI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/l8MCoHARUMueGN7hcr7HEOQxJzECvb8VSCNZLf1C.jpg",
+      "notes": [
+        {
+          "title": "lecture-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45cb7fcc-909c-47dc-adbc-726125be9854.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Organism & Population Part 02",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223179/kgss-1744019162-v223179.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/08D_nh4w2_M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kv2SnYL6YMJEpqxmd8g0xZdi4efh8KiXQte6akOC.jpg",
+      "notes": [
+        {
+          "title": "lecture-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ca1582c-67ca-45f6-8265-02003e7fd704.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Organism & Population Part 03",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223564/kgss-1744105346-v223564.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-_ScE59-PDg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pqo4Ey9zln999FwGF9eiSUSRI12Kf3sXzGBZekQj.jpg",
+      "notes": [
+        {
+          "title": "lecture-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/736fc1c8-e58a-4712-9b4d-e5c16347cfc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Organism & Population Part 04",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224623/kgss-1744192271-v224623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-JQ0NzaBtFM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9XVdtMFFpaks1Ho296cyI3QSymladYz8fKRaMn7V.jpg",
+      "notes": [
+        {
+          "title": "lec-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77e809c3-5cb2-4b33-a47a-b4a3f71ebcaa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Organism & Population Part 05",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225438/kgss-1744277720-v225438.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2Mg2m8QyV2E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9ba41bd2.jpg",
+      "notes": [
+        {
+          "title": "lec-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30068dfd-f30f-40f8-9d1e-4796c3a7fe56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Ecosystem Part 01",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225865/kgss-1744365533-v225865.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Sh9ps-WS6ng",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9babcb68.jpg",
+      "notes": [
+        {
+          "title": "lecture-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9226cbda-31b1-4375-8069-bd4d05c4654a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Ecosystem Part 02",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226969/kgss-1744449544-v226969.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k3tBkTx3JGw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/s19aQURbfObdwVkXW4UnVsmni1VhAUL10plnVwoc.jpg",
+      "notes": [
+        {
+          "title": "l8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/499a363c-da49-48a1-9469-16caad0856d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Ecosystem Part 03",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227473/kgss-1744709978-v227473.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jnv_WmS2i08",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/STvlGqaqCm0m6NCSv5TFqoSgblfGLnAFq2Gv3Jrb.jpg",
+      "notes": [
+        {
+          "title": "lecture-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cebac7f-9b43-4373-83b2-3c6651e99e5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Biodiversity & Conservation - Part 01",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228089/kgss-1744796747-v228089.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CKr5fWdOJqU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bbacf0b.jpg",
+      "notes": [
+        {
+          "title": "lecture-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0cb7d12-98f1-4a07-9f09-4bfafb526deb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Biodiversity & Conservation - Part 02",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228591/kgss-1744883890-v228591.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kiIimdq6l2w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bc2e001.jpg",
+      "notes": [
+        {
+          "title": "lecture-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc2c0352-41c8-4b70-945a-2302544d5d62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Biodiversity & Conservation - Part 03",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229038/kgss-1744970156-v229038.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KgYLegh6CzI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bca653f.jpg",
+      "notes": [
+        {
+          "title": "lecture-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9259d8bb-c4a4-490d-947a-a30e05e634be.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "IBPS PO/CLERK (Pre + Mains) Target batch 2025",
+    "price": "499",
+    "id": "734",
+    "extracted_date": "2025-08-27T13:28:15.568266"
+  },
+  "subjects": [
+    {
+      "name": "Reasoning By Shantanu Sir",
+      "id": 7411,
+      "video_count": 40,
+      "note_count": 39
+    },
+    {
+      "name": "Banking Awareness By Sukesh Sir",
+      "id": 7412,
+      "video_count": 40,
+      "note_count": 40
+    },
+    {
+      "name": "Quant by Bharat Gupta Sir",
+      "id": 7413,
+      "video_count": 44,
+      "note_count": 44
+    },
+    {
+      "name": "Current Affairs By Yadavendra Sir",
+      "id": 7414,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "English By Gazala Ma'am",
+      "id": 7417,
+      "video_count": 29,
+      "note_count": 29
+    }
+  ]
+}

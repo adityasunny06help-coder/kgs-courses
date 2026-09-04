@@ -1,0 +1,37 @@
+{
+  "subject_name": "Special Session By Jitesh Parashar Sir ( physics )",
+  "subject_id": 4567,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "व्याख्यान- 01 ||  प्रकाशिक यंत्र  ( किरण प्रकाशिकी )",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ww36DPsTi6A",
+      "hd_video_url": "https://www.youtube.com/embed/ww36DPsTi6A",
+      "thumbnail": "https://i.ytimg.com/vi/ww36DPsTi6A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - व्याख्यान- 01 ||  प्रकाशिक यंत्र  ( किरण प्रकाशिकी )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/629d5d1e-8cd1-47c2-992e-b402e6de08fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "व्याख्यान- 02 || प्रकाशिक यंत्र ( किरण प्रकाशिकी ) - 2",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/LwQaAbG4Q20",
+      "hd_video_url": "https://www.youtube.com/embed/LwQaAbG4Q20",
+      "thumbnail": "https://i.ytimg.com/vi/LwQaAbG4Q20/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - व्याख्यान- 02 || प्रकाशिक यंत्र ( किरण प्रकाशिकी ) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aaae45d0-e9ba-48fd-b167-d5228413eda8.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

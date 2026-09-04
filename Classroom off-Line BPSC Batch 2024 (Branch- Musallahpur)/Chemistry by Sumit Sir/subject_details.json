@@ -1,0 +1,149 @@
+{
+  "subject_name": "Chemistry by Sumit Sir",
+  "subject_id": 2777,
+  "video_count": 10,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-01/l-01-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hdLfagsPWsg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ojOEs8Km1334VivGbwwcJIQpwNuDs49Y77vVSECZ.jpg",
+      "notes": [
+        {
+          "title": "Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d349599-63dd-4e2e-afd5-6c6a943f7eeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || गैसीय नियम (Gaseous Laws)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-02/l-02-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5zdPlfSUQbg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EwCkEiyKOXyGa6UEG5QjFljOF4gXrvthd3MjRFD8.jpg",
+      "notes": [
+        {
+          "title": "गैसीय नियम (Gaseous Laws)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/855d66b4-edf8-401e-bf81-233324138fff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || अम्ल क्षार और लवण (Acid Base and Salt) Part-1",
+      "published_date": "22 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-03/l-03-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/osmLtQ_AaAc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fWs1j6jUH9TpxTcq7XJNgFEzinI0Hss7KwF4noJi.jpg",
+      "notes": [
+        {
+          "title": "अम्ल क्षार और लवण (Acid, Base and Salt)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/196347c8-a216-497d-b27b-9f7e6fcec22f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || अम्ल क्षार और लवण (Acid Base and Salt) Part-2 & रेडियो सक्रियता (Radioactivity)",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-04/l-04-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JT_sMSnijXw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/C2uB1EOz4EBbkrK4p6kUsSveudbxv58jl8S21j7j.jpg",
+      "notes": [
+        {
+          "title": "अम्ल क्षार और लवण (Acid Base and Salt) Part-2 & रेडियो सक्रियता (Radioactivity)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f008bb6-17bb-4ba3-ace9-0e5c5f88c50e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || रासायनिक बंधन & ऑक्सीकरण एवं अपचयन (Chemical Bonding & Oxidation and Reduction)",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-05/l-05-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YO_wYaD2JKI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cYwfgMukEDFTyHCmYLtFmF9iW9hSIxVJ4ymvG3nC.jpg",
+      "notes": [
+        {
+          "title": "रासायनिक बंधन & ऑक्सीकरण एवं अपचयन (Chemical Bonding & Oxidation and Reduction)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/116f9e57-a9cd-4a2a-8df6-f75e7145698d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || कार्बनिक रसायन (Organic Chemistry) Part-1",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-06/l-06-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qv_vcNf-Fzs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cuwEXk2QnuhSLXt1OXWpgF1RDLUlytHzZhWgvaiJ.jpg",
+      "notes": [
+        {
+          "title": "कार्बनिक रसायन (Organic Chemistry) Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5bcb435-7450-4017-afb2-81dde8b231ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || कार्बनिक रसायन (Organic Chemistry) Part-2",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-07/l-07-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k7q5xNIPB2g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8oVfBvPjvSmQHg6u27yk8tsxgTiMideY5cOg3fe8.jpg",
+      "notes": [
+        {
+          "title": "कार्बनिक रसायन (Organic Chemistry) Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38568b87-9ea5-4cf8-ba1e-909042059f2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || कार्बनिक रसायन (Organic Chemistry) Part-3",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-08/l-08-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d1wTuXmq6rI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/W27DpW0YA0FtqB2qfBlL4j1AmR5g6MKLWJugdxTt.jpg",
+      "notes": [
+        {
+          "title": "कार्बनिक रसायन (Organic Chemistry) Part-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6d03a4e-2a70-4b70-990d-3c6d9dbe15e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || कार्बनिक रसायन (Organic Chemistry) Part-4",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-09/l-09-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X02aOzZEaIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/w9wQ06r7X1Gf7haYDCA7UQN6aGdAMYLg9pJk521p.jpg",
+      "notes": [
+        {
+          "title": "कार्बनिक रसायन (Organic Chemistry) Part-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b56c67e-c8ad-4263-8847-7d4c2ab181ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || कार्बनिक रसायन (Organic Chemistry) Part-5 ( Last Class)",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/chemistry-sumit-sir/l-10/l-10-chemistry-sumit-sir-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iKPSkVF46Aw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/N1zEQfrydhK3liOHyFLgTtDPmiiNyl58A4GCiZA1.jpg",
+      "notes": [
+        {
+          "title": "कार्बनिक रसायन (Organic Chemistry) Part-5 ( Last Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d55d38d7-05a9-49f9-a5c0-eca2e45f3cf3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

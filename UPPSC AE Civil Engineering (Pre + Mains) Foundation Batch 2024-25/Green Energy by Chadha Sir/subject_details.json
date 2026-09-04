@@ -1,0 +1,121 @@
+{
+  "subject_name": "Green Energy by Chadha Sir",
+  "subject_id": 5093,
+  "video_count": 8,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction Class",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/wk-O8V5hRy8",
+      "hd_video_url": "https://www.youtube.com/embed/wk-O8V5hRy8",
+      "thumbnail": "https://i.ytimg.com/vi/wk-O8V5hRy8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52e74a96-c4bf-4184-adec-d98c51f7ddcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Solar Energy",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/F6J4VRkffkw",
+      "hd_video_url": "https://www.youtube.com/embed/F6J4VRkffkw",
+      "thumbnail": "https://i.ytimg.com/vi/F6J4VRkffkw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Solar Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b15d242-c38e-42b0-8bd8-54dbdfa2573c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Wind Energy",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/X80G8Tgc9FI",
+      "hd_video_url": "https://www.youtube.com/embed/X80G8Tgc9FI",
+      "thumbnail": "https://i.ytimg.com/vi/X80G8Tgc9FI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Wind Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e237376e-db9a-4ff6-b2d3-64b65f76eab8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Hydropower Energy",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uybvp0u9R88",
+      "hd_video_url": "https://www.youtube.com/embed/uybvp0u9R88",
+      "thumbnail": "https://i.ytimg.com/vi/uybvp0u9R88/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Hydropower Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfc2e706-0668-41fc-aa3c-0f011adb7e70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Biomass, Geothermal & Ocean Energy",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/7ropuqIFdBk",
+      "hd_video_url": "https://www.youtube.com/embed/7ropuqIFdBk",
+      "thumbnail": "https://i.ytimg.com/vi/7ropuqIFdBk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Biomass, Geothermal & Ocean Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b34785e-e1fe-44b0-8d46-494acf129302.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Non Renewable Energy",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/eKHAXG2XNuE",
+      "hd_video_url": "https://www.youtube.com/embed/eKHAXG2XNuE",
+      "thumbnail": "https://i.ytimg.com/vi/eKHAXG2XNuE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Non Renewable Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3446e1af-c0fb-4284-a960-b6e27a0ad63b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Energy Conservation",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/mGFu2ORi3Fs",
+      "hd_video_url": "https://www.youtube.com/embed/mGFu2ORi3Fs",
+      "thumbnail": "https://i.ytimg.com/vi/mGFu2ORi3Fs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Energy Conservation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6456e340-91d4-4e98-995d-73c667c7adb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Policies Related To Green Energy",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/oNUXEOn6Xhs",
+      "hd_video_url": "https://www.youtube.com/embed/oNUXEOn6Xhs",
+      "thumbnail": "https://i.ytimg.com/vi/oNUXEOn6Xhs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Policies Related To Green Energy",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b949db0b-b22d-4f75-ad0c-2a0e9af901d1.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,466 @@
+{
+  "subject_name": "Math By Amit Sir",
+  "subject_id": 7505,
+  "video_count": 33,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction & Calculation-01",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Fvb3CKz77Ek",
+      "hd_video_url": "https://www.youtube.com/embed/Fvb3CKz77Ek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ygEqzo54TtKnFjZCQLpsWjVMnuGzlgc7aIyZ28RA.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction & Calculation-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dac2c88-5fb9-45db-9ca0-108592ed799f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Calculation-02",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BQLya_zvf84",
+      "hd_video_url": "https://www.youtube.com/embed/BQLya_zvf84",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a67Gj2zmiOEyWKaZ5LZgvTIB8SyqBqgOvJwqACtM.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Calculation-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/249a497d-f719-4fcd-9bfe-65b2e874bd48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Calculation-03",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/tYigU0wjKEY",
+      "hd_video_url": "https://www.youtube.com/embed/tYigU0wjKEY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SrIIY7uvB3F4o7p99MxwzctZ6P120kA4oUgEVC5S.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Calculation-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e500a91-9842-42f9-bd3c-3148c1dab604.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Calculation-04",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-NLQNjTamwI",
+      "hd_video_url": "https://www.youtube.com/embed/-NLQNjTamwI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h73OluwGpIiLpvXlwCJfbhDgnvJpmZS0AZ6Jdca3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Calculation-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9934f01b-e452-4391-ba06-9371d2e6e538.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Square Root",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/AxZ40Wb2zTc",
+      "hd_video_url": "https://www.youtube.com/embed/AxZ40Wb2zTc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Fw3xnfrBomPdNTbDssDYgpqxmDhOXqCGtVvV5zGo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Square Root",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54ad0e17-0a77-4603-aa28-91dfdf3a2a5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Square Root",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/oWzRieALzFw",
+      "hd_video_url": "https://www.youtube.com/embed/oWzRieALzFw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iFnOcfeKNyMRzqNoJl6AAlCvwh5ny5ghpoy2VgZf.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Square Root",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb9003ea-106f-4edb-a7d0-6592a985c585.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Square Root",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/QgsoKj90Nc0",
+      "hd_video_url": "https://www.youtube.com/embed/QgsoKj90Nc0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fd5FhezrV5QlQ1bAnOIExmmvHtw3C3JWZwQZJRhR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Square Root",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c945321-214e-4c73-8c31-1e6e0797d5e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Divisibility Rule",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/UhbSBqD86dI",
+      "hd_video_url": "https://www.youtube.com/embed/UhbSBqD86dI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Pq5Sz8UFoWkZz8vABypMtO8i7HR8nWwKr6dhHVF0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Divisibility Rule",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/212218cb-b96c-439a-8283-7e0414d054db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Divisibility Rule",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/_pCYyVyqvCE",
+      "hd_video_url": "https://www.youtube.com/embed/_pCYyVyqvCE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2uHWm9A9lqrf8p2UTxG3pDkwUjzB9LSOHWQKM4Ce.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Divisibility Rule",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b277016e-b73a-46b0-bd57-3866621b842a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Divisibility Rule",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zct6-Ae3rKA",
+      "hd_video_url": "https://www.youtube.com/embed/zct6-Ae3rKA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ohTwEmNG0tDUw2piP2CYhzWnsxQlrh1dy9rmzCSJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Divisibility Rule",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/720a6869-ea01-46d7-b378-e6367a4b1b85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Divisibility Rule",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iHbEj-25GaI",
+      "hd_video_url": "https://www.youtube.com/embed/iHbEj-25GaI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/t71tmojUQ8CAv9QqenFOv8As0SFo1pEqqJVOLyWL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Divisibility Rule",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5fa4c88-b0f6-41df-9033-03dc45fd0ab0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Approximation",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PUmst2qkCLc",
+      "hd_video_url": "https://www.youtube.com/embed/PUmst2qkCLc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XwzYiaKvY8AENzhpQ3ciRaeaUNrTBR4WHzutGpeZ.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || Approximation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffeaade8-22aa-4d18-badc-8cdc186b94a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Unit Digit",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/aD7RMgLOwTw",
+      "hd_video_url": "https://www.youtube.com/embed/aD7RMgLOwTw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GgvP3afuuvvueItHeNIwj1pPM47gr5Jdibrbj3CY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Unit Digit",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/115c6c7c-c0d4-49f6-bd3d-eb2c79dd74a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Unit Digit",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XBcE7VmfnsI",
+      "hd_video_url": "https://www.youtube.com/embed/XBcE7VmfnsI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/t7G53v2pKFdfpfFgxPwVIkSugC1ojh2ZXe62Stb5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Unit Digit",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a0484c0-122d-455f-9be1-8834148ca46b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Unit Digit",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zXhpaz8whuM",
+      "hd_video_url": "https://www.youtube.com/embed/zXhpaz8whuM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tUuThSQ3Zgo04AMT31yJKUTsEaHSZEXJbtfxz4I5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Unit Digit",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71d929d9-e7dd-41b8-9992-56e63e0e2002.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Unit Digit",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/RiTpz4tJjCs",
+      "hd_video_url": "https://www.youtube.com/embed/RiTpz4tJjCs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vYJF4j40QOhvM0y1lT8rfLodrfACloMLQXcIGk3H.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Unit Digit",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4854321-6e58-4d63-9b11-8c670b22a75d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Ratio & Proportion (अनुपात और समानुपात) Part-01",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/q2MaawbBt7U",
+      "hd_video_url": "https://www.youtube.com/embed/q2MaawbBt7U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gdsFFsC8hs9M6KEy65F68jzxUshhhu75D7imMWtc.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Ratio & Proportion (अनुपात और समानुपात) Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bb590cd-1efd-4ae7-916b-5f3837aeb81e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Ratio & Proportion (अनुपात और समानुपात) Part-02",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vg8K7p5vXqk",
+      "hd_video_url": "https://www.youtube.com/embed/vg8K7p5vXqk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HFh1pi8VSHj1leXCAQEVpRoWpHLE93ThldRK2oXL.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Ratio & Proportion (अनुपात और समानुपात) Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/726edba4-16ee-468d-bf1b-3a51bdc50837.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Ratio & Proportion (अनुपात और समानुपात) Part-03",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/tkPpU09Mf28",
+      "hd_video_url": "https://www.youtube.com/embed/tkPpU09Mf28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5B18antXl7ZIYoyneVjUxJ2hCvapvqgB2SDPqeZ5.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || Ratio & Proportion (अनुपात और समानुपात) Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58cb93e9-b6f0-4f57-8e0e-30b7cf74bfd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Ratio & Proportion (अनुपात और समानुपात) Part-04",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BYjMML8egDM",
+      "hd_video_url": "https://www.youtube.com/embed/BYjMML8egDM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yVYVu7b1IM9oPwpFEYtaq7eHjuBYg2WoAFwUOt7h.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Ratio & Proportion (अनुपात और समानुपात) Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b05e82ec-9f1e-470d-8eaa-1cd6c27f0a59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Ratio & Proportion (अनुपात और समानुपात) Part-05",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/E0AQjvwAsgE",
+      "hd_video_url": "https://www.youtube.com/embed/E0AQjvwAsgE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vu7htNKzxOljBXr9YFh1SxZvtr69QxBsz22gvb7j.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Ratio & Proportion (अनुपात और समानुपात) Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38b74977-2818-4875-ba2e-e48c5e75e7cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Ratio & Proportion (अनुपात और समानुपात) Part-06",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/lF9doQV2wUw",
+      "hd_video_url": "https://www.youtube.com/embed/lF9doQV2wUw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/653xRenpyvCXuxk6sBpZupLF2FGtzh1MgG1L4eJj.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || Ratio & Proportion (अनुपात और समानुपात) Part-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bae27c65-ff28-4f6c-82de-1a8a5b1d9362.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Ratio & Proportion (अनुपात और समानुपात) Part-07",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NcmTzSKqLl8",
+      "hd_video_url": "https://www.youtube.com/embed/NcmTzSKqLl8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QfkdoTs7T3ZHnttoFrAOkGW45NIkx7tiNYt02wuX.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Ratio & Proportion (अनुपात और समानुपात) Part-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/682e606c-4269-4ec1-828b-7aa7f854de10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Ratio & Proportion (अनुपात और समानुपात) Part-08",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/XTuu-45ASM0",
+      "hd_video_url": "https://www.youtube.com/embed/XTuu-45ASM0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z0mENQG0XqkX87M05IzUFIwYL1wvJBfhLkTPAJMN.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Ratio & Proportion (अनुपात और समानुपात) Part-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/602d2458-2764-44be-b1d3-2beb3fc33798.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Ratio & Proportion (अनुपात और समानुपात) Part-09",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/4EOtIX4nNEc",
+      "hd_video_url": "https://www.youtube.com/embed/4EOtIX4nNEc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VYTHvTI7mqE6fVpWKdB6ra1Heg52heRpFvSOayl7.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Ratio & Proportion (अनुपात और समानुपात) Part-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c388e955-15d1-4554-86dd-b161bcc1f1b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Ratio & Proportion (अनुपात और समानुपात) Part-10",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YyTb_3ePKyg",
+      "hd_video_url": "https://www.youtube.com/embed/YyTb_3ePKyg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o0C9i1lEcbCvVgRXAEPG1kacqMlAcycOJ1W3rv1N.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Ratio & Proportion (अनुपात और समानुपात) Part-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28954f04-4734-4230-8acc-1ad6b95962a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Ratio & Proportion (अनुपात और समानुपात) Part-11",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qw4t5tSMNO0",
+      "hd_video_url": "https://www.youtube.com/embed/qw4t5tSMNO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DBrMalye9qwkcXQPqrJFT3TjmFG3ETCYLilBpCpy.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Ratio & Proportion (अनुपात और समानुपात) Part-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a732451c-7d1c-45e7-a7b6-6f274b9bfe55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Ratio & Proportion (अनुपात और समानुपात) Part-12",
+      "published_date": "17 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/DPOSXdoZkSk",
+      "hd_video_url": "https://www.youtube.com/embed/DPOSXdoZkSk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lt5r0SPWaMBNfMqdFmToCVIQnd0ymkj2i8rcJ7fI.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Ratio & Proportion (अनुपात और समानुपात) Part-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/716d4d45-d8ff-4d36-a7c1-83cec366e423.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Ratio & Proportion (अनुपात और समानुपात) Part-13",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/KO-LLog02MA",
+      "hd_video_url": "https://www.youtube.com/embed/KO-LLog02MA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ObODyyGBqbpiH4P01RWY9cZO0dAN1JhKgOH94VVC.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || Ratio & Proportion (अनुपात और समानुपात) Part-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64caa575-ba51-4a46-9ff6-daa6f35afddd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Time & Work (Part-01)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/BMKbnw628zk",
+      "hd_video_url": "https://www.youtube.com/embed/BMKbnw628zk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/olV6nQKRbb05PGkUKqOAv6x6hcsFpy1s8XLeuq1d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Time & Work (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d80c8d9-c3a3-4b1a-a42f-13d0caec9b54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Time & Work (Part-02)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/63E0EAokXRY",
+      "hd_video_url": "https://www.youtube.com/embed/63E0EAokXRY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a6K6Cri1yTOoWH6aKJESFgMbY9k2V9XwKATACuOt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Time & Work (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/616b201c-158f-44e3-a4ef-db92090f6d85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Time & Work (Part-03)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/LYl7uUTfIqs",
+      "hd_video_url": "https://www.youtube.com/embed/LYl7uUTfIqs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8AbB4GeUATupx5QyrabwDXewPMhpVvTkbbL7TOtA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Time & Work (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b07ad5b-9e43-4393-a029-1e336432c46b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Time & Work (Part-04)",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/EWDWPaiobDA",
+      "hd_video_url": "https://www.youtube.com/embed/EWDWPaiobDA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Et4bBDn9q2Zw7Kmn9Zg2gA3S6v7IAJ3yhINcJPmY.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

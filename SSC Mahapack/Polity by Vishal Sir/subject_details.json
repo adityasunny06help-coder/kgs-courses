@@ -1,0 +1,51 @@
+{
+  "subject_name": "Polity by Vishal Sir",
+  "subject_id": 1932,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction",
+      "published_date": "01 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/ssc-mahapack/polity-vishal-sir/l-01/l-01-intro-polity-vishal-sir-ssc-mahapack.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vhn7SFpQ8rQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319186db113.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fddd942-fb01-4f29-ac53-09f0a29c1d32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Making of the Constitution || संविधान का निर्माण (Part 01)",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/ssc-mahapack/polity-vishal-sir/l-02/l-02-polity-vishal-sir-ssc-mahapack.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VvQpZrPjtqw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319185eb3d9.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Making of the Constitution || संविधान का निर्माण (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b31e0f29-cae8-4984-90dc-f2b6157d487f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Making of the Constitution || संविधान का निर्माण (Part 02)",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jul-2024/90270/kgss-1719998051-v90270.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T4qUXtY71Wo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831918493771.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Making of the Constitution || संविधान का निर्माण (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b3a7325-ab03-40e5-8553-7f504b1e62f2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

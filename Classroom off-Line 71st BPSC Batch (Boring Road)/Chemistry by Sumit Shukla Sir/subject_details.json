@@ -1,0 +1,177 @@
+{
+  "subject_name": "Chemistry by Sumit Shukla Sir",
+  "subject_id": 7458,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/284907/kgss-1751262482-v284907.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mm-w5KbeOx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PQlUnXgjQafC3NIzQO8G4TtMmOOLc6bzQ412Isgk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edb0200e-39ca-4922-b22d-66f964a1a9c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Gaseous Law & Solution || गैसीय नियम और विलयन",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lrs3L4oxJRc",
+      "hd_video_url": "https://www.youtube.com/embed/lrs3L4oxJRc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h6FRhgSTrZBtH2W5YC96aqqq6muSXh2UrxUEslWg.jpg",
+      "notes": [
+        {
+          "title": "Gaseous Law & Solution || गैस नियम और विलयन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df6c3eb1-08fd-4b3f-8ebd-b19f26ccc3a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Acid, Base & Salt || अम्ल, क्षार और लवण",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/287613/kgss-1751436645-v287613.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cKjxV5hDgNw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bm8IRu2E586dG4ryPYMgdos0uvJz2zg1V3tNiwKD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Acid, Base & Salt || अम्ल, क्षार और लवण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef624d96-91a9-41a1-82af-8a10d16d1f60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Acid, Base, Salt & Radioactivity || अम्ल, क्षार, लवण और रेडियो सक्रियता",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/289273/kgss-1751522137-v289273.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pixP1T3QOQU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NpCAuw1XirNOTumCg2EEAmtX7zNM1rhQfvf3XDeg.jpg",
+      "notes": [
+        {
+          "title": "Acid, Base, Salt & Radioactivity || अम्ल, क्षार, लवण और रेडियो सक्रियता",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cee26083-06ef-488f-bd11-a3102f056ef2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Radioactivity & Chemical Bonds || रेडियो सक्रियता और रासायनिक बंधन",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lbWdP4KVrlM",
+      "hd_video_url": "https://www.youtube.com/embed/lbWdP4KVrlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hCVVQ2SYi4QpsHaR2XWrgvVqjHNPyx6UBvbe9pTV.jpg",
+      "notes": [
+        {
+          "title": "Radioactivity & Chemical Bonds || रेडियो सक्रियता और रासायनिक बंधन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8112e3b4-ceac-4178-92ff-289db0713537.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Chemical Bonds || रासायनिक बंधन",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/290815/kgss-1751705764-v290815.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uc4QBjvMX8E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oH2DQlQmkx1Rwb9H825T0tMrE3aD1ICqnV2LpSyQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Chemical Bonds || रासायनिक बंधन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ab737a5-672e-447f-9e1b-b054cfcf2f11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Chemical Reaction & Organic Chemistry || रासायनिक अभिक्रिया तथा कार्बनिक रसायन विज्ञान",
+      "published_date": "06 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292535/kgss-1751793213-v292535.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9TCy05vnfT4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YW9FPP7m3iRHGKKkIG5Yawc4rHrqouhBth1cFcQL.jpg",
+      "notes": [
+        {
+          "title": "Chemical Bonds & Organic Chemistry || रासायनिक बंधन तथा कार्बनिक रसायन विज्ञान",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77b7702a-1e1e-47b3-b798-8268d15692b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Organic Chemistry || कार्बनिक रसायन विज्ञान",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292568/kgss-1751867884-v292568.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/x673eRVu-bs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YagaqjcwTCnXk7BAvK09mXDpjoSgGMX18LlDoRTr.jpg",
+      "notes": [
+        {
+          "title": "Organic Chemistry || कार्बनिक रसायन विज्ञान",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5169a61-d3d9-433e-b6b2-4f46f428d6b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Chemical Bonds || रासायनिक बंधन",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/293059/kgss-1751953661-v293059.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1W7Zyui6A0o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q84rn6ElvqWtfyzYjGH8kFqXFZLOeumSQmKXnzFV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Chemical Bonds || रासायनिक बंधन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34dc37b7-198b-4fe5-8496-44c1ecd65435.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Inorganic Chemistry || अकार्बनिक रसायन शास्त्र",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294187/kgss-1752039990-v294187.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OKp9wlQzibw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iqdRlL0EJ4bl3RUeFk07BVMEJRpei0Ir8KsOgprW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Inorganic Chemistry || अकार्बनिक रसायन शास्त्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a468f9e-bd9b-4f92-b128-80bab60dd314.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Inorganic Chemistry || अकार्बनिक रसायन शास्त्र",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294902/kgss-1752127271-v294902.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HYcuxbRjXEA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2UtT7XCwpxZLuz0oWG1y8mOQQS7xIkBKEoyTh40o.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Inorganic Chemistry || अकार्बनिक रसायन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d07b98c-996b-4d14-bac9-83ca801b86bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Inorganic Chemistry || अकार्बनिक रसायन शास्त्र (LAST CLASS)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/296355/kgss-1752214297-v296355.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IxtECyipY2U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a2ma89C2IrixhiyOTa1iput9IWI8Q8hAxAy8D58F.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Inorganic Chemistry || अकार्बनिक रसायन शास्त्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a01bdc9d-1c17-404f-96e7-fb956b5703c9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

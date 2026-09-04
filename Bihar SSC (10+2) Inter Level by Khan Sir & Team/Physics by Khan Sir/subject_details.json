@@ -1,0 +1,108 @@
+{
+  "subject_name": "Physics by Khan Sir",
+  "subject_id": 1122,
+  "video_count": 11,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 : Friction",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-01/l-01-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/19jxgHjL9Ys",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4f4cf758-452d-421f-bcef-7f3e7b60c138.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 : Distance & Displacement",
+      "published_date": "03 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-02/l-02-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oVfjBODpUts",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e6e00e9d-2c48-4dc6-8e1f-2543aac4dd76.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 : Force",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-03/l-03-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Z89Y0Tf4d-I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9f99bc35-efe2-4d41-8a46-c243fee1b565.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 : Work, Energy and Power",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-04/l-04-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QtzPLq35qdY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fc7f5e8b-8b0f-4282-9bba-df9c1bcd25b7.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 :Gravitation",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-05/l-05-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3xU3sOIO2Qg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a91361cc-dbfa-4f84-8f28-5e49d38c7b8e.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 : Periodic Motion and Pressure",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-06/l-06-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D04kUj77tPY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//92128466-f924-45ba-96f7-dbf09c486c1a.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 : Surface Tension and Elasticity",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-07/l-07-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hiePpZs9ecI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d2e7c476-61cd-4606-9a54-c7c37d89b114.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 : Heat",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-08/l-08-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wWhgDXSPKcA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e9edef9b-cc80-4ae3-9c49-cda3e4d68102.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 : Electric Current 01",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-09/l-09-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hS8xVy3DdK8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a9ed5c9c-5f79-435d-acb8-abd39fbd2f61.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 : Electric current 02 and Magnet",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/physics-khan-sir/l-10/l-10-physics-khan-sie-bihar-si.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cAiV9kM5iSk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//31e05fe9-3f13-4cad-8631-576ff2806a98.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Physics MCQ (Qustions) Revision",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/vFDiLvw6Pk8",
+      "hd_video_url": "https://www.youtube.com/embed/vFDiLvw6Pk8",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,88 @@
+{
+  "subject_name": "Zoology By Ravindra Singh (NZRS Sir)",
+  "subject_id": 8306,
+  "video_count": 6,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Breathing & Exchange of Gases - 1",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/pAxbolAKolo",
+      "hd_video_url": "https://www.youtube.com/embed/pAxbolAKolo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 1 || Breathing & Exchange of Gases - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b7ba4d7-d3d4-4253-bc78-366e6778d665.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Breathing & Exchange of Gases - 2",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/wAzRZ1yDPYw",
+      "hd_video_url": "https://www.youtube.com/embed/wAzRZ1yDPYw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 2 || Breathing & Exchange of Gases - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39c5791a-26b2-45b5-813c-5dad77cdc5a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Breathing & Exchange of Gases - 3",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/WAtCNp7s9Cc",
+      "hd_video_url": "https://www.youtube.com/embed/WAtCNp7s9Cc",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 3 || Breathing & Exchange of Gases - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b994fc7-dc2a-4381-a217-543c93d037a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Breathing & Exchange of Gases - 4",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/qH4LSuqO93Q",
+      "hd_video_url": "https://www.youtube.com/embed/qH4LSuqO93Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 4 || Breathing & Exchange of Gases - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b9bcd66-9fcb-4037-910a-71e81be59fa0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Breathing & Exchange of Gases - 5",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/9AzxOV9ASzg",
+      "hd_video_url": "https://www.youtube.com/embed/9AzxOV9ASzg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 5 || Breathing & Exchange of Gases - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bd2f63f-0e29-4e77-9f66-440dcdeb840c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Breathing & Exchange of Gases - 6",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

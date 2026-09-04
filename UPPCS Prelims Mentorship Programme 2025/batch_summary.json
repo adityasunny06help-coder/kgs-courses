@@ -1,0 +1,34 @@
+{
+  "batch_info": {
+    "title": "UPPCS Prelims Mentorship Programme 2025",
+    "price": "999",
+    "id": "771",
+    "extracted_date": "2025-08-27T13:20:58.375659"
+  },
+  "subjects": [
+    {
+      "name": "Indian Economy by Priya Ranjan Sir",
+      "id": 8117,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Indian Polity by Abhishek Tripathi Sir",
+      "id": 8271,
+      "video_count": 7,
+      "note_count": 7
+    },
+    {
+      "name": "CSAT by Sanjeev Tiwari Sir",
+      "id": 8308,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "History by Dr. Amit Shukla Sir",
+      "id": 8396,
+      "video_count": 3,
+      "note_count": 2
+    }
+  ]
+}

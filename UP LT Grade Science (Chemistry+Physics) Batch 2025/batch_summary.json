@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "UP LT Grade Science (Chemistry+Physics) Batch 2025",
+    "price": "799",
+    "id": "774",
+    "extracted_date": "2025-08-27T13:19:56.315102"
+  },
+  "subjects": [
+    {
+      "name": "Chemistry by Shekhar Sir",
+      "id": 8211,
+      "video_count": 4,
+      "note_count": 2
+    },
+    {
+      "name": "Physics by Jitesh  Sir",
+      "id": 8212,
+      "video_count": 8,
+      "note_count": 7
+    },
+    {
+      "name": "History by Anjali Ma'am (General Studies)",
+      "id": 8213,
+      "video_count": 10,
+      "note_count": 9
+    },
+    {
+      "name": "Geography by Abhishek Sir (General Studies)",
+      "id": 8214,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Economics by Sukesh Sir (General Studies)",
+      "id": 8215,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Prabhu Sir (General Studies)",
+      "id": 8216,
+      "video_count": 9,
+      "note_count": 11
+    },
+    {
+      "name": "General Science by Avinash Sir",
+      "id": 8217,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by Yadvendra Sir",
+      "id": 8218,
+      "video_count": 12,
+      "note_count": 11
+    },
+    {
+      "name": "Mathematics by Deepankar Sir (General Studies)",
+      "id": 8219,
+      "video_count": 12,
+      "note_count": 11
+    }
+  ]
+}

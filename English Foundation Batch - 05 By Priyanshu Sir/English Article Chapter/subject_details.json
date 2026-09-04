@@ -1,0 +1,120 @@
+{
+  "subject_name": "English Article Chapter",
+  "subject_id": 5019,
+  "video_count": 9,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Article - 01",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ElmYG1CA0RY",
+      "hd_video_url": "https://www.youtube.com/embed/ElmYG1CA0RY",
+      "thumbnail": "https://i.ytimg.com/vi/ElmYG1CA0RY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || English By Priyanshu Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2508716-3bb4-4b46-a17a-180aa8996307.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || C letter - 06 & Article - 02",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/PhQOML74vY8",
+      "hd_video_url": "https://www.youtube.com/embed/PhQOML74vY8",
+      "thumbnail": "https://i.ytimg.com/vi/PhQOML74vY8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || English By Priyanshu Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d6df2b0f-0d19-430d-9627-ddc0f74818a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || C letter - 07 & Article - 03",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/sq3o8Ak6TAo",
+      "hd_video_url": "https://www.youtube.com/embed/sq3o8Ak6TAo",
+      "thumbnail": "https://i.ytimg.com/vi/sq3o8Ak6TAo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || English By Priyanshu Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f72054e-7456-4e6a-81fa-66cc3a99d3da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || C letter - 08 & Article - 04",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uAJYJmmvbxU",
+      "hd_video_url": "https://www.youtube.com/embed/uAJYJmmvbxU",
+      "thumbnail": "https://i.ytimg.com/vi/uAJYJmmvbxU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || C letter - 08 & Article - 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1951ad0-93e0-4036-953c-e958bf9fef48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || C letter - 09 & Article - 05",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/sQllzATksAs",
+      "hd_video_url": "https://www.youtube.com/embed/sQllzATksAs",
+      "thumbnail": "https://i.ytimg.com/vi/sQllzATksAs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || C letter - 09 & Article - 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4590e6a-5508-46d7-bcc2-506eada3b470.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || C letter - 10 & Article - 06",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/klzK44mZtOg",
+      "hd_video_url": "https://www.youtube.com/embed/klzK44mZtOg",
+      "thumbnail": "https://i.ytimg.com/vi/klzK44mZtOg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || C letter - 10 & Article - 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3607efe4-96c9-4941-8da9-0bcf884bd3e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -07 || Article Practice Set 01",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/tDZD82e70mI",
+      "hd_video_url": "https://www.youtube.com/embed/tDZD82e70mI",
+      "thumbnail": "https://i.ytimg.com/vi/tDZD82e70mI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -08 || Article Practice Set 02",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/NAAHoRh9vdo",
+      "hd_video_url": "https://www.youtube.com/embed/NAAHoRh9vdo",
+      "thumbnail": "https://i.ytimg.com/vi/NAAHoRh9vdo/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -09 || Article Practice Set 03",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/1H-uWY2RUfM",
+      "hd_video_url": "https://www.youtube.com/embed/1H-uWY2RUfM",
+      "thumbnail": "https://i.ytimg.com/vi/1H-uWY2RUfM/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

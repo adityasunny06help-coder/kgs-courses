@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "NEET 2025 Physics By SSP Sir (Hindi Medium)",
+    "price": "499",
+    "id": "340",
+    "extracted_date": "2025-08-27T16:18:34.649930"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 2532,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Announcement Section",
+      "id": 3262,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Sachin Upadhyay (SSP Sir)",
+      "id": 2593,
+      "video_count": 236,
+      "note_count": 214
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 2598,
+      "video_count": 62,
+      "note_count": 35
+    },
+    {
+      "name": "Test Paper and Solutions",
+      "id": 2685,
+      "video_count": 2,
+      "note_count": 2
+    }
+  ]
+}

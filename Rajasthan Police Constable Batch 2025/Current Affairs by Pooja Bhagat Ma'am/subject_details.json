@@ -1,0 +1,60 @@
+{
+  "subject_name": "Current Affairs by Pooja Bhagat Ma'am",
+  "subject_id": 8398,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || जनवरी 2025 राजस्थान करेंट",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/N7TzoBSvLLs",
+      "hd_video_url": "https://www.youtube.com/embed/N7TzoBSvLLs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k2CuSFPEsZLXyoPawxY9mpBOrHNVtIbiXKN6vKul.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ba160ed-09e7-4f12-a87e-3414d07455ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || फरवरी 2025 राजस्थान करेंट",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1aOtonRouWI",
+      "hd_video_url": "https://www.youtube.com/embed/1aOtonRouWI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2IwHgUnzVeBOI1LaI7BUTLOjtdgVcfYfYSO9GyAU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Current Affairs by Pooja Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2310bb2-3ff0-4b6d-bb40-8c825be3296e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || मार्च 2025 राजस्थान करेंट",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/iEUoN8cfQgc",
+      "hd_video_url": "https://www.youtube.com/embed/iEUoN8cfQgc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CHTyBqz5Ef78R0iRUn42wPJnAx6LtUpimYyD9V4l.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || मार्च 2025 राजस्थान करेंट",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8582ba32-31e8-4450-bbf0-c95446109e9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || अप्रैल  2025 राजस्थान करेंट",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PcJ5ryl7uwXnaPXoIWWvKxy7cOA9nVs7WgBUXErJ.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

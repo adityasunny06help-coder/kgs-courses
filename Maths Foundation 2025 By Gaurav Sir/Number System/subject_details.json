@@ -1,0 +1,261 @@
+{
+  "subject_name": "Number System",
+  "subject_id": 5709,
+  "video_count": 18,
+  "note_count": 18,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction class",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/oxksC1ztaBo",
+      "hd_video_url": "https://www.youtube.com/embed/oxksC1ztaBo",
+      "thumbnail": "https://i.ytimg.com/vi/oxksC1ztaBo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/422a4f67-6efb-464e-aa4e-9df0cb2f6ab0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Number System (Part-01)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/LbSZioLQtNc",
+      "hd_video_url": "https://www.youtube.com/embed/LbSZioLQtNc",
+      "thumbnail": "https://i.ytimg.com/vi/LbSZioLQtNc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Number System (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cea0dee-7af3-4056-86ef-b8d96e521862.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Number System (Part-02)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/5OVF3byf_20",
+      "hd_video_url": "https://www.youtube.com/embed/5OVF3byf_20",
+      "thumbnail": "https://i.ytimg.com/vi/5OVF3byf_20/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Number System (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3aa0f20-c951-4b93-9a55-5314847ebd05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Number System (Part-03)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DwxOJNDBzCE",
+      "hd_video_url": "https://www.youtube.com/embed/DwxOJNDBzCE",
+      "thumbnail": "https://i.ytimg.com/vi/DwxOJNDBzCE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Number System (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cac84ae-7627-4d66-af10-a511f8a790e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Number System (Part-04)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/hVfrnhPZjDs",
+      "hd_video_url": "https://www.youtube.com/embed/hVfrnhPZjDs",
+      "thumbnail": "https://i.ytimg.com/vi/hVfrnhPZjDs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Number System (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab01a282-6558-44d4-901f-9ab6ad99fc17.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || Number System (Part-05)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/E6F23aOSe3w",
+      "hd_video_url": "https://www.youtube.com/embed/E6F23aOSe3w",
+      "thumbnail": "https://i.ytimg.com/vi/E6F23aOSe3w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 06 || Number System (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e84d51e9-82f0-4d6c-ae1a-03394bf0ca65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || Number System (Part-06)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FCqhGuebFQw",
+      "hd_video_url": "https://www.youtube.com/embed/FCqhGuebFQw",
+      "thumbnail": "https://i.ytimg.com/vi/FCqhGuebFQw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Number System (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9206366-b37b-42ee-9144-9762615749f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || Number System (Part-07)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/UkdrnEzY0Nk",
+      "hd_video_url": "https://www.youtube.com/embed/UkdrnEzY0Nk",
+      "thumbnail": "https://i.ytimg.com/vi/UkdrnEzY0Nk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 08 || Number System (Part-07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/423148ce-03f0-4a85-8664-01cdb55cad8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || Number System (Part-08)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/l42dACxQ84U",
+      "hd_video_url": "https://www.youtube.com/embed/l42dACxQ84U",
+      "thumbnail": "https://i.ytimg.com/vi/l42dACxQ84U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 09 || Number System (Part-08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90b42c5a-39fe-44e3-a5b6-35d45af06951.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Number System (Part-09)",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_mydFyxcncA",
+      "hd_video_url": "https://www.youtube.com/embed/_mydFyxcncA",
+      "thumbnail": "https://i.ytimg.com/vi/_mydFyxcncA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Number System (Part-09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf7f5ee3-166e-42e3-8700-d9872be164cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Number System (Part-10)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WDUddPppjrg",
+      "hd_video_url": "https://www.youtube.com/embed/WDUddPppjrg",
+      "thumbnail": "https://i.ytimg.com/vi/WDUddPppjrg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Number System (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e4eac2b-7a85-48d6-a538-7b05061d70d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Number System (Part-11)",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jUGift6teIQ",
+      "hd_video_url": "https://www.youtube.com/embed/jUGift6teIQ",
+      "thumbnail": "https://i.ytimg.com/vi/jUGift6teIQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Number System (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb2d0e7d-3514-4ff8-9e29-38af375676e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Number System (Part-12)",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fR_R0rgYAEM",
+      "hd_video_url": "https://www.youtube.com/embed/fR_R0rgYAEM",
+      "thumbnail": "https://i.ytimg.com/vi/fR_R0rgYAEM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Number System (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75afdb2a-77e3-43d7-8c51-4eb134842c9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Number System (Part-13)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/3h0xAuwh0rA",
+      "hd_video_url": "https://www.youtube.com/embed/3h0xAuwh0rA",
+      "thumbnail": "https://i.ytimg.com/vi/3h0xAuwh0rA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Number System (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d16644de-dec8-486e-bcf8-2c59b4d7f854.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Number System (Part-14)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/AQjIWsVT8_c",
+      "hd_video_url": "https://www.youtube.com/embed/AQjIWsVT8_c",
+      "thumbnail": "https://i.ytimg.com/vi/AQjIWsVT8_c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Number System (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/912c2709-b41e-45f4-9d45-d8fa355e91c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Number System (Part-15)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8dSS4DnUAK0",
+      "hd_video_url": "https://www.youtube.com/embed/8dSS4DnUAK0",
+      "thumbnail": "https://i.ytimg.com/vi/8dSS4DnUAK0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Number System (Part-15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/457478cb-82da-437a-a0ca-2f26dadd9eab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Number System (Part-16)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/H-JuAu2kjRA",
+      "hd_video_url": "https://www.youtube.com/embed/H-JuAu2kjRA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/O8poQ8sCLRPVsAfw3XlMwIr1fDA3z83uAuSlq7hR.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Number System (Part-16)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/507d9c31-9e48-4ec8-ad5d-c930606e07ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Number System (Part-17)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dP-zWqItd3g",
+      "hd_video_url": "https://www.youtube.com/embed/dP-zWqItd3g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jgZE5NVjE28RVWyJ9GEXuhHb4QGk7qWCG80NJKNM.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Number System (Part-17)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2215d88-3fb8-4120-a0cd-ae2883223f25.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

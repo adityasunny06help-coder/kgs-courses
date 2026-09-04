@@ -1,0 +1,74 @@
+{
+  "subject_name": "Physics by Manpreet Singh",
+  "subject_id": 5426,
+  "video_count": 5,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Simple Harmonic Motion - 1",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/9EtUjPmoHME",
+      "hd_video_url": "https://www.youtube.com/embed/9EtUjPmoHME",
+      "thumbnail": "https://i.ytimg.com/vi/9EtUjPmoHME/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Simple Harmonic Motion - 2",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/l7_haXSrPMs",
+      "hd_video_url": "https://www.youtube.com/embed/l7_haXSrPMs",
+      "thumbnail": "https://i.ytimg.com/vi/l7_haXSrPMs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || Simple Harmonic Motion - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ef1697e-5c80-42a9-aec3-4d33d7a53983.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Simple Harmonic Motion - 3",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FNbh-Nov0iA",
+      "hd_video_url": "https://www.youtube.com/embed/FNbh-Nov0iA",
+      "thumbnail": "https://i.ytimg.com/vi/FNbh-Nov0iA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Simple Harmonic Motion - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b5c6807-9ba4-4ed3-b9e2-90bc9d088592.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Simple Harmonic Motion - 4",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/jY4Aq_PH0NA",
+      "hd_video_url": "https://www.youtube.com/embed/jY4Aq_PH0NA",
+      "thumbnail": "https://i.ytimg.com/vi/jY4Aq_PH0NA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -24 || Simple Harmonic Motion - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cac4131-57e1-4b1f-a3ea-c8b5c88cae9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Simple Harmonic Motion - 5",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/NDAKo5aknWo",
+      "hd_video_url": "https://www.youtube.com/embed/NDAKo5aknWo",
+      "thumbnail": "https://i.ytimg.com/vi/NDAKo5aknWo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Simple Harmonic Motion - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/039bc914-2e96-4e5d-a632-088ff11b1d8a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

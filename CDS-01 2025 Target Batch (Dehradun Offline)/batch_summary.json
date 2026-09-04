@@ -1,0 +1,124 @@
+{
+  "batch_info": {
+    "title": "CDS-01 2025 Target Batch (Dehradun Offline)",
+    "price": "25000",
+    "id": "399",
+    "extracted_date": "2025-08-27T15:45:44.262608"
+  },
+  "subjects": [
+    {
+      "name": "SSB Guidance",
+      "id": 4171,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Science by Shubhankar Sir",
+      "id": 3622,
+      "video_count": 54,
+      "note_count": 53
+    },
+    {
+      "name": "History Practice by Amarendra Sir",
+      "id": 5594,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Maths by Vikash  Sir",
+      "id": 3623,
+      "video_count": 68,
+      "note_count": 68
+    },
+    {
+      "name": "Polity by Vishal kumar Sir",
+      "id": 3624,
+      "video_count": 107,
+      "note_count": 104
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 3625,
+      "video_count": 67,
+      "note_count": 65
+    },
+    {
+      "name": "English by Ruchir Sir",
+      "id": 3626,
+      "video_count": 112,
+      "note_count": 109
+    },
+    {
+      "name": "International Relations By Vishal Sir",
+      "id": 3705,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 4212,
+      "video_count": 16,
+      "note_count": 15
+    },
+    {
+      "name": "Maths by Vipin Sir",
+      "id": 4360,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 4608,
+      "video_count": 42,
+      "note_count": 42
+    },
+    {
+      "name": "Biology by Amrita mam",
+      "id": 4765,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "CDS TEST-01",
+      "id": 5148,
+      "video_count": 3,
+      "note_count": 8
+    },
+    {
+      "name": "CDS TEST-02",
+      "id": 5149,
+      "video_count": 3,
+      "note_count": 8
+    },
+    {
+      "name": "CDS TEST-03",
+      "id": 5225,
+      "video_count": 3,
+      "note_count": 8
+    },
+    {
+      "name": "CDS TEST-04",
+      "id": 5228,
+      "video_count": 2,
+      "note_count": 5
+    },
+    {
+      "name": "CDS TEST-05",
+      "id": 5604,
+      "video_count": 2,
+      "note_count": 5
+    },
+    {
+      "name": "CDS TEST-06",
+      "id": 5607,
+      "video_count": 1,
+      "note_count": 2
+    },
+    {
+      "name": "Economics By Sukesh Sir",
+      "id": 5924,
+      "video_count": 10,
+      "note_count": 9
+    }
+  ]
+}

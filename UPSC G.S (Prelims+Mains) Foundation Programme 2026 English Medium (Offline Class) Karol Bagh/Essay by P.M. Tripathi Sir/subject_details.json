@@ -1,0 +1,50 @@
+{
+  "subject_name": "Essay by P.M. Tripathi Sir",
+  "subject_id": 8409,
+  "video_count": 4,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Essay by P.M. Tripathi Sir",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/330763/kgss-1756114748-v330763.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lGwGUXYbzlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xQzhwNZi6mMYy40iOCjP7hO7w1NdAjFbSWoYpyNt.jpg",
+      "notes": [
+        {
+          "title": "Lec-01-Essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f3577d5-8f2e-4510-b303-415e411ab61b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Essay by P.M. Tripathi Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331228/kgss-1756201241-v331228.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mTkv3dT2v2I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OQYxsLSdrAXErmdj9Ox1vUg3tx6dtVuN4zGAxvw9.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Essay by P.M. Tripathi Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://stream-kgs.akamaized.net/hls/kgss-1756287066-v332346.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gUsj9lUls9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b0j22Tuj5LBCxYLioX8XS7pbtSJ1ouX57PKZZArn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Essay by P.M. Tripathi Sir",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LYvukXcr8RiXhb2nZuZ6BJt2v2WtW1ETktfRSdlk.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

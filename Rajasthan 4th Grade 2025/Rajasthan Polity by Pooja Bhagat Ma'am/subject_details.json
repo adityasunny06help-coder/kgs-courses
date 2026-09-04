@@ -1,0 +1,55 @@
+{
+  "subject_name": "Rajasthan Polity by Pooja Bhagat Ma'am",
+  "subject_id": 8394,
+  "video_count": 4,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NkDJIYUdrBo",
+      "hd_video_url": "https://www.youtube.com/embed/NkDJIYUdrBo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gaHGQQkTFqk0wk5rDkINLDfGm9rnWDHRIp5fGmoN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/031dc968-9fc6-45b9-873e-e56347cbaaec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || राज्यपाल (Part-01)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/uOVPb0W7jW0",
+      "hd_video_url": "https://www.youtube.com/embed/uOVPb0W7jW0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CGv8m0cM3yFqsGlHGAlNdWeMnfECInp2gqnszVCc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || राज्यपाल (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/244efb73-9e7a-44a4-ab64-a33b33aa5ded.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || राज्यपाल (Part-02)",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OybVeFC5DXK2KaaoPrtLv8ecJKjt3wptPM5F3zDE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || मुख्यमंत्री व मंत्रिपरिषद (Part-01)",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iMyYvs7GNyUw7m7wQgYyixLglPQZHKE8jo5l3Jqu.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

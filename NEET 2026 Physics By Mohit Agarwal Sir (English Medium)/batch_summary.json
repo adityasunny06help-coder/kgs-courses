@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "NEET 2026 Physics By Mohit Agarwal Sir (English Medium)",
+    "price": "899",
+    "id": "662",
+    "extracted_date": "2025-08-27T13:49:09.158811"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 6828,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Mohit Agrawal (MA Sir)",
+      "id": 6829,
+      "video_count": 91,
+      "note_count": 89
+    },
+    {
+      "name": "Test Paper And Solutions",
+      "id": 7128,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Mohit Agarwal (Other Material)",
+      "id": 7229,
+      "video_count": 49,
+      "note_count": 46
+    },
+    {
+      "name": "Physics (Supporting Material)",
+      "id": 7693,
+      "video_count": 22,
+      "note_count": 0
+    }
+  ]
+}

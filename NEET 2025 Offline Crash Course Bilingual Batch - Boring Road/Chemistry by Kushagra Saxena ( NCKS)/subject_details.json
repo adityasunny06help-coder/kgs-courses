@@ -1,0 +1,321 @@
+{
+  "subject_name": "Chemistry by Kushagra Saxena ( NCKS)",
+  "subject_id": 5051,
+  "video_count": 23,
+  "note_count": 21,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Mole Concept - 1",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/8WzPQK4VVGo",
+      "hd_video_url": "https://www.youtube.com/embed/8WzPQK4VVGo",
+      "thumbnail": "https://i.ytimg.com/vi/8WzPQK4VVGo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Mole Concept - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea4a4cc7-6afd-471f-a2e4-f15c13221a92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Mole Concept - 2",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-NiJkHoeFR0",
+      "hd_video_url": "https://www.youtube.com/embed/-NiJkHoeFR0",
+      "thumbnail": "https://i.ytimg.com/vi/-NiJkHoeFR0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Mole Concept - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c55b614-86d5-4a19-a532-7fced73cf5ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Mole Concept - 3",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/w0Qujtv9qTg",
+      "hd_video_url": "https://www.youtube.com/embed/w0Qujtv9qTg",
+      "thumbnail": "https://i.ytimg.com/vi/w0Qujtv9qTg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Mole Concept - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c95f44e-ddc2-43a8-a4cc-530e8d0b5093.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Mole Concept - 4",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qclBkm3XUvo",
+      "hd_video_url": "https://www.youtube.com/embed/qclBkm3XUvo",
+      "thumbnail": "https://i.ytimg.com/vi/qclBkm3XUvo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Mole Concept - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4303759f-cf67-4246-96b2-b8c291096cc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Atomic Structure -1",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/yzP4tJGzQSA",
+      "hd_video_url": "https://www.youtube.com/embed/yzP4tJGzQSA",
+      "thumbnail": "https://i.ytimg.com/vi/yzP4tJGzQSA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Atomic Structure -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e329d82-da35-4eb5-aac4-e3450449877a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Atomic Structure - 2",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/6dvhPGuYBAs",
+      "hd_video_url": "https://www.youtube.com/embed/6dvhPGuYBAs",
+      "thumbnail": "https://i.ytimg.com/vi/6dvhPGuYBAs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Atomic Structure - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9321abb-67df-4d65-8788-b025dbe90a80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Atomic Structure - 3",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/DY_Q1A6uaXo",
+      "hd_video_url": "https://www.youtube.com/embed/DY_Q1A6uaXo",
+      "thumbnail": "https://i.ytimg.com/vi/DY_Q1A6uaXo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Atomic Structure - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/777f2580-de5a-47d5-a151-791848810696.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Atomic Structure - 4",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/d2XXK4CWXnA",
+      "hd_video_url": "https://www.youtube.com/embed/d2XXK4CWXnA",
+      "thumbnail": "https://i.ytimg.com/vi/d2XXK4CWXnA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Atomic Structure - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbdbd938-0861-421a-951c-4075432d3668.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Atomic Structure - 5",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/mK-M6wHgVnw",
+      "hd_video_url": "https://www.youtube.com/embed/mK-M6wHgVnw",
+      "thumbnail": "https://i.ytimg.com/vi/mK-M6wHgVnw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Atomic Structure - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd6fe721-7422-4855-bab3-7f3b20285dee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Atomic Structure - 6",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/lyf3Oq2_-1k",
+      "hd_video_url": "https://www.youtube.com/embed/lyf3Oq2_-1k",
+      "thumbnail": "https://i.ytimg.com/vi/lyf3Oq2_-1k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Atomic Structure - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54cbd03e-ff5c-47ef-b9b1-20d6279e3230.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Atomic Structure - 7",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bBq3litRgIM",
+      "hd_video_url": "https://www.youtube.com/embed/bBq3litRgIM",
+      "thumbnail": "https://i.ytimg.com/vi/bBq3litRgIM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Atomic Structure - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/692895e5-a545-4b9c-8c48-a7fc777a5a53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Atomic Structure - 8",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/_GcYKAhTtIQ",
+      "hd_video_url": "https://www.youtube.com/embed/_GcYKAhTtIQ",
+      "thumbnail": "https://i.ytimg.com/vi/_GcYKAhTtIQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Atomic Structure - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/300d85f7-a8f7-4282-8d1d-2dd149a93d32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Thermodynamics - 1",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/wwzp-G3wTUg",
+      "hd_video_url": "https://www.youtube.com/embed/wwzp-G3wTUg",
+      "thumbnail": "https://i.ytimg.com/vi/wwzp-G3wTUg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Thermodynamics - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af47da55-b072-4a9f-a042-bbad3f5d193a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Thermodynamics - 2",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2fMJzWO3jzU",
+      "hd_video_url": "https://www.youtube.com/embed/2fMJzWO3jzU",
+      "thumbnail": "https://i.ytimg.com/vi/2fMJzWO3jzU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Thermodynamics - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30d49914-469d-41b9-86e6-ab3ee9b8db20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Thermodynamics - 3",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/n-4nHJGmgwc",
+      "hd_video_url": "https://www.youtube.com/embed/n-4nHJGmgwc",
+      "thumbnail": "https://i.ytimg.com/vi/n-4nHJGmgwc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Thermodynamics - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e406df6a-9a12-4725-922a-afcb10c6dc6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Thermodynamics - 4",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/yqT00551NI0",
+      "hd_video_url": "https://www.youtube.com/embed/yqT00551NI0",
+      "thumbnail": "https://i.ytimg.com/vi/yqT00551NI0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Thermodynamics - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/229f34d5-28e8-4eb9-8452-9fa628019bfc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Thermodynamics - 5",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qe-qlKDV60k",
+      "hd_video_url": "https://www.youtube.com/embed/qe-qlKDV60k",
+      "thumbnail": "https://i.ytimg.com/vi/qe-qlKDV60k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Thermodynamics - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a58f9c4-8fc4-4c3d-a429-e6a2840d8f01.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Chemical Equilibrium - 1",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/pohQV-0-EvA",
+      "hd_video_url": "https://www.youtube.com/embed/pohQV-0-EvA",
+      "thumbnail": "https://i.ytimg.com/vi/pohQV-0-EvA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Chemical Equilibrium - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b88cbf76-28b1-4aef-8c9e-46c6507720c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Ionic Equilibrium -1",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Ef0JelFmKCU",
+      "hd_video_url": "https://www.youtube.com/embed/Ef0JelFmKCU",
+      "thumbnail": "https://i.ytimg.com/vi/Ef0JelFmKCU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Ionic Equilibrium -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1784ce0-9b28-4d84-b716-a2dbaed83566.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Ionic Equilibrium -2",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/daMT00OH18U",
+      "hd_video_url": "https://www.youtube.com/embed/daMT00OH18U",
+      "thumbnail": "https://i.ytimg.com/vi/daMT00OH18U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || Ionic Equilibrium -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3849a28a-b88d-4ae9-9df8-2b2e2a967fcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Solution -1",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GH3c20W_Ql4",
+      "hd_video_url": "https://www.youtube.com/embed/GH3c20W_Ql4",
+      "thumbnail": "https://i.ytimg.com/vi/GH3c20W_Ql4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Solution -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7efcd58-3564-446e-947a-4429707636e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || Solution -2",
+      "published_date": "10 Apr 2025",
+      "video_url": "Doubt Session",
+      "hd_video_url": "Doubt Session",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hxyxJAHG7QHrNZfcj1aEagGMnXxd8DZdyLarJpYY.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || Solution - 3",
+      "published_date": "11 Apr 2025",
+      "video_url": "Doubt Session",
+      "hd_video_url": "Doubt Session",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4aL5V8Sa5e8prK1CwZLz8J6YbS51s8nf34lHtrAe.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

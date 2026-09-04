@@ -1,0 +1,117 @@
+{
+  "subject_name": "Chemistry By Sumit Sir",
+  "subject_id": 713,
+  "video_count": 12,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1: Introduction Class",
+      "published_date": "28 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-01/l-01-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-01/l-01-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0f1d14c6-2332-4f25-ab69-68e8345ec181.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2: Gaseous Law",
+      "published_date": "29 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-02/l-02-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-02/l-02-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//cf874ed9-5828-4d65-a939-c14a0c69ae8b.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3: Solutions",
+      "published_date": "31 Aug 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-03/l-03-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-03/l-03-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bef7531b-c7be-4f00-8e4d-d68eee4313fe.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4: Radioactivity",
+      "published_date": "01 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-04/l-04-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-04/l-04-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//239f4f83-4bcb-4720-a949-b11ed3c9eba3.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5: Covenant Bond",
+      "published_date": "01 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-05/l-05-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-05/l-05-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//37a21619-4d4e-49a5-9e3c-7f32524e8c5d.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6: Aditya-L1 mission and Chemistry Test-1",
+      "published_date": "02 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-06/l-06-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-06/l-06-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9562e0b1-e5a5-423a-87c6-5af6b59f2458.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7:Inorganic Chemistry (Periodic Table of Elements)",
+      "published_date": "02 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-07/l-07-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-07/l-07-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f1f698ff-a2ce-41d4-a252-cbbaa33cfd81.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-09:Functional Groups in Organic Compounds",
+      "published_date": "03 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-09/l-09-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-09/l-09-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//381c4bac-a153-402c-a7af-d2385a7ce418.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-8: Properties of Elements",
+      "published_date": "03 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-08/l-08-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-08/l-08-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//575328f1-9345-4790-9246-68114aabd703.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10:Functional Groups in Organic Compounds Part 02",
+      "published_date": "04 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-10/l-10-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-10/l-10-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5e73b6f2-11ff-41fb-98d5-0f06e4c80495.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Science Test (4 Sept) Answer Key",
+      "published_date": "05 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/7pOyozrmVDk",
+      "hd_video_url": "https://www.youtube.com/embed/7pOyozrmVDk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-11: Chemistry By Sumit Sir",
+      "published_date": "05 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/chemistry/l-11/l-11-chemistry-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/chemistry/l-11/l-11-chemistry-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f75aa811-257e-453b-89b1-6c334d2269de.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

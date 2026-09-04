@@ -1,0 +1,36 @@
+{
+  "subject_name": "MEGA WORKSHOP",
+  "subject_id": 4247,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Polity Mega Workshop by Gyan Sir",
+      "published_date": "16 Nov 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NI0keyFUAZNDjKUvr90JjwUdRcPIC28CYHKsal3j.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Information Update",
+      "published_date": "09 Jan 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://i.ytimg.com/vi/zS6x1OpHF0M/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Why you Should join CDS Practice Batch?",
+      "published_date": "31 Jan 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://i.ytimg.com/vi/mhR2pQQp074/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

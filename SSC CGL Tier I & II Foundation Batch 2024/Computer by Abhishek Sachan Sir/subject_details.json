@@ -1,0 +1,359 @@
+{
+  "subject_name": "Computer by Abhishek Sachan Sir",
+  "subject_id": 2957,
+  "video_count": 25,
+  "note_count": 25,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Computer Fundamentals (Part 1)",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/XTV2v8aKj-s",
+      "hd_video_url": "https://www.youtube.com/embed/XTV2v8aKj-s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction of Computer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c7fa53f-6677-4d43-a5f8-50be0bdef9e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Computer Fundamentals (Part 2)",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/zH8mjk7Iv7c",
+      "hd_video_url": "https://www.youtube.com/embed/zH8mjk7Iv7c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Fundamentals of Computer (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/834d04d5-b1a1-4496-b760-aaa261f6a722.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Computer Fundamentals (Part 3)",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/A_KU-g9_eBs",
+      "hd_video_url": "https://www.youtube.com/embed/A_KU-g9_eBs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Fundamentals of Computer (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63ba5418-810b-4afd-82d1-1cf0b862615e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Computer Fundamentals (Part 4)",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/QWWzKSmsdHM",
+      "hd_video_url": "https://www.youtube.com/embed/QWWzKSmsdHM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Fundamentals of Computer (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b97de9ff-0971-46ac-a445-be1a52f2d414.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Computer Fundamentals  (Part 5)",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/UNiXoONwXjc",
+      "hd_video_url": "https://www.youtube.com/embed/UNiXoONwXjc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Computer Fundamentals (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/798269eb-2ca4-4f11-b4ee-60976afddd74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Computer Fundamentals (Part 6)",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/fmr_Vuy3AAE",
+      "hd_video_url": "https://www.youtube.com/embed/fmr_Vuy3AAE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-06 || Computer Fundamentals (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5046e1d-a3a7-46b3-ad39-505b5050e100.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Computer Fundamentals (Part 7)",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/5rm3mnhsEiw",
+      "hd_video_url": "https://www.youtube.com/embed/5rm3mnhsEiw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 || Computer Fundamentals (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9bd56b8-1f56-4988-9532-a0b3c51c3ea6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Computer Fundamentals (Part 8)",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/QON3eF6STEU",
+      "hd_video_url": "https://www.youtube.com/embed/QON3eF6STEU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 || Fundamentals of Computer (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fe190b0-e44d-41e7-8919-cf2cebf2cff9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Computer Networking (Part 1)",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/lTUGosSEcWo",
+      "hd_video_url": "https://www.youtube.com/embed/lTUGosSEcWo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-09 || Computer Networking (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53c99a56-22d4-46de-b7dd-121952e9e256.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Computer Networking (Part 2)",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/jeJQvOVzhcs",
+      "hd_video_url": "https://www.youtube.com/embed/jeJQvOVzhcs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-10 || Computer Networking (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b3724bb-7d7c-4c4a-82ff-16c7304718c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Computer Networking (Part 3)",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/9tPThOYuIQI",
+      "hd_video_url": "https://www.youtube.com/embed/9tPThOYuIQI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-11 || Computer Networking (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba611c4e-cfc0-4ac6-b3be-61cbe83092eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Computer Networking (Part 4)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/YOZCp_6rQDc",
+      "hd_video_url": "https://www.youtube.com/embed/YOZCp_6rQDc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-12 || Computer Networking (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fca666b-2629-4b14-a53d-3fb509b68d0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Internet (Part 1)",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/EHq0BH0TI30",
+      "hd_video_url": "https://www.youtube.com/embed/EHq0BH0TI30",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-13 || Internet (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cca207be-f803-404b-84a9-1b1d9d0b7b47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Internet (Part 2)",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/wU264U2iaeg",
+      "hd_video_url": "https://www.youtube.com/embed/wU264U2iaeg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-14 || Internet (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ee0d8a2-97f5-48a8-a649-021926682531.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Internet (Part 3)",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Z8WsdWF9s0w",
+      "hd_video_url": "https://www.youtube.com/embed/Z8WsdWF9s0w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-15 || Internet (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52a8a29d-3126-47c4-87e8-982af3970b0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || DBMS (Part 1)",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/C3ZUgr8D9DY",
+      "hd_video_url": "https://www.youtube.com/embed/C3ZUgr8D9DY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "BDMS (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f7c6776-64cd-4fea-95a1-4d022c98c289.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || DBMS (Part 2)",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/vvyEuxrUUjw",
+      "hd_video_url": "https://www.youtube.com/embed/vvyEuxrUUjw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-17 || DBMS (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0d587aa-5d05-4054-b823-b201fb2bfe7d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || MS- Word  (Part 1)",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/cGpAV-aq_oQ",
+      "hd_video_url": "https://www.youtube.com/embed/cGpAV-aq_oQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-18 || MS- Word  (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/773de549-9d1a-4108-9f08-aced2d3d2f28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || MS- Word (Part 2)",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/OxZwMGkCuP4",
+      "hd_video_url": "https://www.youtube.com/embed/OxZwMGkCuP4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-19 || MS- Word (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b23f16b-d6e1-46ab-9192-f737d9c465e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || MS- Excel (Part 1)",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/2iBqyYu2XDA",
+      "hd_video_url": "https://www.youtube.com/embed/2iBqyYu2XDA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || MS- Excel (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd7f7dd9-65b9-4fdd-a7b0-e78b918472ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || MS- Excel (Part 2)",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/-2pBwWVljc8",
+      "hd_video_url": "https://www.youtube.com/embed/-2pBwWVljc8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-21 || MS- Excel (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56cd1e09-5d09-4d1a-b889-9bf6f07ea25d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Operating System",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/VlZNibRdDYU",
+      "hd_video_url": "https://www.youtube.com/embed/VlZNibRdDYU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-22 || Operating System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a18ccac7-1e26-499a-a8f9-8545cc526cea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Data Representation",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/iN3-K-a7oDA",
+      "hd_video_url": "https://www.youtube.com/embed/iN3-K-a7oDA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23  Data Representation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bff96190-7826-4f02-8274-c8d622a3ed35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Programming Language",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/SVD9xrH_-38",
+      "hd_video_url": "https://www.youtube.com/embed/SVD9xrH_-38",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-24 || Programming Language",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d79b41e-4112-4bfc-846a-5c23d451b3b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Practice Session",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Sp0YKxYaJ0U",
+      "hd_video_url": "https://www.youtube.com/embed/Sp0YKxYaJ0U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c433ea1e-9cc8-4f98-baf1-ecd12ad4f0a9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

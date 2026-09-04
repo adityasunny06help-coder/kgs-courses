@@ -1,0 +1,65 @@
+{
+  "subject_name": "Math By Prashant Sir",
+  "subject_id": 4574,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Set Theory Part-1",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/faf_0qyk4JQ",
+      "hd_video_url": "https://www.youtube.com/embed/faf_0qyk4JQ",
+      "thumbnail": "https://i.ytimg.com/vi/faf_0qyk4JQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Set Theory Part-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/775b5c79-c4f2-4901-881a-2eaf62efd7a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Set Theory Part-2",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/CVVy9MK6j18",
+      "hd_video_url": "https://www.youtube.com/embed/CVVy9MK6j18",
+      "thumbnail": "https://i.ytimg.com/vi/CVVy9MK6j18/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Set Theory Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5117f6b-57cf-4ea1-8ba3-645d26f7da0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Set Theory Part-3",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WizHgKarW94",
+      "hd_video_url": "https://www.youtube.com/embed/WizHgKarW94",
+      "thumbnail": "https://i.ytimg.com/vi/WizHgKarW94/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Set Theory Part-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/234b3cb9-292c-45f1-a944-9ebc3dad7f2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 (Last Class) || Set Theory Practice-4",
+      "published_date": "14 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6AzqBvQy-qc",
+      "hd_video_url": "https://www.youtube.com/embed/6AzqBvQy-qc",
+      "thumbnail": "https://i.ytimg.com/vi/6AzqBvQy-qc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 (Last Class) || Set Theory Practice-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/079f271f-64c6-4cd2-827e-02f9e13d24fb.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

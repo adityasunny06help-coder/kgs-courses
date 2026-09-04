@@ -1,0 +1,32 @@
+{
+  "subject_name": "Current Affairs by Arya Ma\"am",
+  "subject_id": 8386,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || June Current Affairs",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jY5QRdAdAME",
+      "hd_video_url": "https://www.youtube.com/embed/jY5QRdAdAME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0qKIbbm1R2ifELOt8A6x4CqQqgXcJUYHELHmnqkZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || June Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9571bb4b-a2b2-421c-a608-a9035cad8d34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || June Current Affairs",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/tbBgyY0P8iI",
+      "hd_video_url": "https://www.youtube.com/embed/tbBgyY0P8iI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QY23gitKsL6f64EugxKmfc4VhkHepx8FcYBOsrC1.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,549 @@
+{
+  "subject_name": "Maths Supporting Material",
+  "subject_id": 2677,
+  "video_count": 40,
+  "note_count": 36,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. Quadratic Equations (Practice Section) || Video Solution Part - 1",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/M-zgmcDBJFc",
+      "hd_video_url": "https://www.youtube.com/embed/M-zgmcDBJFc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/309c6da1-8ad5-4f15-95e5-00914162501c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. Quadratic Equations (Practice Section) || Video Solution Part - 2",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5MuwXta9dwU",
+      "hd_video_url": "https://www.youtube.com/embed/5MuwXta9dwU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19ad698b-52be-414b-b436-2220f9f57d8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. Quadratic Equations (Practice Section) || Video Solution Part - 3",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/x-wFe0JDHyE",
+      "hd_video_url": "https://www.youtube.com/embed/x-wFe0JDHyE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e3261ed-88a3-45aa-ae3b-7d54f6195705.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. Binomial Theorem (Practice Section) || Video Solution Part - 1",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/2BRZo0NK280",
+      "hd_video_url": "https://www.youtube.com/embed/2BRZo0NK280",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Binomial Theorem (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e85fa14-e918-413a-9b2f-da6e76e2462f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "5. Binomial Theorem (Practice Section) || Video Solution Part - 2",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/mc6ZwWdNMMk",
+      "hd_video_url": "https://www.youtube.com/embed/mc6ZwWdNMMk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Binomial Theorem (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76243099-73ff-4a96-afbc-6d0fd0eec02e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. Permutation and Combination (Practice Section) || Video Solution Part - 1",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/L_VR8H-YiYI",
+      "hd_video_url": "https://www.youtube.com/embed/L_VR8H-YiYI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes -  Permutation and Combination (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/119ea3e9-fb6b-44f5-9e08-b63b306a072b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. Permutation and Combination (Practice Section) || Video Solution Part - 2",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/lWy9TYedM34",
+      "hd_video_url": "https://www.youtube.com/embed/lWy9TYedM34",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d48aae06-68ab-430a-b8c7-f9e88c43c618.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. Permutation and Combination (Practice Section) || Video Solution Part - 3",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/8G_PlK4oB7k",
+      "hd_video_url": "https://www.youtube.com/embed/8G_PlK4oB7k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b691733-a486-4d34-a695-ede86adb6f1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. Permutation and Combination (Practice Section) || Video Solution Part - 4",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/IekTUnAjMhw",
+      "hd_video_url": "https://www.youtube.com/embed/IekTUnAjMhw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7887ffaf-85e9-4d07-ab64-3338a0cff416.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 1",
+      "published_date": "17 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/W72JeKHRLQw",
+      "hd_video_url": "https://www.youtube.com/embed/W72JeKHRLQw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17265005-0551-45cf-a500-8737100b3c85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 2",
+      "published_date": "17 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/SzhDWDocUAM",
+      "hd_video_url": "https://www.youtube.com/embed/SzhDWDocUAM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40c621f3-52b8-4809-bc39-aa0bfa018511.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. Sequence and Series ( JEE FLASBACK) || Video Solution",
+      "published_date": "17 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/nU6kvLSoSJ0",
+      "hd_video_url": "https://www.youtube.com/embed/nU6kvLSoSJ0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "13. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 1",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/WcugRWLfdo0",
+      "hd_video_url": "https://www.youtube.com/embed/WcugRWLfdo0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a4f8e76-19bb-4384-b18c-2b38d8ca11dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 2",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/bHU_kQbszgE",
+      "hd_video_url": "https://www.youtube.com/embed/bHU_kQbszgE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ce838d6-711b-40ae-8d3c-c5d6cf1916be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 3",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/6W4IeUtNNLs",
+      "hd_video_url": "https://www.youtube.com/embed/6W4IeUtNNLs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - 15. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd24eb76-55b7-4a69-9fbe-b545a8356e89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. Sequence And Series (Practice Section) || Video Solution Part - 1",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/FSUjIzhpLXo",
+      "hd_video_url": "https://www.youtube.com/embed/FSUjIzhpLXo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50769150-2698-406d-8e3d-89b5c017826f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. Sequence And Series (Practice Section) || Video Solution Part - 2",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/OJRPKvmGf2Q",
+      "hd_video_url": "https://www.youtube.com/embed/OJRPKvmGf2Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a14ceded-fb68-43b5-9c31-88238e8f130f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. Sequence And Series (Practice Section) || Video Solution Part - 3",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/jshaqy0q8D0",
+      "hd_video_url": "https://www.youtube.com/embed/jshaqy0q8D0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cabc156-a8f1-408b-aa9e-0eb7ff69628f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. Sequence And Series (Practice Section) || Video Solution Part - 4",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/XpnZCPjVj2w",
+      "hd_video_url": "https://www.youtube.com/embed/XpnZCPjVj2w",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes -  Sequence And Series (Practice Section) || Video Solution Part - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e976567-67c0-43b9-8455-8a1b8621e0ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "20. Trigonometric Equation (Practice Section) || Video Solution Part - 1",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5TpmZE4kHkQ",
+      "hd_video_url": "https://www.youtube.com/embed/5TpmZE4kHkQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Trigonometric Equation (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cebc5619-2906-41a8-8de0-c1bf9582b358.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "21. Trigonometric Equation (Practice Section) || Video Solution Part - 2",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/FIowFfnBIWk",
+      "hd_video_url": "https://www.youtube.com/embed/FIowFfnBIWk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes -  Trigonometric Equation (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b9a0528-1bd1-46db-84cb-59549b4048de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "22. Straight Line (Practice Section) || Video Solution Part - 1",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/_AOlmobH1fo",
+      "hd_video_url": "https://www.youtube.com/embed/_AOlmobH1fo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a2e9f10-866e-4252-a5b0-0ae4ca56658c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "23. Straight Line (Practice Section) || Video Solution Part - 2",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/9bRp17_HOEM",
+      "hd_video_url": "https://www.youtube.com/embed/9bRp17_HOEM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0acc51b3-aff6-41aa-9f79-a77a5f48cbc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "24. Straight Line (Practice Section) || Video Solution Part - 3",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/IPx53sWhlqw",
+      "hd_video_url": "https://www.youtube.com/embed/IPx53sWhlqw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/320d409a-e69c-4969-9f3c-83f86baed1aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "25. Straight Line (Practice Section) || Video Solution Part - 4",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/uk6A7pQSeCs",
+      "hd_video_url": "https://www.youtube.com/embed/uk6A7pQSeCs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af05831f-64a3-499a-9b80-b9a8c025fb3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "26. Circle (Practice Section) || Video Solution Part - 1",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/mBnsMZ7oz0I",
+      "hd_video_url": "https://www.youtube.com/embed/mBnsMZ7oz0I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48a17129-3662-4736-82cc-bff9f307bcb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "27. Circle (Practice Section) || Video Solution Part - 2",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/NsCk36WXGhQ",
+      "hd_video_url": "https://www.youtube.com/embed/NsCk36WXGhQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26871428-23bb-47ae-ba03-ae3c297ace64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "28. Circle (Practice Section) || Video Solution Part - 3",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/yQ0H1J5Wovw",
+      "hd_video_url": "https://www.youtube.com/embed/yQ0H1J5Wovw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4344b9fd-f0a6-4b09-bd47-6bacb2217044.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "29. Parabola (Practice Section) || Video Solution Part - 1",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/CMR4swiVr3c",
+      "hd_video_url": "https://www.youtube.com/embed/CMR4swiVr3c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff448c20-c550-4886-92da-f531d2db8c31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "30. Parabola (Practice Section) || Video Solution Part - 2",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/iN9nRq9b9Rw",
+      "hd_video_url": "https://www.youtube.com/embed/iN9nRq9b9Rw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26e45211-60a1-4ab9-b5c0-c708231e1254.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "31. Parabola (Practice Section) || Video Solution Part - 3",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/7V8cTO3ySzg",
+      "hd_video_url": "https://www.youtube.com/embed/7V8cTO3ySzg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5895787-5099-4d84-ac60-01ab166c3e36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "32. Matrices (Practice Section) || Video Solution Part - 1",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/DONeUwZKS_c",
+      "hd_video_url": "https://www.youtube.com/embed/DONeUwZKS_c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Matrices (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a1d12f7-2080-4798-9a3a-84b881f43b1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "33. Matrices (Practice Section) || Video Solution Part - 2",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/SqqQrR8je8c",
+      "hd_video_url": "https://www.youtube.com/embed/SqqQrR8je8c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes -  Matrices (Practice Section) || Video Solution Part - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fc48b96-2345-4eb3-868e-0dd8291ceb18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "34. Matrices (Practice Section) || Video Solution Part - 3",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Kg3hp2rMH84",
+      "hd_video_url": "https://www.youtube.com/embed/Kg3hp2rMH84",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Matrices (Practice Section) || Video Solution Part - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f0b60d3-5e2e-4c66-9ca0-2fede59e67fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "35. Vector (Practice Section) || Video Solution Part - 1",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/cap5dt-x5UA",
+      "hd_video_url": "https://www.youtube.com/embed/cap5dt-x5UA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Vector (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb3e67e3-16b7-46df-b20f-5506d97c2df2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "36. Complex Number (Practice Section) || Video Solution Part - 1",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/AOSlFeWU2IY",
+      "hd_video_url": "https://www.youtube.com/embed/AOSlFeWU2IY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Complex Number (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eecd468c-4d07-4342-9cfd-6f864c3ea8ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "37. Hyperbola (Practice Section) || Video Solution Part - 1",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/kf9jr6MiRjI",
+      "hd_video_url": "https://www.youtube.com/embed/kf9jr6MiRjI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "38. Ellipse  (Practice Section) || Video Solution Part - 1",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Ru0h2XNGoHA",
+      "hd_video_url": "https://www.youtube.com/embed/Ru0h2XNGoHA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Ellipse  (Practice Section) || Video Solution Part - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8256f600-f12f-4f04-83d5-852e0a5e19ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "39. Complex Number (Practice Section) || Video Solution Part - 2",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/DnwV1WApykI",
+      "hd_video_url": "https://www.youtube.com/embed/DnwV1WApykI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "40. Hyperbola - 2 (Practice Section) || Video Solution Part - 2",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/X_aFiNtTHcQ",
+      "hd_video_url": "https://www.youtube.com/embed/X_aFiNtTHcQ",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

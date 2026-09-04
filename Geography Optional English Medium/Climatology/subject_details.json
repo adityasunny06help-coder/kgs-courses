@@ -1,0 +1,171 @@
+{
+  "subject_name": "Climatology",
+  "subject_id": 3898,
+  "video_count": 18,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 33 || Introduction and Basic Concepts",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132160/kgss-1729042512-v132160.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rWVJxSGdRlI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/M1QEoKY5S2htG2dG8u955oXBTClEoHaQSYkoz9uR.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 34 || Key Elements of Weather & Climate",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/133908/kgss-1729478415-v133908.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cd0GKLEkDFg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MRrHGHLRA4FyweNeGTl2oimwFYgNhEOW5sltBVrI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 35 || Heat & Temperature",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138503/kgss-1729564457-v138503.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uhJa5djFzyE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JrtK0i6LZlG8snR3Wfy0dKJKA6OmCYStFzhuVXBv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 36 || Temperature Inversion",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139485/kgss-1729737649-v139485.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X7eEwLS9HHI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NRE7Viz5FQut9x8yxu0SXffX3Hf1NAzEbp0HdWWB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 37 || Heat Budget",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140504/kgss-1729824234-v140504.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zpCa0V4usOQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m5wNvFO9ReHa1XRCcrycLVQy42f6GIUBQeFN8sgB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 38 || Atmospheric Pressure & Pressure Belts",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146094/kgss-1730690704-v146094.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_udEfk-CJhk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6881e3bd10a5f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 39 || Factors Effecting Pressure Variations",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146357/kgss-1730776267-v146357.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0t2Jt8Gm7Y4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6881e3bc8868d.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 40 || Atmospheric Circulation (Part -01)",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146664/kgss-1730861197-v146664.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dkfJBT7VIFo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6881e3bc0438d.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 41 || Atmospheric Circulation (Part -02)",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/147228/kgss-1730948837-v147228.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mYama_ksGiA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZLq6ji0JJBrxAghqnJM9Wkh8ab0SFu9YcQolCFXt.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 42 || Atmospheric Stability & Instability",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/149050/kgss-1731381250-v149050.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L5maFJdyToQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e33204cd8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 43 || Air in motion & Atmospheric Circulation",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/150242/kgss-1731552111-v150242.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KVcjy81cSRY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e33177d9d.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 44 || Hot and Local Winds",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/151815/kgss-1731726657-v151815.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RSv2HCAhHe0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0e0AJqXeJ1mjd0H2xzkD3NJJPx9IHz04HfD4q4CP.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 45 || Humidity",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/152777/kgss-1731985390-v152777.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vy3x1MBxoHA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3ZdwrCyavzNKd1c9idV0vfJyBXg9YAUkbOLx7qPW.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 46 || Precipitation",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/153812/kgss-1732156685-v153812.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kY4I4Na3vDk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e3306ba77.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 47 || Airmass",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/155318/kgss-1732329953-v155318.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BVdwFUDZqr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/i045zZZKVLG43ITOVr2Hg2Iszdwj2aRhy3wuFjrC.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 48 || Air-masses & Frontogenesis",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/159305/kgss-1733107503-v159305.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6O5rFxD_RqE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tPtPgm1hJoZnUQ6Jq7TS3KqFf6oBReyJfkSUyMjV.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 49 || Fronts",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/159934/kgss-1733195566-v159934.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fmGDOGRR3Vk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hx22s02Y5NS7BShF6pon94T9Ig2Nyu4GNDmFiMVw.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 50 || Jet Streams",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/162372/kgss-1733364305-v162372.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZPzSc_ccWC8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jYbBTqV0UX5MnA10XlK4A9j3iAxCT1G8ecFZSteM.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

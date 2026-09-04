@@ -1,0 +1,205 @@
+{
+  "subject_name": "Chemistry by Sumit Sir",
+  "subject_id": 8180,
+  "video_count": 14,
+  "note_count": 14,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/318601/kgss-1754459620-v318601.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qhjaHDO9dU0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CxoeQPZfplPkQ6X8VycODeCRVzYwgBQB6vzBedbW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a4a1c90-8083-444f-ae73-ebd0eae254e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || आवर्त सारणी और उसका परिचय (Part-01)",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/319105/kgss-1754546539-v319105.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vLT5ASJb5bg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9gWULj1P9127yaaWAixebVQhd1L627j4wSaNbCom.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01381dbd-6509-49ca-8c10-c12a1eeacbb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || आवर्त सारणी और उसका परिचय (Part-02)",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/319943/kgss-1754632240-v319943.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hXrdddYyBGI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ysHnhy077KzxF4mpIMeppn4BggDQ8HLCMcr5JQAH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || अकार्बनिक रसायन शास्त्र (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99e82959-b2c8-48ec-8a41-f369ed333387.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || धातु एवं अधातु तथा इसके यौगिक (Part-01)",
+      "published_date": "09 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/320659/kgss-1754731196-v320659.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X9xCfrARpV4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KTciB9gP4XHYfSu4a7Tj1dpcQwg0qRpk4sOM41dV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || अकार्बनिक रसायन शास्त्र (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34106b2f-0076-41fe-aeed-be74b9949b35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || धातु एवं अधातु तथा इसके यौगिक (Part-02)",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/324058/kgss-1755316851-v324058.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ihM_NM-7tlI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Pa6Z4Xj5oPrr5ALusWSkKHsXuwNrSQMdTrG9bKgH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Chemistry by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f134b48a-7127-4bde-bfdb-fbd11976e104.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || धातु एवं अधातु तथा इसके यौगिक (Part-03)",
+      "published_date": "17 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/324073/kgss-1755402722-v324073.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9OaZbShJJ7E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/d42WQxC0apKygNbGrfOM3FhuQ372MoLn10Mk5jXm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Chemistry by Sumit Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44e2dd8a-a084-4934-a7e5-bef36aeec4ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || भौतिक एवं रासायनिक परिवर्तन",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/324123/kgss-1755505186-v324123.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1fKDX5MYJ68",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lvMDuvk8TG1KpQMdfvz1t36rid1jcjjcBuEj4Ary.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || अकार्बनिक रसायन शास्त्र (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a40fc99-55b0-4a13-83dc-b139c9031f76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || विलयन",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/325555/kgss-1755584589-v325555.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SPZ1MzhmMQc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CMb650DmjrI7isf3DjFgXQaF9nRXCFI8mfJA7llX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || भौतिक रसायन विज्ञान (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6e98535-6e1d-4f35-a3f1-17fd7197e0b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || अम्ल क्षार और लवण  (Part-01)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/326792/kgss-1755671426-v326792.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/h9RU4AvJXqU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VIWG2TnCDnLPbgIkl1PeuiU41z8tl5WnBVfGy0AG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || भौतिक एवं रासायनिक परिवर्तन (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d799bc39-844c-4e0a-b0cd-287ff4021249.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || अम्ल क्षार और लवण एवं रेडियो सक्रियता",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/327758/kgss-1755750987-v327758.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DMh3rO8UVEE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WnixF1QypxdHLNWam5u4V2UbNMOsUMQhFQt6MGr3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || अम्ल क्षार और लवण (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1b911cd-d5d3-4e4d-bc2c-3ac20abe14fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ||  रेडियो सक्रियता एवं रासायनिक बंध और उसके प्रकार",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/328546/kgss-1755836837-v328546.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_nT7W1oWmeo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1DTzcpHjPn09b367pIvy5BYVeeCRrXZbWPly8rGl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 ||  रेडियो सक्रियता (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab8a57dd-40ac-48a0-807c-3fe7ed21d860.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || रसायनिक अभिक्रियाएं और ऊर्जा परिवर्तन",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/329602/kgss-1755921104-v329602.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K7u6HeVW9kU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/45WoMpCQHjzx165fx7ZBoeGArCvTd9qbo8k7L8HG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || रसायनिक अभिक्रियाएं और ऊर्जा परिवर्तन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26e0a3b8-d322-4c1e-9a52-cf9200a52f04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || कार्बनिक रसायन विज्ञान (Part-01)",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/330557/kgss-1756007637-v330557.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ksu7dYfnj4Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b4dyQm7mbpw3IjcvADru5nbGPPNsXALBEgVcR7Gc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || कार्बनिक रसायन विज्ञान (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ccf1815-0b5d-4c11-8478-aa69f6c012a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || कार्बनिक रसायन विज्ञान (Part-02) Last Class",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jBnNp0gFmAk",
+      "hd_video_url": "https://www.youtube.com/embed/jBnNp0gFmAk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FMEOXnYjUdwSgZYrFKK20m9gTadFjQT81csokKiq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || कार्बनिक रसायन विज्ञान (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ee9b3d3-5fd4-4cab-a35a-33a5f2dbe4ff.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

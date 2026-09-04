@@ -1,0 +1,167 @@
+{
+  "subject_name": "Linear Programming Problem (LPP)",
+  "subject_id": 3413,
+  "video_count": 11,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -31 Linear Programing Problem - 1 || रैखिक प्रोग्रामिंग समस्या - 1",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115065/kgss-1725623446-v115065.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/t3oGBnld3cA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/u0ZrcUkrTVBZ0ALursWiRkZuXPd1fZcOMLYAHR56.png",
+      "notes": [
+        {
+          "title": "Lecture -31 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aafd8961-e443-4005-8ad9-58f560249afb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -32 Linear Programing Problem - 2 || रैखिक प्रोग्रामिंग समस्या - 2",
+      "published_date": "07 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115547/kgss-1725709606-v115547.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aXrhG8ig-aM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a0940d172a.jpg",
+      "notes": [
+        {
+          "title": "Lecture -32 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9fc586be-65f5-4b07-a149-643d597209d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -33 Linear Programing Problem - 3 || रैखिक प्रोग्रामिंग समस्या - 3",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115854/kgss-1725882014-v115854.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GTYXW1w7UgM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a0940613e8.jpg",
+      "notes": [
+        {
+          "title": "Lecture -33 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dd83d34-21e1-4e13-aa1a-f146bbd932dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -34 Linear Programing Problem - 4 || रैखिक प्रोग्रामिंग समस्या - 4",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116394/kgss-1725968965-v116394.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/palNK7ZbZgw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093fe29df.jpg",
+      "notes": [
+        {
+          "title": "Lecture -34 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93cc47fe-7c0d-4e50-be93-98c829b16617.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -35 Linear Programing Problem - 5 || रैखिक प्रोग्रामिंग समस्या - 5",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116813/kgss-1726055409-v116813.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9eJeUMDm62o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093f72957.jpg",
+      "notes": [
+        {
+          "title": "Lecture -35 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c659fee-c84a-4990-b6e8-fb6c3570ab83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -36 Linear Programing Problem - 6 || रैखिक प्रोग्रामिंग समस्या - 6",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117374/kgss-1726141609-v117374.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gVXISVZPsoA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093f00dd4.jpg",
+      "notes": [
+        {
+          "title": "Lecture -36 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b427e845-5338-4de7-afd8-5aa17323159f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -37 Linear Programing Problem - 7 || रैखिक प्रोग्रामिंग समस्या - 7",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117837/kgss-1726228056-v117837.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WlZRHmPibr0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093e830c3.jpg",
+      "notes": [
+        {
+          "title": "Lecture -37 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b76325f-c5d4-43ab-a2d4-afca36a36773.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -38 Linear Programing Problem - 8 || रैखिक प्रोग्रामिंग समस्या - 8",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118303/kgss-1726314483-v118303.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0gJ4Vn52kFc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093e10d75.jpg",
+      "notes": [
+        {
+          "title": "Lecture -38 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9486827a-4b79-4bdd-b09e-3af4345f4cd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -39 Linear Programing Problem - 9 || रैखिक प्रोग्रामिंग समस्या - 9",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118650/kgss-1726487017-v118650.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TTEZRkK2jzU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093d957ce.jpg",
+      "notes": [
+        {
+          "title": "Lecture -39 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5da04531-0807-4f32-bef8-0de408b11e92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -40 Linear Programing Problem - 10 || रैखिक प्रोग्रामिंग समस्या - 10",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119301/kgss-1726573918-v119301.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Toip16fYxk0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093d2640e.jpg",
+      "notes": [
+        {
+          "title": "Lecture -40 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f13ef56-4c2a-417d-a2cb-9a26221a0f5c.pdf"
+        },
+        {
+          "title": "previousclasshomeworksolution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40b5b229-30da-42fb-bca0-df92fab786d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -41 Linear Programing Problem - 11 || रैखिक प्रोग्रामिंग समस्या - 11",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119848/kgss-1726660144-v119848.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bKlv_t42Hn8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a093c7598e.jpg",
+      "notes": [
+        {
+          "title": "Lecture -41 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c70bbde4-1b82-4580-89f5-6504bb782ef5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

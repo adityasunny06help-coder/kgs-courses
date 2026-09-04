@@ -1,0 +1,955 @@
+{
+  "subject_name": "Chemistry By Shekhar Sir",
+  "subject_id": 3507,
+  "video_count": 69,
+  "note_count": 65,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. विलयन Part 1",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/fOTv_IL0dLU",
+      "hd_video_url": "https://www.youtube.com/embed/fOTv_IL0dLU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "विलयन Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b127f56-201a-402c-a306-e75dce01d5dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. विलयन Part 2",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/i5S8aSLz_Vo",
+      "hd_video_url": "https://www.youtube.com/embed/i5S8aSLz_Vo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "विलयन Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/129cf8c4-5b53-4f4d-b97c-74440de1b096.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. विलयन Part 3",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/RSLjnuft6Fc",
+      "hd_video_url": "https://www.youtube.com/embed/RSLjnuft6Fc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "विलयन Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/526dfa18-31da-4055-9a47-1308872daf02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. विलयन Part 4",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/eKpKNkG8dZs",
+      "hd_video_url": "https://www.youtube.com/embed/eKpKNkG8dZs",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "5. विलयन Part 5",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/rrR1uVV8zuI",
+      "hd_video_url": "https://www.youtube.com/embed/rrR1uVV8zuI",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "6. विलयन Part 6",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/23so1ENNVOU",
+      "hd_video_url": "https://www.youtube.com/embed/23so1ENNVOU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "विलयन Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/549651a9-3e0b-4ad4-b488-c8b39c6653a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. विलयन Part 7",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/jMEuwVWP3Mc",
+      "hd_video_url": "https://www.youtube.com/embed/jMEuwVWP3Mc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes विलयन Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5b4dbce-4bf1-4113-b1da-0cab9e17bf5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. विलयन Part 8",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/D-CuJj8cc_Y",
+      "hd_video_url": "https://www.youtube.com/embed/D-CuJj8cc_Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-विलयन Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a50cf348-7c3d-48ec-aa76-c8cd803687b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. विलयन Part 9",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ac_25lYCrIQ",
+      "hd_video_url": "https://www.youtube.com/embed/ac_25lYCrIQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-विलयन Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abef6ba1-3a4b-4fb6-bd44-a508a21d53bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. विलयन Part 10",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-a4L6proAQw",
+      "hd_video_url": "https://www.youtube.com/embed/-a4L6proAQw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-विलयन Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e46b6e91-87d4-4585-82b6-170a60967c21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. विलयन DPP",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/XJ32EdmZ2Mk",
+      "hd_video_url": "https://www.youtube.com/embed/XJ32EdmZ2Mk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-विलयन DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/516a29ea-1f95-4169-bd96-2341f4af42b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. वैद्युत रसायन Part 1",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/mk_sxjuy2Jg",
+      "hd_video_url": "https://www.youtube.com/embed/mk_sxjuy2Jg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19b9d4b9-7f82-4e3c-a196-4d2b7065edf6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "13. वैद्युत रसायन Part 2",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/3AsApXqq3yg",
+      "hd_video_url": "https://www.youtube.com/embed/3AsApXqq3yg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99aee46e-da55-426b-9446-e86a2537c092.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. वैद्युत रसायन Part 3",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/i__EJLYi860",
+      "hd_video_url": "https://www.youtube.com/embed/i__EJLYi860",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c5085e9-8433-43f8-bdaa-d04dc2396c60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. वैद्युत रसायन Part 4",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/AUPiA303tpo",
+      "hd_video_url": "https://www.youtube.com/embed/AUPiA303tpo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4cab8150-aeb6-4667-807c-4d6f585d0d03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. वैद्युत रसायन Part 5",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/j5veEf7rQVw",
+      "hd_video_url": "https://www.youtube.com/embed/j5veEf7rQVw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/962ea80e-bfb6-49d6-9342-2bc6c51b7723.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. वैद्युत रसायन Part 6",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/m7TLEsUD6mA",
+      "hd_video_url": "https://www.youtube.com/embed/m7TLEsUD6mA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eb899d2-726b-409f-bdd9-5bca5b260b35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. वैद्युत रसायन Part 7",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/W2fKF3Sptm0",
+      "hd_video_url": "https://www.youtube.com/embed/W2fKF3Sptm0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/834acc1e-47e6-4746-bd92-1d0bf39f6ca3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. वैद्युत रसायन Part 8",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/X_4Ibela5LQ",
+      "hd_video_url": "https://www.youtube.com/embed/X_4Ibela5LQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-वैद्युत रसायन Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8a45738-2b6d-49c4-90a6-98bca7df642a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "20. वैद्युत रसायन Part 9",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/UpR7aztfmI4",
+      "hd_video_url": "https://www.youtube.com/embed/UpR7aztfmI4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- वैद्युत रसायन Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/294faff6-00d3-4371-8ba0-392dfda09643.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "21. वैद्युत रसायन Part 10",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Gek30zn95y8",
+      "hd_video_url": "https://www.youtube.com/embed/Gek30zn95y8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- वैद्युत रसायन Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e61fb59c-d439-4a10-9f56-b682cca01390.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "22. वैद्युत रसायन Part 11",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/jc4YJAPbK0I",
+      "hd_video_url": "https://www.youtube.com/embed/jc4YJAPbK0I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- वैद्युत रसायन Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99949c31-687e-4e1c-beab-a0b7540d506f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "23. रासायनिक बलगतिकी Part 1",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ZDjmVnhK3qY",
+      "hd_video_url": "https://www.youtube.com/embed/ZDjmVnhK3qY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- रासायनिक बलगतिकी Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8af7366f-d23c-47a3-9e6a-f9c0639eb0f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "24. रासायनिक बलगतिकी Part 2",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/U5TUv3oAIZk",
+      "hd_video_url": "https://www.youtube.com/embed/U5TUv3oAIZk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- रासायनिक बलगतिकी Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1885f1c7-3286-46e1-9358-812618428a2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "25. रासायनिक बलगतिकी Part 3",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/snQ_Hf_C_tM",
+      "hd_video_url": "https://www.youtube.com/embed/snQ_Hf_C_tM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  रासायनिक बलगतिकी Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce30069f-c38a-45eb-a5fe-4b6ff714a59c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "26. रासायनिक बलगतिकी Part 4",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/-8dZok7I_4U",
+      "hd_video_url": "https://www.youtube.com/embed/-8dZok7I_4U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- रासायनिक बलगतिकी Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbd7b951-d820-4fac-a056-a948f5ab6ae6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "27.  रासायनिक बलगतिकी Part 5",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/3ZNlFq51c18",
+      "hd_video_url": "https://www.youtube.com/embed/3ZNlFq51c18",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  रासायनिक बलगतिकी Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d835838-4acc-4c5b-890c-7af4b5f79945.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "28. रासायनिक बलगतिकी Part 6",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/XHCxZ6QZ3t0",
+      "hd_video_url": "https://www.youtube.com/embed/XHCxZ6QZ3t0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- रासायनिक बलगतिकी Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/380a4af6-8dea-406b-827f-579866961eed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "29. रासायनिक बलगतिकी Part 7",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/E-l8q9FLsoc",
+      "hd_video_url": "https://www.youtube.com/embed/E-l8q9FLsoc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- रासायनिक बलगतिकी Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79406f60-435c-4918-8a34-8293e4d46c50.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "30. रासायनिक बलगतिकी Part 8",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/MwhkltuukO0",
+      "hd_video_url": "https://www.youtube.com/embed/MwhkltuukO0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-रासायनिक बलगतिकी Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb11e0c8-740b-4d96-ac4d-67711ef8c231.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "31. रासायनिक बलगतिकी DPP",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ItipCsgLyVg",
+      "hd_video_url": "https://www.youtube.com/embed/ItipCsgLyVg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-रासायनिक बलगतिकी DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1432ee8b-c33f-444b-9048-9a3285b1141e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "32. उपसहसंयोजन यौगिक Part 1",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/h0MZl9oOeOE",
+      "hd_video_url": "https://www.youtube.com/embed/h0MZl9oOeOE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4d75fd2-87a9-47e6-8bc0-37487a9d27d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "33. उपसहसंयोजन यौगिक Part 2",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ElYuOQH_dKM",
+      "hd_video_url": "https://www.youtube.com/embed/ElYuOQH_dKM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2587e131-4d5f-4817-b3aa-f35a0b97e1b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "34. उपसहसंयोजन यौगिक Part 3",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/iyM3ZwuTEDw",
+      "hd_video_url": "https://www.youtube.com/embed/iyM3ZwuTEDw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/239f2b89-9217-4f08-a59b-50b18bcd26bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "35. उपसहसंयोजन यौगिक Part 4",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/n8V5Ave2QCo",
+      "hd_video_url": "https://www.youtube.com/embed/n8V5Ave2QCo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da3b9701-190c-4661-b8d8-7e239c87055d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "36. उपसहसंयोजन यौगिक Part 5",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/5PIc0_xSgkE",
+      "hd_video_url": "https://www.youtube.com/embed/5PIc0_xSgkE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b54fe4a0-b4ef-4cd5-89b3-485bb4a58be8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "37. उपसहसंयोजन यौगिक Part 6",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/IiopZuUo1Fk",
+      "hd_video_url": "https://www.youtube.com/embed/IiopZuUo1Fk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  उपसहसंयोजन यौगिक Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/489a3d17-8073-4d61-a33d-9bf15a160ccf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "38. उपसहसंयोजन यौगिक Part 7",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/TeTmYPlFrPc",
+      "hd_video_url": "https://www.youtube.com/embed/TeTmYPlFrPc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ccf4266-7f1d-4aee-b6a4-b58a12f4cf89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "39. उपसहसंयोजन यौगिक DPP",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Xsy2u8Hsj4I",
+      "hd_video_url": "https://www.youtube.com/embed/Xsy2u8Hsj4I",
+      "thumbnail": "https://i.ytimg.com/vi/Xsy2u8Hsj4I/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- उपसहसंयोजन यौगिक DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7203d98-cf70-4f69-8aee-c5ce7ed78430.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "40. हैलोऐक्लेन तथा हैलोऐरिन Part 1",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/gxNtIWmi3OI",
+      "hd_video_url": "https://www.youtube.com/embed/gxNtIWmi3OI",
+      "thumbnail": "https://i.ytimg.com/vi/gxNtIWmi3OI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-हैलोऐक्लेन तथा हैलोऐरिन Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45064f7e-a015-4764-8ea5-35335aedaff1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "41. हैलोऐक्लेन तथा हैलोऐरिन Part 2",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/aiJmNbTfmxM",
+      "hd_video_url": "https://www.youtube.com/embed/aiJmNbTfmxM",
+      "thumbnail": "https://i.ytimg.com/vi/aiJmNbTfmxM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04bc204d-1df6-43a6-8c51-3c62a0a32b33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "42. हैलोऐक्लेन तथा हैलोऐरिन Part 3",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/OUVVXsvaEkQ",
+      "hd_video_url": "https://www.youtube.com/embed/OUVVXsvaEkQ",
+      "thumbnail": "https://i.ytimg.com/vi/OUVVXsvaEkQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9e9fcb5-6e8a-4e1d-90ea-d0b114426f73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "43. हैलोऐक्लेन तथा हैलोऐरिन Part 4",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zU-L-e8M9WQ",
+      "hd_video_url": "https://www.youtube.com/embed/zU-L-e8M9WQ",
+      "thumbnail": "https://i.ytimg.com/vi/zU-L-e8M9WQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  हैलोऐक्लेन तथा हैलोऐरिन Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0970fc3a-9876-4187-b097-60538efc7b03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "44. हैलोऐक्लेन तथा हैलोऐरिन Part 5",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/2DUL1_8VHJc",
+      "hd_video_url": "https://www.youtube.com/embed/2DUL1_8VHJc",
+      "thumbnail": "https://i.ytimg.com/vi/2DUL1_8VHJc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ef15e74-37b9-43da-acec-d86eb8f78b2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "45. हैलोऐक्लेन तथा हैलोऐरिन Part 6",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/hyDzsqlpoyI",
+      "hd_video_url": "https://www.youtube.com/embed/hyDzsqlpoyI",
+      "thumbnail": "https://i.ytimg.com/vi/hyDzsqlpoyI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9748ff43-109c-42e2-8050-df59ece14a6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "46. हैलोऐक्लेन तथा हैलोऐरिन Part 7",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/fzZJT5YPIfE",
+      "hd_video_url": "https://www.youtube.com/embed/fzZJT5YPIfE",
+      "thumbnail": "https://i.ytimg.com/vi/fzZJT5YPIfE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  हैलोऐक्लेन तथा हैलोऐरिन Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6847f870-9022-4237-b472-431fcfedbd4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "47. हैलोऐक्लेन तथा हैलोऐरिन Part 8",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Ao_aTOaKdok",
+      "hd_video_url": "https://www.youtube.com/embed/Ao_aTOaKdok",
+      "thumbnail": "https://i.ytimg.com/vi/Ao_aTOaKdok/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff328fc6-4323-47a6-9f87-2424f5d90c58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "48. हैलोऐक्लेन तथा हैलोऐरिन Part 9",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/XKeXAB1FTkI",
+      "hd_video_url": "https://www.youtube.com/embed/XKeXAB1FTkI",
+      "thumbnail": "https://i.ytimg.com/vi/XKeXAB1FTkI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-हैलोऐक्लेन तथा हैलोऐरिन Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6705de26-e80b-46b1-9822-6c8a5848db92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "49. हैलोऐक्लेन तथा हैलोऐरिन Part 10",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/LOnYB17ocRk",
+      "hd_video_url": "https://www.youtube.com/embed/LOnYB17ocRk",
+      "thumbnail": "https://i.ytimg.com/vi/LOnYB17ocRk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes-  हैलोऐक्लेन तथा हैलोऐरिन Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17409483-4137-40b1-9a9c-786f884cbbc7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "50. हैलोऐक्लेन तथा हैलोऐरिन Part 11",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/o3koRXTH3U8",
+      "hd_video_url": "https://www.youtube.com/embed/o3koRXTH3U8",
+      "thumbnail": "https://i.ytimg.com/vi/o3koRXTH3U8/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f00d621-e0fe-4f40-a73c-e2636fef41f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "51. हैलोऐक्लेन तथा हैलोऐरिन DPP",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/z-g3IeMleWc",
+      "hd_video_url": "https://www.youtube.com/embed/z-g3IeMleWc",
+      "thumbnail": "https://i.ytimg.com/vi/z-g3IeMleWc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- हैलोऐक्लेन तथा हैलोऐरिन DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c82abb3-3303-428c-a04b-1e9faa60ebf7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "52. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 1",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/EskqYB_vH2k",
+      "hd_video_url": "https://www.youtube.com/embed/EskqYB_vH2k",
+      "thumbnail": "https://i.ytimg.com/vi/EskqYB_vH2k/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b8a4dbe-007f-45a2-8e28-72afee266723.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "53. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 2",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/vzOIUKMHcLw",
+      "hd_video_url": "https://www.youtube.com/embed/vzOIUKMHcLw",
+      "thumbnail": "https://i.ytimg.com/vi/vzOIUKMHcLw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1637fed2-b29f-4d74-9f48-047c1e012b98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "54. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 3",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/vvvqODqDn10",
+      "hd_video_url": "https://www.youtube.com/embed/vvvqODqDn10",
+      "thumbnail": "https://i.ytimg.com/vi/vvvqODqDn10/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ef4e997-1a2c-4e66-b4da-384bead23306.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "55. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 4",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/obn1-j_o7OE",
+      "hd_video_url": "https://www.youtube.com/embed/obn1-j_o7OE",
+      "thumbnail": "https://i.ytimg.com/vi/obn1-j_o7OE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/808f1c14-7185-4db9-9416-69bbf33d8be8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "56. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 5",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/iOnvVCWQNEw",
+      "hd_video_url": "https://www.youtube.com/embed/iOnvVCWQNEw",
+      "thumbnail": "https://i.ytimg.com/vi/iOnvVCWQNEw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9afe53d4-fd4b-4f53-bd1c-af4c84cc8555.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "57. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 6",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/IFLtB1T5e2A",
+      "hd_video_url": "https://www.youtube.com/embed/IFLtB1T5e2A",
+      "thumbnail": "https://i.ytimg.com/vi/IFLtB1T5e2A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26b8cf25-9091-46b1-a429-58d50f174486.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "58. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 7",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/XKETMCtICl4",
+      "hd_video_url": "https://www.youtube.com/embed/XKETMCtICl4",
+      "thumbnail": "https://i.ytimg.com/vi/XKETMCtICl4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2aa9b0b-35d7-4790-8cc8-a8ba1f049635.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "59. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 8",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Bf3Pvm1Ropo",
+      "hd_video_url": "https://www.youtube.com/embed/Bf3Pvm1Ropo",
+      "thumbnail": "https://i.ytimg.com/vi/Bf3Pvm1Ropo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/444307ce-9617-49d9-89ac-d8b920befd6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "60. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 9",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ZVONyScK18g",
+      "hd_video_url": "https://www.youtube.com/embed/ZVONyScK18g",
+      "thumbnail": "https://i.ytimg.com/vi/ZVONyScK18g/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af3921e6-beb0-4a35-851b-1198743f6c9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "61. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 10",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/p5tkJkvXTHw",
+      "hd_video_url": "https://www.youtube.com/embed/p5tkJkvXTHw",
+      "thumbnail": "https://i.ytimg.com/vi/p5tkJkvXTHw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ec5d29d-ddeb-4a65-b2ce-54fbbaf43243.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "62. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 11",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/y46ptM4BANo",
+      "hd_video_url": "https://www.youtube.com/embed/y46ptM4BANo",
+      "thumbnail": "https://i.ytimg.com/vi/y46ptM4BANo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bd20f7d-4c27-457e-8b9c-43e19c6ffff8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "63. ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 12",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Kb7llu5z2ug",
+      "hd_video_url": "https://www.youtube.com/embed/Kb7llu5z2ug",
+      "thumbnail": "https://i.ytimg.com/vi/Kb7llu5z2ug/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्कोहॉल, फ़िनॉल एवं ईथर Part 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd416294-bd1b-42a0-947e-6cb643dfda58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "64. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 1",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/OibHP9ifykM",
+      "hd_video_url": "https://www.youtube.com/embed/OibHP9ifykM",
+      "thumbnail": "https://i.ytimg.com/vi/OibHP9ifykM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aafc960f-fd66-4eb5-af67-bb97dcba0039.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "65. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 2",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tuVtvge1vzY",
+      "hd_video_url": "https://www.youtube.com/embed/tuVtvge1vzY",
+      "thumbnail": "https://i.ytimg.com/vi/tuVtvge1vzY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfd34a1a-9586-45ce-bb9b-cbb35d5270c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "66. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 3",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/V0caQwe_BCE",
+      "hd_video_url": "https://www.youtube.com/embed/V0caQwe_BCE",
+      "thumbnail": "https://i.ytimg.com/vi/V0caQwe_BCE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes :- 66 ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/315e6d0b-9b35-41d0-af74-300ad3fada68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "67. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 4",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-Qt-dYlk1O0",
+      "hd_video_url": "https://www.youtube.com/embed/-Qt-dYlk1O0",
+      "thumbnail": "https://i.ytimg.com/vi/-Qt-dYlk1O0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "68. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 5",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/aIbB0GzE4I0",
+      "hd_video_url": "https://www.youtube.com/embed/aIbB0GzE4I0",
+      "thumbnail": "https://i.ytimg.com/vi/aIbB0GzE4I0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes :- 68. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/022962e4-da72-44fe-9ca9-12d97e034673.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "68. ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल Part 6",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/igyfXUfi3Jg",
+      "hd_video_url": "https://www.youtube.com/embed/igyfXUfi3Jg",
+      "thumbnail": "https://i.ytimg.com/vi/igyfXUfi3Jg/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

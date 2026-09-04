@@ -1,0 +1,93 @@
+{
+  "subject_name": "Essay by PM Tripathi Sir",
+  "subject_id": 6214,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227714/kgss-1744715802-v227714.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OxhFCywAl4E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FPtztyhUj9L57mMgQteYMcXf1igIhL2Ae1zCkEYM.jpg",
+      "notes": [
+        {
+          "title": "lecture-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4665e739-c970-47ec-abfb-85ec09cf42ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Essay",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228415/kgss-1744802565-v228415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1PNgbWH5qPo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cbEVY24rrYSd7mlI9cx6pjI6yhwDgDsN8LYa0OMp.jpg",
+      "notes": [
+        {
+          "title": "lecture-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a5ff7c7-9252-4a4b-9357-208992937601.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Essay",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228884/kgss-1744889300-v228884.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kLZHyYq_ETk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UiBNPyVR5pVU8nhcQ5JpRR036Q3rRLK44yYIBTIn.jpg",
+      "notes": [
+        {
+          "title": "lecture-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17772d17-2ea2-4417-8664-935bd9d4e7b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Essay",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229366/kgss-1744971875-v229366.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/trog5LSpn3E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uWlgrFRc35MbpO66PFiABBEqCmom9wVZGcsdDTZk.jpg",
+      "notes": [
+        {
+          "title": "lecture-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90dcc88b-1ee7-4686-939e-1bfa06458d3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Essay",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229667/kgss-1745061207-v229667.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BdJETGrfsEQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/X8H0iCvlTqwjcRHzukcvZHdbo8kXVPrvlf7Da90A.jpg",
+      "notes": [
+        {
+          "title": "lecture-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1246d972-2bc5-45fb-b1d3-230b5433442a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Essay",
+      "published_date": "20 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230261/kgss-1745147951-v230261.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_D_X2bhzm1c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3T7oTl0eKK2ViCTrd6QyvRgWd9Cd0ciw3H3SJaiK.jpg",
+      "notes": [
+        {
+          "title": "lecture-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/59de6f3a-2344-434f-91a2-4d6efea70b51.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

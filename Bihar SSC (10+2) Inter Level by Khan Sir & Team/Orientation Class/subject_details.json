@@ -1,0 +1,45 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 853,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01: Biology Introduction Class By Avinash Sir",
+      "published_date": "03 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/lM54Sz1Yr3k",
+      "hd_video_url": "https://www.youtube.com/embed/lM54Sz1Yr3k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//26a395d0-b7b5-40c8-b4b8-a3c523f1822f.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 01: Maths Introduction Class By PK Sir",
+      "published_date": "03 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/ZQ6bXcTGvhE",
+      "hd_video_url": "https://www.youtube.com/embed/ZQ6bXcTGvhE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 01 : Geography Introduction Class By Amit Shree Sir",
+      "published_date": "03 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/-GNDOVyea8w",
+      "hd_video_url": "https://www.youtube.com/embed/-GNDOVyea8w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3d612ee3-ff36-4b6d-98f0-37e73a65c4df.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 01: Physics Introduction Class By Shailendra Sir",
+      "published_date": "16 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/oOdJoq9R3rU",
+      "hd_video_url": "https://www.youtube.com/embed/oOdJoq9R3rU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e4d14836-ada6-4cfb-a404-c18f527e5d8a.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

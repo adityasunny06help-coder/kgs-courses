@@ -1,0 +1,737 @@
+{
+  "subject_name": "Biology by Sumit Sukla Sir",
+  "subject_id": 3982,
+  "video_count": 52,
+  "note_count": 52,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction Class",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-01/bio-int-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tPk6Be4w7-I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/25cMeQALkEtktj45jYuWguqi6EOAr6mFsFPm0N6p.jpg",
+      "notes": [
+        {
+          "title": "Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e910ba6-c943-400c-8238-9aae1cc8c037.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-1 )",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-02/bio-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1wg0z4GIulw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bithEix6r3h9VNnqRz8LoNef0K86qyZcpFhdwkry.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-1 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aef7652-5f57-497e-bf30-eaa487748fa9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-2 )",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-03/bio-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vxajD70_usU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JILpuuVkq3YNEpBNRtN6QI3n6A1XkDYTmBQYIBOj.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-2 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09363338-6761-48eb-a79d-41add04cb654.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-3 )",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-04/bio-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/z1Sk4YUtdlI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bChiXjaFVwHElaPPKkCDwLyAFHnURxGeXRJjnXZy.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-3 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1b9cba7-2915-4835-8cbc-405c36fd8ca0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-4 )",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-05/bio-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0FhtnGtQN4A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tZM7W8pZJkeA8REM9ynoQpB9CZPPvex5LmdrKC9k.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f45fe983-9980-4c56-b29f-ce2013d1cc27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-5 )",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-06/bio-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iuYv6FXIwJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9XOjqWadGvetGD6hgaEvJBVp6bgSvSteNEzw465k.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-5 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd44cfc5-4d81-4fb3-9e0e-62cdaeed01b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-6 )",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-07/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wqwKB3SNxRk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7WQXSvNKpmNan46nx5ExVxRjGXiIr7oJfSIrmcx0.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-6 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f33ddb1-e6a1-41b3-b390-3c95a9e26902.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-7 )",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-08/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U3Fa5HV2VLg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8puRQ4wNkH5nQd5Mpj2JXo5t8tjkkf74sYxiSJOu.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-7 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a44ec50-4be0-4a10-a84a-a750f7f7fa7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-8 )",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-09/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7q8G85gn8zc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/z4XSuNyUEw2hTTt5B09CjIc3NnlMU8zJqehmVSBb.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-8 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6a18c35-1124-4139-9024-7e61b39d6388.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-9 )",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-10/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qXC5KVY85T8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PsO2rKYPUTWCXbLtF9sakzDJeKMCfWzVQDd87gJr.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण ( Part-9 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a60128d0-f75d-4d85-a4d8-12ee3cc9d8aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-10)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-11/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7Cn_3FHx-_Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RVSTEdDVei0qsftC1f9zMuxy5xkdOheHIesRKOM5.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afeb3866-7d30-48a8-af4d-ba0dcdd93786.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-11)",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-12/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3fxYj6j3uLA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LuwXSzP3mU20dtnpaEXZxkNLQgTkqGA2kB43BtwZ.jpg",
+      "notes": [
+        {
+          "title": "Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94a32791-44a1-40c4-a3c9-85bbd9e7fb05.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-12)",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/science-sumit-sir/bio/l-13/bio-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rc9gKLF9Ljg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NE3i0PZRK9sdyHBcrbNofhgsChL5vSU08NWINhPE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Human Health and Nutrition || मानव स्वास्थ्य और पोषण (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f333096d-68f2-4a0d-a532-b3b0340d9caf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-1)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185390/kgss-1738056835-v185390.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ta0N3CKrtRU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dmG6C57pyyDvMMr3Lriw4p1Cp6BucUuKn8JOPJ9G.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/30608e53-c2a7-4c49-9ba8-0d39006365f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-2)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/185887/kgss-1738142753-v185887.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jd65NKV7PAQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jtYAT3ciL4el7zBwflDigLhRSqWDgEgGjUX2JXba.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1eb80ce-31a3-4ba7-9bb3-1f5d3df9316b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-3)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189305/kgss-1738748059-v189305.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QQSTP6gmUOU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/392i0800VNYeMsykkX1qIZRD9bDe4CJD2pGyJHn3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/332332b3-2455-4288-95b1-f61ccc246985.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-4)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189764/kgss-1738834556-v189764.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7ra-RQFhC1o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h45AwF2HsFWsy1l7SfV0n0QgtW2Ilc5jyDwLTeJI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecdac58a-5baa-40e2-a85e-ccc326ebe2ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-5)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190295/kgss-1738921756-v190295.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Jap_LHBxsaw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ye5vOwbk4KQefsyBDb4U281akJErbG8UblD93jwP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b01206a-6603-45b5-9055-e99106c3056c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-6)",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190822/kgss-1739007315-v190822.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/91JPZezGeWQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RfL7mqghiLrwVGPxOkk7DoIVh1ZaD5fajzKAQWMP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Cell and Cytology || कोशिका एवं कोशिका विज्ञान (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a292066a-2ac6-4b11-a6a4-dadce57909d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Cell and Cytology & Tissue || कोशिका एवं कोशिका विज्ञान & ऊतक",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191186/kgss-1739179437-v191186.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gnqWF7glajY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/COMNDKGZr4VICLKOI1UYLjvDAHtJshO8gs9fI7iI.jpg",
+      "notes": [
+        {
+          "title": "Cell and Cytology & Tissue || कोशिका एवं कोशिका विज्ञान & ऊतक",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/048baba6-42c4-458d-ba0c-239904f60326.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Tissue || ऊतक (Part-2)",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191737/kgss-1739266337-v191737.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rHCzEM3Mngc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9AgXQfyo7bjBjqnID0KNHkMKZzZlTb8SoMNuc7CU.jpg",
+      "notes": [
+        {
+          "title": "Tissue || ऊतक (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8309016-203d-4ba9-9f07-f2f412116a91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Tissue || ऊतक (Part-3)",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Qe1SiZNcDKY",
+      "hd_video_url": "https://www.youtube.com/embed/Qe1SiZNcDKY",
+      "thumbnail": "https://i.ytimg.com/vi/Qe1SiZNcDKY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Tissue || ऊतक (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6df728dc-8d30-4368-95cd-fb0f7cadf861.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Blood Circulation System || रक्त परिसंचरण तंत्र",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192696/kgss-1739439660-v192696.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5uaG1ctnoyI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/z9Jck4mUaU2wJfABhvboP9kueyIP3mCTQy6P6L4c.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulation System || रक्त परिसंचरण तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71f5ef64-baf8-4b58-be60-c3182490b11b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Blood Circulation System || रक्त परिसंचरण तंत्र (Part-2)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193303/kgss-1739526295-v193303.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2pKaGCaPjTI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z6g0oWQ7NoShBzknU4V1dpEzpJZJm1rIvirpEXq2.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulation System || रक्त परिसंचरण तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d0f9fe9-fa4d-4583-abcc-9c06dacfb063.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Blood Circulation System || रक्त परिसंचरण तंत्र (Part-3)",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193696/kgss-1739612596-v193696.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/88Ae3IZceOY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/69RH6y9hPsvZBqKIsbNslRxpkJxfehpathhK7mtl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Blood Circulation System || रक्त परिसंचरण तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f564551c-8a88-4d1c-ab55-0907e77ab52f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Blood Circulation System || रक्त परिसंचरण तंत्र (Part-4)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201419/kgss-1740995889-v201419.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gMH-eaN4WcU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qHhhrEOYO4EXkwg66r94S2rAb1N2QqTB2t5AsMef.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Blood Circulation System || रक्त परिसंचरण तंत्र (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48e4a761-61bf-45fc-8343-0d0339693d83.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Human Heart || मानव का हृदय (Part-01)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202083/kgss-1741081416-v202083.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GcPMXEZravk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MibzQgtWtrkHyF3Ott8u4mLPbpN4qoaym5ApyAIj.jpg",
+      "notes": [
+        {
+          "title": "Human Heart || मानव का हृदय (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aeae559-e532-4d7c-aa59-62717633d52e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Human Heart || मानव का हृदय (Part-02)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206513/kgss-1741168429-v206513.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qtPG44jaiLk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XyTRlGGKLG64MSPJ1Qd5GKMX4DLIIpwQfZ1h2IuL.jpg",
+      "notes": [
+        {
+          "title": "Human Heart || मानव का हृदय (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d82748a3-fa9b-4ce5-aed2-5ea4436906e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Blood Group & Human Digestive System || रक्त समूह एवं मानव पाचन तंत्र",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/206920/kgss-1741255238-v206920.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4nRQJuVRhk0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EfQ0v5QysKdZepnVXEUfLceGDl2t8xlYbk9eAb28.jpg",
+      "notes": [
+        {
+          "title": "Blood Group & Human Digestive System || रक्त समूह एवं मानव पाचन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7aaff11-0149-466e-b58c-6eda8db82363.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Human Digestive System || मानव पाचन तंत्र (Part-2)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208283/kgss-1741343082-v208283.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/53PIHT4anc0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CkuZJKvfNLh0HXBizfMk70jgCoybL6ubPyPGC9hD.jpg",
+      "notes": [
+        {
+          "title": "Human Digestive System || मानव पाचन तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a70f5390-4964-4142-a3c2-14832fce8c55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Human Digestive System || मानव पाचन तंत्र (Part-3)",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210178/kgss-1741428106-v210178.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wnkfjwFCofI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/I1txEZqAq3mSYCrfHxpKT5oAiRcDnvkC5duPmDJ4.jpg",
+      "notes": [
+        {
+          "title": "Human Digestive System || मानव पाचन तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/320a5531-0496-4186-b710-0ba6d57f5e4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Human Digestive & Nervous System || मानव पाचन और तंत्रिका तंत्र",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212464/kgss-1742288381-v212464.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LVkl_Z2TmWU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OxmHOALeBzMpK8QqhGHq1M9kjj7DcMylvlLsjvDm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e1f3076-3c5c-4d4d-8ca1-805d689b15a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Human Nervous System || मानव तंत्रिका तंत्र (Part-2)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213012/kgss-1742374493-v213012.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JwB0ElmGiWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4HuC8idvJj1Nb8PvqWUeYTlMREAXpEdfTVjHct9i.jpg",
+      "notes": [
+        {
+          "title": "Human Nervous System || मानव तंत्रिका तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e72fd1e6-e3b7-4524-b088-2e822f59b2b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Human Nervous System || मानव तंत्रिका तंत्र (Part-3)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213439/kgss-1742462387-v213439.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DGq2FdJrbu0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/74oXw00KKLwvqvLx7O4Pe49RFHsBcmnoEb0PBB6D.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Human Nervous System || मानव तंत्रिका तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35f2320c-cccb-40b6-bd19-b2b1b2214319.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Human Nervous System || मानव तंत्रिका तंत्र (Part-4)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213869/kgss-1742548200-v213869.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/So9po0yOIsw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bdG70dN7Ce2rVeshuDY82R6Hdx72ds1d245zRYy7.jpg",
+      "notes": [
+        {
+          "title": "Human Nervous System || मानव तंत्रिका तंत्र (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f371ada8-974c-456f-a81e-26bd7eebbb7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Human Nervous & Respiratory System || मानव तंत्रिका एवं श्वसन तंत्र",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216531/kgss-1742634723-v216531.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ad8JEo_Q2uU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qwp6zEVyoca7lVlN5FRkTlFIdDJGgd4rlir9rM6k.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c982ab99-c21e-4991-9865-9461fdc54bf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 || Human Respiratory System || मानव श्वसन तंत्र (Part-2)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/217013/kgss-1742807653-v217013.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4r0lTUZvdvA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/B08Oam4DZijP61pFNYd8fy7qHWg4nQ4fcrytDqB7.jpg",
+      "notes": [
+        {
+          "title": "Human Respiratory System || मानव श्वसन तंत्र (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eed991c3-2e7a-48fd-9cda-e51878966a53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Human Respiratory System || मानव श्वसन तंत्र (Part-3)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218411/kgss-1742979904-v218411.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EfW-rp7wjQw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sv1By4ONupglrKXWIlTLG3vH5Zjod0ysdGujtCmG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Human Respiratory System || मानव श्वसन तंत्र (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07e7b179-54af-44c7-aa46-58c79f3efa3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Human Respiratory & Skeletal System || मानव श्वसन और कंकाल तंत्र",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218921/kgss-1743066879-v218921.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wPvK1oNSEnA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/l4QdkkIT33qt5Unr76TckP7t9WFu0cc8YU8LaoYW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62081715-fe01-409b-be71-88a5ed0326eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Human Skeletal & Excretory System || मानव \n कंकाल और उत्सर्जन तंत्र",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219429/kgss-1743153210-v219429.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1sWarN2n0Us",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EYvgR1Lxqi1cxKCokshoshduXy3hQwtst6viALYo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d35f3186-9156-46a3-b902-105123df4096.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Human Excretory & Reproductive System || मानव उत्सर्जन और प्रजनन तंत्र",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221111/kgss-1743584254-v221111.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gw-fMq4RqMo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/E4gaEPDKvmR7laamuqQ2KXn8MTf0M2tPcjfwRxql.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Human Excretory & Reproductive System || मानव उत्सर्जन और प्रजनन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9928f19-f495-48e8-a343-86c55a104f86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Human Gland & Hormone || मानव ग्रंथि और हार्मोन",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234392/kgss-1745831984-v234392.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/M6LkmJ2KzD0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D8e8JBsDkxhJyE9bHhq278oYRFs1pSp2MD03ZLXN.jpg",
+      "notes": [
+        {
+          "title": "Human Gland & Hormone || मानव ग्रंथि और हार्मोन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c30a894c-12d2-4fc5-a7bf-30b001692dd0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Human Gland & Hormone || मानव ग्रंथि और हार्मोन (Part-2)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234896/kgss-1745919877-v234896.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XfzWTZA_4Co",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FZvK3XAbvy8xMjUbMHymikfwUOSvr18UPioTP2Ux.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Human Gland & Hormone || मानव ग्रंथि और हार्मोन (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82a9d2cf-8a78-455a-ae35-5edec37b9b1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Plant Kingdom || वनस्पति जगत",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235402/kgss-1746005965-v235402.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6sEqLufo8B4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/c9hojQdjj7gADQ4RqBK6zpjFtIiJP2R32GkwL2VP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Human Gland & Hormone || मानव ग्रंथि और हार्मोन (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11b558ad-33b6-48a1-a67a-1c32fdb83e6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Plant Kingdom || वनस्पति जगत (Part-2)",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241357/kgss-1746092913-v241357.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BIHEBkFR5wg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6aJhXFA2QXU4ut6K5fbwoqCaMYyWdhAinNWpUbrI.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Plant Kingdom || वनस्पति जगत (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71a5c5f1-0159-469d-afec-7c5fd9b57903.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Plant Kingdom || वनस्पति जगत (Part-3)",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241895/kgss-1746178128-v241895.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tJ7Uu3kbsyU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Fx8CDh5K5lCj3ww9MKywQU6aBZdJMvA0hmG292Se.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Plant Kingdom || वनस्पति जगत (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e7d6d4b-3143-4d35-86ea-b13083c005a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Plant Kingdom || वनस्पति जगत (Part-4)",
+      "published_date": "03 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/242818/kgss-1746265385-v242818.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-0-wpmHgtew",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZAbKDi9OZhAH1OF7Qz6gaN165rzkvidyxh9hztUo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Plant Kingdom || वनस्पति जगत (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8104d39-e8ff-48de-b90e-f5d5b8aa4da6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Plant Kingdom || वनस्पति जगत (Part-5)",
+      "published_date": "05 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243550/kgss-1746445312-v243550.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Txw0UwFxN4g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/K2C2IoBEexJBC2SLxhhDD9vRHDbwJTOTQENDQRyo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Plant Kingdom || वनस्पति जगत (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a3ff2c7-e10c-45d3-9882-1fb8e000392b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Plant Kingdom & Disease || वनस्पति जगत और बीमारी",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243991/kgss-1746531071-v243991.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kBvZHFSI7Z0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/49wggUfAMja7MW0E3vJJ0Duq1zp2Xloj2jKaQfhE.jpg",
+      "notes": [
+        {
+          "title": "Plant Kingdom & Disease || वनस्पति जगत और बीमारी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b58f46eb-08f7-4ba4-b010-40416d6a4ac3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Disease || बीमारी (Part-2)",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245881/kgss-1746704124-v245881.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SRTlDzMhUtU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lQN9498IQlvmyscCEX83Rl3Kn1yzXIIwl0OjsfpJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Disease || बीमारी (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cc52f3d-37b6-4e8c-94b1-1a2b11a39cc2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Disease || बीमारी (Part-3)",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246369/kgss-1746789997-v246369.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MXT0zhq6qXc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aGfvfhOdiewtiAsXW0aW2GUerPy7mpb5DZbfoKjU.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Disease || बीमारी (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41a8439f-5e04-4bef-b5bc-5b4d995dc59e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || जन्तु जगत  || Animal kingdom (Last Class)",
+      "published_date": "20 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TaU5Z5eJQFA",
+      "hd_video_url": "https://www.youtube.com/embed/TaU5Z5eJQFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0rCbHzaFbfAAxh02PEJTWaCwNg7PJ1IxNoO184Yp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || जन्तु जगत  || Animal kingdom (Part-2) Last Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b25f1d8a-93f7-40bb-8a9d-cb51ee0e17d2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

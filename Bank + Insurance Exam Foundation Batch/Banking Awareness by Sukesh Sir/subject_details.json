@@ -1,0 +1,933 @@
+{
+  "subject_name": "Banking Awareness by Sukesh Sir",
+  "subject_id": 6078,
+  "video_count": 66,
+  "note_count": 66,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/FI3Hvuuj6CU",
+      "hd_video_url": "https://www.youtube.com/embed/FI3Hvuuj6CU",
+      "thumbnail": "https://i.ytimg.com/vi/FI3Hvuuj6CU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9537503e-1488-4125-85ee-fd149a89b5f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Indian Banking History (part -01)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GOCxqr45-lQ",
+      "hd_video_url": "https://www.youtube.com/embed/GOCxqr45-lQ",
+      "thumbnail": "https://i.ytimg.com/vi/GOCxqr45-lQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Indian Banking History (part -01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bedd2b36-5038-47ad-91bc-81bfe5a17462.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Indian Banking History (part -02)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/uYobbMEfJDQ",
+      "hd_video_url": "https://www.youtube.com/embed/uYobbMEfJDQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HD0XnxJ0m29fQAhyJqzOh5z6unhdAnB1qqhE2g0p.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Indian Banking History (part -02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/794bc2ca-3a44-41ae-8e76-42d23c7c56f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Indian Banking Structure (part -01)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9R5tyClcM0Q",
+      "hd_video_url": "https://www.youtube.com/embed/9R5tyClcM0Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8VJsF6CnYiWAKaJOm3d2VayTd0YQQpgBqK58Tzqm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Indian Banking Structure (part -01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b81b0248-4f80-4c84-9398-ad28580987d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Indian Banking Structure (part -02)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/oUfCA0q_6s0",
+      "hd_video_url": "https://www.youtube.com/embed/oUfCA0q_6s0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RktPohu1N5JmDx2AKM9gEk6N1K667TbZdQaZ49OY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Indian Banking Structure (part -02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/502406d9-00cb-41fc-8e62-3e15dd4da9cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Indian Banking Structure (part -03)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/wQqYw0WaJPA",
+      "hd_video_url": "https://www.youtube.com/embed/wQqYw0WaJPA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dXzu5zVyM6qrTXOjSqSDP8OVpnfusYi1PysG5qcP.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Indian Banking Structure (part -03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e752f44-3fcf-44c5-80d4-2771f62092e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Indian Banking Structure (Part -04)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/StsvsOyTSNM",
+      "hd_video_url": "https://www.youtube.com/embed/StsvsOyTSNM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cmnm1h2ELtYvYcGZphaDoO5kyJeVFsO7sOdW848M.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Indian Banking Structure (part -04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52540a95-e9aa-4597-96ac-5926c6155443.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Indian Banking Structure (Part -05)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OeafhkzydZA",
+      "hd_video_url": "https://www.youtube.com/embed/OeafhkzydZA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/h6XaJLZ1CrGrKmY5FyZe1UObTAv7lL7cPH8K4ULX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Indian Banking Structure (Part -05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa2f4eca-af04-455a-8d30-581ebb3de2e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Indian Banking Structure (Part -06)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Nt7cnYe9SiA",
+      "hd_video_url": "https://www.youtube.com/embed/Nt7cnYe9SiA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mEkKv9UefvD5bin9HhS3iMKLpFS3Yxgg2vP7J9HN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Indian Banking Structure (Part -06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/865279a1-7d4b-4136-8f30-e9a299298823.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Indian Banking Structure (Part -07)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Xg_xOQxGVdc",
+      "hd_video_url": "https://www.youtube.com/embed/Xg_xOQxGVdc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rpMAoayTsfH97KDJuJbGHoklPSJCMkoXPa3AQvNg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Indian Banking Structure (Part -07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06b10331-5796-4bdf-a448-67d96fcd652b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Indian Banking Structure (Part -08)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fq12IcCFO4w",
+      "hd_video_url": "https://www.youtube.com/embed/fq12IcCFO4w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eSdJLSfnVQNz0Buboq2gFXQuQqHPMkHQMuyYdNwN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Indian Banking Structure (Part -08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba70a17f-4ede-4512-bccc-0799a772faa6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Commercial Bank (Part- 01)",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ifLZxJ9z6NA",
+      "hd_video_url": "https://www.youtube.com/embed/ifLZxJ9z6NA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/59AsPhBpmfdy8Dt5qMmTkApnt4OIla197K61yrrr.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Commercial Bank (Part- 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85de9d95-37bd-4511-bc1b-b3522e815146.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Commercial Bank (Part- 02)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/8uh-g1uulNg",
+      "hd_video_url": "https://www.youtube.com/embed/8uh-g1uulNg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qKNwJz8ymR5ESEO5GIx0hDiWZAKrfCaaQaR4WLAl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Commercial Bank (Part- 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0a74a3b-4ef8-441c-80e5-a16946c99a6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Commercial Bank (Part- 03)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/TZZ697Z84Qg",
+      "hd_video_url": "https://www.youtube.com/embed/TZZ697Z84Qg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Fhk1EztTX9wIxlnFa8V4UWdw08CgVJRRFuBBkdJQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Commercial Bank (Part- 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e91fcf4-a093-4bfc-a397-dea51919ebc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Commercial Bank (Part- 04)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ZBaBO1b6n-Q",
+      "hd_video_url": "https://www.youtube.com/embed/ZBaBO1b6n-Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4AbQtx1gNlBgM61L8veZiSMcO3BEbtY8WY1IIKRy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Commercial Bank (Part- 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2068fd7d-9222-4f6a-b92e-a9444250163e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Commercial Bank (Part- 05)",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/gTYXSktJavU",
+      "hd_video_url": "https://www.youtube.com/embed/gTYXSktJavU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9BqS3deEo40OOICo3m8ZuKk6oHrgxaeSoC9lSSLG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Commercial Bank (Part- 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ed4b33f-c886-4455-9ff0-f09f911d3e3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Commercial Bank (Part- 06)",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/FLzaGk83xeI",
+      "hd_video_url": "https://www.youtube.com/embed/FLzaGk83xeI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4Nz0KgC1gvUlBe8fYrljYwa8cSu6gjPNmWCqMPp3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Commercial Bank (Part- 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfba1a65-e65c-4fa3-8eb5-3be29052cd44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Commercial Bank (Part- 07)",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/_NlLoieoGX8",
+      "hd_video_url": "https://www.youtube.com/embed/_NlLoieoGX8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/w3H0b7g0GmlbhLiYPkZ4M9Xy2vAxbm8LIjLcmjsq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Commercial Bank (Part- 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/557271d6-9843-4f49-a398-dac660bcc24b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Commercial Bank (Part- 08)",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/RqhANILps9I",
+      "hd_video_url": "https://www.youtube.com/embed/RqhANILps9I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xrf66KkDK3uTRxnZ1gcw5p9fheLGchTBByT9qE6x.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Commercial Bank (Part- 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/239d16e0-10f1-4c9d-9a3d-bf7b1d2c7998.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Commercial Bank (Part- 09)",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/qTUNvcXizHU",
+      "hd_video_url": "https://www.youtube.com/embed/qTUNvcXizHU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yCZ5DP5rnQ2rGkBb36U96MhWYk8XatJYXaFtE8Dy.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Commercial Bank (Part- 09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2b6255b-363e-4901-b61f-6d35187083b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Commercial Bank (Part- 10)",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/u-hE3U6krkc",
+      "hd_video_url": "https://www.youtube.com/embed/u-hE3U6krkc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bkE2eKekQ2SstD91poXnWAE57GRwbGgCkXF2a4Bs.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Commercial Bank (Part- 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b05db44d-962a-4aa6-9379-5a7a05f260bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || RBI & It's Functions (Part- 01)",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/gx_VYI6u14I",
+      "hd_video_url": "https://www.youtube.com/embed/gx_VYI6u14I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YpMqgd747CJxG5QAkzpnHCo7zLFmyzhZPWBg89K6.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || RBI & It's Functions (Part- 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86f4de73-bf4c-4fa0-8d82-39c25fd478d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || RBI & It's Functions (Part- 02)",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/SQwqD664xw8",
+      "hd_video_url": "https://www.youtube.com/embed/SQwqD664xw8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Io7bYmjA7Z8l84tE2GUwNZ4fG2N3TztBQZkYO36O.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || RBI & It's Functions (Part- 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8309f93-babf-4718-9c67-024cbf938393.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || RBI & It's Functions (Part- 03)",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/HhMjusCCPgc",
+      "hd_video_url": "https://www.youtube.com/embed/HhMjusCCPgc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4d9HTDfDa5mhqJaIgsd3BoAvoVW7BEHllWWzNqUP.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || RBI & It's Functions (Part- 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccf286c4-6f83-4001-b6b4-b86fc4f73df0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || RBI & It's Functions (Part- 04)",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/DFSSgp648P8",
+      "hd_video_url": "https://www.youtube.com/embed/DFSSgp648P8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WE3H40dbdTwHdpCEqGpjpx4QxogupaCw5FBmery3.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || RBI & It's Functions (Part- 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f15221ee-dacd-4bc0-8ea0-14c69d86251b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || RBI & It's Functions (Part- 05)",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/PzAoWgzzP8w",
+      "hd_video_url": "https://www.youtube.com/embed/PzAoWgzzP8w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7riwLLvDYzLOLdAlpkeHXpaylxUVYNK5xa5Zdrbv.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || RBI & It's Functions (Part- 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcaac5a2-538b-495c-bc4a-8b79c72b50f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || RBI & It's Functions (Part- 06)",
+      "published_date": "22 May 2025",
+      "video_url": "https://www.youtube.com/embed/O90Alo0_Cqw",
+      "hd_video_url": "https://www.youtube.com/embed/O90Alo0_Cqw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Gi8MDYMndTo5aQzxMbAmnd5gAjo6OIMlevV4sNuH.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || RBI & It's Functions (Part- 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6944e1c-e467-45ee-b029-5fcf5ce3f6e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Monetary Policy (Part-01)",
+      "published_date": "23 May 2025",
+      "video_url": "https://www.youtube.com/embed/zmQWc_jt4AA",
+      "hd_video_url": "https://www.youtube.com/embed/zmQWc_jt4AA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7tPUO6UJi9WsiPH7dLGdCKwc3KmBtpqWNXPc3NRC.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Monetary Policy (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1424410a-e425-4833-9ef1-a9fa3eca533f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Monetary Policy (Part-02)",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/IsYooJzdq30",
+      "hd_video_url": "https://www.youtube.com/embed/IsYooJzdq30",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IYvJbMnVGLZDpJd1NZTMeXr23S07ZVzbjH6GmQc9.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || Monetary Policy (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89c351e2-c01c-42c0-a0cb-307efcc9c430.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Monetary Policy (Part-03)",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/76i4yRvgZDw",
+      "hd_video_url": "https://www.youtube.com/embed/76i4yRvgZDw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/STPC11iwP6AcUwYZVefAwoajhTlwhueNcQl9EFw1.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || Monetary Policy (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb2f4948-06b5-4694-9d3c-e516c508bfcd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || PSL (Part-01)",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/1hFdIuVUk1Y",
+      "hd_video_url": "https://www.youtube.com/embed/1hFdIuVUk1Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wrLkfFC8MSa6e1gJNPC2zrn39Oh2QPFeaQokj8pP.png",
+      "notes": [
+        {
+          "title": "Lecture-31 || PSL (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48899bb0-9e90-445e-b324-9520fc539b5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || PSL (Part-02)",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/UpdabPcKCi4",
+      "hd_video_url": "https://www.youtube.com/embed/UpdabPcKCi4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NdC6WqBVO3ihhDVusb0LtEk3BZfYoV3EngFdDQv4.png",
+      "notes": [
+        {
+          "title": "Lecture-32 || PSL (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2f4e93e-deca-4f2f-98c1-7b7d74cc4b2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || PSL (Part-03)",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/aCwhfdD22EY",
+      "hd_video_url": "https://www.youtube.com/embed/aCwhfdD22EY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cp4nvTY7jMWIOHxYsc2jZhvW4I0R2Xr8W8O4ruy1.png",
+      "notes": [
+        {
+          "title": "Lecture-33 || PSL (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f955d229-8a8a-4cc0-9b13-ba58a0802a1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Banking Awareness Test",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UMda5yFBCwA",
+      "hd_video_url": "https://www.youtube.com/embed/UMda5yFBCwA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ayIftA04VyUrLYLp3EdmUC9SHivA99uQ3STMNLOg.png",
+      "notes": [
+        {
+          "title": "Lecture-34 || Banking Awareness Test",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a95f8b9-12ec-4947-a0a4-23090f77ee4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Financial Market (Part- 01)",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/7dXNOexpOTM",
+      "hd_video_url": "https://www.youtube.com/embed/7dXNOexpOTM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2yFaO6JvFgnkMeGzGxIsNCKaYU48QtiFnh1jVHs1.png",
+      "notes": [
+        {
+          "title": "Lecture-35 || Financial Market (Part- 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ecd2e72-063f-41b8-98aa-a77235374cde.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Financial Market (Part- 02)",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Q6801Abs7GU",
+      "hd_video_url": "https://www.youtube.com/embed/Q6801Abs7GU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ghALxdmtpXNC66gU0fff9CGc1ZzavKg1jDYn8qZ4.png",
+      "notes": [
+        {
+          "title": "Lecture-36 || Financial Market (Part- 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2e192b6-d20b-4d50-9a4a-0fffe35ba67b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Financial Market (Part- 03)",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/DpVYIQaeoAA",
+      "hd_video_url": "https://www.youtube.com/embed/DpVYIQaeoAA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WtuvvcdUZzpSRtr0BIw9pd6hQ74pV1MD9IM3D2Np.png",
+      "notes": [
+        {
+          "title": "Lecture-37 || Financial Market (Part- 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f132e8f-8701-4b39-b63e-4e0c329abd5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Financial Market (Part- 04)",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/cCwGUeJq3xQ",
+      "hd_video_url": "https://www.youtube.com/embed/cCwGUeJq3xQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wY9jzx9x7oevmgiYUgNheANCZkf4cp27ynbIzE0I.png",
+      "notes": [
+        {
+          "title": "Lecture-38 || Financial Market (Part- 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c47f0f78-75d6-4f23-b8b3-5073f38e3fd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Financial Market (Part- 05)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KeWNcW069so",
+      "hd_video_url": "https://www.youtube.com/embed/KeWNcW069so",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UhjUp9HXeGOZgP73yYPRVEltB7rmxeihxN4F41pk.png",
+      "notes": [
+        {
+          "title": "Lecture-39 || Financial Market (Part- 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c5d9110-3fd9-42fc-877f-a37c957354aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Financial Market (Part- 06)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/gwJQyoik6zI",
+      "hd_video_url": "https://www.youtube.com/embed/gwJQyoik6zI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/n0LkAQXMg9IVS93LpKVgdTpS1sr3tNwZjmiFCpTM.png",
+      "notes": [
+        {
+          "title": "Lecture-40 || Financial Market (Part- 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15e36380-419e-4af7-a136-0f1fc87fb999.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Financial Market (Part- 07)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VPLdWUmhjcg",
+      "hd_video_url": "https://www.youtube.com/embed/VPLdWUmhjcg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KTF8Ai6dt1FQH4mx2sq6Ox1FPztFl1P0sI51GRWk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Financial Market (Part- 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43f15440-02dc-42f0-b6d9-7a81f700b39d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Financial Market (Part- 08)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/JQfLqK1tZgI",
+      "hd_video_url": "https://www.youtube.com/embed/JQfLqK1tZgI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DBekAumjXrhzrAJHoedyKHhqD4vef94IpVYEpv4E.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Financial Market (Part- 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca923335-e480-42df-a89d-871e79d39766.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Financial Market (Part- 09)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/XZFOtgccg0M",
+      "hd_video_url": "https://www.youtube.com/embed/XZFOtgccg0M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R404MIUIzzoBw7LGKfqqD15AR6wgmAhJYvGbyxjv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Financial Market (Part- 09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3f6566b-6e4b-4c44-9d83-d01043780590.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Financial Market (Part- 10)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/etEvFRmnAug",
+      "hd_video_url": "https://www.youtube.com/embed/etEvFRmnAug",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fX4MHNQZgJoL4uJwKyxablGAh5B0MdKCpc796oYo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Financial Market (Part- 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3620dbd7-606c-494b-b547-a5f75739dbea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Financial Market (Part- 11)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/1Kf__0qOS7U",
+      "hd_video_url": "https://www.youtube.com/embed/1Kf__0qOS7U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ml6yeQFKk8jVce8zMbgpaBV5m8U0IoUtd2lL2kMh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Financial Market (Part- 11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d430317c-60c0-4db3-80bf-5c24dc8e4d26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Banking Terms (Part- 01)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ab7_zeRFjI8",
+      "hd_video_url": "https://www.youtube.com/embed/ab7_zeRFjI8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/p1fUEa3X7NxZsGV4zEh0ZQY0xwgBMPv1oXmXgKGK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Banking Terms (Part- 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa3248a7-48ec-4c1f-9dbb-050fa6b8fac7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Banking Terms (Part- 02)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/g5EatfLU1sk",
+      "hd_video_url": "https://www.youtube.com/embed/g5EatfLU1sk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1HSRNXF3phkA2zsuba6azF2pOgWpjFT81boz2D4i.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Banking Terms (Part- 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2698db4-a4b4-4a99-af23-581ffee06533.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Banking Terms (Part- 03)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/MjcZzWJTS7s",
+      "hd_video_url": "https://www.youtube.com/embed/MjcZzWJTS7s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SEqyyi69piP22xim9B8db2bssN5HdaPsV0TaCrC7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Banking Terms (Part- 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed5520db-d687-47f2-b743-e2a280b8ad52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Banking Terms (Part- 04)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/igObfQ6NAJY",
+      "hd_video_url": "https://www.youtube.com/embed/igObfQ6NAJY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/X57nQ1dmILzoPByDV0EXvWUbdYMcS54bjkyHAIZk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Banking Terms (Part- 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f1a3e4a-1ba6-4c52-aada-90a4aca0ad07.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Banking Terms (Part- 05)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/j1w9vlr-n5s",
+      "hd_video_url": "https://www.youtube.com/embed/j1w9vlr-n5s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/G5LdYCwzJxUQUmeewgY0Z6OLXKlYDbE5UCYcjbOu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Banking Terms (Part- 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2cbce764-4d57-44cd-847c-d03dc91fa344.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Banking Terms (Part- 06)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/TvfBO0fIkIk",
+      "hd_video_url": "https://www.youtube.com/embed/TvfBO0fIkIk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Fs3lHedW6STbJoBQQO1BNe0wm4B3biJews1rmP1X.png",
+      "notes": [
+        {
+          "title": "Lecture-51 || Banking Terms (Part- 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7fb562a6-6d60-4e91-901c-edf7dce38238.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Banking Terms (Part- 07)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xAocKssJHes",
+      "hd_video_url": "https://www.youtube.com/embed/xAocKssJHes",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zFayk1EBgLCNbocGjnUPIrfgms9E1b4orPkfOQQz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Banking Terms (Part- 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7eb96c1-b925-4b9a-bf1d-a227b5c448a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Banking Terms (Part- 08)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Tgmd8zQ7Uss",
+      "hd_video_url": "https://www.youtube.com/embed/Tgmd8zQ7Uss",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sqPVB3ozD2m6RIjDQdccYoN9rC9nVFpXIHSKaIma.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Banking Terms (Part- 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d9cfe07-3a83-407a-8b11-b6c7905b519c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Banking Terms (Part- 09)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kLWq80LBpyU",
+      "hd_video_url": "https://www.youtube.com/embed/kLWq80LBpyU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0gcHomWSZi1FcK1oIhPTCADl9XZmQ252b2bqHszg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Banking Terms (Part- 09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7c264b9-04d5-4984-983f-6454be2cd690.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Banking Terms (Part- 10)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/KNCnVbt_Hao",
+      "hd_video_url": "https://www.youtube.com/embed/KNCnVbt_Hao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lJqheTqyuZUtciNbO3l7VrnR1tNJK4k8PzSiOKsL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Banking Terms (Part- 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee1a158c-5598-4e14-818b-e975c87d7935.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Negotiable Instruments (Part - 01)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/nrdk08HDCPI",
+      "hd_video_url": "https://www.youtube.com/embed/nrdk08HDCPI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u57arPbeolWIwh8MlHJbUt7bLigpaL3fRK0k0q9I.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Negotiable Instruments (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/071f949c-cf2e-4700-ad87-1045a5753a25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Negotiable Instruments (Part - 02)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zK92OzLMtVE",
+      "hd_video_url": "https://www.youtube.com/embed/zK92OzLMtVE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uMwtclHFI4JExGwfmEeLMljThruUkrlBtrNpJ69v.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Negotiable Instruments (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73f101b7-e416-4a22-ab0c-81f8902a6923.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Economics (Part - 01)",
+      "published_date": "14 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LWM0BE0ePuY",
+      "hd_video_url": "https://www.youtube.com/embed/LWM0BE0ePuY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0T4j4lgmA6cCjfFTjeM4dsNY737BXOQCQF92xAHv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Economics (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40e42cd2-041d-4773-a5fb-c39dace40a78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Economics (Part - 02)",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/7sfmTolvOZ0",
+      "hd_video_url": "https://www.youtube.com/embed/7sfmTolvOZ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xg8hbPgWz9TQE6VL9rjRJFuGKwZTiGeO0mnmWyAq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Economics (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29a17414-553b-4475-9123-66758fba3299.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || National Income  (Part - 01)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/GaGKruxAu3Y",
+      "hd_video_url": "https://www.youtube.com/embed/GaGKruxAu3Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o8etdADxB03NGt7GXwGmMfF7RHCdc3tnZRMTpyDt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || National Income  (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/626ef115-227e-499d-bae1-7953cb3938e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || National Income (Part - 02)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/s8L2kr5rS1Q",
+      "hd_video_url": "https://www.youtube.com/embed/s8L2kr5rS1Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/i3vFyiHq53Sw5uIypE9meNv7pN0p6eSfArmIJrkB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-61 || National Income (Part - 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85e618d6-fc9f-48ab-b1eb-1a22a3001b9e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Money & Budget  (Part - 01)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/FgqK-pRWa7Y",
+      "hd_video_url": "https://www.youtube.com/embed/FgqK-pRWa7Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XuGbLBT7S1S86svzKUU04QMmmtr4RJGBNzUhm6FW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-62 || Money & Budget  (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2428a95f-9fd4-4142-a90a-849834ecf0dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Budget & Tax (Part - 01)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9gwG5P7RnCo",
+      "hd_video_url": "https://www.youtube.com/embed/9gwG5P7RnCo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NyStJ4tWcKJW5tKuZGYtvdZsRxujZyGfR2PIlKeM.jpg",
+      "notes": [
+        {
+          "title": "Lecture-63 || Budget & Tax (Part - 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f579ea06-dfad-4257-97dd-0dcc49385536.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Foreign Trade",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/gKK118c4BYQ",
+      "hd_video_url": "https://www.youtube.com/embed/gKK118c4BYQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ThygriUs787KJ5b1riysfDU7fXfn0PdehJAyR5Md.jpg",
+      "notes": [
+        {
+          "title": "Lecture-64 || Foreign Trade",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25635829-9c4e-48c8-a0d3-590fe663eca5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Basel Norms",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ClTBBHXMXYs",
+      "hd_video_url": "https://www.youtube.com/embed/ClTBBHXMXYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MUG3Kkso4sLW5ZUpw1Y1zcm5aqg9nu3zPBhoyCLe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-65 || Basel Norms",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bd5f997-4d19-4ac1-8d92-4d891702bddf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || All About Insurance",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/w9R71XXamjA",
+      "hd_video_url": "https://www.youtube.com/embed/w9R71XXamjA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0AbK0A1MwMdAmHvb7tH3rmGXL2KDSFqmSpeIaZS3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-66 || All About Insurance",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68bd5d54-ddec-4f1e-9ae3-78266fcf85da.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

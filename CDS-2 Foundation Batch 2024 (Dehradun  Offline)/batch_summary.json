@@ -1,0 +1,88 @@
+{
+  "batch_info": {
+    "title": "CDS-2 Foundation Batch 2024 (Dehradun  Offline)",
+    "price": "20000",
+    "id": "260",
+    "extracted_date": "2025-08-27T16:50:08.457798"
+  },
+  "subjects": [
+    {
+      "name": "English by Ruchir Sir",
+      "id": 2300,
+      "video_count": 63,
+      "note_count": 62
+    },
+    {
+      "name": "Mathematics by Vipin Sir",
+      "id": 2302,
+      "video_count": 52,
+      "note_count": 48
+    },
+    {
+      "name": "Geography by Vishal Sir",
+      "id": 2301,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Polity by Vishal Sir",
+      "id": 2303,
+      "video_count": 3,
+      "note_count": 2
+    },
+    {
+      "name": "Polity by Ashish Sir",
+      "id": 2304,
+      "video_count": 29,
+      "note_count": 28
+    },
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 2305,
+      "video_count": 22,
+      "note_count": 21
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 2306,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Current Affairs by Vishal Sir",
+      "id": 2963,
+      "video_count": 3,
+      "note_count": 2
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 3061,
+      "video_count": 18,
+      "note_count": 18
+    },
+    {
+      "name": "Mathematics by Vikas Sir",
+      "id": 3102,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 3103,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 3105,
+      "video_count": 77,
+      "note_count": 76
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 3147,
+      "video_count": 6,
+      "note_count": 6
+    }
+  ]
+}

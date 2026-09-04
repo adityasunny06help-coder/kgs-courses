@@ -1,0 +1,45 @@
+{
+  "subject_name": "SSB Guidance",
+  "subject_id": 4169,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || SSB",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/pYPJ7eIAlPQ",
+      "hd_video_url": "https://www.youtube.com/embed/pYPJ7eIAlPQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || SSB",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/bKEkyJt7E6Y",
+      "hd_video_url": "https://www.youtube.com/embed/bKEkyJt7E6Y",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || SSB",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/hG-15tqU34k",
+      "hd_video_url": "https://www.youtube.com/embed/hG-15tqU34k",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || SSB",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/i9eILBwn7Ys",
+      "hd_video_url": "https://www.youtube.com/embed/i9eILBwn7Ys",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

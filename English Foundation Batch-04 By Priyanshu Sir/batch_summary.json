@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "English Foundation Batch-04 By Priyanshu Sir",
+    "price": "499",
+    "id": "242",
+    "extracted_date": "2025-08-27T17:07:18.205647"
+  },
+  "subjects": [
+    {
+      "name": "English previous Class",
+      "id": 1740,
+      "video_count": 123,
+      "note_count": 111
+    },
+    {
+      "name": "English Noun Chapter",
+      "id": 2250,
+      "video_count": 25,
+      "note_count": 19
+    },
+    {
+      "name": "English Article Class",
+      "id": 2473,
+      "video_count": 8,
+      "note_count": 5
+    },
+    {
+      "name": "English Verb Chapter",
+      "id": 2969,
+      "video_count": 10,
+      "note_count": 0
+    },
+    {
+      "name": "Time & Tense",
+      "id": 3379,
+      "video_count": 9,
+      "note_count": 0
+    },
+    {
+      "name": "One Word",
+      "id": 3567,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Phrasal Verb",
+      "id": 3664,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Introduction Class",
+      "id": 1727,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "English Vocab Chapter",
+      "id": 2622,
+      "video_count": 5,
+      "note_count": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "subject_name": "Demo Classes of all Subjects",
+  "subject_id": 7261,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Demo Class of Maths (Ratio & Proportion)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/M47oPt_9pRQ",
+      "hd_video_url": "https://www.youtube.com/embed/M47oPt_9pRQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U1Wct6tq1znu1AfHmUbVCYxfX3ujtESPOo3hLIhn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Demo Class of History (Buddhism - बौद्ध धर्म )",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ix3F6Sqn5yA",
+      "hd_video_url": "https://www.youtube.com/embed/ix3F6Sqn5yA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rKWgGmDjKY6AC6IQvfBhVwbq3YQtzTtjujeyEw6w.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Demo Class of Economics (Inflation - मुद्रा स्फ़ीति)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "hd_video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R8xWE4kPDV6SUB1hT6HVFiW3jR2UDvu2IWXB0UJl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Demo Class of English (Parts of Speech)",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Q8zSCth3Tsg",
+      "hd_video_url": "https://www.youtube.com/embed/Q8zSCth3Tsg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/14NIH7LZr1FvSX5AVFYDGuS3sscDHuhmYOeJB5BI.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,762 @@
+{
+  "subject_name": "Science by Sumit Sir",
+  "subject_id": 5621,
+  "video_count": 67,
+  "note_count": 30,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || विज्ञान: परिचयात्मक कक्षा",
+      "published_date": "23 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/BHe3H3G1pLU",
+      "hd_video_url": "https://www.youtube.com/embed/BHe3H3G1pLU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3b249954-daef-4a18-b15e-eed91d35b52d.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 ||  भोजन, पोषण और स्वास्थ",
+      "published_date": "24 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/OZIvlA5HsNQ",
+      "hd_video_url": "https://www.youtube.com/embed/OZIvlA5HsNQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1f80e474-3f61-43b5-9930-3f606e975ef3.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || भोजन के घटक (भाग 01)",
+      "published_date": "25 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/9IM4UQMCnYQ",
+      "hd_video_url": "https://www.youtube.com/embed/9IM4UQMCnYQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6642ffdd-3ee6-439b-84da-01ca68d4e296.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || भोजन के घटक (भाग 02)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/5VA4FpGQjRI",
+      "hd_video_url": "https://www.youtube.com/embed/5VA4FpGQjRI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a432c518-fd33-4515-9076-848b956e2273.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || प्राणियों में पोषण (भाग 01)",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/22kJcHJZexw",
+      "hd_video_url": "https://www.youtube.com/embed/22kJcHJZexw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a4774a50-8ad6-4fd0-a852-9134eb0eb03a.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || प्राणियों में पोषण (भाग 02)",
+      "published_date": "29 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/KygTjMoeiWg",
+      "hd_video_url": "https://www.youtube.com/embed/KygTjMoeiWg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e32642e5-ad2a-424a-9021-b377fbfedc22.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 ||  प्राणियों में पोषण (भाग 03)",
+      "published_date": "30 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/_NqzO1Uwrmo",
+      "hd_video_url": "https://www.youtube.com/embed/_NqzO1Uwrmo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//41b68a57-9edb-4b69-9f37-8896888e0a20.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || सूक्ष्मजीव: मित्र या शत्रु (भाग 01)",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/wwwSwYaXwH0",
+      "hd_video_url": "https://www.youtube.com/embed/wwwSwYaXwH0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//63c52e17-902e-4ecc-bfd5-5c0435a2bb40.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 ||  सूक्ष्मजीव: मित्र या शत्रु (भाग 02)",
+      "published_date": "02 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/DC4lMItz_rU",
+      "hd_video_url": "https://www.youtube.com/embed/DC4lMItz_rU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eaa89dcf-b4af-4d67-a79a-18d2b9d5b732.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || सूक्ष्मजीव: मित्र या शत्रु (भाग 03)",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/TiI1e62lU1k",
+      "hd_video_url": "https://www.youtube.com/embed/TiI1e62lU1k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2e01cb96-8a94-4ac3-90ba-d8111802ec92.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture- 11 सूक्ष्मजीव: मित्र या शत्रु (भाग 04)",
+      "published_date": "05 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/MW3eS2pZgTo",
+      "hd_video_url": "https://www.youtube.com/embed/MW3eS2pZgTo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//727e914e-5d00-45f6-9d3c-71f36c2d8fbe.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || हम बीमार क्यों पड़ते हैं ? (भाग 01)",
+      "published_date": "06 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/t8G13UJbgVM",
+      "hd_video_url": "https://www.youtube.com/embed/t8G13UJbgVM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//89cb6b3c-d0ef-41a3-a3c0-a34cf7f103b3.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || हम बीमार क्यों पड़ते हैं ? (भाग 02)",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/cbfguf4KssQ",
+      "hd_video_url": "https://www.youtube.com/embed/cbfguf4KssQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d40fbf60-56ab-4087-ae23-b4fa490c9ae8.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Test: मानव पोषण और स्वास्थ्य",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/4j5wlapmqq8",
+      "hd_video_url": "https://www.youtube.com/embed/4j5wlapmqq8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a1f1106f-d0d7-421b-be81-ba83e77178bd.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || शारीरिक गति (भाग 01)",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/bJdxwO_xzTU",
+      "hd_video_url": "https://www.youtube.com/embed/bJdxwO_xzTU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5c5d3ec0-9cf4-424d-b383-3136a10dd9c3.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || शारीरिक गति (भाग 02)",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/VcuIRFPNZVk",
+      "hd_video_url": "https://www.youtube.com/embed/VcuIRFPNZVk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2c58252c-b04b-4c50-9e02-2f8c7bf459ff.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 ||  शारीरिक गति (भाग 03)",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/BPPNYn6j4NQ",
+      "hd_video_url": "https://www.youtube.com/embed/BPPNYn6j4NQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e5e5d20d-c1c3-4e91-8d60-57137928d8f6.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || श्वसन तंत्र (भाग 01)",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/TkCGo1syMuY",
+      "hd_video_url": "https://www.youtube.com/embed/TkCGo1syMuY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//686bbc62-4268-41a3-b992-352bda4a6f62.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || श्वसन तंत्र (भाग 02)",
+      "published_date": "16 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/AqaC619gUY4",
+      "hd_video_url": "https://www.youtube.com/embed/AqaC619gUY4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//801ec1da-2827-4d47-b5ee-b53d45184762.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || पौधे एवं पशु में परिवहन (भाग 01)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/mWztBdRltUc",
+      "hd_video_url": "https://www.youtube.com/embed/mWztBdRltUc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b15eaac9-8d2c-45ee-943e-33437850065c.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || पौधे एवं पशु में परिवहन (भाग 02)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/G8z39enh0pQ",
+      "hd_video_url": "https://www.youtube.com/embed/G8z39enh0pQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//89fb8a77-ff4a-4b34-a204-b7745756a1dd.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || पौधे एवं पशु में परिवहन (भाग 03)",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/DT6IcLKXA9Y",
+      "hd_video_url": "https://www.youtube.com/embed/DT6IcLKXA9Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2a9bb919-196c-4508-857d-8e1af6c19984.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || पौधे एवं पशु में परिवहन (भाग 04)",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/wNilEX0mDoE",
+      "hd_video_url": "https://www.youtube.com/embed/wNilEX0mDoE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//05a10ce4-752a-475c-82a6-18c2c1ee5937.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || जानवरों में प्रजनन (भाग 01)",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/RVewi4zefI4",
+      "hd_video_url": "https://www.youtube.com/embed/RVewi4zefI4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33fc2444-124a-42bc-be69-86573d8acbee.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || जानवरों में प्रजनन (भाग 02)",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/5cmhLOgkzDE",
+      "hd_video_url": "https://www.youtube.com/embed/5cmhLOgkzDE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3c8157e2-0c77-425e-a04c-38e428d31822.png",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || जानवरों में प्रजनन (भाग 03)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/fowQv80kMnQ",
+      "hd_video_url": "https://www.youtube.com/embed/fowQv80kMnQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c537fa70-857a-4222-b24a-2c04f367aeff.png",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || जानवरों में प्रजनन (भाग 04)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/flGCkLhNrj4",
+      "hd_video_url": "https://www.youtube.com/embed/flGCkLhNrj4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7f817693-ae2a-4ee2-94de-e096960951ad.png",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || जानवरों में प्रजनन (भाग 05)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/o7INae_gdCY",
+      "hd_video_url": "https://www.youtube.com/embed/o7INae_gdCY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f6c21c56-138a-4cc1-a846-e2fd4a8028c8.png",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || जानवरों में प्रजनन (भाग 06)",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/DTZKJJsx_ps",
+      "hd_video_url": "https://www.youtube.com/embed/DTZKJJsx_ps",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZyPeLyNgKlitBkTd0FiKICVMKHvD9IOu92Y5cSfn.png",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || नियंत्रण एवं समन्वयन",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/3TzVkwQIx50",
+      "hd_video_url": "https://www.youtube.com/embed/3TzVkwQIx50",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iCcB5svs217mqRStsxLu3gwhdDD3sgsNDLkdqQRn.png",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || मानव नेत्र",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/GVdKesvdDIo",
+      "hd_video_url": "https://www.youtube.com/embed/GVdKesvdDIo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QMvyC24KugXdSdUFIXFewO5zGXQZrxBcKdTqvWFb.png",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || कोशिका & कोशिका विज्ञान (भाग 1)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/9CKW0aiVsvk",
+      "hd_video_url": "https://www.youtube.com/embed/9CKW0aiVsvk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SQOv00E17s1IdDETIlnnzPvWIlcpCsAxzIhvAV5j.png",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || कोशिका & कोशिका विज्ञान (भाग 2)",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/8pURpuD9-I4",
+      "hd_video_url": "https://www.youtube.com/embed/8pURpuD9-I4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jq2caL6HvZgBoLQbN9mAVqiIh7xt4CZnQ1XACoAo.png",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || प्रकाशिकी -1 (सौर किरणें)",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/nFtBTu9GUOA",
+      "hd_video_url": "https://www.youtube.com/embed/nFtBTu9GUOA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/nc4vvZvGKz0SwxfOZ6j4lvFMJy05VDPFXpij4H8o.png",
+      "notes": [
+        {
+          "title": "Lecture 34 - Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/54ff966f-fe0c-472e-9c51-d6853c5b5ae2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || प्रकाशिकी -2 (परावर्तन और अपवर्तन )",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/5BFvCCxrCCY",
+      "hd_video_url": "https://www.youtube.com/embed/5BFvCCxrCCY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/LUzcOM4TwKzeu5D98NrqdaEfpGRCc0fIHSN00DSG.png",
+      "notes": [
+        {
+          "title": "Lecture 35 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ed2c7ac3-3506-4d95-89e1-072f949d3554.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || प्रकाशिकी -3  (व्यतिकरण , प्रकीर्णन, दर्पण )",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/61858/kgss-1709958416-v61858.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3lR56EHFOjs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3urwci5f68qV8gwFmKER3PvxUzEjqeHzyQHELSA7.png",
+      "notes": [
+        {
+          "title": "Lecture 36 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/27d2519b-f528-406e-ab56-d24678365ee2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || प्रकाशिकी -4 (दर्पण, लेंस),  तरंग & ध्वनि -1",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/62068/kgss-1710132293-v62068.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AWyDSwDlK_Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tFP7Uo4wnkTv1Lb3hF3vT6Nrpgy1K4woL4PZ629N.png",
+      "notes": [
+        {
+          "title": "Lecture 37 || प्रकाशिकी -4 (दर्पण, लेंस),  तरंग & ध्वनि -1",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/6f04d491-9e50-40f4-9d83-566365cda783.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || तरंग & ध्वनि -2 (गति, तीव्रता, अनुप्रयोग) , ऊष्मा -1 (तापमान )",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/62339/kgss-1710218795-v62339.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_rPExkjUSn0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sNZ7u0tUdhTiQCbyOfR0Dke6CDLleLABDr8HM6nQ.png",
+      "notes": [
+        {
+          "title": "Lecture 38 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/88386e29-495d-402e-a756-a7232ebbec2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || ऊष्मा -2  & सौर परिवार",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/62618/kgss-1710303887-v62618.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8AjdQSDXeA4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dhUYR1CIf1ApwAfhJdCTr3JM9mgPC5RH9XPvckzW.png",
+      "notes": [
+        {
+          "title": "Lecture 39 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e7ef0250-d692-4300-a81c-3f7cd00abffc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || यांत्रिकी -1",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/63079/kgss-1710391483-v63079.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V1c_-p9Fo7Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZnmKjzXhORNprAe78JOQddsb7KSFUHB8f4VEfZ61.png",
+      "notes": [
+        {
+          "title": "Lecture 40 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/af296b1e-e9b6-4f16-b97a-ddf615b9773e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || यांत्रिकी -2 (बल, दाब )",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/64364/kgss-1710477875-v64364.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KGkW_8m1XSk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FG4mUQbFtCG35q8GxWH3tGLQygHBEYmPkXXtm1o4.png",
+      "notes": [
+        {
+          "title": "Lecture 41 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b006e638-d878-4e98-a771-402a96846757.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || यांत्रिकी -3 (घर्षण )",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/64535/kgss-1710563008-v64535.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dSB2gJ54jQY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ozS2dZQwrrxevjmD0WDYs4NJHhfPA1QRXIlLmoT0.png",
+      "notes": [
+        {
+          "title": "Lecture 42 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2707c098-89f3-49ca-8af0-d5952753148c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || यांत्रिकी -4 (कार्य & ऊर्जा )",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/64843/kgss-1710736997-v64843.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/skBvR_Fn7Kg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6mj0kBi7y5cP9mcipnVUf9XxKkuXPor7IBZZP57p.png",
+      "notes": [
+        {
+          "title": "Lecture 43 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e0689115-36af-4e3e-98ff-f0d7fd052476.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || गुरुत्वाकर्षण  बल",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65106/kgss-1710822033-v65106.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3uF9r_bkh0c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sJ758fG73aAeoWPqU20aylo6HKu3pLtIdH8hJ8MG.png",
+      "notes": [
+        {
+          "title": "Lecture 44 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c55c08e8-cb7c-4810-a55e-ece02537b392.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || धकेल और  दाब",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65317/kgss-1710909663-v65317.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xwBko54GP7w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/M3x1w9N7ExqEiJRuOlogCim8usLEJFEPWhxSVlWS.png",
+      "notes": [
+        {
+          "title": "Lecture 45 || धकेल और  दाब",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a693e3ac-7bdd-4392-8a82-ef597dd50823.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || विद्युत -1 ( विद्युत परिपथ, विद्युत धारा)",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65569/kgss-1710995942-v65569.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dia1im76JAc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2KbB4P0z1OHK6pRtsB3dCDHR08JmKywm6iaGel1b.png",
+      "notes": [
+        {
+          "title": "Lecture 46 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9e4076a7-e84d-469c-bf8c-51fdb62486de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 || विद्युत -2 ( विद्युत धारा का रासायनिक प्रभाव)",
+      "published_date": "22 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65923/kgss-1711082391-v65923.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/St1fCBo8BYk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xaXXbiA7UCDK6AsexqYXXJ3CYELqkOkVfM2PM558.png",
+      "notes": [
+        {
+          "title": "Lecture 47 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/478a02ff-2ee1-40c6-a22c-2ffa15f1fa55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 || विद्युत -3 ( विद्युत धारा का चुंबकीय प्रभाव)",
+      "published_date": "23 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/66034/kgss-1711168687-v66034.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7UECKkAUrgk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KlQksHwCcLPA58qQTsQCVBc5x2zDeSiWfSlxowCE.png",
+      "notes": [
+        {
+          "title": "Lecture 48 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/37b2fcbd-5afc-4451-8d29-08dd3b553060.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 || विद्युत -4 ( प्रतिरोध, विद्युत शक्ति )",
+      "published_date": "28 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/66280/kgss-1711601532-v66280.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/i7Z2vr5Bcqk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ILaT8aBo71VABp7LOO2Cn65ivq4SlVtEPa4oadcE.png",
+      "notes": [
+        {
+          "title": "Lecture 49 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/56bd6a17-627c-4b14-8d6d-24cf6a8f758e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 || भौतिकी प्रश्न अभ्यास  -1",
+      "published_date": "29 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/66454/kgss-1711686202-v66454.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8LZZ6VC4riY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UVGgx1trZahv6fM7xsrQaZdlAxKUPnBxUrC2eHnI.png",
+      "notes": [
+        {
+          "title": "Lecture 50 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bf6ec98e-72af-4a60-9456-4ea97586b2d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 || भौतिकी प्रश्न अभ्यास  -2",
+      "published_date": "30 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/66516/kgss-1711772344-v66516.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-l0L5PyWTAg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6Wivs1llbJVs9Bj5za9ApBRmPd4rfJbpGo81gvTV.png",
+      "notes": [
+        {
+          "title": "Lecture 51 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ee56a586-e19b-410a-b392-898af9883c0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 52 || अम्ल क्षार और  लवण  -1",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/66657/kgss-1711946715-v66657.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qDLhGEedCiY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/19YJ2tZYdCsogeycv3nrPo6u3Z2b9I2aW3mVe6wz.png",
+      "notes": [
+        {
+          "title": "Lecture 52 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ebd2c056-d831-4661-a48b-3ba49e0cd86c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 53 || अम्ल क्षार और  लवण  -2",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/66810/kgss-1712033290-v66810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L-CJX4uKa6w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8432fYeFrda4zJSNRat2qGGBYKqGo2jkk9a15spr.png",
+      "notes": [
+        {
+          "title": "Lecture 53 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/45a3091e-d74e-4bbf-963c-7096b7ff743c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 54 || अम्ल क्षार और लवण -3",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/67048/kgss-1712119015-v67048.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oqRk6DtkSK8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wDjWmF4yzHpXCOLgE1I1Du2yFBoJvjo2ajBuQLRs.png",
+      "notes": [
+        {
+          "title": "Lecture 54 || अम्ल क्षार और लवण -3",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d86c5db8-fdc6-464a-a4be-14ff8a8b8e65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 55 || भौतिक & रासायनिक परिवर्तन",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/67319/kgss-1712204901-v67319.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oTBVv62AuDU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tgq1bM8x4pgrIxtXx5GhqQE5vbThH6r3wyIbBgwK.png",
+      "notes": [
+        {
+          "title": "Lecture 55 || भौतिक & रासायनिक परिवर्तन",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ae6b4601-87ea-4e5e-a77e-ad6950312793.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 56 || परमाणु संरचना, पदार्थ और रेडियोधर्मिता  -1",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/-RtwVJM5D4s",
+      "hd_video_url": "https://www.youtube.com/embed/-RtwVJM5D4s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZaJM7fgxNysNSdh7BkxEv63TXSH07mbS5OuFw2KV.png",
+      "notes": [
+        {
+          "title": "Lecture 56 || Science by Sumit Sir Screen PDF",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d65ee88b-24fd-4718-a404-2fb7ab211038.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 57 || परमाणु संरचना, पदार्थ और रेडियोधर्मिता  -2",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/E8x4sQL6fLk",
+      "hd_video_url": "https://www.youtube.com/embed/E8x4sQL6fLk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7R8cTbnmjV0Fq4UEq8DioCLYGoRwmZY7ihlfaSHz.png",
+      "notes": [
+        {
+          "title": "Lecture 57 || Science by Sumit Sir  Screen PDF",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/08b2a470-8cb7-40f9-ab97-f1e5dab036e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 58 || परमाणु संरचना, पदार्थ और रेडियोधर्मिता -3 (कोलाइडल )",
+      "published_date": "13 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Sa14gJO45iU",
+      "hd_video_url": "https://www.youtube.com/embed/Sa14gJO45iU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KsVwykgP52K8TmWVUt8gG0eCFHzy9EfLu6iX7LOe.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 59 || परमाणु संरचना, पदार्थ और रेडियोधर्मिता -4 (परमाणु & अणु )",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/HpJwOhaUVZI",
+      "hd_video_url": "https://www.youtube.com/embed/HpJwOhaUVZI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/c4VP9QaJdKVH5e2aiEF5shC8CoCzclEjH4Z8zgfg.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 60 || परमाणु संरचना, पदार्थ और रेडियोधर्मिता -5 (इलेक्ट्रॉन प्रोटान न्यूट्रॉन )",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/AF867k_BDj8",
+      "hd_video_url": "https://www.youtube.com/embed/AF867k_BDj8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cFeHxTEoIyv8EMA0qt9rEJlEeX1Cu7ISPuGVswBY.png",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 61 || रासायनिक अभिक्रिया &  समीकरण",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Ex6cmIVB7Nk",
+      "hd_video_url": "https://www.youtube.com/embed/Ex6cmIVB7Nk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/5SpAjR3fbIzChaRKwgHCQRKjsL1n2yZFtlpJVrlH.png",
+      "notes": [
+        {
+          "title": "Lecture 61 || Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e6a7a3af-274e-4597-8569-afbf0fdef2fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 62 || धातु & अधातु -1",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/-x1jYhWk9pE",
+      "hd_video_url": "https://www.youtube.com/embed/-x1jYhWk9pE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/b5dKMSwqRxdRPYFKMnA7WjuGxlcyjMLBZETo9bRh.png",
+      "notes": [
+        {
+          "title": "Lecture62Sciencebysumitsir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/509d2d29-9ff2-4d5f-95dc-436b2a107857.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 63 || धातु & अधातु -2",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/mG1HvJkd7xM",
+      "hd_video_url": "https://www.youtube.com/embed/mG1HvJkd7xM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dYUCf2ZK0KVSZQBcfpFovAEY4yXQnFCtqeAZKDQG.png",
+      "notes": [
+        {
+          "title": "Lec 63_science_by sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b0ac79d5-afcc-483b-906f-5b078fc68dda.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 64 || रसायन विज्ञान का दैनिक जीवन में अनुप्रयोग -1",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/2DZ6e_aFs-Y",
+      "hd_video_url": "https://www.youtube.com/embed/2DZ6e_aFs-Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/KCIfVOpkYBj4sYJ83sHGoGNcGLR4PaTaw83kiw3K.png",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture 65 || रसायन विज्ञान का दैनिक जीवन में अनुप्रयोग -2",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/riGSnpK71CI",
+      "hd_video_url": "https://www.youtube.com/embed/riGSnpK71CI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/XypwXXpZAuCtiFWhKsFrcRfOR3cMnF3im9DekHXK.png",
+      "notes": [
+        {
+          "title": "Lec 65 Science by Sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/59ccd031-d125-4ab9-9431-354b9877e01c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture 66 || रसायन विज्ञान का दैनिक जीवन में अनुप्रयोग -3",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/DXU-eMs4G8M",
+      "hd_video_url": "https://www.youtube.com/embed/DXU-eMs4G8M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/feu0QGUEGsR8ran6QLObShC55daSF7VBaCvWgbOU.png",
+      "notes": [
+        {
+          "title": "Lec 66 Science by Sumit sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b393bd33-4eb7-46c2-aea7-7dc4834e19f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture 67 || पर्यावरण रसायन शास्त्र & रेडियोसक्रिया",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/xCtPWC2YGXE",
+      "hd_video_url": "https://www.youtube.com/embed/xCtPWC2YGXE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/FoPEAoPKuZ1YqnSMQk3kaFYietVsEBVoS3zH29De.png",
+      "notes": [
+        {
+          "title": "Lecture 67 Science by sumit Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6124b635-8d1b-4880-8bb2-1a240b845aaa.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

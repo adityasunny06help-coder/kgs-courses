@@ -1,0 +1,354 @@
+{
+  "subject_name": "Physics by Akhand Singh (NPAS Sir)",
+  "subject_id": 5024,
+  "video_count": 25,
+  "note_count": 24,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Basic Maths -1",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Nt2PtMOtBgg",
+      "hd_video_url": "https://www.youtube.com/embed/Nt2PtMOtBgg",
+      "thumbnail": "https://i.ytimg.com/vi/Nt2PtMOtBgg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Basic Maths -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96b1e001-958f-4ab4-b699-e230468bb994.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Basic Maths -2",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3o0b6IVBR1M",
+      "hd_video_url": "https://www.youtube.com/embed/3o0b6IVBR1M",
+      "thumbnail": "https://i.ytimg.com/vi/3o0b6IVBR1M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Basic Maths -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6699284b-2035-4a25-8592-46132deae452.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Motion in One Dimension -1",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qj675mm-eFY",
+      "hd_video_url": "https://www.youtube.com/embed/qj675mm-eFY",
+      "thumbnail": "https://i.ytimg.com/vi/qj675mm-eFY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Motion in One Dimension -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0446af0-8172-438e-b540-2e63b1dc398f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 4|| Motion in One Dimension - 2",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/EuL75SJSlrY",
+      "hd_video_url": "https://www.youtube.com/embed/EuL75SJSlrY",
+      "thumbnail": "https://i.ytimg.com/vi/EuL75SJSlrY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 4|| Motion in One Dimension - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/634e18d6-b747-4267-b666-8c0223fdafcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 5 || Motion in One Dimension - 3",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/DMfeudACaYE",
+      "hd_video_url": "https://www.youtube.com/embed/DMfeudACaYE",
+      "thumbnail": "https://i.ytimg.com/vi/DMfeudACaYE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 5 || Motion in One Dimension - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce5ea42f-c13f-4b6e-b06f-177af3d51ce4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture- 6 || Motion in One Dimension - 4",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/trBEP1Bnq6g",
+      "hd_video_url": "https://www.youtube.com/embed/trBEP1Bnq6g",
+      "thumbnail": "https://i.ytimg.com/vi/trBEP1Bnq6g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 6 || Motion in One Dimension - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16b8c6ec-f19d-46b3-bf94-b482820facae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture- 7 || Motion in One Dimension - 5",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Qn1PXRM2RVE",
+      "hd_video_url": "https://www.youtube.com/embed/Qn1PXRM2RVE",
+      "thumbnail": "https://i.ytimg.com/vi/Qn1PXRM2RVE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 7 || Motion in One Dimension - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2b9b762-89ec-478c-b9ac-4ed3842d0332.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture- 8 || Newton's Laws of Motion - 1",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2AqUioKnzoM",
+      "hd_video_url": "https://www.youtube.com/embed/2AqUioKnzoM",
+      "thumbnail": "https://i.ytimg.com/vi/2AqUioKnzoM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 8 || Motion in One Dimension - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37674dfb-38e3-42d4-8d72-1b96d3c22960.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture- 9 || Newton's Laws of Motion - 2",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/nkMQghfETFE",
+      "hd_video_url": "https://www.youtube.com/embed/nkMQghfETFE",
+      "thumbnail": "https://i.ytimg.com/vi/nkMQghfETFE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 9 || Newton's Laws of Motion - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9965522-7d67-4169-aa6d-4d2b127a545b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture- 10 || Newton's Laws of Motion - 3",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7Fo-bCVNQes",
+      "hd_video_url": "https://www.youtube.com/embed/7Fo-bCVNQes",
+      "thumbnail": "https://i.ytimg.com/vi/7Fo-bCVNQes/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 10 || Newton's Laws of Motion - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d306623a-995b-4eda-b9a7-9a34cf7df105.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture- 11 || Newton's Laws of Motion - 4",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/MLbUaarWMgM",
+      "hd_video_url": "https://www.youtube.com/embed/MLbUaarWMgM",
+      "thumbnail": "https://i.ytimg.com/vi/MLbUaarWMgM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 11 || Newton's Laws of Motion - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c049ed39-8f86-43fa-b15f-84a9baa635af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture- 12 || Work, Energy & Power - 1",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/gKi9q4ZwE_Y",
+      "hd_video_url": "https://www.youtube.com/embed/gKi9q4ZwE_Y",
+      "thumbnail": "https://i.ytimg.com/vi/gKi9q4ZwE_Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 12 || Work, Energy & Power - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50523e36-ab02-4edd-b9e4-d2b039d0496d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture- 13 || Work, Energy & Power - 2",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qx5th1WK4hE",
+      "hd_video_url": "https://www.youtube.com/embed/qx5th1WK4hE",
+      "thumbnail": "https://i.ytimg.com/vi/qx5th1WK4hE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 13 || Work, Energy & Power - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b11696ae-98c9-48ae-b4f9-fed6d5dd84eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture- 14 || Circular Motion - 1",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QLw9gB1z-vY",
+      "hd_video_url": "https://www.youtube.com/embed/QLw9gB1z-vY",
+      "thumbnail": "https://i.ytimg.com/vi/QLw9gB1z-vY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 14 || Work, Energy & Power - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53a8309f-32a1-47b9-aefe-7d5be6ae97b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture- 15 || Circular Motion - 2",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/KcnEvptokv4",
+      "hd_video_url": "https://www.youtube.com/embed/KcnEvptokv4",
+      "thumbnail": "https://i.ytimg.com/vi/KcnEvptokv4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 15 || Circular Motion - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be6af8bd-b918-46d9-88ee-f0c9823aac8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture- 16 || Center OF Mass Collision -1",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/kYEgM-u_-7A",
+      "hd_video_url": "https://www.youtube.com/embed/kYEgM-u_-7A",
+      "thumbnail": "https://i.ytimg.com/vi/kYEgM-u_-7A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 16 || Center OF Mass Collision -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/741d68c2-8af1-4a90-b492-798e07e7dbf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture- 17 || Center Of Mass & Collision - 2",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/13orbgfhxHU",
+      "hd_video_url": "https://www.youtube.com/embed/13orbgfhxHU",
+      "thumbnail": "https://i.ytimg.com/vi/13orbgfhxHU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 17 || Center OF Mass Collision - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83e1876d-87e7-4164-9bdc-7d7760d7e750.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture- 18 || Rotation - 1",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/RGcF3KDOTbU",
+      "hd_video_url": "https://www.youtube.com/embed/RGcF3KDOTbU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NJZl89gr3ro2dwrrD5IcBSEpyoKuvU3CtBJBXrtd.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 18 || Center OF Mass Collision - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0871cf5-e2b6-4210-a401-b7a0326678aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture- 19 || Rotation - 2",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/_cKDXjz8N9Q",
+      "hd_video_url": "https://www.youtube.com/embed/_cKDXjz8N9Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7d1HyW8pwJqQaLVlQnaTcH2F0NkAtTix4KCggPm0.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 19 || Rotation - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2335164d-9cd2-4032-bc06-27d2a8483e8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture- 20 || Gravitation - 1",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QsHvJi7Z4c4",
+      "hd_video_url": "https://www.youtube.com/embed/QsHvJi7Z4c4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8ygj0InPAwvoiT2MMojUUwPqcIJ3A5obPrbQ6ICW.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 20 || Gravitation - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf24d7a5-112e-4103-bcc6-9be79fec57b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -21 || Calorimetry - 1",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/6MU_3eLMiOc",
+      "hd_video_url": "https://www.youtube.com/embed/6MU_3eLMiOc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oONbIIXB0Y6HfAnTN8Hb1rNJxoCAXVp2Cqj4578j.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Calorimetry - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60effa4f-50eb-4383-897a-7ce909694873.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -22 || Thermodynamics - 1",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/iTvaY2pwu8o",
+      "hd_video_url": "https://www.youtube.com/embed/iTvaY2pwu8o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eIwZggYwinK2GaMt6e0oRivtG7xOWHu3r8sRVGud.jpg",
+      "notes": [
+        {
+          "title": "Lecture -22 || Thermodynamics - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53cc463e-f3cb-4e15-95bf-7e2755d940c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -23 || Thermal Expansion & Heat Transfer - 1",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/g4iJeTFSYI4",
+      "hd_video_url": "https://www.youtube.com/embed/g4iJeTFSYI4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/V7xryj8PvGhmmdOuypLYmewCJBs1htIGPN3jSWKu.jpg",
+      "notes": [
+        {
+          "title": "Lecture -23 || Thermal Expansion & Heat Transfer - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4cffb96e-10d5-4883-8aa8-76c565342668.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -24 || Thermal Expansion & Heat Transfer - 2",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/uXSa0AAJGOQ",
+      "hd_video_url": "https://www.youtube.com/embed/uXSa0AAJGOQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/F9dhU9vB03x6dreP20JtZZxdQMVtBGZ0MjVcmO9f.jpg",
+      "notes": [
+        {
+          "title": "Lecture -24 || Thermal Expansion & Heat Transfer - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9798f706-eb4f-45c9-b691-fa077a7a905a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -25 || Thermal Expansion & Heat Transfer - 3",
+      "published_date": "19 Apr 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4kPV1Ua8bh1wJKwhQvD3Byqf4XVF1AFmYyhEAGGA.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

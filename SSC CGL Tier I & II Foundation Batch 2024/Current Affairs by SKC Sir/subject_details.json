@@ -1,0 +1,65 @@
+{
+  "subject_name": "Current Affairs by SKC Sir",
+  "subject_id": 2239,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || April 2024 Part-01",
+      "published_date": "27 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/klFsp8NiGX0",
+      "hd_video_url": "https://www.youtube.com/embed/klFsp8NiGX0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/LeLV2ZeyzrCTG7apxeNdP0zNC10azGvGw4nJPddj.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || April Current Affairs Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/06868deb-1154-45c5-b40e-993d0c7b4508.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || April 2024 Part-02",
+      "published_date": "04 May 2024",
+      "video_url": "https://www.youtube.com/embed/c9AvKjwIbTs",
+      "hd_video_url": "https://www.youtube.com/embed/c9AvKjwIbTs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/FLvSCjpGFRofEm3ODzVB5T7hHpdku7fKstTfkggz.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || April Current Affairs Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6a14c32c-71ce-4257-9444-ab7293406922.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || May 2024 Part-01",
+      "published_date": "11 May 2024",
+      "video_url": "https://www.youtube.com/embed/agVzn_gXsHc",
+      "hd_video_url": "https://www.youtube.com/embed/agVzn_gXsHc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qx8y4E3QQbt4sTCid7MhVtP29UBeYnEq5UaVpS5p.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || May 2024 Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/662997be-85c7-4584-9e05-cf7ba4d248c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || May 2024 Part-02",
+      "published_date": "18 May 2024",
+      "video_url": "https://www.youtube.com/embed/MqADlW9eLKE",
+      "hd_video_url": "https://www.youtube.com/embed/MqADlW9eLKE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Gwz84oEvBSSWHDtgXMyWGya5ccBf2cOJoKk03Bbx.png",
+      "notes": [
+        {
+          "title": "May 2024 Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/104ce116-9a96-4c3c-aa60-e95d8a3722ec.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

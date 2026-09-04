@@ -1,0 +1,395 @@
+{
+  "subject_name": "Hindi by Jitendra Sir",
+  "subject_id": 3707,
+  "video_count": 27,
+  "note_count": 29,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class || परिचय कक्षा",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/122902/kgss-1727150058-v122902.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L495GDlX7_A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/j6AwkTl62USUWNapQlx3VuUS9iBY65itdk0jcJo6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31c1ad87-ea1b-4c66-8d2e-76cf070f510a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || पर्यायवाची (Part-1)",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123382/kgss-1727236232-v123382.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HgrYXHYMMGE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Dy4Z63JOBPAWysQetSkuYYo9Audl7U95koKBABEL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Hindi by Jitendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b9d5d68-c2b2-4109-b58a-a7b93f13dcfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || पर्यायवाची (Part-2)",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123923/kgss-1727322521-v123923.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cx5La5ll0oc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TVfeeJBK1pnbShB3zhWugsPzefvWJXGUU7xodQAW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || पर्यायवाची (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31c4d21f-93fe-4859-9cc5-fa0a7ef052c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || विलोम शब्द (Part-1)",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ySYwDw_d2X0",
+      "hd_video_url": "https://www.youtube.com/embed/ySYwDw_d2X0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iFbXdBPKvHuPUvv5UWsYOPUyR110UsncML3SUbHn.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Hindi by Jitendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77bc145c-091d-4fac-ba2e-ea976701ec26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || विलोम शब्द (Part-2)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/125268/kgss-1727668492-v125268.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mXcXP_qHlCE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dVRttE3RVQdgqERTGDDX8gfZwYwu59b2zf5YGcsC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || विलोम शब्द (Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd2db345-6436-42cb-b393-6aecdb2b6a76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || शब्द शुद्धि",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126151/kgss-1727754504-v126151.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GkIHOVaOXCs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vEfGybPpRQvW1CMgApY4K8R74e6hYl7yENDZPBx5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || विलोम शब्द (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8dd9777e-6dad-4490-9d02-5f5e4eb00b92.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || तत्सम और तद्भव (Part-1)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126593/kgss-1727927676-v126593.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6jJOaHMt-L0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AkQF3wASKguIkVS25ev52ONZHYO7lcrRaOMfZ4SB.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || विलोम शब्द (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c65da93-e738-4cbb-8c86-cc26f4ac05ab.pdf"
+        },
+        {
+          "title": "Lecture-07 || विलोम शब्द (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07664d3d-390a-4c44-8984-ab5e9e5b7d2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || तत्सम और तद्भव (Part-2)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127405/kgss-1728014094-v127405.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7iBKPOyfp3Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JowyA5re8OsisbK5BLvwqkTFDlxEGQOF4AovtZLm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8  तत्सम और तद्भव",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1b69c88-e058-49b9-b683-640258edc5cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || तत्सम और तद्भव (Part-3)",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127807/kgss-1728273249-v127807.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oYdOXYEupIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iMvECwzvSuq1aQO9mH63K5tueEpaUgVNQnFHVe5W.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || तत्सम और तद्भव (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b37ff51c-576e-4f06-8999-06791911eed9.pdf"
+        },
+        {
+          "title": "Lecture-9 || तत्सम और तद्भव (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ccc27e9-48ab-446c-b41f-b8173c10a577.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || शब्द -युग्म",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/129138/kgss-1728359071-v129138.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kIcX9cKpmwE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mWMBGQaLZk89KQdBMefigHLWgrS2dKo36N4XKTRG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || शब्द -युग्म",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1372c137-3be3-4720-b540-06f2ae1221da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ||  विकारी शब्द (Part-1)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/129413/kgss-1728446125-v129413.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AQtaL6FQUFY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/p8tDyciVEELoM93dihrLcPDKDLOGtctSnZQJFIRk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 ||  (विकारी शब्द)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79637cc6-fe58-4a69-a886-bd91a4b3918d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 ||  विकारी शब्द (Part-2)",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/129974/kgss-1728532086-v129974.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Oz99OOOwoPg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NlT41f4ZC7iR7ySu5uZ69aWmZ02xfk3yDuzDIu3q.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 ||  विकारी शब्द (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ae0f232-e39f-49bb-8c8a-e42139eccbac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || विशेषण (Part-1)",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/130614/kgss-1728878076-v130614.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/x17lhMiC088",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xHFiuIKLKwqTS3NpLLbysc5xsdwSdslRu3EjaRsG.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || विकारी शब्द (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/351ddd31-4a00-4e01-85c2-cef77dfdbc79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || विशेषण (Part-2)",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131232/kgss-1728964184-v131232.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oY_nA7ClS58",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z5Bgq2LSibgbt7PW9SarCvT00efqNZSPWdmV4CWY.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || विशेषण (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2999c29a-01d4-4dfd-b620-ba2c1582d783.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || क्रिया (Part-1)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/131938/kgss-1729050828-v131938.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MDPh59lfWGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ecHvDDyzQbjywyiK0B8RE0T0asuD8L3wic1TJ7GC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || विशेषण (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4a9d197-e566-4ec4-8026-341f0b7f5806.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || क्रिया (Part-2)",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/132633/kgss-1729136931-v132633.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iM_j_77W6hE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3W9FydA0uemTfXpEcOneyuqYyRCEMEdJ6xoPtLU5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || क्रिया (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/298a91f2-78df-4c75-ad6e-50d754c979a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || क्रिया (Part-3)",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/133719/kgss-1729223763-v133719.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Z_Q9FC39OjY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xnjsWslnTDsMrEEFx9BRkGlVK0qEcoBcw7BeBBu9.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || क्रिया (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46b4a7ef-b76f-4d65-925d-e2ace513dce3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || वर्णमाला (Part-1)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/138360/kgss-1729569178-v138360.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3xeeVdaAJO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3vy0gJuwydDyUggXVRaJE7FZ15r8MY5WjTratrBU.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 वर्णमाला",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4fb7c8e-29db-4c01-b9d3-7acdbbf36fe2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ||  वर्णमाला (Part-2)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139094/kgss-1729655427-v139094.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/H5WzVordsY0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jVtLZ2hp3kqFbQvG7iJcVcpPLyDLybUQ4HNQyYhu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 ||  वर्णमाला (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18f45c03-35ad-45a6-9be4-fa7b3f5a8b2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || वर्णमाला (Part-3)",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/139100/kgss-1729741827-v139100.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CqJuU9R3HcM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ud7FQ98Npn8Drva2wFnNUkSGTFmWj7GxcGu461Rq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || वर्णमाला (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bec9509b-edf3-406f-b79b-e68c4e46f975.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || विराम चिह्न (Part-1)",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/140253/kgss-1729828180-v140253.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UOTAxhNFvZg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wwCnlBBCk7N5hhEbcph2YBH9dO2aAVv9EhaYWrGt.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || वर्णमाला (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9be15145-572b-498c-9e3d-c45e4ce6fc52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || विराम चिह्न (Part-2)",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141393/kgss-1730087249-v141393.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zHlJoXnTlDM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5z8Z6FYgnFSzS905qjPBcEQkyKNShtTxemsE3k6S.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || विराम चिह्न (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33bb2675-4d51-4585-bf9e-47b3f1bdecbf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || संधि (Part-1)",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/141871/kgss-1730174014-v141871.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wziuByr8Ddw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VmVnMsrc8kkLAbFzJ9JJWTuXbTtl6vxBCEfRtgEF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || संधि (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4372a250-260e-428b-9d13-c26fe5b4d370.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || संधि (Part-2)",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/145633/kgss-1730259411-v145633.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sBH2_Ng_O64",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XX0ruiugGGTVVVsKupdXgpNMacn5wEDYEE28Eg6d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || संधि (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39e3b9ca-9ff0-4945-9946-56a954b28dc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || समास (Part-1)",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/145922/kgss-1730691826-v145922.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/l1pZ_DTaMXo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ifxXm5leUXH41026MQs51F1NdKCK1nAzryH2RXyE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || समास (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8dd72b8c-a9c2-48f3-86c9-a3da328e2d25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || समास (Part-2)",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146578/kgss-1730778718-v146578.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Si6EJvYbgBA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PQYk4CvmP2VKWkKCdhezXf3Zswpqd85J565mpWlq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || समास (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c05e9b0-36d7-4518-9279-b652848365fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || शुद्ध और अशुद्ध वाक्य",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/nov-2024/146890/kgss-1730865286-v146890.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FPsK70HsrO4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dkye0dXDuc20Q8kDhqKSsnNc2OFFSNyclfrrHSZ1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || समास (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6f70326-be2a-4529-8fec-4aac9807bc6f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

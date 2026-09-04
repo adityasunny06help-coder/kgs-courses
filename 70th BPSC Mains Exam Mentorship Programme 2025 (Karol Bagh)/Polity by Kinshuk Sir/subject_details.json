@@ -1,0 +1,41 @@
+{
+  "subject_name": "Polity by Kinshuk Sir",
+  "subject_id": 5212,
+  "video_count": 3,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Polity by Kinshuk Sir",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QwAnh0buf00",
+      "hd_video_url": "https://www.youtube.com/embed/QwAnh0buf00",
+      "thumbnail": "https://i.ytimg.com/vi/QwAnh0buf00/default.jpg",
+      "notes": [
+        {
+          "title": "l1-polity",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71245cfa-829d-4ebd-9fd9-4aaeb92212b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-03 || Polity by Kinshuk Sir",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/nibhOy5YWU8",
+      "hd_video_url": "https://www.youtube.com/embed/nibhOy5YWU8",
+      "thumbnail": "https://i.ytimg.com/vi/nibhOy5YWU8/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-04 || Polity by Kinshuk Sir",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/E5XMulvhQP0",
+      "hd_video_url": "https://www.youtube.com/embed/E5XMulvhQP0",
+      "thumbnail": "https://i.ytimg.com/vi/E5XMulvhQP0/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

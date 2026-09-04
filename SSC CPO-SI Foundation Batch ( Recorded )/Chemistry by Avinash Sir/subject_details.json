@@ -1,0 +1,121 @@
+{
+  "subject_name": "Chemistry by Avinash Sir",
+  "subject_id": 5574,
+  "video_count": 8,
+  "note_count": 8,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Acid , Base & Salt (Part-01)",
+      "published_date": "28 Mar 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/dOAFnIN2JF4llHKjtQW5HmyQe5nEcvS5UsIDtaKP.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Acid , Base & Salt (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8d0b5167-fe34-4d40-9c37-ce92093a7a46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Acid , Base & Salt (Part-02)",
+      "published_date": "29 Mar 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jsYFmKDGx5M1wdgvsLyNZDOZivu3uOeba4OHQOuX.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Acid, Base & Salt Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2e4ed877-f0ff-4c54-87a2-0d85894ac7e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03|| Acid , Base & Salt (Part-03)",
+      "published_date": "01 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/eyYjFs1UfgcfnxDaHLLvBKsSQXZ3AbtOj7C7CbSA.png",
+      "notes": [
+        {
+          "title": "Lecture-03|| Acid , Base & Salt (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ba5d8f19-8803-481c-8d17-2b8324829b53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Periodic Table (Part-01)",
+      "published_date": "02 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wIRkvkoW9MrHsBFgJADhBBl5RONVkeQIRomYlJLT.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Periodic Table (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/50d2f97b-8e48-4f46-956e-bf9c314b93d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Periodic Table (Part-02)",
+      "published_date": "03 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2Q6DouRaRNen15GpxRT5z0DyhwGhHxDh3V2VtMhQ.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Periodic Table (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/75a0576f-5507-4cba-8b0e-16311bac8509.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Alloy",
+      "published_date": "04 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/F9U3P69xbGMTvH6GjfHn9K4RMOzgJrmIjIfcnDHT.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || Alloy",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8fe2c611-5636-46a4-b436-e8dce131a083.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Colloids",
+      "published_date": "05 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/X0kjA5Ap2ZZdIQ0SlS9FIPfsJfoInuqfw01RRma7.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Colloids",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7ef22139-e787-4c9f-b7a2-e441205ded2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Radio Activity",
+      "published_date": "06 Apr 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Ozl6zM2BYn2hwnpHQGYn3Ri0TB20ElXJqf1SxGmp.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Radio Activity",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/69e98c0b-343f-481f-9497-f68ac50e2ad5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,23 @@
+{
+  "subject_name": "Demo",
+  "subject_id": 1859,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation class",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/_a2fyeQBXhI",
+      "hd_video_url": "https://www.youtube.com/embed/_a2fyeQBXhI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Orientation class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cf1ae0b-fac7-499e-8c53-bf1313fd7d26.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

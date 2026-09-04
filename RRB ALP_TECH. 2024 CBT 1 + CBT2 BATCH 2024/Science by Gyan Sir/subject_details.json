@@ -1,0 +1,65 @@
+{
+  "subject_name": "Science by Gyan Sir",
+  "subject_id": 3073,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/mx-IDzdzPW4",
+      "hd_video_url": "https://www.youtube.com/embed/mx-IDzdzPW4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3665692b-60c3-4e34-b622-d5d3cc90aaa5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Chemistry by Gyan Sir",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/eJ84LVGDADI",
+      "hd_video_url": "https://www.youtube.com/embed/eJ84LVGDADI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b406d7d-3c57-4436-8a14-cc280eec6a14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-01 || Science (Most Expected Questions )",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/-Y3tjtxlPi4",
+      "hd_video_url": "https://www.youtube.com/embed/-Y3tjtxlPi4",
+      "thumbnail": "https://i.ytimg.com/vi/-Y3tjtxlPi4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Science (Most Expected Questions )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adf131e5-18cf-4b48-bc9a-08fceeabb924.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-02 || Practice Set-1",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/B1vL4QgCu8E",
+      "hd_video_url": "https://www.youtube.com/embed/B1vL4QgCu8E",
+      "thumbnail": "https://i.ytimg.com/vi/B1vL4QgCu8E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Practice Set-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/633e20f2-5efa-4e36-a2b0-6b389254201d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

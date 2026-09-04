@@ -1,0 +1,65 @@
+{
+  "subject_name": "Economics by Sukesh Sir",
+  "subject_id": 3313,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Economics (Part-01)",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/u-RycwqKA6o",
+      "hd_video_url": "https://www.youtube.com/embed/u-RycwqKA6o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Economics (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/092efee6-dbeb-4e52-955c-8b327cf93cb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Economics (Part-02)",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/gP8VGO1aJJ4",
+      "hd_video_url": "https://www.youtube.com/embed/gP8VGO1aJJ4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Economics (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e81b0b8-a9c2-47bf-a1c9-9d8f4f887f57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Economics (Part-03)",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/pDKl5jbpHgo",
+      "hd_video_url": "https://www.youtube.com/embed/pDKl5jbpHgo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Economics (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/beda5812-261a-4ad7-9a43-15862006b28b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Economics (Part-04)",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/aGPx_bPZh5Q",
+      "hd_video_url": "https://www.youtube.com/embed/aGPx_bPZh5Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Economics (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2899850d-57be-4978-ac80-f058e687963b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "Class 12th Yearlong Hindi Batch NEET 2025",
+    "price": "2199",
+    "id": "237",
+    "extracted_date": "2025-08-27T17:18:03.241864"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 1806,
+      "video_count": 5,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 2536,
+      "video_count": 6,
+      "note_count": 5
+    },
+    {
+      "name": "Botany Supporting Material",
+      "id": 2537,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Zoology Supporting Material",
+      "id": 2538,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Physics By Mohit Agrawal (MA Sir) Extra Class",
+      "id": 3421,
+      "video_count": 214,
+      "note_count": 213
+    },
+    {
+      "name": "Special Session By Jitesh Parashar Sir ( physics )",
+      "id": 4567,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Physics By Deepak Singh Parmar (DSP SIR)",
+      "id": 1995,
+      "video_count": 165,
+      "note_count": 164
+    },
+    {
+      "name": "Chemistry By Gogi sir",
+      "id": 1996,
+      "video_count": 128,
+      "note_count": 123
+    },
+    {
+      "name": "Botany By Shashank Yadav (Sapiens Sir)",
+      "id": 2092,
+      "video_count": 107,
+      "note_count": 107
+    }
+  ]
+}

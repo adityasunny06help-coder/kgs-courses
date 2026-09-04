@@ -1,0 +1,513 @@
+{
+  "subject_name": "Economics by Sukesh Sir",
+  "subject_id": 4381,
+  "video_count": 36,
+  "note_count": 36,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Economics || अर्थशास्त्र का परिचय",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/3v2E6aiwEoo",
+      "hd_video_url": "https://www.youtube.com/embed/3v2E6aiwEoo",
+      "thumbnail": "https://i.ytimg.com/vi/3v2E6aiwEoo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction of Economics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fb282ce-8dd6-4384-82df-57966e1423d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 1)",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/n1U3YSk-fvE",
+      "hd_video_url": "https://www.youtube.com/embed/n1U3YSk-fvE",
+      "thumbnail": "https://i.ytimg.com/vi/n1U3YSk-fvE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/637ae6e6-b45d-482d-a0c6-90498cdd08b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 2)",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/0MiwwAANZ2I",
+      "hd_video_url": "https://www.youtube.com/embed/0MiwwAANZ2I",
+      "thumbnail": "https://i.ytimg.com/vi/0MiwwAANZ2I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82e8add7-7076-42fd-b0cb-489087836f1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 3)",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/4vC19NMoDdo",
+      "hd_video_url": "https://www.youtube.com/embed/4vC19NMoDdo",
+      "thumbnail": "https://i.ytimg.com/vi/4vC19NMoDdo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Basics of Economics || अर्थशास्त्र की मूल बातें (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/910a3533-1552-4631-9aa0-4f8ab342325d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Money & Banking || मुद्रा एवं बैंकिंग (Part 1)",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Q4qD3M-HO9o",
+      "hd_video_url": "https://www.youtube.com/embed/Q4qD3M-HO9o",
+      "thumbnail": "https://i.ytimg.com/vi/Q4qD3M-HO9o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Money & Banking || मुद्रा एवं बैंकिंग (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edb36adc-b9b8-4d40-9a9e-a453932523ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Money & Banking || मुद्रा एवं बैंकिंग (Part 2)",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/8j2Ujc6-xDk",
+      "hd_video_url": "https://www.youtube.com/embed/8j2Ujc6-xDk",
+      "thumbnail": "https://i.ytimg.com/vi/8j2Ujc6-xDk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Money & Banking || मुद्रा एवं बैंकिंग (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e82958c9-caa9-41d6-84ae-8b17fe186d13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Money & Banking || मुद्रा एवं बैंकिंग (Part 3)",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/23kS2XthqTA",
+      "hd_video_url": "https://www.youtube.com/embed/23kS2XthqTA",
+      "thumbnail": "https://i.ytimg.com/vi/23kS2XthqTA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Money & Banking || मुद्रा एवं बैंकिंग (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02199139-83d8-4e7c-833c-4b8cf1085bc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Money & Banking || मुद्रा एवं बैंकिंग (Part 4)",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/M45RBZjh7rY",
+      "hd_video_url": "https://www.youtube.com/embed/M45RBZjh7rY",
+      "thumbnail": "https://i.ytimg.com/vi/M45RBZjh7rY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Money & Banking || मुद्रा एवं बैंकिंग (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00b6042e-c8e7-447c-bad6-60820ebe0491.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Money & Banking || मुद्रा एवं बैंकिंग (Part 5)",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/rlURgPx2MPY",
+      "hd_video_url": "https://www.youtube.com/embed/rlURgPx2MPY",
+      "thumbnail": "https://i.ytimg.com/vi/rlURgPx2MPY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Money & Banking || मुद्रा एवं बैंकिंग (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b049faf-0e4b-46f3-849f-8c94677a5fdd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Reserve Bank of India & Its Function || भारतीय रिज़र्व बैंक और उसके कार्य (Part 1)",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UgYMNKXxBTM",
+      "hd_video_url": "https://www.youtube.com/embed/UgYMNKXxBTM",
+      "thumbnail": "https://i.ytimg.com/vi/UgYMNKXxBTM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Reserve Bank of India & Its Function || भारतीय रिज़र्व बैंक और उसके कार्य (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1831617-3b96-4fe1-b082-223d924830e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Reserve Bank of India & Its Function || भारतीय रिज़र्व बैंक और उसके कार्य (Part 2)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RLNQPDaYZnA",
+      "hd_video_url": "https://www.youtube.com/embed/RLNQPDaYZnA",
+      "thumbnail": "https://i.ytimg.com/vi/RLNQPDaYZnA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Reserve Bank of India & Its Function || भारतीय रिज़र्व बैंक और उसके कार्य (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/365bc02c-0247-4ab5-a2dc-919068351bec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Reserve Bank of India & Its Function || भारतीय रिज़र्व बैंक और उसके कार्य (Part 3)",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/vQkPVAGTRDE",
+      "hd_video_url": "https://www.youtube.com/embed/vQkPVAGTRDE",
+      "thumbnail": "https://i.ytimg.com/vi/vQkPVAGTRDE/default.jpg",
+      "notes": [
+        {
+          "title": "L12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4cfc7c4-5def-4470-9de0-dc8d225cce3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Inflation || मुद्रा स्फ़ीति (Part 1)",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bofT0IdpBP0",
+      "hd_video_url": "https://www.youtube.com/embed/bofT0IdpBP0",
+      "thumbnail": "https://i.ytimg.com/vi/bofT0IdpBP0/default.jpg",
+      "notes": [
+        {
+          "title": "L13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35a9a8c8-4b74-4049-a3fb-c47f6448b96f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Inflation || मुद्रा स्फ़ीति (Part 2)",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/S_qaeIovG0g",
+      "hd_video_url": "https://www.youtube.com/embed/S_qaeIovG0g",
+      "thumbnail": "https://i.ytimg.com/vi/S_qaeIovG0g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Inflation || मुद्रा स्फ़ीति (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8925700f-c1ef-4329-bfa1-01831e0acd56.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || National Income || राष्ट्रीय आय (Part 1)",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/KPssVz68Tnw",
+      "hd_video_url": "https://www.youtube.com/embed/KPssVz68Tnw",
+      "thumbnail": "https://i.ytimg.com/vi/KPssVz68Tnw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || National Income || राष्ट्रीय आय (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9586443a-0178-4bf1-8f84-e4171bf1ac11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || National Income || राष्ट्रीय आय (Part 2)",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/4NX0mHSANzM",
+      "hd_video_url": "https://www.youtube.com/embed/4NX0mHSANzM",
+      "thumbnail": "https://i.ytimg.com/vi/4NX0mHSANzM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || National Income || राष्ट्रीय आय (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27af7f97-4e0a-4f03-8b8f-59b2a2bcfc29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || National Income || राष्ट्रीय आय (Part 3)",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/H4HM29zqnGI",
+      "hd_video_url": "https://www.youtube.com/embed/H4HM29zqnGI",
+      "thumbnail": "https://i.ytimg.com/vi/H4HM29zqnGI/default.jpg",
+      "notes": [
+        {
+          "title": "National Income",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2746fb9f-9f63-4f6a-a333-9462ebf397c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Planning in India || भारत में योजना (Part 1)",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/uO6vu58N0ds",
+      "hd_video_url": "https://www.youtube.com/embed/uO6vu58N0ds",
+      "thumbnail": "https://i.ytimg.com/vi/uO6vu58N0ds/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Planning in India || भारत में योजना (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aacd4bf-d49b-4d6b-bbc9-3781a4a07c61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Planning in India || भारत में योजना (Part 2)",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/gz1hODXootk",
+      "hd_video_url": "https://www.youtube.com/embed/gz1hODXootk",
+      "thumbnail": "https://i.ytimg.com/vi/gz1hODXootk/default.jpg",
+      "notes": [
+        {
+          "title": "Planning in India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c118997-3b10-4a9b-9fca-03bd509f8212.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Financial Market || वित्तीय बाजार (Part 1)",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/m1g_ILdFwSE",
+      "hd_video_url": "https://www.youtube.com/embed/m1g_ILdFwSE",
+      "thumbnail": "https://i.ytimg.com/vi/m1g_ILdFwSE/default.jpg",
+      "notes": [
+        {
+          "title": "वित्तीय बाजार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35c419aa-2675-4919-b41d-fff11b90b653.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Financial Market || वित्तीय बाजार (Part 2)",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/JfjjuvsZmKM",
+      "hd_video_url": "https://www.youtube.com/embed/JfjjuvsZmKM",
+      "thumbnail": "https://i.ytimg.com/vi/JfjjuvsZmKM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Financial Market || वित्तीय बाजार (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61efdf93-ca60-45e7-be88-53645d00cf74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Financial Market || वित्तीय बाजार (Part 3)",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/m2X2MUoyPkU",
+      "hd_video_url": "https://www.youtube.com/embed/m2X2MUoyPkU",
+      "thumbnail": "https://i.ytimg.com/vi/m2X2MUoyPkU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Financial Market || वित्तीय बाजार (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00b2bf07-0f0c-4624-94a0-1b67fab1723a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Foreign Trade || विदेश व्यापार",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RxFcEL0fctI",
+      "hd_video_url": "https://www.youtube.com/embed/RxFcEL0fctI",
+      "thumbnail": "https://i.ytimg.com/vi/RxFcEL0fctI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Foreign Trade || विदेश व्यापार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6abeac9a-83fe-465b-a0b5-889c86b7a997.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Budget & Taxation || बजट एवं कराधान (Part 1)",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kp2NLj9gzeI",
+      "hd_video_url": "https://www.youtube.com/embed/kp2NLj9gzeI",
+      "thumbnail": "https://i.ytimg.com/vi/kp2NLj9gzeI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Budget & Taxation || बजट एवं कराधान (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1ad39ae-56f9-407d-bb23-9d06ca619f53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Budget & Taxation || बजट एवं कराधान (Part 2)",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/mFhF_B497is",
+      "hd_video_url": "https://www.youtube.com/embed/mFhF_B497is",
+      "thumbnail": "https://i.ytimg.com/vi/mFhF_B497is/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Budget & Taxation || बजट एवं कराधान (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1d0612f-aa91-4b47-8420-4fcd9ada0c4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Budget & Taxation || बजट एवं कराधान (Part 3)",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Ry4bXOe1qT4",
+      "hd_video_url": "https://www.youtube.com/embed/Ry4bXOe1qT4",
+      "thumbnail": "https://i.ytimg.com/vi/Ry4bXOe1qT4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Budget & Taxation || बजट एवं कराधान (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c0083ba-6e6e-4c9a-a3a9-d642769cadeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Budget & Taxation || बजट एवं कराधान (Part 4)",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/2rPoTT9Adxo",
+      "hd_video_url": "https://www.youtube.com/embed/2rPoTT9Adxo",
+      "thumbnail": "https://i.ytimg.com/vi/2rPoTT9Adxo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Budget & Taxation || बजट एवं कराधान (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/378492f9-5166-40cc-9906-6bcc76f44e90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Budget & Taxation || बजट एवं कराधान (Part 5)",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/SpfaC7R2URk",
+      "hd_video_url": "https://www.youtube.com/embed/SpfaC7R2URk",
+      "thumbnail": "https://i.ytimg.com/vi/SpfaC7R2URk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Budget & Taxation || बजट एवं कराधान (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72ad49c9-27e5-4cd3-841c-90aa2d13a32d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Poverty and Unemployment || गरीबी और बेरोजगारी (Part 1)",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/N8Q03VVghPc",
+      "hd_video_url": "https://www.youtube.com/embed/N8Q03VVghPc",
+      "thumbnail": "https://i.ytimg.com/vi/N8Q03VVghPc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Poverty and Unemployment || गरीबी और बेरोजगारी (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/074a1d2b-fc17-49a6-b08d-52c9ba68f594.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Poverty and Unemployment || गरीबी और बेरोजगारी (Part 2)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/YfrOdVrV6zw",
+      "hd_video_url": "https://www.youtube.com/embed/YfrOdVrV6zw",
+      "thumbnail": "https://i.ytimg.com/vi/YfrOdVrV6zw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Poverty and Unemployment || गरीबी और बेरोजगारी (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f91f492-10a4-4735-8532-3fced17f77bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || International Organization || अंतर्राष्ट्रीय संगठन",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Q_bnVIFL8i4",
+      "hd_video_url": "https://www.youtube.com/embed/Q_bnVIFL8i4",
+      "thumbnail": "https://i.ytimg.com/vi/Q_bnVIFL8i4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || International Organization || अंतर्राष्ट्रीय संगठन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02ec5436-a029-4616-ac2d-30f1afef2417.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 1)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/M6FxnRS_Lho",
+      "hd_video_url": "https://www.youtube.com/embed/M6FxnRS_Lho",
+      "thumbnail": "https://i.ytimg.com/vi/M6FxnRS_Lho/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2dffa216-5512-4476-a880-53d246712249.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 2)",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ZMIXb_N5UE0",
+      "hd_video_url": "https://www.youtube.com/embed/ZMIXb_N5UE0",
+      "thumbnail": "https://i.ytimg.com/vi/ZMIXb_N5UE0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24e0b6fd-563f-4ff5-8bfb-95a796158e27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 3)",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/y38bJg0WX0M",
+      "hd_video_url": "https://www.youtube.com/embed/y38bJg0WX0M",
+      "thumbnail": "https://i.ytimg.com/vi/y38bJg0WX0M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Micro Economics || सूक्ष्म अर्थशास्त्र (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c7dbd91-ee6f-4e7f-8449-29fbc37e6e6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Practice Set || प्रैक्टिस सेट (Part 1)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/RgbAAktR4Xs",
+      "hd_video_url": "https://www.youtube.com/embed/RgbAAktR4Xs",
+      "thumbnail": "https://i.ytimg.com/vi/RgbAAktR4Xs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Practice Set || प्रैक्टिस सेट (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33f9086b-15f5-40b6-9ae3-5a8784526994.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Practice Set || प्रैक्टिस सेट (Part 2)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rupiRqpywjA",
+      "hd_video_url": "https://www.youtube.com/embed/rupiRqpywjA",
+      "thumbnail": "https://i.ytimg.com/vi/rupiRqpywjA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Practice Set || प्रैक्टिस सेट (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6948847e-4b65-4890-ab0a-59d4d5ce84d1.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

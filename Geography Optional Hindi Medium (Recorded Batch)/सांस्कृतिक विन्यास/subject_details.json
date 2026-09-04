@@ -1,0 +1,63 @@
+{
+  "subject_name": "सांस्कृतिक विन्यास",
+  "subject_id": 7881,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || भारत: जनसंख्या भूगोल (भाग- 01)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l160/lecture160.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l160/lecture160.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/26055NY4MrwbCslPOXSTJMBYH4fIf4jVMKaTzfIS.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भारत: जनसंख्या भूगोल (भाग- 02)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l161/lecture161.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l161/lecture161.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vGdkXRaLGo7bPpqZiMnSCNDQMyq3a5dB1krDo5ia.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || लिंग अनुपात, साक्षरता",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l164/lecture164.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l164/lecture164.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KXVH4j0jzCIxoVLuQ7odJ55KQTwFuIvjhpoQrdYk.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || जीवन प्रत्याशा",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l165/lecture165.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l165/lecture165.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pmpFEuJjWCWmmFwHXAq5bZdH8xIrdNmqPmYOtvmH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || भारत की जनसंख्या नीति",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l167/lecture167.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l167/lecture167.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qNIuIM7SqssDUI5D79yXrykS2ffrviaxRwsPPSl1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || प्रजातियों का वर्गीकरण",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l169/lecture169.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l169/lecture169.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BIFlXtQEaCf5pdV4dSEJk2c1RkHsLKB71KPD1vb5.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

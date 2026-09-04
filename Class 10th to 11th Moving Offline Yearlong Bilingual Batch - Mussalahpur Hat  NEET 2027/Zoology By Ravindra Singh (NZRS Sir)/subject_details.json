@@ -1,0 +1,97 @@
+{
+  "subject_name": "Zoology By Ravindra Singh (NZRS Sir)",
+  "subject_id": 8305,
+  "video_count": 7,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Biomolecules - 1",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_8vI398JNW8",
+      "hd_video_url": "https://www.youtube.com/embed/_8vI398JNW8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 1 || Breathing and Exchange of gases - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f929737-c463-49b3-aea7-3e997e78ae44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Biomolecules - 2",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/7q5iq_HzzqU",
+      "hd_video_url": "https://www.youtube.com/embed/7q5iq_HzzqU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 2 || Biomolecules - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8b965ed-3430-43bd-860d-d8c572fc9d2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Biomolecules - 3",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/M-WOw63DnH4",
+      "hd_video_url": "https://www.youtube.com/embed/M-WOw63DnH4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 3 || Biomolecules - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27496c80-2bbc-4f9b-8eec-763cccd9ebc2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Biomolecules - 4",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0l4adcczAvo",
+      "hd_video_url": "https://www.youtube.com/embed/0l4adcczAvo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 4 || Biomolecules - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/381a6e0a-137a-4466-9eb3-2b27a7d839b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Biomolecules - 5",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Rivj7xuQ7R4",
+      "hd_video_url": "https://www.youtube.com/embed/Rivj7xuQ7R4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture - 5 || Biomolecules - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4bc86df-25c9-448c-b7f2-e8c85b2a3e47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Biomolecules - 6",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZwNUs-J_yXE",
+      "hd_video_url": "https://www.youtube.com/embed/ZwNUs-J_yXE",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Biomolecules - 7",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

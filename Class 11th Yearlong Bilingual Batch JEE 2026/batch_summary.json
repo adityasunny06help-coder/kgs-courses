@@ -1,0 +1,52 @@
+{
+  "batch_info": {
+    "title": "Class 11th Yearlong Bilingual Batch JEE 2026",
+    "price": "2999",
+    "id": "253",
+    "extracted_date": "2025-08-27T16:53:53.408378"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 1852,
+      "video_count": 5,
+      "note_count": 2
+    },
+    {
+      "name": "Physics Bridge DPP",
+      "id": 5700,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry Bridge DPP",
+      "id": 5701,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Announcement Section",
+      "id": 1861,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 2555,
+      "video_count": 4,
+      "note_count": 2
+    },
+    {
+      "name": "Math Supporting Material",
+      "id": 2567,
+      "video_count": 51,
+      "note_count": 34
+    },
+    {
+      "name": "Test Paper and Solutions",
+      "id": 2501,
+      "video_count": 17,
+      "note_count": 11
+    }
+  ]
+}

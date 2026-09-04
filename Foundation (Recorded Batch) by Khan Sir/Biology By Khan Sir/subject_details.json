@@ -1,0 +1,950 @@
+{
+  "subject_name": "Biology By Khan Sir",
+  "subject_id": 7022,
+  "video_count": 104,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture :01|| कोशिका || Cell (Part 1)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-01/l1.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Sr-fVcPJ1wA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/M9vIxT3xz3MlWqoKH7okEp89Air1NGuaTlXH7R1B.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture :02 || कोशिका || Cell (Part 2)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-02/l2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kAWLeAjNoHo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Un07cqhX7TA14PqPqtksspcwkJHTcaCqYqDpCL95.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture :03 || कोशिका || Cell (Part 3)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-03/l3.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e-ssA5q91Uo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/i3zBUoGz7HmgwBdut4zdq2J6cu2nUgcJIoP6c1OY.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture :04 || कोशिका || Cell (Part 4)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-04/l4.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uAaaHOIfQrM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rPi5yNqNMIQGmreKZqEJJn17Og1xYeU2WKGZoTAY.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture :05 || कोशिका || Cell (Part 5)",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-05/l5.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/a6SrHpAZOsw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jXs4eb3gMs7z1yVuzTvgCbdKeyaYPiRBy2BVOVQ5.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture :06 || कोशिका || Cell (Part 6)",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-06/l6.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qX-y8iIeTas",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RlWXsPpUiYMOPz884UQlMbFIwlAJ42jA2x6L4VVq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture :07 || कोशिका || Cell (Part 7)",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-07/l7.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ja3ST3Rcgso",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3PQoCMiJXe3XCtfKl4H2DUay529hW0S9XWpjR3Yw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture :08 || कोशिका विभाजन || Cell Division Part 1",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-08/l8.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Xq6-rvJ5OGo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TrVZwfKBji3s1jtBOE1FZqIlOoGgfMSHcxWCxXxl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture :09 || कोशिका विभाजन || Cell Division Part  2",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-09/l9.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KvW8KvHClTs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/cRPkL0FMgRc6rdU7TruSZmzk4jrbAwsRTZiNLtTd.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture :10 || उत्तक || Tissue",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-10/l10.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HADwCP0cteE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QbgALT3avmVmXTnJXBwmnS2yzxF3rcyp2qd56PpX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture :11 || Muscular System ( मांसपेशी तंत्र )",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-11/l11.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fwHlhIHRdQM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rOOy3tRdVjdzRxSwtUvdd58Bmx0SnQCI4JEjzUtE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture :12 || Skeleton System( कंकाल तंत्र ) Part 1",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-12/l12.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OkRxTQegxlU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RXScMvGSiQoGW9lWd4SnpikfUPOgy28gZCvj2TyC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture :13 || Skeleton System( कंकाल तंत्र ) Part 2",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-13/l13.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oFybxOUEAzA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/s6Bue6FWnR9jrvaBl10hYKdXomWfoUjc19DYrNRt.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture :14 || Skeleton System( कंकाल तंत्र ) Part 3",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-14/l14.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pSmQybBcI3k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QKy6J9GGJrCwSve0VuOEa63Ar8emHiVEELTHWwih.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture :15 || Skeleton System( कंकाल तंत्र ) Part 4",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-15/l15.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sKop8NtF2dw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/umTTojNJuvKM18qOSqNgOpDRbFDIQYYA9OYBsKzn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture :16 || Joint || संधि या जोड़",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-16/l16.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2hKWaclLpwQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qWSxUgfvMkXosRqrYHUxnfnaqfXhEo9UCkrXKsuk.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture :17 || Digestive System || (पाचन तंत्र) Part 1",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-17/l17.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Mjj9ZrHbbFc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KqKIiLPlw9w6jfuy82DRc5fMUPROLEg8uFs0ciFH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture :18 || Digestive System || (पाचन तंत्र) Part 2",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-18/l18.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ji6AS-sKaXY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6xbsp3PgMUFinmpNI4SZt1tU9V5uV4brxqD9eNbO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture :19 || Stomach|| आमाशय",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-19/l19.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/q6C55tgLVFI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/hnaOmeiEtE3ii6YRCDVfHcGtkEXrUfyJmHFvesOA.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture :20 ||Small Intestine || छोटी आँत",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-20/l20.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hyVDwzYq-mo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fOCCbOJWAaMkuQsbzxoS3ZiNc9LIqlvEbvOGFC9b.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture :21 || Large Intestine || बड़ी आँत",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-21/l21.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HSH8p-Yb2Sw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bAnZTIoL6HUlr8GIUokTqADjGyQ14x1ugFLHWnS3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture :22 || Breathing || श्वसन तंत्र || Part 1",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-22/l22.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5u_vk-mu2Zo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rluISUwOJ9x6BUZ1MgjYzcA1ovNHmEaSU8kbe4Dk.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture :23 || Breathing || श्वसन तंत्र || Part 2",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-23/l23.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FJ2zj5MEgUA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7865SEkBt4EDzD7AySWoLVKltLbgIYrebAm4mua5.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture :24 || Breathing || श्वसन तंत्र || Part 3",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-24/l24.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/a3vC0RsD1gY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/cJZSvph8KtcnwgZlBCbUgT4IjUpCM07hymbKJhHF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture :25 || परिसंचरण तंत्र || Circulatory System ||",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-25/l25.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GR9WXVMDVQI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KPGxhhhG9dOrMENU2jlml9hMbhBa1L25qW93IAIn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture :26 || Heart || ह्रदय || Part 1",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-26/l26.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8kfJy0LP8JI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/D3vgw5adL8veo8RXVEAfuLU7Tia9q9sgyW1HTwOB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture :27 || Heart || ह्रदय || Part 2",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-27/l27.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GxXCaK2YNw0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/omkvpb86bxAYb5A2N8pmcWhRW3vlw5iT1WE6IVgp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture :28 || Blood || रक्त || Part 1",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-28/l28.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4kLyGNWAPQ0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/nSkvd6vll3hOe9HNNHWS32XLzlLD4uek77iD7IvQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture :29 || Blood || रक्त || Part 2",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-29/l29.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qKPRM9NnJYA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/MpB4xPVjGGYG8jbDgEBldSS4tYksAFwSfIor0eDt.jpg",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture :30 || Blood || रक्त || Part 3",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-30/l30.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4jAEtTM39tk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/un21G0B8vs6FikrwgbG4hT9ANpQcbw55sGD6T9go.jpg",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture :31 || Blood Group || Part 1",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-31/l31.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7FpvDlJNHzg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8r2Nf7MX3b2mgf3NmgzirbW9G79B1JC3dVvHrzAE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture :32 || Blood Group || Part 2",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-32/l32.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6MfD0k97czI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/2Tr9a8pBH3cKftFGqPMxnaRjJrcXeKyVQwpSSRR7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture :33 || Excretory system || उत्सर्जन तन्त्र || Part 1",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-33/l33.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5qb_RSh8azo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cQLgBITxTWhfhbzdzMx1nLPQxN0vrCX4VKYgFH1u.jpg",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture :34 || Excretory system || उत्सर्जन तन्त्र || Part 2",
+      "published_date": "01 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-34/l34.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/95NAOH-N3_I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/trlPEZUu1LiXS1t2HPilI8XlrvMwNZivGyyQgOMF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture :35 || Excretory system and Brain ||",
+      "published_date": "02 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-35/l35.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XuX05cL9BWk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/rgEvGPmWFj97Mrsvhar4F6dFzuwFFehD2tNP0Zif.jpg",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture :36 || Brain || मस्तिष्क || Part 1",
+      "published_date": "03 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-36/l36.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iiV9BeIQE7o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/mRlQMTCqfxNcChaDI5QgQnz0kyceIyfy4cFyhBUE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture :37 || Brain || मस्तिष्क || Part 2",
+      "published_date": "06 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-37/l37.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/a077eFu2NKs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qEhab2kSERmYsOeuQEiZuxLceRkhyo5lTto0TuyJ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture :38 || Brain and Reproduction || मस्तिष्क और प्रजनन",
+      "published_date": "07 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-38/l38.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6InkVkvP034",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/GHERhVsVVY95AmpYrrz8Yxbmy9Cj2hxuXWDrEGpI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture :39 || Reproduction || प्रजनन || Part 1",
+      "published_date": "13 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-39/l39.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Iqsk49oWANo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/l2KPvnl0YHPWWAcmwukDRc5Rr5YmMEqYyH0usJbS.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture :40 || Reproduction || प्रजनन || Part 2",
+      "published_date": "14 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-40/l40.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/r1N8TzeCXV4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jVPSwQklBjIyn1Q2OEIEZ0G9vYoP7UYTzaVG7Fyu.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture :41 || Reproduction || प्रजनन || Part 3",
+      "published_date": "15 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-41/l41.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vNv6OJcVxII",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UDH2dEtYlRnzfbUzpsCgiAIByMysCTxc0E10Txxw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture : 42 ||Sense Organ || इंद्रियां",
+      "published_date": "16 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-42/l42.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IEqxa6SI_Gw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/yVJe1kOVozlrqunNrDpmlLmYBd6v8LeKVBrVFRgM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture : 43 || Eye ||आँख || Part 1",
+      "published_date": "17 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-43/l43.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lsrGZcttz-4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ryeZgeA8nmcS9SpMamSGVKEnWgRBRZCHyOwWTLy3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture : 44 || Eye ||आँख || Part 2",
+      "published_date": "20 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-44/l44.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9VDXVgdXGdU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/wfC2oHUIsxMdqRXjN12I8CNV8glzGRnPsxD8irJe.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture : 45 || Ear || कान ||",
+      "published_date": "21 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-45/l45.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YwGDvQwVKck",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qH7zhvOI290wRsd8jg60jmtHanA3YBWGbXMJVhks.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture : 46 ||Tongue and Skin || जीभ और चमड़ा ||",
+      "published_date": "22 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-46/l46.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TgEYwJ00oBI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4yUi2veLqAODsQtWzjexvs1uzhwI0D4gcTrMcljX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture : 47 || Skin and Gland || ग्रन्थि",
+      "published_date": "23 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-47/l47.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dY8aT11NnP8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/GujLzVP8vX0ncF6wx3tUhLcC9dJpcZ32nvdfdZ2Y.jpg",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Lecture : 48 || Liver and Gland",
+      "published_date": "24 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-48/l48.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uyL1pD6UFiY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/49UdJ4JWvRQ2Wup8URnZoTueKKZsVJAjgykXbKH2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture : 49 || Exocrine Glands || बहिःस्रावी ग्रंथि ||",
+      "published_date": "27 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-49/l49.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mrsfAXJq7gE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/98dPFr1E91nM7fAkBJEY5qWHHzqKTYOLbxYHpzVO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Lecture : 50 || Mixed Gland ||",
+      "published_date": "28 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-50/l50.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b2UGoYeGqS8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Mrwnzw2wLxgFFkhpvc1YUnC23G3Jt0MJnQHpw4aH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Lecture : 51 || Gland and Nutrition ||",
+      "published_date": "29 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-51/l51.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EJ9A-7RAkT0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/n0Wrxq0nLim68qh0r8fJ7LoAbwNHDsT0gsEOHsFQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Lecture : 52 || Nutrition ||",
+      "published_date": "30 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-52/l52.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4dekOSu__SI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/V2kQEx9sJznxU8kttPGOa76xoKFRwuMqxOpflSJM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Lecture : 53 || Components of Food || भोजन के घटक",
+      "published_date": "31 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-53/l53.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vF2YQyCGjpU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/i2A24DoSlmC5hQJ2fVzVx9QJcKlXSpi7mmq66C9v.jpg",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Lecture : 54 || Vitamins || विटामिन (Part-01)",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-54/l54.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kbFmKqLJoac",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ZMBIHKBpfqoJ7AdY0T0TQ5OX3QAx2JhYvYlTCCWO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture : 55 ||  Vitamins || विटामिन (Part-02)",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-55/l55.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q2_redsaWH4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/fbWDVnFMjsOuJ8cIsujZv7v6eKYXLVT7IwpZGMdO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture : 56 || Minerals || खनिज",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-56/l56.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_gqpgKyayd8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/i0cemSgw6w35GS7gIQ21rclk14uSqtuuRB8DHn46.jpg",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture : 57 || Metabolism || उपापचय",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-57/l57.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/apV4iPiUoxI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aSh1bI5F9ci0u3fVEPI0woaifztAOFU2MUB0UfXJ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Lecture : 58 || Human Disease || मानव रोग (Part-01)",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-58/l58.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oBHJaNVT0Oo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/T3LhbxOpN56ZJ1DdE5OIRW6cO1Omi1ODypt5C1SX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture : 59 ||  Human Disease || मानव रोग (Part-02)",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-59/l59.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/J7OBdEtP19o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7Z1QSvdlRWlz7JoWkaPiDG3LLapbm6vy2lT923Po.jpg",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture : 60 || Human Disease || मानव रोग (Part-03)",
+      "published_date": "13 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-60/l60.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rPIGYP_2tLc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jds46L93EXnUiIvXsjbFfU47gUvI2CnpUehksWry.jpg",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Lecture : 61 || Human Disease || मानव रोग (Part-04)",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-61/l61.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9Xrw-JM7Weg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/o0ZQU2qziYV10yNFLqSWACQFFmTxBhMD0PKbqcGx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Lecture : 62 || Human Disease || मानव रोग (Part-05)",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-62/l62.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/z3mQ7bSyGxE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OpdxY9k4n0F9mFAMoz5Bs4FXRoe3c7F5azKukCks.jpg",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture : 63 || Human Disease || मानव रोग (Part-06)",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-63/l63.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qcw9JqPI7T8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gS4jmbDretM624AQrVMuzz3dM85uT3uuQU5Gr3Gf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Lecture : 64 || Human Disease || मानव रोग (Part-07)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-64/l64.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dPCVRHEX-h8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/o1hVepIGqNpufELKLTxEv3nyGvo1ks0N8cac6KEx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture : 65 || Human Disease & Medicines || मानव रोग और दवाइयाँ (Part-08)",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-65/l65.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WTwwyVbAMjg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yuQrfK3PUgcb1yOWxc2f7ojvmosWkZgaoOTNdZTv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Lecture : 66 || Classification Animal Kingdom || जन्तु जगत वर्गीकरण (Part-01)",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-66/l66.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7gjxESpOt8s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CyBZnT6sPa8gkyMQNIpt3VmWlrCUb0OYXdHi8dSm.jpg",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Lecture : 67 || Classification Animal Kingdom || जन्तु जगत वर्गीकरण (Part-02)",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-67/l67.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/amHdrSxpHhM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IdQ2fSgyU1zRWUGs1wLWyhrwLlH1tAi3bVPS94DU.jpg",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Lecture : 68 || Classification Animal Kingdom & Root || जन्तु जगत वर्गीकरण और जड़  (Part-03)",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-68/l68.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L3USGsEUCGg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LrGCM7MlqmnTlNMyKJdcddGztX4Vz4NaUxeMvvpZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Lecture : 69 || Root, Stem & Leaf  || जड़, तना और पत्ती",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-69/l69.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cwlLSO_qiTw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HQZbsOtKiiftSAOWVbjKWngor0PAbmqX8DT40ehL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Lecture : 70 || Flower || पुष्प",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-70/l70.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Nf8Bh85ZhOg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MaeKAyOCkdg5mLC6QFjhhjaxLt9gAUWMF0mj0ipu.jpg",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Lecture : 71  || Fruit || फल",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-71/l71.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OEtqAbqPUG0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6u62nKF8X8Dp7y4ML7l4EGQ1f92LKLnYrtVnIDjB.jpg",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Lecture : 72 || Seed || बीज",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-72/l72.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JnMhw1kcRvA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Lecture : 73 || Nutrition || पोषक तत्व",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-73/l73.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BDaDCd67YDU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GgbjncKF0n7qXk6NEBtCVgUURMb0cZ0327KO6o6I.jpg",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Lecture : 74 || Plant Kingdom || पादप जगत (Part-01)",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-74/l74.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e1h2kQelWLw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hm60zNJayPAJQn73IFyZS1KwYjHFjDM2bUl6x2Zi.jpg",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Lecture : 75 || Plant Kingdom || पादप जगत (Part-02)",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-75/l75.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/opbgify4ViM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/voKL3T7epWi6HqXT78CWqm7x4mWWwJHAXQO9W57I.jpg",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Lecture : 76 || Plant Kingdom || पादप जगत (Part-03)",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-76/l76.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qBof2N9Qf0E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rEuM0WDZn0h97AQsMzUGRSQHGZJ9b6ynIfKQez5Z.jpg",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Lecture : 77 || Plant Kingdom || पादप जगत (Part-04)",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-77/l77.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vQGRVKX2NvQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qnaR1IatwysZgAazYjQTfDARJIPCwupsSL8BzLOu.jpg",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Lecture : 78 || Plant Kingdom & Nitrogen Fixation || पादप जगत और नाइट्रोजन स्थिरीकरण (Part-05)",
+      "published_date": "17 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-78/l78.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eya_9ZmPqPU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/g0VK2YhUWzQNAoanJDATH3V9UO5N1KSKBTInpaoH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "Lecture : 79 ||  Plant Kingdom || पादप जगत (Part-06)",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-79/l79.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dn79hYyvyx8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TdMH0lN1ccx2RBjIMLjbOBAo2BvKBu0LppI4s3g2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "Lecture : 80 || Plant Diseases || पादप रोग (Part-01)",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-80/l80.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eTTe7IUYy-g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DgF9AdE7iqeiYeZWvE2UMMfuhOOqXUtxaZFhgvAh.jpg",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "Lecture : 81 || Plant Diseases & Plant Hormone || पादप रोग और पादप हार्मोन (Part-02)",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-81/l81.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dsi3yG8lpEc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vCZf1g8hcnL0xb7UR7oo8ZRpsKbKrjt0kb0ZuMj6.jpg",
+      "notes": [
+        {
+          "title": "Lecture : 81 || Plant Diseases",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e221dba7-74e2-4762-a372-ad1c690a89a4.07"
+        }
+      ]
+    },
+    {
+      "serial": 82,
+      "title": "Lecture : 82 || Plant Hormone ,Weed & Photosynthesis || पादप हार्मोन ,खर-पतवार और प्रकाश संश्लेषण",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-82/l82.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b6FjbVB826c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/i5qGufOiGbyfJP48Cv2FfVxJ5KJMmNCwAhp92t6e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "Lecture : 83 || Photosynthesis || प्रकाश संश्लेषण",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-83/l83.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7u_Y6oyEMww",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OnJ5pqmWjpWcNGqcZRZ3xD3z5E0xsXWUKdpSBwvD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 84,
+      "title": "Lecture : 84 || Tissue || ऊतक",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-84/l84.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AOKmvi45P5o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xveENOMhxEYpQ0cP92JQl9mbRbfHfUxGxZ7bcEx3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 85,
+      "title": "Lecture : 85 || Genetics || आनुवंशिकी (Part-01)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-85/l85.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9nsx38qx40o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/URgvwncYfPKOHKnMFJ1T8V9eaAOP3z2HddUlOg1L.jpg",
+      "notes": []
+    },
+    {
+      "serial": 86,
+      "title": "Lecture : 86 || Genetics || आनुवंशिकी  (Part -02)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-86/l86.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GPVBgFS-Yes",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SjaoHWixYc604GJvF0vYnjwOd4olZzAK9w47fy7H.jpg",
+      "notes": []
+    },
+    {
+      "serial": 87,
+      "title": "Lecture : 87 || Genetics || आनुवंशिकी (Part -03)",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-87/l87.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yOdmKmQxf7U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hMmZAotaMqfCnsxlifrS0vyyuNHJXX2vJw6JUd2y.jpg",
+      "notes": []
+    },
+    {
+      "serial": 88,
+      "title": "Lecture : 88 || Evolution || जैव विकास",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-88/l88.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6-DrQx5wOWg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iJGCcRIBFVkfEhZTk5EsQYUZpLtkqLLRADILhwJA.jpg",
+      "notes": []
+    },
+    {
+      "serial": 89,
+      "title": "Lecture : 89 || Evolution & Food Chain || जैव विकास एवं खाद्य श्रृंखला",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-89/l89.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/n4A37Cpf_Kw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HangPPwLWbFiaK5eYLvLzmB5wpoTqd6P6GyYi9DZ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 90,
+      "title": "Lecture : 90 || Food Chain & Ecology || खाद्य श्रृंखला एवं परिस्थितिकी",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-90/l90.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cbISswzFbYk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/2IWYcxVL6bH32sk2UZMjGDS8ljIJxgn35TJjp3Fn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 91,
+      "title": "Lecture : 91 ||  Ecology || परिस्थितिकी",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-91/l91.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ReiMiG37UVM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1DaC3ThXuOwkNCGFW7HywRp8bA9ysGCCGXaF64gn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 92,
+      "title": "Lecture : 92 || Pollution || प्रदूषण (Part-01)",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-92/l92.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DcYWCWDVdg8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/THMnzqIEZRMytESVLmlfdCNC1dGguTRbSX6bdr5n.jpg",
+      "notes": []
+    },
+    {
+      "serial": 93,
+      "title": "Lecture : 93 || Pollution || प्रदूषण (Part-02)",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-93/l93.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zGvkKuMKtIk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 94,
+      "title": "Lecture : 94 || Pollution || प्रदूषण (Part-03)",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-94/l94.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NypnshKdAB4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/F4xKxU06YCpxneONUTs0C5kLa1BYgiXfZQBDKAfE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 95,
+      "title": "Lecture : 95 || Pollution || प्रदूषण (Part-04)",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-95/l95.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GbDQjiPMJUg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hBe7vpcnnBI5vEtjrW2w5YLowrI3gKtIfsADK4tJ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 96,
+      "title": "Lecture : 96 || Pollution || प्रदूषण (Part-05)",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-96/l96.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y4ppWvpF_XI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AIxSCswxwrbukLlhH9pc0YxTvegPv7TH9cels26W.jpg",
+      "notes": []
+    },
+    {
+      "serial": 97,
+      "title": "Lecture 97 || Revision Class || रिवीजन क्लास (Part-01)",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-97/l97.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4PON763gcmE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ua6WaVS9Fk5LzpCxq8Kr8C9iT0hET5g4c9TfEuhd.jpg",
+      "notes": []
+    },
+    {
+      "serial": 98,
+      "title": "Lecture 98 || Revision Class || रिवीजन क्लास (Part-02)",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-98/l98.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kI2qe8e5lP8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZQ9Ab9xzffFVySLnd8Hq1Vj1c04vsrBrg6lfWtCU.jpg",
+      "notes": []
+    },
+    {
+      "serial": 99,
+      "title": "Lecture 99 || Revision Class || रिवीजन क्लास (Part-03)",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-99/l99.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uKbylWw5aSI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kvLiGPERhNE8HoHm9SudZlLsWvRGD0ym1Uo9sCsn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 100,
+      "title": "Lecture 100 || Revision Class || रिवीजन क्लास (Part-04)",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-100/l100.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rbN54c74ymI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/w0lHaMiBUh3Pi8zCakynl41ZhhMJTKYiALp18eZj.jpg",
+      "notes": []
+    },
+    {
+      "serial": 101,
+      "title": "Lecture 101 || Revision Class || रिवीजन क्लास (Part-05)",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-101/l101.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9-FE6jMvI2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZpIZpEJf0W3jjIL1gkzvyakvclZ79tzbyIaKWvpM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 102,
+      "title": "Lecture 102 || Revision Class || रिवीजन क्लास (Part-06)",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-102/l102.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ixyczdYD2rM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iTG6L5BB4uCSG7yWvt4nl1oIIWcDWfogd8ZIuxl6.jpg",
+      "notes": []
+    },
+    {
+      "serial": 103,
+      "title": "Lecture 103 || Revision Class || रिवीजन क्लास (Part-07)",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-103/l103.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kGarIHffP8s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RlbhFQ7jQVwuSXqdfmTh972nvuLBNOXpiTOnQP8U.jpg",
+      "notes": []
+    },
+    {
+      "serial": 104,
+      "title": "Lecture 104 || Revision Class || रिवीजन क्लास (Part-08)",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/bio-222/l-104/l104.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zPWTeSWrh9g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XXlATakqUNG3lwfMYzsH82Qn4wJxga6QJMC6dlyg.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,177 @@
+{
+  "subject_name": "General Science by Rajvardhan Sir",
+  "subject_id": 6330,
+  "video_count": 12,
+  "note_count": 12,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientation - Part 01",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230442/kgss-1745228772-v230442.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qY5cD8rm3PY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tGGDOmfE57si9onKAtr2hU8YMSszfln37R56Xa9s.jpg",
+      "notes": [
+        {
+          "title": "lecture-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a80c877-b052-4cd4-9071-ab545c02d618.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Orientation - Part 02",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230777/kgss-1745315248-v230777.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S_9K2Wv7s1Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9b97db57.jpg",
+      "notes": [
+        {
+          "title": "lecture-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4c8fbb2-4db0-42dc-bc94-f90f431f5221.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Motion & Force - Part 01",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231370/kgss-1745401198-v231370.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zAQRDHS82e8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9ba3b85d.jpg",
+      "notes": [
+        {
+          "title": "lecture-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f769d7b2-f2bf-468c-936e-8f9de6506279.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Motion & Force - Part 02",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233025/kgss-1745488065-v233025.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D-jS7vHlFy0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bab4505.jpg",
+      "notes": [
+        {
+          "title": "lecture-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf2accea-a141-465c-9d65-c5d75cf109fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Motion & Force - Part 03",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233411/kgss-1745574592-v233411.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hO_Rywtj6VE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bb6bddf.jpg",
+      "notes": [
+        {
+          "title": "lecture-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cbf0077-28af-4d14-b9f9-e79d8f893b53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Work & Energy - Part 01",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233875/kgss-1745661283-v233875.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/haUrDFQvuIo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bbe4c92.jpg",
+      "notes": [
+        {
+          "title": "lecture-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b519925-147e-4623-9362-7009a2769149.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Light (Part 1)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234176/kgss-1745833828-v234176.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3_RV9sRovuc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bc68d68.jpg",
+      "notes": [
+        {
+          "title": "lecture-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5fc42b1-bf49-469d-809a-ca3d943eb3fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Light (Part 2)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235222/kgss-1745921506-v235222.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YgPE78DCgUA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a5b9bce6b7e.jpg",
+      "notes": [
+        {
+          "title": "lecture-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7287a0da-c7e0-4532-a765-e9c5b6b11044.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Light (Part 3) and Cell",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/240994/kgss-1746007951-v240994.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3NLa90FKnsA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MBflG1XBQIJ7WEoj45cd3i3crAUIMxS6i01ab671.jpg",
+      "notes": [
+        {
+          "title": "lecture-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e38ec2b-2d34-416a-b28c-ca9415907388.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Cell",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241661/kgss-1746093284-v241661.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4GqLlAd2pjU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/IjqSr5sLP9vMtb9ErYw4cXcaoKLA88O42UbT579R.jpg",
+      "notes": [
+        {
+          "title": "lecture-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20696094-99fc-4ebb-ab58-c2e18da4000f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Cell and Nutrition",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241886/kgss-1746180606-v241886.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ETbjckpDhlU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ADXQdu1aQu1QhUslOGOIiLNx9Os1G5TY7j0peqeQ.jpg",
+      "notes": [
+        {
+          "title": "lecture-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46c09f9d-78dc-4328-b44b-d9b749168cc2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || General Science by Rajvardhan Sir",
+      "published_date": "03 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243310/kgss-1746265716-v243310.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8KBSs3M-KeE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XWe4Z9ORFufRSqNSr8FegWLHbErkMnWH6a7kPxOK.jpg",
+      "notes": [
+        {
+          "title": "lec-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad3fb42d-f7ab-4c68-98a3-e13fbe53658b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

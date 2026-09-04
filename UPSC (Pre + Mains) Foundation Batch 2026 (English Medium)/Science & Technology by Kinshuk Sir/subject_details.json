@@ -1,0 +1,97 @@
+{
+  "subject_name": "Science & Technology by Kinshuk Sir",
+  "subject_id": 8356,
+  "video_count": 7,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Chromosome",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/326297/kgss-1755674084-v326297.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xLlTSojDHuU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/meDvZNFR8WSMdqcT5TMibpA0xzZMZbi6F3fZyY56.jpg",
+      "notes": [
+        {
+          "title": "Lec-01-Science-&-Technology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26023ad5-af8b-44ae-b587-7e6253e9cb97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || DNA",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/327255/kgss-1755760240-v327255.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FkbwT3MGV2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OswDE2aRnsihn7mxmWz4gVedxRRnZ8vk8l0KuN8q.jpg",
+      "notes": [
+        {
+          "title": "Lec-02-Science-&-Technology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97b44b82-e99f-42a7-9e27-95ccaf8fb688.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Car-T cell therapy",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/328682/kgss-1755845965-v328682.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dN6C9RLqAhA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8RJz9WOPPRu6nOMh03xhpGrebjj4EjIFdnX5B4f3.jpg",
+      "notes": [
+        {
+          "title": "Lec-03-Science-&-Technology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c4146ba-f64e-4ad8-b945-97c7ee4544fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || GM crops (Part-1)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/330372/kgss-1756105300-v330372.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o9hqKG9pIno",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6bTzmVVIJR1pAEotlGDa6tMZcHzYMUE6AzUCP0tN.jpg",
+      "notes": [
+        {
+          "title": "Lec-04-Science-&-Technology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d398d38-d1d6-47d0-bea7-111bccae49fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || GM crops (Part-2)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331179/kgss-1756193337-v331179.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uxAjDIn7F-8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KCiCIsD8jl9fje6I3yF3HlqEdSstXbgIb5tus6fd.jpg",
+      "notes": [
+        {
+          "title": "Lec-05-Science-&-Technology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0abd4f5-b0a6-4d6f-8303-12c8ec1ab975.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Science & Technology by Kinshuk Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/332328/kgss-1756278029-v332328.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U4BylLgMFx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ow5WkE0B8QOeV3tz8ZECVusa2PT4CeYLUzkoSaWK.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Science & Technology by Kinshuk Sir",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0IbS8uS2RD1p6nKsoQSEgQFiv1b2ZW5scjuOh9kG.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

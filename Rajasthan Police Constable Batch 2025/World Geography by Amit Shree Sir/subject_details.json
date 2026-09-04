@@ -1,0 +1,260 @@
+{
+  "subject_name": "World Geography by Amit Shree Sir",
+  "subject_id": 7276,
+  "video_count": 19,
+  "note_count": 16,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || पृथ्वी की आतंरिक संरचना",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/I3vEhu-rLbM",
+      "hd_video_url": "https://www.youtube.com/embed/I3vEhu-rLbM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Svten9wIaVYK72cFw7LIwxHlXNCOPLPBlsLL4CyO.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Introduction by Amit Shree Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2e68ece-8df3-42d7-8371-af6c57517abb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भूकंप (Part-01)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/naGPTZkaiv4",
+      "hd_video_url": "https://www.youtube.com/embed/naGPTZkaiv4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FTOcPkqe0Fs1DlQpfa3uqYVqW2l7UWQV6SiWSVAN.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || पृथ्वी की आतंरिक संरचना (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2c5a577-1c9d-428e-a6f3-c7802a6030cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || भूकंप (Part-02)",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/FVJ6iXazlRw",
+      "hd_video_url": "https://www.youtube.com/embed/FVJ6iXazlRw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0k3H5nlL8vTKV25QGRHGr716yZBpsjPfXA1CCEUN.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Earthquake || भूकंप (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/525f81ab-cef0-4e46-bc7d-0b39562554fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || ज्वालामुखी (Part-01)",
+      "published_date": "15 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/JCgR5vmGsE4",
+      "hd_video_url": "https://www.youtube.com/embed/JCgR5vmGsE4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F3QQTuv02Aum9GOUFajMIP1DXoPELQYEgu1Hsimf.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || भूकंप (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e156270c-9258-49ca-a179-e7096c62aed3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || ज्वालामुखी (Part-02)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/NMtcRv488gE",
+      "hd_video_url": "https://www.youtube.com/embed/NMtcRv488gE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0n7BeNRaqu0BaY4xE7kpE7VTdvAdXjaoaiC51VKW.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 || Earthquake || भूकंप (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/459be627-5aa8-47a5-8236-922af913e0ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || चट्टानें",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Dg9d0piZNTs",
+      "hd_video_url": "https://www.youtube.com/embed/Dg9d0piZNTs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cKOPonAQwXJoPzbjouzh5XLVKT7rbGmWcJ9B694N.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || ज्वालामुखी (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f698f89a-f495-40b1-991e-d1201795acb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || ग्लोब (Part-01)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aYILiVGwTiw",
+      "hd_video_url": "https://www.youtube.com/embed/aYILiVGwTiw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z4ohfq7aQ3Kb79WE9cVtFhcULvPpnXAVrsVXtRRH.jpg",
+      "notes": [
+        {
+          "title": "Lecture -7 || Rocks || चट्टानें  (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c43f8a6-4823-4fd1-b202-ee3a3f3d2f3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || ग्लोब (Part-02)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/JxvkT7Q8U8Y",
+      "hd_video_url": "https://www.youtube.com/embed/JxvkT7Q8U8Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N5aCnjRa4QLfCFx3J9hYbOsBO1YFWWEsaGv4Jj55.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || ग्लोब (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2592959c-3574-4b1f-a392-c36aa255edc7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -9 || Globe || ग्लोब (Part-03)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/_x_9RU7I4fg",
+      "hd_video_url": "https://www.youtube.com/embed/_x_9RU7I4fg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IlentIGh0RqgXH2UgUZgDdrWVJFXz67BnGafpvFE.jpg",
+      "notes": [
+        {
+          "title": "Lecture -9 || Globe || ग्लोब (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1caaebb2-cc7b-45dd-93e5-a3436802e0ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -10 || Globe || ग्लोब (Part-04)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/N03CkKZPBZo",
+      "hd_video_url": "https://www.youtube.com/embed/N03CkKZPBZo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hckosqS0LKso94MOymDC5NCcGUnMvwOfLEDTkK1q.jpg",
+      "notes": [
+        {
+          "title": "Lecture -10 || Globe || ग्लोब (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42fde9e9-87de-453c-977e-d09b2ac0de65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -11 || Globe || ग्लोब (Part-05)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EnLgQVy4gFU",
+      "hd_video_url": "https://www.youtube.com/embed/EnLgQVy4gFU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Hi4J4DpxhxtikroUb7Oj8kvawysdLXYwb0tnrJyt.jpg",
+      "notes": [
+        {
+          "title": "Lecture -11 || Globe || ग्लोब (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3aed2a11-bec8-4e0e-998a-483620471881.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture -12 || पृथ्वी की घूर्णन गति (Part-01)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/1WX7YWB_iAQ",
+      "hd_video_url": "https://www.youtube.com/embed/1WX7YWB_iAQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1zCQucBeZgpKNVyg7LqGrVUNLE7H89YKbdoRlHru.jpg",
+      "notes": [
+        {
+          "title": "Lecture -12 || Globe || ग्लोब (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99303431-7b19-4244-9c3c-93b605aa77ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture -13 || ज्वार-भाटा",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/HPRhu5oCYO8",
+      "hd_video_url": "https://www.youtube.com/embed/HPRhu5oCYO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hGl7TSz23sffHpsonfVGHT9oPdXFq2CNeI2nYNhb.jpg",
+      "notes": [
+        {
+          "title": "Lecture -13 || पृथ्वी की घूर्णन गति (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74ad5c2c-ddd2-4830-9379-21b315dc4b96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture -14 || पृथ्वी का वायुमंडल",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/vnTR7n7ax2I",
+      "hd_video_url": "https://www.youtube.com/embed/vnTR7n7ax2I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y52dMVqcWzBxNUuzvNda35FCFH4YEBG53JIkh5EK.jpg",
+      "notes": [
+        {
+          "title": "Lecture -14 || ज्वार और भाटा (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcd7ed11-2876-4321-9428-c26f58c147e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture -15 || वायुमंडल की संरचना (Part-01)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/iim6ItR4GrI",
+      "hd_video_url": "https://www.youtube.com/embed/iim6ItR4GrI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0cECJm4yIGF9zZ2kQnbKMk82ovTX1kB7C4Y7iSQy.jpg",
+      "notes": [
+        {
+          "title": "Lecture -15 || पृथ्वी का वायुमंडल (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0d6485c-3c85-4742-8540-316353448b80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture -16 || वायुमंडल की संरचना (Part-02)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EPN1z-RPek8",
+      "hd_video_url": "https://www.youtube.com/embed/EPN1z-RPek8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zsMRkr7KkznI1epHv2h7RERCmxRhnQgVu5MHvDdy.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture -17 || wind system of world (Part-01)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/bWqOwHkOSpE",
+      "hd_video_url": "https://www.youtube.com/embed/bWqOwHkOSpE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YwIV3ZIS6g2fIfOzRQhEAxagRvZgfKTmN60nHJUC.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -18 || wind system of world (Part-02)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/FsychJ96KEw",
+      "hd_video_url": "https://www.youtube.com/embed/FsychJ96KEw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c2xDfZlaP6g6J2AyGHQ5o1hBWb49RYMfTukOdEZQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture -18 || wind system of world (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3f4a073-fbc7-4753-9cf9-77fb1e165833.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture -19 || wind system of world (Part-03)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/iwZCStx0Rpo",
+      "hd_video_url": "https://www.youtube.com/embed/iwZCStx0Rpo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pH1z1y1fUCgkMT3qs5T2sRcmJHiMB5ERDPhY6a8z.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

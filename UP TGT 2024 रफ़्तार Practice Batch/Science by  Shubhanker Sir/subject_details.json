@@ -1,0 +1,401 @@
+{
+  "subject_name": "Science by  Shubhanker Sir",
+  "subject_id": 4388,
+  "video_count": 28,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 ||  Unit Dimension & measurement",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/YR8sQ6NWsAc",
+      "hd_video_url": "https://www.youtube.com/embed/YR8sQ6NWsAc",
+      "thumbnail": "https://i.ytimg.com/vi/YR8sQ6NWsAc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ca9ce0b-765e-40f4-81d4-707a8ee90e36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 ||  Motion",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/AQrWbjamFds",
+      "hd_video_url": "https://www.youtube.com/embed/AQrWbjamFds",
+      "thumbnail": "https://i.ytimg.com/vi/AQrWbjamFds/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/934f0bae-aa43-4134-b7ae-09dc5ce41901.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 ||  Newton's laws of Gravity",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/gxkXw1Tkwbk",
+      "hd_video_url": "https://www.youtube.com/embed/gxkXw1Tkwbk",
+      "thumbnail": "https://i.ytimg.com/vi/gxkXw1Tkwbk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd932d78-8c59-43c0-a2f7-2973513de618.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 ||  Thermodynamics (Part 1)",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/huPyJ-9whcY",
+      "hd_video_url": "https://www.youtube.com/embed/huPyJ-9whcY",
+      "thumbnail": "https://i.ytimg.com/vi/huPyJ-9whcY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/968de98b-ef39-4f21-8b75-19dbb3a89b66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 ||  Thermodynamics (Part 2)",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/BvgE9MA9rIU",
+      "hd_video_url": "https://www.youtube.com/embed/BvgE9MA9rIU",
+      "thumbnail": "https://i.ytimg.com/vi/BvgE9MA9rIU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38c71905-974a-4699-8469-a4a8c02a077c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 ||  Thermodynamics (Part 3)",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/0As5G0LkZpg",
+      "hd_video_url": "https://www.youtube.com/embed/0As5G0LkZpg",
+      "thumbnail": "https://i.ytimg.com/vi/0As5G0LkZpg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e22828d-bd05-48f0-ad6a-00f4ad01dfca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 ||  Thermodynamics (Part 4)",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ydPAiEX3afk",
+      "hd_video_url": "https://www.youtube.com/embed/ydPAiEX3afk",
+      "thumbnail": "https://i.ytimg.com/vi/ydPAiEX3afk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/405b7a6e-fccc-4cd1-b2d2-8315e58377a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 ||  Wave (Part 1)",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Wthqv_sI170",
+      "hd_video_url": "https://www.youtube.com/embed/Wthqv_sI170",
+      "thumbnail": "https://i.ytimg.com/vi/Wthqv_sI170/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d2d5530-2011-4180-a49e-e449caf86f63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 ||  Wave (Part 2)",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FGzRB_61GS0",
+      "hd_video_url": "https://www.youtube.com/embed/FGzRB_61GS0",
+      "thumbnail": "https://i.ytimg.com/vi/FGzRB_61GS0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e491f879-32a2-4052-9495-b898e6ddc122.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 ||  Wave (Part 3)",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/I3m8dxoFOaU",
+      "hd_video_url": "https://www.youtube.com/embed/I3m8dxoFOaU",
+      "thumbnail": "https://i.ytimg.com/vi/I3m8dxoFOaU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dffc9d30-aeea-4a90-a1b4-75db34366213.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 ||  Wave ( Part 3)",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UGuOBM2Tyn0",
+      "hd_video_url": "https://www.youtube.com/embed/UGuOBM2Tyn0",
+      "thumbnail": "https://i.ytimg.com/vi/UGuOBM2Tyn0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea8b5542-f630-4ffa-b289-c6e1423843c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 ||  Atom (Part 1)",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/DmxbS9cg3uY",
+      "hd_video_url": "https://www.youtube.com/embed/DmxbS9cg3uY",
+      "thumbnail": "https://i.ytimg.com/vi/DmxbS9cg3uY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/158a7249-cc37-4a54-8114-54d86539bf06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 ||   Atom (Part 2)",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/l6zxMBCAxUE",
+      "hd_video_url": "https://www.youtube.com/embed/l6zxMBCAxUE",
+      "thumbnail": "https://i.ytimg.com/vi/l6zxMBCAxUE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4347114f-ab02-4cd5-b74a-0c913ac6f799.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Electric City (Part 1)",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/pz3zK7-8lrU",
+      "hd_video_url": "https://www.youtube.com/embed/pz3zK7-8lrU",
+      "thumbnail": "https://i.ytimg.com/vi/pz3zK7-8lrU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 ||  Science by Shubhanker Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd2b425e-034e-4de3-99dd-a3e7afc996e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 ||  Electric City (Part 1)",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/L_OGhow7Vug",
+      "hd_video_url": "https://www.youtube.com/embed/L_OGhow7Vug",
+      "thumbnail": "https://i.ytimg.com/vi/L_OGhow7Vug/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/909c00c0-83bd-46f1-840d-177c62631edc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 ||  Electric City (Part 2)",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/f-1QvvkWOO0",
+      "hd_video_url": "https://www.youtube.com/embed/f-1QvvkWOO0",
+      "thumbnail": "https://i.ytimg.com/vi/f-1QvvkWOO0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3d15657-4e0b-46ab-b7e2-4b350319f960.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 ||  Magnetism",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/lW5HpE12IjY",
+      "hd_video_url": "https://www.youtube.com/embed/lW5HpE12IjY",
+      "thumbnail": "https://i.ytimg.com/vi/lW5HpE12IjY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d6dd0db-57ca-43cf-adf5-b6f8616333ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 ||  Solid State",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/F05Id58a9nM",
+      "hd_video_url": "https://www.youtube.com/embed/F05Id58a9nM",
+      "thumbnail": "https://i.ytimg.com/vi/F05Id58a9nM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60c15cb0-766b-41c8-a488-0cdf89e45089.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 ||  Structure of Atoms",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/sjvaz9TmU4I",
+      "hd_video_url": "https://www.youtube.com/embed/sjvaz9TmU4I",
+      "thumbnail": "https://i.ytimg.com/vi/sjvaz9TmU4I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d60a8cb6-4e14-4cc0-bb88-478fdea8c934.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 ||  Chemical Bonding",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/4M5JfXpDlMM",
+      "hd_video_url": "https://www.youtube.com/embed/4M5JfXpDlMM",
+      "thumbnail": "https://i.ytimg.com/vi/4M5JfXpDlMM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2505a04a-9d13-45d8-bfdd-2d3abf363a9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 ||  Periodic Table",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/p_jeoRixyXE",
+      "hd_video_url": "https://www.youtube.com/embed/p_jeoRixyXE",
+      "thumbnail": "https://i.ytimg.com/vi/p_jeoRixyXE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77e5b377-4e01-4e58-b524-6cb0bbc8eca5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Surface Chemistry & Gas Laws",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kzqiSlJ4hSE",
+      "hd_video_url": "https://www.youtube.com/embed/kzqiSlJ4hSE",
+      "thumbnail": "https://i.ytimg.com/vi/kzqiSlJ4hSE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7168156f-3957-4d51-a09b-cac249f739db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 ||  Hydrogen",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rTqSIGqQgn4",
+      "hd_video_url": "https://www.youtube.com/embed/rTqSIGqQgn4",
+      "thumbnail": "https://i.ytimg.com/vi/rTqSIGqQgn4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0be1e7d4-2995-4e56-bbe2-0efce626f2f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 ||  S Block",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/mhKo3QOdCrw",
+      "hd_video_url": "https://www.youtube.com/embed/mhKo3QOdCrw",
+      "thumbnail": "https://i.ytimg.com/vi/mhKo3QOdCrw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b4dd919-e5da-4df5-aa14-676c9895571d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25  ||  P Block",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/1diBAXndVBI",
+      "hd_video_url": "https://www.youtube.com/embed/1diBAXndVBI",
+      "thumbnail": "https://i.ytimg.com/vi/1diBAXndVBI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25  ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aeedea63-df9e-4db4-88cc-e95f6de56ae8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26  ||  Science Practice Class",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NgxJCjZRQ4o",
+      "hd_video_url": "https://www.youtube.com/embed/NgxJCjZRQ4o",
+      "thumbnail": "https://i.ytimg.com/vi/NgxJCjZRQ4o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26  ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e28bfc33-9333-424f-ae06-2eb2cec56979.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27  ||  Science Practice Class",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7wugadVwWsc",
+      "hd_video_url": "https://www.youtube.com/embed/7wugadVwWsc",
+      "thumbnail": "https://i.ytimg.com/vi/7wugadVwWsc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27  ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04b5382c-43a4-46c2-a49e-04aa5f129d28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 ||  Science Practice Class",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3Iec-f_3OEw",
+      "hd_video_url": "https://www.youtube.com/embed/3Iec-f_3OEw",
+      "thumbnail": "https://i.ytimg.com/vi/3Iec-f_3OEw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 ||  Science by Shubhankar Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d0caae5-af4e-4033-9e1e-17e1037185a8.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

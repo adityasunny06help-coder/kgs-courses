@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "UPPSC CSAT Batch 2025",
+    "price": "199",
+    "id": "736",
+    "extracted_date": "2025-08-27T13:27:47.865151"
+  },
+  "subjects": [
+    {
+      "name": "English CSAT by Ashutosh Sir",
+      "id": 7402,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "Maths CSAT by Neeraj Kukreja Sir",
+      "id": 7932,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Hindi CSAT by Ajay Anurag Sir",
+      "id": 8266,
+      "video_count": 9,
+      "note_count": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "NDA 01-2026 Target Batch Offline Dehradun",
+    "price": "40000",
+    "id": "584",
+    "extracted_date": "2025-08-27T14:20:44.848275"
+  },
+  "subjects": [
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 6424,
+      "video_count": 71,
+      "note_count": 69
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 6430,
+      "video_count": 14,
+      "note_count": 12
+    },
+    {
+      "name": "Math by Salman Sir",
+      "id": 6433,
+      "video_count": 105,
+      "note_count": 99
+    },
+    {
+      "name": "English by Ruchir sir",
+      "id": 6443,
+      "video_count": 80,
+      "note_count": 75
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 6445,
+      "video_count": 68,
+      "note_count": 66
+    },
+    {
+      "name": "Polity by Vishal kumar Sir",
+      "id": 6447,
+      "video_count": 64,
+      "note_count": 63
+    },
+    {
+      "name": "Current Affairs By Vishal Sir",
+      "id": 6449,
+      "video_count": 19,
+      "note_count": 17
+    },
+    {
+      "name": "SSB By Kunal Malik Sir",
+      "id": 6754,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 7032,
+      "video_count": 55,
+      "note_count": 53
+    },
+    {
+      "name": "Biology by Amrita mam",
+      "id": 8258,
+      "video_count": 10,
+      "note_count": 10
+    }
+  ]
+}

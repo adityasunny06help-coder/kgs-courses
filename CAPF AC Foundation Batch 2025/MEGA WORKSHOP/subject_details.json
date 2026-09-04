@@ -1,0 +1,27 @@
+{
+  "subject_name": "MEGA WORKSHOP",
+  "subject_id": 4248,
+  "video_count": 2,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Polity Mega Workshop by Gyan Sir",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/LL_u7tKVRvE",
+      "hd_video_url": "https://www.youtube.com/embed/LL_u7tKVRvE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a0703e42a7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Information Update",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/zS6x1OpHF0M",
+      "hd_video_url": "https://www.youtube.com/embed/zS6x1OpHF0M",
+      "thumbnail": "https://i.ytimg.com/vi/zS6x1OpHF0M/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

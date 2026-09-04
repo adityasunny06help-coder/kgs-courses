@@ -1,0 +1,578 @@
+{
+  "subject_name": "Maths by Amit Sir",
+  "subject_id": 7330,
+  "video_count": 41,
+  "note_count": 40,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction of Mathematics",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/fumf1HQcjVo",
+      "hd_video_url": "https://www.youtube.com/embed/fumf1HQcjVo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NPmv8YFo1lt8Lry7IS1208c0QNCV8PP9WbaCg2Sl.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction of Mathematics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44b964ef-108b-48f7-b08d-e42c39ff2ac2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Number System (Part 1)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/6KZJ__m5qAg",
+      "hd_video_url": "https://www.youtube.com/embed/6KZJ__m5qAg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HrMOjBjoE3uXIabrE7WSewdIqPHrIi9KY17ZUjEP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Number System (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e439e508-08d8-431f-926c-8612036750be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Number System (Part 2)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GCWcBUKJHYI",
+      "hd_video_url": "https://www.youtube.com/embed/GCWcBUKJHYI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1ReGM0wde7IeOSQODZ35OJ6cSQT1VpV7EyfrKC8E.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Number System (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e1d2be4-0a5c-47ef-bc91-c2780903b420.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Number System (Part 3)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nT0VhsdCn8k",
+      "hd_video_url": "https://www.youtube.com/embed/nT0VhsdCn8k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/s32jaoMC47vMdOKgsP1AiOSJcVhSdnG0ADYSml7g.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Number System (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2651076-8533-486b-85dc-9a465e8bbdac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Number System (Part 4)",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/L6nugbMGtS8",
+      "hd_video_url": "https://www.youtube.com/embed/L6nugbMGtS8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b8tlcOfriklJuS8g6li5ffSFSzLpdCxvHTmHvVPR.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Number System (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/921ca983-34f1-4640-91a1-3859df99dab9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Number System (Part 5)",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/R2pqSoFzfxc",
+      "hd_video_url": "https://www.youtube.com/embed/R2pqSoFzfxc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eO14VENLwpT7Nw57t9NugR8M2CHkekaQ2kIk65vP.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Number System (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e7c9252-76e8-4dfa-84c5-127e8687fcb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Number System (Part 6)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/GB0CX4Kr7Cg",
+      "hd_video_url": "https://www.youtube.com/embed/GB0CX4Kr7Cg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/t7hIIVKG2UGuFDvWqUVWexQ3R9QG9AUp3UtXnJBr.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Number System (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f97cd377-710c-4752-b3d7-db9799401f57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Number System (Part 7)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/u7JYZgm_MuU",
+      "hd_video_url": "https://www.youtube.com/embed/u7JYZgm_MuU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1jXt6pxGdkpbxPlL8J8yawk6OuhIGLxv9C1WJu0H.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Number System (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31e11124-a414-439f-9e87-c256d5f33e85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Number System (Part 8)",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/c8a-CsVaE90",
+      "hd_video_url": "https://www.youtube.com/embed/c8a-CsVaE90",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PaYUr7Bj07KqJx4yHGZV5Ge0iwRCl9vgJnFtmisq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Number System (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b2bf5ff-874f-428b-934c-dc6b236ad8b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || Number System (Part 9)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/2ZgvEB3ZfhI",
+      "hd_video_url": "https://www.youtube.com/embed/2ZgvEB3ZfhI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I80KEpuqwEzQRgUrD26MAHpgxQwklFPE71azJiGX.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || Number System (Part 9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a0cdb6e-4a61-455a-8b66-b922eba439f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || Number System (Part 10)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/e1WZ_57aHoo",
+      "hd_video_url": "https://www.youtube.com/embed/e1WZ_57aHoo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0yd3yE0Tcu1rtXj0vcvE2uFDI3LUl1i5PeAWDPfG.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || Number System (Part 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdbcd707-4e54-443e-866d-61339bf00829.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || Number System (Part 11)",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Y4CDbwAAnLU",
+      "hd_video_url": "https://www.youtube.com/embed/Y4CDbwAAnLU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pzG5SIR8Xkr1L8xikYAICDKpxkhpnq1JTSkoNJAF.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || Number System (Part 11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db55d18d-0808-46f1-97b6-2a12d626a224.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || Number System (Part 12)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/l08IwjKNa6I",
+      "hd_video_url": "https://www.youtube.com/embed/l08IwjKNa6I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3i2W8gZVazj50MHdmhKVHK8Rte93LJFdkOrxuXj0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || Number System (Part 12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54339df7-5ad5-447f-861e-0dd55bacfb3b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || Number System (Part 13)",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/WHbW36LDztU",
+      "hd_video_url": "https://www.youtube.com/embed/WHbW36LDztU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/p1I7bYZzoPIRFwHjILRvJXoqxSGA6iGdchTu9Eba.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || Number System (Part 13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b313a680-a58e-400e-a395-e5ba255b163e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Number System (Part 14)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XB_coi1cFGA",
+      "hd_video_url": "https://www.youtube.com/embed/XB_coi1cFGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yUBf4shosxVPyroAF6HzRZqMHXU01FVnNTswA6RY.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Number System (Part 14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48f0a891-e955-4a60-a150-8054afe1f0b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Number System (Part 15)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/E5juJmXT5Fc",
+      "hd_video_url": "https://www.youtube.com/embed/E5juJmXT5Fc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Np7OBBGMASsUDv6D43q9DcDFfxWtmnnN2ewY52aO.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Number System (Part 15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edfaf210-b582-4db4-a47e-c8ca14eb4350.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || LCM-HCF (Part 1)",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/0F4fSvDaj4g",
+      "hd_video_url": "https://www.youtube.com/embed/0F4fSvDaj4g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PZb2nQqijM5jN5hebr8FGeJZi9OwlKFxrYALlUvg.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || LCM-HCF (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10e6cc9d-b2ff-4464-b81b-c8aa9e0923e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || LCM-HCF (Part 2)",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EezxNphq3uM",
+      "hd_video_url": "https://www.youtube.com/embed/EezxNphq3uM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LEiDQEhyECHPstnZykI1rnmcJacDdVGMAsA80BEs.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || LCM-HCF (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c862fdeb-5982-4072-8f3b-43ec4bba61f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || LCM-HCF (Part 3)",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/gxfwQ-RRBHk",
+      "hd_video_url": "https://www.youtube.com/embed/gxfwQ-RRBHk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pMFmmGqectRUm7rFHe0gnuwLQHjNSQlFK4FqoXQf.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || LCM-HCF (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd841a20-ea6e-4899-abb7-b78fe7891a5d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || LCM-HCF (Part 4)",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/6OA472yQme8",
+      "hd_video_url": "https://www.youtube.com/embed/6OA472yQme8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2hLcGKJKNNRvTvgYAAZNGpKLQjWAXm0T42OcVt41.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || LCM-HCF (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7b21f9c-bfce-4ec1-ac91-6ffb974ed1a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || LCM-HCF (Part 5)",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/JNofkpDfdHU",
+      "hd_video_url": "https://www.youtube.com/embed/JNofkpDfdHU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CqayzSaovQnfY1BXa9s9zlhNP8QyvzxRGBS9Uout.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || LCM-HCF (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b99bb518-d95e-46cc-912e-87643703d1af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || LCM-HCF (Part 6)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ILOL4FXwOwA",
+      "hd_video_url": "https://www.youtube.com/embed/ILOL4FXwOwA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ScNiCvFCi2Vd7koOJPxImu9sPOTqQeZG9uvOekhE.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || LCM-HCF (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5967601-7af7-4d17-98df-a2d294f9f8ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || LCM-HCF (Part 7)",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LHc1FT4TNaY",
+      "hd_video_url": "https://www.youtube.com/embed/LHc1FT4TNaY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2wDutYALpB1KtYES6A9LbLcfBUcBwwfI1bhVsquI.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || LCM-HCF (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fff440a3-e206-467f-9379-04579b6ea1b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || LCM-HCF (Part 8)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/NGhfQXxraIc",
+      "hd_video_url": "https://www.youtube.com/embed/NGhfQXxraIc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0EZsC1m5m4ZGd9qEEZrUxD7eynYWRBXDJL0yE5XU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || LCM-HCF (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a549a838-f83d-4430-8dc6-a4f633223ac3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || Decimal Fraction (Part 1)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/OYf3D47K2nw",
+      "hd_video_url": "https://www.youtube.com/embed/OYf3D47K2nw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F5twrQ0HR1ixYjGTOiEG1oAe6egcsTsNag7Hur4r.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Decimal Fraction (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7359d2c-0902-4959-a6d0-35120ac142db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || Decimal Fraction (Part 2)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Px8f0eJ9Quo",
+      "hd_video_url": "https://www.youtube.com/embed/Px8f0eJ9Quo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DIITThIU3cstLA7omMbl8VaRhabJgSntFjSbYO8M.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Decimal Fraction (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccea6488-2bf3-4e86-96b8-bae806d36b7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || Decimal Fraction (Part 3)",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YK3pOySAnF4",
+      "hd_video_url": "https://www.youtube.com/embed/YK3pOySAnF4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UOijPq02PbEBP3qhNkv0qtYCVp9n6QdQhsvHoIkz.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Decimal Fraction (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/687bea13-866d-4f67-8f11-08e9e34e03b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Time & Work  (Part 1)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/mgbMo-qzTCw",
+      "hd_video_url": "https://www.youtube.com/embed/mgbMo-qzTCw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zu9hVFVnWpXzDzfmcbYq1lI5trq2bjTx4cLnp0hd.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Time & Work  (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b375ae1-1a8f-46e4-8d66-61e70bdc1596.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Time & Work (Part 2)",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/S5-c84v49iA",
+      "hd_video_url": "https://www.youtube.com/embed/S5-c84v49iA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QZ5b8CvDsDViBCWRyibHZCGNEtkFTsphlTFMYu18.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Time & Work (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95496b70-eb7a-4c62-b5e6-03c29d5e23a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Time & Work (Part 3)",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/T818SPog5IA",
+      "hd_video_url": "https://www.youtube.com/embed/T818SPog5IA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vN8InWcurqbyc30nULBEptsF82Xc0jeIvre9l7v2.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Time & Work (Part 3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb3d2c22-b5a3-4a8d-a929-f6e5216abb08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Time & Work (Part 4)",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/6mUhD1tJ9m8",
+      "hd_video_url": "https://www.youtube.com/embed/6mUhD1tJ9m8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NTRLeJEWAuG6XXjq5wCmj7smLWwCBWwAfIfIpo4D.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Time & Work (Part 4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b469d966-9afd-48a9-8ef1-e00909ba39b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Time & Work (Part 5)",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/5JZMbpAxNEo",
+      "hd_video_url": "https://www.youtube.com/embed/5JZMbpAxNEo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/055nDsYwS25oE4APONPk6lJGG0CVek8Cwmbm3Rb7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Time & Work (Part 5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/281cfacf-1b02-4885-9533-f371e6e278ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || Time & Work (Part 6)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/kzZC5CrGYJQ",
+      "hd_video_url": "https://www.youtube.com/embed/kzZC5CrGYJQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xsWjojOl1xWhFMaVWyhLSwYZOdTzDZNBo8zQNWUq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Time & Work (Part 6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c758bcda-e1de-4090-953d-f84eea473027.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || Time & Work (Part 7)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cdM5F4y4KmU",
+      "hd_video_url": "https://www.youtube.com/embed/cdM5F4y4KmU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Uj7AAmVPVYGwaLkpxebsx335Na5fWjJWUob5OmQD.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Time & Work (Part 7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0cbfc87-9765-4ade-9ab6-608e6100f7c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 35 || Time & Work (Part 8)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/8AwtIIEnVko",
+      "hd_video_url": "https://www.youtube.com/embed/8AwtIIEnVko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/d1LIJAwTIAL4g50QPAAzHlbc9HqyuICIWmsfpj5R.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Time & Work (Part 8)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e01070e-4b73-4fe8-b117-e5bb6fc542a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 36 || Time & Work (Part 9)",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/beH2HvAOSUc",
+      "hd_video_url": "https://www.youtube.com/embed/beH2HvAOSUc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IhPIQHm60IbMVpuKRMIctjd9kLAHsdiUlqTOJTge.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Time & Work (Part 9)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91b1919c-f66e-4db1-85e3-b7cd1577d7f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 37 || Time & Work (Part 10)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/u2ZJh4Ny-xk",
+      "hd_video_url": "https://www.youtube.com/embed/u2ZJh4Ny-xk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wOCDFUp1oGzIjW6toekQlc5nULxScJ6pq5FZ4Wex.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Time & Work (Part 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd97d33f-e13c-4276-ac80-1339f9eb8526.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 38 || Work & Wages (Part 1)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/kbi-bwe4Fs4",
+      "hd_video_url": "https://www.youtube.com/embed/kbi-bwe4Fs4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/18BzesxjQHevPYmxMe9BKQnRLKmTngGxjdtgrthh.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Work & Wages (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15071777-6976-4b29-a796-58e8c3a68983.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 39 || Work & Wages (Part 2)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_INWoawg-ko",
+      "hd_video_url": "https://www.youtube.com/embed/_INWoawg-ko",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xwuuOco31uYRdHpFChTS1MRPHPl2d4Jjypgowaee.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Work & Wages (Part 2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f52cae8-088c-43d6-8f8b-87879919960d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 40 || Pipe and Cistern (Part 1)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/b9LyxTc-9ds",
+      "hd_video_url": "https://www.youtube.com/embed/b9LyxTc-9ds",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Z5ncR1QNAqbIQfoQNn6oFhpkIo5NmYeuAycWg7T0.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Pipe and Cistern (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ed04596-593a-46ee-86d0-644288cc42a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 41 || Pipe and Cistern (Part 2)",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0SEQpY0zy156yozCwYnxygPkTdJ1vR3gNkbm6Fps.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

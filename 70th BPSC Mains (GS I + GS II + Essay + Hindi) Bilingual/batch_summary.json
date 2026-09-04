@@ -1,0 +1,76 @@
+{
+  "batch_info": {
+    "title": "70th BPSC Mains (GS I + GS II + Essay + Hindi) Bilingual",
+    "price": "2999",
+    "id": "486",
+    "extracted_date": "2025-08-27T15:06:04.815298"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class",
+      "id": 4630,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "History by Manju Sir",
+      "id": 4643,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Statistics by L K Jha Sir",
+      "id": 4644,
+      "video_count": 38,
+      "note_count": 36
+    },
+    {
+      "name": "Mains Test with Solution",
+      "id": 4842,
+      "video_count": 5,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 5121,
+      "video_count": 47,
+      "note_count": 45
+    },
+    {
+      "name": "Essay by Dharmendra Sir",
+      "id": 5216,
+      "video_count": 18,
+      "note_count": 17
+    },
+    {
+      "name": "Current Affairs by SKC Sir",
+      "id": 5733,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Science and Tech by Sumit Sir",
+      "id": 5734,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Hindi by Ajay Anurag Sir",
+      "id": 5877,
+      "video_count": 9,
+      "note_count": 0
+    },
+    {
+      "name": "Economy by Dr.  Bharat Sir",
+      "id": 5962,
+      "video_count": 17,
+      "note_count": 17
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 6178,
+      "video_count": 31,
+      "note_count": 22
+    }
+  ]
+}

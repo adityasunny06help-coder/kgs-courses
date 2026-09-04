@@ -1,0 +1,494 @@
+{
+  "subject_name": "Science & Technology by Dr. Abhishek Sir",
+  "subject_id": 5720,
+  "video_count": 35,
+  "note_count": 34,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || पाठ्यक्रम पर चर्चा",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213765/kgss-1742473291-v213765.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gM68bYdl1Uk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/e7GBMfa3TOiP9st6fq2j5pcqrbVTWn9oGGqN7z0B.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1c26d26-2a6b-4b25-9296-409cdd45b2e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || सामान्य जीवविज्ञान (Part 1)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/214175/kgss-1742560033-v214175.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JvWsDEovwd4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/U7osKST49brUQmTlAOUrXlnYECkhPpj6q7HjHxTp.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b770f26-02d5-4bfd-b1c0-bdcae8785d86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || सामान्य जीवविज्ञान (Part 2)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216701/kgss-1742818785-v216701.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/395KLnaw7v0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/COM7u5fprBw22MqkLd3iChGFOX1kyXjKJd2NVuOa.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3fa367b-d134-4f3d-9ecb-660c95eb47c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || सामान्य जीवविज्ञान (Part 3)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218047/kgss-1742905115-v218047.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JAuV5srWOvg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3IYTEYjuqcjOum6UwLPJ8PeMbitvwUQkDJHRWf1Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08132139-cf6c-4e74-a5bc-4c6533676cb3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || सामान्य जीवविज्ञान (Part 4)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218580/kgss-1742991725-v218580.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CzUmcSM9BrE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rm4SWh9zXSe9O8HyXubkY559nIE6zeq9yewf6brY.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6dc9fbb1-6a67-4384-b2ec-bbbe768d2333.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || सामान्य जीवविज्ञान (Part 5)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219130/kgss-1743078374-v219130.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s9O105c_o-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jF9RFaSYkx6FORnvshmrGJe4gUg2fKLjjsRdevcx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5884f35f-ad93-41b5-aeb5-6c00333c4b7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || जैव प्रौद्योगिकी (Part 1)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/219529/kgss-1743154211-v219529.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/RnbWQyDCo0s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/30a4BglRpo61lrC7up4oifPoDJXWNFVDP0kaon6g.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9bb0644-1a96-4395-8016-4336614134ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || जैव प्रौद्योगिकी (Part 2)",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/220003/kgss-1743250885-v220003.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CFYuE4UweBc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PGwP6TKcLXqUUTtex2FQCx9dSiTiIrOhjHQfkk3I.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ce84f19-a777-447f-b92f-bcc1c239a680.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || जैव प्रौद्योगिकी (Part 3)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/222973/kgss-1744028541-v222973.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/th6UFPAM5II",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BkEdJF2Xd7iCOxtde983ZyV28eSxmpLQQuETx6z1.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd9e2ae9-c2be-491e-b3e0-405a832ce884.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || जैव प्रौद्योगिकी (Part 4)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223582/kgss-1744114997-v223582.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/I12JeWXMouM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e1cdbd81.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db648431-9956-42a4-9abb-765517370014.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || जैव प्रौद्योगिकी (Part 5)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224659/kgss-1744201331-v224659.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/I3CSdckWvwM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4Rvr5x1iHl7bBM7jjhyefVGHHM0eNwExNWhuTSl8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ebbc4cf-103f-4e0d-8e45-eb29f2ecf306.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || जैव प्रौद्योगिकी (Part 6)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225415/kgss-1744287601-v225415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/E1Y1dG1BKVQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xX0y4CQVWmztyueN15TmQvm8hOIllQaFW7VyU3Dr.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50e00f9e-c254-4eb5-b332-c26876fe75ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || जैव प्रौद्योगिकी (Part 7)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225772/kgss-1744373704-v225772.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iLUYVT7U_Ts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/F9GagQysb2d5mhETUEGOoAdUPIHDczR3JNHYH6hx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8db3d10-8b88-40f2-a1e1-59e9a499a725.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || जैव प्रौद्योगिकी (Part 8)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226905/kgss-1744459871-v226905.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5FYC--P2IXA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZWIRPWNXd3Wyiic10PKHpX6tbvnXKm3hUiFQnt7y.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b1e8549-9900-41b5-a7e8-43310662d47f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || सार्वजनिक स्वास्थ्य (Part 1)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227326/kgss-1744718993-v227326.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g2lC_ScGPG8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/luPKE2jl2Y17sXxg5oCOHb8VbvyastQeCClOpLbm.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/048f6e38-355d-4143-9f07-6b826a6f8757.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || सार्वजनिक स्वास्थ्य (Part 2)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228296/kgss-1744805772-v228296.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8wfSgQaKvow",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lYrvEj5KilpXmJA7Bzo3t6p6R5I0Hd2yh2o0XH9w.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9308b27-ca3d-4c9b-b467-09ed49f51393.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || सार्वजनिक स्वास्थ्य (Part 3)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228609/kgss-1744892549-v228609.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fMd-khUGoe0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zko1oUQyRqKM97q3ze0AUdFANb9ZNbZajRZZsLdN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ea1a894-8a73-4f91-afde-b1321902df6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || बौद्धिक संपदा अधिकार (Part 1)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229299/kgss-1744978838-v229299.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8atcvWZJ7Cg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z2uKap2FHvJrf2elo1BsN6GmdYed5WYuQK7fLl2z.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b232d85-dfa6-4dec-82b7-54569bafb56d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || बौद्धिक संपदा अधिकार (Part 2)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230091/kgss-1745237304-v230091.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8IHxZusKOZ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/T7O79l8n3ZKsJdHB39yAfuu0JAR5rZxIyTSr7HyD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03234d19-eb8a-41ea-bb23-e74f8be4a436.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture- 20 || बौद्धिक संपदा अधिकार (Part 3)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230944/kgss-1745325308-v230944.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2lJHPg87Pd8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rxx2hh93u4yeGe8pkNgIodKBut2YZYqRgMoCi2be.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 20 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3908054f-57bc-491d-82de-f30096d9ce09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture- 21 || रोबोट और रोबोटिक्स",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232440/kgss-1745411922-v232440.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/v9fT9aDumqA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e1a06971.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 21 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3610437-c2fb-4992-a322-6e6d3bd90d14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture- 22 || नैनो टेक्नोलॉजी (Part 1)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233174/kgss-1745489621-v233174.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MIVFQr93Bnw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e197ef8a.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 22 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/576bc240-f935-45f1-8731-08dfe01b38ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture- 23 || नैनो टेक्नोलॉजी (Part 2)",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233532/kgss-1745576625-v233532.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kDwZ_ZP8mWo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/y5JlyN8Qo1LGbX4wZ0IGAODorUOjtN21SEkBgmqa.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 23 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61e97c56-1064-44bf-9fdd-f1a898395d9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture- 24 || आर्टिफिशियल इंटेलिजेंस (Part 1)",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233997/kgss-1745661919-v233997.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0OXC-UBQPFU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dWxfHf9uJmT1kKZ9x0QPfEnRtudxjtnysG92PAaX.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 24 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2182427e-afca-4164-a1a6-9d18aa16659c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture- 25 || आर्टिफिशियल इंटेलिजेंस (Part 2)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234528/kgss-1745835144-v234528.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/npN4b35zdiA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fUGLvFG1yYqvUomkjYsNds1Ku2IVIOcxjCOQResI.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 25 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/719a05d8-aaa6-4329-acd3-49869d9c2c02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture- 26 || आर्टिफिशियल इंटेलिजेंस (Part 3)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235095/kgss-1745922258-v235095.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gVUdnq8hn3c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gYXBuvNJ4DoKwTecDgQrD1dpzC95wDi1UwxhvbcI.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 26 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74cb8c3b-306d-4ef0-b172-ccac11b10652.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture- 27 || ब्लॉकचेन & क्रिप्टोकरेंसी  (Part 1)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/240950/kgss-1746006557-v240950.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CSSH3cARmIA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NNRTrS2GvwR23lTljAkfarkzW7HOaoqcIViX8tjb.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 27 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f50b480c-c798-44cf-b16c-beafe6558acd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture- 28 || ब्लॉकचेन & क्रिप्टोकरेंसी (Part 2)",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241553/kgss-1746094282-v241553.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QWRLDsiDSxU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/slkUCMc9E5wN7XkW7fdXbX7wp6OSKlFyz3IJlgGV.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 28 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a78731c8-521b-41e9-b75c-ec0e85078f0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture- 29 || क्वांटम कंप्यूटर & सुपर कम्प्यूटर्स",
+      "published_date": "02 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/242277/kgss-1746181149-v242277.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-RDdu2OJMtI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BtiIv9q8zLtsK5HtZUswBKtY02GVTRZ1I1IadmKl.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 29 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8528ace0-4cde-4b81-b1d9-36c4308649eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture- 30 || ग्रिड कंप्यूटर & सेल्फ ड्राइविंग कार",
+      "published_date": "03 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/243214/kgss-1746266580-v243214.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NaKmcunWa9A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e175a59b.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 30 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7213bf0-c42f-42c2-a375-14a6f08e1c0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || स्पेस टेक्नोलॉजी (Part 1)",
+      "published_date": "06 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/244226/kgss-1746526826-v244226.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6tGKlWa1Yco",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e16d0876.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36d66c95-1cbe-4084-8936-868298e93b2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || स्पेस टेक्नोलॉजी (Part 2)",
+      "published_date": "07 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245509/kgss-1746612820-v245509.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ROOdzPALojQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e1651e64.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8f9253b-0f62-4d75-97b5-a5f45c854656.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || स्पेस टेक्नोलॉजी (Part 3)",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245845/kgss-1746699701-v245845.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gnvw4w6YTFo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e15c99fd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb1ddc0b-c2b8-4597-8f47-a882e8c16735.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || स्पेस टेक्नोलॉजी (Part 4)",
+      "published_date": "09 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/246584/kgss-1746785714-v246584.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hcyV0WFpl3E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e154c053.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Science & Technology by Dr. Abhishek Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42a78552-8344-441a-b040-b84015b08de8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || स्पेस टेक्नोलॉजी (Part 5)",
+      "published_date": "12 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/248291/kgss-1747044681-v248291.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EHG-3L1g3zA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687b2e148e156.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

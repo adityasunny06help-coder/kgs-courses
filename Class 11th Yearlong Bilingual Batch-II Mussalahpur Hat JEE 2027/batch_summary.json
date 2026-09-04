@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "Class 11th Yearlong Bilingual Batch-II Mussalahpur Hat JEE 2027",
+    "price": "29999",
+    "id": "731",
+    "extracted_date": "2025-08-27T13:29:09.696015"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 7503,
+      "video_count": 2,
+      "note_count": 1
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 7747,
+      "video_count": 8,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 7748,
+      "video_count": 19,
+      "note_count": 0
+    },
+    {
+      "name": "Maths Supporting Material",
+      "id": 7749,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Vikrant Singh (JPVS SIR)",
+      "id": 7528,
+      "video_count": 38,
+      "note_count": 34
+    },
+    {
+      "name": "Chemistry By Sumit Mehta (JCSM Sir)",
+      "id": 7529,
+      "video_count": 36,
+      "note_count": 34
+    },
+    {
+      "name": "Test Paper and Solutions",
+      "id": 7935,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Maths By Divyanshu Verma (JMDV Sir)",
+      "id": 8145,
+      "video_count": 18,
+      "note_count": 17
+    },
+    {
+      "name": "Chemistry By Indrajeet Verma (JCIV Sir)",
+      "id": 7530,
+      "video_count": 28,
+      "note_count": 27
+    },
+    {
+      "name": "Maths By Kundan Mankad (JMKM Sir)",
+      "id": 7531,
+      "video_count": 13,
+      "note_count": 12
+    }
+  ]
+}

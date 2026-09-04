@@ -1,0 +1,275 @@
+{
+  "subject_name": "RCC By Chadha Sir",
+  "subject_id": 7210,
+  "video_count": 19,
+  "note_count": 19,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Various Design Philosophy",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/55mdqndhZjI",
+      "hd_video_url": "https://www.youtube.com/embed/55mdqndhZjI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UKCMib91V5PcDTEHazeu02ybulG6PixBK1b5vy2n.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f8b0eef-b013-4672-ab73-436787b66ff5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Limit State Method",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/OyVWQVvMHHY",
+      "hd_video_url": "https://www.youtube.com/embed/OyVWQVvMHHY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/51phju93ZUtHs6MUWJB5Y34kuYeXarqkbHVBrUg3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Limit State Method",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1b38ab1-b324-4ab8-a160-5d6cdadc14af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Singly Reinforced Sections (Part-1)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ys3ZqBo7Fgk",
+      "hd_video_url": "https://www.youtube.com/embed/ys3ZqBo7Fgk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7eB3wocrRgVoqLcAkhvMsOB3GsyVH5iljlaDDEMw.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Singly Reinforced Sections (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10627f06-d90e-4576-be5a-e7c0e55b8e9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Singly Reinforced Sections (Part-2)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nUwoUtGySG0",
+      "hd_video_url": "https://www.youtube.com/embed/nUwoUtGySG0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9VgVSnlTST4gNzH5m5W1j365BfLgvEfMHBRwRdnc.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Singly Reinforced Sections (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce748189-3886-4f4f-acf4-750cc3ee79a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Question Session Limit State Of Flexure",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/A7qaUL08djg",
+      "hd_video_url": "https://www.youtube.com/embed/A7qaUL08djg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/czuZ0SVWjqdpOdbGESIhuEYlE23GVccCrHvVmDTN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Question Session Limit State Of Flexure",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d0d108c-7651-46a9-91ff-7afb3f0bf337.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Doubly Reinforced Sections",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/IrL3db8mTAo",
+      "hd_video_url": "https://www.youtube.com/embed/IrL3db8mTAo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FsqO2n9CrFQPPnJlyavrxSjycpkLdARyC06SBPk5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Doubly Reinforced Sections",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6faee3b8-5c23-4ef5-87c8-8604ea439f68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Flanged Beams (Part-1)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/pD-b9mpVEnc",
+      "hd_video_url": "https://www.youtube.com/embed/pD-b9mpVEnc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oTqgGJMou48O6S2TRH1uiIsAsupbFeVhg7JgbHCJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Flanged Beams (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05b31920-beaa-40c8-a252-2792e2e9f5fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Flanged Beams (Part-2)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/o1RytivisPE",
+      "hd_video_url": "https://www.youtube.com/embed/o1RytivisPE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Gg3PVvAxZnViZ1TvDBhSmpVreEMCwwTBfxxxAXda.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Flanged Beams (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a86ad240-1d55-4199-a25d-303753e30efd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Limit  State Of Shear (Part-1)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/e6LdB-0nf0I",
+      "hd_video_url": "https://www.youtube.com/embed/e6LdB-0nf0I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yqCO30UQWO3Vaqr0GWswHc7MApJYzROAlxP0wcl5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Limit  State Of Shear (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1aae573e-ce89-4bfe-91e6-d79ef154d527.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Limit State Of Shear (Part-2)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/xUoQzi9YnKs",
+      "hd_video_url": "https://www.youtube.com/embed/xUoQzi9YnKs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NFJEuV4cXpEZ54S5wagzBsRoJ2MoBbUf5l8mc6pm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Limit State Of Shear (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88143349-2814-42c3-b9a9-4a6b4fd388ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Limit State Of Shear (Part-3)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/J8RP6OpXhSY",
+      "hd_video_url": "https://www.youtube.com/embed/J8RP6OpXhSY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PcreVlN6uQw9e7YxkIIVvCst3a99hGUOzzPuCNaX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Limit State Of Shear (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c5893df-c242-47aa-a7b5-377d32fd92d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Limit State Of Compression (Part-1)",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/yzjKFLiNrtA",
+      "hd_video_url": "https://www.youtube.com/embed/yzjKFLiNrtA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/G0ovrcMIICHsaW11fIVZR4Bh45O0t3qinfeMJrLi.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Limit State Of Compression (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9eb063f-974a-4b40-922e-ded9e3ab8dfb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Limit State Of Compression (Part-2)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Fxo-hKr3jys",
+      "hd_video_url": "https://www.youtube.com/embed/Fxo-hKr3jys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/G4rgQmEorSm4d7eGaWvLdIoAGZSsE3w61tOFwgtW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Limit State Of Compression (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/355620ae-93e9-4587-957a-9b2755b3a9e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Introduction to PSC",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Isj1pZaGUkk",
+      "hd_video_url": "https://www.youtube.com/embed/Isj1pZaGUkk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N0JTx9l0DY8Ach7Xyb5eTys7SgsheOkCocRIUR2t.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Introduction to PSC",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b37101f6-2929-4f6a-b8cc-98ce2271e6dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Analysis of PSC",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Dbfx3ujuRU0",
+      "hd_video_url": "https://www.youtube.com/embed/Dbfx3ujuRU0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BVz8gRUzLcuGQY1RPqkw5zSZNUoEh14GLM2Ggs7L.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Analysis of PSC",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c94c48b-5bb3-4a7c-8f3e-05d7ebea2446.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Losses of PSC",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/dLESXtFyB-E",
+      "hd_video_url": "https://www.youtube.com/embed/dLESXtFyB-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SyfWuE54HmbTjkr8uzi6agj9a7SAuGL3p9bz1Zp8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Losses of PSC",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8d1e141-0107-48cd-a8d7-f1b8b1245ef4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Working Stress Method",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Y-POLu3_C44",
+      "hd_video_url": "https://www.youtube.com/embed/Y-POLu3_C44",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I6lkd3zdx7cmhpUg5p4VuucnpdNa0TiAI1eJPo1T.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Working Stress Method",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01dd18a2-3a48-452a-b9e7-1926c9ebedb1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Analysis of Slab",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/_e3LL7_pSbE",
+      "hd_video_url": "https://www.youtube.com/embed/_e3LL7_pSbE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RgbcKdhrvmEbNvYBG0qIWvwebR36OKRDP8WwGO0R.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Analysis of Slab",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a0ca0f9-1b3c-462d-a586-2cc944645280.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Analysis of Footings",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/udko3UaALJU",
+      "hd_video_url": "https://www.youtube.com/embed/udko3UaALJU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/W5yJalu9osOMaNp99McW7H3LJ7h6Ki6H92fEzIbR.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Analysis of Footings",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/649fa812-7e8f-433d-8cfa-70dfc5f9de17.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

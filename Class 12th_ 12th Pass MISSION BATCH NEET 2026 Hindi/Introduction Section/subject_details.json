@@ -1,0 +1,50 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 6407,
+  "video_count": 4,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Session By MA Sir",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qFuSl2GUbWw",
+      "hd_video_url": "https://www.youtube.com/embed/qFuSl2GUbWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687bce16ccc99.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "NEET CHEMISTRY Syllabus Discussion & Roadmap",
+      "published_date": "12 May 2025",
+      "video_url": "https://www.youtube.com/embed/BCsD5TSKx3k",
+      "hd_video_url": "https://www.youtube.com/embed/BCsD5TSKx3k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iak6b5NrDDAN9t2PbsU25iyh9sEZnUa1ToZ1kFLd.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "NEET PHYSICS Syllabus Discussion & Roadmap",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/mXG5g9u5YbY",
+      "hd_video_url": "https://www.youtube.com/embed/mXG5g9u5YbY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cf0wKqYJ71FiINKIPbECsGBfdShfogW5NEWFHnJV.jpg",
+      "notes": [
+        {
+          "title": "NEET PHYSICS Syllabus Discussion & Roadmap",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e61e6d3f-e4f0-483d-921c-08c5060324ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Complete KGS App Use Guide",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

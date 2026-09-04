@@ -1,0 +1,45 @@
+{
+  "subject_name": "Test Paper and  Solutions",
+  "subject_id": 3085,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. Part Test - 1 : Maths Video Solution",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Qm1OEh1WuTc",
+      "hd_video_url": "https://www.youtube.com/embed/Qm1OEh1WuTc",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "2. Unit Test - 2 : Maths Video Solution",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/fknxOQeVykw",
+      "hd_video_url": "https://www.youtube.com/embed/fknxOQeVykw",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "03. Unit Test - 3 || Maths Video Solution",
+      "published_date": "26 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/PtVbjQ5oZbA",
+      "hd_video_url": "https://www.youtube.com/embed/PtVbjQ5oZbA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "04.Part Test - 2 || Maths Video Solution",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/eOZESVahpdo",
+      "hd_video_url": "https://www.youtube.com/embed/eOZESVahpdo",
+      "thumbnail": "https://i.ytimg.com/vi/eOZESVahpdo/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

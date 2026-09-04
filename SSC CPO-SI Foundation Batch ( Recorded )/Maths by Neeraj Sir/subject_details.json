@@ -1,0 +1,679 @@
+{
+  "subject_name": "Maths by Neeraj Sir",
+  "subject_id": 5577,
+  "video_count": 55,
+  "note_count": 35,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction & strategy",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/EEzHJjOOIE8",
+      "hd_video_url": "https://www.youtube.com/embed/EEzHJjOOIE8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//997f9f50-174c-44f0-aa14-947d7cf45297.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Percentage (Part-01)",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/waYkwsBcmfA",
+      "hd_video_url": "https://www.youtube.com/embed/waYkwsBcmfA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fd2aedac-8888-4c11-a632-5fa11b0b31b1.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Percentage (Part-02)",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/lXK6giD2vyg",
+      "hd_video_url": "https://www.youtube.com/embed/lXK6giD2vyg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//03933fff-0844-465b-8a22-e1dc7d96c7cf.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Percentage (Part-03)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/d5Myg1tBhsE",
+      "hd_video_url": "https://www.youtube.com/embed/d5Myg1tBhsE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a45064b2-bf57-4a7c-a2d6-6e27ba708b08.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Percentage (Part-04)",
+      "published_date": "22 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/9aFOGmvULvs",
+      "hd_video_url": "https://www.youtube.com/embed/9aFOGmvULvs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/X12iXHREuxublgztfVmHtwYDt04FHci1oFVsEjJo.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Percentage (Part-05)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/vdEcYCd6_DE",
+      "hd_video_url": "https://www.youtube.com/embed/vdEcYCd6_DE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qpJzskxwkeu1yi8o28DIEsT2Hhgh8DBU8xqDHs3v.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || PYQ of Percentage",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/K2xdPfrZklA",
+      "hd_video_url": "https://www.youtube.com/embed/K2xdPfrZklA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FBaBhyWADaklfORlFdGW1zl3a0qDOH6tWAmrUbtr.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Doubt Session",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Jyfb0iwth1A",
+      "hd_video_url": "https://www.youtube.com/embed/Jyfb0iwth1A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iZCrqsfDludpuULKpx7rJoN0ZRuifQ7Bmhbn5kKv.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Profit & Loss (Part-01)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/_Du-BQN_4xU",
+      "hd_video_url": "https://www.youtube.com/embed/_Du-BQN_4xU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tCzNhR2OFpJBGDkvcilHKbfSLYv5jZqpMk41U9f1.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Profit & Loss (Part-02)",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/AAyBybZm7vM",
+      "hd_video_url": "https://www.youtube.com/embed/AAyBybZm7vM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/pSvMBWgDTMuJPHbjmIbT8ytLfPV4WzwSCl5jSRvz.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Profit & Loss (Part-03)",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Xn46gPEpUes",
+      "hd_video_url": "https://www.youtube.com/embed/Xn46gPEpUes",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2BXjiMz9vgotb0XRMkafWNspit38FsNESFLp0irA.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Profit & Loss (Part-04)",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/df1ml48fDuI",
+      "hd_video_url": "https://www.youtube.com/embed/df1ml48fDuI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2tRYxDYRd3WbcZRXjmOjpkjXrDry59oPPLb4MVW4.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Profit & Loss (Part-05)",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/2oYTdpHUFKE",
+      "hd_video_url": "https://www.youtube.com/embed/2oYTdpHUFKE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/cWrfP2Ot5J6dQPX7n2joRf13QIyy6Q93PcHxcbXk.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Doubt Session",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ceeFSR8E1x8",
+      "hd_video_url": "https://www.youtube.com/embed/ceeFSR8E1x8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/kHgUElJcH3udOGw7akNO6Aowu9Czmz6MOOOTZtCu.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || PYQ of Profit & Loss",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/G8ef-JtOKGk",
+      "hd_video_url": "https://www.youtube.com/embed/G8ef-JtOKGk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Agt3iXz4MGJAkODbbtZlno0PY6eXtg7duMnVeW6O.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Simple Interest (Part-01)",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/gIdWSzQ5Msc",
+      "hd_video_url": "https://www.youtube.com/embed/gIdWSzQ5Msc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RauTVQkhx81iNBxLUg9aiVgxRy9LZak0Xb0IJ04u.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Simple Interest (Part-02)",
+      "published_date": "08 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/xf1JxRgK67w",
+      "hd_video_url": "https://www.youtube.com/embed/xf1JxRgK67w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Pj05CfjAU1K9VzZvumdZ21mIFXnQunixyneHspw1.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Compound Interest (Part-01)",
+      "published_date": "09 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/M-fSgNjFTcg",
+      "hd_video_url": "https://www.youtube.com/embed/M-fSgNjFTcg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CV3bsr7sMXxvyIoe2jKEzSEa0P6pgRKLs848CuLf.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Compound Interest (Part-02)",
+      "published_date": "12 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/vxwSR1GkA1Y",
+      "hd_video_url": "https://www.youtube.com/embed/vxwSR1GkA1Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QCX5eTJtljfKYPJZNS1lbdDEIKKjfvFHZYxJ2TtJ.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Compound Interest (Part-03)",
+      "published_date": "13 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/u_ObiuFzX5M",
+      "hd_video_url": "https://www.youtube.com/embed/u_ObiuFzX5M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/w85afwo0v7h15kzgqCiCWOFWlUDlAR15Ib8ZAjuT.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Doubt Session",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/SPpbUyCwT-Q",
+      "hd_video_url": "https://www.youtube.com/embed/SPpbUyCwT-Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5u31LHFiB3eZIKOxgxmuCZmtG1jG0ljPMn4KKfr4.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Doubt Session of SI & CI",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/13d7d15a-4f1d-44d3-96df-31183fc26651.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || PYQ Questions of SI & CI",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ofg0_X0KRyc",
+      "hd_video_url": "https://www.youtube.com/embed/ofg0_X0KRyc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6S7ypgwbUrRIu01Q8C1iikP55yA6X516CDFWClru.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || PYQ Questions of SI & CI",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/446ea80a-2322-4678-b7d9-dfe3795a47ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Ratio & Proportion (Part-01)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Jk5lcAWD294",
+      "hd_video_url": "https://www.youtube.com/embed/Jk5lcAWD294",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EyXhFuFlriX0b62jFcTRmMP1tSnz5GtdfPlObGDk.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Ratio (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7eedacab-2ff1-486d-9233-c35a6df7e291.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Ratio & Proportion (Part-02)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/uVhhribfgN4",
+      "hd_video_url": "https://www.youtube.com/embed/uVhhribfgN4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CxAds7tIe9h4XQTjGkEUJJPUOtsUWRINjNi79F30.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Ratio (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7146f630-cb08-4ce5-bf14-9efce6773a38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Partnership",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ri689fuHOpg",
+      "hd_video_url": "https://www.youtube.com/embed/ri689fuHOpg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6Q8vP1QYCtDRGDFXpY2jFcAq65EC8NUmo7bQSdh8.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Ages",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a789d5e2-a1e1-4b34-a4f3-35374c837676.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Ages",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ijpezpUsxMM",
+      "hd_video_url": "https://www.youtube.com/embed/ijpezpUsxMM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ojhynlrQWHB4jiTpszjYDjdQRQmsacaMoXFY6rt3.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Ages",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d261d0af-e206-48c7-b0f3-04717587a478.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Ratio & Proportion (Part-03)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/lHR5g63W6ow",
+      "hd_video_url": "https://www.youtube.com/embed/lHR5g63W6ow",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/zRe8pkBwJ6HwcgxK0Hh5qSp0aqJHfzW07RrCoKo9.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Proportion",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ee025a6c-505c-4064-9456-43bc680fdd1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Doubt Session",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/GSj_BxbY2k8",
+      "hd_video_url": "https://www.youtube.com/embed/GSj_BxbY2k8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CwxUKiOZnyYuc7nq9LWXU7ZyTwpkk0EQbAz0YfiQ.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || Doubt Session",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/81f9c7fb-7868-4f8e-9e88-9c471afd64da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Mixture & Alligation (Part-01)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/lVAN7yOT2AI",
+      "hd_video_url": "https://www.youtube.com/embed/lVAN7yOT2AI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZIuYEfwZJmbsNWTwR6JyN7PZgXH8gyabLeclNfvT.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || Mixture & Alligation (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fc8abaa0-280b-4be6-90b5-8677201b4150.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Mixture & Alligation (Part-02)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/UJp65ohX4ZM",
+      "hd_video_url": "https://www.youtube.com/embed/UJp65ohX4ZM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NtUVI28rpa1REgabOqP5OeVG97QIWvTTg8EBSZ0u.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || Mixture & Alligation (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ecd4255c-6cd2-418a-9337-1e94734c7248.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Mixture & Alligation (Part-03)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/FHY92zYSYKU",
+      "hd_video_url": "https://www.youtube.com/embed/FHY92zYSYKU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/fLUVfsejfYgld8kNE9QFfk5dfY6VcGHt1LnsGVNs.png",
+      "notes": [
+        {
+          "title": "Lecture-31 || Mixture & Alligation (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/291ca134-ff57-4657-9aff-cd73afbf84e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Doubt Session",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/108jhf8A2qM",
+      "hd_video_url": "https://www.youtube.com/embed/108jhf8A2qM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8SZZNhMboIt6pz4YGC67zqtUXGFu1z2CGMegXour.png",
+      "notes": [
+        {
+          "title": "Lecture-32 || Doubt Session",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1d221586-2ba0-450b-bf9c-9ff832e548fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Average (Part-01)",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/lS81w_FtR0Y",
+      "hd_video_url": "https://www.youtube.com/embed/lS81w_FtR0Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WRpNrvWxGZ5ykkzyOzuUueC9PMvAjpzfZtSn7Noi.png",
+      "notes": [
+        {
+          "title": "Lecture-33 || Average (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e750a895-f396-4bc3-815f-067c184467ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Average (Part-02)",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/54I4SmmNXBs",
+      "hd_video_url": "https://www.youtube.com/embed/54I4SmmNXBs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/OmoCkv4UKgvrmBNYBPjKKTi6pvFKzFmDNIDl12ox.png",
+      "notes": [
+        {
+          "title": "Lecture-34 || Average (Part-02 & 03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f037be10-7f22-4e8d-8566-77b3ea1b66ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Average (Part-03)",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/ehMCyNbPdi0",
+      "hd_video_url": "https://www.youtube.com/embed/ehMCyNbPdi0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xWsf5wJ5FdY7jd7r6IAIOZ48OldXAR1krow40RKm.png",
+      "notes": [
+        {
+          "title": "Lecture-35 || Average (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/6a68c454-d53a-414d-89ea-abe07f1005d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Average (part-04)",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/3DkgxFp-Vqw",
+      "hd_video_url": "https://www.youtube.com/embed/3DkgxFp-Vqw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xhZq4EpQ8P5bvtZfpy9Qaa3GlwlGkcLYoqQWUDQi.png",
+      "notes": [
+        {
+          "title": "Lecture-36 || Doubt Session",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8dc1b601-3028-4e5c-89a3-f7c1261a9915.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Doubt Session",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/mkkQVH4wIo4",
+      "hd_video_url": "https://www.youtube.com/embed/mkkQVH4wIo4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EwZP0cKTNJ952HJdQTp4lS9g5UcGe8AK7NHRSjgF.png",
+      "notes": [
+        {
+          "title": "Lecture-37 || Doubt Session",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/206c329d-dce2-4f38-8970-cfcf14fe6cc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Time & Work (part-01)",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/WM1QE5LlR28",
+      "hd_video_url": "https://www.youtube.com/embed/WM1QE5LlR28",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xtyN61nbUnAhBMZCI21h20mDYEts4ti7FryTFrsa.png",
+      "notes": [
+        {
+          "title": "Lecture-38 || Time & Work (part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/657d5149-42ca-4e7b-a761-fa04ffeb79bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Time & Work (part-02)",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/zIdpm-4vR_k",
+      "hd_video_url": "https://www.youtube.com/embed/zIdpm-4vR_k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UCzbYk6Ca7Q6AtrW6z8gOfWDGkyTQIua5Ro87zNl.png",
+      "notes": [
+        {
+          "title": "Lecture-39 || Time & Work (part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/452f167a-57ca-4be6-8d07-a37229507059.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Time & Work (part-03)",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/TT-vOFmhv_w",
+      "hd_video_url": "https://www.youtube.com/embed/TT-vOFmhv_w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/a24PEB1lBie4UxkHL0QQ5eduthY6lz2AyfMnI8aQ.png",
+      "notes": [
+        {
+          "title": "Time & Work (part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1b5e2f54-b270-48fc-973a-784a06df34e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Time & Work (part-04)",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/4rGWoDi3WMA",
+      "hd_video_url": "https://www.youtube.com/embed/4rGWoDi3WMA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RkbUCrpaoN5od70aWnvaZ7P2lvtlkg3WcGLHqGs0.jpg",
+      "notes": [
+        {
+          "title": "Time & Work (part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1e0316dd-8153-4732-885e-271d3a83bf52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Time & Work (part-05)",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/pJ10GpB6Q2k",
+      "hd_video_url": "https://www.youtube.com/embed/pJ10GpB6Q2k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/myfccdTvwxGtDjo0KVqwvN7vclNwdNmsy6X654jo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Time & Work (part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ac033a95-16b6-4934-8c74-653a89def98d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Doubt Session (Part-01)",
+      "published_date": "22 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/SrirsI5VNQs",
+      "hd_video_url": "https://www.youtube.com/embed/SrirsI5VNQs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/R2IQjryprYNVrKSB6AoOKVf2cCqlQhaopnu3rhYN.jpg",
+      "notes": [
+        {
+          "title": "Doubt Session",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/db2b6bbb-406a-458a-9824-bad758d727cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Doubt Session (Part-02)",
+      "published_date": "28 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/VcLO1ea8Xjs",
+      "hd_video_url": "https://www.youtube.com/embed/VcLO1ea8Xjs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ekQZYiBl8WK0s51h1iHjqGl8pweK46fLAvSubAMC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Time , Speed & Distance (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/054350b4-45ed-4749-a059-d69dad7970c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Time , Speed & Distance (Part-01)",
+      "published_date": "29 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/t_Amdwf2WpA",
+      "hd_video_url": "https://www.youtube.com/embed/t_Amdwf2WpA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4abiYgZjWx5YVN7TtEu4qdttQY6NoRmDp0XiWIF0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Time , Speed & Distance (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1eb08c9f-4d48-40df-9492-2711cd56ef37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Time , Speed & Distance (Part-02)",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/sRJ4lSZo8Bs",
+      "hd_video_url": "https://www.youtube.com/embed/sRJ4lSZo8Bs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/aAKVnqyt9nkZuwZN48XSTJLK5I4tyfJ6v0ALi2It.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Time , Speed & Distance (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9a58df02-ff47-45ed-9934-90daeb7af8b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Time , Speed & Distance (Part-03)",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/F6ZTNvmf1gs",
+      "hd_video_url": "https://www.youtube.com/embed/F6ZTNvmf1gs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/D122seHZxwN9OZ5NMmoa19Btsh7WbpPYjwdxnYsE.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Time , Speed & Distance (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5dba3fc7-d9fb-4f1f-bad9-5239f33040c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Time , Speed & Distance (Part-04)",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/X8nCIp3HbtA",
+      "hd_video_url": "https://www.youtube.com/embed/X8nCIp3HbtA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SnowVHGivtNXQKgiJiSSP8AX21U16vPf5NbBazqp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Time , Speed & Distance (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/83b73833-5046-4dd0-873e-222a66dab9b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Boat & stream",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/64i9A4nutB0",
+      "hd_video_url": "https://www.youtube.com/embed/64i9A4nutB0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QyyoAP6VVCgyr4U22UssKCbKfvYFzdwO0llyU9i0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Time , Speed & Distance (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e15f0fb3-547d-45e1-9780-1a6b041f0030.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Doubt Session",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/O6OUwY76FM8",
+      "hd_video_url": "https://www.youtube.com/embed/O6OUwY76FM8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IX13YeyvdfpLCXzQ1Km18HT91EHh0j2JGI4hKiP1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Boat & stream (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4aa4bd4c-8773-4b0a-8df4-2ef0113311f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Races & Circular Track",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/ni_5KNUK1c0",
+      "hd_video_url": "https://www.youtube.com/embed/ni_5KNUK1c0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/peVfKm9o29glhnFL0wAR2P9VFME9ipu2wAAmxkqA.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Data Interpretation (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/85b61021-fbaa-4ac1-9951-c149978f595b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Data Interpretation (Part-01)",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Tg2MKDVaF0I",
+      "hd_video_url": "https://www.youtube.com/embed/Tg2MKDVaF0I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/rCTbRMZFylphUbsIMykKVsby8fHoE40macIF7kyD.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Data Interpretation (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/25c57e54-d10b-4ccd-8e58-3908764fd23c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Data Interpretation (Part-02)",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/eCX2rWpu21Y",
+      "hd_video_url": "https://www.youtube.com/embed/eCX2rWpu21Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/0gdiOjd5pRrwm2LFVcH2JSVozXFnJHAXOvF9RY9D.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Data Interpretation (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/889ce7ac-4ba5-4802-9869-904560e753b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || LCM & HCF (Part-01)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Jqjocd4aeKs",
+      "hd_video_url": "https://www.youtube.com/embed/Jqjocd4aeKs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/crcMFe0PV1dCusl9dppjpRSTbQQKzB5pYL7FGIbH.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || LCM & HCF (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/03fdad02-0509-4b27-8349-265d72fda6f5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || LCM & HCF (Part-02)",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/kQUb4UwHe28",
+      "hd_video_url": "https://www.youtube.com/embed/kQUb4UwHe28",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/1ZyVRMo1EaJ3Y5FlHeSjs3tqg3ymN4Vaf54qTYdJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || LCM & HCF (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fea83854-01a6-4a2a-a7f4-73b750d5b7a4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

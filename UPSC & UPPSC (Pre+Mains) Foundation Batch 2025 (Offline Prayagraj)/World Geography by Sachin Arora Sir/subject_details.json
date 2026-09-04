@@ -1,0 +1,150 @@
+{
+  "subject_name": "World Geography by Sachin Arora Sir",
+  "subject_id": 3484,
+  "video_count": 14,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || ओरिएंटेशन क्लास",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-knlomlm1s1/kgss-1725876843-vstudio-knlomlm1s1.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GTFkAqW_EqE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a763256da.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || भूगोल का परिचय",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/CIX5jx8p3qk",
+      "hd_video_url": "https://www.youtube.com/embed/CIX5jx8p3qk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a7629ab75.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || उत्तरी अमेरिका",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-0fm26lpy4v/kgss-1726049113-vstudio-0fm26lpy4v.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UfOhyWa5RO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a7621ec14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || World Geography by Sachin Arora Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f989c10-2ced-4477-b3d1-62031eceb392.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || उत्तरी अमेरिका की स्थलाकृति",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-a6hm8tz62n/kgss-1726135601-vstudio-a6hm8tz62n.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qybRAzJC250",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vZg5vnx2UD4rPgm5Smv4GFRBwZoI0Dx4JaC7oss1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || पठार",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/S7r9V4CXgoc",
+      "hd_video_url": "https://www.youtube.com/embed/S7r9V4CXgoc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a76160699.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || प्राचीन यूरोप",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-5m4zx7aaz1/kgss-1726309221-vstudio-5m4zx7aaz1.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/a_ubZNy-ZAc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a760d842e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || दक्षिण अमेरिका",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-stb23ctvkkk/kgss-1726481635-vstudio-stb23ctvkkk.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/T_ER2O5KEH8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a76058569.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || उत्तर लेखन प्रारूपण",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-5ao10s8jfc/kgss-1726568641-vstudio-5ao10s8jfc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FkDJiVs5lqc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a75fcd529.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || अफ्रीका महादीप",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-9bgw4lwicx/kgss-1726653554-vstudio-9bgw4lwicx.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BIvNwqQ8bIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a75f4eaf7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || अफ्रीका का अपवाह तंत्र",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-l3j92ocfwk/kgss-1726740787-vstudio-l3j92ocfwk.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YfU4IIhP1d8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a75ebf70f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || ओसीनिया महादीप",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/studio-b4k8tzewey/kgss-1726888732-vstudio-b4k8tzewey.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gVDnGtv0L-M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68a6a75dcb072.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || एशिया महाद्वीप",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/studio-ijd27oeg2t/kgss-1756087838-vstudio-ijd27oeg2t.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q0cEoX6aTcs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DY3NK72xeZQs2b136g7z1NO2za09YSXdiD6u0FFC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || World Geography by Sachin Arora Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4383f466-e277-4682-92b5-6ef7ab6e2a41.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || विश्व जलवायु प्रदेश",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/studio-9j01e72mxj/kgss-1756176643-vstudio-9j01e72mxj.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wiBfMYd18fU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7rtQVbThXvaWooe8wSpGKvyyrMAW5kzQrE4BXG14.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || World Geography by Sachin Arora Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/148082a3-8baa-48b4-bd99-b6d74e6922e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || World Geography by Sachin Arora Sir",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DvihZqYMbh4S4CYy72C0qDCFnFbiOra6AY1NO5gS.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

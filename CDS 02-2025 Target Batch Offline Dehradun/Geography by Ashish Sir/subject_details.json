@@ -1,0 +1,890 @@
+{
+  "subject_name": "Geography by Ashish Sir",
+  "subject_id": 6438,
+  "video_count": 64,
+  "note_count": 61,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Orientaition",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/LFK1-jo3AEA",
+      "hd_video_url": "https://www.youtube.com/embed/LFK1-jo3AEA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Universe",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9qMx8-bN9W4",
+      "hd_video_url": "https://www.youtube.com/embed/9qMx8-bN9W4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 02 || Universe",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e48d033-78ed-4624-9ef4-47c4a51c2124.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Universe",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Rn62feV37Rs",
+      "hd_video_url": "https://www.youtube.com/embed/Rn62feV37Rs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 03 || Universe",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc863a1c-4afb-4ada-94c0-b154d092566f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Solar System",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/cQmFN7U2Y3g",
+      "hd_video_url": "https://www.youtube.com/embed/cQmFN7U2Y3g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 04 || Solar System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc5ee2c0-1dd2-48cc-8632-f316a28155f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Solar System",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/hBYJopNaVPE",
+      "hd_video_url": "https://www.youtube.com/embed/hBYJopNaVPE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 05 || Solar System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8532c702-aed0-4334-8268-10105e7a6d67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Motions of the Earth",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SGe_DAp6YK0",
+      "hd_video_url": "https://www.youtube.com/embed/SGe_DAp6YK0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 06 || Motions of the Earth",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b200c7f0-2273-4816-9393-3839b4cd9313.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Unit & Dimension",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/pH26dahoS84",
+      "hd_video_url": "https://www.youtube.com/embed/pH26dahoS84",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 07 || Unit & Dimension",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4fd02ad-f6ef-42f3-9f46-a8328bc1a6fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Longitude",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/o_iokvw1n2o",
+      "hd_video_url": "https://www.youtube.com/embed/o_iokvw1n2o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 08 || Longitude",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9bc8147-35b1-4b91-8769-1c945485022d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Motion of Moon",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rGX2hIAufZM",
+      "hd_video_url": "https://www.youtube.com/embed/rGX2hIAufZM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 09 || Motion of Moon",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1b586ed-6299-470e-915c-e7c62b7afffd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Internal Structure of Earth and Earth Quake",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/CEMoTaM5lug",
+      "hd_video_url": "https://www.youtube.com/embed/CEMoTaM5lug",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 10 || Internal Structure of Earth and Earth Quake",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66a69a1c-9739-472d-962b-96e3b120df15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Internal Structure of earth",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/-eXLP1NziXQ",
+      "hd_video_url": "https://www.youtube.com/embed/-eXLP1NziXQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || Internal Structure of earth",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6b0113f-7260-4c07-8cfb-67c85bbcc6cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Internal Structure of earth",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/q_7VplmLgug",
+      "hd_video_url": "https://www.youtube.com/embed/q_7VplmLgug",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || Internal Structure of earth",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be97af16-d491-4e67-a711-e1940137c4b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Rock",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/KOmibu8_xJE",
+      "hd_video_url": "https://www.youtube.com/embed/KOmibu8_xJE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || Rock",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb47c4ab-eea4-453e-b73b-a95c52583179.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Rock",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/Q0B5eCGXuP8",
+      "hd_video_url": "https://www.youtube.com/embed/Q0B5eCGXuP8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || Rock",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b151262-549d-4430-9b67-40b33102d16c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Continental Dreft theory",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/9LezZxdJQg4",
+      "hd_video_url": "https://www.youtube.com/embed/9LezZxdJQg4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || Continental Dreft theory",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d2f31d2-cea5-43e0-8bfa-0cbe692bc6e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Evolution of Land Form",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/DSyvdMBNwJQ",
+      "hd_video_url": "https://www.youtube.com/embed/DSyvdMBNwJQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || Evolution of Land Form",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bafe9227-5148-4f97-8dfc-9f252265d4a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Block Mountain",
+      "published_date": "09 May 2025",
+      "video_url": "https://www.youtube.com/embed/4Ai2hKPVZnI",
+      "hd_video_url": "https://www.youtube.com/embed/4Ai2hKPVZnI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || Block Mountain",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd8e5eb7-d779-41f5-a095-d24f3c5867e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Volcanic Mountain",
+      "published_date": "13 May 2025",
+      "video_url": "https://www.youtube.com/embed/KW9O00jYob8",
+      "hd_video_url": "https://www.youtube.com/embed/KW9O00jYob8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 18 || Volcanic Mountain",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50e6077b-c142-4e0f-b75d-32ceb9a41019.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || MCQ Practice",
+      "published_date": "14 May 2025",
+      "video_url": "https://www.youtube.com/embed/jf7trFonC7Q",
+      "hd_video_url": "https://www.youtube.com/embed/jf7trFonC7Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || MCQ Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fbf81fe-1a9f-4d43-8e3f-03216547a639.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || DESERTS",
+      "published_date": "15 May 2025",
+      "video_url": "https://www.youtube.com/embed/WHa6xD-uP_4",
+      "hd_video_url": "https://www.youtube.com/embed/WHa6xD-uP_4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || DESERTS",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2be21237-7989-4226-baa5-6a2bdb2abf49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Atmosphere",
+      "published_date": "19 May 2025",
+      "video_url": "https://www.youtube.com/embed/b_HKRP7dcnc",
+      "hd_video_url": "https://www.youtube.com/embed/b_HKRP7dcnc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || Atmosphere",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6f4a5a8-53b9-46a7-9be7-75444de529fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Atmosphere",
+      "published_date": "20 May 2025",
+      "video_url": "https://www.youtube.com/embed/TpM0Iw-q5dk",
+      "hd_video_url": "https://www.youtube.com/embed/TpM0Iw-q5dk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 22 || Atmosphere",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6e2481c-7447-49b0-98b7-9944c514254b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Layer of Atmosphere",
+      "published_date": "26 May 2025",
+      "video_url": "https://www.youtube.com/embed/zYkj5wuQvsI",
+      "hd_video_url": "https://www.youtube.com/embed/zYkj5wuQvsI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || Layer of Atmosphere",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fb474d8-143f-4dc8-865d-f76b48b4a999.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Layer of Atmosphere",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/QhgXgq98iL8",
+      "hd_video_url": "https://www.youtube.com/embed/QhgXgq98iL8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Layer of Atmosphere",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9394a2f8-d094-4233-b95c-4b472a390d8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Atmosphere",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/h0xQOZBqAro",
+      "hd_video_url": "https://www.youtube.com/embed/h0xQOZBqAro",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Atmosphere",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77ec93d3-77ac-421e-abc2-3419aa76f9e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Atmosphere Pressure Belts",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/AK14GCSecio",
+      "hd_video_url": "https://www.youtube.com/embed/AK14GCSecio",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 26 || Atmosphere Pressure Belts",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8264762b-9cfb-494e-b428-49e773ef2196.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Pressure belt of the world",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/nlLe3vX_TVg",
+      "hd_video_url": "https://www.youtube.com/embed/nlLe3vX_TVg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 27 || Pressure belt of the world",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33df1e9e-56e6-4c43-9480-2e9a42682652.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Local Winds",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/AzKvl_X5JEc",
+      "hd_video_url": "https://www.youtube.com/embed/AzKvl_X5JEc",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 28 || Local Winds",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87d40f1f-e6e6-4cac-89f4-3e294b181725.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Humidity And Precipitation",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CLXSyxdZa_A",
+      "hd_video_url": "https://www.youtube.com/embed/CLXSyxdZa_A",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 29 || Humidity And Precipitation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fca4f47-6bb8-42e9-ab3c-8cae0a566001.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Orographic And Frontal",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/aUusOKwA0es",
+      "hd_video_url": "https://www.youtube.com/embed/aUusOKwA0es",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 30 || Orographic And Frontal",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74f2816f-ad15-4738-b510-5781b3e689f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Cyclone and anticyclone",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/1orZ7Rj2we0",
+      "hd_video_url": "https://www.youtube.com/embed/1orZ7Rj2we0",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 31 || Cyclone and anticyclone",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23eb1f87-973a-4fc8-af1f-42c828ab381e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Tides",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/UHOXMBNwraA",
+      "hd_video_url": "https://www.youtube.com/embed/UHOXMBNwraA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 32 || Tides",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74cc75cd-df48-4ba7-b097-68b786383b99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || Tides",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/9IayoVYuhVg",
+      "hd_video_url": "https://www.youtube.com/embed/9IayoVYuhVg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 33 || Tides",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fb6a945-84d7-4828-99d1-4cf2dfa7e964.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || Tides",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/U_iF8rEI_Lk",
+      "hd_video_url": "https://www.youtube.com/embed/U_iF8rEI_Lk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 34 || Tides",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c80a2414-012c-43c9-b26b-d126569c429e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || Oceanic Currents",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/VUOwZp2f81A",
+      "hd_video_url": "https://www.youtube.com/embed/VUOwZp2f81A",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 35 || Oceanic Currents",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f73879ef-584f-40e4-b968-b2096fb3faab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || Oceanic Currents",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/LHU7JqYLAs0",
+      "hd_video_url": "https://www.youtube.com/embed/LHU7JqYLAs0",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 36 || Oceanic Currents",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/061ba8a6-7951-48c0-8072-32bb9a21c5a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || Oceanic Currents",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/4LQ8RR5cPWw",
+      "hd_video_url": "https://www.youtube.com/embed/4LQ8RR5cPWw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 37 || Oceanic Currents",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72d92d56-ebd1-4736-bf6d-b952745c2f94.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || Oceanic Currents",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xg43i5mit6c",
+      "hd_video_url": "https://www.youtube.com/embed/xg43i5mit6c",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 38 || Oceanic Currents",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/521c5a31-b29e-4aec-842d-307ce1df52db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || Introduction Of India",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/aT4gdjmY3eU",
+      "hd_video_url": "https://www.youtube.com/embed/aT4gdjmY3eU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 39 || Introduction Of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55d365a8-b805-4dfe-a13c-e38b2cfd5edf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || Neighbors of India",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/rBygV031SGs",
+      "hd_video_url": "https://www.youtube.com/embed/rBygV031SGs",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 40 || Neighbors of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f017055b-fbca-4589-bf4c-9b7bc4e1a2d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || Boundary Of India",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/O6vZuBfjI_Q",
+      "hd_video_url": "https://www.youtube.com/embed/O6vZuBfjI_Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 41 || Boundary Of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e42d488c-1673-48ad-a844-9c1886dd1dca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || Mountaion Of India",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Cfu0HQviFuI",
+      "hd_video_url": "https://www.youtube.com/embed/Cfu0HQviFuI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 42 || Mountaion Of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7fc7d57-dd4c-4bff-aa76-03e34180cb3e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || Mauntains",
+      "published_date": "16 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9xgMTOonuAI",
+      "hd_video_url": "https://www.youtube.com/embed/9xgMTOonuAI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 43 || Mauntains",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83e94460-a245-444e-b9b7-d5a151fb779f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || Vindhyanchal Arawali",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IRtBs23nzWI",
+      "hd_video_url": "https://www.youtube.com/embed/IRtBs23nzWI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 44 || Vindhyanchal Arawali",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00f2b63d-9107-4b26-b1af-d3971bcd8633.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || Vindhyanchal Arawali",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/d0vTFSvCD6E",
+      "hd_video_url": "https://www.youtube.com/embed/d0vTFSvCD6E",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 45 || Vindhyanchal Arawali",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80761c57-b409-42f2-862f-b9d928197bc6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || Mountains OF Passes",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/1UiWK3M3W6c",
+      "hd_video_url": "https://www.youtube.com/embed/1UiWK3M3W6c",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 46 || Mountains OF Passes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51e5f1ba-f5b3-459c-b209-7b7862b713ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 || Plains Of India",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XsCkRzYujec",
+      "hd_video_url": "https://www.youtube.com/embed/XsCkRzYujec",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 47 || Plains Of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f46b38a-e80a-4071-ac4e-834367a529df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture 48 || Plateau",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IcZ8TiELDbA",
+      "hd_video_url": "https://www.youtube.com/embed/IcZ8TiELDbA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 48 || Plateau",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/690dc084-6ab9-4f23-aff3-fb4eab36be1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture 49 || Islands Of India",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xx_UxCDxH6A",
+      "hd_video_url": "https://www.youtube.com/embed/xx_UxCDxH6A",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 49 || Islands Of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e786a20-cb14-4bd7-b4b7-102799723bac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture 50 || Rivers of South India",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/XSNZlq05-os",
+      "hd_video_url": "https://www.youtube.com/embed/XSNZlq05-os",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 50 || Rivers of South India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2657b4d-1de8-4bc6-9a31-477be72a13d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture 51 || Monsoon modal of India",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/BUpgSKb-xZs",
+      "hd_video_url": "https://www.youtube.com/embed/BUpgSKb-xZs",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 51 || Monsoon modal of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88e81af7-5c61-4682-b5af-790dfbbe4a9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture 52 || Monsoon modal of India",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/1UGVr27WrKk",
+      "hd_video_url": "https://www.youtube.com/embed/1UGVr27WrKk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 52 || Monsoon modal of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a37d7f1-64c5-4d83-a156-e72d1437b254.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture 53 || Indus River System",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/AwRPa7Bw36A",
+      "hd_video_url": "https://www.youtube.com/embed/AwRPa7Bw36A",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 53 || Indus River System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4619dd5f-f81c-4b17-a1f9-70e638705caf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture 54 || The Ganga System",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/s0baUY1oDO0",
+      "hd_video_url": "https://www.youtube.com/embed/s0baUY1oDO0",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture 55 || Brahmaputra River System",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/TgaHm93hHAw",
+      "hd_video_url": "https://www.youtube.com/embed/TgaHm93hHAw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 55 || Brahmaputra River System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9adb889e-eb6a-45d5-aee6-3582e45acfdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture 56 || South Indian rivers",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/iIoXs9hl5mE",
+      "hd_video_url": "https://www.youtube.com/embed/iIoXs9hl5mE",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 56 || South Indian rivers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/194f435c-834f-4105-9d36-f4f5e0e7a8d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture 57 || Rivers Of Lake In India",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/YGaEucw4iTI",
+      "hd_video_url": "https://www.youtube.com/embed/YGaEucw4iTI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 57 || Rivers Of Lake In India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b30ea18-4cc9-4607-8870-64980ff1b461.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture 58 || Transportation",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/dxqQYTY30a0",
+      "hd_video_url": "https://www.youtube.com/embed/dxqQYTY30a0",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 58 || Transportation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/391a5d58-afc5-47b2-b929-baed4c11e1a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture 59 || Soils of India",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/l0CnsVNQVqk",
+      "hd_video_url": "https://www.youtube.com/embed/l0CnsVNQVqk",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 59 || Soils of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cf66e11-5016-4fd5-849f-08769f8856eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture 60 || Evolution of Landforms",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cwl-oRx-LgU",
+      "hd_video_url": "https://www.youtube.com/embed/cwl-oRx-LgU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 60 || Evolution of Landforms",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3bbbb6e-5d18-43cc-8c61-82a00c82c9b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture 61 || Clouds",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/v8qL_otnpR4",
+      "hd_video_url": "https://www.youtube.com/embed/v8qL_otnpR4",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 61 || Clouds",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63a368bb-e6aa-4d4b-832e-4df7c91bb5f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture 62 || Climates",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/x5RQCo--ZTE",
+      "hd_video_url": "https://www.youtube.com/embed/x5RQCo--ZTE",
+      "thumbnail": null,
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Lecture 63 || Climate types",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/bjFeGFFQTFU",
+      "hd_video_url": "https://www.youtube.com/embed/bjFeGFFQTFU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 63 || Climate types",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06b36c26-fbad-48f3-a1da-957c9987e3df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture 64 || Minerals",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rZUYDY-DDZc",
+      "hd_video_url": "https://www.youtube.com/embed/rZUYDY-DDZc",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 64 || Minerals",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efefbb2f-eb21-4add-99f5-ff98d0aba70b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

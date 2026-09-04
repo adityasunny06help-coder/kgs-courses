@@ -1,0 +1,51 @@
+{
+  "subject_name": "Maths by Kundan Mankand Sir",
+  "subject_id": 5554,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Revision",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/EW1PVNvaYRE",
+      "hd_video_url": "https://www.youtube.com/embed/EW1PVNvaYRE",
+      "thumbnail": "https://i.ytimg.com/vi/EW1PVNvaYRE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f515aa1-53aa-4f56-b24f-9eecb24d40c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Revision",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/TdMVK62mYp4",
+      "hd_video_url": "https://www.youtube.com/embed/TdMVK62mYp4",
+      "thumbnail": "https://i.ytimg.com/vi/TdMVK62mYp4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac2eb95a-5fce-4fef-b6c0-834f5e9b94c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Revision",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Wdo2P0e4QQk",
+      "hd_video_url": "https://www.youtube.com/embed/Wdo2P0e4QQk",
+      "thumbnail": "https://i.ytimg.com/vi/Wdo2P0e4QQk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Revision",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31b19c72-c15b-42f2-adcb-b916be10ded8.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

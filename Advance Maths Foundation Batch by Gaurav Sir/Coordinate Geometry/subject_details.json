@@ -1,0 +1,37 @@
+{
+  "subject_name": "Coordinate Geometry",
+  "subject_id": 3346,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Coordinate Geometry-01",
+      "published_date": "03 Sep 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yXnWB8QQl4uSQKSaOXNV7ANDOF30Zq1L670hyQaX.jpg",
+      "notes": [
+        {
+          "title": "Coordinate Geometry-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d35b069b-f9ee-4da9-a99a-a12f6276f452.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Coordinate Geometry-02",
+      "published_date": "03 Sep 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yMfbAvQwJCJ9VMovaAPFbRan8KOMV0IEFSEZD1ZR.jpg",
+      "notes": [
+        {
+          "title": "Coordinate Geometry-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/064e3ab8-2cd7-4792-b84b-b53e323d6ad4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,219 @@
+{
+  "subject_name": "Ordinary Differential Equations",
+  "subject_id": 6033,
+  "video_count": 15,
+  "note_count": 15,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Ordinary Differential Equation (Part 1)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221523/kgss-1743683124-v221523.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LWXnASuwlnA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbcbcc52a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Ordinary Differential Equation-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9a7a3db-6f1e-4636-a82f-8c0997c90b7a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Ordinary Differential Equation (Part 2)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223553/kgss-1744114133-v223553.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K1De2EmIJO0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbcb45d4f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Ordinary Differential Equation-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a29574c9-d491-4381-a13b-8a56ef1f2c03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Ordinary Differential Equation (Part 3)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/224648/kgss-1744200331-v224648.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w2A1rYPYqe4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbcab6bb1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Ordinary Differential Equation-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5711dfba-6e6d-488f-ad15-bfc750b246b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Ordinary Differential Equation (Part 4)",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225410/kgss-1744286919-v225410.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6-zw2_s5iLI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbca342b5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Ordinary Differential Equation-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ca93e69-91fb-4a64-90d4-4d7def9a0954.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Ordinary Differential Equation (Part 5)",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227295/kgss-1744720741-v227295.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8nVDc8ZBgPk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc9a111c.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || Ordinary Differential Equation-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f0e27c5-5021-4bdb-998d-a0ff3499dbb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Ordinary Differential Equation (Part 6)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228113/kgss-1744807362-v228113.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lTjW-L51G4I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc91ad0f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Ordinary Differential Equation-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73dc2ece-b658-4d71-a530-465d771c0773.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Ordinary Differential Equation (Part 7)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228594/kgss-1744893618-v228594.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R0giK94NInU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc88cfa2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Ordinary Differential Equation-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35c9a7c0-a005-4f2d-aace-6acdac8e9e5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Ordinary Differential Equation (Part 8)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230105/kgss-1745240130-v230105.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ktgDqUCe6Xs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc80a338.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Ordinary Differential Equation-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acdb9bb2-85bc-4e00-a131-587b23ea6ade.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Ordinary Differential Equation (Part 9)",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230924/kgss-1745325473-v230924.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ax-qnKsvuO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc77948e.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Ordinary Differential Equation-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17f93c94-046f-43dd-ad23-fc5dbd02f80a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Ordinary Differential Equation (Part 10)",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231518/kgss-1745412063-v231518.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y5DVaTh5dp8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809fbc6b814b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Ordinary Differential Equation-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4dec787-01a2-4efe-99b7-3a3223ccb655.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Ordinary Differential Equation (Part 11)",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232865/kgss-1745498330-v232865.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ek-BbEeuTsM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a699552d71.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Ordinary Differential Equation-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56448765-17ac-4863-9c4d-16296f5b86b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Ordinary Differential Equation (Part 12)",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234373/kgss-1745842860-v234373.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lo1u6WKHhQY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680fcf3f53be4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Ordinary Differential Equation-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35678228-27ab-4cd3-be47-74183160c026.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Ordinary Differential Equation (Part 13)",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/235099/kgss-1745930714-v235099.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aId73orkd2A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6810f7df78fa8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Ordinary Differential Equation-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25ad3e98-7bd4-4ebe-9600-3312ce6e950e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Ordinary Differential Equation (Part 14)",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-366/ordinary-diff-equ/l-14/ordinary-diff.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eY3wQwST5dc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812223b1f0a5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Ordinary Differential Equation-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b74d80b0-7a39-4eb8-b086-46c7066cce97.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Ordinary Differential Equation (Part 15)",
+      "published_date": "01 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/241568/kgss-1746103982-v241568.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fzoJFLMK4sE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68179a95d16a7.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Ordinary Differential Equation (Part 15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a000fa7-41ad-4a09-879b-c5fbea8a1572.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

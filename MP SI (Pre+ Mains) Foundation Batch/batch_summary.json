@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "MP SI (Pre+ Mains) Foundation Batch",
+    "price": "1499",
+    "id": "555",
+    "extracted_date": "2025-08-27T14:32:39.353018"
+  },
+  "subjects": [
+    {
+      "name": "MP SI Syllabus",
+      "id": 6115,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Biology By Amrita Ma'am",
+      "id": 7475,
+      "video_count": 38,
+      "note_count": 36
+    },
+    {
+      "name": "Computer By Anjali Ma'am",
+      "id": 7985,
+      "video_count": 21,
+      "note_count": 19
+    },
+    {
+      "name": "Civics By Shubham Tripathi Sir",
+      "id": 8429,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "History By Anand Sir",
+      "id": 8445,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Maths By Gaurav Sir",
+      "id": 5404,
+      "video_count": 99,
+      "note_count": 92
+    },
+    {
+      "name": "Indian Geography By Ram Sir",
+      "id": 5405,
+      "video_count": 45,
+      "note_count": 44
+    },
+    {
+      "name": "English By Juhi Ma'am",
+      "id": 5406,
+      "video_count": 69,
+      "note_count": 68
+    },
+    {
+      "name": "Reasoning By Yogendra Sir",
+      "id": 5444,
+      "video_count": 82,
+      "note_count": 81
+    },
+    {
+      "name": "Polity By Shubham Tripathi Sir",
+      "id": 5851,
+      "video_count": 129,
+      "note_count": 83
+    },
+    {
+      "name": "Hindi By Jitendra Soni Sir",
+      "id": 5854,
+      "video_count": 70,
+      "note_count": 70
+    },
+    {
+      "name": "World Geography By Ram Sir",
+      "id": 5920,
+      "video_count": 65,
+      "note_count": 65
+    }
+  ]
+}

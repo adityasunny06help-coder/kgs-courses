@@ -1,0 +1,23 @@
+{
+  "subject_name": "Doubt Session",
+  "subject_id": 5050,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Geography || भूगोल",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3hHY8CiWKho",
+      "hd_video_url": "https://www.youtube.com/embed/3hHY8CiWKho",
+      "thumbnail": "https://i.ytimg.com/vi/3hHY8CiWKho/default.jpg",
+      "notes": [
+        {
+          "title": "Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7419d0ea-8e28-4e07-ad7d-1bfc2daab218.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

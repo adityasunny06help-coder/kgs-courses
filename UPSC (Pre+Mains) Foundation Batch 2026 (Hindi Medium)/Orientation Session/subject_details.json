@@ -1,0 +1,23 @@
+{
+  "subject_name": "Orientation Session",
+  "subject_id": 3583,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Session\t by Sujeet Sir",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119029/kgss-1726481912-v119029.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6pnTVDVRmbU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gE1kfObPzMRVFxXQnKYVuRhVkHAxf6kdWuiCnkeb.png",
+      "notes": [
+        {
+          "title": "Orientation Session\t by Sujeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a921e9f5-ea6b-46bd-b091-d532ca539a48.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,54 @@
+{
+  "subject_name": "Demo Classes of all Subjects",
+  "subject_id": 5234,
+  "video_count": 5,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Demo Class of Reasoning (Calender)",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/oSdTlIitwZw",
+      "hd_video_url": "https://www.youtube.com/embed/oSdTlIitwZw",
+      "thumbnail": "https://i.ytimg.com/vi/oSdTlIitwZw/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Demo Class of Economics (Inflation - मुद्रा स्फ़ीति)",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "hd_video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "thumbnail": "https://i.ytimg.com/vi/oUyknZXwx-4/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Demo Class of History (Buddhism - बौद्ध धर्म )",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ix3F6Sqn5yA",
+      "hd_video_url": "https://www.youtube.com/embed/ix3F6Sqn5yA",
+      "thumbnail": "https://i.ytimg.com/vi/ix3F6Sqn5yA/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Demo Class of English (Vocabulary)",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/NNrvVIMqE1c",
+      "hd_video_url": "https://www.youtube.com/embed/NNrvVIMqE1c",
+      "thumbnail": "https://i.ytimg.com/vi/NNrvVIMqE1c/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Demo Class of Polity (Governor - राज्यपाल )",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/QiFqbGYI4t0",
+      "hd_video_url": "https://www.youtube.com/embed/QiFqbGYI4t0",
+      "thumbnail": "https://i.ytimg.com/vi/QiFqbGYI4t0/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,149 @@
+{
+  "subject_name": "Computer by Abhishek Sachan Sir",
+  "subject_id": 4295,
+  "video_count": 10,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Computer Fundamentals (Part -1)",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/U0gDQR2oVFc",
+      "hd_video_url": "https://www.youtube.com/embed/U0gDQR2oVFc",
+      "thumbnail": "https://i.ytimg.com/vi/U0gDQR2oVFc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Computer fundamental(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5eb0225-4b2d-40af-a742-044166a49f2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Computer Fundamentals (Part-02)",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/uC86vZ6xEIE",
+      "hd_video_url": "https://www.youtube.com/embed/uC86vZ6xEIE",
+      "thumbnail": "https://i.ytimg.com/vi/uC86vZ6xEIE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Computer fundamental(Part-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c85731e8-8996-4b39-8ee9-2fcb90158ad4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Computer Fundamentals (Part-03)",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_HIGtGvsTHM",
+      "hd_video_url": "https://www.youtube.com/embed/_HIGtGvsTHM",
+      "thumbnail": "https://i.ytimg.com/vi/_HIGtGvsTHM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Computer Fundamentals (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c47b1cd-f9d7-45a4-90b9-cabf99bd0206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Computer Fundamentals (Part-04)",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/n1NJTeQXis4",
+      "hd_video_url": "https://www.youtube.com/embed/n1NJTeQXis4",
+      "thumbnail": "https://i.ytimg.com/vi/n1NJTeQXis4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Computer Fundamentals (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0817a22-eb02-46ff-8ed5-e3ec50e1157d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Computer Fundamentals (Part-05)",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_s0TwJF4igU",
+      "hd_video_url": "https://www.youtube.com/embed/_s0TwJF4igU",
+      "thumbnail": "https://i.ytimg.com/vi/_s0TwJF4igU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 ||  Computer fundamental(Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d0f50a5-c8ce-4dfd-ad7e-5f35599c3bf2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Computer Fundamentals (Part-06)",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/GiHpZ8OgBLI",
+      "hd_video_url": "https://www.youtube.com/embed/GiHpZ8OgBLI",
+      "thumbnail": "https://i.ytimg.com/vi/GiHpZ8OgBLI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Computer Fundamentals (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/072d95bf-622a-4294-a4a5-ff4add3a2b3a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Practice Session",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/rSGvDS7I8LU",
+      "hd_video_url": "https://www.youtube.com/embed/rSGvDS7I8LU",
+      "thumbnail": "https://i.ytimg.com/vi/rSGvDS7I8LU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Practice Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0a590dc-7d54-493c-a9f8-2b4d11a0e7b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Computer Networking (Part-01)",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/8WjJaHADMkQ",
+      "hd_video_url": "https://www.youtube.com/embed/8WjJaHADMkQ",
+      "thumbnail": "https://i.ytimg.com/vi/8WjJaHADMkQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 Computer Networking Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7099337-02ac-4524-bcc1-4d135170d46b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Computer Networking (Part-02)",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/jDKUFzAAVjI",
+      "hd_video_url": "https://www.youtube.com/embed/jDKUFzAAVjI",
+      "thumbnail": "https://i.ytimg.com/vi/jDKUFzAAVjI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Computer Networking (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eabc6528-4e5f-45ee-a4cb-b09251c14c69.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Computer Networking (Part-03)",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/9ghdVjjYrFA",
+      "hd_video_url": "https://www.youtube.com/embed/9ghdVjjYrFA",
+      "thumbnail": "https://i.ytimg.com/vi/9ghdVjjYrFA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 Computer Networking Part 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/baffe7da-4696-4887-9fcf-f938f49a3ad2.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

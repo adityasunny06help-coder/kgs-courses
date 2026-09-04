@@ -1,0 +1,55 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 7807,
+  "video_count": 4,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PqHJHbrfRys",
+      "hd_video_url": "https://www.youtube.com/embed/PqHJHbrfRys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/C48M6sxo5F0sr8wYd6Bie3bE4l0GPI2dFhY0ZYUx.jpg",
+      "notes": [
+        {
+          "title": "Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed0932f7-ff10-426d-9e68-95fd0f954b22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Orientation Class",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lyYrR5FEtWw",
+      "hd_video_url": "https://www.youtube.com/embed/lyYrR5FEtWw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CunptPDnEG4BBYLqbjZ2ShsxL9ItiLTwJo6w1Eta.jpg",
+      "notes": [
+        {
+          "title": "Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/705ed252-bb40-4a7f-8066-9085fb07454f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Orientation Class",
+      "published_date": "15 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ySrBsJsOhcY",
+      "hd_video_url": "https://www.youtube.com/embed/ySrBsJsOhcY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yDIEMfrk45QNSMsQC3SpR1i0aLvBA8KbaOVKnbyD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Computer Orientation Class",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0Bt62LbDDr4",
+      "hd_video_url": "https://www.youtube.com/embed/0Bt62LbDDr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/79mG5wVqdt9pswMeeGXPhjLEaplmKdr2kMCOoEfE.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,27 @@
+{
+  "subject_name": "Biology by Khan Sir",
+  "subject_id": 4885,
+  "video_count": 2,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 : Classification of Animal Kingdom",
+      "published_date": "28 Nov 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bihar-daroga/bio-khan-sir/l-01n/l-01-bio-khan-sir-bihar-si.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kv4-state-pcs/bihar-daroga/bio-khan-sir/l-01n/l-01-bio-khan-sir-bihar-si.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6967fbaf-2dd0-45a2-b085-9f40a7c2bfed.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Biology Revision",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/c_fCrM8_v80",
+      "hd_video_url": "https://www.youtube.com/embed/c_fCrM8_v80",
+      "thumbnail": "https://i.ytimg.com/vi/c_fCrM8_v80/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

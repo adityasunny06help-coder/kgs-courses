@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "History Optional Hindi Medium",
+    "price": "4999",
+    "id": "453",
+    "extracted_date": "2025-08-27T15:20:03.261527"
+  },
+  "subjects": [
+    {
+      "name": "Ancient History Optional by Dr. Vishal Mishra Sir",
+      "id": 4225,
+      "video_count": 34,
+      "note_count": 33
+    },
+    {
+      "name": "Syllabus",
+      "id": 4655,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Answer Writing",
+      "id": 4728,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Medieval History by Dr. Vishal Mishra Sir",
+      "id": 4921,
+      "video_count": 33,
+      "note_count": 32
+    },
+    {
+      "name": "Modern History by Dr. Vishal Mishra Sir",
+      "id": 5762,
+      "video_count": 76,
+      "note_count": 74
+    }
+  ]
+}

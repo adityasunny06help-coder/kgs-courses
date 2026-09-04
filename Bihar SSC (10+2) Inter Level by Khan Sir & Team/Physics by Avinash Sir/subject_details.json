@@ -1,0 +1,180 @@
+{
+  "subject_name": "Physics by Avinash Sir",
+  "subject_id": 1049,
+  "video_count": 19,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 : इकाई और माप || Unit and Measurement",
+      "published_date": "22 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/ELZoxIyEaNY",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/34963/kgss-1700652230-v34963.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//599737fa-b030-47d6-b006-f909bb056588.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 : बल एवं गति  || Force and Motion (Part 01)",
+      "published_date": "23 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/x3cVlsa_-Fg",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35104/kgss-1700738893-v35104.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2d048e8b-fd76-4102-bc38-d355c7905e95.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 : बल एवं गति || Force and Motion (Part 02)",
+      "published_date": "24 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/Y3ZPRYR-dPc",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35365/kgss-1700825685-v35365.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2800802a-0978-4073-a670-c3ba3d60eff3.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 : प्रकाश || Optics (Part 01)",
+      "published_date": "25 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/Rb0qyl5JOdI",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35559/kgss-1700912211-v35559.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ffccc454-676c-467f-922d-a1e3b036d571.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 : प्रकाश || Optics (Part 02)",
+      "published_date": "27 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/XmXJ0rn2XZM",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/nov-2023/35782/kgss-1701084872-v35782.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9dfca6ae-7904-4721-b4dc-59f7c0c3046e.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 : प्रकाश || Optics (Part 03)",
+      "published_date": "20 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/cCxBMkQckMg",
+      "hd_video_url": "https://www.youtube.com/embed/cCxBMkQckMg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//efff5865-d27c-471b-adc5-16865e81c98b.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07:  विद्युत || Electricity (Part 01)",
+      "published_date": "21 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/4GsFjZRLNmU",
+      "hd_video_url": "https://www.youtube.com/embed/4GsFjZRLNmU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2e7dec11-ec73-4c56-9d53-fd8c00d1bd00.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08: विद्युत || Electricity (Part 02)",
+      "published_date": "22 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/wAKRshyPdHw",
+      "hd_video_url": "https://www.youtube.com/embed/wAKRshyPdHw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//75a0ee3a-55d4-40d5-a572-f7bda766b0a0.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09: ऊष्मा तथा तापमान || Heat and Temperature (Part 01)",
+      "published_date": "23 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/ydWlyWgbtvg",
+      "hd_video_url": "https://www.youtube.com/embed/ydWlyWgbtvg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fd19c472-2c27-4683-be78-dfd72216539e.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10: ऊष्मा तथा तापमान || Heat and Temperature (Part 02)",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/yvP1LDNHZys",
+      "hd_video_url": "https://www.youtube.com/embed/yvP1LDNHZys",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9629ffec-230d-4ba2-be45-46a162bfbe79.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 : तरंग और ध्वनि ||  Wave and Sound (Part 01)",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/jBsTa3J3vz0",
+      "hd_video_url": "https://www.youtube.com/embed/jBsTa3J3vz0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e44067a0-2901-417b-8143-4c0eead5efe1.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 : तरंग और ध्वनि ||  Wave and Sound (Part 02)",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/GhfFFLsiHsI",
+      "hd_video_url": "https://www.youtube.com/embed/GhfFFLsiHsI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//47133695-8019-4653-a66c-db1f324b162d.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 : कार्य, ऊर्जा और शक्ति ||  Work, Energy and Power",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/jvkQrj4wAjY",
+      "hd_video_url": "https://www.youtube.com/embed/jvkQrj4wAjY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b5998580-1186-487d-bbd8-a35f6acbeb47.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 : Science Doubt Class",
+      "published_date": "30 Dec 2023",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/dec-2023/43485/kgss-1703936039-v43485.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dZ2-Z2hiPkc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9707824d-0baa-4b37-809f-43f83ef0464e.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 : चुम्बकत्व || Magnetism",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43608/kgss-1704194483-v43608.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2fNCz0lP8jQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//877a60b2-a037-4c55-8127-b07415bf48fb.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 : गुरुत्वाकर्षण || Gravitation",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/43914/kgss-1704282148-v43914.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/k3IqdNz7PQM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//25c85c9d-99c8-4368-bc2b-ab2d0512257e.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 : Miscellaneous (Part 01)",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44112/kgss-1704368041-v44112.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lbd-wx_nR4g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2a0ab0bb-02ec-4655-8151-44e7a479f545.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 : Miscellaneous (Part 02)",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/44384/kgss-1704454235-v44384.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8uo1B2i2nFo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//42fca216-e8ef-46ae-90e0-e4b7e55b39ef.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 :  Miscellaneous (Part 03)",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/sSBGSprzFsQ",
+      "hd_video_url": "https://www.youtube.com/embed/sSBGSprzFsQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//bc91739c-7733-4dd4-9b47-a16aa25ebfab.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

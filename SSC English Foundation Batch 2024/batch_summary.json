@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "SSC English Foundation Batch 2024",
+    "price": "599",
+    "id": "275",
+    "extracted_date": "2025-08-27T16:42:32.608790"
+  },
+  "subjects": [
+    {
+      "name": "Doubts  by Priyanshu Sir",
+      "id": 1946,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Vocabulary by Juhi Ma'am",
+      "id": 1979,
+      "video_count": 72,
+      "note_count": 71
+    },
+    {
+      "name": "English Grammar  by Priyanshu Sir",
+      "id": 2466,
+      "video_count": 64,
+      "note_count": 61
+    }
+  ]
+}

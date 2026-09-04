@@ -1,0 +1,116 @@
+{
+  "subject_name": "Geography by Ashish Chamoli Sir",
+  "subject_id": 8317,
+  "video_count": 8,
+  "note_count": 7,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Universe",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Wo-WS7p_Cv8",
+      "hd_video_url": "https://www.youtube.com/embed/Wo-WS7p_Cv8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NqIc71uhCJ3Z6hk42SsiD0Jswbr0aXFrRLcNQNaH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Universe",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b0fead3-c5e9-4c21-95fa-887774130f8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Solar System",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0SFQVikKRXw",
+      "hd_video_url": "https://www.youtube.com/embed/0SFQVikKRXw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R7T7xBoN3S46StDCi6oJAABtcBKT6evBHwhSikAo.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Solar System (part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6330b60-0d1b-478c-8035-906bff26ef77.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Atmosphere of Earth",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/V7ffMVr-pAM",
+      "hd_video_url": "https://www.youtube.com/embed/V7ffMVr-pAM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BCAM4yX25XoejJKARbt5CKm9ThB0bkCcG7U92BcR.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Atmosphere of Earth",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c8780254-8257-452d-86fc-4b36702eada6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Mountains, Mountain peaks of India",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/p253PMmx8sg",
+      "hd_video_url": "https://www.youtube.com/embed/p253PMmx8sg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0siwFJfJPHdZHmIsVGs6yCh0PeFaB3HiynJnOmWx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Mountains, Mountain peaks of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f054368d-12ae-45b3-ae16-29b93c437dd2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Islands of India",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/y3Y3u1pW_Z0",
+      "hd_video_url": "https://www.youtube.com/embed/y3Y3u1pW_Z0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jCkA2YQVw3AOGZvvZnBhbHyrnbSu9JndAHxEVXQY.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Islands of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63904145-a871-4e9d-b2d3-e06a0993b8f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Rivers of India",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/uflUsunKEm0",
+      "hd_video_url": "https://www.youtube.com/embed/uflUsunKEm0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QRYIE03urp5AJ3ihpyByCTdRcUb6GJaQ2j3f01hv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Rivers of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64ed3074-fd18-4792-86e5-e8a560cda043.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Lakes of India",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/kKJhO5lJc-s",
+      "hd_video_url": "https://www.youtube.com/embed/kKJhO5lJc-s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ll5dGCNG7qVRQsHto2gnpOOCcKjNIA6DX0BFQbc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Lakes of India",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/485ab9c6-03e4-465b-b64b-70f343993a21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Important ports of India",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JRjVBVkWY9rPXoX5QWYGuXA0NCTbJm0JQb0RLS0r.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

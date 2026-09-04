@@ -1,0 +1,289 @@
+{
+  "subject_name": "Science by Satpreet Ma'am",
+  "subject_id": 4798,
+  "video_count": 20,
+  "note_count": 20,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4tmevb7WXWc",
+      "hd_video_url": "https://www.youtube.com/embed/4tmevb7WXWc",
+      "thumbnail": "https://i.ytimg.com/vi/4tmevb7WXWc/default.jpg",
+      "notes": [
+        {
+          "title": "L - 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f239eea3-45be-4232-85be-62747f51f97e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Digestive System (Part-01)",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/zNudj_xN9S8",
+      "hd_video_url": "https://www.youtube.com/embed/zNudj_xN9S8",
+      "thumbnail": "https://i.ytimg.com/vi/zNudj_xN9S8/default.jpg",
+      "notes": [
+        {
+          "title": "L - 02 || Digestive System -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7f694ba-6e77-44f8-b16c-fef33b977d8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Digestive System (Part-02)",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/aEiEEMqqtL4",
+      "hd_video_url": "https://www.youtube.com/embed/aEiEEMqqtL4",
+      "thumbnail": "https://i.ytimg.com/vi/aEiEEMqqtL4/default.jpg",
+      "notes": [
+        {
+          "title": "L - 03 || Digestive System -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ac05c97-336c-48a9-a3c5-15404a1fab42.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Digestive System (MCQs)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_m464JU8TP4",
+      "hd_video_url": "https://www.youtube.com/embed/_m464JU8TP4",
+      "thumbnail": "https://i.ytimg.com/vi/_m464JU8TP4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Digestive System (MCQs)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c124202-1926-4c12-b3e1-9605af74ccb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Endocrine Glands (Part-01)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Uv0K2HkgkM0",
+      "hd_video_url": "https://www.youtube.com/embed/Uv0K2HkgkM0",
+      "thumbnail": "https://i.ytimg.com/vi/Uv0K2HkgkM0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Endocrine Glands (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6946e31-e41e-44ce-824d-d2d50ff6a9f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Endocrine Glands (Part-02)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NFPPlyBAYg8",
+      "hd_video_url": "https://www.youtube.com/embed/NFPPlyBAYg8",
+      "thumbnail": "https://i.ytimg.com/vi/NFPPlyBAYg8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Endocrine Glands (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e581bab5-e394-4bc3-8c85-62942b6e8ae4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Eendocrine System (MCQs)",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tneWGUFREMg",
+      "hd_video_url": "https://www.youtube.com/embed/tneWGUFREMg",
+      "thumbnail": "https://i.ytimg.com/vi/tneWGUFREMg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 ||Eendocrine system mcqs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e03aad6-b77c-4549-b58f-b1e6f43e5288.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Excretory System (Part-01)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/45ayK1A2u-A",
+      "hd_video_url": "https://www.youtube.com/embed/45ayK1A2u-A",
+      "thumbnail": "https://i.ytimg.com/vi/45ayK1A2u-A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Excretory System (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79dc8c2f-1b93-4217-b3d0-0d4948bd009d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Excretory System (Part-02)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NCW-V-JnUkQ",
+      "hd_video_url": "https://www.youtube.com/embed/NCW-V-JnUkQ",
+      "thumbnail": "https://i.ytimg.com/vi/NCW-V-JnUkQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Excretory System (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/758dd63e-d38d-41c2-a83d-45cfa06758d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Excretory System (MCQs)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/BkpRFPd2p84",
+      "hd_video_url": "https://www.youtube.com/embed/BkpRFPd2p84",
+      "thumbnail": "https://i.ytimg.com/vi/BkpRFPd2p84/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Excretory System (MCQs)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1316928a-7498-4690-966e-aafab2d6d25e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Nervous System",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/nhva_LX1wns",
+      "hd_video_url": "https://www.youtube.com/embed/nhva_LX1wns",
+      "thumbnail": "https://i.ytimg.com/vi/nhva_LX1wns/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Nervous System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4011fac2-7571-4aaa-bb91-72028b5c1818.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Nervous System (MCQs)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/2MzffaWGFpQ",
+      "hd_video_url": "https://www.youtube.com/embed/2MzffaWGFpQ",
+      "thumbnail": "https://i.ytimg.com/vi/2MzffaWGFpQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Biology By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2354e3b7-ffac-4d5c-9ed5-33bb6a5f02a0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Heart & Blood",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/woErCwO-LxE",
+      "hd_video_url": "https://www.youtube.com/embed/woErCwO-LxE",
+      "thumbnail": "https://i.ytimg.com/vi/woErCwO-LxE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Biology By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31114706-2858-472a-9209-800d85fed731.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Heart & Blood MCQ's",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/wyvHmp8W6nk",
+      "hd_video_url": "https://www.youtube.com/embed/wyvHmp8W6nk",
+      "thumbnail": "https://i.ytimg.com/vi/wyvHmp8W6nk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76e41c9a-4426-47cd-867e-02376b4b77ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Oxygen Oxidation",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/P2MVm7jnT8M",
+      "hd_video_url": "https://www.youtube.com/embed/P2MVm7jnT8M",
+      "thumbnail": "https://i.ytimg.com/vi/P2MVm7jnT8M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/741fb5da-164f-4402-b68c-f98167a0cd30."
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Skeletal System & Respiration System",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/1DDoj3uxFA8",
+      "hd_video_url": "https://www.youtube.com/embed/1DDoj3uxFA8",
+      "thumbnail": "https://i.ytimg.com/vi/1DDoj3uxFA8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71ea917b-4ae1-47ea-8269-f5179d4b396f."
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Human Reproductive System (Part-01)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QmNB8lMEasM",
+      "hd_video_url": "https://www.youtube.com/embed/QmNB8lMEasM",
+      "thumbnail": "https://i.ytimg.com/vi/QmNB8lMEasM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5065aba0-e42a-4218-8bd2-82a3776f3fad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Human Reproductive System (Part-02)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/r4vS8Sjg7Ck",
+      "hd_video_url": "https://www.youtube.com/embed/r4vS8Sjg7Ck",
+      "thumbnail": "https://i.ytimg.com/vi/r4vS8Sjg7Ck/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aeafb0d9-e047-4bdb-af43-89cd6b2f59aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Human Reproductive System (Part-03)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BEMLfeRCg9g",
+      "hd_video_url": "https://www.youtube.com/embed/BEMLfeRCg9g",
+      "thumbnail": "https://i.ytimg.com/vi/BEMLfeRCg9g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/548793d2-6358-4c7f-8c0b-ba10139035f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Human Reproductive System (MCQs)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/30eCVT3xIUM",
+      "hd_video_url": "https://www.youtube.com/embed/30eCVT3xIUM",
+      "thumbnail": "https://i.ytimg.com/vi/30eCVT3xIUM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Science By Satpreet Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8df81cd0-73a0-4196-bc8f-bf588532071b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

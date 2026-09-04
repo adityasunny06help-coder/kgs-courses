@@ -1,0 +1,525 @@
+{
+  "subject_name": "Linear Algebra",
+  "subject_id": 1886,
+  "video_count": 44,
+  "note_count": 24,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Maths Optional Introduction Class",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/LjJ2HxgK87k",
+      "hd_video_url": "https://www.youtube.com/embed/LjJ2HxgK87k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//200528ec-94a9-44ba-babd-571d24a5e8ba.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -1 Matrices || आव्यूह (Part-1)",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45114/kgss-1704810711-v45114.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kSrLsctYqxE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//131c2c7f-6f1e-485b-87c9-7c0767276d68.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -2 Matrices || आव्यूह (Part-2)",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45281/kgss-1704897346-v45281.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-X36ZPjbeNI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f353abe7-a3ea-4285-a186-3097d5ec73c1.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -3  Matrices || आव्यूह (Part-3)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45760/kgss-1704984281-v45760.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9KDJlmdCMlw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ec910d2e-dafe-405a-9d30-0c01e5976223.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -4 Determinants || सारणिक",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45959/kgss-1705070563-v45959.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eCm2XPOGC5w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//99296212-6367-4e02-9b23-5ee2902f65f7.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -5 Adjoint & Inverse || संयुक्त और व्युत्क्रम",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46213/kgss-1705323109-v46213.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qAxGa_mSLgI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//df32cd89-db80-4aaf-89fd-1afe72bae138.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -6 Orthogonal & Unitary Matrix || लाम्बिक एवं एकात्मक आव्यूह",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46647/kgss-1705409218-v46647.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Qx5JC-6Omu4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//77acc8f7-faf2-49fc-a8af-656ddadcd7f8.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -7 Rank of Matrix || आव्यूह की रैंक (Part-1)",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47114/kgss-1705494742-v47114.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kV5HvzXUXO8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//db961716-50ce-48b4-933b-e29e351d0124.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -8  Rank of Matrix || आव्यूह की रैंक (Part-2)",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47413/kgss-1705581899-v47413.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hYNGxnRcI_o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//13b9fd72-446a-4166-bb7c-32c979353fc2.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -9 Rank of Matrix || आव्यूह की रैंक (Part-3)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv3-upsc/maths-optional/l-09/l-09-maths-op-.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GWON_uWT05Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2a1280d5-d4dd-485b-959c-af58d991228c.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -10 Echelon Form of Matrix || आव्यूह का इचेलॉन प्रकार",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv3-upsc/maths-optional/l-10/l-10-maths-op-.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Z9ZeSIos2D0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/swjIfIrMO8R7nC0Jd6FjnDQzLpli3Fu1UE7o1EOo.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture -11 Eigenvalues of Matrices || मैट्रिक्स के आइजन मान",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/48810/kgss-1706100140-v48810.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-gD242k6bPg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FroiWEfChlNaDOI2ozUENmcVPjOQ07zZvm7Rl53w.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture -12 Vector Space || सदिश स्थल",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49117/kgss-1706187006-v49117.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-TCIYnuIYu4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bCpvHE3PbsRlOmgmzUpCvNChBB7mvzzyf3OiANwm.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture -13 Non Homogenous System of Equations ||समीकरणों की गैर सजातीय प्रणाली (Part-1)",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49782/kgss-1706359642-v49782.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s60BQnEGYdY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/vNIhO5Ze9OFJniGhovwQt63sOZiBXA9NofCYRDjT.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture -14  Non Homogenous System of Equations ||समीकरणों की गैर सजातीय प्रणाली (Part-2)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49801/kgss-1706532949-v49801.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/O6soUq0cZJ4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bzUCmBq82Fel3eZQrTt1BR3v71edMCqQ3bBI92w2.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture -15 Linear System of Equations || रैखिक समीकरणों का निकाय",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50409/kgss-1706618709-v50409.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ddfr94Ky-KQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7cxbVLtXI8AOnhpNcN5xUXbR895JGxUqYaBQQeVZ.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture -16  Eigen Value || अभिलक्षणिक मान  (Part-1)",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50890/kgss-1706704728-v50890.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ixVrWiyPIvk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4vNuA4sjfDL0yfuo0jswBZdGrcpqIVE4XWqCwY5w.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -17  Eigen Value || अभिलक्षणिक मान  (Part-2)",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51185/kgss-1706791591-v51185.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V6aP5SdXYvI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FTFuBKXxWefy2K3WyIqwIvY7DfSNr8aejs7jeoWt.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture -18 Eigen Value || अभिलक्षणिक मान (Part-3)",
+      "published_date": "12 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/53684/kgss-1707739793-v53684.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5E8Yrpcx97I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YIqIGHMOhMQiOBROlroKqrmXHbLu4At0ttGcPkym.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture -19 Caley-Hamilton Theorem || केली-हैमिल्टन प्रमेय",
+      "published_date": "13 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/54196/kgss-1707826463-v54196.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IjdOVyzhXwQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NFiOOCKa3VT1IsGwH3EvlysxMLD8981moUHbepdc.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -20 Similarity of Matrix || मैट्रिक्स की समानता",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/54793/kgss-1707999750-v54793.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qd0JaI_8psk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/swKGzIeXF2PSVLmVzV4a42oabrxnLHS2q4kdxAUG.png",
+      "notes": [
+        {
+          "title": "Lecture - 20 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/815bafe3-bd8c-4808-aa07-09ec8923bf9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -21 Diagonalizable Matrix || विकर्णीय मैट्रिक्स",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55288/kgss-1708085948-v55288.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_fTZ87wyr-I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EB7U90DcM03p1bN0DnCBED2KK3MbOt5xh2lgQoqh.png",
+      "notes": [
+        {
+          "title": "Lecture - 21 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/87e99633-e122-499b-939f-5284fed90da3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -22 Algebraic & Geometric Multiplicity ||  बीजगणितीय और ज्यामितीय बहुलता",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55402/kgss-1708344894-v55402.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ClzUMilVooM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/PhI9vQFkXP1oI4waQguB02tOY9m9l6hfdDcdNDTt.png",
+      "notes": [
+        {
+          "title": "Lecture - 22 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b93e0edf-8360-4eef-bc19-2e0ae669d9d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -23 Orthogonally Similar Matrices || ऑर्थोगोनली समान मैट्रिक्स",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55744/kgss-1708516935-v55744.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JeF8EGrGmF0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5ARd4fySAll6qA44MTfFh0NWSp1syEPhxdcyqxqE.png",
+      "notes": [
+        {
+          "title": "Lecture - 23 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/95830242-99d1-4433-b999-76769da48ddf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -24 Unitarily Similar Matrices|| इकाई रूप से समान मैट्रिक्स",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/56368/kgss-1708604321-v56368.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yIhAr6cB8-s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5DYbhrbAazWam6oYosuDleW6QaePdZ5S7AR6MbWa.png",
+      "notes": [
+        {
+          "title": "Lecture - 24 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/cb745c15-9359-4966-8224-b8a1937d678d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture -25 Introduction of Vector Space, Group, Field || सदिश समष्टि का परिचय, समूह, क्षेत्र",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/56504/kgss-1708690354-v56504.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-9YtDrpYaEo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/aXIT7Rd5vTlaQRtwnN0DtsN3ofGhXmwyTbLdxfMG.png",
+      "notes": [
+        {
+          "title": "Lecture - 25 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2b16b490-caf1-4cfd-90a8-97a829c09226.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -26 Examples Solved & Introduction of SubSpace || हल किए गए उदाहरण और उप-समष्टि का परिचय",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/56942/kgss-1708949947-v56942.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6VeUcwYhXn4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/40LIXErw8f9T8O6ScWibsca8y7JF0FE0OVcGFFSG.png",
+      "notes": [
+        {
+          "title": "Lecture - 26 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d06a2d5b-b732-42ae-85c9-d9370b152a45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -27 Subspace & its Theorems || उप-समष्टि और उसके प्रमेय",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58508/kgss-1709035477-v58508.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ezWifygYsbE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/LWpgQQORXzpxdoGiqW0pqmlkfhfUkwjCxMMsNSAH.png",
+      "notes": [
+        {
+          "title": "Lecture - 27 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/695caaa1-f908-4cbb-b7d9-f55152d55a7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -28 Examples on Subspace & introduction of Linear Span ||  उप-समष्टि पर प्रश्न और रैखिक विस्तृति की परिचय",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58743/kgss-1709122142-v58743.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dMVbMzpwt3M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/n3OXmyW9r8GGa20nFAzizqss5cbeCjnz1e94usL9.png",
+      "notes": [
+        {
+          "title": "Lecture - 28 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9a1143e9-3937-4b00-ad80-796197de7c3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -29 Linear Space Examples solved & Linear independence || रैखिक विस्तृति पर उदाहरण हल और रैखिक स्वतंत्र",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58930/kgss-1709208845-v58930.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yoraNUGqI_o",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/npW5DmyqLBp0Bmj5FFitDdm8U6Au01uVaIQ9aYMj.png",
+      "notes": [
+        {
+          "title": "Lecture - 29 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f1240204-9e7a-4fbd-823f-0cb5276012a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -30 Linearly independent ||  रैखिक स्वतंत्र",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/59151/kgss-1709294720-v59151.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/724CCF0Y-tg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/I09JEXaSH6BsXDxec4FXvO25oTxegDFJlNZKL1FT.png",
+      "notes": [
+        {
+          "title": "Lecture -30 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b3afd0b5-0b04-46ee-a569-74b4f9b9cfb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture -31 Theorems on Linear independence & introduction of Basis -1 ||  रैखिक स्वतंत्र का प्रमेय & आधार का परिचय  -1",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/59387/kgss-1709554260-v59387.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8jiVz8hP64Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/W7clJKZHe6c7SwiIxObA58eu0KlebIoBvYkxhLYb.png",
+      "notes": [
+        {
+          "title": "Lecture -31 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/438dddeb-8760-48ce-b167-3e63cb040132.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture -32 Basis & Dimension  -2 ||  आधार  & आयामी  -2",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/60973/kgss-1709640686-v60973.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uB66kRKCVu0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bXnkrEwmEr5FpuTiQCmLS57p6TZQNb6K9y2wkjvi.png",
+      "notes": [
+        {
+          "title": "Lecture -32 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/47c9e74e-0ae3-4643-95c8-f5cee6c57cf3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture -33 Basis & Dimension  -3 ||  आधार  & आयामी  -3",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/61477/kgss-1709727094-v61477.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2Ap1D0zzvVY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tKopVTnOk7NNRuNBlFkEYqnfEC4N9LSEeuc5wRjg.png",
+      "notes": [
+        {
+          "title": "Lecture -33 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/267c673a-43d0-420b-a8d3-a10dfd36d2e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture -34  Basis &  Dimension -4 ||  आधार  & आयामी -4",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/61662/kgss-1709813337-v61662.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eAalDXdxfZQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UdzLYSZSL1Q2AR2OjMk7Qwi0v2OfgPtnE00aWRm7.png",
+      "notes": [
+        {
+          "title": "Lecture -34 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/234c7d81-b61d-47ae-8c47-cc8b872a0b32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture -35 Basis & Dimension -5 || आधार & आयामी -5",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/61915/kgss-1710158685-v61915.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rAWBkQnJ8bw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Je7Q8enuQFShqIbJxXEpDyaF6HhIWq3PjCQ9k6cS.png",
+      "notes": [
+        {
+          "title": "Lecture -35 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/587553a8-c6f3-4bb1-9f17-77e6aa07b52e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture -36 Basis & Dimension -6 || आधार & आयामी -6",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/62486/kgss-1710246051-v62486.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9kHkRAVA1AU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/84hm2dSVfuAPQX3Mm5fgcmK2Xx2sikjjWkSNsnwf.png",
+      "notes": [
+        {
+          "title": "Lecture -36 Maths optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/fba2dbb7-8272-472d-8473-7dac96669ec7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture -37 Linear Transformation  -1 ||  रैखिक परिवर्तन  -1",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/64465/kgss-1710504721-v64465.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NWvW7E957U8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9D1OZBJ2MKlKsgMj0AwFZSW7Wyrr7N7mx8M0b0EL.png",
+      "notes": [
+        {
+          "title": "Lecture -37 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/72d3b87a-1c00-47f7-910f-e690b8910866.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture -38 Linear Transformation  -2 ||  रैखिक परिवर्तन  -2",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/64824/kgss-1710591539-v64824.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V2T2z3ejj-M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gSmy9bGVAic8CVJPzWaEWlV7uzTSndAwrqTXnwcW.png",
+      "notes": [
+        {
+          "title": "Lecture -38 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1eb7a28c-2acb-4701-9f35-fffa255fa1e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture -39 Linear Transformation  -3 ||  रैखिक परिवर्तन  -3",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65048/kgss-1710764403-v65048.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YY4gg6Yr9Ts",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/gwUSnQ556MybQZWGPfA8PTkUBuD0hs0tGooy4qiy.png",
+      "notes": [
+        {
+          "title": "Lecture -39 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/063060c6-9023-4b2c-b95d-6737b7085f6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture -40 Linear Transformation -4 ||  रैखिक परिवर्तन -4",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65298/kgss-1710850375-v65298.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ioae6gvL5I8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/L1Clp1LuKqHbWeq4TtEKQvk6Hriz5TsAHg5mhyU4.png",
+      "notes": [
+        {
+          "title": "Lecture -40 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0ae440ae-7785-409d-b356-e9480695c9b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture -41 Linear Transformation -5 ||  रैखिक परिवर्तन -5",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65498/kgss-1710936415-v65498.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zFHbQmfeBSI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SeNJPff1AcMT2ea7iW7J04C4qWfMId1XXuKUh443.png",
+      "notes": [
+        {
+          "title": "Lecture -41 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c44629c7-9121-43d5-85d6-ae41ccb96bc8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture -42 Linear Transformation -6 ||  रैखिक परिवर्तन -6",
+      "published_date": "21 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65730/kgss-1711022939-v65730.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oqEuHnsNoYQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/7G5BJerTBQ8HLshAaJ2LhzPoBT72nbJhyiOFUEyW.png",
+      "notes": [
+        {
+          "title": "Lecture -42 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/288a4215-3854-4511-9f7f-a68f470f5588.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture -43 Linear Transformation -7 ||  रैखिक परिवर्तन -7",
+      "published_date": "22 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/65925/kgss-1711109324-v65925.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/I7DIf6Hf5go",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/USF7YNfDBHgdNkfHx2MZtNClktBDQgrbQLYFjloK.png",
+      "notes": [
+        {
+          "title": "Lecture -43 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/52239207-777c-48e5-bf8e-95ec0ae19803.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

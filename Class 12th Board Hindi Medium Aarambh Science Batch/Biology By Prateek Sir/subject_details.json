@@ -1,0 +1,885 @@
+{
+  "subject_name": "Biology By Prateek Sir",
+  "subject_id": 3510,
+  "video_count": 64,
+  "note_count": 60,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. मानव स्वास्थ्य तथा रोग Part 1",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/8VpqAPkI1X0",
+      "hd_video_url": "https://www.youtube.com/embed/8VpqAPkI1X0",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "2. मानव स्वास्थ्य तथा रोग Part 2",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/nFoIX2L1T6Y",
+      "hd_video_url": "https://www.youtube.com/embed/nFoIX2L1T6Y",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "मानव स्वास्थ्य तथा रोग Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/524f718e-fd21-4b31-9119-6d2526530126.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. मानव स्वास्थ्य तथा रोग Part 3",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5-ii46KPANA",
+      "hd_video_url": "https://www.youtube.com/embed/5-ii46KPANA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "मानव स्वास्थ्य तथा रोग Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec158c7e-c9aa-41e5-bf2b-093d5a8c24e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. मानव स्वास्थ्य तथा रोग Part 4",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/9fqG-9ZvXZ4",
+      "hd_video_url": "https://www.youtube.com/embed/9fqG-9ZvXZ4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "मानव स्वास्थ्य तथा रोग Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3edec694-67be-46f0-ab9f-62acdf3a75a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "5. मानव स्वास्थ्य तथा रोग Part 5",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/IRf2Hb8PJqs",
+      "hd_video_url": "https://www.youtube.com/embed/IRf2Hb8PJqs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "मानव स्वास्थ्य तथा रोग Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/893d6e51-be77-48e8-ba9f-fbb479b79146.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. मानव स्वास्थ्य तथा रोग Part 6",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/zqZEBaOGGzI",
+      "hd_video_url": "https://www.youtube.com/embed/zqZEBaOGGzI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "मानव स्वास्थ्य तथा रोग Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cd01fd3-08d8-48ac-b44e-e882ad4f51ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. मानव स्वास्थ्य तथा रोग Part 7",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/jHDzpuQDWws",
+      "hd_video_url": "https://www.youtube.com/embed/jHDzpuQDWws",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ad13782-2c37-41de-ba2a-f3f1350fc428.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. मानव स्वास्थ्य तथा रोग Part 8",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/tHVjGEyC_K8",
+      "hd_video_url": "https://www.youtube.com/embed/tHVjGEyC_K8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc88cdab-7706-4332-a7b8-4d1171a7c838.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. मानव स्वास्थ्य तथा रोग Part 9",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/cKRWsCO6H7g",
+      "hd_video_url": "https://www.youtube.com/embed/cKRWsCO6H7g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग Part 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f070074-e5ca-4b62-b121-b6018db3a327.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. मानव स्वास्थ्य तथा रोग Part 10",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/VltdzH9gTw0",
+      "hd_video_url": "https://www.youtube.com/embed/VltdzH9gTw0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग Part 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bd9a0aa-e32e-4c63-a1fc-1613a27d60f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. मानव स्वास्थ्य तथा रोग Part 11",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/33a7WPk4stc",
+      "hd_video_url": "https://www.youtube.com/embed/33a7WPk4stc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग Part 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f812cb7-d829-435e-9b41-5890065f7ab3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. मानव स्वास्थ्य तथा रोग DPP",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/yAP8PCFy60k",
+      "hd_video_url": "https://www.youtube.com/embed/yAP8PCFy60k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-मानव स्वास्थ्य तथा रोग DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/135351f1-1622-46c1-8478-32efedc25a50.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "13. जनन स्वास्थ्य Part 1",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/_lU7NGh3fX4",
+      "hd_video_url": "https://www.youtube.com/embed/_lU7NGh3fX4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3c4526e-8b05-4a63-b055-f49e04ba4568.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. जनन स्वास्थ्य Part 2",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Ltc4gZUAV8s",
+      "hd_video_url": "https://www.youtube.com/embed/Ltc4gZUAV8s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b102e33e-1958-4b7e-9523-09a8dd4799cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. जनन स्वास्थ्य Part 3",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/hhd0jjdsNqQ",
+      "hd_video_url": "https://www.youtube.com/embed/hhd0jjdsNqQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07b5da56-65f2-488d-9da5-e0791e8926fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. जनन स्वास्थ्य Part 4",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Wr_XhLl0W94",
+      "hd_video_url": "https://www.youtube.com/embed/Wr_XhLl0W94",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2072e291-b673-4f5a-8913-6897f5f077c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. जनन स्वास्थ्य Part 5",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/6DES6Hf0ev4",
+      "hd_video_url": "https://www.youtube.com/embed/6DES6Hf0ev4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/811c29df-1e59-4764-9e39-8702e0bb3116.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. जनन स्वास्थ्य DPP",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/QmN008JlhKo",
+      "hd_video_url": "https://www.youtube.com/embed/QmN008JlhKo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जनन स्वास्थ्य DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d73b669-e845-47b2-b775-31c6472f606f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. जीव और समष्टियाँ  Part 1",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/1mIuqM3Yg9A",
+      "hd_video_url": "https://www.youtube.com/embed/1mIuqM3Yg9A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जीव और समष्टियाँ  Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/384b2523-a792-46eb-9af9-3857ffe9bd6d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "20. जीव और समष्टियाँ Part 2",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/EPU0L4XLb1A",
+      "hd_video_url": "https://www.youtube.com/embed/EPU0L4XLb1A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जीव और समष्टियाँ Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d96d4e2b-1ab5-4c1a-ab2d-3b31aeed2586.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "21. जीव और समष्टियाँ Part 3",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/w7Vi1CjJ-DE",
+      "hd_video_url": "https://www.youtube.com/embed/w7Vi1CjJ-DE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-जीव और समष्टियाँ Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f132554c-6920-4330-861d-9cff5a93ae86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "22. जीव और समष्टियाँ Part 4",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ZjP6dcaO5Tk",
+      "hd_video_url": "https://www.youtube.com/embed/ZjP6dcaO5Tk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव और समष्टियाँ Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a36b4f8-5528-4220-8a0f-897a7b6929bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "23. जीव और समष्टियाँ Part 5",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ioeV-kj3vJI",
+      "hd_video_url": "https://www.youtube.com/embed/ioeV-kj3vJI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव और समष्टियाँ Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e164157d-eea6-43a8-bf30-4d729374914f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "24. जीव और समष्टियाँ Part 6",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ZzxVkpEM1qc",
+      "hd_video_url": "https://www.youtube.com/embed/ZzxVkpEM1qc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव और समष्टियाँ Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efa4110f-461f-4f9f-b10f-bf9cfe7112c8.6 notes"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "25. जीव और समष्टियाँ Part 7",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/DJZgPZ92Qp4",
+      "hd_video_url": "https://www.youtube.com/embed/DJZgPZ92Qp4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जीव और समष्टियाँ Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3966f08-f24e-40d9-a3b6-79cede667594.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "26. पारितंत्र Part 1",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/TseXVQ5nWOY",
+      "hd_video_url": "https://www.youtube.com/embed/TseXVQ5nWOY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82831c04-31bf-414e-aa20-005db246a3d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "27. पारितंत्र Part 2",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7IxOkD37C-U",
+      "hd_video_url": "https://www.youtube.com/embed/7IxOkD37C-U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66e7519d-4141-417b-8153-77f053d9ade8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "28. पारितंत्र Part 3",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/5fKGTKeaGBQ",
+      "hd_video_url": "https://www.youtube.com/embed/5fKGTKeaGBQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1cb431b-5626-44f6-aeae-44cfac684e2b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "29. पारितंत्र Part 4",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/TXOYSBApLs8",
+      "hd_video_url": "https://www.youtube.com/embed/TXOYSBApLs8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edf2cc32-62ca-402c-9554-a50d06a3842a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "30. पारितंत्र Part 5",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/GnY-FUOoMEw",
+      "hd_video_url": "https://www.youtube.com/embed/GnY-FUOoMEw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfb97f51-76b2-4cd9-bb94-5fe9b949353e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "31. पारितंत्र Part 6",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/OKRGhTqfoJ0",
+      "hd_video_url": "https://www.youtube.com/embed/OKRGhTqfoJ0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccde095f-403a-46bf-aa51-d3a3da91eb49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "32. पारितंत्र Part 7",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/MWN50LTMX-c",
+      "hd_video_url": "https://www.youtube.com/embed/MWN50LTMX-c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- पारितंत्र Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95102dfa-a400-433d-ac3f-eec2d17c3c16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "33. जैव विविधता और संरक्षण Part 1",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Wm0F3wV32u4",
+      "hd_video_url": "https://www.youtube.com/embed/Wm0F3wV32u4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a2a3767-d13e-4976-b87a-581cd62458bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "34. जैव विविधता और संरक्षण Part 2",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/OulKpOtw3yA",
+      "hd_video_url": "https://www.youtube.com/embed/OulKpOtw3yA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f821d4d2-4c41-414b-a0f7-99c1837e1efa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "35. जैव विविधता और संरक्षण Part 3",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/routlMTkFsQ",
+      "hd_video_url": "https://www.youtube.com/embed/routlMTkFsQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98133368-1e25-4c2e-9d0e-75a71ccd8c27.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "36. जैव विविधता और संरक्षण Part 4",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/rNEw4Lz3jLk",
+      "hd_video_url": "https://www.youtube.com/embed/rNEw4Lz3jLk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/093effed-157f-4aa9-9a77-4c42d6b3c4d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "37. जैव विविधता और संरक्षण Part 5",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/fArzvqngPvY",
+      "hd_video_url": "https://www.youtube.com/embed/fArzvqngPvY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14c0d3ee-7a38-44db-a6a3-1c0d843ebc08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "38. जैव विविधता और संरक्षण Part 6",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/9hz7Xyf1Llk",
+      "hd_video_url": "https://www.youtube.com/embed/9hz7Xyf1Llk",
+      "thumbnail": "https://i.ytimg.com/vi/9hz7Xyf1Llk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a77f171-8c1a-41f6-8c33-76fdc7dec68f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "39. जैव विविधता और संरक्षण Part 7",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_xXwif2geWo",
+      "hd_video_url": "https://www.youtube.com/embed/_xXwif2geWo",
+      "thumbnail": "https://i.ytimg.com/vi/_xXwif2geWo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- जैव विविधता और संरक्षण Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc1db19e-1587-4d05-83a9-7db80a088295.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "40. मानव कल्याण मे सूक्ष्मजीव Part 1",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zYvSuQMWhsM",
+      "hd_video_url": "https://www.youtube.com/embed/zYvSuQMWhsM",
+      "thumbnail": "https://i.ytimg.com/vi/zYvSuQMWhsM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b212d1b0-428c-49e6-a27c-77d7e70e10d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "41. मानव कल्याण मे सूक्ष्मजीव Part 2",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/dK9kGDR-0E4",
+      "hd_video_url": "https://www.youtube.com/embed/dK9kGDR-0E4",
+      "thumbnail": "https://i.ytimg.com/vi/dK9kGDR-0E4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5eaf9b06-0d22-49b4-8895-8f93994b4b8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "42. मानव कल्याण मे सूक्ष्मजीव Part 3",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Eq5vmvJ0dA4",
+      "hd_video_url": "https://www.youtube.com/embed/Eq5vmvJ0dA4",
+      "thumbnail": "https://i.ytimg.com/vi/Eq5vmvJ0dA4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c036903-38c7-484a-8d22-cffc7da7b29c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "43. मानव कल्याण मे सूक्ष्मजीव Part 4",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JSgqxB1FgYo",
+      "hd_video_url": "https://www.youtube.com/embed/JSgqxB1FgYo",
+      "thumbnail": "https://i.ytimg.com/vi/JSgqxB1FgYo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29028215-7005-4763-9098-7de0641f00ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "44. मानव कल्याण मे सूक्ष्मजीव Part 5",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JugnEIz7JxY",
+      "hd_video_url": "https://www.youtube.com/embed/JugnEIz7JxY",
+      "thumbnail": "https://i.ytimg.com/vi/JugnEIz7JxY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa29f0fd-f13c-4102-8eea-90a85e7509d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "45. मानव कल्याण मे सूक्ष्मजीव Part 6",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/stJhU4l-WQg",
+      "hd_video_url": "https://www.youtube.com/embed/stJhU4l-WQg",
+      "thumbnail": "https://i.ytimg.com/vi/stJhU4l-WQg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d6c92d09-6d84-4ad8-8c14-df8c1be63362.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "46. मानव कल्याण मे सूक्ष्मजीव Part 7",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/W9xNinAYsAQ",
+      "hd_video_url": "https://www.youtube.com/embed/W9xNinAYsAQ",
+      "thumbnail": "https://i.ytimg.com/vi/W9xNinAYsAQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- मानव कल्याण मे सूक्ष्मजीव Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46f351ab-dddc-4e04-99bb-c1dd51c2af16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "47. पुष्पी पादपों मे लैंगिक प्रजनन  Part 1",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ThbqhQXv0Z4",
+      "hd_video_url": "https://www.youtube.com/embed/ThbqhQXv0Z4",
+      "thumbnail": "https://i.ytimg.com/vi/ThbqhQXv0Z4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- पुष्पी पादपों मे लैंगिक प्रजनन  Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6774c32c-76ab-41bc-98fc-da841bbc44c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "48. पुष्पी पादपों मे लैंगिक प्रजनन Part 2",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JENgRcqW1u0",
+      "hd_video_url": "https://www.youtube.com/embed/JENgRcqW1u0",
+      "thumbnail": "https://i.ytimg.com/vi/JENgRcqW1u0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- पुष्पी पादपों मे लैंगिक प्रजनन Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7941fe85-66e6-4afb-96df-6bb9be379a60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "49. पुष्पी पादपों मे लैंगिक प्रजनन Part 3",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/RJkvsEfnwco",
+      "hd_video_url": "https://www.youtube.com/embed/RJkvsEfnwco",
+      "thumbnail": "https://i.ytimg.com/vi/RJkvsEfnwco/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- पुष्पी पादपों मे लैंगिक प्रजनन Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cbfd609b-7a43-44da-9824-ddf83fde6c34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "50. पुष्पी पादपों मे लैंगिक प्रजनन Part 4",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/kCCCwnMKufM",
+      "hd_video_url": "https://www.youtube.com/embed/kCCCwnMKufM",
+      "thumbnail": "https://i.ytimg.com/vi/kCCCwnMKufM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- पुष्पी पादपों मे लैंगिक प्रजनन Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f82615e-2483-4e18-a4d9-16647802b9b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "51. पुष्पी पादपों मे लैंगिक प्रजनन Part 5",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/jDNuocmno3U",
+      "hd_video_url": "https://www.youtube.com/embed/jDNuocmno3U",
+      "thumbnail": "https://i.ytimg.com/vi/jDNuocmno3U/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- पुष्पी पादपों मे लैंगिक प्रजनन Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cb4a0f9-bfb3-45d1-820c-16a5f5436f85.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "52. पुष्पी पादपों मे लैंगिक प्रजनन Part 6",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/jKtP79DdIic",
+      "hd_video_url": "https://www.youtube.com/embed/jKtP79DdIic",
+      "thumbnail": "https://i.ytimg.com/vi/jKtP79DdIic/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- पुष्पी पादपों मे लैंगिक प्रजनन Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fc44556-935a-4a54-900f-e79b5614e3c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "53. पुष्पी पादपों मे लैंगिक प्रजनन Part 7",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/G-2oyJfvSLQ",
+      "hd_video_url": "https://www.youtube.com/embed/G-2oyJfvSLQ",
+      "thumbnail": "https://i.ytimg.com/vi/G-2oyJfvSLQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- पुष्पी पादपों मे लैंगिक प्रजनन Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ba5a59e-b370-42ac-843d-49075dabb3e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "54. पुष्पी पादपों मे लैंगिक प्रजनन Part 8",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/PqtIrLqdL_o",
+      "hd_video_url": "https://www.youtube.com/embed/PqtIrLqdL_o",
+      "thumbnail": "https://i.ytimg.com/vi/PqtIrLqdL_o/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- पुष्पी पादपों मे लैंगिक प्रजनन Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e558005-52ef-4cf0-b4e7-5873ea2f2213.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "55. जैव प्रद्योगिकी एवं उसके उपयोग  Part 1",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ilMk29hHLPY",
+      "hd_video_url": "https://www.youtube.com/embed/ilMk29hHLPY",
+      "thumbnail": "https://i.ytimg.com/vi/ilMk29hHLPY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग  Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc4a5439-68b2-4b94-b6f0-e9e09709b6ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "56. जैव प्रद्योगिकी एवं उसके उपयोग Part 2",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/xdDmeGDwlv0",
+      "hd_video_url": "https://www.youtube.com/embed/xdDmeGDwlv0",
+      "thumbnail": "https://i.ytimg.com/vi/xdDmeGDwlv0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95136b9a-4f22-40b9-989e-1e3e00d70d0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "57. जैव प्रद्योगिकी एवं उसके उपयोग Part 3",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/eRNI4zspgmY",
+      "hd_video_url": "https://www.youtube.com/embed/eRNI4zspgmY",
+      "thumbnail": "https://i.ytimg.com/vi/eRNI4zspgmY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3650eb81-2bb9-4315-82c4-7dba262525fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "58. जैव प्रद्योगिकी एवं उसके उपयोग Part 4",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/KCl3GkjxbL4",
+      "hd_video_url": "https://www.youtube.com/embed/KCl3GkjxbL4",
+      "thumbnail": "https://i.ytimg.com/vi/KCl3GkjxbL4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24dd36b7-afc2-45a1-9928-9752615c2759.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "59. जैव प्रद्योगिकी एवं उसके उपयोग Part 5",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WOYS9HfzZjQ",
+      "hd_video_url": "https://www.youtube.com/embed/WOYS9HfzZjQ",
+      "thumbnail": "https://i.ytimg.com/vi/WOYS9HfzZjQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38303730-55f1-48a6-9ba3-3ae977e9bef8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "60. जैव प्रद्योगिकी एवं उसके उपयोग Part 6",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WEBXFwGwdno",
+      "hd_video_url": "https://www.youtube.com/embed/WEBXFwGwdno",
+      "thumbnail": "https://i.ytimg.com/vi/WEBXFwGwdno/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- जैव प्रद्योगिकी एवं उसके उपयोग Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa1cb09b-2ea1-4d74-9ed2-a4e2ccbdcfef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "61. मानव जनन Part 1",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Z5hq5L1Jcsc",
+      "hd_video_url": "https://www.youtube.com/embed/Z5hq5L1Jcsc",
+      "thumbnail": "https://i.ytimg.com/vi/Z5hq5L1Jcsc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- मानव जनन Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/091d6db2-a93b-4432-a15e-6fb493b54e3a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "62. मानव जनन Part 2",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/qEw-ndkeg7A",
+      "hd_video_url": "https://www.youtube.com/embed/qEw-ndkeg7A",
+      "thumbnail": "https://i.ytimg.com/vi/qEw-ndkeg7A/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "63. मानव जनन Part 3",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/s3aEyA-Q9f4",
+      "hd_video_url": "https://www.youtube.com/embed/s3aEyA-Q9f4",
+      "thumbnail": "https://i.ytimg.com/vi/s3aEyA-Q9f4/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "64. मानव जनन Part 4",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kwR-GcNeqT4",
+      "hd_video_url": "https://www.youtube.com/embed/kwR-GcNeqT4",
+      "thumbnail": "https://i.ytimg.com/vi/kwR-GcNeqT4/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

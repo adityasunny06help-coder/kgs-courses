@@ -34,6 +34,9 @@ body{font-family:'Inter',sans-serif;background:#0a0a0f;color:#e2e8f0;min-height:
 .card:hover{background:#1e2a3a;border-color:#667eea;transform:translateY(-2px);box-shadow:0 8px 24px rgba(102,126,234,.15)}
 .name{font-size:.88rem;font-weight:500;line-height:1.4}
 .arrow{color:#667eea;font-size:1.2rem;flex-shrink:0;margin-left:12px}
+footer{text-align:center;padding:40px 20px;color:#475569;font-size:.85rem;border-top:1px solid #1f2937;margin-top:40px}
+footer a{color:#667eea;text-decoration:none}
+footer span{background:linear-gradient(135deg,#667eea,#764ba2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-weight:600}
 </style>
 </head>
 <body>
@@ -48,6 +51,9 @@ body{font-family:'Inter',sans-serif;background:#0a0a0f;color:#e2e8f0;min-height:
 <div class="grid" id="grid">
 CARDS_PLACEHOLDER
 </div>
+<footer>
+  Made with ❤️ by <span>Aditya Sunny</span>
+</footer>
 <script>
 const input = document.getElementById('search');
 const allCards = document.querySelectorAll('.card');

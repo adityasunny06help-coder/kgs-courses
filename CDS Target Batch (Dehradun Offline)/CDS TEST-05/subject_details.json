@@ -1,0 +1,49 @@
+{
+  "subject_name": "CDS TEST-05",
+  "subject_id": 5603,
+  "video_count": 2,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "CDS 01-2025 Test 05 (Paper-02) [GK]",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/qAvNI-fjUaw",
+      "hd_video_url": "https://www.youtube.com/embed/qAvNI-fjUaw",
+      "thumbnail": "https://i.ytimg.com/vi/qAvNI-fjUaw/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 05 (Paper-02) [GK] Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fab5fd8-09af-4e60-97cb-2b2c59168ed4.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 05 (Paper-02) [GK] Solution {in English}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07bf40c2-41e2-418f-8ff5-b0a0eb65bf47.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 05 (Paper-02) [GK] Solution {in Hindi}",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3da6e603-8ed4-4434-82a4-a9eecbe20c4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "CDS 01-2025 Test 05 (English)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/bsnGjEMIvlg",
+      "hd_video_url": "https://www.youtube.com/embed/bsnGjEMIvlg",
+      "thumbnail": "https://i.ytimg.com/vi/bsnGjEMIvlg/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 05 (English) Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f04aba1b-7189-46d2-8dff-f465197998f0.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 05 (English) Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c22a70e-c08b-4758-bc0e-b0f9308ef00b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

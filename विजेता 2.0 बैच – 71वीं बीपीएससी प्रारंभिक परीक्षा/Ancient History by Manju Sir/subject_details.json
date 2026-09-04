@@ -1,0 +1,46 @@
+{
+  "subject_name": "Ancient History by Manju Sir",
+  "subject_id": 8406,
+  "video_count": 3,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Ancient History by Manju Sir",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331021/kgss-1756115412-v331021.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cRUKTUdOnao",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IGNccpfp7sAp0yykzjCeYgnDoHaOsvGUJX26lsTC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || History by Manju Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee56a70a-7ce1-4d71-a7a6-0e54f050bc20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Ancient History by Manju Sir",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/331926/kgss-1756200908-v331926.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fouZ5xmgqgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0amtcOq9I4omIbTUUFdGXwiu2ZErCMP5nQNCXbKW.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Ancient History by Manju Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51d9d00c-97dd-41d5-ac9d-01580fbb83d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Ancient History by Manju Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://stream-kgs.akamaized.net/hls/kgss-1756290251-v332619.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HHL2K8WsBjQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SrpZZQ9bsupKVqxtmE2sseUTu9Pk4hwQ9KSaDj4U.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,373 @@
+{
+  "subject_name": "Power Plant by Amit Maurya Sir",
+  "subject_id": 4808,
+  "video_count": 26,
+  "note_count": 26,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Basic concepts of thermodynamics for thermal application",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/iygqT3dmDlY",
+      "hd_video_url": "https://www.youtube.com/embed/iygqT3dmDlY",
+      "thumbnail": "https://i.ytimg.com/vi/iygqT3dmDlY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Basic concepts of thermodynamics for thermal application",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f73eb4f3-7cbd-49d5-b5e2-a29f5aaf16ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Introduction of power plant and it's components",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ihaz8DrxyNw",
+      "hd_video_url": "https://www.youtube.com/embed/ihaz8DrxyNw",
+      "thumbnail": "https://i.ytimg.com/vi/ihaz8DrxyNw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Introduction of power plant and it's components",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5c764cb-e0d9-402a-ac08-66f9a2402e8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Simple Ideal Gas Power cycle and calculation of its Various parameters",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/pZGKyE4Dg1w",
+      "hd_video_url": "https://www.youtube.com/embed/pZGKyE4Dg1w",
+      "thumbnail": "https://i.ytimg.com/vi/pZGKyE4Dg1w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Simple Ideal Gas Power cycle and calculation of its Various parameters",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7380b75-78de-447b-afd6-e9511bda0e29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Modification in simple ideal gas power cycle (Regeneration modification)",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rUW5fkNuF-M",
+      "hd_video_url": "https://www.youtube.com/embed/rUW5fkNuF-M",
+      "thumbnail": "https://i.ytimg.com/vi/rUW5fkNuF-M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Modification in simple ideal gas power cycle (Regeneration modification)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/691f3f8f-05ef-4e3d-a2f2-c53d72c2cb61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Modification in simple ideal gas power cycle (intercooling & Reheating modification)",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3XO1HAMH458",
+      "hd_video_url": "https://www.youtube.com/embed/3XO1HAMH458",
+      "thumbnail": "https://i.ytimg.com/vi/3XO1HAMH458/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Modification in simple ideal gas power",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/740a93a4-d6ac-4426-9a5b-829fbdb9a2d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06|| Actual Gas power cycle",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/cOZ-tH0Tv4k",
+      "hd_video_url": "https://www.youtube.com/embed/cOZ-tH0Tv4k",
+      "thumbnail": "https://i.ytimg.com/vi/cOZ-tH0Tv4k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Actual Gas power cycle.",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14a67640-183f-4b74-8b8d-030d28645008.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Basic of Stream power cycle (Simple and ideal Rankine Cycle).",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-Ve8T3g1PKU",
+      "hd_video_url": "https://www.youtube.com/embed/-Ve8T3g1PKU",
+      "thumbnail": "https://i.ytimg.com/vi/-Ve8T3g1PKU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Basic of Stream power cycle (Simple and ideal Rankine Cycle).",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09636b5b-adb5-4d6a-a266-ff6d4edf30f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Modification in Rankine cycle (Reheating in Rankine cycle)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/euzqi2SBNRg",
+      "hd_video_url": "https://www.youtube.com/embed/euzqi2SBNRg",
+      "thumbnail": "https://i.ytimg.com/vi/euzqi2SBNRg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Modification in Rankine cycle (Reheating in Rankine cycle)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f27dbb60-ff9b-4590-b625-359e337365e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 ||  Modification in Rankine cycle (Regeneration in Rankine cycle)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/I-hZDRXwqqg",
+      "hd_video_url": "https://www.youtube.com/embed/I-hZDRXwqqg",
+      "thumbnail": "https://i.ytimg.com/vi/I-hZDRXwqqg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 ||  Modification in Rankine cycle (Regeneration in Rankine cycle)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06bf027a-1034-4d3b-a20f-4bc3c4899cee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Actual Rankine cycle",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/IRVqF7AumqI",
+      "hd_video_url": "https://www.youtube.com/embed/IRVqF7AumqI",
+      "thumbnail": "https://i.ytimg.com/vi/IRVqF7AumqI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Actual Rankine cycle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c897258-e3e8-46ed-a1bb-065f90b92b74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Introduction of Air compressor and its classification",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fLAwbSnUyeY",
+      "hd_video_url": "https://www.youtube.com/embed/fLAwbSnUyeY",
+      "thumbnail": "https://i.ytimg.com/vi/fLAwbSnUyeY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Introduction of Air compressor and its classification",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73ac0305-1ca3-4ef5-9194-c49981a3ed94.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Reciprocating compressor design and working",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fES3W1Z6jd8",
+      "hd_video_url": "https://www.youtube.com/embed/fES3W1Z6jd8",
+      "thumbnail": "https://i.ytimg.com/vi/fES3W1Z6jd8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Reciprocating compressor design and working",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bb31b2d-0ce3-4f23-a773-1543928054cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Performance parameters Of Reciprocating Compressor",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4wtQoIO50fM",
+      "hd_video_url": "https://www.youtube.com/embed/4wtQoIO50fM",
+      "thumbnail": "https://i.ytimg.com/vi/4wtQoIO50fM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Performance parameters Of Reciprocating Compressor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39020fe6-731e-40aa-982d-adde2a69340d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Basic Design of centrifugal compressor and Concept of Stagnation States",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2a-x2lTOOLU",
+      "hd_video_url": "https://www.youtube.com/embed/2a-x2lTOOLU",
+      "thumbnail": "https://i.ytimg.com/vi/2a-x2lTOOLU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Basic Design of centrifugal compressor and Concept of Stagnation States",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/235f21fe-3e74-4a44-b5c9-70984edec9c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Construction of velocity triangle for centrifugal compressor and calculation of various parameters",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/3IzQEDi5Grg",
+      "hd_video_url": "https://www.youtube.com/embed/3IzQEDi5Grg",
+      "thumbnail": "https://i.ytimg.com/vi/3IzQEDi5Grg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Construction of velocity triangle for centrifugal compressor and calculation of various parameters",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16b5e1c3-bb7e-4486-b884-e374ffbaf2ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Concept of Slip, factors & Euler's Power",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/De_NRkjom80",
+      "hd_video_url": "https://www.youtube.com/embed/De_NRkjom80",
+      "thumbnail": "https://i.ytimg.com/vi/De_NRkjom80/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Concept of Slip, factors & Euler's Power",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18e5e747-1cb8-46fa-a6be-21dd1d883c65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Surging, chocking, and Prewhirling in centrifugal compressor",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/5w_D8lSmeBc",
+      "hd_video_url": "https://www.youtube.com/embed/5w_D8lSmeBc",
+      "thumbnail": "https://i.ytimg.com/vi/5w_D8lSmeBc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Surging, chocking, and Prewhirling in centrifugal compressor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3fd97fb-b103-4efb-bb13-4da4f19081e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Design and working of Axial flow compressor",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/2XLid8b41Vs",
+      "hd_video_url": "https://www.youtube.com/embed/2XLid8b41Vs",
+      "thumbnail": "https://i.ytimg.com/vi/2XLid8b41Vs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Design and working of Axial flow compressor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4bfcb6f-a06a-4e61-ba43-cdfa237efe31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 | Mathematical analysis of axial flow compressor",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ooSUEWzT5DU",
+      "hd_video_url": "https://www.youtube.com/embed/ooSUEWzT5DU",
+      "thumbnail": "https://i.ytimg.com/vi/ooSUEWzT5DU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 | Mathematical analysis of axial flow compressor",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d1aad28-7dc1-4fe9-9e2e-03338bea071d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Introduction of Stream turbines and its Classfication Based on various Parameters",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/B20_6QHDlfA",
+      "hd_video_url": "https://www.youtube.com/embed/B20_6QHDlfA",
+      "thumbnail": "https://i.ytimg.com/vi/B20_6QHDlfA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Introduction of Stream turbines and its Classfication Based on various Parameters",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/162f90f5-93dd-4ae5-8eda-94ee361fa75a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Doubt Session",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/u6cqfh5OBTA",
+      "hd_video_url": "https://www.youtube.com/embed/u6cqfh5OBTA",
+      "thumbnail": "https://i.ytimg.com/vi/u6cqfh5OBTA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Doubt Session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f03ecfdf-6ed8-4c88-96c0-8cf315f8fa54.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Concept of Simple impulse\nSteam Turbines (Delaval Turbines)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/fjZeeXW76CI",
+      "hd_video_url": "https://www.youtube.com/embed/fjZeeXW76CI",
+      "thumbnail": "https://i.ytimg.com/vi/fjZeeXW76CI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Concept of Simple impulse Steam Turbines (Delaval Turbines)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5aa3d86-3aa4-454e-a602-9a0b586c683d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Construction of Velocity \nTriangle for Steam Turbines and Calculation \nof its Various Parameters",
+      "published_date": "23 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/4KBcJ7betGw",
+      "hd_video_url": "https://www.youtube.com/embed/4KBcJ7betGw",
+      "thumbnail": "https://i.ytimg.com/vi/4KBcJ7betGw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Construction of Velocity  Triangle for Steam Turbines and Calculation  of its Various Parameters",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c5110cd-8c49-4c78-ba76-2099e735f052.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Velocity and Pressure \nCompounding of Impulse Steam Turbines \n(Curtis and Rateau Turbine)",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Yy1EjjbxkX8",
+      "hd_video_url": "https://www.youtube.com/embed/Yy1EjjbxkX8",
+      "thumbnail": "https://i.ytimg.com/vi/Yy1EjjbxkX8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Velocity and Pressure  Compounding of Impulse Steam Turbines  (Curtis and Rateau Turbine)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44afe562-c24f-437c-b07f-7cf73845ad03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 ||  Various Performance \nparameters of Steam Turbine",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/2SsbaiB930Y",
+      "hd_video_url": "https://www.youtube.com/embed/2SsbaiB930Y",
+      "thumbnail": "https://i.ytimg.com/vi/2SsbaiB930Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 ||  Various Performance  parameters of Steam Turbine",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4226005d-980f-4abf-9a19-3acf96daf6c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Problems based on Steam \nturbines",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7us_ymXPHDc",
+      "hd_video_url": "https://www.youtube.com/embed/7us_ymXPHDc",
+      "thumbnail": "https://i.ytimg.com/vi/7us_ymXPHDc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Problems based on Steam  turbines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d675f9fe-103a-4fcb-8a8a-adccc612bfed.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

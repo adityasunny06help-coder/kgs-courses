@@ -1,0 +1,163 @@
+{
+  "subject_name": "Physics by Avinash Sir",
+  "subject_id": 5597,
+  "video_count": 11,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Unit (Part-01) || मात्रक (भाग-01)",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/3WE529i07jU",
+      "hd_video_url": "https://www.youtube.com/embed/3WE529i07jU",
+      "thumbnail": "https://i.ytimg.com/vi/3WE529i07jU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Unit (Part-01) || मात्रक (भाग-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1d8521e-c405-404b-a4b6-ccf6835000a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || प्रकाश (Optics ) (Part-01)",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/u7vEBWmvST8",
+      "hd_video_url": "https://www.youtube.com/embed/u7vEBWmvST8",
+      "thumbnail": "https://i.ytimg.com/vi/u7vEBWmvST8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || प्रकाश (Optics ) (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4e264bb-1e77-48b3-893c-a7f03c7ced7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || प्रकाश (Optics ) (Part-02)",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/SznmeKa3dKQ",
+      "hd_video_url": "https://www.youtube.com/embed/SznmeKa3dKQ",
+      "thumbnail": "https://i.ytimg.com/vi/SznmeKa3dKQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || प्रकाश (Optics ) (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9385f45d-9c28-4212-a745-7371157697e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || प्रकाश (Optics ) (Part-03)",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Kout0P8b3zo",
+      "hd_video_url": "https://www.youtube.com/embed/Kout0P8b3zo",
+      "thumbnail": "https://i.ytimg.com/vi/Kout0P8b3zo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || प्रकाश (Optics ) (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23422395-edea-42cd-a8a0-359f66264759.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || प्रकाश (Optics ) (Part-04)",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Dv_uaeYnlK4",
+      "hd_video_url": "https://www.youtube.com/embed/Dv_uaeYnlK4",
+      "thumbnail": "https://i.ytimg.com/vi/Dv_uaeYnlK4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || प्रकाश (Optics ) (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f20cbdc5-fdbe-42a2-98a4-d51c9a67a68b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || प्रकाश (Optics ) (Part-05)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/xU8IFeta1iA",
+      "hd_video_url": "https://www.youtube.com/embed/xU8IFeta1iA",
+      "thumbnail": "https://i.ytimg.com/vi/xU8IFeta1iA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || प्रकाश (Optics ) (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0088cf4a-54e5-438b-af8b-30f12d7298af.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || प्रकाश (Optics ) (Part-06)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/1gCT9TNSeac",
+      "hd_video_url": "https://www.youtube.com/embed/1gCT9TNSeac",
+      "thumbnail": "https://i.ytimg.com/vi/1gCT9TNSeac/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || प्रकाश (Optics ) (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87303c59-6aff-43db-991c-33a153299f8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || प्रकाश (Optics ) (Part-07)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/EqkQpymVRp8",
+      "hd_video_url": "https://www.youtube.com/embed/EqkQpymVRp8",
+      "thumbnail": "https://i.ytimg.com/vi/EqkQpymVRp8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || प्रकाश (Optics ) (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/896e7df4-a0c1-40d3-84ed-dfd676a565b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || प्रकाश (Optics ) (Part-08)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/HzURWrewVs8",
+      "hd_video_url": "https://www.youtube.com/embed/HzURWrewVs8",
+      "thumbnail": "https://i.ytimg.com/vi/HzURWrewVs8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || प्रकाश (Optics ) (Part-08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b0637b4-547e-4f02-aa50-491f944ae807.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || प्रकाश (Optics ) (Part-09)",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/jzLvO_UWAXU",
+      "hd_video_url": "https://www.youtube.com/embed/jzLvO_UWAXU",
+      "thumbnail": "https://i.ytimg.com/vi/jzLvO_UWAXU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || प्रकाश (Optics ) (Part-09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ea1eb11-cef8-473e-aeac-00ec68ec8b80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || प्रकाश (Optics ) (Part-10)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/QpoGOj3u0vk",
+      "hd_video_url": "https://www.youtube.com/embed/QpoGOj3u0vk",
+      "thumbnail": "https://i.ytimg.com/vi/QpoGOj3u0vk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || प्रकाश (Optics ) (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a1ee11c-bfec-4eea-97ee-167ce31f917c.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

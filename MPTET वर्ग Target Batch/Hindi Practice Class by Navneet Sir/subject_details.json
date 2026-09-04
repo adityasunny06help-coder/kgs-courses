@@ -1,0 +1,65 @@
+{
+  "subject_name": "Hindi Practice Class by Navneet Sir",
+  "subject_id": 3899,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1  || Hindi Practice class by Navneet Sir",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/VAoxOXZ0Qts",
+      "hd_video_url": "https://www.youtube.com/embed/VAoxOXZ0Qts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v7IdEHdxEmUp3BJcJppFg654tBHBta1xpJkZA08P.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1  || Hindi Practice class by Navneet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87e3a72e-74f8-496d-8a95-d365ffc3f62a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Hindi Practice class",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/9tZB4yeE6G0",
+      "hd_video_url": "https://www.youtube.com/embed/9tZB4yeE6G0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Z4ahlwuIfC77WBz2F8uG6M6nwoIgLrxbkqxjBf38.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Hindi Practice class by Navneet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a216fc57-8535-45d5-834e-9c7cc4b5795e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Hindi Practice class by Navneet Sir",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/MX3lcGBWtMM",
+      "hd_video_url": "https://www.youtube.com/embed/MX3lcGBWtMM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XU8UkbxRtQtMqNpR7zhlYkUtvrnfcvAnX9Yl9Hcw.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Hindi Practice class by Navneet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b89a9f12-c12b-49dc-bda5-8757ef3ac663.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Hindi Practice class by Navneet Sir",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/m-DwayykMyo",
+      "hd_video_url": "https://www.youtube.com/embed/m-DwayykMyo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zQoLaYck8ME5Nv4AcJ1RZjsG9kFkoeTavGPpv9yk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Hindi Practice class by Navneet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e5f5c7b-1e32-4455-b345-1325045c3f44.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,709 @@
+{
+  "subject_name": "Mathematical Reasoning and Aptitude by Dhrub Singh Sir",
+  "subject_id": 2753,
+  "video_count": 50,
+  "note_count": 50,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Average (Part-1)",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/lYhZTcdI578",
+      "hd_video_url": "https://www.youtube.com/embed/lYhZTcdI578",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Average (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/478d8b36-d0d3-4cb3-99bb-e591bb91ebc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Average || अवसत (Part-2)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/2LRw1Nso0vs",
+      "hd_video_url": "https://www.youtube.com/embed/2LRw1Nso0vs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Average || अवसत (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03e44a44-08fc-4dbd-b7d8-8795e31adf9e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Average || अवसत (Part-3)",
+      "published_date": "22 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/wWmv_d7oLZk",
+      "hd_video_url": "https://www.youtube.com/embed/wWmv_d7oLZk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Average || अवसत (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b41964a-ca84-43d0-a895-d96095fb3b03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Time, Speed and Distance (समय, गति और दूरी) Part-01",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/IoHeaiDuRpE",
+      "hd_video_url": "https://www.youtube.com/embed/IoHeaiDuRpE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Average || अवसत (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ee08667-5ea2-4e60-88a8-0d4e862fc0d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Time, Speed and Distance (समय, गति और दूरी) Part-02",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/zAgvh56Eh5k",
+      "hd_video_url": "https://www.youtube.com/embed/zAgvh56Eh5k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Time, Speed and Distance (समय, गति और दूरी) Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49dc461b-ea5a-461c-b65b-b2cc084278d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Time, Speed and Distance (समय, गति और दूरी) Part-03",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/pCX9HakUY68",
+      "hd_video_url": "https://www.youtube.com/embed/pCX9HakUY68",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "lecture06time,speedanddistancepart03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec2d6464-7ad7-40ab-a339-a9d9a8be7875.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Time, Speed and Distance (समय, गति और दूरी) Part-04",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/5IXRKC7g6qs",
+      "hd_video_url": "https://www.youtube.com/embed/5IXRKC7g6qs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "lecture07timespeedanddistancepart04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4105464b-8a05-4ced-8cdb-82a19f3006a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Time, Speed and Distance (समय, गति और दूरी) Part-05",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/giAv2_A6_y0",
+      "hd_video_url": "https://www.youtube.com/embed/giAv2_A6_y0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 || Time, Speed and Distance (समय, गति और दूरी) Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5131f81c-5c46-4500-bf41-ce0341716daa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Time, Speed and Distance (समय, गति और दूरी) Part-06",
+      "published_date": "29 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/d_Co9MmKf4o",
+      "hd_video_url": "https://www.youtube.com/embed/d_Co9MmKf4o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-09 || Time, Speed and Distance (समय, गति और दूरी) Part-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0edf4481-672c-4948-8893-1b757f97cba5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Time and Work ( समय और काम )",
+      "published_date": "01 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/mbSM6A4kWjg",
+      "hd_video_url": "https://www.youtube.com/embed/mbSM6A4kWjg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-10 || Time and Work ( समय और काम )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bca219b-f9ba-4aad-8af6-d9e0834e22ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Time and Work ( समय और काम ) Part-02",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Nh_PEJksjtM",
+      "hd_video_url": "https://www.youtube.com/embed/Nh_PEJksjtM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-11 || Time and Work ( समय और काम ) Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/932f750d-18ad-4a1f-a5ae-08200b762b9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Time and Work ( समय और काम ) Part-03",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/OJUzPmnuvkM",
+      "hd_video_url": "https://www.youtube.com/embed/OJUzPmnuvkM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-12 || Time and Work ( समय और काम ) Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3278102a-8b14-4387-99e7-3a783bfb21f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Time and Work ( समय और काम ) Part-04",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/6zC4Zsb7898",
+      "hd_video_url": "https://www.youtube.com/embed/6zC4Zsb7898",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-13 || Time and Work ( समय और काम ) Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42b41c66-3490-42f4-b6d5-2ffb95ad9d36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Time and Work ( समय और काम ) Part-05",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/2lM6vxdJ-bw",
+      "hd_video_url": "https://www.youtube.com/embed/2lM6vxdJ-bw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-14 || Time and Work ( समय और काम ) Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/308022d4-58cc-41f9-bb59-e3fedad20dd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Time and Work ( समय और काम ) Part-06",
+      "published_date": "06 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/SWlw2-4mc4s",
+      "hd_video_url": "https://www.youtube.com/embed/SWlw2-4mc4s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-15 || Time and Work ( समय और काम ) Part-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b483876-35e9-4f18-91bd-7f5d9ec81c57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Percentage ( प्रतिशत ) Part-01",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pky11y-n9IE",
+      "hd_video_url": "https://www.youtube.com/embed/pky11y-n9IE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-16 || Percentage ( प्रतिशत ) Part-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bc63b56-ae3b-4a7f-97ea-437c0d2258bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Percentage ( प्रतिशत ) Part-02",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/TBkQ7epUSNI",
+      "hd_video_url": "https://www.youtube.com/embed/TBkQ7epUSNI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-17 || Percentage ( प्रतिशत ) Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41df9c82-1fce-4fdb-96c2-7df5aa271a2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Percentage ( प्रतिशत ) Part-03",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/FgtLO6hrAog",
+      "hd_video_url": "https://www.youtube.com/embed/FgtLO6hrAog",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-18 || Percentage ( प्रतिशत ) Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/229e6d1a-516d-4a7e-9d97-0e5a239747e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Percentage ( प्रतिशत ) Part-04",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/47Imc403mHo",
+      "hd_video_url": "https://www.youtube.com/embed/47Imc403mHo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-19 || Percentage ( प्रतिशत ) Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1e6d263-fcc3-4f8e-82bb-32730d157722.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Percentage ( प्रतिशत ) Part-05",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/xIC3u8Nzzyg",
+      "hd_video_url": "https://www.youtube.com/embed/xIC3u8Nzzyg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || Percentage ( प्रतिशत ) Part-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6d64a57-aa06-423f-a19a-eff4b4de7480.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Percentage ( प्रतिशत ) Part-06",
+      "published_date": "13 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/CZncXrZFQc4",
+      "hd_video_url": "https://www.youtube.com/embed/CZncXrZFQc4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "lecture-21-percentage",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/450b6d2b-6eec-45db-84a4-cacc5c2331d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Percentage ( प्रतिशत ) Part-07",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/KQN25qqukOY",
+      "hd_video_url": "https://www.youtube.com/embed/KQN25qqukOY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l-22-maths-reasoning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f71ac6be-7aee-42e0-b244-743f662b27ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Percentage ( प्रतिशत ) Part-08",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/YvVToiAQp_Q",
+      "hd_video_url": "https://www.youtube.com/embed/YvVToiAQp_Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l-23-maths-reasoning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64b941b3-7a0b-43d2-af0e-f23dac0880b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Percentage ( प्रतिशत ) Part-09",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/mj7NB1Ucbhs",
+      "hd_video_url": "https://www.youtube.com/embed/mj7NB1Ucbhs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l24-maths-aptitude",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f0e3824-4b00-4c71-aaac-8b619377adbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Percentage ( प्रतिशत ) Part-10",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/cz9lJAAY4RQ",
+      "hd_video_url": "https://www.youtube.com/embed/cz9lJAAY4RQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || Percentage ( प्रतिशत ) Part-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa5649bf-b3b4-4670-8f5a-e27b839ff8b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Percentage ( प्रतिशत ) Part-11",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/-AxzRj8vjMQ",
+      "hd_video_url": "https://www.youtube.com/embed/-AxzRj8vjMQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-26 || Percentage ( प्रतिशत ) Part-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8a4e1b2-510a-48d2-93b3-b5c024fac3ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Percentage ( प्रतिशत ) Part-12",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/lWjzFzwdt30",
+      "hd_video_url": "https://www.youtube.com/embed/lWjzFzwdt30",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-27 || Percentage ( प्रतिशत ) Part-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0eee56f3-5c90-48b3-9f9c-f244becbc3bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Interest ( ब्याज ) Part -01",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/peYoZiSdRMM",
+      "hd_video_url": "https://www.youtube.com/embed/peYoZiSdRMM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-28 || Interest ( ब्याज ) Part -01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfb2212e-5ed7-4dea-bfc8-d14dd861c927.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Interest ( ब्याज ) Part -02",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/0OeNGPnfbpE",
+      "hd_video_url": "https://www.youtube.com/embed/0OeNGPnfbpE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-29 || Interest ( ब्याज ) Part -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b07a014-add3-4857-acc4-13bbec6462aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Interest ( ब्याज ) Part -03",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/0xj9sz-vf5s",
+      "hd_video_url": "https://www.youtube.com/embed/0xj9sz-vf5s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-30 || Interest ( ब्याज ) Part -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49737faa-c1a0-42c2-88d5-5bd64fd52b6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Interest ( ब्याज ) Part -04",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/trR_Y0d4exk",
+      "hd_video_url": "https://www.youtube.com/embed/trR_Y0d4exk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Interest ( ब्याज ) Part -04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a5a88a5-7a2d-48c3-911e-c55797221626.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Interest ( ब्याज ) Part -05",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/wf26t9erZZY",
+      "hd_video_url": "https://www.youtube.com/embed/wf26t9erZZY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || Interest ( ब्याज ) Part -05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cbe0f84c-4a2f-412b-9c93-5859c1428a7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Interest ( ब्याज ) Part -06",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/To9IgmE0Lkk",
+      "hd_video_url": "https://www.youtube.com/embed/To9IgmE0Lkk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-33 || Interest ( ब्याज ) Part -06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b163f71-9301-4779-b6d5-88611c919c4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Interest ( ब्याज ) Part -07",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/80FU3otT5zg",
+      "hd_video_url": "https://www.youtube.com/embed/80FU3otT5zg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-34 || Interest ( ब्याज ) Part -07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28ed0593-febd-4b62-8006-04ace235aa6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Alligation ( एलगेशन ) Part -01",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/2Ha6pH60CWo",
+      "hd_video_url": "https://www.youtube.com/embed/2Ha6pH60CWo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "lecture35alligationpart01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a1c4d25-c3ee-41e9-855d-3102ee0d2d47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Alligation ( एलगेशन ) Part -02",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Tut9bTO1ltg",
+      "hd_video_url": "https://www.youtube.com/embed/Tut9bTO1ltg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-36 || Alligation ( एलगेशन ) Part -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ba4f55b-2cb3-4fa3-8356-01642b3fbab0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Ratio & proportion ( अनुपात और समानुपात ) Part-01",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/h8dzZswwnns",
+      "hd_video_url": "https://www.youtube.com/embed/h8dzZswwnns",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-37 || Ratio & proportion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b957e81-91a2-4ab6-b182-4c076b95da5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Ratio & proportion ( अनुपात और समानुपात ) Part-02",
+      "published_date": "10 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/I_IS0fyO7Pk",
+      "hd_video_url": "https://www.youtube.com/embed/I_IS0fyO7Pk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-38 || Ratio & proportion ( अनुपात और समानुपात ) Part-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/daa0e17d-f96a-43be-a256-ed38677c96a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Ratio & proportion ( अनुपात और समानुपात ) Part-03",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/LihX5Mgd1xc",
+      "hd_video_url": "https://www.youtube.com/embed/LihX5Mgd1xc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-39 || Ratio & proportion ( अनुपात और समानुपात ) Part-03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c8d8732-6db3-470b-b10d-5147818af1db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Ratio & proportion ( अनुपात और समानुपात ) Part-04",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/FqV0pmXwrz4",
+      "hd_video_url": "https://www.youtube.com/embed/FqV0pmXwrz4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-40 || Ratio & proportion ( अनुपात और समानुपात ) Part-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0304fe4-7216-41d3-be4d-7c7a8697971e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -01",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/v95f3TuCxGA",
+      "hd_video_url": "https://www.youtube.com/embed/v95f3TuCxGA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-41 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a719a4ba-7695-495b-bfd7-a7cffc49a154.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -02",
+      "published_date": "20 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/O2q6OPBuBDw",
+      "hd_video_url": "https://www.youtube.com/embed/O2q6OPBuBDw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-42 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39d702cc-24df-4a7b-9294-08f6b2829798.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -03",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/QJGd8BVy-SI",
+      "hd_video_url": "https://www.youtube.com/embed/QJGd8BVy-SI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-43 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d600ea3-dc5b-4387-92b1-d76f545258f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -04",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/YqH776anlkg",
+      "hd_video_url": "https://www.youtube.com/embed/YqH776anlkg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-44 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de715f7b-0b70-4c29-9cc9-cd29a3caf7d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -05",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/jzUEu3_NdHY",
+      "hd_video_url": "https://www.youtube.com/embed/jzUEu3_NdHY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-45 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5d4bd3d-a3b0-4ad2-aa8e-2692ccc4849e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -06",
+      "published_date": "24 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/PzF1TmFnovE",
+      "hd_video_url": "https://www.youtube.com/embed/PzF1TmFnovE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-46 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b70c8e7-8596-42ed-b343-ecb579bedf09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -07",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/x_6oDLyS0hQ",
+      "hd_video_url": "https://www.youtube.com/embed/x_6oDLyS0hQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-47 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21a356e7-784e-45a5-bd53-30dc667927b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -08",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/mgYHXFzMQ1E",
+      "hd_video_url": "https://www.youtube.com/embed/mgYHXFzMQ1E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-48 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/854fce29-a303-4e53-b09a-43b6dd23beac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -09",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/gu4qKKNzFeE",
+      "hd_video_url": "https://www.youtube.com/embed/gu4qKKNzFeE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-49 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/481762ed-b5c2-4b48-8020-381dafc6c565.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -10",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/gCpRNIubL6I",
+      "hd_video_url": "https://www.youtube.com/embed/gCpRNIubL6I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-50 || Coding and Decoding ( कोडिंग और डिकोडिंग ) Part -10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b07e31cc-55ad-4cb6-a5e6-05c01284cfee.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

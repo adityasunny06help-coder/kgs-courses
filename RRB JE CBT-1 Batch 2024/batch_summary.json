@@ -1,0 +1,100 @@
+{
+  "batch_info": {
+    "title": "RRB JE CBT-1 Batch 2024",
+    "price": "499",
+    "id": "388",
+    "extracted_date": "2025-08-27T15:52:16.359128"
+  },
+  "subjects": [
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 3678,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Physics by Deepa Ma'am",
+      "id": 3907,
+      "video_count": 44,
+      "note_count": 44
+    },
+    {
+      "name": "Economics By Sukesh Sir",
+      "id": 3930,
+      "video_count": 1,
+      "note_count": 2
+    },
+    {
+      "name": "History by Anjali Ma'am",
+      "id": 3976,
+      "video_count": 30,
+      "note_count": 31
+    },
+    {
+      "name": "Current Affairs by Yadvendra sir",
+      "id": 3977,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Static G.K by Shivam Sir",
+      "id": 4269,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "Polity by Prabhu Sir",
+      "id": 4286,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 4295,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Art & Culture by Anjali Ma'am",
+      "id": 4448,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Workshop",
+      "id": 6143,
+      "video_count": 3,
+      "note_count": 1
+    },
+    {
+      "name": "Reasoning by Kartik Sir",
+      "id": 3161,
+      "video_count": 54,
+      "note_count": 54
+    },
+    {
+      "name": "Biology by Satpreet Ma'am",
+      "id": 3165,
+      "video_count": 47,
+      "note_count": 49
+    },
+    {
+      "name": "Maths by Amit Sharma Sir",
+      "id": 3179,
+      "video_count": 63,
+      "note_count": 63
+    },
+    {
+      "name": "Mega Workshop",
+      "id": 3745,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry by Gyan Sir",
+      "id": 3831,
+      "video_count": 39,
+      "note_count": 39
+    }
+  ]
+}

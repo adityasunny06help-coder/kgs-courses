@@ -1,0 +1,648 @@
+{
+  "subject_name": "Chemistry by Shailendra Sir",
+  "subject_id": 2773,
+  "video_count": 46,
+  "note_count": 45,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class",
+      "published_date": "19 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/VPt-j5c_u7c",
+      "hd_video_url": "https://www.youtube.com/embed/VPt-j5c_u7c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CCG0dFOlYBjBTPrZmSmlBPgDLOZ4cP1Ax4zQ4Mwo.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-01 || Matter (Part 01)",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/FQ3u93sbwFU",
+      "hd_video_url": "https://www.youtube.com/embed/FQ3u93sbwFU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Matter (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ae1bceb-e481-4747-b1bc-bf2d0477bb54.12"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-02 || Matter (Part 02)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/e3L1dwz2Fdg",
+      "hd_video_url": "https://www.youtube.com/embed/e3L1dwz2Fdg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Periodic Table (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbbbb838-017b-4f49-a4bc-e8dec5ed5a04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-03 || Matter (Part 03)",
+      "published_date": "24 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/TKm-KECrvyE",
+      "hd_video_url": "https://www.youtube.com/embed/TKm-KECrvyE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Matter (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b155f68-7539-4950-8963-ca7ca2552777.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-04 || Structure of Atom || परमाणु की संरचना (Part 1)",
+      "published_date": "25 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/yiISaprEwtU",
+      "hd_video_url": "https://www.youtube.com/embed/yiISaprEwtU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || Structure of Atom || परमाणु की संरचना (Part 1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57f35a47-8998-4fe4-be43-7b71803932eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-05 || Chemical Formula || रासायनिक सूत्र",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/8M2b2DyF6uc",
+      "hd_video_url": "https://www.youtube.com/embed/8M2b2DyF6uc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52873cd2-734f-4362-8118-7e8d2b8db31f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-06 || Compound & Mixture || योगिक एवं मिश्रण",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/e-Eev2l78ek",
+      "hd_video_url": "https://www.youtube.com/embed/e-Eev2l78ek",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-06 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1710f0e-c21e-4ebd-a838-06eb47fd9478.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-07 || Atomic Structure || परमाणु संरचना",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/tknqCvI4y4M",
+      "hd_video_url": "https://www.youtube.com/embed/tknqCvI4y4M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb881167-7a19-4886-aa01-74e39aab3dd0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-08 || Atomic Structure (Part 02) || परमाणु संरचना (Part 02)",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/HyHYuEdGlwk",
+      "hd_video_url": "https://www.youtube.com/embed/HyHYuEdGlwk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 || Atomic Structure (Part 02) || परमाणु संरचना (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/effe4e7d-7c68-414e-8d94-3af672a84b03.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-09 || Atomic Structure (Part 03) || परमाणु संरचना (Part 03)",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ru9TYZRwNdk",
+      "hd_video_url": "https://www.youtube.com/embed/ru9TYZRwNdk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-09 || Atomic Structure (Part 03) || परमाणु संरचना (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6680bb1-b628-4e32-b580-d4ca7f835f5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-10 || Atomic Structure (Part 04) || परमाणु संरचना (Part 04)",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/dH2uRVAmCkM",
+      "hd_video_url": "https://www.youtube.com/embed/dH2uRVAmCkM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-10 || Atomic Structure (Part 04) || परमाणु संरचना (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/063f98da-21a3-47f9-bd97-66462a14c999.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-11 || Atomic Structure (Part 05) || परमाणु संरचना (Part 05)",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/k0y1hF7Kz7M",
+      "hd_video_url": "https://www.youtube.com/embed/k0y1hF7Kz7M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-11 || Atomic Structure (Part 05) || परमाणु संरचना (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2649cbce-ba0b-4fd2-8a41-326ccfdf126c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-12 || Atomic Structure (Part 06) & Chemical Bonding (Part 01) || परमाणु संरचना (Part 06) & रासायनिक बंधन (Part 01)",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/4iFz74q97sI",
+      "hd_video_url": "https://www.youtube.com/embed/4iFz74q97sI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-12 || Atomic Structure (Part 06) || परमाणु संरचना (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d97bc135-a20f-4e24-8859-a44934dcda53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-13 || Chemical Bonding (Part 02) ||  रासायनिक बंधन (Part 02)",
+      "published_date": "10 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/6ZbQErwv41M",
+      "hd_video_url": "https://www.youtube.com/embed/6ZbQErwv41M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-13 || Chemical Bonding (Part 02) || रसायन बंधन (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4035a330-e0e2-4e08-a720-c6b96516988e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-14 || Chemical Bonding (Part 03) || रासायनिक बंधन (Part 03)",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/aF9DeMTdIAs",
+      "hd_video_url": "https://www.youtube.com/embed/aF9DeMTdIAs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-14 || Chemical Bonding (Part 03) || रासायनिक बंधन (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d023c5e5-559b-4634-a65d-71ba460f240a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-15 || Radioactivity (Part 01) || रेडियोसक्रियता (Part 01)",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/OsnJpYWIE00",
+      "hd_video_url": "https://www.youtube.com/embed/OsnJpYWIE00",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-15 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7f8d7bc-ef64-468a-bdc1-1a2957cc6166.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-16 || Radioactivity (Part 02) || रेडियोसक्रियता (Part 02)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/JcyEN7cGezs",
+      "hd_video_url": "https://www.youtube.com/embed/JcyEN7cGezs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-16 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/651003ce-6a5b-43b1-bbc1-e8159a8d964c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-17 || Radioactivity (Part 03) || रेडियोसक्रियता (Part 03)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ramMiNG8dd4",
+      "hd_video_url": "https://www.youtube.com/embed/ramMiNG8dd4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-17 || Radioactivity (Part 03) || रेडियोसक्रियता (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02123aa8-32b4-4912-83e7-628845ac85f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-18 || Radioactivity (Part 04) || रेडियोसक्रियता (Part 04)",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/kvF9ebeG1UE",
+      "hd_video_url": "https://www.youtube.com/embed/kvF9ebeG1UE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-18 || Radioactivity (Part 04) || रेडियोसक्रियता (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a12c2df-25a0-41ef-a5f7-745b307263a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-19 || Mole Concept",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/_WRQuiycXbk",
+      "hd_video_url": "https://www.youtube.com/embed/_WRQuiycXbk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-19 || Mole Concept",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b98079a6-129c-455a-a1d0-7b0882d2c7d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-20 || Acid, Base & Salt (Part 01)",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/0_bWIuLHa4o",
+      "hd_video_url": "https://www.youtube.com/embed/0_bWIuLHa4o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-20 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fc358ff-eaa4-4ec8-8123-41ce745191bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-21 || Acid, Base & Salt (Part 02)",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/YKXpzCijELA",
+      "hd_video_url": "https://www.youtube.com/embed/YKXpzCijELA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-21 || Acid, Base & Salt (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/667e504a-2634-47a1-aaae-af45eff38c35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-22 || Acid, Base & Salt (Part 03)",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/g08ZPxvKBgY",
+      "hd_video_url": "https://www.youtube.com/embed/g08ZPxvKBgY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-22 || Acid, Base & Salt (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c234d12-dd90-4c56-91ae-20965001c868.59"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-23 || Acid, Base & Salt (Part 04)",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/nbO15JiqlSc",
+      "hd_video_url": "https://www.youtube.com/embed/nbO15JiqlSc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-23 || Acid, Base & Salt (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/500b388a-517a-45ca-abf9-4857919f615c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-24 || Acid, Base & Salt (Part 05)",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/DkMnCl7eMJM",
+      "hd_video_url": "https://www.youtube.com/embed/DkMnCl7eMJM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-24 || Acid, Base & Salt (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea6674fb-ac3c-4cf2-b8b5-5144e7b808e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-25 || Acid, Base & Salt (Part 06) & Organic Compound",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/m8pnAqRuX1c",
+      "hd_video_url": "https://www.youtube.com/embed/m8pnAqRuX1c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-25 || Acid, Base & Salt (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4664ff84-3a86-472e-9d06-c80daf59de6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-26 || Organic Compound(Part 02)",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/aJkmcfFQ9JE",
+      "hd_video_url": "https://www.youtube.com/embed/aJkmcfFQ9JE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-26 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb2ea8e7-6d7c-4cfd-ac73-56a4bffd4c3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-27 || Organic Compound(Part 03)",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/2E8dNuLgmuk",
+      "hd_video_url": "https://www.youtube.com/embed/2E8dNuLgmuk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-27 || Organic Compound(Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80dbf6c5-306d-4e57-9b2f-5c6da10109ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-28 || Organic Compound(Part 04)",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/J7NIDBgwy08",
+      "hd_video_url": "https://www.youtube.com/embed/J7NIDBgwy08",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-28 || Organic Compound(Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c890948b-87a6-4b7f-91cf-70e56dadf1d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-29 || Organic Compound(Part 05)",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/qKprSJppJC4",
+      "hd_video_url": "https://www.youtube.com/embed/qKprSJppJC4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-29 || Organic Compound(Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1169477-b1a2-4a06-a92b-9c247f538e9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-30 || Organic Compound(Part 06)",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/OMMyRP88ccQ",
+      "hd_video_url": "https://www.youtube.com/embed/OMMyRP88ccQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-30 || Organic Compound(Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7c7c6a3-0cc7-43d0-b669-f683b29b1a0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-31 || Organic Compound(Part 07)",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/NOX8U4L5FYM",
+      "hd_video_url": "https://www.youtube.com/embed/NOX8U4L5FYM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Organic Compound(Part 07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bdaa8f5-7588-4189-b32a-fb62c9aad80c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-32 || Organic Compound(Part 08)",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/sYel-ubkmPs",
+      "hd_video_url": "https://www.youtube.com/embed/sYel-ubkmPs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || Organic Compound(Part 08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab236876-3553-4000-a629-4ebe5ebecac1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-33 || Periodic table (Part 01)",
+      "published_date": "05 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/inGuTRfngBU",
+      "hd_video_url": "https://www.youtube.com/embed/inGuTRfngBU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-33 || Organic Compound(Part 09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9d2a3d4-db03-4f91-b476-eb746a5533a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-34 || Periodic Table (Part 02)",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/pTE5cxC2Mek",
+      "hd_video_url": "https://www.youtube.com/embed/pTE5cxC2Mek",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-34 || Organic Compound(Part 10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad075de9-300b-4204-b918-1673125f970b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-35 || Periodic Table(Part 03)",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5-Q2MAH6hD0",
+      "hd_video_url": "https://www.youtube.com/embed/5-Q2MAH6hD0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-35 || Periodic Table(Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1fc3bf78-75aa-4461-bec1-067179292354.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-36 || Periodic Table (Part 04)",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/SqXzIzK6430",
+      "hd_video_url": "https://www.youtube.com/embed/SqXzIzK6430",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f76dd6964.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Periodic Table (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb391af7-efaf-44db-b64f-e71574ed107c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-37 || Periodic Table (Part 05)",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Dq8KMrfNbEM",
+      "hd_video_url": "https://www.youtube.com/embed/Dq8KMrfNbEM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f76d4e44d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Periodic Table (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b928f57-8c88-4c32-a6ba-b334493a4f8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-38 || Oxidation and Reduction (Part 01)",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/gYx7aKSZnvs",
+      "hd_video_url": "https://www.youtube.com/embed/gYx7aKSZnvs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f76cba10d.jpg",
+      "notes": [
+        {
+          "title": "Oxidation and Reduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f49b90bd-06d2-45d4-b487-7c8a969d1e63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-39 || Oxidation and Reduction (Part 02)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/aBhyZdrYH6g",
+      "hd_video_url": "https://www.youtube.com/embed/aBhyZdrYH6g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vUEzjRBaR8xv1Lv67JmepEwwwXa2X0bp1ptWbCpe.png",
+      "notes": [
+        {
+          "title": "Lecture-39 || Oxidation and Reduction (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4567dc1e-75ad-410d-94c6-7bc17ab92067.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-40 || Fuel",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/YoVhpVGm8N4",
+      "hd_video_url": "https://www.youtube.com/embed/YoVhpVGm8N4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tNbbsk87X03G3uZdTRMxVqjKjDjnKhfZtUrQRMbS.png",
+      "notes": [
+        {
+          "title": "Lecture-40 || Oxidation and Reduction (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d97491e-2336-4d0d-ae23-9698848a9863.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-41 || Fuel (Part 02)",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/OxJOy36Tf2o",
+      "hd_video_url": "https://www.youtube.com/embed/OxJOy36Tf2o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GMTtKjejbzaeex1JVQuxFXo2FjiyLEtYb9hG4K8M.png",
+      "notes": [
+        {
+          "title": "Lecture-41 || Fuel (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f5dd905-affe-4944-9e67-f582e8e6fe2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-42 || Polymer",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/VYoEfMi-L5g",
+      "hd_video_url": "https://www.youtube.com/embed/VYoEfMi-L5g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ea8Nul2JS2xOW33MSHPSGKiHfbsbEzuNGOeKHUQS.png",
+      "notes": [
+        {
+          "title": "Lecture-42 || Fuel (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfd0f4e7-3be4-4d15-9739-e343d122c14e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-43 || Polymer (Part 02)",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/oGn_RtpBTlM",
+      "hd_video_url": "https://www.youtube.com/embed/oGn_RtpBTlM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UnEeuzcSDUfm3yvaaBV8ul3Y5O7hwzELAjqECm5n.png",
+      "notes": [
+        {
+          "title": "Lecture-43 || Fuel (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21153fe3-0054-49e3-bee7-6f9c3e8bf17b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-44 || Chemistry by Shailendra Sir",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/PFuQEZ2SkRg",
+      "hd_video_url": "https://www.youtube.com/embed/PFuQEZ2SkRg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6O6tIEvODhzI19l3yIHC7HHpJT1iYZ9VOplDX7Lp.png",
+      "notes": [
+        {
+          "title": "Lecture-44 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/baf20550-72f1-4e4a-af0a-2f3a1610c59e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-45 || Chemistry by Shailendra Sir",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/i92EFtRx2sw",
+      "hd_video_url": "https://www.youtube.com/embed/i92EFtRx2sw",
+      "thumbnail": "https://i.ytimg.com/vi/i92EFtRx2sw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Chemistry by Shailendra Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d6423c7-4064-4469-b3c8-6295d2aeaef1.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "subject_name": "Demo Classes of all Subjects",
+  "subject_id": 4955,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Emergency Provision || आपातकालीन प्रावधान (Demo Class)",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Oid8BH7RVbU",
+      "hd_video_url": "https://www.youtube.com/embed/Oid8BH7RVbU",
+      "thumbnail": "https://i.ytimg.com/vi/Oid8BH7RVbU/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Iltutmish (Delhi Sultanate) || इल्तुतमिश (दिल्ली सल्तनत) Demo Class",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_iy8tgXxUM0",
+      "hd_video_url": "https://www.youtube.com/embed/_iy8tgXxUM0",
+      "thumbnail": "https://i.ytimg.com/vi/_iy8tgXxUM0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Electricity || विद्युत  (Demo Class)",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://youtube.com/live/si7HReFvSgM",
+      "hd_video_url": "https://youtube.com/live/si7HReFvSgM",
+      "thumbnail": "https://i.ytimg.com/vi//default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

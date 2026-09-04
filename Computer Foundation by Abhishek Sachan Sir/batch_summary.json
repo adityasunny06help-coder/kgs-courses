@@ -1,0 +1,22 @@
+{
+  "batch_info": {
+    "title": "Computer Foundation by Abhishek Sachan Sir",
+    "price": "299",
+    "id": "450",
+    "extracted_date": "2025-08-27T15:21:00.712927"
+  },
+  "subjects": [
+    {
+      "name": "Orientation By Abhishek Sachan Sir",
+      "id": 4255,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Computer By Abhishek Sachan Sir",
+      "id": 4275,
+      "video_count": 66,
+      "note_count": 66
+    }
+  ]
+}

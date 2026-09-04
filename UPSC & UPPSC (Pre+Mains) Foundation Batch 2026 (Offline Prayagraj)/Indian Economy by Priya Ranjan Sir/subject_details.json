@@ -1,0 +1,37 @@
+{
+  "subject_name": "Indian Economy by Priya Ranjan Sir",
+  "subject_id": 8415,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || कक्षा परिचय",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/6Qmo47qaoxQ",
+      "hd_video_url": "https://www.youtube.com/embed/6Qmo47qaoxQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wdU96WMToYYZ0obtP08ytjr5HDx96Z1hQF7SfY4I.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Indian Economy by Priya Ranjan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8dc95240-77d7-4d3f-b767-a4670e359e21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Indian Economy by Priya Ranjan Sir",
+      "published_date": "27 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/studio-75bg07zym9/kgss-1756195978-vstudio-75bg07zym9.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PS7xMhr2YMk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mge4GrXlyfoHDatea07nqkACVGlbZKCn3sH7qc3f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Indian Economy by Priya Ranjan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/864a4cc6-335f-4901-974a-bc6f4867fdce.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

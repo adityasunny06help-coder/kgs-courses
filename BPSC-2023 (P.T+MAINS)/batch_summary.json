@@ -1,0 +1,364 @@
+{
+  "batch_info": {
+    "title": "BPSC-2023 (P.T+MAINS)",
+    "price": "4500",
+    "id": "13",
+    "extracted_date": "2025-08-27T17:44:26.437862"
+  },
+  "subjects": [
+    {
+      "name": "Mapping By Ajeet Sir",
+      "id": 1436,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Statistics By L.K Jha Sir (Mains)",
+      "id": 877,
+      "video_count": 22,
+      "note_count": 0
+    },
+    {
+      "name": "Essay By Dharmendra Kumar Sir (Mains)",
+      "id": 878,
+      "video_count": 14,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs By SKC Sir(Mains)",
+      "id": 942,
+      "video_count": 24,
+      "note_count": 0
+    },
+    {
+      "name": "Geography By Ajit Sir (Mains)",
+      "id": 998,
+      "video_count": 45,
+      "note_count": 0
+    },
+    {
+      "name": "Orientation Class",
+      "id": 1014,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Polity By Karan Sir (Mains)",
+      "id": 1046,
+      "video_count": 43,
+      "note_count": 0
+    },
+    {
+      "name": "Economy By Dr. Bharat sir(Mains)",
+      "id": 1056,
+      "video_count": 28,
+      "note_count": 0
+    },
+    {
+      "name": "Arts & Culture By Jaswant Sir",
+      "id": 1193,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "History by Manju Sir (Mains)",
+      "id": 1194,
+      "video_count": 23,
+      "note_count": 0
+    },
+    {
+      "name": "Sociology Based Essay By Dharmendra Sir (Mains)",
+      "id": 1251,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Hindi By Jitendra Sir(Mains)",
+      "id": 1252,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Sociology Based Essay By Dharmendra Sir (Mains)",
+      "id": 1257,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Special (Revision)",
+      "id": 1295,
+      "video_count": 35,
+      "note_count": 14
+    },
+    {
+      "name": "Current Affairs By khan Sir (Revision)",
+      "id": 1316,
+      "video_count": 8,
+      "note_count": 1
+    },
+    {
+      "name": "Science and Tech. By Sumit Sir (Mains)",
+      "id": 876,
+      "video_count": 31,
+      "note_count": 0
+    },
+    {
+      "name": "Polity By Karan Sir (70th Batch)",
+      "id": 1724,
+      "video_count": 18,
+      "note_count": 11
+    },
+    {
+      "name": "Geography By Ajeet Sir (70th Batch)",
+      "id": 1725,
+      "video_count": 21,
+      "note_count": 15
+    },
+    {
+      "name": "Ancient History By Manju Sir (70th BPSC)",
+      "id": 1953,
+      "video_count": 23,
+      "note_count": 22
+    },
+    {
+      "name": "Biology By Sumit Sir (70th BPSC)",
+      "id": 1972,
+      "video_count": 46,
+      "note_count": 23
+    },
+    {
+      "name": "Current Affairs By SKC Sir (70th BPSC)",
+      "id": 2153,
+      "video_count": 56,
+      "note_count": 52
+    },
+    {
+      "name": "Medieval History By Manju Sir (70th BPSC)",
+      "id": 2285,
+      "video_count": 24,
+      "note_count": 21
+    },
+    {
+      "name": "Physics By Sumit Sir (70th BPSC)",
+      "id": 2375,
+      "video_count": 25,
+      "note_count": 21
+    },
+    {
+      "name": "Modern History by Manju Sir (70th BPSC)",
+      "id": 2692,
+      "video_count": 39,
+      "note_count": 38
+    },
+    {
+      "name": "Chemistry by Sumit Sir (70th BPSC)",
+      "id": 2779,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir (70th BPSC)",
+      "id": 3046,
+      "video_count": 43,
+      "note_count": 42
+    },
+    {
+      "name": "Economy  by Dr. Bharat Sir (70th BPSC)",
+      "id": 3149,
+      "video_count": 56,
+      "note_count": 51
+    },
+    {
+      "name": "विजेता बैच 2024",
+      "id": 3602,
+      "video_count": 88,
+      "note_count": 84
+    },
+    {
+      "name": "Reasoning by Manish Sir (70th BPSC)",
+      "id": 3735,
+      "video_count": 24,
+      "note_count": 24
+    },
+    {
+      "name": "Math by PK Sir",
+      "id": 3767,
+      "video_count": 27,
+      "note_count": 26
+    },
+    {
+      "name": "Geography by Ajit Sir",
+      "id": 569,
+      "video_count": 53,
+      "note_count": 0
+    },
+    {
+      "name": "Essay By Dharmendra Sir",
+      "id": 56,
+      "video_count": 20,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 422,
+      "video_count": 80,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Geography By Khan Sir",
+      "id": 501,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Ancient History By Prateek Sir",
+      "id": 502,
+      "video_count": 32,
+      "note_count": 0
+    },
+    {
+      "name": "Biology By Amrita Ma'am",
+      "id": 525,
+      "video_count": 23,
+      "note_count": 0
+    },
+    {
+      "name": "Reasoning By Yogendra Sir",
+      "id": 536,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs By khan Sir(Recorded)",
+      "id": 54,
+      "video_count": 19,
+      "note_count": 0
+    },
+    {
+      "name": "Physics By Sumit Sir",
+      "id": 667,
+      "video_count": 16,
+      "note_count": 0
+    },
+    {
+      "name": "Modern History by Manju Sir",
+      "id": 679,
+      "video_count": 34,
+      "note_count": 0
+    },
+    {
+      "name": "Marathon Class",
+      "id": 824,
+      "video_count": 5,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs By khan Sir",
+      "id": 743,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Polity By Karan Sir",
+      "id": 813,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Modern History By Khan Sir",
+      "id": 802,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs By S.K Sir",
+      "id": 787,
+      "video_count": 14,
+      "note_count": 0
+    },
+    {
+      "name": "Medieval history By Manju Sir",
+      "id": 786,
+      "video_count": 10,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Special By Khan Sir",
+      "id": 739,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Economy By Dr. Bharat Sir",
+      "id": 416,
+      "video_count": 57,
+      "note_count": 0
+    },
+    {
+      "name": "Sociology By Dharmendra sir",
+      "id": 417,
+      "video_count": 13,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by kalyani Ma'am",
+      "id": 418,
+      "video_count": 29,
+      "note_count": 0
+    },
+    {
+      "name": "Statistics By L.K Jha Sir",
+      "id": 419,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Biology By Khan Sir",
+      "id": 537,
+      "video_count": 23,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar History By Khan Sir",
+      "id": 420,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Geography By Ajeet Sir",
+      "id": 794,
+      "video_count": 5,
+      "note_count": 0
+    },
+    {
+      "name": "Bihar Economics By Dr. Bharat Sir",
+      "id": 777,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "Math by Gaurav Sir",
+      "id": 585,
+      "video_count": 35,
+      "note_count": 0
+    },
+    {
+      "name": "Polity By Khan Sir",
+      "id": 421,
+      "video_count": 5,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry By Sumit Sir",
+      "id": 713,
+      "video_count": 12,
+      "note_count": 0
+    },
+    {
+      "name": "BPSC Mentorship",
+      "id": 506,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

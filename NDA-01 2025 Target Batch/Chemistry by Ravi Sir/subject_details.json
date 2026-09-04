@@ -1,0 +1,163 @@
+{
+  "subject_name": "Chemistry by Ravi Sir",
+  "subject_id": 3467,
+  "video_count": 11,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture- 01 || Physical and Chemical change(भौतिक एवं रासायनिक परिवर्तन)Complete",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/TpEmSZ8E9xE",
+      "hd_video_url": "https://www.youtube.com/embed/TpEmSZ8E9xE",
+      "thumbnail": "https://i.ytimg.com/vi/TpEmSZ8E9xE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 01 || Physical and Chemical change(भौतिक एवं रासायनिक परिवर्तन)Complete",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83419c5a-2602-426c-9560-5c273093afc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 2 || Acis,Base and Salt-01",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/8GIbXBSF_XQ",
+      "hd_video_url": "https://www.youtube.com/embed/8GIbXBSF_XQ",
+      "thumbnail": "https://i.ytimg.com/vi/8GIbXBSF_XQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 2 || Acis,Base and Salt-01",
+          "url": "Lecture- 2 || Acis,Base and Salt-01"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture- 3 || Acis,Base and Salt-02",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/YDBb39_fC1A",
+      "hd_video_url": "https://www.youtube.com/embed/YDBb39_fC1A",
+      "thumbnail": "https://i.ytimg.com/vi/YDBb39_fC1A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 2 || Acis,Base and Salt-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5389813b-7f7a-4363-b7b4-74e787e83f5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 4 || Periodic Table",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/f9LS0tVjMJw",
+      "hd_video_url": "https://www.youtube.com/embed/f9LS0tVjMJw",
+      "thumbnail": "https://i.ytimg.com/vi/f9LS0tVjMJw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 4 || Periodic Table",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6adde5d-e615-422e-9a84-19c0effae4ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 5 || Periodic table-02 & Metal and non metal-01",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/bD9MAqschJ4",
+      "hd_video_url": "https://www.youtube.com/embed/bD9MAqschJ4",
+      "thumbnail": "https://i.ytimg.com/vi/bD9MAqschJ4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 5 || Periodic table-02 & Metal and non metal-01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e68c9df8-038c-401e-bd48-9314dcd876a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture- 6 || Metal and non metal-02",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/XgG5BbPD7jY",
+      "hd_video_url": "https://www.youtube.com/embed/XgG5BbPD7jY",
+      "thumbnail": "https://i.ytimg.com/vi/XgG5BbPD7jY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 6 || Metal and non metal-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27576882-83c6-4b49-8158-18e35356b7e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture- 7 ||Oxidation and reduction",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FTZCz3Bn1ec",
+      "hd_video_url": "https://www.youtube.com/embed/FTZCz3Bn1ec",
+      "thumbnail": "https://i.ytimg.com/vi/FTZCz3Bn1ec/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 7 ||Oxidation and reduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e12792d2-9fd8-4720-abaf-1e4533498eae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture- 8 ||Important chemical compounds",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/aA99zbYsxyY",
+      "hd_video_url": "https://www.youtube.com/embed/aA99zbYsxyY",
+      "thumbnail": "https://i.ytimg.com/vi/aA99zbYsxyY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 8 ||Important chemical compounds",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/98f3c6cb-4f7d-41f4-bf01-027895a0903a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture- 9 || Carbon and its compound(कार्बन और उसके यौगिक) Part-01",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/S62QF2cFmio",
+      "hd_video_url": "https://www.youtube.com/embed/S62QF2cFmio",
+      "thumbnail": "https://i.ytimg.com/vi/S62QF2cFmio/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 9 || Carbon and its compound(कार्बन और उसके यौगिक) Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/709cf905-8454-4b6e-8f3a-11d77d270e43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Carbon and its compound(कार्बन और उसके यौगिक) Part-02",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/NvrsbHQq2Xk",
+      "hd_video_url": "https://www.youtube.com/embed/NvrsbHQq2Xk",
+      "thumbnail": "https://i.ytimg.com/vi/NvrsbHQq2Xk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Carbon and its compound(कार्बन और उसके यौगिक) Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/34a4224d-4b4d-4a65-8ac3-79e6e1351c0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Separation Of Mixture",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://youtu.be/YMPv6T6viak",
+      "hd_video_url": "https://youtu.be/YMPv6T6viak",
+      "thumbnail": "https://i.ytimg.com/vi/YMPv6T6viak/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Separation Of Mixture",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7e581a4f-b841-4e34-88fa-bdbb5ec230ed.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

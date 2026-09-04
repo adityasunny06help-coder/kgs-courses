@@ -1,0 +1,81 @@
+{
+  "subject_name": "English Practice Set",
+  "subject_id": 1013,
+  "video_count": 8,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Noun practice Set Part-01",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/74O4FwvIi0Y",
+      "hd_video_url": "https://www.youtube.com/embed/74O4FwvIi0Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ea531c10-e10a-499b-a31f-2e7efd960609.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecyure-02 || Noun Practice Set Part-02",
+      "published_date": "31 Oct 2023",
+      "video_url": "https://www.youtube.com/embed/8aIpq3XSAMo",
+      "hd_video_url": "https://www.youtube.com/embed/8aIpq3XSAMo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//68208306-c5d7-41d9-b925-1231778256f2.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Synonyms Practice Set Part-01",
+      "published_date": "09 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/PzU8s1HNEq0",
+      "hd_video_url": "https://www.youtube.com/embed/PzU8s1HNEq0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7a49ed7c-6e11-4389-bae2-c7d5417f3f12.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Synonyms Practice Set Part-02",
+      "published_date": "10 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/VfdfYHXCn9w",
+      "hd_video_url": "https://www.youtube.com/embed/VfdfYHXCn9w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0a159947-5af0-478f-a3a2-acb1ea87b936.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Synonyms Practice Set Part-03",
+      "published_date": "14 Nov 2023",
+      "video_url": "https://www.youtube.com/embed/DkLnFwtx8Rc",
+      "hd_video_url": "https://www.youtube.com/embed/DkLnFwtx8Rc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//daf815f0-aef3-486d-a38b-695a56e83151.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Antonyms Practice Set",
+      "published_date": "15 Nov 2023",
+      "video_url": "https://youtu.be/SwHe1Huht2M",
+      "hd_video_url": "https://youtu.be/SwHe1Huht2M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3438e683-6446-414b-81ea-9a274c0cb025.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Pronoun Practice Set Part-01",
+      "published_date": "01 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/k4ouLNXqTqQ",
+      "hd_video_url": "https://www.youtube.com/embed/k4ouLNXqTqQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//68ce69bb-0430-4b08-bcb3-bfea9dc75327.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Pronoun Practice Set Part-02",
+      "published_date": "04 Dec 2023",
+      "video_url": "https://www.youtube.com/embed/CWore2vK6kQ",
+      "hd_video_url": "https://www.youtube.com/embed/CWore2vK6kQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9a9ee6c2-ad35-4c69-90e1-07956ed60682.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

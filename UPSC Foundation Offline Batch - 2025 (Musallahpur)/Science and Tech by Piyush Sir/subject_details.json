@@ -1,0 +1,438 @@
+{
+  "subject_name": "Science and Tech by Piyush Sir",
+  "subject_id": 7873,
+  "video_count": 31,
+  "note_count": 30,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Introduction",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/pEJhbu0JBIU",
+      "hd_video_url": "https://www.youtube.com/embed/pEJhbu0JBIU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mRcgqZQNzeXXjAt4m5PGGAy2jqy0d2eozdfB7aWv.jpg",
+      "notes": [
+        {
+          "title": "Lecture -1 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f51b148-532a-4dd3-b1c8-f94c9d02473b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || परम्परागत उर्जा के श्रोत",
+      "published_date": "18 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/PanxA-M3TXQ",
+      "hd_video_url": "https://www.youtube.com/embed/PanxA-M3TXQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/00ffB2azV1JoezXeFImUqBYD24bPOca6PcHLl1BF.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c93ea7ed-75c6-4f55-a7c0-e436cba6c22e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Science & Tech",
+      "published_date": "19 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/YxNAcEk9mdw",
+      "hd_video_url": "https://www.youtube.com/embed/YxNAcEk9mdw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rwdFenz6IevM8JZLvy9lw4oWkYCMKruddXf3okFO.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6df6d2c-a518-4dd2-bd84-fc065bbbef3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || स्टॉकहोम सम्मेलन",
+      "published_date": "21 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/EC7TtHiPQ9o",
+      "hd_video_url": "https://www.youtube.com/embed/EC7TtHiPQ9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hvdXcDfcmaPJL2Bzz9QBlOLAvLOk1FySUAYIcRbq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb4c030a-2ca4-449c-83b3-c8a34205b89e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || नवीकरणीय ऊर्जा",
+      "published_date": "22 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jQeTlAnFOtg",
+      "hd_video_url": "https://www.youtube.com/embed/jQeTlAnFOtg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2iopDzENrt974kCvJOwGz0gpkhnIxQ7CzTfI1Ss2.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf4c1695-5d3b-4463-bd56-f9bbe024d375.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || सौर ऊर्जा (Part-1)",
+      "published_date": "23 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/CyRIExSFjkk",
+      "hd_video_url": "https://www.youtube.com/embed/CyRIExSFjkk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Np66slyVdFvYApkI5gNzIV8MomFxkX5693kR7VhM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || सौर ऊर्जा (Part-1)",
+      "published_date": "24 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/9QZSKWlxqFM",
+      "hd_video_url": "https://www.youtube.com/embed/9QZSKWlxqFM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RmWpYQE8kYro9f86Lg7jnUhxoTGi5lvEpyLW05fL.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ba8da1f-c781-4fd8-aab4-284977c25b78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || पवन ऊर्जा",
+      "published_date": "25 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vKX9hfC2Sck",
+      "hd_video_url": "https://www.youtube.com/embed/vKX9hfC2Sck",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VQIZKuxQVcrqoMjfPsRzlaF4uFN12SMPBRTlglWz.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c39dfc2f-4ef0-472e-bb05-5b5c0b8fb020.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || गैसीकरण",
+      "published_date": "26 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Y8dJacdy4zU",
+      "hd_video_url": "https://www.youtube.com/embed/Y8dJacdy4zU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EA8Bmp8KlmhPfdB0AkBD3NHPjD8oozgS425STX8d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e72a2a1-73d1-4b48-adb3-3f3f7fae3d73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || लिथियम - ऑइन बैटरी",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/310670/kgss-1753684715-v310670.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0kJb5vBu8r4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7cmLH6bgVxMHV2x3DKEqN8lLdRts9myGLxBhonK6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01f861c2-95c8-453c-826e-f77f6fcab4d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || भूतापीय ऊर्जा",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/312595/kgss-1753856715-v312595.m3u8",
+      "hd_video_url": "https://youtube.com/live/P-3Fsegy328",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HZCk37LUTTivQXRvdJ1OzWjt4TdTPKxSHRJNk5Rk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/249ad046-9e61-4ddc-a964-9e89280f0f28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || नाभिकीय ऊर्जा",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/z9maBt2pS-4",
+      "hd_video_url": "https://www.youtube.com/embed/z9maBt2pS-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gZyWCeBvbcmGFJqs7LjIN3bOR6OqO5COcnKnRYbl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9c1a625-f0bb-492a-b36d-0e0c82016300.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || यूरेनियम",
+      "published_date": "01 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/rNilyFLWtYA",
+      "hd_video_url": "https://www.youtube.com/embed/rNilyFLWtYA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jrmh0XPR3Spu9pqmCyWEY9FN5bj9zdNshtzRTp1a.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9258d2ef-57af-44d1-8244-f256a41b48da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || रक्षा प्रौद्योगिकी",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/4EToho-BKTo",
+      "hd_video_url": "https://www.youtube.com/embed/4EToho-BKTo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mYOgs7jBFFgvA7n271k0M68DrZ4El2uZKyAfQUqg.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43d5c7d2-e4f4-4104-9c2c-b744d2f70940.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || परमाणु अप्रसार संधि",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/w2x6ieEKI54",
+      "hd_video_url": "https://www.youtube.com/embed/w2x6ieEKI54",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AAMjR9t1xRyaR4owGelpn6Rub04PD5lQw150mFQ0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55191acc-9332-4fca-9638-dc669e25f473.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || रासायनिक हथियार",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/3d8I9LCPqBM",
+      "hd_video_url": "https://www.youtube.com/embed/3d8I9LCPqBM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SS7U1PSepY1cnG7m4cA93ERQk7yuFa3CAiMBjqJj.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3aa8ce7-704a-4f5b-b371-7abe1311ced5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || जैविक हथियार",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/d0YociNMGF4",
+      "hd_video_url": "https://www.youtube.com/embed/d0YociNMGF4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sXfVFg7vZ5J9nmCQrEhOrJxDwZK6ZpuQal7ObXQi.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64a35412-c09e-4110-981b-b7726105343f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -18 || प्रक्षेपण अस्त्र",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZRUmHnNqsX0",
+      "hd_video_url": "https://www.youtube.com/embed/ZRUmHnNqsX0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qgisX0r819NZNxQj5RCrAHaK9DhepfUuuqigoX5E.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d70ebf98-9d31-4a9f-93d1-5aae619a330e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || क्रूज मिसाइल",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/cUFC-QdZWzU",
+      "hd_video_url": "https://www.youtube.com/embed/cUFC-QdZWzU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BBn7d1skOdvKCDjXfGe2qOM5ReFlGfMh8jAdVR0o.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/188fb865-b5c2-4e11-8dbf-122237d5dad2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || रक्षा मंत्रालय",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/321319/kgss-1754978774-v321319.m3u8",
+      "hd_video_url": "https://youtube.com/live/WwAb9rZDCnU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5qPVN7FrKd28X8h6I3Lbq84FFl1F24P4l1dDVRto.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Science and Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a696a4a3-8b7b-4a7e-beb6-66996ff484ed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || अंतरिक्ष",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/xhxWMzHFwys",
+      "hd_video_url": "https://www.youtube.com/embed/xhxWMzHFwys",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TywWwU2i03Zc1DTAOjwrd2JNr5mkU7WU2kM5DFN6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c4b0db1-2472-4afc-bddc-9f6c2389d034.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -22 || उपग्रह",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/oJBgHfMSNhg",
+      "hd_video_url": "https://www.youtube.com/embed/oJBgHfMSNhg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ay5X6csebmhkjYuTGYcwJo1b0qkLhLsFfvcHqXMU.jpg",
+      "notes": [
+        {
+          "title": "Lecture -22 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1efa3c8-16f9-4ca2-b54f-7741cd9eec5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -23 || संचार",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/FsrHm2hbYL8",
+      "hd_video_url": "https://www.youtube.com/embed/FsrHm2hbYL8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hDWHJPlwojFRhH2eKaPS6cRrWyMlKvvj7VMOpjHN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9570222e-7ae3-4d26-a827-55cf84d8a0b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Science & Tech",
+      "published_date": "17 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jkgMQPKZvyY",
+      "hd_video_url": "https://www.youtube.com/embed/jkgMQPKZvyY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YQxWBLmCNR3YsmN5ykVLGW6JO52oYCokeq4RH5bq.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1eeeb475-3412-42b7-8386-0d5a5317adb4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Science & Tech",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/IY8HtBZmvlA",
+      "hd_video_url": "https://www.youtube.com/embed/IY8HtBZmvlA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/unHFedVOblSQcAhYcRuGi189HIZnN2f9dXuXZuar.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99a951ef-b3b0-455f-8c98-a95a57ce8ee3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Science & Tech",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/NYFpf0U53u8",
+      "hd_video_url": "https://www.youtube.com/embed/NYFpf0U53u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DJX4n7bki9nPdBAMMWcv15lRUJC5HIpXDZQBcfyX.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a625b3a5-1a9a-44cd-9a0e-88ffd7a2e757.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -27 || Science & Tech",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/3DyYR_1UEbM",
+      "hd_video_url": "https://www.youtube.com/embed/3DyYR_1UEbM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iSOx98KvnySruVu0IkstXqwmgEKqD8gALsiwBTJ7.jpg",
+      "notes": [
+        {
+          "title": "Lecture -27 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/611137bc-195e-4980-99ce-c4fb713ceacf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -28 || Science & Tech",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/csNCSpjFSC0",
+      "hd_video_url": "https://www.youtube.com/embed/csNCSpjFSC0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ST9dZUYlIXYC7WaKpCTDgpqG4CzXL8nKqb6hu8ZH.jpg",
+      "notes": [
+        {
+          "title": "Lecture -28 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3549198c-0d19-4e5b-adc9-f21d9d475eeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -29 || Science & Tech",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/FI9mzcVyi3E",
+      "hd_video_url": "https://www.youtube.com/embed/FI9mzcVyi3E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UN2hcX681n0T978C44zDSIhdPUolGbwHd1gwCcYS.jpg",
+      "notes": [
+        {
+          "title": "Lecture -29 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d05215ac-9195-4ba1-a330-4c51c22b953e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -30 || Science & Tech",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/ZyO-YkVr8VI",
+      "hd_video_url": "https://www.youtube.com/embed/ZyO-YkVr8VI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9qCqgpCc9rCwe0TUPWYTzuSmLb6cpuA2yDT1RAy1.jpg",
+      "notes": [
+        {
+          "title": "Lecture -30 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20ea13d5-8622-41d7-9492-ae185825efd1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture -31 || Science & Tech (Last Class)",
+      "published_date": "24 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jYAldt14n3E",
+      "hd_video_url": "https://www.youtube.com/embed/jYAldt14n3E",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture -31 || Science & Tech",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7d8540d-85c4-47a7-ac7c-68a5c6fd2232.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

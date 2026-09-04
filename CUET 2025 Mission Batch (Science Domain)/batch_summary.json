@@ -1,0 +1,88 @@
+{
+  "batch_info": {
+    "title": "CUET 2025 Mission Batch (Science Domain)",
+    "price": "999",
+    "id": "573",
+    "extracted_date": "2025-08-27T14:25:52.144522"
+  },
+  "subjects": [
+    {
+      "name": "Physics By Pragya Varshney Ma'am",
+      "id": 5885,
+      "video_count": 30,
+      "note_count": 28
+    },
+    {
+      "name": "Biology By Prateek Maddeshia Sir",
+      "id": 5886,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "Chemistry By Shekhar Sati Sir",
+      "id": 5887,
+      "video_count": 34,
+      "note_count": 34
+    },
+    {
+      "name": "Maths By Mahendra Keshwani Sir",
+      "id": 5888,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "Reasoning By Lavish Sir",
+      "id": 5889,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "Hindi By Kiran Sharma Ma'am",
+      "id": 5890,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "English By Aditya Tiwari Sir",
+      "id": 5891,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "(GAT) GK /GS by Pooja Bhagat Ma'am",
+      "id": 5892,
+      "video_count": 29,
+      "note_count": 28
+    },
+    {
+      "name": "(GAT) Quant By Anjesh Kumar Sir",
+      "id": 5893,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Introduction Section",
+      "id": 5897,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Physics supporting material",
+      "id": 6068,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Test Paper And Solution",
+      "id": 6176,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "GK GS Supporting material",
+      "id": 6646,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

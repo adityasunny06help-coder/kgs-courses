@@ -1,0 +1,81 @@
+{
+  "subject_name": "आर्थिक भूगोल",
+  "subject_id": 7601,
+  "video_count": 8,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || आर्थिक भूगोल परिभाषा",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l124/lecture124.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l124/lecture124.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lu4VG3R607SD8qTm7jjF5gfziwsGEjv4Ow7cXeFf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || संसाधन एवं संसाधन क्षेत्र",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l125/lecture125.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l125/lecture125.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/C4xLCbXQV25bglvJuTrsszN3Spu2AVB5RGKQrT5F.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || संसाधन एवं संसाधन क्षेत्र || नव माल्थसवाद",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l126/lecture126.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l126/lecture126.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IRKZ6uhF2IOHCP7vtiK1ZKTZXSluGoBe4RJgQSHV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || खाद्य सुरक्षा एवं ऊर्जा संकट (भाग- 01)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l127/lecture127.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l127/lecture127.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iaJepYLAgW7L5BJzkSpdzL354CWFadU2FMFIb87K.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || खाद्य सुरक्षा एवं ऊर्जा संकट (भाग- 02)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l128/lecture128.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l128/lecture128.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nMYkjggtX6E3VuaUZi2SOMdQatUMJv57llstglBs.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || संवृद्धि की सीमाएं",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/new/l129/final129.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/new/l129/final129.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TD8IQSOFJ7zjeZazTGeiSAlw55xp7IuGPCztpgg2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || विश्व संसाधन",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l133/lecture133.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l133/lecture133.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/T8Nu22fb0PFmZ9r7xfGztK9rIFlsnllsHn0nwJHJ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || विश्व उद्योग",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l134/lecture134.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l134/lecture134.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sXOOcRUyEvGNUjoBrHDijh2ccxBphzB67mwmpL5l.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

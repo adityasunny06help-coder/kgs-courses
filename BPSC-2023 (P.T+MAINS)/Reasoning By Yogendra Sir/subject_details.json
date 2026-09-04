@@ -1,0 +1,63 @@
+{
+  "subject_name": "Reasoning By Yogendra Sir",
+  "subject_id": 536,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 Coding Decoding",
+      "published_date": "06 Jul 2023",
+      "video_url": "https://www.youtube.com/embed/PDBs8SCbZ0g",
+      "hd_video_url": "https://www.youtube.com/embed/VD5_B277CvE",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 2: Reasoning By Yogendra Sir(Only Online Mode)",
+      "published_date": "07 Jul 2023",
+      "video_url": "https://www.youtube.com/embed/E22KEzkFce8",
+      "hd_video_url": "https://www.youtube.com/embed/U_Hl6ILyp7M",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03: Missing Number",
+      "published_date": "09 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/reasoning-sahu-sir/l-3reasoning/l3.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/reasoning-sahu-sir/l-3reasoning/l3.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3601baad-7fb8-4251-a3ed-39c233f068f7.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture: 04 Alphabet Test",
+      "published_date": "10 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/reasoning-sahu-sir/04reasoning/04r.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/reasoning-sahu-sir/04reasoning/04r.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9a6c4d15-6f8b-4133-9ac6-6afe65cbdf41.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05: Blood Relation",
+      "published_date": "11 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/11th-july/l-5reasoning/l-5reasoning.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/11th-july/l-5reasoning/l-5reasoning.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b22da08d-a42c-4caf-8cab-1d1e77dbad19.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06: Clock",
+      "published_date": "12 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/12th-july/l-6reasoning/6.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/12th-july/l-6reasoning/6.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//df5d90ae-397f-4359-aa24-1aae0b77e88a.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

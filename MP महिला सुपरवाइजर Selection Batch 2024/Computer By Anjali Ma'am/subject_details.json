@@ -1,0 +1,354 @@
+{
+  "subject_name": "Computer By Anjali Ma'am",
+  "subject_id": 3006,
+  "video_count": 25,
+  "note_count": 24,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "L - 01 || History of Computer",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/fgp7_Zuqp1U",
+      "hd_video_url": "https://www.youtube.com/embed/fgp7_Zuqp1U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/104a483b-6323-426c-9c07-46cc430da1ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "L - 02 || Input Devices",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/nDHMyQkmowU",
+      "hd_video_url": "https://www.youtube.com/embed/nDHMyQkmowU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L - 02 || Input Devices",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/760a2312-fb93-48af-9c26-d43168b0a1f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "L - 03 || Output Devices",
+      "published_date": "19 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/bDHC8yJEEco",
+      "hd_video_url": "https://www.youtube.com/embed/bDHC8yJEEco",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a40b614-e0a1-44e8-b07e-8fca1d3821f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "L - 04 || Software",
+      "published_date": "20 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/sC_9L1vUNck",
+      "hd_video_url": "https://www.youtube.com/embed/sC_9L1vUNck",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd0cca25-8c27-4ca1-97ef-01a171d74332.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "L-05 ||  CPU & Memory",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Bp54qMuQA6U",
+      "hd_video_url": "https://www.youtube.com/embed/Bp54qMuQA6U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d24cd609-8a1d-425d-9eda-594c234d064f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "L-06 || Classification of Computer",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/hvglBydcUxs",
+      "hd_video_url": "https://www.youtube.com/embed/hvglBydcUxs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a49a3ee5-165b-4ee9-84ce-81e07dd7425c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "L-07 || Operating System",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/0zUYXMzXi3I",
+      "hd_video_url": "https://www.youtube.com/embed/0zUYXMzXi3I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d04a62e3-2047-43c4-83be-b8bf6cacab5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "L-08|| Computer Network",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/gcBl9t9S9i8",
+      "hd_video_url": "https://www.youtube.com/embed/gcBl9t9S9i8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/841ca558-f942-4302-96c7-ddd12cb9bdbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "L-09 || Internet ( Part-1)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/aKxuP8xhh-I",
+      "hd_video_url": "https://www.youtube.com/embed/aKxuP8xhh-I",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2751f4c-a1d3-4c8b-b3c1-7defe3ad0e2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "L-10 || Internet ( Part-2)",
+      "published_date": "27 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/5xJDKygg9WI",
+      "hd_video_url": "https://www.youtube.com/embed/5xJDKygg9WI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94e9dd9f-9972-46df-91e0-8895a21b3b8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "L-11 || Internet ( Part-3)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/b1LnskC_Gok",
+      "hd_video_url": "https://www.youtube.com/embed/b1LnskC_Gok",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed6c1367-b61f-4826-b3d9-894fede5e39e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "L-12 || Computer Virus",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/jVseasMUcH0",
+      "hd_video_url": "https://www.youtube.com/embed/jVseasMUcH0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2f87261-7045-488f-8291-f20b0e1554d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "L-13 || MS Word ( Part - 1 )",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/pl6Ywvw96Xo",
+      "hd_video_url": "https://www.youtube.com/embed/pl6Ywvw96Xo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13bc62c3-53d7-467b-9909-88feb8dffcad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "L-14 || MS Word ( Part - 2 )",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/YSxlj4cRoRs",
+      "hd_video_url": "https://www.youtube.com/embed/YSxlj4cRoRs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23117966-6a1f-4244-b871-2114dcf6a661.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "L-15 ||  MS Word  MCQ",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/w7ExaFgDaJA",
+      "hd_video_url": "https://www.youtube.com/embed/w7ExaFgDaJA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45bfe4a8-594c-4981-8ef2-ded10631aa60.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "L-16 || MS Power Point ( Part - 1 )",
+      "published_date": "03 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/me8P6CmBi4c",
+      "hd_video_url": "https://www.youtube.com/embed/me8P6CmBi4c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34b060cd-16e8-4751-9846-22ddb651d5f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "L-17 || MS Power Point ( Part - 2 )",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/20paXv-pGoo",
+      "hd_video_url": "https://www.youtube.com/embed/20paXv-pGoo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d8b76f0-4cc0-4656-98f0-f9b12cddf9ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "L-18 || MS Power Point (MCQ)",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Vlv1_Zoy-Ps",
+      "hd_video_url": "https://www.youtube.com/embed/Vlv1_Zoy-Ps",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f9fb638-894d-493d-be07-2e309620ce10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "L-19 || MS Excel",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/GkHdQkeklQk",
+      "hd_video_url": "https://www.youtube.com/embed/GkHdQkeklQk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ed3a485-72ba-4b22-9146-116ada995597.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "L-20 || MS Excel MCQ",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/OjOh_hjlMZE",
+      "hd_video_url": "https://www.youtube.com/embed/OjOh_hjlMZE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L-20 || MS Excel MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe61bed2-6374-4761-8658-c4ffa44becc3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "L-21 || MCQ Basic",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/G3IaMsFojbY",
+      "hd_video_url": "https://www.youtube.com/embed/G3IaMsFojbY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4aa425d-3436-4016-9416-1723c1ea8539.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "L-22 || MCQ Basic",
+      "published_date": "10 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/f4D0x5Cyv5g",
+      "hd_video_url": "https://www.youtube.com/embed/f4D0x5Cyv5g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ee037d8-0c93-4e47-96ea-0b778b848649.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "L-23 || MCQ Basic",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/kABK7Wfhbp8",
+      "hd_video_url": "https://www.youtube.com/embed/kABK7Wfhbp8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "L-24 || MCQ Basic",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Wazm27Xuy2o",
+      "hd_video_url": "https://www.youtube.com/embed/Wazm27Xuy2o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L-24 || MCQ Basic",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64989820-363d-4b90-93bf-3283ba713b06.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "L-25 || MCQ Basic",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/G_l7IKZkv5M",
+      "hd_video_url": "https://www.youtube.com/embed/G_l7IKZkv5M",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "L-25 || MCQ Basic",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7ea6e91-a1e5-4fc5-950e-7608e1964bfb.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "AE Foundation Civil Engineering Batch 2025",
+    "price": "1499",
+    "id": "625",
+    "extracted_date": "2025-08-27T14:00:44.320747"
+  },
+  "subjects": [
+    {
+      "name": "Survey by Apoorv Mittal Sir",
+      "id": 7358,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "RCC By Chadha Sir",
+      "id": 7210,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Open Channel Flow by Chadha Sir",
+      "id": 7537,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Geotechnical Engineering by Chadha Sir",
+      "id": 7817,
+      "video_count": 33,
+      "note_count": 33
+    },
+    {
+      "name": "Steel by Apoorv Sir",
+      "id": 8261,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Highway Engineering by Chadha Sir",
+      "id": 8335,
+      "video_count": 8,
+      "note_count": 7
+    },
+    {
+      "name": "Fluid Mechanics by Amit Maurya Sir",
+      "id": 8414,
+      "video_count": 38,
+      "note_count": 37
+    },
+    {
+      "name": "Hydraulic Machine By Amit Maurya",
+      "id": 8422,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Workshop",
+      "id": 6191,
+      "video_count": 3,
+      "note_count": 1
+    },
+    {
+      "name": "Strength Of Material by Chadha Sir",
+      "id": 6322,
+      "video_count": 34,
+      "note_count": 34
+    },
+    {
+      "name": "Environmental Engineering by Apoorv Mittal Sir",
+      "id": 6538,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Concrete Technology by Chadha Sir",
+      "id": 7093,
+      "video_count": 8,
+      "note_count": 8
+    }
+  ]
+}

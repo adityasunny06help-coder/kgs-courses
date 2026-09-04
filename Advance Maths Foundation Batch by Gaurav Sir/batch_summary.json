@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "Advance Maths Foundation Batch by Gaurav Sir",
+    "price": "499",
+    "id": "255",
+    "extracted_date": "2025-08-27T16:52:26.814818"
+  },
+  "subjects": [
+    {
+      "name": "Mensuration",
+      "id": 2595,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Data Interpretation",
+      "id": 2625,
+      "video_count": 3,
+      "note_count": 1
+    },
+    {
+      "name": "Number System",
+      "id": 2688,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Algebra",
+      "id": 3078,
+      "video_count": 12,
+      "note_count": 12
+    },
+    {
+      "name": "Trigonometry",
+      "id": 3255,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Height & Distance",
+      "id": 3324,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Hcf & Lcm",
+      "id": 3330,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Coordinate Geometry",
+      "id": 3346,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Mock Test",
+      "id": 3394,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Geometry",
+      "id": 1877,
+      "video_count": 44,
+      "note_count": 43
+    }
+  ]
+}

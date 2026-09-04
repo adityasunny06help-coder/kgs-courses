@@ -1,0 +1,37 @@
+{
+  "subject_name": "Geography By Ram Sir",
+  "subject_id": 6640,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Special Geography Class By Ram Sir",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/-IiWbIcgSfw",
+      "hd_video_url": "https://www.youtube.com/embed/-IiWbIcgSfw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5lfHX2I7TX2rqD2GaTMv8JnBhSth1kWQFIvsgypX.png",
+      "notes": [
+        {
+          "title": "Lecture 01 || Special Geography Class By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f2526f5-053f-4c0d-9171-95de7eafb205.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Special Geography Class By Ram Sir",
+      "published_date": "06 May 2025",
+      "video_url": "https://www.youtube.com/embed/RlmUIbh-COY",
+      "hd_video_url": "https://www.youtube.com/embed/RlmUIbh-COY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FClKIgsz2dDeQ90AqJIIT89ik27jbHmwWMfgLCzY.png",
+      "notes": [
+        {
+          "title": "Lecture 02 || Special Geography Class By Ram Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9db14441-65cc-47f5-bb22-88afa3b8e18b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

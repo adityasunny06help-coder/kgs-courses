@@ -1,0 +1,72 @@
+{
+  "subject_name": "Advance Oceanography",
+  "subject_id": 8153,
+  "video_count": 7,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Oceanic Temperature",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/317408/kgss-1754374419-v317408.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HjLdY9pqBrE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XaKqqrabTA4sEviS7zAX2KYlPhHlAjaYCSFIzdUw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Salinity of Ocean",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/318511/kgss-1754457655-v318511.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6Pgx9GJp3YE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vjnVlNZkOv2k9LqFGcG8oR2xzGx0Phg3ki37bcN3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Heat & Salt Budget of Ocean",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/319359/kgss-1754548804-v319359.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/E36CmIelFyI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2HsdspQ0S3xJmTMao1hYdU4MdBj1p9nIETvJtI29.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Ocean Dynamism",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/320320/kgss-1754896802-v320320.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/E4QRz-eLkOU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KfMpDlK2h6i7yuK3CFy6WZhPC27DuxhX49xuvHUI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Ocean Currents",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/322315/kgss-1755066750-v322315.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sPrmGqe2QSg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PPxAtZ4mvNfxEFliCmeQZ7OhhGQoc5aZRpyqEJQM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Geography Optional by Sachin Arora Sir",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/326873/kgss-1755669267-v326873.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5bCSpbOivJQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CwnXMPzTu8eigSyoy6v8WCFOKYkNdHPKllPztznk.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Geography Optional by Sachin Arora Sir",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/328697/kgss-1755847165-v328697.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tFl0EzdgXOA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2FhE9eiEwXHCtYOCkP42WE0uCmQBZqi1GJeLEOqg.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

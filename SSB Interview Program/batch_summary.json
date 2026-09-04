@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "SSB Interview Program",
+    "price": "5000",
+    "id": "483",
+    "extracted_date": "2025-08-27T15:07:18.290872"
+  },
+  "subjects": [
+    {
+      "name": "Special Session Of SSB By Arun Sir",
+      "id": 4672,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 4675,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Interview Technique by Major General (Dr) M P Singh Sir",
+      "id": 4676,
+      "video_count": 4,
+      "note_count": 0
+    }
+  ]
+}

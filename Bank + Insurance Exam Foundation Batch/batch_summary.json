@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "Bank + Insurance Exam Foundation Batch",
+    "price": "999",
+    "id": "547",
+    "extracted_date": "2025-08-27T14:35:13.956993"
+  },
+  "subjects": [
+    {
+      "name": "Reasoning by Shantanu Sir",
+      "id": 5113,
+      "video_count": 71,
+      "note_count": 71
+    },
+    {
+      "name": "Quant by Bharat Gupta Sir",
+      "id": 5114,
+      "video_count": 106,
+      "note_count": 106
+    },
+    {
+      "name": "English by Vishal Sharma Sir",
+      "id": 5120,
+      "video_count": 52,
+      "note_count": 52
+    },
+    {
+      "name": "Banking Awareness by Sukesh Sir",
+      "id": 6078,
+      "video_count": 66,
+      "note_count": 66
+    },
+    {
+      "name": "Current Affairs by Yadavendra Sir",
+      "id": 6081,
+      "video_count": 41,
+      "note_count": 41
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 6647,
+      "video_count": 65,
+      "note_count": 65
+    },
+    {
+      "name": "Hindi by Navneet Sir",
+      "id": 7181,
+      "video_count": 21,
+      "note_count": 21
+    },
+    {
+      "name": "Monthly Current Affairs PDF",
+      "id": 7184,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Quant Practice Sheet PDF",
+      "id": 7223,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Quant Practice Sheet PDF",
+      "id": 7224,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

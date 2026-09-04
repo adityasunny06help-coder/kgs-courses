@@ -1,0 +1,79 @@
+{
+  "subject_name": "General Principles Of Design & Drawing by Apoorv Mittal Sir",
+  "subject_id": 5996,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Drawing Instruments",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/pG7zaQlhGQw",
+      "hd_video_url": "https://www.youtube.com/embed/pG7zaQlhGQw",
+      "thumbnail": "https://i.ytimg.com/vi/pG7zaQlhGQw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Geometrical Figures",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63428e2f-8bbb-4bd1-b30f-259c9b4e2eea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Geometrical Figures",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/KT5rZGhpJ80",
+      "hd_video_url": "https://www.youtube.com/embed/KT5rZGhpJ80",
+      "thumbnail": "https://i.ytimg.com/vi/KT5rZGhpJ80/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Dimensioning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d64e2e47-30e5-46c4-b67f-b394c0f0c88f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Dimensioning",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QR9XSSeuzfo",
+      "hd_video_url": "https://www.youtube.com/embed/QR9XSSeuzfo",
+      "thumbnail": "https://i.ytimg.com/vi/QR9XSSeuzfo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Dimensioning",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f2b6f8b-5ebe-4329-950d-197820e771ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Engineering Curves",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/1yAWZ2jZSO4",
+      "hd_video_url": "https://www.youtube.com/embed/1yAWZ2jZSO4",
+      "thumbnail": "https://i.ytimg.com/vi/1yAWZ2jZSO4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Engineering Curves",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57a31815-b83e-4d6f-b240-f5fab38d2789.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-6 || Orthographic Projections",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/wi2UeVZVvRs",
+      "hd_video_url": "https://www.youtube.com/embed/wi2UeVZVvRs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bQtOKO9oyNduJ3UjDlwemEJpduYw1084hfS1TF2s.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || Orthographic Projections",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b4d391f-b2a4-4260-ad41-96c4f2564f99.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

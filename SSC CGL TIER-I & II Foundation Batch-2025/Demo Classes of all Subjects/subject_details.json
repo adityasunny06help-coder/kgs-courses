@@ -1,0 +1,36 @@
+{
+  "subject_name": "Demo Classes of all Subjects",
+  "subject_id": 4369,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Clock Demo Class",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/FRp82rkN8hU",
+      "hd_video_url": "https://www.youtube.com/embed/FRp82rkN8hU",
+      "thumbnail": "https://i.ytimg.com/vi/FRp82rkN8hU/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "One Word Substitution Demo Class",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kNzrw-Q6Ob8",
+      "hd_video_url": "https://www.youtube.com/embed/kNzrw-Q6Ob8",
+      "thumbnail": "https://i.ytimg.com/vi/kNzrw-Q6Ob8/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Ratio & Proportion Demo Class",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/zcvCoyP0jGA",
+      "hd_video_url": "https://www.youtube.com/embed/zcvCoyP0jGA",
+      "thumbnail": "https://i.ytimg.com/vi/zcvCoyP0jGA/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

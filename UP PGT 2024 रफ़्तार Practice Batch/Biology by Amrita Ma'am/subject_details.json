@@ -1,0 +1,373 @@
+{
+  "subject_name": "Biology by Amrita Ma'am",
+  "subject_id": 4379,
+  "video_count": 26,
+  "note_count": 26,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1|| Skeletal System",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Jycq2ZXpZrA",
+      "hd_video_url": "https://www.youtube.com/embed/Jycq2ZXpZrA",
+      "thumbnail": "https://i.ytimg.com/vi/Jycq2ZXpZrA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1|| Biology Practice Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25b5396d-b6bc-491d-b8c8-a34ed22d1081.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Blood Circulatory System",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/EciLiRVRvRY",
+      "hd_video_url": "https://www.youtube.com/embed/EciLiRVRvRY",
+      "thumbnail": "https://i.ytimg.com/vi/EciLiRVRvRY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Blood Circulatory System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9b794a1-e8f4-45bb-bba4-70ff523673ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Respiratory System",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/fkyZNo7HXGI",
+      "hd_video_url": "https://www.youtube.com/embed/fkyZNo7HXGI",
+      "thumbnail": "https://i.ytimg.com/vi/fkyZNo7HXGI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5a58151-6205-436b-9637-44adf61d0986.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Human Excretory System",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/yErUGHTuPZw",
+      "hd_video_url": "https://www.youtube.com/embed/yErUGHTuPZw",
+      "thumbnail": "https://i.ytimg.com/vi/yErUGHTuPZw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7215be7-c7d2-4cfa-b55f-ab15926695bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Nervous System",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UipLO2SLy6U",
+      "hd_video_url": "https://www.youtube.com/embed/UipLO2SLy6U",
+      "thumbnail": "https://i.ytimg.com/vi/UipLO2SLy6U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/737216b1-7c33-4ef8-92be-3494ea99a676.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Endocrine System",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kad7XAr476Y",
+      "hd_video_url": "https://www.youtube.com/embed/kad7XAr476Y",
+      "thumbnail": "https://i.ytimg.com/vi/kad7XAr476Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/868ad20c-c22f-4af6-a08d-b3e6949a8afc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Reproductive System",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/nUZ3rQTvBx8",
+      "hd_video_url": "https://www.youtube.com/embed/nUZ3rQTvBx8",
+      "thumbnail": "https://i.ytimg.com/vi/nUZ3rQTvBx8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5e1b4e2-27ac-4e07-8325-85846d58ecb0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Cell",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tiVlkZvPhp0",
+      "hd_video_url": "https://www.youtube.com/embed/tiVlkZvPhp0",
+      "thumbnail": "https://i.ytimg.com/vi/tiVlkZvPhp0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69a89fd5-3ec3-4932-9fa5-c7ea38ff324e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Human Diseases",
+      "published_date": "07 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ahZ5hD1StXo",
+      "hd_video_url": "https://www.youtube.com/embed/ahZ5hD1StXo",
+      "thumbnail": "https://i.ytimg.com/vi/ahZ5hD1StXo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2eb09d71-8584-4551-8413-173e0fc65f26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Digestive System",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/643p_eWwLmY",
+      "hd_video_url": "https://www.youtube.com/embed/643p_eWwLmY",
+      "thumbnail": "https://i.ytimg.com/vi/643p_eWwLmY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e61818c7-7ad2-4cc1-b1d4-ca031049102a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Botany",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/4p9uY3FLqes",
+      "hd_video_url": "https://www.youtube.com/embed/4p9uY3FLqes",
+      "thumbnail": "https://i.ytimg.com/vi/4p9uY3FLqes/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36397e96-29d5-40da-9393-3cda8085b1ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Taxonomy",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ZOqS64udpbI",
+      "hd_video_url": "https://www.youtube.com/embed/ZOqS64udpbI",
+      "thumbnail": "https://i.ytimg.com/vi/ZOqS64udpbI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/504898a7-ed28-455e-b96f-623a3f586ba4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Practice Questions",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/AuNi12JspEc",
+      "hd_video_url": "https://www.youtube.com/embed/AuNi12JspEc",
+      "thumbnail": "https://i.ytimg.com/vi/AuNi12JspEc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2dc7c6e-ff81-4a14-bf9b-7b927bacc192.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Practice Questions",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/huQaj1pCNpE",
+      "hd_video_url": "https://www.youtube.com/embed/huQaj1pCNpE",
+      "thumbnail": "https://i.ytimg.com/vi/huQaj1pCNpE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5acef516-e1b8-4056-8435-c70c0903a9e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Practice Questions",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/f6oTs6vG_VU",
+      "hd_video_url": "https://www.youtube.com/embed/f6oTs6vG_VU",
+      "thumbnail": "https://i.ytimg.com/vi/f6oTs6vG_VU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5384f93-65e0-4f2a-a4e5-deeb4b2ded31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Chordates & Non chordates",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/DmZ2pQN_aes",
+      "hd_video_url": "https://www.youtube.com/embed/DmZ2pQN_aes",
+      "thumbnail": "https://i.ytimg.com/vi/DmZ2pQN_aes/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9c4ea9e-1159-4905-a78e-7316b5250447.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Miscellaneous Questions",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/x4scBkiNmCY",
+      "hd_video_url": "https://www.youtube.com/embed/x4scBkiNmCY",
+      "thumbnail": "https://i.ytimg.com/vi/x4scBkiNmCY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5febd68-6ce3-47fe-9ef7-f34aaee43e40.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Miscellaneous Questions",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/LBft13ss6J0",
+      "hd_video_url": "https://www.youtube.com/embed/LBft13ss6J0",
+      "thumbnail": "https://i.ytimg.com/vi/LBft13ss6J0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87f7da4e-9190-4ed7-bea6-173053eea269.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Chordates & Non chordates (Part 2)",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/P7Zg4p_mtzY",
+      "hd_video_url": "https://www.youtube.com/embed/P7Zg4p_mtzY",
+      "thumbnail": "https://i.ytimg.com/vi/P7Zg4p_mtzY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38ca25c1-bd4e-454a-8050-9d1ff1badf6a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Miscellaneous Questions",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/8uNbpnE1634",
+      "hd_video_url": "https://www.youtube.com/embed/8uNbpnE1634",
+      "thumbnail": "https://i.ytimg.com/vi/8uNbpnE1634/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90ca3290-56d1-4ddb-8a52-3e6fa9659868.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Practice Class",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/NNoFiBuqGv8",
+      "hd_video_url": "https://www.youtube.com/embed/NNoFiBuqGv8",
+      "thumbnail": "https://i.ytimg.com/vi/NNoFiBuqGv8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a841ea0c-840f-4d39-8796-170c887a9e3e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Practice Class",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/25h7xVlRKDo",
+      "hd_video_url": "https://www.youtube.com/embed/25h7xVlRKDo",
+      "thumbnail": "https://i.ytimg.com/vi/25h7xVlRKDo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4aaceb48-9f2b-40b6-9a28-27dde2731acd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Practice Class",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-gT2b4oGOKs",
+      "hd_video_url": "https://www.youtube.com/embed/-gT2b4oGOKs",
+      "thumbnail": "https://i.ytimg.com/vi/-gT2b4oGOKs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a3c640f-823a-43c5-8e0b-682e5a9b7486.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Practice Class",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/F-VTIsf7dJ4",
+      "hd_video_url": "https://www.youtube.com/embed/F-VTIsf7dJ4",
+      "thumbnail": "https://i.ytimg.com/vi/F-VTIsf7dJ4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b8e8455-95bd-46ca-b6ff-44407e89d8bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Animal Kingdom",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Q3yrswgCSy0",
+      "hd_video_url": "https://www.youtube.com/embed/Q3yrswgCSy0",
+      "thumbnail": "https://i.ytimg.com/vi/Q3yrswgCSy0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80450f60-ccbc-4e1c-9d3d-1b0db06ae01d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Taxonomy",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/CgLaP4j8y84",
+      "hd_video_url": "https://www.youtube.com/embed/CgLaP4j8y84",
+      "thumbnail": "https://i.ytimg.com/vi/CgLaP4j8y84/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Biology by Amrita Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2976fdca-942f-4d7c-85df-6a115db0fce0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

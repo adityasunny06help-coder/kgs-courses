@@ -1,0 +1,205 @@
+{
+  "subject_name": "Chemistry by Sumit Sir",
+  "subject_id": 7474,
+  "video_count": 14,
+  "note_count": 14,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/286048/kgss-1751251346-v286048.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5aprDlKu2ms",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZErq1dFOhw3DletAPI2IQIvBqQ9HGkMpsvCql1vC.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cfc67c8-e3cd-49e4-bdfa-81ace22c8c53.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || चार्ल्स का नियम || Charles' law",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/286990/kgss-1751338510-v286990.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/88tJF0iau6c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8XHVXm89s6VC7aHsdRQh5Zl6iI3Na2sIYgACG2YV.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || चार्ल्स का नियम || Charles' law",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18ee9220-0dcf-4664-abd0-6346d2764e1e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Physical Chemistry",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/287825/kgss-1751425448-v287825.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qgWhFFv9_ZE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kl3aQDnjtmr7VawjVGdoqMXuKouqSzifplXoDhKu.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Physical Chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b5727a6-5a88-492f-b548-8a5f8358108d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ||  अम्ल, क्षार और लवण || Acid base & Salt",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/289554/kgss-1751510624-v289554.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-llNYawDme4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lPkKoHZKTWS6V6o1vqtEkMLrFyQGueYbry066p1B.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 ||  अम्ल, क्षार और लवण || Acid base & Salt",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d91ac736-dd81-4c2e-8233-d5d7522963fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || अम्ल, क्षार और लवण || Acid base & Salt (Part-2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/290324/kgss-1751597261-v290324.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/J0bt9yoWCxM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lVu9077h75c2799G8DQdg38pkINs5M7I09sVWwap.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || अम्ल, क्षार और लवण || Acid base & Salt (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33851ce2-cad1-4340-baec-4a5ccceb7d0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || रेडियोधर्मिता || Radioactivity  (Part-1)",
+      "published_date": "05 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292097/kgss-1751683831-v292097.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K7AfjHxsZnI",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-6 || रेडियोधर्मिता || Radioactivity  (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/235c3f6c-60ef-4f8a-94f5-3d5f2eb0b645.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || रेडियोधर्मिता || Radioactivity (Part-2)",
+      "published_date": "06 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292748/kgss-1751769677-v292748.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tbNyvifKG_w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IuGEyihFCO5fcu4aEaYOBXZQ1X4DJleiyeUffvSQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || रेडियोधर्मिता || Radioactivity (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16570381-6de4-404a-b8b4-37527fee806f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || रेडियोधर्मिता || Radioactivity (Part-3)",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/292776/kgss-1751856227-v292776.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FR6wUtPHkqM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BHOGZR1fR2d0s6kvmPQ8nfyE2x3bzPLfrrLITkzd.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || रेडियोधर्मिता || Radioactivity (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c11f7541-1f0b-470b-b5cf-9821744a2f9f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || रेडियोधर्मिता || Radioactivity (Part-4)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/293541/kgss-1751942934-v293541.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IAqKIk_cKtw",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-9 || रेडियोधर्मिता || Radioactivity (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45edf3d8-4665-465a-b48f-3c0404089599.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/294390/kgss-1752031155-v294390.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3hXlKLxF7MM",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture-10 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82b22680-4dca-4daf-91a6-d7a8fca9e44f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-2)",
+      "published_date": "10 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/fA_HfbkVyMA",
+      "hd_video_url": "https://www.youtube.com/embed/fA_HfbkVyMA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VhZDEVM1Td5QxNdfJSAyEQD35VEjNMqLjjIJarG4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c208024-73b0-4de3-b231-a6f3e20636a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-3)",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/296081/kgss-1752203499-v296081.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4LLq2QTM_2Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/InoK7VsBnYH2K7Jy6H5fUCmq7LkgiZS9wHWfQ8qk.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86961880-d909-418f-b40b-e5b9044725a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-4)",
+      "published_date": "12 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/297005/kgss-1752288988-v297005.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S8EoX2D-Bic",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pYewQWhuEBUP8aOfeKMzjiA5fAqAc3uqsnaMJ7zl.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd0b41c2-5cae-4ccb-a6c0-53eb06907220.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-5)",
+      "published_date": "13 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/297847/kgss-1752370220-v297847.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KZxibpqd2xQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/h538hQhMcRWmS4g0jdttFO3tp2Cp9fygFJRpz4Cv.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || अकार्बनिक रसायन शास्त्र || Inorganic chemistry (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4279b17c-f4bb-4b6f-a720-15c9e3b4490a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

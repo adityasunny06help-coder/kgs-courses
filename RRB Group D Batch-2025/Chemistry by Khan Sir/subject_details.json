@@ -1,0 +1,233 @@
+{
+  "subject_name": "Chemistry by Khan Sir",
+  "subject_id": 5153,
+  "video_count": 16,
+  "note_count": 16,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Matter Around Us || हमारे आस - पास के पदार्थ",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/sUChJNkLzQU",
+      "hd_video_url": "https://www.youtube.com/embed/sUChJNkLzQU",
+      "thumbnail": "https://i.ytimg.com/vi/sUChJNkLzQU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Chemistry by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66185cfd-a645-4609-8865-a455e793efeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Structure of Atom || परमाणु की संरचना",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/HJs4BgPAjb8",
+      "hd_video_url": "https://www.youtube.com/embed/HJs4BgPAjb8",
+      "thumbnail": "https://i.ytimg.com/vi/HJs4BgPAjb8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Chemistry by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e665d146-fd64-4f48-b94d-0e124fc82608.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Element and Mixture || तत्व तथा मिश्रण",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Ltwu0u4vLX4",
+      "hd_video_url": "https://www.youtube.com/embed/Ltwu0u4vLX4",
+      "thumbnail": "https://i.ytimg.com/vi/Ltwu0u4vLX4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Element and Mixture || तत्व तथा मिश्रण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5cf26f6-8af0-4cc5-b4f9-c2f0e5b0b8cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Solutions || विलयन",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/sMvrndkpXgk",
+      "hd_video_url": "https://www.youtube.com/embed/sMvrndkpXgk",
+      "thumbnail": "https://i.ytimg.com/vi/sMvrndkpXgk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Chemistry by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a263a003-4fef-4779-b58a-d25f0fd5d438.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Acid, Base and Salt || अम्ल, क्षारक एवं लवण",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/N-9XGNRfWPA",
+      "hd_video_url": "https://www.youtube.com/embed/N-9XGNRfWPA",
+      "thumbnail": "https://i.ytimg.com/vi/N-9XGNRfWPA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Acid, Base and Salt || अम्ल, क्षारक एवं लवण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/314e2912-5be7-4482-9cd9-d570a1663972.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Radioactivity || रेडियोसक्रियता",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/J2rNiGODQew",
+      "hd_video_url": "https://www.youtube.com/embed/J2rNiGODQew",
+      "thumbnail": "https://i.ytimg.com/vi/J2rNiGODQew/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Radioactivity || रेडियोसक्रियता",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8e325a6-a216-4abb-bfba-2441db7f7baf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 ||  Chemical Reactions and Equations || रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ZhpdHWWH3yE",
+      "hd_video_url": "https://www.youtube.com/embed/ZhpdHWWH3yE",
+      "thumbnail": "https://i.ytimg.com/vi/ZhpdHWWH3yE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 ||  Chemical Reactions and Equations || रासायनिक अभिक्रियाएँ एवं समीकरण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26266175-1a98-4e10-94a1-65ef46cc2f0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Periodic Table || आवर्त सारणी",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/stY01A3iQ3c",
+      "hd_video_url": "https://www.youtube.com/embed/stY01A3iQ3c",
+      "thumbnail": "https://i.ytimg.com/vi/stY01A3iQ3c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Periodic Table || आवर्त सारणी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/600c5e13-4b60-4895-b840-0bf3d8f91d64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Periodic Table || आवर्त सारणी (Part 02)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/fgi_RKY_-lM",
+      "hd_video_url": "https://www.youtube.com/embed/fgi_RKY_-lM",
+      "thumbnail": "https://i.ytimg.com/vi/fgi_RKY_-lM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Periodic Table || आवर्त सारणी (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95ea5ab9-0e37-48da-80ba-5dfcf09338ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Chemistry by Khan Sir",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/aPTiy8E4TXk",
+      "hd_video_url": "https://www.youtube.com/embed/aPTiy8E4TXk",
+      "thumbnail": "https://i.ytimg.com/vi/aPTiy8E4TXk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Chemistry by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/320965ec-dcdd-4822-8b58-3af2702490c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11|| Ores and Metallurgy || अयस्क और धातुकर्म",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/otk-k3jdnBQ",
+      "hd_video_url": "https://www.youtube.com/embed/otk-k3jdnBQ",
+      "thumbnail": "https://i.ytimg.com/vi/otk-k3jdnBQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11|| Chemistry by Khan Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd3b9ef0-71d4-43e9-ab0b-026271a44e71.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12|| Organic Chemistry and its Compound || कार्बनिक रसायन एवं उसके यौगिक",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Zy9uMRb42eM",
+      "hd_video_url": "https://www.youtube.com/embed/Zy9uMRb42eM",
+      "thumbnail": "https://i.ytimg.com/vi/Zy9uMRb42eM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12|| Organic Chemistry and its Compound || कार्बनिक रसायन एवं उसके यौगिक",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7a474c2-82d6-4811-9565-cb705b0279d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Fuel || ईंधन",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/x1BXrtRwv3E",
+      "hd_video_url": "https://www.youtube.com/embed/x1BXrtRwv3E",
+      "thumbnail": "https://i.ytimg.com/vi/x1BXrtRwv3E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Fuel || ईंधन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acbd3a49-f967-4028-84b2-49dc3bc20df6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Chemistry in Human Life || मानव जीवन में रसायन",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cyx94QtMBVk",
+      "hd_video_url": "https://www.youtube.com/embed/cyx94QtMBVk",
+      "thumbnail": "https://i.ytimg.com/vi/cyx94QtMBVk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Chemistry in Human Life || मानव जीवन में रसायन",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dbbf1349-82a4-4460-92ec-5b0416bddfdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Chemistry in Human Life || मानव जीवन में रसायन (Part 02)",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/zb5Y0scVSrs",
+      "hd_video_url": "https://www.youtube.com/embed/zb5Y0scVSrs",
+      "thumbnail": "https://i.ytimg.com/vi/zb5Y0scVSrs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Chemistry in Human Life || मानव जीवन में रसायन (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7090082b-db38-434e-bbcc-3ef2c609f5e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || मानव जीवन में रसायन विज्ञान || Chemistry in Human life (Part 03) || Last Class",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/iA3m86KTgf8",
+      "hd_video_url": "https://www.youtube.com/embed/iA3m86KTgf8",
+      "thumbnail": "https://i.ytimg.com/vi/iA3m86KTgf8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || मानव जीवन में रसायन विज्ञान || Chemistry in Human life (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3df9c85-59bf-4425-92a5-6d5582d0bde3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

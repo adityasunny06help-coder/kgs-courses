@@ -1,0 +1,72 @@
+{
+  "subject_name": "कृषि",
+  "subject_id": 4768,
+  "video_count": 7,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture- 150 || भारत का भूमि उपयोग",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176213/kgss-1736332669-v176213.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sxzYCBNLeT8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b7c23d46.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 151 || भारत में कृषि विकास",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176461/kgss-1736420866-v176461.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FeiljFY8IR8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b7b3f0e1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture- 152 || भारत में कृषि विकास के चरण",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177065/kgss-1736507387-v177065.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jHQseKAHr_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b7a598d7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 153 || भारतीय कृषि का प्रादेशीकरण",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177937/kgss-1736768024-v177937.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EW7Wdm_CXt8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b79746e3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 154 || भारत कृषि उत्पादकता",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178411/kgss-1736842684-v178411.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/B5CLmoXIwBc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b7892231.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture- 155 || फसल बीज",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178892/kgss-1736938428-v178892.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YharrmDmGbc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b0b777c150.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture- 156 || भारतीय कृषि का इतिहास एवं समस्याएं",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181459/kgss-1737198337-v181459.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/aRi3jp7KAfY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/av3oPhoTL4Hgxa8nOZEGL67oTPVuEl3nSSgjfWts.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

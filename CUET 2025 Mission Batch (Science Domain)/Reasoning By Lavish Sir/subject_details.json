@@ -1,0 +1,457 @@
+{
+  "subject_name": "Reasoning By Lavish Sir",
+  "subject_id": 5889,
+  "video_count": 32,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -01 || ENGLISH ALPHABET - 01",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/N8Rd6xelWv4",
+      "hd_video_url": "https://www.youtube.com/embed/N8Rd6xelWv4",
+      "thumbnail": "https://i.ytimg.com/vi/N8Rd6xelWv4/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture -01 || ENGLISH ALPHABET - 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f4ac2c2-9923-4e06-a844-2cc3bb12c870.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || ENGLISH ALPHABET - 2",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/u442ybdKU6I",
+      "hd_video_url": "https://www.youtube.com/embed/u442ybdKU6I",
+      "thumbnail": "https://i.ytimg.com/vi/u442ybdKU6I/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture - 02 || ENGLISH ALPHABET - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2ed0477-8bb4-432e-94c9-96893ea7a974.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || CODING DECODING - 1",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Dx4JxLxq4BY",
+      "hd_video_url": "https://www.youtube.com/embed/Dx4JxLxq4BY",
+      "thumbnail": "https://i.ytimg.com/vi/Dx4JxLxq4BY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || CODING DECODING - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa334baa-3bf8-4e27-981b-f7116c58249b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || CODING DECODING - 2",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/lzI5aCKnx8I",
+      "hd_video_url": "https://www.youtube.com/embed/lzI5aCKnx8I",
+      "thumbnail": "https://i.ytimg.com/vi/lzI5aCKnx8I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 04 || CODING DECODING - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24e53657-28c8-41e2-b925-0d03d3e11e6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 ||DIRECTION TEST - 1",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/h7XRukRJTo0",
+      "hd_video_url": "https://www.youtube.com/embed/h7XRukRJTo0",
+      "thumbnail": "https://i.ytimg.com/vi/h7XRukRJTo0/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - DIRECTION TEST",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/830d5181-d4eb-4a85-a982-e96adf3e4c8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || DIRECTION - 2",
+      "published_date": "06 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/i8QLkyN-CU4",
+      "hd_video_url": "https://www.youtube.com/embed/i8QLkyN-CU4",
+      "thumbnail": "https://i.ytimg.com/vi/i8QLkyN-CU4/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture - 06 || DIRECTION - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a46c868-c9ad-48d3-90b0-f89359bafe02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || BLOOD RELATION - 1",
+      "published_date": "06 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GXktHTTbOfo",
+      "hd_video_url": "https://www.youtube.com/embed/GXktHTTbOfo",
+      "thumbnail": "https://i.ytimg.com/vi/GXktHTTbOfo/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture - 07 || BLOOD RELATION - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5298218d-22d9-4e42-812e-1eb6768bbc79.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || BLOOD RELATION - 2",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/bMnKfWl1M8I",
+      "hd_video_url": "https://www.youtube.com/embed/bMnKfWl1M8I",
+      "thumbnail": "https://i.ytimg.com/vi/bMnKfWl1M8I/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 08 || BLOOD RELATION - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/211a6d50-f557-4dac-9a97-ff96578464ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || SERIES",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OYC-vd75zxA",
+      "hd_video_url": "https://www.youtube.com/embed/OYC-vd75zxA",
+      "thumbnail": "https://i.ytimg.com/vi/OYC-vd75zxA/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 09 || SERIES",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81a17ba0-e31f-4bcc-9bb7-1cbec43da500.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || RANKING",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/si377N27nwQ",
+      "hd_video_url": "https://www.youtube.com/embed/si377N27nwQ",
+      "thumbnail": "https://i.ytimg.com/vi/si377N27nwQ/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 10 || RANKING",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/353d8b5d-e7a9-4a94-8454-a7258e763799.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || ANALOGY AND CLASSIFICATION",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/yWeJsAnPJ38",
+      "hd_video_url": "https://www.youtube.com/embed/yWeJsAnPJ38",
+      "thumbnail": "https://i.ytimg.com/vi/yWeJsAnPJ38/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 11 || ANALOGY AND CLASSIFICATION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8f0c82a-9fdb-4bab-adc7-e7f891071bdd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || ARRANGMENT OF WORDS IN LOGICAL ORDER",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/S7TJNjdAVnk",
+      "hd_video_url": "https://www.youtube.com/embed/S7TJNjdAVnk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef669c0215.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 12 || ARRANGMENT OF WORDS IN LOGICAL ORDER",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff6bc0e8-e277-45b6-ba4a-4a5a2ce3d4a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || SITTING ARRANGMENTS - 1",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qhg7SSpKaFE",
+      "hd_video_url": "https://www.youtube.com/embed/qhg7SSpKaFE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef66944f6f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || SITTING ARRANGMENTS - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b287075-b270-484c-a692-69d0e2eb0b19.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || SITTING ARRANGMENTS - 2",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/OChPhsUDq2E",
+      "hd_video_url": "https://www.youtube.com/embed/OChPhsUDq2E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 14 || SITTING ARRANGMENTS - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad6b200d-f632-4cb3-855c-8f614eb9ac3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || SYLLOGISM - 1",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/P78TUubiWcU",
+      "hd_video_url": "https://www.youtube.com/embed/P78TUubiWcU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L9HQP34LQFCF7ZzBVUFAsNPRG3nqcgWd0mJg31L0.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 15 || SYLLOGISM - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67ed9b98-3d56-412c-bd5c-6f40aac15f7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || SYLLOGISM - 2",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/kQZ-HnX70aw",
+      "hd_video_url": "https://www.youtube.com/embed/kQZ-HnX70aw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XEJ4vciFxvUCSTJMjLpSEC3eVuzOn872jXP0FbTw.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 16 || SYLLOGISM - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/347a5a4b-6007-4b5f-9503-6bdeca034aaf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || WATER AND MIRROR IMAGES & PAPER CUTTING AND FOLDING - 1",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SOYMTMOh1aY",
+      "hd_video_url": "https://www.youtube.com/embed/SOYMTMOh1aY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fF1wNZEaGe6TjSSkM8txPSdR8ZCthsWgHroInGdA.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 17 || WATER AND MIRROR IMAGES & PAPER CUTTING AND FOLDING - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e41a91b2-ee41-4b41-8425-a6fe3c68a5b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || Data Sufficiency",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/hiCoFoz3gpU",
+      "hd_video_url": "https://www.youtube.com/embed/hiCoFoz3gpU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6681e0ed.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || Data Sufficiency",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e15178c-7a3b-42d2-8132-2ee79c891b96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || EBBEDED FIGURE",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/sVeM_2Tp07E",
+      "hd_video_url": "https://www.youtube.com/embed/sVeM_2Tp07E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6679722c.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 19 || EBBEDED FIGURE",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dccd2d3-c714-4cf5-9ad2-f695ac4431b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || DICE",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/MF5IrmVMS_8",
+      "hd_video_url": "https://www.youtube.com/embed/MF5IrmVMS_8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6671818d.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 20 || DICE",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/308c97fc-7636-4f1c-8d88-df62d0cf5cbb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || INSERTING MISSING CHARCTER",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Q74IPWvcI0A",
+      "hd_video_url": "https://www.youtube.com/embed/Q74IPWvcI0A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef666919fe.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || INSERTING MISSING CHARCTER",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9609dce9-5f85-497c-98a5-cc2fb85a46a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || FIGURE COUNTING",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WBwqoZRTqCY",
+      "hd_video_url": "https://www.youtube.com/embed/WBwqoZRTqCY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef66616648.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || FIGURE COUNTING",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7278702d-7bc9-4008-87dd-113c8cc0f8be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || PATTERN COMPLETION",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/QlhaXjsx3Wc",
+      "hd_video_url": "https://www.youtube.com/embed/QlhaXjsx3Wc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6658f216.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || PATTERN COMPLETION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f00c6b98-7cfb-4b10-b11e-87f3dcf00ce5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || STATEMENT AND ASSUMPTION",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/j7DKk3JJ8j4",
+      "hd_video_url": "https://www.youtube.com/embed/j7DKk3JJ8j4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6650ecb0.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 24 || STATEMENT AND ASSUMPTION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c3d02e2-f494-4907-9444-9f84da9f0eb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || STATEMENT AND ARGUMENT",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/TOxpfRpWYa4",
+      "hd_video_url": "https://www.youtube.com/embed/TOxpfRpWYa4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef664849db.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 25 || STATEMENT AND ARGUMENT",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/575212fc-8cea-47a2-a3e7-4a0d16bd117a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || STATEMENT AND COURSE OF ACTION",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/coheNFUVJA0",
+      "hd_video_url": "https://www.youtube.com/embed/coheNFUVJA0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef66406a0f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || STATEMENT AND COURSE OF ACTION",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e26f863-960e-4219-b9a4-beb01ea5949b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || CLOCK - 1",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/D8P_6A8aJNQ",
+      "hd_video_url": "https://www.youtube.com/embed/D8P_6A8aJNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef66380782.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || CLOCK - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/064871b9-dde2-46a6-9437-a2f0cb179a5a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || CLOCK - 2",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/XdEhAa3vH8A",
+      "hd_video_url": "https://www.youtube.com/embed/XdEhAa3vH8A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef66303840.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || CLOCK - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce7c3afe-9f99-4855-921b-876ed1f00f96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || CALENDAR-1",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/oCErJjdlmog",
+      "hd_video_url": "https://www.youtube.com/embed/oCErJjdlmog",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FUi0i2L6NiP1y1QbiZIzQcTZN70k15p0g3QmkVnq.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || CALENDAR-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f9afba3-7dec-4e08-9d70-a9b71cbfa70f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || CALENDAR-2",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jK89mzbRFGA",
+      "hd_video_url": "https://www.youtube.com/embed/jK89mzbRFGA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef6623d834.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || CALENDAR-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e155b9db-e04a-498e-a987-c548239c765c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || DOUBT - 1",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/T5xRPrUk_I0",
+      "hd_video_url": "https://www.youtube.com/embed/T5xRPrUk_I0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef661b2c5a.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || DOUBT - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76f7522b-4a02-4c20-854e-fc401dc93aa1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || TEST - 1",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/J-ZLPzRX8Uc",
+      "hd_video_url": "https://www.youtube.com/embed/J-ZLPzRX8Uc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687ef660f41a3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || TEST - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42a45f9e-dae6-4d3c-ba90-ba8bb8e4b3a0.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

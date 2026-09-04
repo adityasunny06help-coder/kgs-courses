@@ -1,0 +1,379 @@
+{
+  "subject_name": "Current Affairs by Yadavendra Sir",
+  "subject_id": 1356,
+  "video_count": 35,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Ranking & Indexes || रैंकिंग और सूचकांक (2023-2024)",
+      "published_date": "11 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/45778/kgss-1704955353-v45778.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VAbL6vQJS9I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//93a22666-4230-4b75-8657-6e85a5b02378.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Defence Current Affairs || रक्षा करेंट अफेयर्स",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46045/kgss-1705042238-v46045.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hTgLedcPYJ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//81373d1c-4f16-45a0-b3e1-c620c564e61b.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Summits & Conference || शिखर सम्मेलन और सम्मेलन",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46529/kgss-1705301226-v46529.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QM0AhpToTrQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//263c4a22-902b-40e9-8029-70ed1fb828eb.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Government Schemes || सरकारी योजनाएं",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/46862/kgss-1705387565-v46862.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gQeyMEKo8dU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//65c2d84e-e3d8-4681-8a8d-765c2043c78a.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Environment & Biodiversity || पर्यावरण एवं जैव विविधता",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47069/kgss-1705474550-v47069.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IIR31eu2fb4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//307cdf7f-bb34-4ff5-9db1-079fa84885f9.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Awards and Honors || पुरस्कार एवं सम्मान",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47482/kgss-1705560162-v47482.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PfqCDTQ9MCA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b820ab24-0025-48e6-b34b-db7d76de7ce9.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Places in News || खबरों में रहें स्थान",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/jan-2024/47654/kgss-1705647072-v47654.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DBzQwlE1S9E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1fc943e3-b11b-40ed-bebb-2d9874cc5e09.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Science & Technology || विज्ञान प्रौद्योगिकी",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Ih2Q-norLTs",
+      "hd_video_url": "https://www.youtube.com/embed/Ih2Q-norLTs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yATFN5mWaarPmLoqa0F2VygicjACbaY9toWTapgF.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Art & Culture || कला एवं संस्कृति",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/current-affairs/l-09/l-09-current-aff-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q60KGQBSROI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WZXeUTgkUTi5bs9BsfSvGJTn6U25AGo0dalVNuIl.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Sports || खेल",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/49612/kgss-1706173523-v49612.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/63lTugevuO8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/EufZxAIWQdgrSEuGb4hsnfGMc9f7L5GzSU2azuAc.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || National || राष्ट्रीय (Part-1)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50170/kgss-1706511244-v50170.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vW0btQSz7Ho",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bjfa6PYuuU02QivdJfti8TNkGjGM3Tla18crN5KU.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || National || राष्ट्रीय (Part-2)",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50458/kgss-1706597487-v50458.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o5wq4prvCuo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/f8b7YiWDBLivrhI8hGjYlKMWoXYOV7YIbfp9CJOM.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || International || अंतरराष्ट्रीय",
+      "published_date": "31 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2024/50879/kgss-1706683857-v50879.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gviqjMqAUbE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WSiZFrwNo4MGtsrBgy0NyoIqedvXyZxPe6y73Na7.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || International || अंतरराष्ट्रीय (Part-2)",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51154/kgss-1706769767-v51154.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/whdMf3YvMCc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WBTjU2RIcZGb1nRJbJZu767IRHlN3ILCVrOhpcCh.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || May || मई 2023 (Part-1)",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51242/kgss-1706856605-v51242.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/y6xm_sgCerE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Bib83Sotr0ERMMYiAjIaYkIG90RXQQrakS7SKnX2.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || June || जून - 2023",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/51967/kgss-1707115495-v51967.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ir_eoCipUDU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/257PU0ItRd8XovrjYfiW5WP9x60VrpRKPZSwYSSP.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || May + June || मई (Part-2) + जून - 2023 (Part-1)",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/52193/kgss-1707201419-v52193.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mtK0xcW8NqA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/BDraAePeF0BCi6jzCuzP9hyGgpt9Dql7V4amzG3V.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || May + June || मई (Part-3) + जून - 2023 (Part-2)",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/52627/kgss-1707288401-v52627.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/39e_6GVa0Gk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CxFQYQKoM5SyDCMI9nFkVBLpnMDMAXfzPOmLtIQ4.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || July || जुलाई (Part-1)",
+      "published_date": "08 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/53017/kgss-1707374680-v53017.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3C3scvJlAfI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/1GMhj6t7I8AOEFbfkgjJhg1SZmdyt52F2amaHA6u.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || July || जुलाई (Part-2)",
+      "published_date": "09 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/53355/kgss-1707461419-v53355.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g9Zl3EoV4NA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bri8S7ktRslIpgzO8NnqRemc9BoTjZzlxofMATzJ.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || August || अगस्त (Part-1)",
+      "published_date": "12 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/53755/kgss-1707720119-v53755.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zeXUqqkdwCs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Tw4B9kGKzIHlKJbFbXb426k9Mr4foU1fg7wTk7Sc.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || August || अगस्त (Part-2)",
+      "published_date": "13 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/54249/kgss-1707814421-v54249.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kQHs_1NDhFc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2OALnTgz4eFdUy54YtnvOxz5hOFVz6JQ6Roc82Em.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || September || सितम्बर 2023 (Part-1)",
+      "published_date": "14 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/54483/kgss-1707900517-v54483.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ejnjo8UN1L0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GtBtud7ikobLsQ3YTUyzFfkBfeB5FGq5nOKUEUzW.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || September || सितम्बर 2023 (Part-2)",
+      "published_date": "15 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/54795/kgss-1707987204-v54795.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0RutGRdZALI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iUHfhyBmILtxkqh7kdqYJuoW7SPpVWfdhQLFx8AU.png",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || October || अक्टूबर (Part-1)",
+      "published_date": "16 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55113/kgss-1708073254-v55113.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/038M151sQLw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mrv81oZcTjKLollN5AZs5Vyvh0xljKSUuQRlzFyJ.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || October || अक्टूबर (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f0676c7e-203e-4c22-8ad9-b022b63e56d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || October || अक्टूबर (Part-2)",
+      "published_date": "19 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55443/kgss-1708331743-v55443.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GrfmfcQxeJ4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WDtSG7HhW1hQ9RTMezX2OvXmBNq8kYevqkdNbnNF.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || October || अक्टूबर (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/da51aad3-1447-4900-9c69-868d1ccaac73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || November || नवंबर (Part-1)",
+      "published_date": "20 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55684/kgss-1708418926-v55684.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KYAyp0O0ArM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KbVo5hvpPMbvZxBYhOmsKIFgZaTQ9wxRlo2YJiQd.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || November || नवंबर (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f7b5f4f8-f6c8-434f-a253-0637a9432f3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || November || नवंबर (Part-2)",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/55926/kgss-1708495530-v55926.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lN6P5uarkWs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ssrNuVZ4W7k5yecjYVl6Im68FehCKM1T7Cxzg5Sa.png",
+      "notes": [
+        {
+          "title": "Lecture-28 || November || नवंबर (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/06e88a74-4855-4459-9e27-82b80c508ec2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || December || दिसंबर (Part-1)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/uppsc/current-affairs/l-29/l-29-current-aff-uppsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OWfhXxqXyB0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/6XFzBOtSE4vK0ZmtKMhAEvQiFKQ0HuG2uLOkZTH3.png",
+      "notes": [
+        {
+          "title": "Lecture-29 || December || दिसंबर (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f9418901-f88c-4347-882d-f2e09e6cd0ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || December || दिसंबर (Part-2)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/56692/kgss-1708927517-v56692.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8GErO08ou0A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IKm74mLgZd8sLEtNYMxNOiI0wMGWUCZojASufqix.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || December || दिसंबर (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/21ad4cb7-9778-4277-bff1-4f5148e3ecb8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || January || जनवरी (Part-1)",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58364/kgss-1709014447-v58364.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zDPPrPBIy44",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/sBji8FVpcsSnaxtUNPYngvlRHxD6N0KWoUmXgx1I.png",
+      "notes": [
+        {
+          "title": "Lecture-31 || January || जनवरी (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e38b273a-68f6-43da-a965-e7c69c574e31.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || January || जनवरी (Part-2)",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58597/kgss-1709101490-v58597.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F5dtQZ0XOHc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/9GVz5UTE6n33BWElhUKs1VR7QK4sgd2aHd31fmbz.png",
+      "notes": [
+        {
+          "title": "Lecture-32 || January || जनवरी (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/794044ad-9fc5-46d7-b05d-eb793faa9849.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || February || फ़रवरी (Part-1)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2024/58821/kgss-1709186214-v58821.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qYrl9TuF4ik",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/bxcEHApkHuLJrXkEjiWeLf4L0P3OXN1mVxYQ0BTm.png",
+      "notes": [
+        {
+          "title": "Lecture-33 || February || फ़रवरी (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/051e7af9-6cc9-4499-9c89-b649b87dd66e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || February || फ़रवरी (Part-2)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/59044/kgss-1709274097-v59044.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sz8NS-c6ayw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5jJvTKA4LZjuHRPJbeM2vikNp7fecFK3J3CoK2zs.png",
+      "notes": [
+        {
+          "title": "Lecture-34 || February || फ़रवरी (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c02f769d-5f36-437f-b5ca-b37f69e3fd62.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Current Affairs Test",
+      "published_date": "02 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2024/59200/kgss-1709360015-v59200.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ditRgEZewoQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ynqmo8oEDHScBKEnyDEe1XO2NndfijL21mgMwEGP.png",
+      "notes": [
+        {
+          "title": "Lecture-35 || Current Affairs Test",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1e9ebb92-3ef9-47a2-9157-a1778b0a2311.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

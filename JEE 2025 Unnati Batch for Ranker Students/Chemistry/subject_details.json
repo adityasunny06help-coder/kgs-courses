@@ -1,0 +1,135 @@
+{
+  "subject_name": "Chemistry",
+  "subject_id": 5408,
+  "video_count": 9,
+  "note_count": 9,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || GOC & Isomerism",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/qF4HGZZkdaw",
+      "hd_video_url": "https://www.youtube.com/embed/qF4HGZZkdaw",
+      "thumbnail": "https://i.ytimg.com/vi/qF4HGZZkdaw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || GOC & Isomerism",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89dda289-053c-4e08-a921-f53642e736e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Hydrocarbons",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uCKm8Mr1oFU",
+      "hd_video_url": "https://www.youtube.com/embed/uCKm8Mr1oFU",
+      "thumbnail": "https://i.ytimg.com/vi/uCKm8Mr1oFU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Hydrocarbons",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79ddc87b-0393-437a-81cc-db7a8f71e28d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Haloalkanes and Haloarenes",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/tmC8UP3znN4",
+      "hd_video_url": "https://www.youtube.com/embed/tmC8UP3znN4",
+      "thumbnail": "https://i.ytimg.com/vi/tmC8UP3znN4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Haloalkanes and Haloarenes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3865cd3e-9d2c-471d-936f-402983f7d814.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Alcohols, Phenols and Ethers",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Z3Ug9x78jlI",
+      "hd_video_url": "https://www.youtube.com/embed/Z3Ug9x78jlI",
+      "thumbnail": "https://i.ytimg.com/vi/Z3Ug9x78jlI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Alcohols, Phenols and Ethers",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/982cc05c-1b4e-41ae-a304-8b8ee5ee9a35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 ||  Aldehydes, Ketones and Carboxylic Acids",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/n53_ehpoRfI",
+      "hd_video_url": "https://www.youtube.com/embed/n53_ehpoRfI",
+      "thumbnail": "https://i.ytimg.com/vi/n53_ehpoRfI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 ||  Aldehydes, Ketones and Carboxylic Acids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a01267c-3fbb-49a8-814d-f8ff943d6f1b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 - || Amines",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/IK8Uz_xjxgM",
+      "hd_video_url": "https://www.youtube.com/embed/IK8Uz_xjxgM",
+      "thumbnail": "https://i.ytimg.com/vi/IK8Uz_xjxgM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 - || Amines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42ec7a77-8829-4f09-9a44-0a12aa3e700d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Biomolecule",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Vrim-pShyFE",
+      "hd_video_url": "https://www.youtube.com/embed/Vrim-pShyFE",
+      "thumbnail": "https://i.ytimg.com/vi/Vrim-pShyFE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Biomolecule",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e38b698a-c066-4cad-b8a3-5a399cf5e7ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || Mole Concept",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/CL41EwYFIMg",
+      "hd_video_url": "https://www.youtube.com/embed/CL41EwYFIMg",
+      "thumbnail": "https://i.ytimg.com/vi/CL41EwYFIMg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || Mole Concept",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c96a907-3957-4515-90c3-55d3d96a8528.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || Solutions",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/MNckSPlkAWY",
+      "hd_video_url": "https://www.youtube.com/embed/MNckSPlkAWY",
+      "thumbnail": "https://i.ytimg.com/vi/MNckSPlkAWY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || Solutions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a35e4708-fafc-4d29-bcb8-cf68fb0bb94b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

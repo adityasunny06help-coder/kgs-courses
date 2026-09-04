@@ -1,0 +1,135 @@
+{
+  "subject_name": "Geography by Ajeet Sir",
+  "subject_id": 5268,
+  "video_count": 14,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || भारत की भूगर्भिक संरचना",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/195216/kgss-1739932133-v195216.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e4J9cX3thv8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6ab444ee2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || भारत एवं बिहार का भौतिक विभाजन",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197537/kgss-1740018147-v197537.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nyYh8bgqRHM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6ab33ac64.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || भारत एवं बिहार का भौतिक विभाजन",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197820/kgss-1740104243-v197820.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rzDZ8Mnk8ls",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6ab232425.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || भारत एवं बिहार का भौतिक विभाजन",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198257/kgss-1740191352-v198257.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/44s3GIA_AT8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6ab11fe08.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || बहुउद्देश्यीय नदी घाटी परियोजना",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198824/kgss-1740277509-v198824.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CaOUGzQIQEU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6ab01407a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || भारत एवं बिहार की जलवायु",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198872/kgss-1740364279-v198872.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6ZWCo3vEpU8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6aaf0753c.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || भारत एवं बिहार की जलवायु",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199306/kgss-1740450465-v199306.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PMt_K6B5U3Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6aadeca83.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || वनस्पति और मृदा",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BoIaPLxXr1I",
+      "hd_video_url": "https://www.youtube.com/embed/BoIaPLxXr1I",
+      "thumbnail": "https://i.ytimg.com/vi/BoIaPLxXr1I/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || मृदा एवं जनसंख्या",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/3YExiUVDSXI",
+      "hd_video_url": "https://www.youtube.com/embed/3YExiUVDSXI",
+      "thumbnail": "https://i.ytimg.com/vi/3YExiUVDSXI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || प्रवासन || Migration",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bcHDkA3Dq2Y",
+      "hd_video_url": "https://www.youtube.com/embed/bcHDkA3Dq2Y",
+      "thumbnail": "https://i.ytimg.com/vi/bcHDkA3Dq2Y/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Geography",
+      "published_date": "30 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/220495/kgss-1743301870-v220495.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uEbd6nvuz5I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6aac04860.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Geography",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220516/kgss-1743479633-v220516.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0V-nRwv3lxA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6aaa4e71a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Agriculture India & Bihar",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229682/kgss-1745051313-v229682.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yUbEoxrEeOI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683a6aa8d8ed1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Agriculture India & Bihar",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230082/kgss-1745069656-v230082.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OEMrxhtwzvE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a1a10b3675.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

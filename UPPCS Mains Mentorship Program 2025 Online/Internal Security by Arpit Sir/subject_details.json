@@ -1,0 +1,36 @@
+{
+  "subject_name": "Internal Security by Arpit Sir",
+  "subject_id": 7147,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || आंतरिक सुरक्षा",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/9QjpXJPoUBQ",
+      "hd_video_url": "https://www.youtube.com/embed/9QjpXJPoUBQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rfsYcA8Up4pTBOHoxp8MDpHVebHlAhlxqIAb0T4z.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || आंतरिक सुरक्षा",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/8qCqeIYvTLo",
+      "hd_video_url": "https://www.youtube.com/embed/8qCqeIYvTLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O3ccDdgOQuWhVZn1ySnFc1aEIPt8oyOgZWAJPQbY.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || आंतरिक सुरक्षा",
+      "published_date": "07 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/CjzJX5nipZg",
+      "hd_video_url": "https://www.youtube.com/embed/CjzJX5nipZg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lohCllk6vRLJXroucLIrttc6tabmeweHmFZvkKia.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

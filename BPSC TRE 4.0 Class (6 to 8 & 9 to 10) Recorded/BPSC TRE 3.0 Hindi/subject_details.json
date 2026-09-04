@@ -1,0 +1,79 @@
+{
+  "subject_name": "BPSC TRE 3.0 Hindi",
+  "subject_id": 6880,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Practice Class 1",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/MbSDI1mC4zE",
+      "hd_video_url": "https://www.youtube.com/embed/MbSDI1mC4zE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/JPDXQdAS8eDm9CSk9lLPONdyJaM8SL98lrbYf0vQ.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e9838898-1881-4da3-a1ea-a2f20c042295.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Practice Class 2",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/EUcPdE5s7M4",
+      "hd_video_url": "https://www.youtube.com/embed/EUcPdE5s7M4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/RoxK8zM31l3r73WVSvEtcwbfhGy9aTgEC1DfFarF.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5d9900f3-3a8c-4a78-b1ef-3dfb0e45d577.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Practice Class 3",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/Uj-u296FAxo",
+      "hd_video_url": "https://www.youtube.com/embed/Uj-u296FAxo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/FwVCHFnVZBqmFxcFwTUkytWejR3RSWToADC7xk8s.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c424e039-910e-4c72-ab55-d32e1da9e873.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Practice Class 4",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/jrLm3rVJNqs",
+      "hd_video_url": "https://www.youtube.com/embed/jrLm3rVJNqs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/R7BAkarUKAEDVWuZ941NRNk75d6OjAmm8u7Eq6az.jpg",
+      "notes": [
+        {
+          "title": "Practice Class 4",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5aad4c5b-65a2-4c41-9b17-20c5a63294f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Practice Class 5",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/UA8noxipBYA",
+      "hd_video_url": "https://www.youtube.com/embed/UA8noxipBYA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/K0lFeXwRLOcV6mdoeLLhy61YeiO8Yt7XnYQjw57w.jpg",
+      "notes": [
+        {
+          "title": "Lecture -32 || Hindi by Navneet Sir",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/46e49597-dee3-4bcb-be0a-b2e34451921f.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

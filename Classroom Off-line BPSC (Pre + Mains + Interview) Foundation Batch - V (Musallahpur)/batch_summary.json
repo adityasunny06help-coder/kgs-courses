@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Classroom Off-line BPSC (Pre + Mains + Interview) Foundation Batch - V (Musallahpur)",
+    "price": "15000",
+    "id": "613",
+    "extracted_date": "2025-08-27T14:07:15.282288"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class",
+      "id": 6644,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 6667,
+      "video_count": 47,
+      "note_count": 46
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 6669,
+      "video_count": 56,
+      "note_count": 54
+    },
+    {
+      "name": "Current Affairs by SKC Sir",
+      "id": 6851,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Economy by Dr.  Bharat Sir",
+      "id": 7485,
+      "video_count": 26,
+      "note_count": 26
+    }
+  ]
+}

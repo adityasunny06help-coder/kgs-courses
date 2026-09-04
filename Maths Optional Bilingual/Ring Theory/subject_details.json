@@ -1,0 +1,325 @@
+{
+  "subject_name": "Ring Theory",
+  "subject_id": 4738,
+  "video_count": 22,
+  "note_count": 24,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Ring Theory-1",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/174928/kgss-1736167355-v174928.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TCjPTVwvAzE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KvcAv3hPzi4H6CuQyYzutMFnBGszpDFtZUqWkDiG.png",
+      "notes": [
+        {
+          "title": "Lecture-1 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd368fa8-2c7b-43ef-92be-528c52fbb596.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Ring Theory-2",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/175595/kgss-1736253404-v175595.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g8qvto9JsF0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/57kTwoK47Y7RA60ZMUo2uvklNkMgoruITWjyA8VZ.png",
+      "notes": [
+        {
+          "title": "Lecture-2 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35c1a963-1f0d-42ab-b6f4-589eb5729bae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Ring Theory-3",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176153/kgss-1736338655-v176153.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ww0r08ZWghM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PC2BhXye8ZLGyJAQMPdzLn6DBFYOWtm77cTi60aH.png",
+      "notes": [
+        {
+          "title": "Lecture-3 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35076abb-004b-4de8-b361-bb479f16eb57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Ring Theory-4",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/176538/kgss-1736426410-v176538.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YiIdocuwNrQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iziorMJ6H1eLWVw2o976Ngolco91JOyCNJq1L1Cr.png",
+      "notes": [
+        {
+          "title": "Lecture-4 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93386fc7-19ff-4ad3-9579-dcf50fa6ea1f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || Ring Theory-5",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177027/kgss-1736511723-v177027.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/X_Ip-dtqFho",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TvQXY0RLLjXDZDyylnW6UJ3OHo7zM5oSvVx8Apcn.png",
+      "notes": [
+        {
+          "title": "Lecture-5 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5ce7e51-1f0f-43a2-a757-e171d05ae83c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || Ring Theory-6",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177526/kgss-1736599458-v177526.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5FttAhBtB9M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0dHDyQIyd42xA6MMPBgsxgNGC7OaJgW5SILuhzdy.png",
+      "notes": [
+        {
+          "title": "Lecture-6 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b76d3b0b-293f-4726-ba8c-99dc88574b11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || Ring Theory-7",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/177891/kgss-1736771735-v177891.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K_xgI9U5bqk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7827d3da4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-7 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93c459b5-138e-4640-b674-8631c746f073.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Ring Theory-8",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178422/kgss-1736858731-v178422.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IX3X5QUbWJs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a782751b06.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc762022-0c42-47c5-b2e8-9cdb3e9226ee.pdf"
+        },
+        {
+          "title": "practice questions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c31eb80-253e-4539-8bc7-102778a74488.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Ring Theory-9",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/178863/kgss-1736941209-v178863.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TeAXG2DYXrY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7826c03fe.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72026a88-8aef-4be3-824d-d613be2cb376.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Ring Theory-10",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/179386/kgss-1737031125-v179386.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oMaZHAvVN5E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a782639ae1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0d4c4cd-8eb5-4a78-8814-b1708f7ecd53.pdf"
+        },
+        {
+          "title": "Homomorphism problems",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc44992b-d75c-4e5b-8c9c-aee46a34ece1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Ring Theory-11",
+      "published_date": "19 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/181905/kgss-1737280120-v181905.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yXCHen0F1tw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7825a8bb6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95d1adc7-4fca-4071-baa4-6380d2113ec3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Ring Theory-12",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190245/kgss-1738911597-v190245.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XDruVwCVE8I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7825263c8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Ring Theory-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58547705-38f4-4cdd-b859-650240ebbdd4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Ring Theory-13",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190864/kgss-1738997090-v190864.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lI3VScBeSgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7824a8b9f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Ring Theory-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b244ffc-765d-4e3c-9431-c93ba98d7253.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Ring Theory-14",
+      "published_date": "09 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-14/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7bOdBnsg5Bs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a78243357d.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Ring Theory-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4874bda-6fef-4e2a-a33c-ad1d136e6519.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Ring Theory-15",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-15/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TYHM6TzSIo8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7823b1e3b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54ca0345-8669-4b62-a595-46622737ec12.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Ring Theory-16",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-16/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ywisra2FzZ8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7823294d0.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e5ba0ac-a53b-43ef-8fc7-7cbd5e0c11ef.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Ring Theory-17",
+      "published_date": "16 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-17/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/j0YPCalpMmw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a782295129.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c31b216-00f5-4276-9333-f7e1e1c135bb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Ring Theory-18",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-18/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UmxDn1jLGdU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a78220fc93.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Ring Theory-18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f43869e9-23b4-4ce5-86d9-bb3c4fdb5f5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Ring Theory-19",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-19/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EuLT7gCqWME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7821801d1.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Ring Theory-19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a3f64a6-ad75-43e4-8e69-2191c8a812ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Ring Theory-20",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198729/kgss-1740293241-v198729.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dljgO4ZYKDQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7820eca50.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Ring Theory-20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef6e0515-faf3-4d84-a596-76d7521e2d24.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Ring Theory-21",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-20/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UCA4T1DF4Bg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a7820644c6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Ring Theory-21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32e57071-84d9-4eeb-9df3-58563be9a011.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Ring Theory-22",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional-220/ring-theory/l-22/maths-op.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g2Zfc3-pkYc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680a781f9cc33.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Ring Theory-22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4df1e5ba-14ec-41b4-974b-efbf80c260f3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Aministrative Behaviour",
+  "subject_id": 3884,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -53 || Motivation 1",
+      "published_date": "11 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9fphlavMH3PBYvrdBTBeVnyWaA7vOBrIjObxsRVA.jpg",
+      "notes": [
+        {
+          "title": "Lecture -53 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80e790f9-f2c7-4654-a065-2a720af442a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -54 || Motivation 2",
+      "published_date": "14 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/f0x3Fg9MS0lQdJpSH6k3rPGuQ2wC7OkAXRMsfqA6.jpg",
+      "notes": [
+        {
+          "title": "Lecture -54 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99911ab9-90f1-4b98-b7b2-a5f90687927c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -55 || Leadership",
+      "published_date": "15 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dRbunIuekV3c40OAQCa8vIq65f2ZFapPAZNCB8Uk.jpg",
+      "notes": [
+        {
+          "title": "Lecture -55 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e19ed896-d410-495a-b5cd-35b94b844a91.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -56 || Communication -01",
+      "published_date": "16 Oct 2024",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/b4Nz5X5ZUBhyRJqdAR3NxFhlyzAnezWWpiPx558n.jpg",
+      "notes": [
+        {
+          "title": "Lecture -56 || Public Administration by Gautam Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8a42f12-b5ee-4305-96c6-ca71d56dfac5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

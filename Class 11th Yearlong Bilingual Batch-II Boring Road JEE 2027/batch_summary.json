@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "Class 11th Yearlong Bilingual Batch-II Boring Road JEE 2027",
+    "price": "34999",
+    "id": "730",
+    "extracted_date": "2025-08-27T13:29:36.935505"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 7501,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry By Indrajeet Verma (JCIV Sir)",
+      "id": 7633,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Physics By Rahul Gupta (JPRG SIR)",
+      "id": 7525,
+      "video_count": 43,
+      "note_count": 42
+    },
+    {
+      "name": "Chemistry by Imran Nazir (JCIN SIR)",
+      "id": 7526,
+      "video_count": 57,
+      "note_count": 56
+    },
+    {
+      "name": "Maths By Vishal Singh (JMVS SIR)",
+      "id": 7527,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Physics Supporting Material",
+      "id": 7715,
+      "video_count": 11,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry Supporting Material",
+      "id": 7716,
+      "video_count": 8,
+      "note_count": 0
+    },
+    {
+      "name": "Maths Supporting Material",
+      "id": 7717,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Test Paper And Solution",
+      "id": 7936,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

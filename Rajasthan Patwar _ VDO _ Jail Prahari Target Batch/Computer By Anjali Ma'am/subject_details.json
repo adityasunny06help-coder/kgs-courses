@@ -1,0 +1,303 @@
+{
+  "subject_name": "Computer By Anjali Ma'am",
+  "subject_id": 4827,
+  "video_count": 21,
+  "note_count": 21,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Computer Introduction",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/t_51n1aTJ1M",
+      "hd_video_url": "https://www.youtube.com/embed/t_51n1aTJ1M",
+      "thumbnail": "https://i.ytimg.com/vi/t_51n1aTJ1M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Computer Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93865007-522b-423d-b2e5-8c20586b875c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Input Device",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fp6tpboWWZw",
+      "hd_video_url": "https://www.youtube.com/embed/fp6tpboWWZw",
+      "thumbnail": "https://i.ytimg.com/vi/fp6tpboWWZw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Computer Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9988573-9e60-4e1f-9d61-8b1bf0ec8a11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Output Device",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/5sJlNinR_KA",
+      "hd_video_url": "https://www.youtube.com/embed/5sJlNinR_KA",
+      "thumbnail": "https://i.ytimg.com/vi/5sJlNinR_KA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Output Device",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f2fe3c6-9bb1-4d53-8973-fa82418ee745.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Software",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/luTuFMjI9aY",
+      "hd_video_url": "https://www.youtube.com/embed/luTuFMjI9aY",
+      "thumbnail": "https://i.ytimg.com/vi/luTuFMjI9aY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Software",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66658292-3f07-4a49-a276-a049c2d88168.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || CPU/Memory",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/8PqrRB8Ltnc",
+      "hd_video_url": "https://www.youtube.com/embed/8PqrRB8Ltnc",
+      "thumbnail": "https://i.ytimg.com/vi/8PqrRB8Ltnc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || CPU/Memory",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c973829-e7ea-4642-892e-ed405d253579.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Classification Of Computer",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7Bf7ej3uhuM",
+      "hd_video_url": "https://www.youtube.com/embed/7Bf7ej3uhuM",
+      "thumbnail": "https://i.ytimg.com/vi/7Bf7ej3uhuM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Classification Of Computer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16217f8f-ede4-44f2-9c63-ac5335f265f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Operating System",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/sAsP9lTaHz0",
+      "hd_video_url": "https://www.youtube.com/embed/sAsP9lTaHz0",
+      "thumbnail": "https://i.ytimg.com/vi/sAsP9lTaHz0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Operating System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6c87d6a-e15d-47fd-9cf8-fd96a09b3847.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Network",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rF9VrlMM1N8",
+      "hd_video_url": "https://www.youtube.com/embed/rF9VrlMM1N8",
+      "thumbnail": "https://i.ytimg.com/vi/rF9VrlMM1N8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Network",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4989112-9df3-495d-85b9-ef625e873697.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || OSI Model",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/5Rd5as0SJXo",
+      "hd_video_url": "https://www.youtube.com/embed/5Rd5as0SJXo",
+      "thumbnail": "https://i.ytimg.com/vi/5Rd5as0SJXo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || OSI Model",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cbc9833-9136-436a-bf87-ed8d5e6dbfae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Computer Virus",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fsdPy2WX3l4",
+      "hd_video_url": "https://www.youtube.com/embed/fsdPy2WX3l4",
+      "thumbnail": "https://i.ytimg.com/vi/fsdPy2WX3l4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Computer Virus",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1dbd2ef-845c-440a-9b71-df95d7c7471b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || E-mail",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/y5L5LGHcW8E",
+      "hd_video_url": "https://www.youtube.com/embed/y5L5LGHcW8E",
+      "thumbnail": "https://i.ytimg.com/vi/y5L5LGHcW8E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || MS Word",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f0693d6-7a3e-4ef9-af20-418f83c5399c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || MS Word",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/TUTncCiJMRA",
+      "hd_video_url": "https://www.youtube.com/embed/TUTncCiJMRA",
+      "thumbnail": "https://i.ytimg.com/vi/TUTncCiJMRA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || MS Word (02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f213b6a-3b48-49dd-b1fd-4100312c0c37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || MS Word (02)",
+      "published_date": "01 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/WvkvhvdczZI",
+      "hd_video_url": "https://www.youtube.com/embed/WvkvhvdczZI",
+      "thumbnail": "https://i.ytimg.com/vi/WvkvhvdczZI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || MS Word (03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7735f439-b8c2-4e4a-bc09-108e199312d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || MS Word (03)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/xXPNH3br8xI",
+      "hd_video_url": "https://www.youtube.com/embed/xXPNH3br8xI",
+      "thumbnail": "https://i.ytimg.com/vi/xXPNH3br8xI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || MS Word (04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f160d56-3ab5-4337-85fe-145e3de6521a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || MS Word (04)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/WU_IRAcJRBU",
+      "hd_video_url": "https://www.youtube.com/embed/WU_IRAcJRBU",
+      "thumbnail": "https://i.ytimg.com/vi/WU_IRAcJRBU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || MS Word (05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08c6ff87-79e3-4cf9-ab74-c3aa948e7092.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || MS Word (Part 05)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/-DqSW3WPRCY",
+      "hd_video_url": "https://www.youtube.com/embed/-DqSW3WPRCY",
+      "thumbnail": "https://i.ytimg.com/vi/-DqSW3WPRCY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || MS Power Point",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/612a68b8-1bcb-4059-9adb-762af17d40ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || MS Power Point",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ZsA4lo7d-KA",
+      "hd_video_url": "https://www.youtube.com/embed/ZsA4lo7d-KA",
+      "thumbnail": "https://i.ytimg.com/vi/ZsA4lo7d-KA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || MS Power Point",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb0cf859-9495-46a4-b424-7d6a8a985d88.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || MS Power Point (Part 02)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/xGYiS7VB6A4",
+      "hd_video_url": "https://www.youtube.com/embed/xGYiS7VB6A4",
+      "thumbnail": "https://i.ytimg.com/vi/xGYiS7VB6A4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || MS Power Point (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a128bc8-b0b9-45b4-bbbf-d64c9a502c2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || MS Power Point (Part 03)",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/jXB6IEVQSzU",
+      "hd_video_url": "https://www.youtube.com/embed/jXB6IEVQSzU",
+      "thumbnail": "https://i.ytimg.com/vi/jXB6IEVQSzU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || MS Power Point (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d95d5fd-697b-4e43-bde7-e1b877e40b8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 ||  MS Excel (Part 01)",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/gohs4oux5ek",
+      "hd_video_url": "https://www.youtube.com/embed/gohs4oux5ek",
+      "thumbnail": "https://i.ytimg.com/vi/gohs4oux5ek/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 ||  MS Excel",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77c32dcb-632c-4d0b-be3c-2a2b64a7454b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 ||  MS Excel (Part 02)",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/L9ShbvPhibE",
+      "hd_video_url": "https://www.youtube.com/embed/L9ShbvPhibE",
+      "thumbnail": "https://i.ytimg.com/vi/L9ShbvPhibE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 ||  MS Excel (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11ba1c22-0a35-42bd-ae98-db3d1787c104.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,620 @@
+{
+  "subject_name": "Geometry",
+  "subject_id": 1877,
+  "video_count": 44,
+  "note_count": 43,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Geometry -44 (Mensuration Part-01)",
+      "published_date": null,
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/G4bJgv0KVIkYa5vZFHe2DMmqoHHNcHDRuoUL4IGN.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Geometry -01",
+      "published_date": "28 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-01/l-01-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XvJmPZ2I0wM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5H8skshgcSk2UPlrSnyXdUB8UIsBLyH1rYIr69VG.png",
+      "notes": [
+        {
+          "title": "Geometry -01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f9cd511f-03bf-4fb5-b00c-5c94d01ea3ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Geometry -02",
+      "published_date": "29 Mar 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-02/l-02-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HJuvrWk99kY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HWPzhCQxwCj7J9iRcHnwIAHLhnma1LYdnzF61wIn.png",
+      "notes": [
+        {
+          "title": "Geometry -02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/203d957c-b859-433d-99d1-2861ce03d8bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Geometry -03",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-03/l-03-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/gWmgI0W2p8U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/A2LB3RxIJ9w7u7FlnxoEbKWx5FILv1G5yMJqUxtz.png",
+      "notes": [
+        {
+          "title": "Geometry -04",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3b64d93c-2fb1-45f2-a13c-7338dc17c3c8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Geometry -04",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-04/l-04-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kmmRhRMJSdk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/jCcXdeolpIWkgKzbgst0vHhtAURXrwqrBAlx6BZE.png",
+      "notes": [
+        {
+          "title": "Geometry -04",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4d8a300a-d11d-44c9-b496-c906c95a76c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Geometry -05",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-05/l-05-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ZG8BAOqasRQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uwtWoxdRYZSq08iCr2K4XbB04Ro4GfTLzseRr1mh.png",
+      "notes": [
+        {
+          "title": "Geometry -05",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e9922210-8884-41c7-8617-172930e476a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Geometry -06",
+      "published_date": "03 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-06/l-06-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2V1lbZJjpCs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/z3lvjCo4NHcZrvsiMsAnRoSLzb06xdEZ9igRNyKk.png",
+      "notes": [
+        {
+          "title": "Geometry -06",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1207998f-bfca-43a7-8738-720771148c25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Geometry -07",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-07/l-07-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/M9jwD1ZIvME",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wX5Ssz7jU7Mzo9gN0zDMH8TAPlab5sdJpDNkkEVd.png",
+      "notes": [
+        {
+          "title": "Geometry -07",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/2e4f5bfc-2bc2-4c17-9153-437f31f5521e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Geometry -08",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/68246/kgss-1712582750-v68246.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6p-26gbElvI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WgnCQfH2aLKxcPffXV3BirJ9aldHvxQdBF4atmM2.png",
+      "notes": [
+        {
+          "title": "Geometry -08",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0358bb78-e75d-41f8-8de6-edafab89cbb0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Geometry -09",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-09/l-09-geometry-maths.m3u8",
+      "hd_video_url": "https://khansirvod3.pc.cdn.bitgravity.com/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-09/l-09-geometry-maths.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KFakKQCkAY9undARkDGV88F41c6I6qsT3GZMuW49.png",
+      "notes": [
+        {
+          "title": "Geometry -09",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a3fc3e8-def8-4fd6-bf07-49ede77378f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Geometry -10",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/68772/kgss-1712722691-v68772.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PwpJVLkWBLU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uxfceL9BM83NHJyQdh2GeABjpPYgAkwj4xe8iQDh.png",
+      "notes": [
+        {
+          "title": "Geometry -10",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/59665249-4ba6-4a10-b371-7184e4a55d28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Geometry -11",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/69036/kgss-1712893519-v69036.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5nPNwWorNzk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QoCdkMedlBzVxcUUoqNImAyqj1ccmhRtpfBUTLuu.png",
+      "notes": [
+        {
+          "title": "Geometry -11",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8d408642-8874-4c24-9203-1fcb22ba1f26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Geometry -12",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/69376/kgss-1713152760-v69376.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BKhkmCYKlyM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/2oDmyYooIFiF9ori9HOii5PBi5Xj2nXmOStsxhF5.png",
+      "notes": [
+        {
+          "title": "Geometry -12",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/af04d98e-cc3b-4db7-bb79-a76a019b038d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Geometry -13",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/ctH_0YkhlT0",
+      "hd_video_url": "https://www.youtube.com/embed/ctH_0YkhlT0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/s10jHrGLrmRw5X3QJOuIWpT9k1uv3pvqlACGD9ug.png",
+      "notes": [
+        {
+          "title": "Geometry -13",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/07475ae6-3b4a-4490-aa24-90d721f6c1c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Geometry -14",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/70097/kgss-1713413712-v70097.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xASstcxtMuM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/uuTaojXLH0yVj8cGRfqPxleROuHdbKK9VQLUI28S.png",
+      "notes": [
+        {
+          "title": "Geometry -14",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5db2d8e6-29d8-4a26-aa0e-e0303bbd4b36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Geometry -15",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/70300/kgss-1713497820-v70300.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/2blgc5kvfoo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/djlydnk4yVoDN1HiNfGyryjrNF8CuT2aZy4eatId.png",
+      "notes": [
+        {
+          "title": "Geometry -15",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/96b36fff-1155-497c-86a7-982be3979ae2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Geometry -16",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/70923/kgss-1713758806-v70923.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KqgP7FoyokA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/I3x98d24lZhhPZxgkLDITB7xZ6C2BSiyPLcBecPh.png",
+      "notes": [
+        {
+          "title": "Geometry -16",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/93c6278c-e9cc-447f-a692-f9bc54f6440b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Geometry -17",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/71176/kgss-1713845315-v71176.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/J6OJ52dy7wY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4LNXJhdBu6yMJQeDtWMaiLNzJyWlVVrsXiHhVAxX.png",
+      "notes": [
+        {
+          "title": "Geometry -17",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/163440db-8699-45be-bb63-3aaec5222aed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Geometry -18",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/71399/kgss-1713930520-v71399.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c8ScTawUX-E",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ZTZKOnPciRk2ljxJRiSPPwsLj1uXmlMHQFuPvXW6.png",
+      "notes": [
+        {
+          "title": "Geometry -18",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/332c72bc-8e30-4284-a67f-c12e31e196db.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Geometry -19",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/71623/kgss-1714017484-v71623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HohsOB2JZbM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/RvMpax1BldkEZYPaofOzRlzOnS14RGKpILxW6jgL.png",
+      "notes": [
+        {
+          "title": "Geometry -19",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f6e40145-d79c-4736-bd5c-f4f344319141.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Geometry -20",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-20/l-20-geometry-maths.m3u8",
+      "hd_video_url": "https://khansirvod3.pc.cdn.bitgravity.com/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-20/l-20-geometry-maths.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/p1N4RIhVVIUmsDyyGTCGQ4l8GIqIvsciaA5HPpNS.png",
+      "notes": [
+        {
+          "title": "Geometry -20",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c1b0f75d-5800-401c-850e-7b905485c04c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Geometry -21",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/72288/kgss-1714364567-v72288.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QduicQ6f9Gw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cVdVESC80PdfNqLJk1EQcbu4auFtUnhCpFfheIZB.png",
+      "notes": [
+        {
+          "title": "Geometry -21",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/cdba1744-7b1f-4754-bec8-8dfd45d9ddb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Geometry -22",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2024/72505/kgss-1714450868-v72505.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lKfsVuKhK-s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6PxZgEK8UOqkkxu2iAc9jdRedKXpZSf5HyHJj54F.png",
+      "notes": [
+        {
+          "title": "Geometry -22",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b4a26dd1-c535-4d27-922d-a50466f92b43.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Geometry -23",
+      "published_date": "01 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/72803/kgss-1714537556-v72803.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Cn9K1SAao3A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/qRQWTxC2MVe0ZeLlZLcmRiiFT3RwYQSJpjC9Q6j8.png",
+      "notes": [
+        {
+          "title": "Geometry -23",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/69c9b845-7b75-41ab-aad3-e5480543ce8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Geometry -24",
+      "published_date": "02 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/73139/kgss-1714623528-v73139.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/A0WQbcj9P-4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/7akHWIg2p8nkCCrcjJE3jWQ7pSZbqullCjTWp2b0.png",
+      "notes": [
+        {
+          "title": "Geometry -24",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bc3dbb04-e454-46c5-9442-f3430df70e47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Geometry -25",
+      "published_date": "03 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/73373/kgss-1714709364-v73373.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uxz2z10rACg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/yuNgbTitzzOdxab1xaGKin3ZpuECDuju91IYVbc5.png",
+      "notes": [
+        {
+          "title": "Geometry -25",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/58f69dee-33ce-4142-bcce-0f67a0fdce21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Geometry -26",
+      "published_date": "06 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74152/kgss-1714969481-v74152.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/G-dtb-7bmio",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/P2CCzQusL0Qi2ZvG2hdMRI67UXP3J77x1ORDCGLn.png",
+      "notes": [
+        {
+          "title": "Geometry -26",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a8387dc8-35e1-4f29-8a13-2c2bf62088e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Geometry -27",
+      "published_date": "07 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74338/kgss-1715055408-v74338.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LNHZo1aSwag",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/vMycaaD3dvL5GKZcvmTfrhLAVMP48qwqohB4G1gX.png",
+      "notes": [
+        {
+          "title": "Geometry -27",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ec0125b0-13d1-4770-8400-7d424e7a67b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Geometry -28",
+      "published_date": "08 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/74740/kgss-1715142093-v74740.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PKJpxOJxnCs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/c6RhrwhVZQLm8hTlanyNPmp8nyPSqdqO4NN2ix3f.png",
+      "notes": [
+        {
+          "title": "Geometry -28",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/4060629b-c781-4207-9eab-1f3466e47110.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Geometry -29",
+      "published_date": "09 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/75018/kgss-1715228589-v75018.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/9lWmX0ZwrCM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/5829ImXYqDaz9GV4z2mHy3Brb95EVYNGq2doEEje.png",
+      "notes": [
+        {
+          "title": "Geometry -29",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/debcc9e0-4bab-4729-995e-6de925c261ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Geometry -30",
+      "published_date": "10 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/75302/kgss-1715315004-v75302.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kCHPjt8Ik74",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0M42cPiQchqc15o5rC90PrBBLpkKrgaOs1XpwoQR.png",
+      "notes": [
+        {
+          "title": "Geometry -30",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/091b1245-71f4-424d-8d24-0a330b31df28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Geometry -31",
+      "published_date": "13 May 2024",
+      "video_url": "https://kgs-poc.engro.in/may-2024/76005/kgss-1715574105-v76005.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AsWEOoa1aVk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/vxxtkV3fieWnzmV5ap7gEeMGBSWWAEttxHKiIGlr.png",
+      "notes": [
+        {
+          "title": "Geometry -31",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/cba395b2-858f-4a6b-a94b-d8b7edcf10d4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Geometry -32",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/WuwAWnSi0mE",
+      "hd_video_url": "https://khansirvod2.pc.cdn.bitgravity.com/kv1/may-2024/76188/kgss-1715660287-v76188.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/8GqJeUx1hqLH7RtCtXzHNhRELQLuo8BmRslhrwki.png",
+      "notes": [
+        {
+          "title": "Geometry -32",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/507c6b30-347d-487b-935d-357fa873e86a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Geometry -33 (Circle Part-01)",
+      "published_date": "20 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/77802/kgss-1716178935-v77802.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/nrm82mOy1Ds",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/IcOTK0mCdCuC5HqDLQaZwKU3rbYn5wC3Yk8QDxDY.png",
+      "notes": [
+        {
+          "title": "Geometry -34",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2f8a8b8c-2bfc-44c3-bdef-a4f3542c4b48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Geometry -34 (Circle Part-02)",
+      "published_date": "21 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78049/kgss-1716265332-v78049.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/IVJ88Trx8uI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6imRkzOgrhww3w1R2TpHZYzseilp5mFmWbPzPhqt.png",
+      "notes": [
+        {
+          "title": "Geometry -34",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/26fed7f8-178c-4000-9668-bfd6dc6284fa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Geometry -35 (Circle Part-03)",
+      "published_date": "22 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2024/78386/kgss-1716352107-v78386.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/o7XtkDec7CM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/hG4IlS4owpUBkSLHlYIsB6GseVEB1UrPzUQjgpIf.png",
+      "notes": [
+        {
+          "title": "Geometry -35",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1f6b4480-700e-47da-a648-8aff043de291.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Geometry -36 (Circle Part-04)",
+      "published_date": "23 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/78733/kgss-1716437358-v78733.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XVDA--p69DI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/78vc8aSG5KdiKmvMz66O6AZmK3E9oeTJXIdFLWho.png",
+      "notes": [
+        {
+          "title": "Geometry -36",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6e8b081d-e009-4468-8829-b50edf4ab640.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Geometry -37 (Circle Part-05)",
+      "published_date": "24 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-37/l-37-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jfRarcBQup0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/J0KCkPmyFcQ4Gx9nKGaxejtO1W5sMaLW9btguw3S.png",
+      "notes": [
+        {
+          "title": "Geometry -37",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3b72bf80-dce7-4989-93d4-7e32de0742f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Geometry -38 (Circle Part-06)",
+      "published_date": "25 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/79183/kgss-1716611036-v79183.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hzMuoXh8o_8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/L9BzYmtJiQpkIHDGvsRgjtT9dJR71wXWRxiM5oWF.png",
+      "notes": [
+        {
+          "title": "Circle Part-06",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1ad494e0-5eb0-423a-9343-573fbf32a35a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Geometry -39 (Circle Part-07)",
+      "published_date": "27 May 2024",
+      "video_url": "https://kgs-v3.akamaized.net/kv1/may-2024/79620/kgss-1716783900-v79620.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YKp6f4vY8PY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/w4nGsykbMzKyFx5lNMeNUTdYOfij6xh2kMxI7AKp.png",
+      "notes": [
+        {
+          "title": "Circle Part-07",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/adaf50c4-8fb1-4e9f-b70f-35b792e00a3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Geometry -40 (Circle Part-08)",
+      "published_date": "28 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-40/l-40-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W9edxx8-vJY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/7L7qtc1m92qlBG0L1pEO6qhqn3iCMzrBFu63KHbJ.png",
+      "notes": [
+        {
+          "title": "Circle Part-08",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/668271ce-6703-4557-aed0-75c5b341d874.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Geometry -41 (Circle Part-09)",
+      "published_date": "29 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-41/l-41-geometry-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1-Yu4B1sChQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0rZkQF5ZCc36SHANBuXQhJGAztrR4z4hW0ViCBZg.png",
+      "notes": [
+        {
+          "title": "Geometry -41 (Circle Part-09)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0151ce61-fc4b-477d-b8a7-f8cbf88b01d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Geometry -42 (Circle Part-10)",
+      "published_date": "31 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-42/l-42-geometry-maths-ad.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dtej4asjwNA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/oajxcq79r244MBTmxxGtzoTGUUiP0fP8Y165PcGa.png",
+      "notes": [
+        {
+          "title": "Geometry -42 (Circle Part-10)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0196dde5-4b4e-40d0-ae8a-2b174853f002.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Geometry -43 (Circle Part-11)",
+      "published_date": "01 Jun 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/advance-maths-gaurav-sir/maths-geometry/l-43/l-43-geometry-maths.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hriWd5_Z8z8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EJ4eDoBzyDVo67SwBwS9QTtDOKE2d5sO66cYBohG.png",
+      "notes": [
+        {
+          "title": "Geometry -43 (Circle Part-11)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3c259cb1-3d6d-4dbc-9858-395f742720c7.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

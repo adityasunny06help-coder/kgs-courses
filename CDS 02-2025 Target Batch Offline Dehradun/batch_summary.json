@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "CDS 02-2025 Target Batch Offline Dehradun",
+    "price": "25000",
+    "id": "582",
+    "extracted_date": "2025-08-27T14:21:41.473779"
+  },
+  "subjects": [
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 6426,
+      "video_count": 34,
+      "note_count": 33
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 6429,
+      "video_count": 14,
+      "note_count": 13
+    },
+    {
+      "name": "Polity by Vishal kumar Sir",
+      "id": 6434,
+      "video_count": 73,
+      "note_count": 66
+    },
+    {
+      "name": "English by Ruchir sir",
+      "id": 6436,
+      "video_count": 77,
+      "note_count": 74
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 6438,
+      "video_count": 64,
+      "note_count": 61
+    },
+    {
+      "name": "Current Affairs By Vishal Sir",
+      "id": 6440,
+      "video_count": 19,
+      "note_count": 18
+    },
+    {
+      "name": "Math By Pawan Sir",
+      "id": 6695,
+      "video_count": 73,
+      "note_count": 69
+    },
+    {
+      "name": "SSB By Kunal Malik Sir",
+      "id": 6751,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 7050,
+      "video_count": 54,
+      "note_count": 53
+    },
+    {
+      "name": "Biology by Amrita mam",
+      "id": 8255,
+      "video_count": 10,
+      "note_count": 9
+    }
+  ]
+}

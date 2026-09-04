@@ -1,0 +1,51 @@
+{
+  "subject_name": "Chemistry by Avinash Sir",
+  "subject_id": 5849,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Chemistry Marathon",
+      "published_date": "23 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/pJuDpZ8zehM",
+      "hd_video_url": "https://www.youtube.com/embed/pJuDpZ8zehM",
+      "thumbnail": "https://i.ytimg.com/vi/pJuDpZ8zehM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Chemistry Marathon",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1dd0b24a-b2f8-41ac-9793-2c5061594f8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || Chemistry By Avinash Sir",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/a2aKA3sJ8Ak",
+      "hd_video_url": "https://www.youtube.com/embed/a2aKA3sJ8Ak",
+      "thumbnail": "https://i.ytimg.com/vi/a2aKA3sJ8Ak/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 02 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a717faf-1079-451d-b793-d4daed2883d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || Chemistry By Avinash Sir",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/mUz31nYz0Fs",
+      "hd_video_url": "https://www.youtube.com/embed/mUz31nYz0Fs",
+      "thumbnail": "https://i.ytimg.com/vi/mUz31nYz0Fs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 03 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/288bfe09-68b3-4ccf-a12a-8306352cc6a5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

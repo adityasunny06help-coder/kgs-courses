@@ -1,0 +1,65 @@
+{
+  "subject_name": "Biotechnology by Sushant Sir",
+  "subject_id": 5229,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ||  Crop Physiology || क्रॉप फिजियोलॉजी",
+      "published_date": "23 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/n4Fs6OiFeXo",
+      "hd_video_url": "https://www.youtube.com/embed/n4Fs6OiFeXo",
+      "thumbnail": "https://i.ytimg.com/vi/n4Fs6OiFeXo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction || परिचय",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fa2609f-a8dc-4620-8314-5d85f2dceabf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || photosynthesis || प्रकाश संश्लेषण",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/GIZuxdY-s-4",
+      "hd_video_url": "https://www.youtube.com/embed/GIZuxdY-s-4",
+      "thumbnail": "https://i.ytimg.com/vi/GIZuxdY-s-4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Biotechnology by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95c37b50-f41f-4c86-bf7b-e551d0d69cb2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Genetics || आनुवंशिकी",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/kbF3pPJGrsQ",
+      "hd_video_url": "https://www.youtube.com/embed/kbF3pPJGrsQ",
+      "thumbnail": "https://i.ytimg.com/vi/kbF3pPJGrsQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Biotechnology by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb3d149b-dc71-44e4-8821-3ddd9a3a521e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || High Yielding Varieties (HYVs) of Crops || फसलों की अधिक उपज देने वाली किस्में (HYVs)",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/S7QI1DWVCUQ",
+      "hd_video_url": "https://www.youtube.com/embed/S7QI1DWVCUQ",
+      "thumbnail": "https://i.ytimg.com/vi/S7QI1DWVCUQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Biotechnology by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbe03873-e922-4ca4-83a2-82580cb2f02d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

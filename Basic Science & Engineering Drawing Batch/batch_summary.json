@@ -1,0 +1,22 @@
+{
+  "batch_info": {
+    "title": "Basic Science & Engineering Drawing Batch",
+    "price": "449",
+    "id": "714",
+    "extracted_date": "2025-08-27T13:35:01.800340"
+  },
+  "subjects": [
+    {
+      "name": "Basic Science & Engineering Drawing by CS Singh Sir",
+      "id": 7266,
+      "video_count": 50,
+      "note_count": 49
+    },
+    {
+      "name": "Computer by Anjali Ma’am",
+      "id": 7858,
+      "video_count": 31,
+      "note_count": 31
+    }
+  ]
+}

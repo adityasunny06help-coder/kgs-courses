@@ -1,0 +1,74 @@
+{
+  "subject_name": "Current Affairs by Khan Sir",
+  "subject_id": 1608,
+  "video_count": 5,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || February (Part 01)",
+      "published_date": "24 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ByPWV4L8e0k",
+      "hd_video_url": "https://www.youtube.com/embed/ByPWV4L8e0k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KzwBI8w2qxfXafyW536peV9hgKJdOuSiWrJhJAfm.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 02 || February (Part 02)",
+      "published_date": "02 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/AvBmxI_OceY",
+      "hd_video_url": "https://www.youtube.com/embed/AvBmxI_OceY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HyPh3dZijh56Z2p2ppKqH6myAPatjgPvkt00TZcr.png",
+      "notes": [
+        {
+          "title": "Lecture - 02 || February (Part 02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/b766e9de-6e9f-415d-a21c-dc2dae4bb8e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 || March (Part 01)",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "hd_video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/92hGiS7ES3avXoKwkO6Ab8cDxYf3Jc51Co5OpNeY.png",
+      "notes": [
+        {
+          "title": "March Part 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f6d6f29b-f52d-4559-87e2-0835ff8352bd.03"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || March Part 02",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "hd_video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/AEHgRMjVmyhYuG3USyGQuuvR7XX9foWm9882jw5i.png",
+      "notes": [
+        {
+          "title": "Current Affairs",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3e930f7b-06d7-4cfa-9f8d-e72187e3b95d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || April (Part 01)",
+      "published_date": "20 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/F0A0C1wljIQ",
+      "hd_video_url": "https://www.youtube.com/embed/F0A0C1wljIQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/dXEeReJ9U9p0iWfcjBAHGjyITxAdvySgrgou6zH9.png",
+      "notes": [
+        {
+          "title": "April-Current.pdf",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1a43cc1f-a745-4203-b9a3-3a7540a2a7cf.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

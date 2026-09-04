@@ -1,0 +1,153 @@
+{
+  "subject_name": "Astronomy (World Geography)",
+  "subject_id": 76,
+  "video_count": 16,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Astronomy Introduction",
+      "published_date": "28 Jul 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L1/L1.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L1/L1.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ||  Milky Way (आकाशगंगा) Part-I",
+      "published_date": "29 Jul 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L2/L2.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 02.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ||  Milky Way (आकाशगंगा) Part-II",
+      "published_date": "02 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L3/L3.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 03.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ||  Double Star Theory ( सौर्यमण्डल की उत्पत्ति का सिद्धांत)",
+      "published_date": "02 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L4/L4.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 04.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || सूर्य (Sun) Part-I",
+      "published_date": "03 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L5/L5.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 05.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || सूर्य (Sun) Part-II",
+      "published_date": "04 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L6/L6.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 06.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || ( सौर मंडल ) Solar System Part -I",
+      "published_date": "05 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L7/L7.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 07.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || ( सौर मंडल ) Solar System Part -II",
+      "published_date": "08 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L8/L8.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 08.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || ( सौर मंडल ) Solar System Part -III",
+      "published_date": "09 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation/geography-09.mp4",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation/geography-09.mp4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d13bf185-58e2-40af-b5a0-29398fff5573.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || ( सौर मंडल ) Solar System Part -IV",
+      "published_date": "10 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L10/L10.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 10.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || ( सौर मंडल ) Solar System Part -V",
+      "published_date": "23 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L11/L11.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 11.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || ( सौर मंडल ) Solar System Part -VI",
+      "published_date": "24 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L12/L12.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 12.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || ( पृथ्वी ) Earth Part-I",
+      "published_date": "24 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L13/L13.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 13.mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || ( पृथ्वी ) Earth Part-II",
+      "published_date": "26 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L14/L14.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 14 (Earth).mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || ( चंद्रमा ) Moon Part-I",
+      "published_date": "29 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L15/L15.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 15 (Moon).mp4",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || ( चंद्रमा ) Moon Part-II",
+      "published_date": "31 Aug 2022",
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L16/L16.m3u8",
+      "hd_video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/geography-foundation/Geography 16 (Moon).mp4",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

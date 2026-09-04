@@ -1,0 +1,135 @@
+{
+  "subject_name": "पर्यावरणीय भूगोल",
+  "subject_id": 7598,
+  "video_count": 14,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || पर्यावरण || परिचय",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l67/lecture67.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l67/lecture67.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/abnHSTyVwa4zTLkDdgudb4YauA2IOgvwFvATTIhl.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || पारिस्थितिक सिद्धांत एवं अनुकूल (Part- 1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l68/lecture68.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l68/lecture68.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/laejFNQUwAIVwCponKVs5TkDTm5hIfhwlOtihjd2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || पारिस्थितिक सिद्धांत एवं अनुकूल (Part- 2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l69/lecture69.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l69/lecture69.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iieG2Fd0HfemK4rrNdvg7397KuosiMH4xkG3xjrL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || भू-जैव रसायन चक्र",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l70/lecture70.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l70/lecture70.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fRm9KlkgikdHbdVjJ4Z2xkdFwFKC65xLQ2hKixxH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || मानव पारिस्थितिकी अनुकूल",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l71/lecture71.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l71/lecture71.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ppks6pQhWt1rzh6t7g0o1ujalRe0qwwcgEI3q2jA.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || मानव पारिस्थितिकी एवं पर्यावरणीय प्रभाव",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l72/lecture72.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l72/lecture72.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WCvTK5KNsi3xL9aKVm8oRz1XuFEYCDsK6BCio3UM.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || पर्यावरणीय कानून/ विधान",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l73/lecture73.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l73/lecture73.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ED5vhyVzQ88vmEhdXWJWuvvccP1HpgjqmONISEdu.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || पारितंत्र क्षरण एवं पुनर्स्थापना (Part- 1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l75/lecture75.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l75/lecture75.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Y6VA6qpYCTmnY2FtSXfNhT5VCq2uCgtBgQCkL6Iq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || पारितंत्र क्षरण एवं पुनर्स्थापना (Part- 2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l76/lecture76.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l76/lecture76.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OMNbiuMp5AEHTXc6s9SO0yXWfb2OTdweAqyhViTp.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || जैव विविधता (Part- 1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l77/lecture77.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l77/lecture77.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KvOWUOtJxkp0Gs3zkX0jEFTO31i7MjaZXar0aBK8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || जैव विविधता (Part- 2)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l78/lecture78.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l78/lecture78.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2vkeOJg81TXUxhrZ33HsWIqVaWARJXQIr8Inbch0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || संपोषणीय विकास (सतत विकास)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l79/lecture79.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l79/lecture79.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R8ShQC1kHS7qDGjbrtaZnGIerlH2uCP2CEHEHTnb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || पर्यावरणीय निम्नीकरण",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l80/lecture80.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l80/lecture80.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D2Dkf2VsxNkAUDzDUvldlwjTVECbszRVueMUieFw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || पर्यावरणीय शिक्षा",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l81/lecture81.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l81/lecture81.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XRkalzjN440uJJfmDc12ezByg4r5mFieC1uZLtVF.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

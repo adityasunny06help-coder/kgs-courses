@@ -1,0 +1,387 @@
+{
+  "subject_name": "English Noun Chapter",
+  "subject_id": 5125,
+  "video_count": 27,
+  "note_count": 27,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ||  A Letter 01 &  Noun 01",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FQTQS8tHnGk",
+      "hd_video_url": "https://www.youtube.com/embed/FQTQS8tHnGk",
+      "thumbnail": "https://i.ytimg.com/vi/FQTQS8tHnGk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 ||  A Letter 01 &  Noun 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df62e538-9afc-40e2-9f78-06d4f19d2fe4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || A Letter 02 & Noun 02",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tnK839a4g8o",
+      "hd_video_url": "https://www.youtube.com/embed/tnK839a4g8o",
+      "thumbnail": "https://i.ytimg.com/vi/tnK839a4g8o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || A Letter 02 & Noun 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f54718fc-5703-40bf-b740-ab4ea42f757b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ||  A Letter 03 &  Noun 03",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tTukHLIZK-k",
+      "hd_video_url": "https://www.youtube.com/embed/tTukHLIZK-k",
+      "thumbnail": "https://i.ytimg.com/vi/tTukHLIZK-k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 ||  A Letter 03 &  Noun 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e356b5fc-63f9-46c7-a447-d13920fc0037.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || A Letter 04 & Noun 04",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Dg2LxoBRk38",
+      "hd_video_url": "https://www.youtube.com/embed/Dg2LxoBRk38",
+      "thumbnail": "https://i.ytimg.com/vi/Dg2LxoBRk38/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || A Letter 04 & Noun 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/587ea663-dedd-447e-9e41-c67de65fe54c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ||  A Letter 05 & NCERT 01",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RWAumACZrkY",
+      "hd_video_url": "https://www.youtube.com/embed/RWAumACZrkY",
+      "thumbnail": "https://i.ytimg.com/vi/RWAumACZrkY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 ||  A Letter 05 & NCERT 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6723ced7-1cc9-4aee-8726-136303225173.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || A Letter 06 & NCERT 02",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/911Ah-92Vnk",
+      "hd_video_url": "https://www.youtube.com/embed/911Ah-92Vnk",
+      "thumbnail": "https://i.ytimg.com/vi/911Ah-92Vnk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || A Letter 06 & NCERT 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9922fba8-5182-4a2b-84e2-608ca885f2b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Test Solution",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bf3Bp67KqsY",
+      "hd_video_url": "https://www.youtube.com/embed/bf3Bp67KqsY",
+      "thumbnail": "https://i.ytimg.com/vi/bf3Bp67KqsY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Test Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/305320a3-855f-487c-b8a3-ebfc576fbf21.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Test Solution",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/bmAKr-4mM0U",
+      "hd_video_url": "https://www.youtube.com/embed/bmAKr-4mM0U",
+      "thumbnail": "https://i.ytimg.com/vi/bmAKr-4mM0U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Test Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/105cb904-e46c-405c-908d-1b685e05fcdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || A Letter 07 & Noun 05",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1LtJHUSz3fY",
+      "hd_video_url": "https://www.youtube.com/embed/1LtJHUSz3fY",
+      "thumbnail": "https://i.ytimg.com/vi/1LtJHUSz3fY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || A Letter 07 & Noun 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8f65267-31a9-4136-8336-0eb39844edcf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 ||  A Letter 08 & Noun 06",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/w6kIQSkU1Cc",
+      "hd_video_url": "https://www.youtube.com/embed/w6kIQSkU1Cc",
+      "thumbnail": "https://i.ytimg.com/vi/w6kIQSkU1Cc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 ||  A Letter 08 & Noun 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe858b99-d4d9-4961-a1f1-ed421de1c14e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ||  A Letter 09 & Noun 07 - Noun Person",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/JiB1ujQp76U",
+      "hd_video_url": "https://www.youtube.com/embed/JiB1ujQp76U",
+      "thumbnail": "https://i.ytimg.com/vi/JiB1ujQp76U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 ||  A Letter 09 & Noun 07/Noun Person",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b65cd47-73d1-45af-8551-8f32b06f3819.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Noun - 08 - Noun Gender",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Qwc1VPTibEk",
+      "hd_video_url": "https://www.youtube.com/embed/Qwc1VPTibEk",
+      "thumbnail": "https://i.ytimg.com/vi/Qwc1VPTibEk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || (Noun) gender",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce3d1a54-9652-48c7-9058-3beb88c1691b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || A Letter 10 & Noun 09",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/u1gibEd3bSc",
+      "hd_video_url": "https://www.youtube.com/embed/u1gibEd3bSc",
+      "thumbnail": "https://i.ytimg.com/vi/u1gibEd3bSc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || A Letter 10 & Noun 08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17869b31-5d57-4762-ab72-f506b0ef8e0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || B letter 01 & Noun 10",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fSCk-ln3nZs",
+      "hd_video_url": "https://www.youtube.com/embed/fSCk-ln3nZs",
+      "thumbnail": "https://i.ytimg.com/vi/fSCk-ln3nZs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Noun 9 || B letter 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc6678e0-2eaf-405e-b75d-33ce8d4c65c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || B letter 02 & Noun 11",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/8kyNjNErDIQ",
+      "hd_video_url": "https://www.youtube.com/embed/8kyNjNErDIQ",
+      "thumbnail": "https://i.ytimg.com/vi/8kyNjNErDIQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Noun 10 || B letter 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7370de3-28a3-482e-a096-7880321f1be3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || B letter 03 & Noun 12",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7E9lNX39PQQ",
+      "hd_video_url": "https://www.youtube.com/embed/7E9lNX39PQQ",
+      "thumbnail": "https://i.ytimg.com/vi/7E9lNX39PQQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Noun 11 || B letter 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1b55438-e838-487b-90c2-06afa0a714ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || B letter 04 & Noun 13",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/x1QFRxQLG4M",
+      "hd_video_url": "https://www.youtube.com/embed/x1QFRxQLG4M",
+      "thumbnail": "https://i.ytimg.com/vi/x1QFRxQLG4M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Noun 12 || B letter 04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98d57c96-da95-4952-8e57-81539bec9713.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || B letter 05 & Noun 14",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NWvYcED_y2I",
+      "hd_video_url": "https://www.youtube.com/embed/NWvYcED_y2I",
+      "thumbnail": "https://i.ytimg.com/vi/NWvYcED_y2I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Noun 13 || B letter 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa19bcfc-27ca-4c81-8e5c-50d76d0a3d16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || B letter 06 & Noun 15",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/IdLrKONwwiU",
+      "hd_video_url": "https://www.youtube.com/embed/IdLrKONwwiU",
+      "thumbnail": "https://i.ytimg.com/vi/IdLrKONwwiU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Noun 14 || B letter 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/150fc13c-334a-42c8-ae04-7270e0c7d422.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || B letter 07 & Noun 16",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/jXRyvsMxQ-M",
+      "hd_video_url": "https://www.youtube.com/embed/jXRyvsMxQ-M",
+      "thumbnail": "https://i.ytimg.com/vi/jXRyvsMxQ-M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Noun 15 || B letter 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/403d7651-c66a-4255-bb25-35ec839cd4b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || B letter 07 & Noun 17",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/KmVf7g2aXA0",
+      "hd_video_url": "https://www.youtube.com/embed/KmVf7g2aXA0",
+      "thumbnail": "https://i.ytimg.com/vi/KmVf7g2aXA0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 ||  Noun 16 || B letter 08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/184b789b-9d6c-42e7-b1a1-6f0a3cd81d8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || B letter 07 & Noun 18",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/wzuDUxV86AM",
+      "hd_video_url": "https://www.youtube.com/embed/wzuDUxV86AM",
+      "thumbnail": "https://i.ytimg.com/vi/wzuDUxV86AM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Noun 17 || B letter 09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/712b6cef-46d2-45d6-a5e4-7fe8bfb15dc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Noun Practice Set 01",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3alYcerx7Ag",
+      "hd_video_url": "https://www.youtube.com/embed/3alYcerx7Ag",
+      "thumbnail": "https://i.ytimg.com/vi/3alYcerx7Ag/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Noun Practice Set 01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/72918238-c2f3-43b0-9002-36120ad2eaa4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Noun Practice Set 01 (Part 2)",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/opCBnBf2b78",
+      "hd_video_url": "https://www.youtube.com/embed/opCBnBf2b78",
+      "thumbnail": "https://i.ytimg.com/vi/opCBnBf2b78/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Noun Practice Set 01 (Part 2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ea81773a-fa95-4557-b83b-730f24ea8373.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Noun Practice Set 02",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/599XtwT4k0Y",
+      "hd_video_url": "https://www.youtube.com/embed/599XtwT4k0Y",
+      "thumbnail": "https://i.ytimg.com/vi/599XtwT4k0Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Noun Practice Set 02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/55704f12-0710-46b0-89ba-ec84572b0498.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Noun Practice Set 03",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/4eW7lC2DlO8",
+      "hd_video_url": "https://www.youtube.com/embed/4eW7lC2DlO8",
+      "thumbnail": "https://i.ytimg.com/vi/4eW7lC2DlO8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Noun Practice Set 03",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/120faf94-eefe-4633-9f65-aca96fdf22c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Noun Practice Set 04",
+      "published_date": "19 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gYDc3Bfm2lY",
+      "hd_video_url": "https://www.youtube.com/embed/gYDc3Bfm2lY",
+      "thumbnail": "https://i.ytimg.com/vi/gYDc3Bfm2lY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Noun Practice Set 04",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d68f6e77-4730-4aa9-af0e-3cb825df4702.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

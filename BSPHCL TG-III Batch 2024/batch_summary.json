@@ -1,0 +1,106 @@
+{
+  "batch_info": {
+    "title": "BSPHCL TG-III Batch 2024",
+    "price": "299",
+    "id": "280",
+    "extracted_date": "2025-08-27T16:41:36.597438"
+  },
+  "subjects": [
+    {
+      "name": "Physics by Deepa Ma'am",
+      "id": 3911,
+      "video_count": 45,
+      "note_count": 44
+    },
+    {
+      "name": "Economics By Sukesh Sir",
+      "id": 3934,
+      "video_count": 1,
+      "note_count": 2
+    },
+    {
+      "name": "Current Affairs by Yadvendra sir",
+      "id": 3988,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Polity by Prabhu Sir",
+      "id": 4290,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Art & Culture by Anjali Ma'am",
+      "id": 4451,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Workshop",
+      "id": 6144,
+      "video_count": 2,
+      "note_count": 0
+    },
+    {
+      "name": "Reasoning by Kartik Sir",
+      "id": 1983,
+      "video_count": 31,
+      "note_count": 28
+    },
+    {
+      "name": "Hindi by Jitendra Soni Sir",
+      "id": 1984,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Electrical Engineering Trade by Deepa Ma'am",
+      "id": 1985,
+      "video_count": 202,
+      "note_count": 201
+    },
+    {
+      "name": "Computer by Anjali Ma'am",
+      "id": 2087,
+      "video_count": 35,
+      "note_count": 35
+    },
+    {
+      "name": "English by Hemendra Sir",
+      "id": 2195,
+      "video_count": 48,
+      "note_count": 48
+    },
+    {
+      "name": "History by Anjali Ma'am",
+      "id": 2716,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 2975,
+      "video_count": 56,
+      "note_count": 56
+    },
+    {
+      "name": "Biology by Satpreet Ma'am",
+      "id": 3178,
+      "video_count": 47,
+      "note_count": 49
+    },
+    {
+      "name": "Mega Workshop",
+      "id": 3752,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry by Gyan Sir",
+      "id": 3835,
+      "video_count": 39,
+      "note_count": 39
+    }
+  ]
+}

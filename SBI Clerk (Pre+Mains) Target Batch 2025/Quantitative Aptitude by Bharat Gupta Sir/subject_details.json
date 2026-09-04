@@ -1,0 +1,891 @@
+{
+  "subject_name": "Quantitative Aptitude by Bharat Gupta Sir",
+  "subject_id": 4660,
+  "video_count": 63,
+  "note_count": 63,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Quant Introduction Class",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/nitLGBblFkI",
+      "hd_video_url": "https://www.youtube.com/embed/nitLGBblFkI",
+      "thumbnail": "https://i.ytimg.com/vi/nitLGBblFkI/default.jpg",
+      "notes": [
+        {
+          "title": "Quant Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdfc4907-79f0-4bd2-90d8-834f0a7c80fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Smart Calculation tip (part-01)",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/we0JAzfdI-k",
+      "hd_video_url": "https://www.youtube.com/embed/we0JAzfdI-k",
+      "thumbnail": "https://i.ytimg.com/vi/we0JAzfdI-k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Smart Calculation tip (part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d6d5c0b-0fa2-4272-b184-8d6451b0e71e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Simplification Smart Calculation tip (part-02)",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/J7wEkR97C6c",
+      "hd_video_url": "https://www.youtube.com/embed/J7wEkR97C6c",
+      "thumbnail": "https://i.ytimg.com/vi/J7wEkR97C6c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Simplification Smart Calculation tip (part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89ddf704-607c-4e6c-9788-67b5b17a2344.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Simplification Smart Calculation tip (part-03)",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6KG58XdCha4",
+      "hd_video_url": "https://www.youtube.com/embed/6KG58XdCha4",
+      "thumbnail": "https://i.ytimg.com/vi/6KG58XdCha4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Simplification Smart Calculation tip (part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/066884d1-511e-4f89-b89d-c633619d0002.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Simplification Smart Calculation tip (part-04)",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/L45co8S-Pa4",
+      "hd_video_url": "https://www.youtube.com/embed/L45co8S-Pa4",
+      "thumbnail": "https://i.ytimg.com/vi/L45co8S-Pa4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Simplification Smart Calculation tip (part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb72a4d3-2832-4397-8ee7-9c70adef1d8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || SBI Clerk Simplification (part-01)",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1qFIsKVH1Xk",
+      "hd_video_url": "https://www.youtube.com/embed/1qFIsKVH1Xk",
+      "thumbnail": "https://i.ytimg.com/vi/1qFIsKVH1Xk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || SBI Clerk Simplification (part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aeca373-9bf1-40e5-bb15-538872a9f268.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || SBI Clerk Simplification (part-02)",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/zOlVMOAWV04",
+      "hd_video_url": "https://www.youtube.com/embed/zOlVMOAWV04",
+      "thumbnail": "https://i.ytimg.com/vi/zOlVMOAWV04/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || SBI Clerk Simplification (part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61e6c5af-3cfe-4297-aafa-d2a15e1f00ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || SBI Clerk Simplification (part-03)",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/7E6_wdK71ho",
+      "hd_video_url": "https://www.youtube.com/embed/7E6_wdK71ho",
+      "thumbnail": "https://i.ytimg.com/vi/7E6_wdK71ho/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || SBI Clerk Simplification (part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/364fe9ef-85a2-4733-a97c-4385cad6f3aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || SBI Clerk Simplification (part-04)",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/puhqlg1sh8A",
+      "hd_video_url": "https://www.youtube.com/embed/puhqlg1sh8A",
+      "thumbnail": "https://i.ytimg.com/vi/puhqlg1sh8A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || SBI Clerk Simplification (part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3faa627-e7a2-4083-8e2b-4e010a8d9670.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Simplification Doubt Clearing session",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/JhuJFw-8Q1o",
+      "hd_video_url": "https://www.youtube.com/embed/JhuJFw-8Q1o",
+      "thumbnail": "https://i.ytimg.com/vi/JhuJFw-8Q1o/default.jpg",
+      "notes": [
+        {
+          "title": "Simplification Doubt Clearing session",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/062940de-97c3-408d-a99c-dccf8b62ad0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || SBI Clerk Series (part-01)",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/G7Qrlnl1jnc",
+      "hd_video_url": "https://www.youtube.com/embed/G7Qrlnl1jnc",
+      "thumbnail": "https://i.ytimg.com/vi/G7Qrlnl1jnc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || SBI Clerk Series (part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f650e894-28ed-4da4-bb8f-945196b468b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || SBI Clerk Series (part-02)",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/6Ls5w8PBf74",
+      "hd_video_url": "https://www.youtube.com/embed/6Ls5w8PBf74",
+      "thumbnail": "https://i.ytimg.com/vi/6Ls5w8PBf74/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || SBI Clerk Series (part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/422ee15f-b40c-42ca-9274-31a7c866c724.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || SBI Clerk Series (part-03)",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/QCp135TvU_E",
+      "hd_video_url": "https://www.youtube.com/embed/QCp135TvU_E",
+      "thumbnail": "https://i.ytimg.com/vi/QCp135TvU_E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || SBI Clerk Series (part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35262311-bea0-42de-97c0-534e465fa8a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Arithmetic Ratio Class (part-01)",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/LFj7PwyNs6s",
+      "hd_video_url": "https://www.youtube.com/embed/LFj7PwyNs6s",
+      "thumbnail": "https://i.ytimg.com/vi/LFj7PwyNs6s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Arithmetic Ratio Class (part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd884813-d7ef-4d24-aac5-655414166d9a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Ratio class (Part-02)",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/JnZNKX_CULQ",
+      "hd_video_url": "https://www.youtube.com/embed/JnZNKX_CULQ",
+      "thumbnail": "https://i.ytimg.com/vi/JnZNKX_CULQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Ratio class (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae643cdb-300f-4f8f-9bbc-7ebaf437b39e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Percentage class (Part-01)",
+      "published_date": "19 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/5bzdAGGn4Po",
+      "hd_video_url": "https://www.youtube.com/embed/5bzdAGGn4Po",
+      "thumbnail": "https://i.ytimg.com/vi/5bzdAGGn4Po/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Percentage class (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1ba10be-e524-4105-a717-27e5841efa8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Percentage class (Part-02)",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NkBDozDAsDA",
+      "hd_video_url": "https://www.youtube.com/embed/NkBDozDAsDA",
+      "thumbnail": "https://i.ytimg.com/vi/NkBDozDAsDA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Percentage class (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d87ba05-6860-4f44-a0fd-db59f9ce53e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Percentage class (Part-03)",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NOkMVuAiX94",
+      "hd_video_url": "https://www.youtube.com/embed/NOkMVuAiX94",
+      "thumbnail": "https://i.ytimg.com/vi/NOkMVuAiX94/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Percentage class (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87175788-e09b-435e-899a-2b498d42d3ae.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || SBI Clerk Doubt clearing session (Part-01)",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/RiSb-B8TuzI",
+      "hd_video_url": "https://www.youtube.com/embed/RiSb-B8TuzI",
+      "thumbnail": "https://i.ytimg.com/vi/RiSb-B8TuzI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || SBI Clerk Doubt clearing session (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb84d594-452f-4e83-b900-5db7d9f71720.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || SBI Clerk Doubt clearing session (Part-02)",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/E2m7Yj46uwg",
+      "hd_video_url": "https://www.youtube.com/embed/E2m7Yj46uwg",
+      "thumbnail": "https://i.ytimg.com/vi/E2m7Yj46uwg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || SBI Clerk Doubt clearing session (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee09a55c-c497-4916-8c5f-81baa4298336.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Profit and Loss (Part-01)",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/WLeGI4n7x9Q",
+      "hd_video_url": "https://www.youtube.com/embed/WLeGI4n7x9Q",
+      "thumbnail": "https://i.ytimg.com/vi/WLeGI4n7x9Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Profit and Loss (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b14a1d8f-8074-4ba8-b2da-6c0649a7a305.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Profit and Loss (Part-02)",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/qX8mgDUnFwc",
+      "hd_video_url": "https://www.youtube.com/embed/qX8mgDUnFwc",
+      "thumbnail": "https://i.ytimg.com/vi/qX8mgDUnFwc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Profit and Loss (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/081e543a-a7b4-461b-9f39-3c634e589009.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Profit and Loss (Part-03)",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/KAMdbry7MBs",
+      "hd_video_url": "https://www.youtube.com/embed/KAMdbry7MBs",
+      "thumbnail": "https://i.ytimg.com/vi/KAMdbry7MBs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Profit and Loss (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0e49ab6-2c6b-4d70-b328-2f08e444bd74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Profit and Loss (Part-04)",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/jYvmRNjeoH8",
+      "hd_video_url": "https://www.youtube.com/embed/jYvmRNjeoH8",
+      "thumbnail": "https://i.ytimg.com/vi/jYvmRNjeoH8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Profit and Loss (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8155db9-ad1f-46db-ba62-eb446e7e97a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Data Interpretation (Part-01)",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/nhivTWnBqQI",
+      "hd_video_url": "https://www.youtube.com/embed/nhivTWnBqQI",
+      "thumbnail": "https://i.ytimg.com/vi/nhivTWnBqQI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Data Interpretation (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5836e555-be4f-4442-83ee-39f38e493206.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Mains Arithmetic Practice (Part-01)",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/aLPiMn5LCws",
+      "hd_video_url": "https://www.youtube.com/embed/aLPiMn5LCws",
+      "thumbnail": "https://i.ytimg.com/vi/aLPiMn5LCws/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Data Interpretation (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c55cf55-f7b2-4346-b90c-b7ef9e2cf19e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Data Interpretation (Part-03)",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/dZUr-KkG-xk",
+      "hd_video_url": "https://www.youtube.com/embed/dZUr-KkG-xk",
+      "thumbnail": "https://i.ytimg.com/vi/dZUr-KkG-xk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Data Interpretation (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e69ba592-0025-4edd-af3a-41eb428cf6fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Data Interpretation (Part-04)",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/7RWyo3sMf6I",
+      "hd_video_url": "https://www.youtube.com/embed/7RWyo3sMf6I",
+      "thumbnail": "https://i.ytimg.com/vi/7RWyo3sMf6I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Data Interpretation (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7fee061-e589-427c-a148-9535812e5192.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Data Interpretation (Part-05)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/xKdxgvjdtQE",
+      "hd_video_url": "https://www.youtube.com/embed/xKdxgvjdtQE",
+      "thumbnail": "https://i.ytimg.com/vi/xKdxgvjdtQE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Data Interpretation (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc128ab6-613b-4df4-9b34-d29c65fcd555.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Simple and Compound interest (Part-01)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/3AhRWn5OwTY",
+      "hd_video_url": "https://www.youtube.com/embed/3AhRWn5OwTY",
+      "thumbnail": "https://i.ytimg.com/vi/3AhRWn5OwTY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Simple and Compound interest (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4bdd02b-b173-4239-9004-be6a18ee3827.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Simple and Compound interest (Part-02)",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Kxpkpf4vBNs",
+      "hd_video_url": "https://www.youtube.com/embed/Kxpkpf4vBNs",
+      "thumbnail": "https://i.ytimg.com/vi/Kxpkpf4vBNs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Simple and Compound interest (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6a9b9e2-dce6-4763-879e-60ca0cc9fc35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Simple and Compound interest (Part-03)",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/AzUVVl_zcxg",
+      "hd_video_url": "https://www.youtube.com/embed/AzUVVl_zcxg",
+      "thumbnail": "https://i.ytimg.com/vi/AzUVVl_zcxg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Simple and Compound interest (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0953106b-04c1-429f-a5de-170081a88e82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Time and Work (Part-01)",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/CKySmpCPpvA",
+      "hd_video_url": "https://www.youtube.com/embed/CKySmpCPpvA",
+      "thumbnail": "https://i.ytimg.com/vi/CKySmpCPpvA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Time and Work (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52be5b41-3ee4-477b-b782-983c37b431ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Time and Work (Part-02)",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uQLOX4aYkoE",
+      "hd_video_url": "https://www.youtube.com/embed/uQLOX4aYkoE",
+      "thumbnail": "https://i.ytimg.com/vi/uQLOX4aYkoE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Time and Work (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82dd70b5-cc98-4f0f-8e49-a6175a5527de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Time and Work (Part-03)",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/dxXoWYCt45g",
+      "hd_video_url": "https://www.youtube.com/embed/dxXoWYCt45g",
+      "thumbnail": "https://i.ytimg.com/vi/dxXoWYCt45g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Time and Work (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/945ba29e-7aad-4239-9c52-62be5cef7d0a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Time and Work (Part-04)",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/9NLz5DZWD-Y",
+      "hd_video_url": "https://www.youtube.com/embed/9NLz5DZWD-Y",
+      "thumbnail": "https://i.ytimg.com/vi/9NLz5DZWD-Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Time and Work (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0416eac-0ef9-4f38-ab6a-91c6c0a5e226.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Time and Work (Part-05)",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/mSv9AUUV5ec",
+      "hd_video_url": "https://www.youtube.com/embed/mSv9AUUV5ec",
+      "thumbnail": "https://i.ytimg.com/vi/mSv9AUUV5ec/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Time and Work (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7058a61f-4b59-4bbd-a40b-8bdb9c3f6952.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Time Speed and Distance (Part-01)",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/ybl4udWBF-k",
+      "hd_video_url": "https://www.youtube.com/embed/ybl4udWBF-k",
+      "thumbnail": "https://i.ytimg.com/vi/ybl4udWBF-k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Time Speed and Distance (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ead9c65-e124-40b9-9805-c7eb6a774a86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Time Speed and Distance (Part-02)",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/tj6HzZzaMrs",
+      "hd_video_url": "https://www.youtube.com/embed/tj6HzZzaMrs",
+      "thumbnail": "https://i.ytimg.com/vi/tj6HzZzaMrs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Time Speed and Distance (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c835dce-8e52-4ca3-bede-4baf598cc382.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Time Speed and Distance (Part-03)",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/92GmlVK6FtE",
+      "hd_video_url": "https://www.youtube.com/embed/92GmlVK6FtE",
+      "thumbnail": "https://i.ytimg.com/vi/92GmlVK6FtE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Time Speed and Distance (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4cf5ba7b-2ede-43d3-942c-971a5590c4d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Time Speed and Distance (Part-04)",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/aTWBC1cZPzY",
+      "hd_video_url": "https://www.youtube.com/embed/aTWBC1cZPzY",
+      "thumbnail": "https://i.ytimg.com/vi/aTWBC1cZPzY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Time Speed and Distance (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e38d558-362e-4fef-ad8c-693c37e2bb48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Mains Arithmetic Practice (Part-01)",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/7ZDsvVABuSw",
+      "hd_video_url": "https://www.youtube.com/embed/7ZDsvVABuSw",
+      "thumbnail": "https://i.ytimg.com/vi/7ZDsvVABuSw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Mains Arithmetic Practice (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c057c9bf-923f-4de7-8335-32b98e08b8a1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Mains Arithmetic Practice (Part-02)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/e14h77b4Xms",
+      "hd_video_url": "https://www.youtube.com/embed/e14h77b4Xms",
+      "thumbnail": "https://i.ytimg.com/vi/e14h77b4Xms/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Mains Arithmetic Practice (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc4b8789-b530-402a-81f4-345d9fed7fe8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Mains Arithmetic Practice (Part-03)",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/54gc_XVyBpA",
+      "hd_video_url": "https://www.youtube.com/embed/54gc_XVyBpA",
+      "thumbnail": "https://i.ytimg.com/vi/54gc_XVyBpA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Mains Arithmetic Practice (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecea74b5-8a7c-4590-a119-fbbede78a790.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Mains Arithmetic Practice (Part-04)",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/VG8UtLo-DWc",
+      "hd_video_url": "https://www.youtube.com/embed/VG8UtLo-DWc",
+      "thumbnail": "https://i.ytimg.com/vi/VG8UtLo-DWc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Mains Arithmetic Practice (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91dbdfe6-d06b-4b36-82e4-abb520a52890.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Mains Arithmetic Practice (Part-05)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/EpLtEf6vXBI",
+      "hd_video_url": "https://www.youtube.com/embed/EpLtEf6vXBI",
+      "thumbnail": "https://i.ytimg.com/vi/EpLtEf6vXBI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Mains Arithmetic Practice (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e99d20f0-43fc-43c0-b4c1-9bd5ba8db419.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Mains Arithmetic Practice (Part-06)",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ZAeoKhp_Huw",
+      "hd_video_url": "https://www.youtube.com/embed/ZAeoKhp_Huw",
+      "thumbnail": "https://i.ytimg.com/vi/ZAeoKhp_Huw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Mains Arithmetic Practice (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6dce97df-9525-40c8-a9d7-855f175042fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Mains Arithmetic Practice (Part-07)",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wxqIiiRPSDo",
+      "hd_video_url": "https://www.youtube.com/embed/wxqIiiRPSDo",
+      "thumbnail": "https://i.ytimg.com/vi/wxqIiiRPSDo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Mains Arithmetic Practice (Part-07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5c9650e-7a7c-4bfb-a8b8-a0b68c1c85f1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 || Mains Arithmetic Practice (Part-08)",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/LsnqtWlZbr4",
+      "hd_video_url": "https://www.youtube.com/embed/LsnqtWlZbr4",
+      "thumbnail": "https://i.ytimg.com/vi/LsnqtWlZbr4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 || Mains Arithmetic Practice (Part-08)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5ab55ff-1a2f-4658-9882-6f81d28a61e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 || Mains Arithmetic Practice (Part-09)",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/GKqF7WuoGvE",
+      "hd_video_url": "https://www.youtube.com/embed/GKqF7WuoGvE",
+      "thumbnail": "https://i.ytimg.com/vi/GKqF7WuoGvE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 || Mains Arithmetic Practice (Part-09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c99c018a-18e8-4a9e-ab04-21168516590b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Mains Arithmetic Practice (Part-10)",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_nj0GgvVAYM",
+      "hd_video_url": "https://www.youtube.com/embed/_nj0GgvVAYM",
+      "thumbnail": "https://i.ytimg.com/vi/_nj0GgvVAYM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Mains Arithmetic Practice (Part-10)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/396b2ae2-61e2-45f4-a207-0ef60f82342b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Mains Arithmetic Practice (Part-11)",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Pm2btiki8Kw",
+      "hd_video_url": "https://www.youtube.com/embed/Pm2btiki8Kw",
+      "thumbnail": "https://i.ytimg.com/vi/Pm2btiki8Kw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Mains Arithmetic Practice (Part-11)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be598406-890c-4335-94e8-c27b7fa8f01f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Mains Arithmetic Practice (Part-12)",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/DqKfvSk7yKg",
+      "hd_video_url": "https://www.youtube.com/embed/DqKfvSk7yKg",
+      "thumbnail": "https://i.ytimg.com/vi/DqKfvSk7yKg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Mains Arithmetic Practice (Part-12)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56f0e35d-2b94-45ff-9017-49bb095cbe33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Mains Arithmetic Practice (Part-13)",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/K8fwC7wVKR4",
+      "hd_video_url": "https://www.youtube.com/embed/K8fwC7wVKR4",
+      "thumbnail": "https://i.ytimg.com/vi/K8fwC7wVKR4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Mains Arithmetic Practice (Part-13)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e7ed579-47ed-4592-8612-c570084de22c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Mains Arithmetic Practice (Part-14)",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/9_WWBr7QQlg",
+      "hd_video_url": "https://www.youtube.com/embed/9_WWBr7QQlg",
+      "thumbnail": "https://i.ytimg.com/vi/9_WWBr7QQlg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Mains Arithmetic Practice (Part-14)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c07efff-71c9-4736-b0c2-3afee1989efd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Mains Arithmetic Practice (Part-15)",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/E5GE2qjnP-Y",
+      "hd_video_url": "https://www.youtube.com/embed/E5GE2qjnP-Y",
+      "thumbnail": "https://i.ytimg.com/vi/E5GE2qjnP-Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Mains Arithmetic Practice (Part-15)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e745d052-d72c-4d31-9019-6e072c4bbc2f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Data Interpretation Practice Set (Part-01)",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/omcd7dc4yAY",
+      "hd_video_url": "https://www.youtube.com/embed/omcd7dc4yAY",
+      "thumbnail": "https://i.ytimg.com/vi/omcd7dc4yAY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Data Interpretation Practice Set (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac0ef9c4-1ec5-4b00-8610-abc3582aed23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Data Interpretation Practice Set (Part-02)",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FEQDqo63Yhc",
+      "hd_video_url": "https://www.youtube.com/embed/FEQDqo63Yhc",
+      "thumbnail": "https://i.ytimg.com/vi/FEQDqo63Yhc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Data Interpretation Practice Set (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/050225fb-1655-4ceb-a374-5097d13aad23.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Data Interpretation Practice Set (Part-03)",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/iwCpCn2gCHk",
+      "hd_video_url": "https://www.youtube.com/embed/iwCpCn2gCHk",
+      "thumbnail": "https://i.ytimg.com/vi/iwCpCn2gCHk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Data Interpretation Practice Set (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99952fef-022e-424b-b3a9-09544d27f134.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || Miscellaneous Topic (Part-01)",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qilw9UjhTO8",
+      "hd_video_url": "https://www.youtube.com/embed/qilw9UjhTO8",
+      "thumbnail": "https://i.ytimg.com/vi/qilw9UjhTO8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || Miscellaneous Topic (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/890627af-438a-45a6-b183-33c4c5b8b776.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Miscellaneous Topic (Part-02)",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9cjHYj6P4JQ",
+      "hd_video_url": "https://www.youtube.com/embed/9cjHYj6P4JQ",
+      "thumbnail": "https://i.ytimg.com/vi/9cjHYj6P4JQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-61 || Miscellaneous Topic (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31657ede-a64b-4f5b-bc37-4127e12afba9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Previous year paper (Part-01)",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/5yEndSYPKNU",
+      "hd_video_url": "https://www.youtube.com/embed/5yEndSYPKNU",
+      "thumbnail": "https://i.ytimg.com/vi/5yEndSYPKNU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-62 || Previous year paper (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2eff0cc4-8c4c-4b7c-b86c-78e8b1ad5c42.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Previous year paper (Part-02)",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fkVOJLCwVBk",
+      "hd_video_url": "https://www.youtube.com/embed/fkVOJLCwVBk",
+      "thumbnail": "https://i.ytimg.com/vi/fkVOJLCwVBk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-63 || Previous year paper (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe5759c6-7066-4e57-bd83-c4c252a3ff9c.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

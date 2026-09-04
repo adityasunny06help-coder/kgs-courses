@@ -1,0 +1,533 @@
+{
+  "subject_name": "Biology by Sumit sir",
+  "subject_id": 1157,
+  "video_count": 46,
+  "note_count": 22,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1: Human Nutrition & Health (मानव पोषण & स्वास्थ्य) Part-1",
+      "published_date": "07 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-01/l-01-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d-LMuOvxGrc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b7e0a7aa-68e3-4ad1-bd91-c11cf9907758.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2: Human Nutrition & Health (मानव पोषण & स्वास्थ्य) Part-2",
+      "published_date": "08 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-02/l-02-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pqGAhFa6qqM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ce052431-2626-47cf-88f8-1370978209c0.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 :  Carbohydrates (कार्बोहाइड्रेट) Part 01",
+      "published_date": "11 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-03/l-03-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5tsIt97VTqc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5078d939-ac95-4a0e-bf07-89b8f390001f.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 : Carbohydrates (कार्बोहाइड्रेट) part 02",
+      "published_date": "12 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-04/l-04-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/l-rSZgAIJa8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9fd353eb-3e23-48f7-803f-5b5a80a8b66f.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 : Artificial sweeteners (कृत्रिम मधुरक)",
+      "published_date": "13 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-05/l-05-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oSZxP8wIVn4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//1602f728-731d-4dca-a1cf-63f25cdae4de.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 :  Fats ( वसा ) Part-01",
+      "published_date": "14 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-06/l-06-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LVDGZvD1sm8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//38f95d2f-9ec2-4e0a-bc40-8d532c713f70.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 :  Fats ( वसा ) Part-02",
+      "published_date": "15 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-07/l-07-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ysdAA9hJGMU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//758c41aa-35eb-41ef-84f3-89bcd1181420.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8: Fats ( वसा ) Part-03",
+      "published_date": "16 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-08/l-08-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Zxu6RILDGIY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d63a9e49-a4f4-4003-8b94-1518008f6220.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9: Amino Acid (एमिनो अम्ल ) Part-1",
+      "published_date": "18 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-09/l-09-bio-sumit-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UjH-sQwY5Bw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fbfa567f-b0db-4df8-8588-8c9c54cae585.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10: Amino Acid (एमिनो अम्ल ) Part-2 & Protein (प्रोटीन) Part-1",
+      "published_date": "26 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-10/l-10-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/V4f6OxBNJjE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//48195cb2-d4d5-4f79-9503-ddbab3fe7663.png",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11: Protein (प्रोटीन) Part-2",
+      "published_date": "27 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-11/l-11-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1bYFn7xDN5M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//93bb602e-234f-4448-a172-a24386be7a52.png",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12: Vitamins (विटामिन) Part-01",
+      "published_date": "28 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-12/l-12-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4PL9k8dUuYQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//31387d07-2c37-4111-8eaa-6d9cad0cac2b.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13: Vitamins (विटामिन) Part-02",
+      "published_date": "29 Dec 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-13/l-13-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VjR4VXFkCVc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eeefc14b-2252-4826-8948-70ad5406f24a.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14: Nucleic acid (न्यूक्लिक अम्ल)",
+      "published_date": "02 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-14/l-14-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/pRN9kCgaqEA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//19b1012b-078f-4641-969e-2974032354fb.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-1",
+      "published_date": "03 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-15/l-15-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WSLXzS5lvz0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//96f50c77-d197-4694-be19-13744feb115f.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-2",
+      "published_date": "04 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-16/l-16-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/rvUOgpuKf6A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//18ad5f07-4174-437f-871a-f903c04bde52.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-3",
+      "published_date": "05 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-17/l-17-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5b6f03GnsKw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//80873d86-89d7-4d83-b972-0b3514d6067d.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-4",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-18/l-18-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GLVPLHFNnNo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//fbdfb80b-5495-4c40-8ba6-7ae48ac56f0a.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 : Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-5",
+      "published_date": "08 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-19/l-19-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WTFbPjRQnhw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3e63b4a7-7f34-42cb-9620-af194f5f70eb.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-6",
+      "published_date": "09 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-20/l-20-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UP4j5XAt82w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//81138582-ca3c-44e6-bf00-489d0c96dd3a.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21: Cell and Cytology (कोशिका और कोशिका विज्ञान) Part-7",
+      "published_date": "10 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-21/l-21-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/LwN1dAXcQ4M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0b13cf58-6146-4163-92fc-e8e5e363c9d8.png",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Histology (ऊतक विज्ञान) Part-1",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-22/l-22-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6obz_aLVsyM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Wfgdp7mASngw7m32e2Og74DV7xfZI29C3kp3on2r.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Histology (ऊतक विज्ञान) Part-2",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-23/l-23-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_vqAblmJRX8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/I8kMwf5ZB3R4NXmumnldoLbEkoaxaDZBoSdDhcZK.png",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-1",
+      "published_date": "10 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-24/l-24-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g1dphApOKgg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/z2D2fSebKwqnZW5r69srwHJYC7ThMMt4a0Wq3bsT.png",
+      "notes": [
+        {
+          "title": "Lecture 24 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-1",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/dab0de8b-b970-44ec-989f-fe4f2742961b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-2",
+      "published_date": "12 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-25/l-25-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uJxKvaSLV4s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/IAaBhd5Il552k6NMMQtZcMp40sHkr0xf1Xq6iwoa.png",
+      "notes": [
+        {
+          "title": "Lecture 25 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-2",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/32a83277-56be-44ea-8f4d-b863677b592c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-3",
+      "published_date": "13 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-26/l-26-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8EE8QJKrR6M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/R3ZxkusuBvgwg59DnuTwMdSXts3wrYm7BJDmrWLD.png",
+      "notes": [
+        {
+          "title": "Lecture 26 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7aafa270-c05d-41cc-85e0-86b2f87bce6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-4",
+      "published_date": "14 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-27/l-27-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w15JIxk68uQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/kCGwIOPk3XjWoHDmg8J1x3UweOGiN3pyOy6ABCWO.png",
+      "notes": [
+        {
+          "title": "Lecture 27 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-4",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/8e6e3a18-e1ab-4259-8e6e-9ec041084db9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-5",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-28/l-28-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YXD0NjAW9rs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3FC6rfYESb6mmVjBbi3aEFtwlx2yUNJzDYAxHc7n.png",
+      "notes": [
+        {
+          "title": "https://kgs-v2.akamaized.net/kgs/pdfs/d8368ea5-8993-407d-bd3d-b20425c4e059.pdf",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d8368ea5-8993-407d-bd3d-b20425c4e059.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-6",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-29/l-29-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W7w9OswAi9I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/yyUeJmStxT2XbDfRdnts5lTx0mb4vkziCILPOAO6.png",
+      "notes": [
+        {
+          "title": "Lecture 29 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-6",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b5ff9f82-60c3-403a-b52b-7091c0136f84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-7",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-30/l-30-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YsxU71Q7dDY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kZrDs1fvmoCcUrocOj1qq2D51wydmv97Jy52KrWp.png",
+      "notes": [
+        {
+          "title": "Lecture 30 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-7",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9074d368-91cd-4309-9a89-5d6b21318bac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-8",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-31/l-31-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dSFGjZVWeFQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/bS2SmP4LFVVgUxuube5MJEpCcTaJnSR0OYEI0rYj.png",
+      "notes": [
+        {
+          "title": "Lecture 31 || मानव शारीरिक क्रिया एवं विज्ञान (Human Physiology) Part-8",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/054c056e-dfb6-4fd6-801e-3410a7bbab55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || मानव संवेदी अंग (Human Sensory Organs)",
+      "published_date": "20 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-32/l-32-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oveTJmCrOLA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/v4MbKl3xLMSiIrhRglN2f86MrFKOAAqBNypv2qjU.png",
+      "notes": [
+        {
+          "title": "Lecture 32 || मानव संवेदी अंग (Human Sensory Organs) Part-1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a4782ff1-393c-4c83-9eb9-b51d65ba72b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || मानव पाचन तंत्र (Human Digestive System) Part-1",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-33/l-33-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kIZnduw_b2I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/9aigvYNcPrmUHGWejrGvlaYEbWqFaqxHAqFaymQM.png",
+      "notes": [
+        {
+          "title": "Lecture 33 || मानव पाचन तंत्र (Human Digestive System) Part-1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3bd97ef5-c17c-4985-b465-0825c39b99b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || मानव पाचन तंत्र (Human Digestive System) Part-2",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-34/l-34-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e5k9IpJ7b7A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/eFFoZDjEiCKUhHyG0f2p1WLTKKm8DKnMWef5JUud.png",
+      "notes": [
+        {
+          "title": "Lecture 34 || मानव पाचन तंत्र (Human Digestive System) Part-2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/78be8519-e4cb-4897-ae65-2b8a5f903a20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || मानव उत्सर्जी अंग (Human Excretory Organs) Part-1",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-35/l-35-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vW2UGYTm58M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Vw4t78eu3R8fJOHBtitVeHEYCc6CHylGOkcVWgu6.png",
+      "notes": [
+        {
+          "title": "Lecture 35 || मानव उत्सर्जी अंग (Human Excretory Organs) Part-1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f6f6b8dd-3edf-4e62-86e2-cfdc01c2917c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || मानव कंकाल तंत्र (Human Skeletal System)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-36/l-36-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D1eEhx60oMA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/scQx5kt5zNTDKtq8FomH3FG2qgb3zuhxYlpgQ2c3.png",
+      "notes": [
+        {
+          "title": "Lecture 36 || मानव कंकाल तंत्र (Human Skeletal System",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7b6b2ce2-8dc3-43fd-acad-b1478c5f211e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || ग्रंथि और हार्मोन्स (Glands and Hormones) Part-1",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-37/l-37-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FlJHFP3U9CU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4N6QJQobAWScq48bPHzFnp2PyG2NyfbV7RMtJfCu.png",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || ग्रंथि और हार्मोन्स (Glands and Hormones) Part-2",
+      "published_date": "27 Apr 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-38/l-38-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DAlD5uRUWJk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/lwUvns5T1w0hqpKbvBAlngtUJVroTVua3TcOQSWn.png",
+      "notes": [
+        {
+          "title": "Lecture 38 || ग्रंथि और हार्मोन्स (Glands and Hormones) Part-2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0df9fb66-5730-40b0-a504-483675ee94ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || मानव प्रजनन तंत्र और हार्मोन (Human Reproductive System and Hormones)",
+      "published_date": "04 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-39/l-39-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tdNrsWnpGG4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/CrV1L7vSq952YDQXSgjlBfUChN0WkRbYLiU7A3rT.png",
+      "notes": [
+        {
+          "title": "Lecture 39 || मानव प्रजनन तंत्र और हार्मोन (Human Reproductive System and Hormones)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/631df90c-a5a9-4b4d-b932-ec334029b2ab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || मानव में प्रजनन (Reproduction in Human Being)",
+      "published_date": "06 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-40/l-40-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/s8eKaUMTFlg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/79ItJ9J7JD0EX7EbiIQXT0nW9bbkedPPSZlmopyf.png",
+      "notes": [
+        {
+          "title": "Lecture 40 || मानव में प्रजनन (Reproduction in Human Being)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1b8cec6e-b073-4589-8832-519e514cabfe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || पादप जगत (Plant Kingdom) Part-1",
+      "published_date": "07 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-41/l-41-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cw5y6dP4YaI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/pslACzsoEGCHyXQekyv5mkW7rISlml60JvmtA4zV.png",
+      "notes": [
+        {
+          "title": "Lecture 41 || पादप जगत (Plant Kingdom) Part-1",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ed6e12e2-4fba-47a9-893a-180638c83e38.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || पादप जगत (Plant Kingdom) Part-2",
+      "published_date": "08 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-42/l-42-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SlcvxFhY1rQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/mbcUKGN2DanChTWtHraptow87YLOOpEnPsvioKUX.png",
+      "notes": [
+        {
+          "title": "Lecture 42 || पादप जगत (Plant Kingdom) Part-2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/5472c941-6914-4524-b430-5f853c65c04e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || पादप जगत (Plant Kingdom) Part-3",
+      "published_date": "11 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-43/l-43-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/sPvIE-vMenE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/BOkpRMZkNXYRkwvVsYXvmIXfxYvSNO5Ig8q7BaVI.png",
+      "notes": [
+        {
+          "title": "Lecture 43 || पादप जगत (Plant Kingdom) Part-3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/06f66063-fab7-432d-a819-a5d8fb8bf84b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || पादप जगत (Plant Kingdom) Part-4",
+      "published_date": "13 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-44/l-44-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Y4wG21gYng4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/H684DNiS79b6XWK9e5DhGtZ8yzLZz4eluP8OSo51.png",
+      "notes": [
+        {
+          "title": "Lecture 44 || पादप जगत (Plant Kingdom) Part-4",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a3e91e61-2091-4049-973d-bf0fbf9a6f7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || प्राणी जगत (Animal Kingdom)",
+      "published_date": "14 May 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-45/l-45-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/S5gk-JxUyE4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/DFG8lLucsarJWWSiqquR2xzD2zKYzMpJGbJceL7J.png",
+      "notes": [
+        {
+          "title": "Lecture 45 || प्राणी जगत (Animal Kingdom) || Last Class",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/f657f79a-cfd4-4ee4-8f86-c1748c26f40a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || मानव रोग (Human Diseases) Last Class",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/bpsc-2/bio-sumit-sir/l-46/l-46-bio-bpsc2.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iUJ9YQN-Nzc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e81b92ad8.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || मानव रोग (Human Diseases)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14904290-939c-4047-a645-c6ca9ac85559.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

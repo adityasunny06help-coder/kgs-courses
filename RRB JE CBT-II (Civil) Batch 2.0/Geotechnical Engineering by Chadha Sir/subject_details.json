@@ -1,0 +1,485 @@
+{
+  "subject_name": "Geotechnical Engineering by Chadha Sir",
+  "subject_id": 5347,
+  "video_count": 34,
+  "note_count": 34,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Soil Origin",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/fIDlNvsYp6g",
+      "hd_video_url": "https://www.youtube.com/embed/fIDlNvsYp6g",
+      "thumbnail": "https://i.ytimg.com/vi/fIDlNvsYp6g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Soil Origin",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72a5dbee-a5a0-493c-9523-7fdf8dbda951.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Phase Diagrams of Soils",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/UF0un0lwv24",
+      "hd_video_url": "https://www.youtube.com/embed/UF0un0lwv24",
+      "thumbnail": "https://i.ytimg.com/vi/UF0un0lwv24/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Phase Diagrams of Soils",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b5d57b5-862c-4bb6-b9bb-d403428c38e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Soil Properties (Part-1)",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/xXD5DB2QutQ",
+      "hd_video_url": "https://www.youtube.com/embed/xXD5DB2QutQ",
+      "thumbnail": "https://i.ytimg.com/vi/xXD5DB2QutQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Soil Properties (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6f60074-1d7c-47e3-89e0-6394f892af55.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Soil Properties (Part-2)",
+      "published_date": "20 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/_fATyLj0lZ0",
+      "hd_video_url": "https://www.youtube.com/embed/_fATyLj0lZ0",
+      "thumbnail": "https://i.ytimg.com/vi/_fATyLj0lZ0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Soil Properties (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/faa77a9a-bf43-45f5-a178-3a31bceb7fed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Determination of Soil Properties",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Gr6l1VqxPt0",
+      "hd_video_url": "https://www.youtube.com/embed/Gr6l1VqxPt0",
+      "thumbnail": "https://i.ytimg.com/vi/Gr6l1VqxPt0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Determination of Soil Properties",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/783504f2-1372-41a1-889b-94f684bb8362.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Questionnaire",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Co3B5fh25Bk",
+      "hd_video_url": "https://www.youtube.com/embed/Co3B5fh25Bk",
+      "thumbnail": "https://i.ytimg.com/vi/Co3B5fh25Bk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Questionnaire",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84439a41-2549-47e9-86db-de5e744b077d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Consistency Limits",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/OjrVtFvT3Iw",
+      "hd_video_url": "https://www.youtube.com/embed/OjrVtFvT3Iw",
+      "thumbnail": "https://i.ytimg.com/vi/OjrVtFvT3Iw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || Consistency Limits",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/644f706e-7b5a-4a44-9be2-ec98e19edb2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Consistency And Liquidity Index",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/JQwf4zai1Z4",
+      "hd_video_url": "https://www.youtube.com/embed/JQwf4zai1Z4",
+      "thumbnail": "https://i.ytimg.com/vi/JQwf4zai1Z4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Consistency And Liquidity Index",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/975420ae-e897-45b2-a5d5-a6b3599a0e2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Gradation Curves",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/UO_IC8z1ogY",
+      "hd_video_url": "https://www.youtube.com/embed/UO_IC8z1ogY",
+      "thumbnail": "https://i.ytimg.com/vi/UO_IC8z1ogY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Gradation Curves",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/399f9fd1-9a6f-439e-a894-227c24aa4b13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Questionnaire",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/CwOOe_bm3vQ",
+      "hd_video_url": "https://www.youtube.com/embed/CwOOe_bm3vQ",
+      "thumbnail": "https://i.ytimg.com/vi/CwOOe_bm3vQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Questionnaire",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c5953dc-fac8-45ec-ab9f-e2eaeb4e154c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Classification of Soils",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/3x7TRbxn-zc",
+      "hd_video_url": "https://www.youtube.com/embed/3x7TRbxn-zc",
+      "thumbnail": "https://i.ytimg.com/vi/3x7TRbxn-zc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Classification of Soils",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31a214fa-1f1b-4219-aa44-d9376feffe81.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Clay Minerology & Soil Structure",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/eCcnskkFOoI",
+      "hd_video_url": "https://www.youtube.com/embed/eCcnskkFOoI",
+      "thumbnail": "https://i.ytimg.com/vi/eCcnskkFOoI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || Clay Minerology & Soil Structure",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6629a087-de04-4f9c-9a8c-705b75574fc1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Permeability of Soils (Part-1)",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/kdoXHHyj-y8",
+      "hd_video_url": "https://www.youtube.com/embed/kdoXHHyj-y8",
+      "thumbnail": "https://i.ytimg.com/vi/kdoXHHyj-y8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || Permeability of Soils (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02b061fd-e03b-4335-83d7-6f7fd1edb892.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Permeability of Soils (Part-2)",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/H_xHyJnNMHg",
+      "hd_video_url": "https://www.youtube.com/embed/H_xHyJnNMHg",
+      "thumbnail": "https://i.ytimg.com/vi/H_xHyJnNMHg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Permeability of Soils (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5589b02c-f18c-4b4e-94fe-a3edd3014d70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Questionnaire",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5muoWUtnFdk",
+      "hd_video_url": "https://www.youtube.com/embed/5muoWUtnFdk",
+      "thumbnail": "https://i.ytimg.com/vi/5muoWUtnFdk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || Questionnaire",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ff37e6e-f961-4ad2-999f-e1c73e1c3298.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Effective Stress",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/BWQx_HfnNzA",
+      "hd_video_url": "https://www.youtube.com/embed/BWQx_HfnNzA",
+      "thumbnail": "https://i.ytimg.com/vi/BWQx_HfnNzA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || Effective Stress",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2c00817-7960-47fa-a5c3-850d55104653.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Seepage Conditions",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/S3ElAuFIPyc",
+      "hd_video_url": "https://www.youtube.com/embed/S3ElAuFIPyc",
+      "thumbnail": "https://i.ytimg.com/vi/S3ElAuFIPyc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || Seepage Conditions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a4f260e-db8e-46ad-9baa-da4209a30faa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Seepage Analysis",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/YCRpKB-Cvv8",
+      "hd_video_url": "https://www.youtube.com/embed/YCRpKB-Cvv8",
+      "thumbnail": "https://i.ytimg.com/vi/YCRpKB-Cvv8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || Seepage Analysis",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e87e7ce-99a8-461f-924c-e9f45e1e4786.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || Compaction of Soils (Part-1)",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5Dk9bsh359Q",
+      "hd_video_url": "https://www.youtube.com/embed/5Dk9bsh359Q",
+      "thumbnail": "https://i.ytimg.com/vi/5Dk9bsh359Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || Compaction of Soils (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0fffef1-1d4e-45eb-a4dc-ad39b5233223.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Compaction of Soils (Part-2)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/GcRSzia3Kzw",
+      "hd_video_url": "https://www.youtube.com/embed/GcRSzia3Kzw",
+      "thumbnail": "https://i.ytimg.com/vi/GcRSzia3Kzw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || Compaction of Soils (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78ac1985-5f8e-4c69-8273-6c803afd0abf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Questionnaire",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/T5exgZ_GcNI",
+      "hd_video_url": "https://www.youtube.com/embed/T5exgZ_GcNI",
+      "thumbnail": "https://i.ytimg.com/vi/T5exgZ_GcNI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || Questionnaire",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03d906bc-cf3a-406b-bc90-c0115941de95.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Consolidation of Soils (Part-1)",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/74tX6PLp90I",
+      "hd_video_url": "https://www.youtube.com/embed/74tX6PLp90I",
+      "thumbnail": "https://i.ytimg.com/vi/74tX6PLp90I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Consolidation of Soils (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3643c2e-fd80-4a22-931a-ff01b65e3b08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Consolidation of Soils (Part-2)",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/MCrjTEw43P0",
+      "hd_video_url": "https://www.youtube.com/embed/MCrjTEw43P0",
+      "thumbnail": "https://i.ytimg.com/vi/MCrjTEw43P0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Consolidation of Soils (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84f91f8e-c386-481b-a0ed-9fb12908ca8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Shear Strength of Soils (Part-1)",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/k4lnj3Qv8BE",
+      "hd_video_url": "https://www.youtube.com/embed/k4lnj3Qv8BE",
+      "thumbnail": "https://i.ytimg.com/vi/k4lnj3Qv8BE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Shear Strength of Soils (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/324ca77b-40aa-4cbf-944d-2f50ccc4878d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Shear Strength of Soils (Part-2)",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/eq3hq78eZ8g",
+      "hd_video_url": "https://www.youtube.com/embed/eq3hq78eZ8g",
+      "thumbnail": "https://i.ytimg.com/vi/eq3hq78eZ8g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Shear Strength of Soils (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a382c06b-ee78-491d-a948-3a762ac762e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Questionnaire",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/FhkGGfAKflA",
+      "hd_video_url": "https://www.youtube.com/embed/FhkGGfAKflA",
+      "thumbnail": "https://i.ytimg.com/vi/FhkGGfAKflA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Questionnaire",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36547965-bc5a-4715-b38b-ae0b5ef8938f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Slope Stability Analysis",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/edEPLXCknZ0",
+      "hd_video_url": "https://www.youtube.com/embed/edEPLXCknZ0",
+      "thumbnail": "https://i.ytimg.com/vi/edEPLXCknZ0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Slope Stability",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/599bdc87-3415-4691-9d9e-ca5a5965c148.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Earth Pressure (Part-1)",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/elxXQIc7fPw",
+      "hd_video_url": "https://www.youtube.com/embed/elxXQIc7fPw",
+      "thumbnail": "https://i.ytimg.com/vi/elxXQIc7fPw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Earth Pressure (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/779fd6d5-8575-44f4-827f-b8565b116cd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Earth Pressure (Part-2)",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/oAb2xStB698",
+      "hd_video_url": "https://www.youtube.com/embed/oAb2xStB698",
+      "thumbnail": "https://i.ytimg.com/vi/oAb2xStB698/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Earth Pressure (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a8869b7-d3e1-4f66-9931-0a7aba0c39c4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Shallow Foundations (Part-1)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/YvA-zOnw_LI",
+      "hd_video_url": "https://www.youtube.com/embed/YvA-zOnw_LI",
+      "thumbnail": "https://i.ytimg.com/vi/YvA-zOnw_LI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Shallow Foundations (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4b2d2c7-330b-4589-8081-4efb076df887.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Shallow Foundations (Part-2)",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Vem9V1WGxgA",
+      "hd_video_url": "https://www.youtube.com/embed/Vem9V1WGxgA",
+      "thumbnail": "https://i.ytimg.com/vi/Vem9V1WGxgA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31 || Shallow Foundations (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f37e65c-a2e9-47e0-a7c5-c856c8d87dfa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Deep Foundations (Part-1)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/brtiZENiHPw",
+      "hd_video_url": "https://www.youtube.com/embed/brtiZENiHPw",
+      "thumbnail": "https://i.ytimg.com/vi/brtiZENiHPw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Deep Foundations (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cc00cd5-cdc1-4888-9693-fc93c723c9b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Deep Foundations (Part-2)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JE_-FnrG8Cc",
+      "hd_video_url": "https://www.youtube.com/embed/JE_-FnrG8Cc",
+      "thumbnail": "https://i.ytimg.com/vi/JE_-FnrG8Cc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Deep Foundations (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94750a8d-9970-4df1-bd43-a8e415422e7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Soil Exploration & Vertical Stress Distribution.",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/acZhnb8WDjw",
+      "hd_video_url": "https://www.youtube.com/embed/acZhnb8WDjw",
+      "thumbnail": "https://i.ytimg.com/vi/acZhnb8WDjw/default.jpg",
+      "notes": [
+        {
+          "title": "l34",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6919fe2e-125c-445d-870c-6d97bf41f382.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

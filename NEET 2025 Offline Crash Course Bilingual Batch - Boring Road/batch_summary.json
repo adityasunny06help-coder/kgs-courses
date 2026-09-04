@@ -1,0 +1,64 @@
+{
+  "batch_info": {
+    "title": "NEET 2025 Offline Crash Course Bilingual Batch - Boring Road",
+    "price": "12999",
+    "id": "471",
+    "extracted_date": "2025-08-27T15:14:37.072048"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 4776,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Physics by Akhand Singh (NPAS Sir)",
+      "id": 5024,
+      "video_count": 25,
+      "note_count": 24
+    },
+    {
+      "name": "Chemistry By Yogesh Yadav (NCYY Sir)",
+      "id": 5025,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Botany By Anil Pandey (NBAP Sir)",
+      "id": 5026,
+      "video_count": 20,
+      "note_count": 19
+    },
+    {
+      "name": "Zoology By Ashish Yadav (NZAY Sir)",
+      "id": 5027,
+      "video_count": 30,
+      "note_count": 27
+    },
+    {
+      "name": "Chemistry by Kushagra Saxena ( NCKS)",
+      "id": 5051,
+      "video_count": 23,
+      "note_count": 21
+    },
+    {
+      "name": "Physics by Manpreet Singh (NPMS)",
+      "id": 5052,
+      "video_count": 35,
+      "note_count": 33
+    },
+    {
+      "name": "Test Paper and Solutions",
+      "id": 5474,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry By Ujjwal Piyush ( NCUP Sir )",
+      "id": 6241,
+      "video_count": 5,
+      "note_count": 5
+    }
+  ]
+}

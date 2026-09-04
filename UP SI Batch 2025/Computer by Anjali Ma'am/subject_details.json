@@ -1,0 +1,293 @@
+{
+  "subject_name": "Computer by Anjali Ma'am",
+  "subject_id": 7989,
+  "video_count": 21,
+  "note_count": 19,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction",
+      "published_date": "28 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/HrK3GhHY84o",
+      "hd_video_url": "https://www.youtube.com/embed/HrK3GhHY84o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IZ4mCVdWoytja22D7KxSyg8AQtBcyI6yUnGz0UsN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77e7e390-1152-446c-82e1-1cd2566e298b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 ||  Hardware (Part-01)",
+      "published_date": "29 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/hpH3T7yqamM",
+      "hd_video_url": "https://www.youtube.com/embed/hpH3T7yqamM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AfVfnAzjgvStSXxjezPZDzo57R3dVqKdudC1aU5D.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || Hardware (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afe423ba-b872-4053-ba5c-f065b4da5fed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Hardware (Part-02)",
+      "published_date": "30 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/GTynNHR02hs",
+      "hd_video_url": "https://www.youtube.com/embed/GTynNHR02hs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iOpV8up9sFGClp99I0e9WrNWoNhqRjyXjIGQkCyl.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Hardware (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1162b46-4e43-45f7-86d0-8386c4a945c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Hardware (Part-03)",
+      "published_date": "02 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/SNZduhS7b9Y",
+      "hd_video_url": "https://www.youtube.com/embed/SNZduhS7b9Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/reSu8c5k8RWyWcrgyfgtYXmN2pzmWzzHny4LGl8T.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Hardware (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/695c9d0a-96e0-4069-9a11-4cc221425315.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Hardware (Part-04)",
+      "published_date": "04 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/lsVWX2j7gxQ",
+      "hd_video_url": "https://www.youtube.com/embed/lsVWX2j7gxQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dmufuHA8FomydNgETzjgf2cXuwHg3jEfTRg05rTu.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Hardware (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25418623-c7ee-4ff7-adc3-75069dd5ca0c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Hardware (Part-05)",
+      "published_date": "05 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/kdVLIe1ZR9o",
+      "hd_video_url": "https://www.youtube.com/embed/kdVLIe1ZR9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NJSHUqhdFK2YuChSQWlJ3AM4uM1UfSpGCjOCy6bo.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a082eb48-dc1f-437b-9ec4-cbd04c58196b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 ||  Software",
+      "published_date": "06 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/dNZgZy-5sLo",
+      "hd_video_url": "https://www.youtube.com/embed/dNZgZy-5sLo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XIa8kbujA6oXLRWXi37o5gMXJpfvX9d3fTH61mjm.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Hardware (Part-06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/baa34f25-cd7f-483d-ab4c-d0a1bb3725a8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || CPU (Part-01)",
+      "published_date": "08 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/TC6hsaiyYIQ",
+      "hd_video_url": "https://www.youtube.com/embed/TC6hsaiyYIQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ztz7iXX3Bl06IO4ZBZ1yqnEmeOv6c11nJjXom0K5.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73fc2382-2633-4a24-abb6-57e7a9b7183e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || CPU (Part-02)",
+      "published_date": "11 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/_LtKRBHESlI",
+      "hd_video_url": "https://www.youtube.com/embed/_LtKRBHESlI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NrZdK6tveju6vCQki6afKobiBNvibbCtIBm3Z4ZK.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/673d4234-1629-4f16-bd4f-5716c4a72643.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || CPU (Part-03)",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/vrnVIGak4wk",
+      "hd_video_url": "https://www.youtube.com/embed/vrnVIGak4wk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yz0O7OGZYGE8WLGf4Lan5QjABG5eicylEeIUUspn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Hardware (Part-09)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65829070-1fdd-40e0-8844-644b573bcd34.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 ||  Operating System (Part-01)",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Esbi4XHqt40",
+      "hd_video_url": "https://www.youtube.com/embed/Esbi4XHqt40",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ff4V7e7PmP0em5JEcfGnSiC2rOfepZ950POK3Hxk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 ||  Operating System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6eca330-90ed-43b1-83fa-c0882170f094.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 ||  Operating System (Part-02)",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/C4v2Ddoh9CQ",
+      "hd_video_url": "https://www.youtube.com/embed/C4v2Ddoh9CQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SZlnlfqMPCyoX4BC8KC37cCPx2BZp2hXMfB3Q2iW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Operating System (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e808cb79-b4db-4be5-9988-8fbc7ff0f688.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 ||  Classification of Computer (Part-01)",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/dK_DmYSPuCo",
+      "hd_video_url": "https://www.youtube.com/embed/dK_DmYSPuCo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/K2wDIUbSCC037za7TLBGwhUgtJfh4fGD69QbEjKE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Operating System (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc085f8e-a032-4a3a-9504-421f9de1b2e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 ||  Classification of Computer (Part-02)",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/JiBlGIFgckU",
+      "hd_video_url": "https://www.youtube.com/embed/JiBlGIFgckU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RYWDowEhc6ZDMszHfRcviHuznCJIOUb4FCrlUS8P.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || Computer By Anjali Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8248a810-945f-4b02-8ec0-1ebf68aff94a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Network (Part-01)",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/oefUU3l9-lU",
+      "hd_video_url": "https://www.youtube.com/embed/oefUU3l9-lU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lRmqHg42qYyLMgn1kIBIg4tlxw9n0uxoFKcCxPsJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Operating System (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/943119bb-f92d-45f4-89e8-2ce1fc46159b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Network (Part-02)",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/CuUhYRRcm6I",
+      "hd_video_url": "https://www.youtube.com/embed/CuUhYRRcm6I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/52ezbCuJu3A6Lvw8y2lvHPBO4yS2ZBOoRYWjorCc.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Network (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7792c736-f785-46ac-b7a3-417ef090be14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Network (Part-03)",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/3ekQpbhEwxI",
+      "hd_video_url": "https://www.youtube.com/embed/3ekQpbhEwxI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HWAibZn7JFcUzvfvFDcBZsirufcAYEYQIvGFhQME.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Network (Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/845eee98-9df9-4db1-9fcd-eac1616f7c22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Network (Part-04)",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/mUvyNoXZHHI",
+      "hd_video_url": "https://www.youtube.com/embed/mUvyNoXZHHI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mcsQKQG9J7A9WFpMOZVnNTjOk0tsAciQbH0j1XSt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Network (Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f8c2246-cb47-4001-a739-4cd2002ea5b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Network (Part-05)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/trMbAOYmq1I",
+      "hd_video_url": "https://www.youtube.com/embed/trMbAOYmq1I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/en8KLTkwM06pwg1ns8ZtK08SvYqdqPaAGU1tmXEd.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Network (Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b4d3c96-2ca0-4875-9a1a-2d1f06ce0ae3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || OSI Model (Part-01)",
+      "published_date": "27 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6xONX5AKxJVI7sXwmTMOIOOzfF14jpPWQNdmwVmN.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || OSI Model (Part-02)",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OWD7VLF6G6A3PuGy32MhPbvpv9zwko5HO3OZsdZy.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

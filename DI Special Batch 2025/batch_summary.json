@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "DI Special Batch 2025",
+    "price": "199",
+    "id": "672",
+    "extracted_date": "2025-08-27T13:46:56.819888"
+  },
+  "subjects": [
+    {
+      "name": "DI Demo video",
+      "id": 7069,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Special DI by Bharat Sir",
+      "id": 7131,
+      "video_count": 55,
+      "note_count": 55
+    },
+    {
+      "name": "Practice Sheet of DI",
+      "id": 7293,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

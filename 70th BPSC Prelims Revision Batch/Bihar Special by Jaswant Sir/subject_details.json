@@ -1,0 +1,60 @@
+{
+  "subject_name": "Bihar Special by Jaswant Sir",
+  "subject_id": 4336,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। Bihar History",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/VnNUet2GoaE",
+      "hd_video_url": "https://www.youtube.com/embed/VnNUet2GoaE",
+      "thumbnail": "https://i.ytimg.com/vi/VnNUet2GoaE/default.jpg",
+      "notes": [
+        {
+          "title": "Bihar History",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd7fe796-7cc1-4c05-8b8c-562820df9845.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 II Bihar Geography",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/VDqGGTw1IDg",
+      "hd_video_url": "https://www.youtube.com/embed/VDqGGTw1IDg",
+      "thumbnail": "https://i.ytimg.com/vi/VDqGGTw1IDg/default.jpg",
+      "notes": [
+        {
+          "title": "Bihar Geography",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1f6b26d-15d8-411b-b61f-267623f18001.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Bihar Polity & Economy",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Uohzeev9CTY",
+      "hd_video_url": "https://www.youtube.com/embed/Uohzeev9CTY",
+      "thumbnail": "https://i.ytimg.com/vi/Uohzeev9CTY/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Bihar Art & Culture",
+      "published_date": "23 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/mi3LoV0eLGY",
+      "hd_video_url": "https://www.youtube.com/embed/mi3LoV0eLGY",
+      "thumbnail": "https://i.ytimg.com/vi/mi3LoV0eLGY/default.jpg",
+      "notes": [
+        {
+          "title": "Bihar Art & Culture",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1129cde5-f083-4e68-ac1b-3489efe19ff9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

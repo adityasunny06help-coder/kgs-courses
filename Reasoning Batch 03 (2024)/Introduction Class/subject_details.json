@@ -1,0 +1,32 @@
+{
+  "subject_name": "Introduction Class",
+  "subject_id": 1726,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -01 || Introduction Class",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Xy7AT3hGhnc",
+      "hd_video_url": "https://www.youtube.com/embed/Xy7AT3hGhnc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/eu5rvfbnBp7IBrdw0qL7hH8ulIdsPoCYYrKjArIh.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -02 || DICE Class",
+      "published_date": "08 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/-3vXllzkgVE",
+      "hd_video_url": "https://www.youtube.com/embed/-3vXllzkgVE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/oR6PyQJYwEMqkn8vSw2jgmfPsPZgQzx0cbofGHwf.png",
+      "notes": [
+        {
+          "title": "DICE",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/dd3ee6c4-8663-4cb5-9f63-783c33787b20.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

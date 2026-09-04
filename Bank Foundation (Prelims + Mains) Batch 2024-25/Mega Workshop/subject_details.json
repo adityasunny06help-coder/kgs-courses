@@ -1,0 +1,60 @@
+{
+  "subject_name": "Mega Workshop",
+  "subject_id": 4018,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Mega Workshop by Shantanu Sir",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/WDKnY71tyx0",
+      "hd_video_url": "https://www.youtube.com/embed/WDKnY71tyx0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RcwrQcNxdUNIjryWoj30zUkodzSa2F7yusigpHwS.jpg",
+      "notes": [
+        {
+          "title": "Mega Workshop by Shantanu Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a724331c-4912-4dd6-b116-e33d919c0851.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Mega Workshop by Bharat Gupta Sir",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/1dYXTsCE4os",
+      "hd_video_url": "https://www.youtube.com/embed/1dYXTsCE4os",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FA0c762SibRTEkpxAEiirFeldrs1trLd4QzT4cBs.jpg",
+      "notes": [
+        {
+          "title": "Mega Workshop by Bharat Gupta Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a146894d-7b00-4a23-87a3-70e04a4b47b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Mega Workshop by Yadavendra Sir",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/GbQbamz43hE",
+      "hd_video_url": "https://www.youtube.com/embed/GbQbamz43hE",
+      "thumbnail": "https://i.ytimg.com/vi/GbQbamz43hE/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Mega Workshop by Vishal Sir",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/9am7J1qmnLo",
+      "hd_video_url": "https://www.youtube.com/embed/9am7J1qmnLo",
+      "thumbnail": "https://i.ytimg.com/vi/9am7J1qmnLo/default.jpg",
+      "notes": [
+        {
+          "title": "Mega Workshop by Vishal Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1449eb3a-a4f3-4734-b9fa-7464f1debcc8.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

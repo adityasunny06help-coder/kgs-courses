@@ -1,0 +1,216 @@
+{
+  "subject_name": "Biology By Amrita Ma'am",
+  "subject_id": 525,
+  "video_count": 23,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -01: Biology  Introduction Class",
+      "published_date": "26 Jun 2023",
+      "video_url": "https://www.youtube.com/embed/ZH7ducfZZ-w",
+      "hd_video_url": "https://www.youtube.com/embed/ZH7ducfZZ-w",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -02: Taxonomy  Part-01.",
+      "published_date": "27 Jun 2023",
+      "video_url": "https://www.youtube.com/embed/zoRnSgWTyfI",
+      "hd_video_url": "https://www.youtube.com/embed/zoRnSgWTyfI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//29b5cf55-c0a1-4929-afd7-08196dd93574.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -03: Digestive System Part-01.",
+      "published_date": "28 Jun 2023",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/bpsc-2023/biology/l3/3.m3u8",
+      "hd_video_url": "https://kgs-v4.akamaized.net/kgs-cv/bpsc-2023/biology/l3/3.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -04: Digestive System Part-02.",
+      "published_date": "30 Jun 2023",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/bpsc-2023/biology/l4/4.m3u8",
+      "hd_video_url": "https://kgs-v4.akamaized.net/kgs-cv/bpsc-2023/biology/l4/4.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 05: Digestive System part-03",
+      "published_date": "02 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-5/5.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-5/5.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d33ca50e-ba97-4434-83cb-152b46a73a0c.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -06: Cell Biology Part-1",
+      "published_date": "03 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-6/6.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-6/6.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5f5d377f-5c6d-4644-b748-cff176ef2f82.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -07: Cell Biology Part-2",
+      "published_date": "04 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-7/7.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-7/7.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b4355921-3574-4795-822e-22124d82f356.png",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8:Cell Biology Part-3",
+      "published_date": "05 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-8/8.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-8/8.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b0249fba-8aa2-4801-a92f-836a36d9cf1e.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9:Chromosome(गुणसूत्र) Part-01",
+      "published_date": "06 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-9/9.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-9/9.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//de07ef17-be17-4229-80fc-e6c4ca3e753a.png",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10:Nucleic Acid Part-1",
+      "published_date": "08 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-10bio/l10.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-10bio/l10.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11: RNA , Cell Division , Nutrition",
+      "published_date": "09 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-11bio/l11.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-11bio/l11.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12: Nutrition",
+      "published_date": "09 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-12bio/l12.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l-12bio/l12.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//acd60180-470e-426c-8e9c-a7448234a425.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13: Fats",
+      "published_date": "10 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/13bio/13b.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/13bio/13b.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b801ade9-1a4b-4c8d-aed5-ae7a0bb2112b.png",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14: Protein",
+      "published_date": "11 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/11th-july/l-14bio/l-14bio.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/11th-july/l-14bio/l-14bio.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//7e5d2bb8-6c1d-48d9-86b5-e270e1e6a614.png",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15:Vitamins Part-1",
+      "published_date": "12 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/12th-july/l-15bio/15.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-16-bio-amrita-maam-bpsc/l-16-bio-amritamaam-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3469669b-45b4-46c8-81be-3be62064b1b3.png",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16:Vitamins Part-2",
+      "published_date": "13 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/all-video-backup/l-16-bio-amrita-maam-bpsc/l-16-bio-amritamaam-bpsc.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/all-video-backup/l-16-bio-amrita-maam-bpsc/l-16-bio-amritamaam-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//17983ac7-933d-42a9-9ad4-67b92da72431.png",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17: Human Disease || मानव रोग Part-1",
+      "published_date": "15 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l17/l17.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l17/l17.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ce062046-cdc9-4888-9ab2-c1c7d2cac198.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18: Human Disease || मानव रोग Part-2",
+      "published_date": "16 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l18/l18.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l18/l18.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//92facca3-15e7-4149-bda5-6daf10bbf800.png",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture- 19: Human Disease || मानव रोग Part-3",
+      "published_date": "17 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/17th-july/l-19-bio-bpsc-amrita-maam/l-19-bio-bpsc-amrita-maam.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/collective/17th-july/l-19-bio-bpsc-amrita-maam/l-19-bio-bpsc-amrita-maam.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f4650a8b-357c-4cd9-bf84-085f023b94c0.png",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20: Human Disease || मानव रोग Part-4",
+      "published_date": "18 Jul 2023",
+      "video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l20/l20.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs/docv/bpsc/bio-by-amrita-mam/l20/l20.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//5f2cca59-0f7d-428f-bbfa-8bd8c9243389.png",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture- 21: Glands",
+      "published_date": "19 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bio-amrita-maam/l-21/l-21-bio-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VrFn9Okj6-Y",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture- 22: Glands (ग्रंथियां) part-2",
+      "published_date": "20 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bio-amrita-maam/l-22/l-22-bio-bpsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/W25imQLy9vg",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture- 23: Glands ग्रंथियाँ part 03",
+      "published_date": "21 Jul 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bio-amrita-maam/l-23/l-23.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VlqiSpuvv5Y",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

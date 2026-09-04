@@ -1,0 +1,429 @@
+{
+  "subject_name": "Abstract Algebra",
+  "subject_id": 3070,
+  "video_count": 30,
+  "note_count": 30,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 Introduction of Group Theory || समूह सिद्धांत का परिचय",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3-upsc/maths-optional/abstract-algebra/l-01/l-01-abstract-algebra-maths-op-upsc.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-vEJ3way9w8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8030bacff.jpg",
+      "notes": [
+        {
+          "title": "l1-maths-optional",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d721fa5-5247-4578-a264-4d45dcc25199.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 Group Theory -1 || समूह सिद्धांत  -1",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98126/kgss-1721728821-v98126.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bgQ-B-wPs4E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c803049c33.jpg",
+      "notes": [
+        {
+          "title": "l2-maths-optional",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b53bc1b1-3894-4b9a-a9eb-aef1e3c34200.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 Group Theory -2 || समूह सिद्धांत  -2",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98532/kgss-1721814565-v98532.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WvfrmaIeqKU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802fce410.jpg",
+      "notes": [
+        {
+          "title": "l3-maths-optional",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bbe31c4-3e0d-464c-8fa1-8e6e6ca8067f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 Group Theory -3 || समूह सिद्धांत -3",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/99123/kgss-1721901164-v99123.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7Lh3gQsyRGM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802f53f31.jpg",
+      "notes": [
+        {
+          "title": "Lecture -4 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/854cf409-808f-433f-a890-097561aa2e5e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 Group Theory -4 || समूह सिद्धांत -4",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/99539/kgss-1721987445-v99539.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bCHJ5_DZTDI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802ed5b86.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf68f36a-728e-4ff1-9b19-5bc2fec1545c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 Order of an Element of a Group -1 || किसी समूह के किसी  तत्व का क्रम -1",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/100206/kgss-1722246159-v100206.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jyfivLJjo6U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802e5e450.jpg",
+      "notes": [
+        {
+          "title": "Lecture -6 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50f31e93-9b47-4bb9-a283-c569a3efad8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 Order of an Element of a Group -2|| किसी समूह के किसी तत्व का क्रम -2",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/100786/kgss-1722332759-v100786.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/TvxNdEy5R8A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802de2a5b.jpg",
+      "notes": [
+        {
+          "title": "Lecture -7 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46463a57-5cb7-4ff0-8999-279b162124c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -8 Permutation Group  -1 || क्रमचय समूह -1",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/101251/kgss-1722420964-v101251.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Teooz5LJumg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802d7271b.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 08 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6cb711cd-f6d4-4de2-afee-b6908b35cf73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -9 Permutation Group  -2 || क्रमचय समूह -2",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/101689/kgss-1722505393-v101689.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lHvRvL1HLFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802cf2ce3.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 09 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/29e2714a-0c97-44c5-bcee-cd667f17e084.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -10 Permutation Group  -3 || क्रमचय समूह -3",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/102544/kgss-1722592334-v102544.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dPk3W1Kcd2I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802c81d9d.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 10 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ef851c7-f999-44c2-90dd-2f287dd81d80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture -11 Permutation Group -4, Subgroup -1 || क्रमचय समूह -4, उपसमूह -1",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103286/kgss-1722851038-v103286.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UIijV80mKak",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4xfXbAN1KLrboNxfJT61xjuCSfKBByJPUAgp2RcI.png",
+      "notes": [
+        {
+          "title": "Lecture- 11 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee26a80b-41d9-46ee-8a09-1ba4e52284d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture -12 Subgroup -2 ||  उपसमूह -2",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103763/kgss-1722937387-v103763.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K4sC8GKoFdg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802bd22a2.jpg",
+      "notes": [
+        {
+          "title": "Lecture -12 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7903c6d-ca84-42c2-b241-6a334c657d59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture -13 Subgroup -3 ||  उपसमूह -3",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104235/kgss-1723024201-v104235.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7wlMSH9Bwjo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802b606d8.jpg",
+      "notes": [
+        {
+          "title": "lecture13mathsoptionalbydhrubsinghsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e479ac80-f987-4846-979b-3e7886f95d10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture -14 Subgroup -4 ||  उपसमूह -4",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104639/kgss-1723110553-v104639.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qt-sGH9Azuk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eFVPCyqn8Wv5MavEEEi1rLhZgxF65uZaz3vYpWdP.png",
+      "notes": [
+        {
+          "title": "Lecture -14 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd9e0a52-3deb-499b-b9dc-e2796513853a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture -15 Subgroup -5 ||  उपसमूह -5",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104904/kgss-1723196579-v104904.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Co6wJlBVUrU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802ab1a15.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 15 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c1a94a8-33e9-4522-86e0-29a5d97fef9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture -16  Subgroup -6 ||  उपसमूह -6",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/107170/kgss-1723629605-v107170.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/thA6VhnfEy8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802a3b0ba.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 16 || Maths Optional By Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f193b4a4-dbf3-4d57-9319-66d9c20e36fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture -17  Cyclic Subgroup  -1 ||  चक्रीय समूह -1",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/107616/kgss-1723800987-v107616.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lA0-xVHu8HE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eJEkn518kKN8edGouGRhvOYjtLBvsDOZ1IvFj9RE.png",
+      "notes": [
+        {
+          "title": "Lecture -17  Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fe27b7c-e16e-4352-b148-3184daa7401f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture -18  Cyclic Subgroup  -2 ||  चक्रीय समूह -2",
+      "published_date": "20 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/108219/kgss-1724147738-v108219.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K4Egqfm_GCM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c80298aee3.jpg",
+      "notes": [
+        {
+          "title": "Lecture -18 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9e92963-8dcb-4ea7-993c-f806cad03c99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture -19  Cyclic Subgroup  -3 ||  चक्रीय समूह -3",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/108711/kgss-1724233938-v108711.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DV1z_cGmBmU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c802919474.jpg",
+      "notes": [
+        {
+          "title": "Lecture -19 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea37d0b7-be38-4ab7-a734-24491591fd6b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture -20 Cyclic Subgroup -4 || चक्रीय समूह -4",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/109290/kgss-1724320308-v109290.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mOukftVpIDQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c80289abab.jpg",
+      "notes": [
+        {
+          "title": "Lecture -20 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b89580f-baaa-4c2d-9c4b-508aba7f7abf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture -21 Cyclic Subgroup -5 || चक्रीय समूह -5",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/109723/kgss-1724406782-v109723.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q88B_QD3InY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lzUkU6OSHYj1inRsh1xqcXqTaJbacXBl3yhaIW7f.png",
+      "notes": [
+        {
+          "title": "Lecture -21 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3cc7427-1fc6-45b5-8d12-5d8bfba6bacd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture -22 Cyclic Subgroup -6 || चक्रीय समूह -6",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/110440/kgss-1724664484-v110440.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cixQHuq5M1w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8027e8a37.jpg",
+      "notes": [
+        {
+          "title": "Lecture -22 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10248d7a-b2af-4f2b-9a5c-8cb410f02413.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture -23 Cyclic Subgroup -7 || चक्रीय समूह -7",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/110982/kgss-1724752333-v110982.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UkYx1N97phE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8027792c2.jpg",
+      "notes": [
+        {
+          "title": "Lecture -23 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/209a1a4a-afe9-486f-beb7-5431ca24e46a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture -24 Cyclic Subgroup -8 || चक्रीय समूह -8",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/111439/kgss-1724837388-v111439.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bdn3-C3rUaE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8026e64d3.jpg",
+      "notes": [
+        {
+          "title": "Lecture -24 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17bbfa19-9641-4f59-b441-5b26070f696a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture -25  Cyclic Subgroup -9 || चक्रीय समूह -9",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112097/kgss-1725018305-v112097.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KZ_-uTLSH8o",
+      "thumbnail": "{\"thumb\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/thumb\\/uploads\\/NY5GE2A1doSKuBC5pSwCvum2IWkv9jDcBdK5uBVQ.png\",\"large\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/large\\/uploads\\/NY5GE2A1doSKuBC5pSwCvum2IWkv9jDcBdK5uBVQ.png",
+      "notes": [
+        {
+          "title": "lecture25mathsoptionalbydhrubsinghsir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50f65c9e-58a1-43f4-9873-4bac54f860c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture -26 Cyclic Subgroup -10  || चक्रीय समूह -10",
+      "published_date": "31 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112696/kgss-1725104341-v112696.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OrWmglqeIlY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8025ee5e0.jpg",
+      "notes": [
+        {
+          "title": "Lecture -26 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16d40edd-d392-4e53-bc8a-b122c611820c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture -27 Cyclic Subgroup -11 || चक्रीय समूह -11",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/112931/kgss-1725277829-v112931.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/ut9ICbMqmjA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c80257c899.jpg",
+      "notes": [
+        {
+          "title": "Lecture -27 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27ebe2e4-9ca7-47f7-af2b-c95ee7658ef3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture -28 Cyclic Subgroup -12 || चक्रीय समूह -12",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113546/kgss-1725364225-v113546.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Ajr4dBCoLy8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c80250c54d.jpg",
+      "notes": [
+        {
+          "title": "Lecture -28  Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01fe9793-609a-427a-977e-62b814425717.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture -29 Cyclic Subgroup -13 || चक्रीय समूह -13",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113945/kgss-1725450542-v113945.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iY1HXATRu2c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c80248de90.jpg",
+      "notes": [
+        {
+          "title": "Lecture -29  Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85ea67b8-b71b-4167-8552-e0ba7bd8375b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture -30 Cyclic Subgroup -14 || चक्रीय समूह -14",
+      "published_date": "05 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/114531/kgss-1725537166-v114531.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vFl1dmVyG7A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680c8023db08c.jpg",
+      "notes": [
+        {
+          "title": "Lecture -30 Maths Optional by Dhrub Singh Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd659c77-2802-4b41-9522-ea74221e35a3.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

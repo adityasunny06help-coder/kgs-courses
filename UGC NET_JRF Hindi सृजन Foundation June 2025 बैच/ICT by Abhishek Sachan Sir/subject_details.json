@@ -1,0 +1,457 @@
+{
+  "subject_name": "ICT by Abhishek Sachan Sir",
+  "subject_id": 5433,
+  "video_count": 32,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction Class",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/oOjRWyHfUf0",
+      "hd_video_url": "https://www.youtube.com/embed/oOjRWyHfUf0",
+      "thumbnail": "https://i.ytimg.com/vi/oOjRWyHfUf0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ac40967-2220-42b8-8e94-e5c966d6ebcd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || ICT ( Part-01 )",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/noO84EyHxj0",
+      "hd_video_url": "https://www.youtube.com/embed/noO84EyHxj0",
+      "thumbnail": "https://i.ytimg.com/vi/noO84EyHxj0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || ICT ( Part-01 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b72e7b3c-0a56-4b4f-a990-bdf51f5b3db5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || ICT-02",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_6qkmokGJrg",
+      "hd_video_url": "https://www.youtube.com/embed/_6qkmokGJrg",
+      "thumbnail": "https://i.ytimg.com/vi/_6qkmokGJrg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || ICT-02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce778a31-83e4-4f1a-a783-8b501ec5ee7e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || ICT-03",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/_MnUm9cSkaU",
+      "hd_video_url": "https://www.youtube.com/embed/_MnUm9cSkaU",
+      "thumbnail": "https://i.ytimg.com/vi/_MnUm9cSkaU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || ICT ( Part-03 )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce5b72d1-4af1-46a0-817d-18e8ae405319.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || ICT-04",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FUiDZpHsWNg",
+      "hd_video_url": "https://www.youtube.com/embed/FUiDZpHsWNg",
+      "thumbnail": "https://i.ytimg.com/vi/FUiDZpHsWNg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || ICT-04",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2aafe2e-0ca7-4a83-b40a-b4f62b02f2c3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || ICT-05",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/k0IV5ZWHvzU",
+      "hd_video_url": "https://www.youtube.com/embed/k0IV5ZWHvzU",
+      "thumbnail": "https://i.ytimg.com/vi/k0IV5ZWHvzU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || ICT-05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82e428b8-9770-4223-8062-5443d6f36b5c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || ICT-06",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/0BPVd1Nb4uE",
+      "hd_video_url": "https://www.youtube.com/embed/0BPVd1Nb4uE",
+      "thumbnail": "https://i.ytimg.com/vi/0BPVd1Nb4uE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-07 || ICT-06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9868a00a-7086-4f43-abf0-d58e9880733c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || ICT-07",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/d_Xrpi6LkfI",
+      "hd_video_url": "https://www.youtube.com/embed/d_Xrpi6LkfI",
+      "thumbnail": "https://i.ytimg.com/vi/d_Xrpi6LkfI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-08 || ICT-07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38b02f83-af1f-46b4-83b9-aa4004f42f0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || ICT-08",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ARgX6SKqyIA",
+      "hd_video_url": "https://www.youtube.com/embed/ARgX6SKqyIA",
+      "thumbnail": "https://i.ytimg.com/vi/ARgX6SKqyIA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 || ICT-08",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76896195-7b49-4892-9687-c6b7094849c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || ICT-09",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/Vq3J7GXBGxo",
+      "hd_video_url": "https://www.youtube.com/embed/Vq3J7GXBGxo",
+      "thumbnail": "https://i.ytimg.com/vi/Vq3J7GXBGxo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || ICT-09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b1ba392-12a9-4d82-985c-c9acbf06fc37.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || ICT-10",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-17y4jx-eT4",
+      "hd_video_url": "https://www.youtube.com/embed/-17y4jx-eT4",
+      "thumbnail": "https://i.ytimg.com/vi/-17y4jx-eT4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || ICT-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60ff218d-1e4d-4eff-a1d7-af890a32b409.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || ICT-11",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-2gqqbxpNhE",
+      "hd_video_url": "https://www.youtube.com/embed/-2gqqbxpNhE",
+      "thumbnail": "https://i.ytimg.com/vi/-2gqqbxpNhE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-12 || ICT-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/080b2815-aa45-4645-bbe8-6fe4f3dbcc02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || ICT-12",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/KLVfUdXMw4U",
+      "hd_video_url": "https://www.youtube.com/embed/KLVfUdXMw4U",
+      "thumbnail": "https://i.ytimg.com/vi/KLVfUdXMw4U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-13 || ICT-12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/968a34a1-88af-4288-acb8-337aa491ea90.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || ICT-13",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/AOwmd-H0mrc",
+      "hd_video_url": "https://www.youtube.com/embed/AOwmd-H0mrc",
+      "thumbnail": "https://i.ytimg.com/vi/AOwmd-H0mrc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 || ICT-13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e011757a-1ba3-4191-9f7f-54bf46fcf83f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || ICT-14",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/pj5Cjf-YFFg",
+      "hd_video_url": "https://www.youtube.com/embed/pj5Cjf-YFFg",
+      "thumbnail": "https://i.ytimg.com/vi/pj5Cjf-YFFg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-15 || ICT-14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/577ffb64-e6b0-4bcb-8531-ac1e28a3767c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || ICT-15",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/P68Sj6ugkgA",
+      "hd_video_url": "https://www.youtube.com/embed/P68Sj6ugkgA",
+      "thumbnail": "https://i.ytimg.com/vi/P68Sj6ugkgA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-16 || ICT-15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3da661e6-512f-4a11-982c-a5d487fb7490.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || ICT-16",
+      "published_date": "29 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/JlHaTc0B5YE",
+      "hd_video_url": "https://www.youtube.com/embed/JlHaTc0B5YE",
+      "thumbnail": "https://i.ytimg.com/vi/JlHaTc0B5YE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-17 || ICT-16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7e3cbe0-7ffc-46d0-b517-5bfbaf17af52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || ICT-17",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/qnEPd_1tdMo",
+      "hd_video_url": "https://www.youtube.com/embed/qnEPd_1tdMo",
+      "thumbnail": "https://i.ytimg.com/vi/qnEPd_1tdMo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-18 || ICT-17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a5a5eca-ba27-4460-bab6-069907d46a52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || ICT-18",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/NNXwmA2MHYs",
+      "hd_video_url": "https://www.youtube.com/embed/NNXwmA2MHYs",
+      "thumbnail": "https://i.ytimg.com/vi/NNXwmA2MHYs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-19 || ICT-18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3cc20fd-9614-48fa-a892-96c232485699.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || ICT-19",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WB-vkFjL_p0",
+      "hd_video_url": "https://www.youtube.com/embed/WB-vkFjL_p0",
+      "thumbnail": "https://i.ytimg.com/vi/WB-vkFjL_p0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-20 || ICT-19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bef88c20-773d-4b80-8976-6aa0e52a8c9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || ICT-20",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/K8tf5o30PzY",
+      "hd_video_url": "https://www.youtube.com/embed/K8tf5o30PzY",
+      "thumbnail": "https://i.ytimg.com/vi/K8tf5o30PzY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-21 || ICT-20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c4c594d-d360-464a-b398-893ab789b54d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || ICT-21",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/WkWlXm3wSnE",
+      "hd_video_url": "https://www.youtube.com/embed/WkWlXm3wSnE",
+      "thumbnail": "https://i.ytimg.com/vi/WkWlXm3wSnE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || ICT-21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d1ea013-62dc-4542-b242-85bfa80daf1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || ICT-22",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/yaZ4EtgrSHI",
+      "hd_video_url": "https://www.youtube.com/embed/yaZ4EtgrSHI",
+      "thumbnail": "https://i.ytimg.com/vi/yaZ4EtgrSHI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || ICT-22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54b35f19-1c7a-4bd9-961d-4839234be77e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || ICT-23",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/HBpGFGXmQxk",
+      "hd_video_url": "https://www.youtube.com/embed/HBpGFGXmQxk",
+      "thumbnail": "https://i.ytimg.com/vi/HBpGFGXmQxk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || ICT-23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17e9ef52-8deb-40fa-a17c-7abc7271c996.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || ICT-24",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/0SGojW3-Eow",
+      "hd_video_url": "https://www.youtube.com/embed/0SGojW3-Eow",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/biQKeCKDfPuzQwjIP01BubgV1WXJrQjFZ8vPgVs4.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25|| ICT-24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5165672-18fc-4fe5-9220-2de4c4b916ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26|| Internet ( इंटरनेट ) Part -01 ( Recorded Class)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/xDH0xPdRA-w",
+      "hd_video_url": "https://www.youtube.com/embed/xDH0xPdRA-w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb270e99.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26|| Internet ( इंटरनेट ) Part -01 ( Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1bc40c21-e6dd-45d4-b368-735235d7ad99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Internet ( इंटरनेट ) Part -02 ( Recorded Class)",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/hE27xTA803M",
+      "hd_video_url": "https://www.youtube.com/embed/hE27xTA803M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb33122b.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Internet ( इंटरनेट ) Part -02 ( Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0df9458d-57cc-42e0-bc53-849432a02b46.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Internet ( इंटरनेट ) Part -03 (Recorded Class)",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/D-nc2TwMAPY",
+      "hd_video_url": "https://www.youtube.com/embed/D-nc2TwMAPY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb3ae470.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Internet ( इंटरनेट ) Part -03 (Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f822717e-1a33-4ebf-b79c-6f72ea06d25c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29||MS EXCEL( एमएस एक्सेल ) Part -01(Recorded Class)",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/xMHG-JUo-wk",
+      "hd_video_url": "https://www.youtube.com/embed/xMHG-JUo-wk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb437912.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29||MS EXCEL( एमएस एक्सेल ) Part -01(Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a6f6783-6451-413c-acfb-ae646689ca8e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Practice Set- (Recorded Class)",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Iao9oukuEKg",
+      "hd_video_url": "https://www.youtube.com/embed/Iao9oukuEKg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb4b3e21.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Practice Set- (Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e86c91d2-aa84-4c36-8dd9-7429c6b62a99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Word (एमएस-वर्ड) Part -01 (Recorded Class)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/j7G6Iqj7_pg",
+      "hd_video_url": "https://www.youtube.com/embed/j7G6Iqj7_pg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb53c8b3.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Word (एमएस-वर्ड) Part -01 (Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acc68c08-a3e0-48d7-a05b-17472b81f5bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || MS Word( एमएस वर्ड ) Part -02 (Recorded Class)",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/haOKM0Yb_wM",
+      "hd_video_url": "https://www.youtube.com/embed/haOKM0Yb_wM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/689affb5b9325.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31|| MS Word( एमएस वर्ड ) Part -02 (Recorded Class)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67c27693-8cde-41b9-96af-ec8a2c39d91c.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

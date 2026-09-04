@@ -1,0 +1,60 @@
+{
+  "subject_name": "Introduction Class",
+  "subject_id": 5938,
+  "video_count": 4,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Indian and World Geography (Mains) Introduction Class",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218573/kgss-1742966919-v218573.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VANT1BiaY3U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GvrDRij5v6tvv8wu0if7XPQPWAxq9o74HweyEqfA.jpg",
+      "notes": [
+        {
+          "title": "Indian and World Geography (Mains) Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e9a33f5-1a86-435a-b409-70b4a82c8832.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Indian and World Economy (Mains) Introduction Class",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231290/kgss-1745325609-v231290.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/b1M1mX8hicE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YeRUjWpZ85FbECgnonnPDlDEnaKBEhuzou4RHM16.jpg",
+      "notes": [
+        {
+          "title": "Indian and World Economy (Mains) Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4da86816-905c-48b9-b724-98a35589c91c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Sociology (Mains) Introduction Class",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/GybHYBpCgbE",
+      "hd_video_url": "https://www.youtube.com/embed/GybHYBpCgbE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MuT3CxiDaEyD46OZtKdvGqvHGlUH5c1Z1fdXcstv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Ethics Introduction Class",
+      "published_date": "08 May 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/may-2025/245818/kgss-1746681325-v245818.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/CZkKwngbuKo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8fy6tjSc9u632fPuRUFTDOZsxukEzo4oDh2Xs24L.jpg",
+      "notes": [
+        {
+          "title": "Ethics Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0df73a9a-d0e6-436e-880c-cc0f4f5a05e4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

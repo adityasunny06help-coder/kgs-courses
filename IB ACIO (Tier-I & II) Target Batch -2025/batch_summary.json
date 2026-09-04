@@ -1,0 +1,58 @@
+{
+  "batch_info": {
+    "title": "IB ACIO (Tier-I & II) Target Batch -2025",
+    "price": "999",
+    "id": "763",
+    "extracted_date": "2025-08-27T13:22:48.866994"
+  },
+  "subjects": [
+    {
+      "name": "English by Juhi Ma'am",
+      "id": 8001,
+      "video_count": 21,
+      "note_count": 18
+    },
+    {
+      "name": "GK/GS by Abhishek Sir",
+      "id": 8002,
+      "video_count": 18,
+      "note_count": 18
+    },
+    {
+      "name": "Science by Sushant Sir",
+      "id": 8003,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "Current Affairs by Shivam Sir",
+      "id": 8006,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Maths by Gaurav Sir",
+      "id": 8007,
+      "video_count": 17,
+      "note_count": 15
+    },
+    {
+      "name": "Reasoning by Kartik Sir",
+      "id": 8008,
+      "video_count": 20,
+      "note_count": 19
+    },
+    {
+      "name": "Current Affairs (Printable PDF)",
+      "id": 8094,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 8392,
+      "video_count": 2,
+      "note_count": 1
+    }
+  ]
+}

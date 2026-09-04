@@ -1,0 +1,70 @@
+{
+  "batch_info": {
+    "title": "BPSC Mains Rankers Batch (English)",
+    "price": "999",
+    "id": "568",
+    "extracted_date": "2025-08-27T14:29:09.255508"
+  },
+  "subjects": [
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 5220,
+      "video_count": 15,
+      "note_count": 14
+    },
+    {
+      "name": "History by Manju Sir",
+      "id": 5456,
+      "video_count": 15,
+      "note_count": 15
+    },
+    {
+      "name": "Statistics by L.K. Jha",
+      "id": 5639,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "Economics by Dr. Bharat Sir",
+      "id": 5725,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Current Affairs by SKC Sir",
+      "id": 5726,
+      "video_count": 18,
+      "note_count": 16
+    },
+    {
+      "name": "Hindi by Ajay Anurag Sir",
+      "id": 5876,
+      "video_count": 9,
+      "note_count": 0
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 5961,
+      "video_count": 15,
+      "note_count": 13
+    },
+    {
+      "name": "Science and Tech by Sumit Sir",
+      "id": 6044,
+      "video_count": 4,
+      "note_count": 3
+    },
+    {
+      "name": "Essay by Dharmendra Sir",
+      "id": 6194,
+      "video_count": 10,
+      "note_count": 0
+    },
+    {
+      "name": "Essay by PM Tripathi Sir",
+      "id": 6214,
+      "video_count": 6,
+      "note_count": 6
+    }
+  ]
+}

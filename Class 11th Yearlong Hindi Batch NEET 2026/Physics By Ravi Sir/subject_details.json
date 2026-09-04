@@ -1,0 +1,900 @@
+{
+  "subject_name": "Physics By Ravi Sir",
+  "subject_id": 3897,
+  "video_count": 64,
+  "note_count": 63,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "व्याख्यान - 1 || गतिकी -1",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/gZM_0ZRefLs",
+      "hd_video_url": "https://www.youtube.com/embed/gZM_0ZRefLs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42c4f16e.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 1 गतिकी -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd63eb4e-87a5-40a1-8045-82ada8079992.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "व्याख्यान - 2 || गतिकी -2",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/NDwTjcnDq_I",
+      "hd_video_url": "https://www.youtube.com/embed/NDwTjcnDq_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42bc592d.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 2  गतिकी -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3568af70-4bd3-4fc4-9682-a1f639063d9c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "व्याख्यान - 3 || गति के नियम - 1",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/pWc1uC5t4fw",
+      "hd_video_url": "https://www.youtube.com/embed/pWc1uC5t4fw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42b4c6aa.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 3  गति के नियम - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23d6fdd6-6682-46da-9b3d-85355add7967.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "व्याख्यान - 4 || गति के नियम - 2",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Mv_quw3plWI",
+      "hd_video_url": "https://www.youtube.com/embed/Mv_quw3plWI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42ac4b42.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 4  गति के नियम - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb1c8b8f-8363-48b4-96d1-f92caf5fee4b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "व्याख्यान - 5 ||  कार्य, ऊर्जा एवं शक्ति - 1",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Q5clJSwU1IE",
+      "hd_video_url": "https://www.youtube.com/embed/Q5clJSwU1IE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42a4a808.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 5 कार्य, ऊर्जा एवं शक्ति - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/120721a2-467b-4a69-b4c6-5b4526e86c59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "व्याख्यान - 6 || कार्य, ऊर्जा एवं शक्ति - 2",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/buDF-L63oFs",
+      "hd_video_url": "https://www.youtube.com/embed/buDF-L63oFs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd429c139b.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 6  कार्य, ऊर्जा एवं शक्ति - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be571b2f-9227-438a-8968-1700bbfebeab.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "व्याख्यान - 7 || कार्य, ऊर्जा एवं शक्ति - 3",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/FLIesfWq0X0",
+      "hd_video_url": "https://www.youtube.com/embed/FLIesfWq0X0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd42946cb1.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 7  कार्य, ऊर्जा एवं शक्ति - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/017a0c93-1886-4f83-800e-f0fc6aa46049.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "व्याख्यान - 8 || Doubt Session",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Klj0cChBo6Q",
+      "hd_video_url": "https://www.youtube.com/embed/Klj0cChBo6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687dd4288bb58.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "व्याख्यान - 9 || द्रव्यमान  केंद्र और संघट्ट - 1",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/KC-pbybaZ-4",
+      "hd_video_url": "https://www.youtube.com/embed/KC-pbybaZ-4",
+      "thumbnail": "https://i.ytimg.com/vi/KC-pbybaZ-4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 9  द्रव्यमान केंद्र और संघट्ट - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f79bd86-6e93-4ccf-afe9-505618a04242.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "व्याख्यान - 10 || द्रव्यमान केंद्र और संघट्ट - 2",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/EOIuS3vhYgY",
+      "hd_video_url": "https://www.youtube.com/embed/EOIuS3vhYgY",
+      "thumbnail": "https://i.ytimg.com/vi/EOIuS3vhYgY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 10  द्रव्यमान केंद्र और संघट्ट - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/891edb89-bc66-4c33-b1e7-3f99fc73b9e4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "व्याख्यान - 11 || द्रव्यमान केंद्र और संघट्ट - 3",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zZdE59LdLZQ",
+      "hd_video_url": "https://www.youtube.com/embed/zZdE59LdLZQ",
+      "thumbnail": "https://i.ytimg.com/vi/zZdE59LdLZQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 11  द्रव्यमान केंद्र और संघट्ट - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee6ea0de-fc62-42b0-b508-102c4e40bb6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "व्याख्यान - 12 || द्रव्यमान केंद्र और संघट्ट - 4",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ADLYlvI1Xhg",
+      "hd_video_url": "https://www.youtube.com/embed/ADLYlvI1Xhg",
+      "thumbnail": "https://i.ytimg.com/vi/ADLYlvI1Xhg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 12  द्रव्यमान केंद्र और संघट्ट - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/096ddc26-8be5-4e03-b760-b5d3142d3a0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "व्याख्यान - 13 || द्रव्यमान केंद्र और संघट्ट - 5",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/5GYhwFrdoKk",
+      "hd_video_url": "https://www.youtube.com/embed/5GYhwFrdoKk",
+      "thumbnail": "https://i.ytimg.com/vi/5GYhwFrdoKk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 13  द्रव्यमान केंद्र और संघट्ट - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc18bb28-142f-4ca6-8d48-63d0707432b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "व्याख्यान - 14 || द्रव्यमान केंद्र और संघट्ट - 6",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/GIxDdTVsue0",
+      "hd_video_url": "https://www.youtube.com/embed/GIxDdTVsue0",
+      "thumbnail": "https://i.ytimg.com/vi/GIxDdTVsue0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 14  द्रव्यमान केंद्र और संघट्ट - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03d1719b-1048-486c-b367-8270a6082311.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "व्याख्यान - 15 || द्रव्यमान केंद्र और संघट्ट - 7",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/D8G1oVwtssc",
+      "hd_video_url": "https://www.youtube.com/embed/D8G1oVwtssc",
+      "thumbnail": "https://i.ytimg.com/vi/D8G1oVwtssc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 15  द्रव्यमान केंद्र और संघट्ट - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbdc46e0-c521-4630-8926-102d0271bf6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "व्याख्यान - 16 || द्रव्यमान केंद्र और संघट्ट - 8",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/jKdv8bdn0CQ",
+      "hd_video_url": "https://www.youtube.com/embed/jKdv8bdn0CQ",
+      "thumbnail": "https://i.ytimg.com/vi/jKdv8bdn0CQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 16  द्रव्यमान केंद्र और संघट्ट - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0db689d3-54ec-46b3-aa30-db6304259025.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "व्याख्यान - 17 || द्रव्यमान केंद्र और संघट्ट - 9",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/fJrnEv8NBZE",
+      "hd_video_url": "https://www.youtube.com/embed/fJrnEv8NBZE",
+      "thumbnail": "https://i.ytimg.com/vi/fJrnEv8NBZE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 17  द्रव्यमान केंद्र और संघट्ट - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75aa27e5-b7f9-4bd0-ab73-4edeaa0e6870.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "व्याख्यान - 18 || द्रव्यमान केंद्र और संघट्ट - 10",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/le86fRYy-0I",
+      "hd_video_url": "https://www.youtube.com/embed/le86fRYy-0I",
+      "thumbnail": "https://i.ytimg.com/vi/le86fRYy-0I/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 18  द्रव्यमान केंद्र और संघट्ट - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3ae8a42-8fee-4b90-a471-a3431c228dc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "व्याख्यान - 19 || घूर्णन गति - 1",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PhC7iKKFDlg",
+      "hd_video_url": "https://www.youtube.com/embed/PhC7iKKFDlg",
+      "thumbnail": "https://i.ytimg.com/vi/PhC7iKKFDlg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 19  घूर्णन गति - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a926e65-d04a-4b75-8de2-efd93312d58d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "व्याख्यान - 20 || घूर्णन गति - 2",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/v6L6moHi4WU",
+      "hd_video_url": "https://www.youtube.com/embed/v6L6moHi4WU",
+      "thumbnail": "https://i.ytimg.com/vi/v6L6moHi4WU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 20  घूर्णन गति - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aaefb28-2fbe-4a33-956e-5e273d077a3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "व्याख्यान - 21 || घूर्णन गति - 3",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/0-7dfAHFHUo",
+      "hd_video_url": "https://www.youtube.com/embed/0-7dfAHFHUo",
+      "thumbnail": "https://i.ytimg.com/vi/0-7dfAHFHUo/default.jpg",
+      "notes": [
+        {
+          "title": "व्याख्यान - 21 || घूर्णन गति - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8836c1c4-ea6e-491e-88c9-e018f081fd35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "व्याख्यान - 22 || घूर्णन गति - 4",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FYSG5_vE5iM",
+      "hd_video_url": "https://www.youtube.com/embed/FYSG5_vE5iM",
+      "thumbnail": "https://i.ytimg.com/vi/FYSG5_vE5iM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 22  घूर्णन गति - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f8b7591-4d7f-4d74-9996-23dbfa7d30be.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "व्याख्यान - 23 || घूर्णन गति - 5",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5rZXg56vYQU",
+      "hd_video_url": "https://www.youtube.com/embed/5rZXg56vYQU",
+      "thumbnail": "https://i.ytimg.com/vi/5rZXg56vYQU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes  व्याख्यान - 23  घूर्णन गति - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fbafa53-d312-45af-b713-d38c9250829b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "व्याख्यान - 24 || घूर्णन गति - 6",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1T_OPosi9FQ",
+      "hd_video_url": "https://www.youtube.com/embed/1T_OPosi9FQ",
+      "thumbnail": "https://i.ytimg.com/vi/1T_OPosi9FQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 24  घूर्णन गति - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74bcd166-1bc8-4d46-948d-80064e209b44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "व्याख्यान - 25 || घूर्णन गति - 7",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/52oCPQpydN8",
+      "hd_video_url": "https://www.youtube.com/embed/52oCPQpydN8",
+      "thumbnail": "https://i.ytimg.com/vi/52oCPQpydN8/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 25  घूर्णन गति - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/318e2c7e-9550-4591-8f81-e8a35f23d4cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "व्याख्यान - 26 || घूर्णन गति - 8",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/u3Haxec6zsU",
+      "hd_video_url": "https://www.youtube.com/embed/u3Haxec6zsU",
+      "thumbnail": "https://i.ytimg.com/vi/u3Haxec6zsU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 26  घूर्णन गति - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e2ff754-524d-498a-9350-6622181c6854.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "व्याख्यान - 27 || घूर्णन गति - 09",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6KY_NXN8lv4",
+      "hd_video_url": "https://www.youtube.com/embed/6KY_NXN8lv4",
+      "thumbnail": "https://i.ytimg.com/vi/6KY_NXN8lv4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 29 घूर्णन गति - 09",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/432a7c6a-fc1f-4cfd-a048-c075f76a4074.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "व्याख्यान - 28 || घूर्णन गति - 10",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/mEgKFoPcnqI",
+      "hd_video_url": "https://www.youtube.com/embed/mEgKFoPcnqI",
+      "thumbnail": "https://i.ytimg.com/vi/mEgKFoPcnqI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 28 घूर्णन गति - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e891b3e-76f4-4828-85b2-7cbeef084ad4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "व्याख्यान - 29 || घूर्णन गति - 11",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1IoLLhUohew",
+      "hd_video_url": "https://www.youtube.com/embed/1IoLLhUohew",
+      "thumbnail": "https://i.ytimg.com/vi/1IoLLhUohew/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 29  घूर्णन गति - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9af2e03c-e875-4ea5-a3f3-a37cee768c22.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "व्याख्यान - 30 || घूर्णन गति - 12",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/oq7DKUxSYWc",
+      "hd_video_url": "https://www.youtube.com/embed/oq7DKUxSYWc",
+      "thumbnail": "https://i.ytimg.com/vi/oq7DKUxSYWc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 30  घूर्णन गति - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32e887a0-2dd1-4926-9c8d-5aebcf0095b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "व्याख्यान - 31 || गुरुत्वाकर्षण - 1",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/tZO7uWdWv1o",
+      "hd_video_url": "https://www.youtube.com/embed/tZO7uWdWv1o",
+      "thumbnail": "https://i.ytimg.com/vi/tZO7uWdWv1o/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 31 गुरुत्वाकर्षण - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8221a23c-c743-4217-b638-9515ea45fd3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "व्याख्यान - 32 || गुरुत्वाकर्षण - 2",
+      "published_date": "14 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Ih_3kC03xNc",
+      "hd_video_url": "https://www.youtube.com/embed/Ih_3kC03xNc",
+      "thumbnail": "https://i.ytimg.com/vi/Ih_3kC03xNc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 32  गुरुत्वाकर्षण - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38bf11ad-78df-414e-ba76-64ef01744568.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "व्याख्यान - 33 || गुरुत्वाकर्षण - 3",
+      "published_date": "15 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/gOyuxx7Y_CY",
+      "hd_video_url": "https://www.youtube.com/embed/gOyuxx7Y_CY",
+      "thumbnail": "https://i.ytimg.com/vi/gOyuxx7Y_CY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 33  गुरुत्वाकर्षण - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28f69d39-9db8-43cc-88d7-562cc3132992.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "व्याख्यान - 34 || गुरुत्वाकर्षण - 4",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/oVi3ZdX9XPw",
+      "hd_video_url": "https://www.youtube.com/embed/oVi3ZdX9XPw",
+      "thumbnail": "https://i.ytimg.com/vi/oVi3ZdX9XPw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 34  गुरुत्वाकर्षण - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9baa8aee-a8f5-4e86-8ac6-7d9544807fa9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "व्याख्यान - 35 || गुरुत्वाकर्षण - 5",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/PSdol40mHQk",
+      "hd_video_url": "https://www.youtube.com/embed/PSdol40mHQk",
+      "thumbnail": "https://i.ytimg.com/vi/PSdol40mHQk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 35  गुरुत्वाकर्षण - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3daab935-c171-47be-a284-92b5834a7800.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "व्याख्यान - 36 || गुरुत्वाकर्षण - 6",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/WFrDw4NVsKw",
+      "hd_video_url": "https://www.youtube.com/embed/WFrDw4NVsKw",
+      "thumbnail": "https://i.ytimg.com/vi/WFrDw4NVsKw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 36  गुरुत्वाकर्षण - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e8b0fa78-05fa-48ae-bed6-2dbeba1ff9e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "व्याख्यान - 37 || गुरुत्वाकर्षण - 7",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/AU_ngYJNKVM",
+      "hd_video_url": "https://www.youtube.com/embed/AU_ngYJNKVM",
+      "thumbnail": "https://i.ytimg.com/vi/AU_ngYJNKVM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 37 गुरुत्वाकर्षण - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/018d0d27-f424-4ff0-9681-0029271054a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "व्याख्यान - 38 || दोलन - 1",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/YSRuj6dgMFg",
+      "hd_video_url": "https://www.youtube.com/embed/YSRuj6dgMFg",
+      "thumbnail": "https://i.ytimg.com/vi/YSRuj6dgMFg/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 38  दोलन - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19347238-242e-452a-9a70-c27acdd31508.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "व्याख्यान - 39 || दोलन - 2",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/c2elS5Rv3Oo",
+      "hd_video_url": "https://www.youtube.com/embed/c2elS5Rv3Oo",
+      "thumbnail": "https://i.ytimg.com/vi/c2elS5Rv3Oo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 39 दोलन - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f3f2a62-73b2-447f-802a-6e8d65cdb31a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "व्याख्यान - 40 || दोलन - 3",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/7sBttqxbFqI",
+      "hd_video_url": "https://www.youtube.com/embed/7sBttqxbFqI",
+      "thumbnail": "https://i.ytimg.com/vi/7sBttqxbFqI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 40  दोलन - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97f9434b-a9e0-4498-85a5-8aa6f16beb9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "व्याख्यान - 41 || दोलन - 4",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/h5utgf8GuSM",
+      "hd_video_url": "https://www.youtube.com/embed/h5utgf8GuSM",
+      "thumbnail": "https://i.ytimg.com/vi/h5utgf8GuSM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 41  दोलन - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fa5a2b4-e4af-4668-82ec-781d60ead52b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "व्याख्यान - 42 ||  तरंग - 1",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/d9hELiVc_fY",
+      "hd_video_url": "https://www.youtube.com/embed/d9hELiVc_fY",
+      "thumbnail": "https://i.ytimg.com/vi/d9hELiVc_fY/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 42 तरंग - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88658fe9-9265-4346-aa80-75a3951de1ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "व्याख्यान - 43 || तरंग-2",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/CD1drsgDfPk",
+      "hd_video_url": "https://www.youtube.com/embed/CD1drsgDfPk",
+      "thumbnail": "https://i.ytimg.com/vi/CD1drsgDfPk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 43  तरंग-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b02b7d5-9e6d-485e-b3af-74e962e42344.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "व्याख्यान - 44 || तरंग-3",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/0kdrwQh3Xhc",
+      "hd_video_url": "https://www.youtube.com/embed/0kdrwQh3Xhc",
+      "thumbnail": "https://i.ytimg.com/vi/0kdrwQh3Xhc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 44  तरंग-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8323ac1e-0be1-4db4-a58b-da720a47198a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "व्याख्यान - 45 || तरंग-4",
+      "published_date": "28 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/zsSZa6AH_hw",
+      "hd_video_url": "https://www.youtube.com/embed/zsSZa6AH_hw",
+      "thumbnail": "https://i.ytimg.com/vi/zsSZa6AH_hw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 45  तरंग-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/135afff6-8bae-445a-90bf-857ea82e980d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "व्याख्यान - 46|| तरंग-5",
+      "published_date": "04 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/mbySgvUCuxU",
+      "hd_video_url": "https://www.youtube.com/embed/mbySgvUCuxU",
+      "thumbnail": "https://i.ytimg.com/vi/mbySgvUCuxU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 46 तरंग-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b56c9c42-e9cf-4390-b4f6-cdd5f4b4991e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "व्याख्यान - 47 || तापमितिय",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/BqfAiQV-43A",
+      "hd_video_url": "https://www.youtube.com/embed/BqfAiQV-43A",
+      "thumbnail": "https://i.ytimg.com/vi/BqfAiQV-43A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 47  तापमिति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a58724f-7b99-4eb1-bd1b-9aabc18d8c2a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "व्याख्यान - 48 || ऊष्मीय प्रसार",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/wlt2SE9tIQI",
+      "hd_video_url": "https://www.youtube.com/embed/wlt2SE9tIQI",
+      "thumbnail": "https://i.ytimg.com/vi/wlt2SE9tIQI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 48  ऊष्मीय प्रसार",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3a08453-f35f-49c6-96d1-c7633838962b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "व्याख्यान - 49 || प्रत्यास्था -1",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/VBcrAeLDPZU",
+      "hd_video_url": "https://www.youtube.com/embed/VBcrAeLDPZU",
+      "thumbnail": "https://i.ytimg.com/vi/VBcrAeLDPZU/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 49  प्रत्यास्था -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d82271b5-e8e4-48b1-a46e-a0ed2731b004.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "व्याख्यान - 50 || प्रत्यास्था -2",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ikzLLZOumPc",
+      "hd_video_url": "https://www.youtube.com/embed/ikzLLZOumPc",
+      "thumbnail": "https://i.ytimg.com/vi/ikzLLZOumPc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 50 प्रत्यास्था -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/809c8032-2856-4284-9840-f106b197648e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "व्याख्यान - 51 || प्रत्यास्था - 3 & तरल पदार्थ - 1",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/hNs_UdKt8G0",
+      "hd_video_url": "https://www.youtube.com/embed/hNs_UdKt8G0",
+      "thumbnail": "https://i.ytimg.com/vi/hNs_UdKt8G0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 51 प्रत्यास्था - 3 & तरल पदार्थ - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95ee864d-0dd4-4462-9b95-4557d1b9fc71.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "व्याख्यान - 52 ||  तरल पदार्थ - 2",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ij839zTOqSI",
+      "hd_video_url": "https://www.youtube.com/embed/ij839zTOqSI",
+      "thumbnail": "https://i.ytimg.com/vi/ij839zTOqSI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 52  तरल पदार्थ - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1340f08-270d-4f05-9005-3853d9ae5edf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "व्याख्यान - 53 || तरल पदार्थ - 3",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3tTEfqB9t10",
+      "hd_video_url": "https://www.youtube.com/embed/3tTEfqB9t10",
+      "thumbnail": "https://i.ytimg.com/vi/3tTEfqB9t10/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 53  तरल पदार्थ - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f328713-db29-4c4f-9fe3-e15daa34fe50.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "व्याख्यान - 54 || तरल पदार्थ - 4",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/yjG0cURSivs",
+      "hd_video_url": "https://www.youtube.com/embed/yjG0cURSivs",
+      "thumbnail": "https://i.ytimg.com/vi/yjG0cURSivs/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 54  तरल पदार्थ - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08e1148b-a96f-48ab-8a78-86ff28196c33.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "व्याख्यान - 55 || तरल पदार्थ - 5",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gbaJC3sGeKI",
+      "hd_video_url": "https://www.youtube.com/embed/gbaJC3sGeKI",
+      "thumbnail": "https://i.ytimg.com/vi/gbaJC3sGeKI/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 55  तरल पदार्थ - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6cd34ee-f3dc-427a-92f8-d91bb77586a2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "व्याख्यान - 56 || तरल पदार्थ - 6",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/xPPm4IdoyBM",
+      "hd_video_url": "https://www.youtube.com/embed/xPPm4IdoyBM",
+      "thumbnail": "https://i.ytimg.com/vi/xPPm4IdoyBM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 56  तरल पदार्थ - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8e5ed2c-cf55-429b-a995-ef7ab46a043c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "व्याख्यान - 57 || तरल पदार्थ - 7",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/I8fMEvIHg5Q",
+      "hd_video_url": "https://www.youtube.com/embed/I8fMEvIHg5Q",
+      "thumbnail": "https://i.ytimg.com/vi/I8fMEvIHg5Q/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 57  तरल पदार्थ - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6dc842c-de49-4dab-aec1-4e38b48ee07f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "व्याख्यान - 58 || तरल पदार्थ - 8 & ऊष्मा स्थानांतरण - 1",
+      "published_date": "19 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/teIIl1xZ2h8",
+      "hd_video_url": "https://www.youtube.com/embed/teIIl1xZ2h8",
+      "thumbnail": "https://i.ytimg.com/vi/teIIl1xZ2h8/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 58 तरल पदार्थ - 8 & ऊष्मा स्थानांतरण - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3c855a4-763c-4342-b190-aabe048ce04a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "व्याख्यान - 59 || ऊष्मा स्थानांतरण - 2",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/W_64CxnfEVE",
+      "hd_video_url": "https://www.youtube.com/embed/W_64CxnfEVE",
+      "thumbnail": "https://i.ytimg.com/vi/W_64CxnfEVE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 59  ऊष्मा स्थानांतरण - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d879e92d-10fc-4796-bccf-6517cd1c0e25.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "व्याख्यान - 60 || ऊष्मा स्थानांतरण - 3",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3_SiZYuX1I4",
+      "hd_video_url": "https://www.youtube.com/embed/3_SiZYuX1I4",
+      "thumbnail": "https://i.ytimg.com/vi/3_SiZYuX1I4/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 60  ऊष्मा स्थानांतरण - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b05b0d2-9cef-462b-bc4a-2b06b29b100d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "व्याख्यान - 61 || गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 1",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/RK48EB3uOHA",
+      "hd_video_url": "https://www.youtube.com/embed/RK48EB3uOHA",
+      "thumbnail": "https://i.ytimg.com/vi/RK48EB3uOHA/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 61  गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89626f1d-9f31-449b-a484-afa8bbc6c1a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "व्याख्यान -  62 || गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 2",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Ctee0FJaxd0",
+      "hd_video_url": "https://www.youtube.com/embed/Ctee0FJaxd0",
+      "thumbnail": "https://i.ytimg.com/vi/Ctee0FJaxd0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 62  गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7656af5-417f-45f9-9f42-64238db72360.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "व्याख्यान - 63 || गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 3",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Vm3UMVpxkag",
+      "hd_video_url": "https://www.youtube.com/embed/Vm3UMVpxkag",
+      "thumbnail": "https://i.ytimg.com/vi/Vm3UMVpxkag/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 63  गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c105fb41-6ff8-417a-88ae-a5b3e5a550f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "व्याख्यान - 64 || गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 4",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vPFlVgMthLM",
+      "hd_video_url": "https://www.youtube.com/embed/vPFlVgMthLM",
+      "thumbnail": "https://i.ytimg.com/vi/vPFlVgMthLM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes व्याख्यान - 64  गैसों का गतिक सिद्धांत & ऊष्मागतिकी - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d69870c-6f83-444d-9fc8-788c2dbd1dae.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,1171 @@
+{
+  "subject_name": "Production Engineering by Varun Sharma Sir",
+  "subject_id": 3804,
+  "video_count": 83,
+  "note_count": 83,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Introduction of Production Engineering",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ibiEgu0ongk",
+      "hd_video_url": "https://www.youtube.com/embed/ibiEgu0ongk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/V8ELZNhcOnh6PEAmlVHVtrHcbJCXT1QhpTDalpua.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || Production Engineering (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10b264fc-4e08-4101-8f28-1dd709cf6977.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Types of manufacturing Process",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/JH32dWK2-IE",
+      "hd_video_url": "https://www.youtube.com/embed/JH32dWK2-IE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QkV526umnSUF4MBxawROfJM7icPOyB48GfXyOrjI.png",
+      "notes": [
+        {
+          "title": "Lecture 02 || Types of manufacturing Process",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1877b56a-0efa-4124-b16e-33f19234164c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture: -03 || Introduction of Machining",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/gzomcoijCLQ",
+      "hd_video_url": "https://www.youtube.com/embed/gzomcoijCLQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/93qTrW4dOUpbD7RtmqO0AbWvBgADNHJT6TJ98bmK.png",
+      "notes": [
+        {
+          "title": "Lecture: -03 || Introduction of Machining",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de3f3309-3dbf-4634-99ad-f70d732e635c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Cutting tool vs Machine tool",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/R3HgvdJSOOs",
+      "hd_video_url": "https://www.youtube.com/embed/R3HgvdJSOOs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MSKGSokALlQRc5qWEQQpORH749o5N4CSxn6uHWbQ.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Cutting tool vs Machine tool",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f1adefc-c952-41d7-9c0c-9e74efcf957a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Generatrix and Directrix",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/qLjZGGE3QTE",
+      "hd_video_url": "https://www.youtube.com/embed/qLjZGGE3QTE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Rv0Lm0znAsBAz1ypNLw3vpLZ4hXRfzgrH1UV4YsO.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Generatrix and Directrix",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40f093ac-78f0-4004-994d-cf55498130c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Orthogonal & Oblique machining",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/btUCYmsC_jU",
+      "hd_video_url": "https://www.youtube.com/embed/btUCYmsC_jU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oHhdN9eodaCtMDfbpLU3l4jCXIi44qHGsUa68eWW.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || Orthogonal & Oblique machining",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d5b140b-b9f9-4c17-917f-a211e743da89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07|| Mechanics of Chip Formation (Part-1)",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/kyxyDgCBBkw",
+      "hd_video_url": "https://www.youtube.com/embed/kyxyDgCBBkw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BIti8fA7h18GUFub6Qkey0ZZgX5sCV317ndrEvN4.png",
+      "notes": [
+        {
+          "title": "Lecture-07|| Mechanics of Chip Formation (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bb37a15-68f9-4d55-bd4b-f52751e777aa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Mechanics of Chip Formation (Part-2)",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7Afm553j4dE",
+      "hd_video_url": "https://www.youtube.com/embed/7Afm553j4dE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FmELgO9b1eeNS1P2cnUiz79RtSRLC2ZzxnVXCjhl.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Mechanics of Chip Formation (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1da3efb-8ee2-4e2a-b525-1e40dd287a3d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Terminology in Metal Cutting",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/1RDUay7D6T4",
+      "hd_video_url": "https://www.youtube.com/embed/1RDUay7D6T4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3TvoBchZ4RmNJrpzdbc915Ks1I12IzYE9SCNTXEY.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Terminology in Metal Cutting",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c92fbcd-ecc2-462f-8b22-defa2995b4fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Chip Thickness ratio & Shear Strain",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/G_IpzN6PArA",
+      "hd_video_url": "https://www.youtube.com/embed/G_IpzN6PArA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Bwu9FaiyxFI3eLhO5GllGubyCcnGJ3hHt1Y9LgRl.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Chip Thickness ratio & Shear Strain",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8f6a7b0-309b-493b-abbc-254a99cf3b8c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Analysis of Velocity & forces",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/zr7taJqeRCw",
+      "hd_video_url": "https://www.youtube.com/embed/zr7taJqeRCw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JoDGrx1iW55NqQ5TejVBv1r0OetZJI0ZsmUVqBSW.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Analysis of Velocity & forces",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cd2752d-891f-4153-b8c9-b784c7a41eb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || Merchant Circle Diagram (Part-1)",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/sJsRKZP2W_E",
+      "hd_video_url": "https://www.youtube.com/embed/sJsRKZP2W_E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/brCCXwPIFvu1DoqEV1DMX9JKfh73CHca1QpETzyJ.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || Merchant Circle Diagram (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c16dcb85-0b9f-4c93-bb5f-0a0ed5394c59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || Merchant Circle Diagram (Part-2)",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/4bmUK6frhgY",
+      "hd_video_url": "https://www.youtube.com/embed/4bmUK6frhgY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/s38msj2J4FCP5uUc5uhKozawDHx2EQOCqGt45eHk.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || Merchant Circle Diagram (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c66d2f2e-ee50-4d83-b1f6-cb74368228df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || Problem Session on MCD",
+      "published_date": "30 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/L7mYOLlgZac",
+      "hd_video_url": "https://www.youtube.com/embed/L7mYOLlgZac",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vyIfnnEvf0LBf3N6x0T1cRXPz86LHtcBLeJnIsBI.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || Problem Session on MCD",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6639684-3d80-49ca-aded-4c36a2a38de0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || Power Consumption & MRR",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zMFRwJVoyts",
+      "hd_video_url": "https://www.youtube.com/embed/zMFRwJVoyts",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/y5bbL7Dx3L06w0HwBhu3mMLvLdmgudUZ4kT4aitc.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || Power Consumption & MRR",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7cfff8c-1780-422c-944c-643e79229c13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || Different terms in Turning process",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/6QSmO8waKUs",
+      "hd_video_url": "https://www.youtube.com/embed/6QSmO8waKUs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/issg4ExrIDcoL5B07MimdBleTcoRn0XSYT4Xoiou.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || Different terms in Turning process",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17959463-5e5a-4547-a91e-c147785e1dad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || Different Theories in Metal Cutting",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/lB3IJd_hLYU",
+      "hd_video_url": "https://www.youtube.com/embed/lB3IJd_hLYU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kzPB0HABn3dAkzQBhugLC3VOR2RBa2Vd2MpUbInS.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Different Theories in Metal Cutting",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbd3968f-57e0-4fca-b029-4c6cba401081.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || Types of Chips-1",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/vhkosKAH_B0",
+      "hd_video_url": "https://www.youtube.com/embed/vhkosKAH_B0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ms3ilgCYwMpWv7xfjsQ9T9qTG5Gm78yIgwhO8u28.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Types of Chips-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cbe3c5c-de5c-4d79-807f-6e5f4b67ffe2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ||  Types of Chips-2",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/qmIaf-QZhxI",
+      "hd_video_url": "https://www.youtube.com/embed/qmIaf-QZhxI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/znN3OTeEikikahfqkYXtmuNDADzPbOP3mWrzw7I8.png",
+      "notes": [
+        {
+          "title": "Lecture-19 ||  Types of Chips-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3d86303-07b6-4bcd-a071-f20685eea45f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || Tool Geometry-1",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/rjarC0tVCKg",
+      "hd_video_url": "https://www.youtube.com/embed/rjarC0tVCKg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/46ehI2WOv5cOlZthf5OlDTbyk8zpS7usDViTH6jj.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Tool Geometry-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc2b37f0-cd4e-4c84-b560-5988533649a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || Tool Geometry-2",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ecgJqvCAwNE",
+      "hd_video_url": "https://www.youtube.com/embed/ecgJqvCAwNE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nt5XdNQrEmfovMCHnsVMv4m0dNt0tFKeTgGULdvM.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Tool Geometry-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc56f236-71c3-48e8-b58d-032cc52c9408.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || Types of Rake Angles",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/7LaSVrLuecE",
+      "hd_video_url": "https://www.youtube.com/embed/7LaSVrLuecE",
+      "thumbnail": "https://i.ytimg.com/vi/7LaSVrLuecE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-22 || Types of Rake Angles",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cbc5b3ab-444c-43cc-83f1-8afd69a8306f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || Tool Failure",
+      "published_date": "16 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_y2E99qNxrI",
+      "hd_video_url": "https://www.youtube.com/embed/_y2E99qNxrI",
+      "thumbnail": "https://i.ytimg.com/vi/_y2E99qNxrI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Tool Failure",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33d261b4-1a01-43d4-94f1-32f7abea0906.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || Tool Life-1",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/tUgR1yY6t_4",
+      "hd_video_url": "https://www.youtube.com/embed/tUgR1yY6t_4",
+      "thumbnail": "https://i.ytimg.com/vi/tUgR1yY6t_4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-24 || Tool Life-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4cbcdb9b-21ea-4b24-ba90-6f38a584115e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || Tool Life-2",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/T6-XY3V8OA8",
+      "hd_video_url": "https://www.youtube.com/embed/T6-XY3V8OA8",
+      "thumbnail": "https://i.ytimg.com/vi/T6-XY3V8OA8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-25 || Tool Life-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1ea0f95-de4e-461c-9029-5e7309819f39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || Problem session on tool life & Surface Finish",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/nlpmyqs2Pn0",
+      "hd_video_url": "https://www.youtube.com/embed/nlpmyqs2Pn0",
+      "thumbnail": "https://i.ytimg.com/vi/nlpmyqs2Pn0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-26 || Problem session on tool life & Surface Finish",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e50d9cdf-8f2b-4fcb-b79e-092b186e736d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || Heat Distribution in metal cutting",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/5frZSWMS_n4",
+      "hd_video_url": "https://www.youtube.com/embed/5frZSWMS_n4",
+      "thumbnail": "https://i.ytimg.com/vi/5frZSWMS_n4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-27 || Heat Distribution in metal cutting",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/988c2f10-62ad-41a3-985a-84410bb53147.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || Machinability & Cutting fluids",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/wTy2bwGyCEs",
+      "hd_video_url": "https://www.youtube.com/embed/wTy2bwGyCEs",
+      "thumbnail": "https://i.ytimg.com/vi/wTy2bwGyCEs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-28 || Machinability & Cutting fluids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/102c7df1-6b03-4a04-b6b1-dc320a9da438.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || Machine Tools:  Lathe-1",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/zOHlvbhwmjs",
+      "hd_video_url": "https://www.youtube.com/embed/zOHlvbhwmjs",
+      "thumbnail": "https://i.ytimg.com/vi/zOHlvbhwmjs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-29 || Machine Tools:  Lathe-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4818cfac-f26f-463b-86a2-747a497d97ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || Machine Tools:  Lathe-2",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/SgGFUkNJ5Hc",
+      "hd_video_url": "https://www.youtube.com/embed/SgGFUkNJ5Hc",
+      "thumbnail": "https://i.ytimg.com/vi/SgGFUkNJ5Hc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-30 || Machine Tools:  Lathe (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dda15f07-5088-450f-a72d-51093f7b5126.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Machine Tools:  Lathe-3",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/LragLiD89v0",
+      "hd_video_url": "https://www.youtube.com/embed/LragLiD89v0",
+      "thumbnail": "https://i.ytimg.com/vi/LragLiD89v0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-31  Machine Tools  Lathe-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b4ffecb-8260-4822-90d3-7b7ec674efd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || Machine Tools:  Lathe-4",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/HAhWh1X57Og",
+      "hd_video_url": "https://www.youtube.com/embed/HAhWh1X57Og",
+      "thumbnail": "https://i.ytimg.com/vi/HAhWh1X57Og/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-32 || Machine Tools:  Lathe-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b05e43f6-2aa9-4123-a382-fd4e596664b8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 || Machine Tools: Lathe-5",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/AanX1sFx_gY",
+      "hd_video_url": "https://www.youtube.com/embed/AanX1sFx_gY",
+      "thumbnail": "https://i.ytimg.com/vi/AanX1sFx_gY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-33 || Machine Tools: Lathe-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/503c7498-d294-4b8e-8e2e-d69187e92dec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Machine Tools: Lathe-6",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/oyTaW5u4Cn8",
+      "hd_video_url": "https://www.youtube.com/embed/oyTaW5u4Cn8",
+      "thumbnail": "https://i.ytimg.com/vi/oyTaW5u4Cn8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-34 || Machine Tools: Lathe-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d959e2e-3a21-40ce-9ea5-112b3bcfa2b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || Machine Tools: Lathe  (Part-07)",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/XFYETknZFdM",
+      "hd_video_url": "https://www.youtube.com/embed/XFYETknZFdM",
+      "thumbnail": "https://i.ytimg.com/vi/XFYETknZFdM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-35 || Machine Tools: Lathe  (Part-07)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/082d5e7a-3ab4-4aa4-b80b-debc8b6d3dd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 || Machine Tools: Shaper and Planer",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Aavj3KM6QYg",
+      "hd_video_url": "https://www.youtube.com/embed/Aavj3KM6QYg",
+      "thumbnail": "https://i.ytimg.com/vi/Aavj3KM6QYg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-36 || Machine Tools: Shaper and Planer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0df7049a-4534-4970-9ce5-e24757ea976a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 || Machine Tools: Milling (Part-01)",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RtRehKOCaa0",
+      "hd_video_url": "https://www.youtube.com/embed/RtRehKOCaa0",
+      "thumbnail": "https://i.ytimg.com/vi/RtRehKOCaa0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-37 || Machine Tools: Milling (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bd0859f-5720-4fcb-9d82-1eff0ded628f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 || Machine Tools: Milling (Part-02)",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/uYpfQewoZwA",
+      "hd_video_url": "https://www.youtube.com/embed/uYpfQewoZwA",
+      "thumbnail": "https://i.ytimg.com/vi/uYpfQewoZwA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-38 || Machine Tools: Milling (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a727a9ba-3756-4b79-a8aa-b23b15ae98c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 || Machine Tools: Drilling (Part-01)",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6yetqKe7src",
+      "hd_video_url": "https://www.youtube.com/embed/6yetqKe7src",
+      "thumbnail": "https://i.ytimg.com/vi/6yetqKe7src/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-39 || Machine Tools: Drilling (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9dcf5ae-6885-457e-b673-bd1c7f07ac30.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 || Machine Tools: Drilling (Part-02)",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/J4HF1zExSLQ",
+      "hd_video_url": "https://www.youtube.com/embed/J4HF1zExSLQ",
+      "thumbnail": "https://i.ytimg.com/vi/J4HF1zExSLQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-40 || Machine Tools: Drilling (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d94d822c-7514-4638-8028-ed5544c26663.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 || Machine Tools: Milling & Broaching",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/qvG9j-nPm88",
+      "hd_video_url": "https://www.youtube.com/embed/qvG9j-nPm88",
+      "thumbnail": "https://i.ytimg.com/vi/qvG9j-nPm88/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-41 || Machine Tools: Milling & Broaching",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76bc0b76-e769-4987-bb36-ee6a51b64429.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 || Machine Tools: Grinding ( Part-01)",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-3aGd4newuE",
+      "hd_video_url": "https://www.youtube.com/embed/-3aGd4newuE",
+      "thumbnail": "https://i.ytimg.com/vi/-3aGd4newuE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-42 || Machine Tools: Grinding ( Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dcdac09-290c-4ca0-8430-f9c4cb5f0068.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 || Machine Tools: Grinding ( Part-02)",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/eiCIKH5dxGE",
+      "hd_video_url": "https://www.youtube.com/embed/eiCIKH5dxGE",
+      "thumbnail": "https://i.ytimg.com/vi/eiCIKH5dxGE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-43 || Machine Tools: Grinding ( Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87000e4f-c1ba-4d7c-9349-42ae36da9dd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 || Machine Tools: Grinding ( Part-03)",
+      "published_date": "31 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/4DpMKv02vF8",
+      "hd_video_url": "https://www.youtube.com/embed/4DpMKv02vF8",
+      "thumbnail": "https://i.ytimg.com/vi/4DpMKv02vF8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-44 || Machine Tools: Grinding ( Part-03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6878a48-c20b-49da-a754-65ac8fc27f59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 || Machine Tools: Grinding ( Part-04)",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ouzKlGzpD1k",
+      "hd_video_url": "https://www.youtube.com/embed/ouzKlGzpD1k",
+      "thumbnail": "https://i.ytimg.com/vi/ouzKlGzpD1k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-45 || Machine Tools: Grinding ( Part-04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c84ad1f-aff5-42d7-86b2-a0d06d06d382.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 || Machine Tools: Grinding ( Part-05)",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/dmC-CQAGf5U",
+      "hd_video_url": "https://www.youtube.com/embed/dmC-CQAGf5U",
+      "thumbnail": "https://i.ytimg.com/vi/dmC-CQAGf5U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-46 || Machine Tools: Grinding ( Part-05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/201c8b3f-50ae-41dd-ba9d-35dbaef74018.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 || Classification of Grinding Machines",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/oHWNSNeLL1Q",
+      "hd_video_url": "https://www.youtube.com/embed/oHWNSNeLL1Q",
+      "thumbnail": "https://i.ytimg.com/vi/oHWNSNeLL1Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-47 || Classification of Grinding Machines",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e34905ae-55e1-4098-9ac2-b992c1704764.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 || Principles of Centerless Grinding",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Z9S1Z-a6P4I",
+      "hd_video_url": "https://www.youtube.com/embed/Z9S1Z-a6P4I",
+      "thumbnail": "https://i.ytimg.com/vi/Z9S1Z-a6P4I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-48 || Principles of Centerless Grinding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec8040c6-5ca2-47cb-b472-bef6a948125a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 ||  Welding-Introduction & Classification",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/xt_A1xye6Kw",
+      "hd_video_url": "https://www.youtube.com/embed/xt_A1xye6Kw",
+      "thumbnail": "https://i.ytimg.com/vi/xt_A1xye6Kw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-49 ||  Welding-Introduction & Classification",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae6b08e4-cc49-4064-9ec9-dff48667df4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 ||  Arc Welding",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/g_nJeOyEti4",
+      "hd_video_url": "https://www.youtube.com/embed/g_nJeOyEti4",
+      "thumbnail": "https://i.ytimg.com/vi/g_nJeOyEti4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-50 ||  Arc Welding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92401290-e1e3-44f6-8efc-748318bdf9d0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 || Principal Of different welding Processes(Part-1)",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/cHfqSDNdQak",
+      "hd_video_url": "https://www.youtube.com/embed/cHfqSDNdQak",
+      "thumbnail": "https://i.ytimg.com/vi/cHfqSDNdQak/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-51 || Principal Of different welding Processes(Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45d47e5b-5f4e-4ad6-ae6a-9d55d21693e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 || Principal Of different welding Processes(Part-2)",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/xbEpH2aD53g",
+      "hd_video_url": "https://www.youtube.com/embed/xbEpH2aD53g",
+      "thumbnail": "https://i.ytimg.com/vi/xbEpH2aD53g/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-52 || Principal Of different welding Processes(Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83069343-9f45-468d-aa61-30060f3c09a5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 || Arc Welding -1",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/HlbH5T-b9UI",
+      "hd_video_url": "https://www.youtube.com/embed/HlbH5T-b9UI",
+      "thumbnail": "https://i.ytimg.com/vi/HlbH5T-b9UI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-53 || Arc Welding -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72145c54-d28b-4d9d-96e4-c345934e46bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 || Arc Welding -2",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fRrKuPpkVmw",
+      "hd_video_url": "https://www.youtube.com/embed/fRrKuPpkVmw",
+      "thumbnail": "https://i.ytimg.com/vi/fRrKuPpkVmw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-54 || Arc Welding -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09b63969-ad61-4931-865f-056281050a02.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 || Duty cycle",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/MIh8XyABKsw",
+      "hd_video_url": "https://www.youtube.com/embed/MIh8XyABKsw",
+      "thumbnail": "https://i.ytimg.com/vi/MIh8XyABKsw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-55 || Duty cycle",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffad5d69-86b3-44c7-8028-3b5bb1a4a958.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 || Polarity used in Arc Welding",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/eDUywFMye7I",
+      "hd_video_url": "https://www.youtube.com/embed/eDUywFMye7I",
+      "thumbnail": "https://i.ytimg.com/vi/eDUywFMye7I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-56 || Polarity used in Arc Welding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52213936-82ba-48cb-acd8-ff5e4db7e062.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 || Different Welding Processes-1",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Wlv44s9y_ns",
+      "hd_video_url": "https://www.youtube.com/embed/Wlv44s9y_ns",
+      "thumbnail": "https://i.ytimg.com/vi/Wlv44s9y_ns/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-57 || Different Welding Processes-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90c9147e-4f75-49e7-b5fd-7352f93d0edd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 || Different Welding Processes-2",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/B2ywhHfT3-Q",
+      "hd_video_url": "https://www.youtube.com/embed/B2ywhHfT3-Q",
+      "thumbnail": "https://i.ytimg.com/vi/B2ywhHfT3-Q/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-58 || Different Welding Processes-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fabdecf6-dfe8-434f-bd12-88f2aaf63b13.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 || Different Welding Processes-3",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/CPX329RR_eA",
+      "hd_video_url": "https://www.youtube.com/embed/CPX329RR_eA",
+      "thumbnail": "https://i.ytimg.com/vi/CPX329RR_eA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-59 || Different Welding Processes-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6744575-d088-48f3-ab9c-335bc84decdf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 || TIG-MIG Welding",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/vGupu6cULjs",
+      "hd_video_url": "https://www.youtube.com/embed/vGupu6cULjs",
+      "thumbnail": "https://i.ytimg.com/vi/vGupu6cULjs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-60 || TIG-MIG Welding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/602da52f-49c7-429b-b169-43c483f51024.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 || Gas Welding-Types of Flame",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/JghJeM-NH18",
+      "hd_video_url": "https://www.youtube.com/embed/JghJeM-NH18",
+      "thumbnail": "https://i.ytimg.com/vi/JghJeM-NH18/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-61 || Gas Welding-Types of Flame",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58f9b489-feea-4e50-b78b-e489f53ca0b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 || Resistance Welding",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/mOCAftEfzCs",
+      "hd_video_url": "https://www.youtube.com/embed/mOCAftEfzCs",
+      "thumbnail": "https://i.ytimg.com/vi/mOCAftEfzCs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-62 || Resistance Welding",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bbeac500-32f8-4e8f-af03-ebcd2be2207d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 || Solid State Welding Processes",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Q3C9kJktZAw",
+      "hd_video_url": "https://www.youtube.com/embed/Q3C9kJktZAw",
+      "thumbnail": "https://i.ytimg.com/vi/Q3C9kJktZAw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-63 || Solid State Welding Processes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b566996-18e0-4286-b44b-d70c01d404ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 || Soldering, Brazing",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/3xGjCBxj2mE",
+      "hd_video_url": "https://www.youtube.com/embed/3xGjCBxj2mE",
+      "thumbnail": "https://i.ytimg.com/vi/3xGjCBxj2mE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-64 || Soldering, Brazing",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5621b260-ae2e-4e54-ad95-24dccfabdb4a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 || Welding defects",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/q4xZot4ca0k",
+      "hd_video_url": "https://www.youtube.com/embed/q4xZot4ca0k",
+      "thumbnail": "https://i.ytimg.com/vi/q4xZot4ca0k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-65 || Welding defects",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6d6d4ca-208f-4a6a-adec-1a7af061c900.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 || Miscellaneous topics",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Rn4ryGY-ZBU",
+      "hd_video_url": "https://www.youtube.com/embed/Rn4ryGY-ZBU",
+      "thumbnail": "https://i.ytimg.com/vi/Rn4ryGY-ZBU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-66 || Miscellaneous topics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8427ce9-caf3-4e33-b0ad-737dd520a10f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 || Welding Practice problems",
+      "published_date": "05 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/TyH7OjhmKQE",
+      "hd_video_url": "https://www.youtube.com/embed/TyH7OjhmKQE",
+      "thumbnail": "https://i.ytimg.com/vi/TyH7OjhmKQE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-67 || Welding Practice problems",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e42ec54-0360-4874-ade0-156299dcecb5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 68,
+      "title": "Lecture-68 || Limit, Fit & Tolerence(part-1)",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/d9zRAmvW4gU",
+      "hd_video_url": "https://www.youtube.com/embed/d9zRAmvW4gU",
+      "thumbnail": "https://i.ytimg.com/vi/d9zRAmvW4gU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-68  Limit, Fit & Tolerance (part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38e20cf7-266f-491e-87ab-e595cc015a68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 69,
+      "title": "Lecture-69 || Limit, Fit & Tolerence(part-2)",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/1tYH7VW15EU",
+      "hd_video_url": "https://www.youtube.com/embed/1tYH7VW15EU",
+      "thumbnail": "https://i.ytimg.com/vi/1tYH7VW15EU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-69 || Limit, Fit & Tolerence(part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cd38837-9fbd-4b23-b758-12e38acf7100.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 70,
+      "title": "Lecture-70 || Introduction Of Metrology",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/DQcYHN4ZF74",
+      "hd_video_url": "https://www.youtube.com/embed/DQcYHN4ZF74",
+      "thumbnail": "https://i.ytimg.com/vi/DQcYHN4ZF74/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-70 || Introduction Of Metrology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94bb29f4-5aff-4c3e-a9e9-0b692e8e67ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 71,
+      "title": "Lecture-71 || Basic terminology-1",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/t5TZV_aeko8",
+      "hd_video_url": "https://www.youtube.com/embed/t5TZV_aeko8",
+      "thumbnail": "https://i.ytimg.com/vi/t5TZV_aeko8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-71 || Basic terminology-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d0abac4-0883-45df-8406-6145ead6a054.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 72,
+      "title": "Lecture-72 || Basic terminology-2",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/9eMxCgNCmoM",
+      "hd_video_url": "https://www.youtube.com/embed/9eMxCgNCmoM",
+      "thumbnail": "https://i.ytimg.com/vi/9eMxCgNCmoM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-72 || Basic terminology-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37653e2b-e9f5-4578-b9d9-e833888166b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 73,
+      "title": "Lecture-73 ||  Inspection and Measurement -1",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/0z-No7HUkKo",
+      "hd_video_url": "https://www.youtube.com/embed/0z-No7HUkKo",
+      "thumbnail": "https://i.ytimg.com/vi/0z-No7HUkKo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-73 ||  Inspection and Measurement -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9006b54-d376-4491-85a1-b145567aa55b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 74,
+      "title": "Lecture-74 || Inspection and Measurement -2",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/-rSbuQs1z0s",
+      "hd_video_url": "https://www.youtube.com/embed/-rSbuQs1z0s",
+      "thumbnail": "https://i.ytimg.com/vi/-rSbuQs1z0s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-74 || Inspection and Measurement -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1feba82b-4f16-4da9-9174-1b0c9e349d9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 75,
+      "title": "Lecture-75 || Gauges and Linear Measurement",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/IAk1opRf5Yo",
+      "hd_video_url": "https://www.youtube.com/embed/IAk1opRf5Yo",
+      "thumbnail": "https://i.ytimg.com/vi/IAk1opRf5Yo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-75 || Gauges and Linear Measurement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f63b5b7-122b-4d98-89e5-ef902e41d526.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 76,
+      "title": "Lecture-76 || Angular & Thread Measurement",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QJG_pD8-ERg",
+      "hd_video_url": "https://www.youtube.com/embed/QJG_pD8-ERg",
+      "thumbnail": "https://i.ytimg.com/vi/QJG_pD8-ERg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-76 || Angular & Thread Measurement",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/352c5e1d-a27d-4590-9a35-9b9cde390f86.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 77,
+      "title": "Lecture-77 || Surface roughness Measurement  & Interferometry",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/u-wzlfAgqmo",
+      "hd_video_url": "https://www.youtube.com/embed/u-wzlfAgqmo",
+      "thumbnail": "https://i.ytimg.com/vi/u-wzlfAgqmo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-77 || Surface roughness Measurement  & Interferometry",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0b36bcd-8310-4ee9-9d66-abfc46b149b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 78,
+      "title": "Lecture-78 || Questions Practice",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/JNyVX6koWHk",
+      "hd_video_url": "https://www.youtube.com/embed/JNyVX6koWHk",
+      "thumbnail": "https://i.ytimg.com/vi/JNyVX6koWHk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-78 || Questions Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96d85f63-01b7-4bb0-9b89-619c0564bdd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 79,
+      "title": "Lecture-79 || Electroplating & Basic Principles",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/UD7cgISrsdY",
+      "hd_video_url": "https://www.youtube.com/embed/UD7cgISrsdY",
+      "thumbnail": "https://i.ytimg.com/vi/UD7cgISrsdY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-79 || Electroplating & Basic Principles",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d05de5d3-c1e7-4ce7-b58b-ff54b8ce4cc7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 80,
+      "title": "Lecture-80 || Optical Microscope & Inspection Of Machine Parts",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/uWbgJYLCI1M",
+      "hd_video_url": "https://www.youtube.com/embed/uWbgJYLCI1M",
+      "thumbnail": "https://i.ytimg.com/vi/uWbgJYLCI1M/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-80 || Optical Microscope & Inspection of Machine Parts",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dad3c4b8-7d10-4445-a577-4a804d940187.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 81,
+      "title": "Lecture-81 || Miscellaneous topics",
+      "published_date": "02 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ODE5uOhWrrM",
+      "hd_video_url": "https://www.youtube.com/embed/ODE5uOhWrrM",
+      "thumbnail": "https://i.ytimg.com/vi/ODE5uOhWrrM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-81 || Miscellaneous topics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53edc356-48d2-44cc-8955-fa77b9c1e751.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 82,
+      "title": "Lecture-82 || Grinding & Finishing ( Electroplating)",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/CaIG4LlHGxI",
+      "hd_video_url": "https://www.youtube.com/embed/CaIG4LlHGxI",
+      "thumbnail": "https://i.ytimg.com/vi/CaIG4LlHGxI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-82 || Grinding & Finishing ( Electroplating)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1539e6ad-749d-4c05-8346-3593eed04d5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 83,
+      "title": "Lecture-83 || Coating & Spraying",
+      "published_date": "05 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/WWSfZcQQYtA",
+      "hd_video_url": "https://www.youtube.com/embed/WWSfZcQQYtA",
+      "thumbnail": "https://i.ytimg.com/vi/WWSfZcQQYtA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-83 || Coating & Spraying",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c919a528-d480-45d3-b426-70d1d7bf0e6b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

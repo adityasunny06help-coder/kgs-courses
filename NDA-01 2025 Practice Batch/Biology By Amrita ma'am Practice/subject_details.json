@@ -1,0 +1,23 @@
+{
+  "subject_name": "Biology By Amrita ma'am Practice",
+  "subject_id": 6095,
+  "video_count": 1,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Practice Class",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/g0IV87V44gw",
+      "hd_video_url": "https://www.youtube.com/embed/g0IV87V44gw",
+      "thumbnail": "https://i.ytimg.com/vi/g0IV87V44gw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-23 || Practice Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9feff2e-e3f2-4373-93d7-32c0a31a5e2a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

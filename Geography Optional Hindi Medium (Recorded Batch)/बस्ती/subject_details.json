@@ -1,0 +1,45 @@
+{
+  "subject_name": "बस्ती",
+  "subject_id": 7882,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || भारत में नगर बस्ती",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l173/lecture173.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l173/lecture173.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RnmrAOuHnFbameDALKKP13O6jnDAzp75Kmfmh5OT.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भारत में नगरीकरण की प्रक्रिया",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l174/lecture174.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l174/lecture174.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yZSte0QmHxsZJkwRSlIdzvmzfn2kpMEp0ezufK3E.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || नगरों का वर्गीकरण",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l175/lecture175.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l175/lecture175.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RHZY7mClEuoZ0mXjJCioJvSJlapzLpKdc5rYn0G1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || भारतीय नगरों का प्रकार्यात्मक वर्गीकरण",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l176/lecture176.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l176/lecture176.m3u8",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

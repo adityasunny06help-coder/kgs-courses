@@ -1,0 +1,149 @@
+{
+  "subject_name": "Engineering Materials by Ashish Soni Sir",
+  "subject_id": 5776,
+  "video_count": 10,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction Class",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/FDz_WreeBIg",
+      "hd_video_url": "https://www.youtube.com/embed/FDz_WreeBIg",
+      "thumbnail": "https://i.ytimg.com/vi/FDz_WreeBIg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b27bfb2-8ab7-4843-97b1-2adcb0c253b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Types of Material and their properties",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wX5jsHLHvHc",
+      "hd_video_url": "https://www.youtube.com/embed/wX5jsHLHvHc",
+      "thumbnail": "https://i.ytimg.com/vi/wX5jsHLHvHc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Types of Material and their properties",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93295b17-6fa8-41bb-b4f2-7c47b92bc580.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Question Practice",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/vWa1CQr6f3c",
+      "hd_video_url": "https://www.youtube.com/embed/vWa1CQr6f3c",
+      "thumbnail": "https://i.ytimg.com/vi/vWa1CQr6f3c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -3 || Question Practice",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dba74df-33de-479e-b0c8-9e753cd916cc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Annealing, Hardening ,Tempering, Case Hardening, Types Of Corrosion, Corrosion Prevention",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/I2BvHbmmybU",
+      "hd_video_url": "https://www.youtube.com/embed/I2BvHbmmybU",
+      "thumbnail": "https://i.ytimg.com/vi/I2BvHbmmybU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -4 || Annealing, Hardening ,Tempering, Case Hardening, Types Of Corrosion, Corrosion Prevention",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bda2f96-fed5-4887-b68f-d1bb49843814.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Radiography , Ultrasonic Testing, Magnetic Particle Testing , Shape Memory Alloys, Piezoelectric Materials",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ZIvBGrB885w",
+      "hd_video_url": "https://www.youtube.com/embed/ZIvBGrB885w",
+      "thumbnail": "https://i.ytimg.com/vi/ZIvBGrB885w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -5 || Radiography , Ultrasonic Testing, Magnetic Particle Testing , Shape Memory Alloys, Piezoelectric Materials",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f522ee9-abf7-4529-929a-00ad5e88a320.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 || Conductors, Insulators, Semiconductors, factors Affecting Conductivity , Dielectrics, Dielectric Constant , Polarization , Application Of Dielectrics",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/UuEAQ1wSeCA",
+      "hd_video_url": "https://www.youtube.com/embed/UuEAQ1wSeCA",
+      "thumbnail": "https://i.ytimg.com/vi/UuEAQ1wSeCA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -6 || Conductors, Insulators, Semiconductors, factors Affecting Conductivity , Dielectrics, Dielectric Constant , Polarization , Application Of Dielectrics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fbf3261-d6e9-4cba-9a4c-a2889ca29638.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 || Diamagnetic , Paramagnetic , Ferromagnetic , Ferrimagnetic Antiferromagnetic Materials , Superconductive Material & Their Application",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/0LsYW0LV81o",
+      "hd_video_url": "https://www.youtube.com/embed/0LsYW0LV81o",
+      "thumbnail": "https://i.ytimg.com/vi/0LsYW0LV81o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -7 || Diamagnetic , Paramagnetic , Ferromagnetic , Ferrimagnetic Antiferromagnetic Materials , Superconductive Material & Their Application",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ab9e381-e5d3-40f7-9334-87d01d83c94b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture -8 || Use Of 2D Materials & New Materials Used in 3D Printing",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/AbCXM1b3Yfw",
+      "hd_video_url": "https://www.youtube.com/embed/AbCXM1b3Yfw",
+      "thumbnail": "https://i.ytimg.com/vi/AbCXM1b3Yfw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -8 || Use Of 2D Materials & New Materials Used in 3D Printing",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/047220e3-ecb4-4302-96c8-6fb71742c4d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture -9 || Mimicking Nature , Biodegradable Polymers, Recyclable Composites , Sustainable Energy Materials",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/CQfVlhXsSSU",
+      "hd_video_url": "https://www.youtube.com/embed/CQfVlhXsSSU",
+      "thumbnail": "https://i.ytimg.com/vi/CQfVlhXsSSU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -9 || Mimicking Nature , Biodegradable Polymers, Recyclable Composites , Sustainable Energy Materials",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6af17a1a-7710-4ccc-aaea-3b95305af568.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture -10 || Quantum Phenomenon a7 Engineering Properties",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/S4kL5PolBSQ",
+      "hd_video_url": "https://www.youtube.com/embed/S4kL5PolBSQ",
+      "thumbnail": "https://i.ytimg.com/vi/S4kL5PolBSQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -10 || Quantum Phenomenon a7 Engineering Properties",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/213be66d-a9ee-42a7-91a4-d5993c269842.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

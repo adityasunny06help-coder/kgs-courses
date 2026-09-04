@@ -1,0 +1,45 @@
+{
+  "subject_name": "Sources",
+  "subject_id": 8064,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || INTRODUCTION OF SYLLABUS",
+      "published_date": "23 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/280973/kgss-1750679908-v280973.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Zdn36spC3x8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YnMvIGSowbIrLIdpsuDOCuIPK4ss4i9XaDEqet9U.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || SOURCES (PART -1)",
+      "published_date": "24 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/281739/kgss-1750766459-v281739.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Mb3S-2gzdFA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lUUiFfEUunAxlYyaaiz9G58izfYroYYJ2di5FAJx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || SOURCES (PART -2)",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/282442/kgss-1750852903-v282442.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/G32xxTgM5Cc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cwz14D7RYS9AjJiZyh997EbXiYDxtCLg1OJ4kLXG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || RELIGIONS TEXT",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/rhn0UjeYSug",
+      "hd_video_url": "https://www.youtube.com/embed/rhn0UjeYSug",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F5CCJebdGwHGiJQyq5M5huGzcCepbtjf7Fm1golJ.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

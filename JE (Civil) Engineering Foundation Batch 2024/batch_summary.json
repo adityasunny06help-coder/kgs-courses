@@ -1,0 +1,244 @@
+{
+  "batch_info": {
+    "title": "JE (Civil) Engineering Foundation Batch 2024",
+    "price": "999",
+    "id": "301",
+    "extracted_date": "2025-08-27T16:28:42.143539"
+  },
+  "subjects": [
+    {
+      "name": "Polity by Prabhu Sir",
+      "id": 4293,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Estimation and Costing by Apoorv Mittal Sir",
+      "id": 4996,
+      "video_count": 14,
+      "note_count": 14
+    },
+    {
+      "name": "Hydraulic Machinery by Amit Maurya Sir",
+      "id": 4231,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "Static GK by Shivam Tiwari Sir",
+      "id": 4274,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "Computer by Abhishek Sachan Sir",
+      "id": 4309,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Highway Engineering by Amanpreet Chadha Sir",
+      "id": 4432,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Arts & Culture by Anjali Ma'am",
+      "id": 4457,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Maths by Amit Sharma Sir (Recorded)",
+      "id": 4591,
+      "video_count": 63,
+      "note_count": 63
+    },
+    {
+      "name": "Hydrology by Apoorv Mittal Sir",
+      "id": 4617,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "Building Material by Aman Preet Chadha Sir",
+      "id": 4736,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Irrigation Engineering by Apoorv Mittal Sir",
+      "id": 4187,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Theory of Structure by Chadha Sir",
+      "id": 5064,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Railway Engineering by Apoorv Mittal Sir",
+      "id": 5251,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "Open Channel Flow by Chadha Sir",
+      "id": 5282,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "Construction Planning and Management By Apoorv Mittal Sir",
+      "id": 5306,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Basics of Environment and Pollution Control by Abhishek Sir",
+      "id": 5449,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Plastic Analysis by Apoorv Mittal Sir",
+      "id": 5641,
+      "video_count": 3,
+      "note_count": 3
+    },
+    {
+      "name": "AutoCAD by Apoorv Mittal Sir",
+      "id": 5654,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Ground Water Hydrology By Apoorv Mittal Sir",
+      "id": 5790,
+      "video_count": 3,
+      "note_count": 3
+    },
+    {
+      "name": "Workshop",
+      "id": 6141,
+      "video_count": 3,
+      "note_count": 1
+    },
+    {
+      "name": "Current Affairs by Yadvendra sir",
+      "id": 3986,
+      "video_count": 20,
+      "note_count": 20
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 3925,
+      "video_count": 1,
+      "note_count": 2
+    },
+    {
+      "name": "Physics by Deepa ma'am",
+      "id": 3914,
+      "video_count": 44,
+      "note_count": 44
+    },
+    {
+      "name": "Chemistry by Gyan Sir",
+      "id": 3800,
+      "video_count": 39,
+      "note_count": 39
+    },
+    {
+      "name": "Strength of Materials by Amanpreet Chadha Sir",
+      "id": 3799,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "Environmental Engineering by Apoorv Mittal Sir",
+      "id": 3314,
+      "video_count": 39,
+      "note_count": 39
+    },
+    {
+      "name": "Geotechnical Engineering by Chadha Sir",
+      "id": 3238,
+      "video_count": 34,
+      "note_count": 34
+    },
+    {
+      "name": "Engineering Mechanics by Chadha Sir",
+      "id": 3052,
+      "video_count": 11,
+      "note_count": 11
+    },
+    {
+      "name": "Reasoning by Kartik Sir",
+      "id": 2477,
+      "video_count": 55,
+      "note_count": 55
+    },
+    {
+      "name": "Reinforced Cement Concrete (RCC) by Chadha Sir",
+      "id": 2319,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "History by Anjali Ma'am",
+      "id": 2713,
+      "video_count": 27,
+      "note_count": 27
+    },
+    {
+      "name": "Survey by Apoorv Mittal Sir",
+      "id": 2320,
+      "video_count": 31,
+      "note_count": 31
+    },
+    {
+      "name": "Concrete Technology by Chadha Sir",
+      "id": 2802,
+      "video_count": 8,
+      "note_count": 8
+    },
+    {
+      "name": "Building Construction by Chadha Sir",
+      "id": 2857,
+      "video_count": 14,
+      "note_count": 14
+    },
+    {
+      "name": "Steel Structure by Apoorv Mittal",
+      "id": 2858,
+      "video_count": 33,
+      "note_count": 33
+    },
+    {
+      "name": "Fluid Mechanics by Amit Maurya Sir",
+      "id": 3171,
+      "video_count": 41,
+      "note_count": 41
+    },
+    {
+      "name": "Biology by Satpreet Ma'am",
+      "id": 3177,
+      "video_count": 47,
+      "note_count": 49
+    },
+    {
+      "name": "Mega Workshop",
+      "id": 3751,
+      "video_count": 6,
+      "note_count": 1
+    },
+    {
+      "name": "Geography by Abhishek Sir",
+      "id": 2978,
+      "video_count": 56,
+      "note_count": 56
+    }
+  ]
+}

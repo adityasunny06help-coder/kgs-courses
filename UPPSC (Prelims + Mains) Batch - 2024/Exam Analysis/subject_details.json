@@ -1,0 +1,36 @@
+{
+  "subject_name": "Exam Analysis",
+  "subject_id": 415,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "UPPSC Prelims 2023 Exam Analysis || Polity & UP Special || By Karan Sir",
+      "published_date": null,
+      "video_url": "https://www.youtube.com/embed/h4zDtCpPBto",
+      "hd_video_url": "https://www.youtube.com/embed/h4zDtCpPBto",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "UPPSC Prelims 2023 Exam Analysis || Geography || By Shubham Gupta Sir",
+      "published_date": null,
+      "video_url": "https://www.youtube.com/embed/mOC0P3NaCzY",
+      "hd_video_url": "https://www.youtube.com/embed/mOC0P3NaCzY",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "UPPSC Prelims 2023 Exam Analysis || Economics || By Dr. Bharat Sir",
+      "published_date": null,
+      "video_url": "https://www.youtube.com/embed/Es_V27eeR6w",
+      "hd_video_url": "https://www.youtube.com/embed/Es_V27eeR6w",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

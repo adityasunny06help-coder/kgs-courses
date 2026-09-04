@@ -1,0 +1,79 @@
+{
+  "subject_name": "Essay by Dharmendra Sir",
+  "subject_id": 5717,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Essay",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cKTaVnbzZjs",
+      "hd_video_url": "https://www.youtube.com/embed/cKTaVnbzZjs",
+      "thumbnail": "https://i.ytimg.com/vi/cKTaVnbzZjs/default.jpg",
+      "notes": [
+        {
+          "title": "l1-essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97405123-3943-4b44-aea5-825ab9153d89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Essay",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/-7FRsGjKEys",
+      "hd_video_url": "https://www.youtube.com/embed/-7FRsGjKEys",
+      "thumbnail": "https://i.ytimg.com/vi/-7FRsGjKEys/default.jpg",
+      "notes": [
+        {
+          "title": "l2-essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c418058-5a36-49df-8a1c-23bae408ea89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Essay",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ccHqSkJbHy0",
+      "hd_video_url": "https://www.youtube.com/embed/ccHqSkJbHy0",
+      "thumbnail": "https://i.ytimg.com/vi/ccHqSkJbHy0/default.jpg",
+      "notes": [
+        {
+          "title": "l3-essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3a82c88-4673-4895-88ff-dc719408ddf5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Essay",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/oesK-2ByAhE",
+      "hd_video_url": "https://www.youtube.com/embed/oesK-2ByAhE",
+      "thumbnail": "https://i.ytimg.com/vi/oesK-2ByAhE/default.jpg",
+      "notes": [
+        {
+          "title": "l4-essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60179e49-46de-43fd-8046-c83009091232.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Essay",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/SmCT3EvqU-g",
+      "hd_video_url": "https://www.youtube.com/embed/SmCT3EvqU-g",
+      "thumbnail": "https://i.ytimg.com/vi/SmCT3EvqU-g/default.jpg",
+      "notes": [
+        {
+          "title": "l5-essay",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50ef3b42-d01e-4f50-abe5-b6b86522bb3c.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

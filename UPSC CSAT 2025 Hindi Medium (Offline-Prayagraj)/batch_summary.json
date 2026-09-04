@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "UPSC CSAT 2025 Hindi Medium (Offline-Prayagraj)",
+    "price": "3500",
+    "id": "380",
+    "extracted_date": "2025-08-27T16:00:09.452588"
+  },
+  "subjects": [
+    {
+      "name": "CSAT by Sanjeev Tiwari Sir",
+      "id": 3080,
+      "video_count": 37,
+      "note_count": 36
+    },
+    {
+      "name": "CSAT Session by Neeraj Kukreja Sir",
+      "id": 3230,
+      "video_count": 43,
+      "note_count": 45
+    },
+    {
+      "name": "Hindi CSAT by Ajay Anurag Sir",
+      "id": 4479,
+      "video_count": 4,
+      "note_count": 3
+    }
+  ]
+}

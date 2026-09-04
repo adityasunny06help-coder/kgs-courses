@@ -1,0 +1,149 @@
+{
+  "subject_name": "Biology by Amrita mam",
+  "subject_id": 8254,
+  "video_count": 10,
+  "note_count": 10,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Introduction of Biology",
+      "published_date": "12 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/edRBpeM8CWU",
+      "hd_video_url": "https://www.youtube.com/embed/edRBpeM8CWU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 01 || Introduction of Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f69f9dbc-b300-4d69-88a7-6d21546f6c1d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Cell Biology",
+      "published_date": "13 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/90MnBBzE76k",
+      "hd_video_url": "https://www.youtube.com/embed/90MnBBzE76k",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 02 || Cell Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89730023-2a0f-41a9-a0ab-07a2266fdb0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Cell Biology",
+      "published_date": "14 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/np8wfv_Upi8",
+      "hd_video_url": "https://www.youtube.com/embed/np8wfv_Upi8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 03 || Cell Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a58a29de-df4c-4f28-ac48-04c6e7e5abac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Cell Biology",
+      "published_date": "16 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/xn_G60e-Xx8",
+      "hd_video_url": "https://www.youtube.com/embed/xn_G60e-Xx8",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 04 || Cell Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/459a2828-48b2-4eda-9d44-b4affb1635cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Cell Biology",
+      "published_date": "18 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/Vv6MvXiMXZA",
+      "hd_video_url": "https://www.youtube.com/embed/Vv6MvXiMXZA",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 05 || Cell Biology",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2be96cb2-1864-495f-9a13-37a6817bf0b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Nutrition and Vitamins",
+      "published_date": "19 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/hvsfWSyXZWg",
+      "hd_video_url": "https://www.youtube.com/embed/hvsfWSyXZWg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 06 || Nutrition and Vitamins",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d905122-ebcb-4f0c-aeaf-82c59ad986dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Digestive System",
+      "published_date": "21 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/jMZ6xisjlUg",
+      "hd_video_url": "https://www.youtube.com/embed/jMZ6xisjlUg",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 07 || Digestive System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd57e070-3408-48a1-9dbc-dfcff82a957e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Digestive System",
+      "published_date": "22 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/nIB8Z24t3dU",
+      "hd_video_url": "https://www.youtube.com/embed/nIB8Z24t3dU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 08 || Digestive System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae6b46b1-93fc-4fbc-bcf8-51c671bdc472.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Digestive System",
+      "published_date": "23 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/tyY7Dv2S90Q",
+      "hd_video_url": "https://www.youtube.com/embed/tyY7Dv2S90Q",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 09 || Digestive System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f06b838-a02f-4a86-9a67-ab464673512d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Digestive System",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/B9TzprYJ4io",
+      "hd_video_url": "https://www.youtube.com/embed/B9TzprYJ4io",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Lecture 10 || Digestive System",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5381ddef-8e8a-4efc-8ec1-9ada621d3315.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

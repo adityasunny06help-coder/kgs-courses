@@ -1,0 +1,256 @@
+{
+  "subject_name": "Science by Sumit Sir",
+  "subject_id": 3597,
+  "video_count": 18,
+  "note_count": 17,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। Colour, Light, Magnetism and Thermodynamics ।। रंग, प्रकाश, चुंबकत्व और ऊष्मागतिकी",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/9DktyV4YY6Q",
+      "hd_video_url": "https://www.youtube.com/embed/9DktyV4YY6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d853219e.jpg",
+      "notes": [
+        {
+          "title": "Colour, Light, Magnetism and Thermodynamics ।। रंग, प्रकाश, चुंबकत्व और ऊष्मागतिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/625ad126-6aa8-4e4f-b853-d9f3e9b9a453.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ।। Optics, Sound and Wave ।। प्रकाशिकी, ध्वनि  और तरंग",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qqXcjI9GFlU",
+      "hd_video_url": "https://www.youtube.com/embed/qqXcjI9GFlU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Tj4xHDvEz0hE4sOSvtkJwJqaVD3nmPZ4908doUfs.jpg",
+      "notes": [
+        {
+          "title": "Optics, Sound and Wave ।। प्रकाशिकी, ध्वनि  और तरंग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/defa1a19-f801-4788-a69e-548ebe1ad9b2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ।। Electricity, Spectrum and States of Matter ।। विद्युत, स्पेक्ट्रम और पदार्थ की अवस्थाएँ",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/XTD8wfPHO9E",
+      "hd_video_url": "https://www.youtube.com/embed/XTD8wfPHO9E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d83e387d.jpg",
+      "notes": [
+        {
+          "title": "Electricity, Spectrum and States of Matter ।। विद्युत, स्पेक्ट्रम और पदार्थ की अवस्थाएँ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e43070f-c072-4d43-a3cd-ef2bcfa80466.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ।। Mechanics, Energy and Electronics ।। यांत्रिकी, ऊर्जा और इलेक्ट्रॉनिक्स",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/w_ORJImDGrs",
+      "hd_video_url": "https://www.youtube.com/embed/w_ORJImDGrs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d82ef251.jpg",
+      "notes": [
+        {
+          "title": "Mechanics, Energy and Electronics ।। यांत्रिकी, ऊर्जा और इलेक्ट्रॉनिक्स",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d70f029-59ef-4f6f-b58a-f8e02438ba8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ।। Mechanics and Nuclear Physics ।। यांत्रिकी और परमाणु भौतिकी",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/EL7XyKhyvTg",
+      "hd_video_url": "https://www.youtube.com/embed/EL7XyKhyvTg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d81c532a.jpg",
+      "notes": [
+        {
+          "title": "Mechanics and Nuclear Physics ।। यांत्रिकी और परमाणु भौतिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e64932a-15f0-404a-b3c3-14d77fcc1898.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 ।। Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-1)",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ktA1NR1NGME",
+      "hd_video_url": "https://www.youtube.com/embed/ktA1NR1NGME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d80cda2b.jpg",
+      "notes": [
+        {
+          "title": "Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5450531d-d756-45e5-9e4b-a9f83077882b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 ।। Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-2)",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/psuZbgL7SoM",
+      "hd_video_url": "https://www.youtube.com/embed/psuZbgL7SoM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7fd7474.jpg",
+      "notes": [
+        {
+          "title": "Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5463d51-34e2-40a3-958d-4b94eca0baba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 ।। Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-3)",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/fFRodQJlQqQ",
+      "hd_video_url": "https://www.youtube.com/embed/fFRodQJlQqQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7ee25e7.jpg",
+      "notes": [
+        {
+          "title": "Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a7b950d-916e-4986-bc2f-1ca7c221608f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 ।। Organic Chemistry ।। कार्बनिक रसायन विज्ञान (Part-4)",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/D3a6R2UjqJU",
+      "hd_video_url": "https://www.youtube.com/embed/D3a6R2UjqJU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7df059f.jpg",
+      "notes": [
+        {
+          "title": "Lecture-09 & Lecture-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/389cbbe8-c756-4881-963b-b16a4392f5f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 ।। Physical Chemistry ।। भौतिक रसायन",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/1eXa5dH4bF8",
+      "hd_video_url": "https://www.youtube.com/embed/1eXa5dH4bF8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7tsv2kgOxo67nsPCzRoFFxd7exXjbKTbkT5liTeh.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ।। Cell ।। कोशिका (Part-1)",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/l-5GsHpgyBI",
+      "hd_video_url": "https://www.youtube.com/embed/l-5GsHpgyBI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7ccb85a.jpg",
+      "notes": [
+        {
+          "title": "Cell ।। कोशिका",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df209a77-4346-4ed1-b323-78d063d556d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 ।। Cell ।। कोशिका (Part-2)",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qYG5qxKT9Lo",
+      "hd_video_url": "https://www.youtube.com/embed/qYG5qxKT9Lo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7bb0950.jpg",
+      "notes": [
+        {
+          "title": "Cell ।। कोशिका (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa0a1526-c4d3-4ee7-96fe-78c3b0783316.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 ।। Cells and Tissues ।। कोशिकाएं और ऊतक",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/z__9F0jBSsE",
+      "hd_video_url": "https://www.youtube.com/embed/z__9F0jBSsE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u8UEo1qyTqg7tdrYZlWInQwvFx6qLgEsZYb4ChTn.jpg",
+      "notes": [
+        {
+          "title": "Cells and Tissues ।। कोशिकाएं और ऊतक",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b88b4c8-4033-4ac6-bc6d-80deafbacf10.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ।। Human Health and Nutrition ।। मानव स्वास्थ्य और पोषण",
+      "published_date": "29 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/iB_UoI5SkFc",
+      "hd_video_url": "https://www.youtube.com/embed/iB_UoI5SkFc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d7a85725.jpg",
+      "notes": [
+        {
+          "title": "Lecture-14 ।। Human Health and Nutrition ।। मानव स्वास्थ्य और पोषण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/548c399b-10da-4f7b-82f6-d5431c9cb232.09"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ।। Blood Circulatory System and Respiratory System ।।रक्त परिसंचरण तंत्र और श्वसन तंत्र",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/fJDrnhSXlBE",
+      "hd_video_url": "https://www.youtube.com/embed/fJDrnhSXlBE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SJSuYps0DFJfBh9Hecktvieto4QTHzvyAEGZY4Dd.jpg",
+      "notes": [
+        {
+          "title": "Blood Circulatory System and Respiratory System ।।रक्त परिसंचरण तंत्र और श्वसन तंत्र",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e32182cd-13b3-4790-9e40-17275c6f7010.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ।। Digestive System, Excretory System and Plant Kingdom ।। पाचन तंत्र, उत्सर्जन तंत्र और वनस्पति जगत",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Dt5nG-K4Q0c",
+      "hd_video_url": "https://www.youtube.com/embed/Dt5nG-K4Q0c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d78ed1c5.jpg",
+      "notes": [
+        {
+          "title": "Digestive System, Excretory System and Plant Kingdom ।। पाचन तंत्र, उत्सर्जन तंत्र और वनस्पति जगत",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/767a35a4-eec8-4bd3-a33e-ffa4d0d7cbac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 ।। Human Disease ।। मानव रोग",
+      "published_date": "02 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/M2LdyOqAPSc",
+      "hd_video_url": "https://www.youtube.com/embed/M2LdyOqAPSc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68538d75e4c7d.jpg",
+      "notes": [
+        {
+          "title": "Human Disease ।। मानव रोग",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9663090-be5d-4c97-b773-2b3978e38952.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 ।। Science and Technology ।। विज्ञान और प्रौद्योगिकी",
+      "published_date": "02 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/RSDkdcO6_oU",
+      "hd_video_url": "https://www.youtube.com/embed/RSDkdcO6_oU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/97z450lQ3vnUHcG2Ai2CXNso8HCv3A4FXZGrsavr.jpg",
+      "notes": [
+        {
+          "title": "Science and Technology ।। विज्ञान और प्रौद्योगिकी",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52f8037e-b33b-431b-9acb-3562b8781edf.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "subject_name": "Introduction Section",
+  "subject_id": 4787,
+  "video_count": 4,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Khan Sir से सुनो Kota का हाल | NEET Aspirants | Khan Sir Patna | NEET 2025",
+      "published_date": "10 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/FdCsYJcY95g",
+      "hd_video_url": "https://www.youtube.com/embed/FdCsYJcY95g",
+      "thumbnail": "https://i.ytimg.com/vi/FdCsYJcY95g/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "JEE 2026 Students Orientation Session",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gEfDH4Faa0s",
+      "hd_video_url": "https://www.youtube.com/embed/gEfDH4Faa0s",
+      "thumbnail": "https://i.ytimg.com/vi/gEfDH4Faa0s/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Complete KGS App Use Guide",
+      "published_date": "16 May 2025",
+      "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "KGS Mein Admission Kaise Lein? Step-by-Step Complete Guide",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "hd_video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+      "thumbnail": null,
+      "notes": []
+    }
+  ],
+  "notes": []
+}

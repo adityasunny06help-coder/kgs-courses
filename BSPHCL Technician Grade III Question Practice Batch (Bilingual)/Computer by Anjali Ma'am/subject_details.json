@@ -1,0 +1,498 @@
+{
+  "subject_name": "Computer by Anjali Ma'am",
+  "subject_id": 7370,
+  "video_count": 35,
+  "note_count": 35,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || History of Computer",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/D6-AvPYlQgQ",
+      "hd_video_url": "https://www.youtube.com/embed/D6-AvPYlQgQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/AQBmDuDHnSMBysULygCoLLwAHswYatGvdknUDDY6.png",
+      "notes": [
+        {
+          "title": "Lecture-01 || History of Computer",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/571a0e62-3a80-457c-82ef-060eed5ce604.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Input Devices",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/t5Ouy8VS4CQ",
+      "hd_video_url": "https://www.youtube.com/embed/t5Ouy8VS4CQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/EhnlQXdofakvzIjwW0o9pcMZlhM8zkhoZKVNdgPr.png",
+      "notes": [
+        {
+          "title": "Lecture-02 || Input Devices",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/119a411e-47f4-4522-95a2-767c43b458df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Output Devices",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/KiG-AFe-M_M",
+      "hd_video_url": "https://www.youtube.com/embed/KiG-AFe-M_M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4XO16xKgy3stbHHFW3wUMymSu5jpWQPeSIm3uCxV.png",
+      "notes": [
+        {
+          "title": "Lecture-03 || Output Devices",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/603c8025-c42d-471f-8712-3a4a0a90f300.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Software (part-1)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/HPRDp3B59_0",
+      "hd_video_url": "https://www.youtube.com/embed/HPRDp3B59_0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/9YDNBrB65HUlHGZA41DeVYObyCYjatk16h0PonYl.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Software (part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a00529a9-f208-40d2-9ee4-bca10f3c8a72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Software (part-2)",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/w63Hjp-NfzA",
+      "hd_video_url": "https://www.youtube.com/embed/w63Hjp-NfzA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/L7myAODgf7ApjtvkUGNRsJ0s06FQi6of5wTQcRWO.png",
+      "notes": [
+        {
+          "title": "Software (part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6e4c451f-b950-4064-852e-929c1a1c4129.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || CPU/memory",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/BkhY4jVO_AE",
+      "hd_video_url": "https://www.youtube.com/embed/BkhY4jVO_AE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/bPG4u5bKdXFZreii5lhPUssb9FN7lje0f4Tf8yzP.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || CPU/memory",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/7a26e0c7-1fc6-473e-94dc-9825857311ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || Classification of Computer (Part-1)",
+      "published_date": "01 May 2024",
+      "video_url": "https://www.youtube.com/embed/J-RGi9BJNbc",
+      "hd_video_url": "https://www.youtube.com/embed/J-RGi9BJNbc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/hcMTDsoN2ZorX9xJJ7gfkc45CpUV5hiCVpgyh7MG.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Classification of Computer (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/bf399dec-56b3-4468-9aad-6673560ee4cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || Classification of Computer (Part-2)",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/12ADI4OA-EU",
+      "hd_video_url": "https://www.youtube.com/embed/12ADI4OA-EU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3ls4YhBcqJyk4QPKw4eqTf6hwquOAbt2899wtavx.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Classification of Computer (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/273ea5fb-311a-4989-8cd3-8ca7279fec58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Data Base Management System(DBMS) (Part-1)",
+      "published_date": "03 May 2024",
+      "video_url": "https://www.youtube.com/embed/nnbOmyCB7I4",
+      "hd_video_url": "https://www.youtube.com/embed/nnbOmyCB7I4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ChSNUEmeXAfD6LChwuRg0p3kTE9Xn2p00FrlHwy5.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Data Base Management System(DBMS) (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c2d9ef5b-3354-48bc-b2f6-7c6fd1cd38fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Data Base Management System(DBMS) (Part-2)",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/oeW21HoKHMQ",
+      "hd_video_url": "https://www.youtube.com/embed/oeW21HoKHMQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/T4u7WjpVaH0ekV5ly8WpI0HsbpdKJrJ0jInxdqxf.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Data Base Management System(DBMS) (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/10ff406f-41d3-4df1-a615-f17920b41830.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Data Base Management System(DBMS) (Part-3)",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/S32yxnONfCw",
+      "hd_video_url": "https://www.youtube.com/embed/S32yxnONfCw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ScBdpXRa9oLFykUHUCIXe0PF4r3S5BBaY9sd95lt.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Data Base Management System(DBMS) (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b622cea9-16d7-4a2c-9800-6f0f49250e28.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 || operating system",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/WQaHeRq9YUo",
+      "hd_video_url": "https://www.youtube.com/embed/WQaHeRq9YUo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/n42J67WXV1J4A40YsxUbkM88riABzB11eSMFIHj2.png",
+      "notes": [
+        {
+          "title": "Lecture-12 || operating system",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/2bd86cc4-d83d-4031-b060-e5a37fdba348.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 || COMPUTER NETWORK (Part-1)",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/IELEl_Ipjb4",
+      "hd_video_url": "https://www.youtube.com/embed/IELEl_Ipjb4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/U9EFwHZrTJR81m8W11K7BFlZe2VQu25qP7JrFQMW.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || COMPUTER NETWORK (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/909c9f02-b8ca-45ee-b8cd-9c2083bd0f47.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 || COMPUTER NETWORK (Part-2)",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/5-IBJinGEv4",
+      "hd_video_url": "https://www.youtube.com/embed/5-IBJinGEv4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/sbHB5quxv5mlGYd3c96l8hCdNoBUFtgIsYsxdotM.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || COMPUTER NETWORK (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/ade018f9-c09d-45bf-a220-e75dd6e796bd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 || INTERNET (Part-1)",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/p5EkRgYT8Uo",
+      "hd_video_url": "https://www.youtube.com/embed/p5EkRgYT8Uo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/tfHZwv0Qrg0uzCNhdOCnQAGBC1uJTkBkblAnOtFK.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || INTERNET (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/05454e75-635f-487f-b137-1654a9a54c89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 || INTERNET (Part-2)",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/0kNrsO_DAiM",
+      "hd_video_url": "https://www.youtube.com/embed/0kNrsO_DAiM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3siajtdxeXkCwppy4Nzzl9XhnisU0fwaEtqsJjgY.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || INTERNET (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/638ac84c-0f31-4de6-bc17-4e50f31b9a0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 || INTERNET (Part-3)",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/US6dA_j1fgM",
+      "hd_video_url": "https://www.youtube.com/embed/US6dA_j1fgM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/UVRdlDqkV4OXcMhDqGVhEqK0tqpKyav7yZ5nFkht.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || INTERNET (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d24b8d01-9025-43ce-af7f-d6e993a6ff04.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 || INTERNET (Part-4)",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/f2gm9kaswt4",
+      "hd_video_url": "https://www.youtube.com/embed/f2gm9kaswt4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/nODftr6HTR0z7iyNiN1n8dQtPWZZCBBnmh95sQHt.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || INTERNET (Part-4)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6250de28-b623-4729-98bd-c5acf48d54e7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 || E Mail",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/DqpmTJbjWQk",
+      "hd_video_url": "https://www.youtube.com/embed/DqpmTJbjWQk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/J0p9oDAhQzHAqqNMNaSm4p8lJWkzi1hQlV5bumTo.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || E Mail",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0a6afd10-5f09-4b9c-af60-75460603a9e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 || OSI MODEL",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/43WLAp5V9MQ",
+      "hd_video_url": "https://www.youtube.com/embed/43WLAp5V9MQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/YlcODkBVSjpinIu0uvrBVAf6XH4MiqHZMSOxJeyo.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || OSI MODEL",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/112e7b16-cdd3-439c-bbd7-6b0dd568c8c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 || computer virus",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/pwpw5DENBcw",
+      "hd_video_url": "https://www.youtube.com/embed/pwpw5DENBcw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/s8mhwUPQi3WynkyxblDRQNkYCKgq0V9K10C3x53M.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || computer virus",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/262e1919-d9a6-43f0-bf0b-bb21b0231235.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 || MS word (Part-1)",
+      "published_date": "28 May 2024",
+      "video_url": "https://www.youtube.com/embed/HHeh2mcPW4Y",
+      "hd_video_url": "https://www.youtube.com/embed/HHeh2mcPW4Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/VsJWAHb0fyQ4LHAm2uronomJllHaa2ERAIp1iaKm.png",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 || MS word (Part-2)",
+      "published_date": "29 May 2024",
+      "video_url": "https://www.youtube.com/embed/cO2jY_8sQqg",
+      "hd_video_url": "https://www.youtube.com/embed/cO2jY_8sQqg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/kIcD6WdVJS23wBrcBnNHosxVgBM5vnvI8zRvuWBg.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || MS word (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/a98a46e9-d41c-402e-aa4c-7f350a2b1c9d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 || MS word (Part-3)",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/vptxelRwVbk",
+      "hd_video_url": "https://www.youtube.com/embed/vptxelRwVbk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/hjyEGewed4Z2rOcVYU69yvUUfWbYL3rh0SmELbQl.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || MS word (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/0e3f37ea-f997-47d6-8d60-2d697942d2df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 || MS word (MCQ)",
+      "published_date": "31 May 2024",
+      "video_url": "https://www.youtube.com/embed/S8kuVg1zuRc",
+      "hd_video_url": "https://www.youtube.com/embed/S8kuVg1zuRc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/3brK8InALWIs9ITneg1b00tiNB7OFzKFDcqtbDlU.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || MS word (MCQ)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/225bc76b-00d5-4cd5-a422-f0cce64f80c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 || MS Power Point (Part-1)",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/FB1ZlGForFI",
+      "hd_video_url": "https://www.youtube.com/embed/FB1ZlGForFI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cvCuY7XVR0JIKHOQVL3iF04d4KfNbGKSUV10O90t.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || MS Power Point (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6e7372f-0589-4725-b4ce-4b8ba6c01b68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 || MS Power Point (Part-2)",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/7dLg1vaAEVY",
+      "hd_video_url": "https://www.youtube.com/embed/7dLg1vaAEVY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-27 || MS Power Point (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25d25f95-fd7c-4b5e-a3d4-dd3568d18cd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 || MS Power Point MCQ",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/y-onTPqdfdc",
+      "hd_video_url": "https://www.youtube.com/embed/y-onTPqdfdc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-28 || MS Power Point MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01fec848-96f5-4253-8dbe-0df40f1284e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 || MS Excel (Part-1)",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/rzuQeI0_fPc",
+      "hd_video_url": "https://www.youtube.com/embed/rzuQeI0_fPc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-29 || MS Excel (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/998ef604-8fe1-414a-b395-61110b248c3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 || MS Excel (Part-2)",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/L7BC-vmCkBM",
+      "hd_video_url": "https://www.youtube.com/embed/L7BC-vmCkBM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-30 || MS Excel (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/376823e3-80fd-4d65-8790-f6a1f64bbd36.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 || Excel MCQ",
+      "published_date": "10 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/9JO79nnj3Jg",
+      "hd_video_url": "https://www.youtube.com/embed/9JO79nnj3Jg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-31 || Excel MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd1138e1-2097-4958-b548-80b9b6df4051.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 || E-Governance & AI E-Commerce",
+      "published_date": "11 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/dRK4rOeOUDY",
+      "hd_video_url": "https://www.youtube.com/embed/dRK4rOeOUDY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-32 || E-Governance & AI E-Commerce",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a2ec11a-1948-4e34-b764-23c75d9cd392.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 ||  AI MCQ",
+      "published_date": "12 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/8Xt_TNIQPzM",
+      "hd_video_url": "https://www.youtube.com/embed/8Xt_TNIQPzM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-33 ||  AI MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec8f0eed-9536-4fe1-a528-610269137d49.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 || Cyber Security + MCQ",
+      "published_date": "14 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/K2L-vg32mUU",
+      "hd_video_url": "https://www.youtube.com/embed/K2L-vg32mUU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-34 || Cyber Security + MCQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18ecbbba-bab8-4802-abf8-a0085f074c58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 || MCQ  + PYQ",
+      "published_date": "15 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/wfYIPSqIO1o",
+      "hd_video_url": "https://www.youtube.com/embed/wfYIPSqIO1o",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-35 || MCQ  + PYQ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0241f1c9-b3cf-457f-a00a-08d5f1cb3c39.pdf"
+        },
+        {
+          "title": "BSPHCL Previous Year Computer Questions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3bab9741-cb2d-4a23-abcd-4e2affe66c2e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,102 @@
+{
+  "subject_name": "Chemistry By Sushant Gupta (JCSG Sir)",
+  "subject_id": 2280,
+  "video_count": 7,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -1 || Basic Chemistry -1",
+      "published_date": "02 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/r6sRSzn0Odg",
+      "hd_video_url": "https://www.youtube.com/embed/r6sRSzn0Odg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/mufR4MnXugMnNMxk3X66enV15y8MPpbYxNtEp84e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -2 || Basic Chemistry -2",
+      "published_date": "03 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/pKKuR3-a1Wc",
+      "hd_video_url": "https://www.youtube.com/embed/pKKuR3-a1Wc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/mX5WslsgM6kSeP3e697DpkgawgKi8R8XcvcR4lbn.jpg",
+      "notes": [
+        {
+          "title": "Lecture -2 || Basic Chemistry -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/28053d12-ec82-4d60-b2f8-8cb0e55dd218.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -3 || Basic Chemistry -3",
+      "published_date": "04 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/hgnVo7eaZkQ",
+      "hd_video_url": "https://www.youtube.com/embed/hgnVo7eaZkQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -3 || Basic Chemistry -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44716516-4162-4dce-8b83-befe6a440756.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture -4 || Basic Chemistry -4",
+      "published_date": "05 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/aV4WQh8fhe4",
+      "hd_video_url": "https://www.youtube.com/embed/aV4WQh8fhe4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -4 || Basic Chemistry -4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9808da3-2199-4db8-aff3-b5ba055cfd8a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture -5 || Basic Chemistry -5",
+      "published_date": "06 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/ChCsMusQSAU",
+      "hd_video_url": "https://www.youtube.com/embed/ChCsMusQSAU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -5 || Basic Chemistry -5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b6e1718-15a3-4dc3-aadc-d2f7c27d5cd8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture -6 || Basic Chemistry -6",
+      "published_date": "07 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/aZbALEgfe-g",
+      "hd_video_url": "https://www.youtube.com/embed/aZbALEgfe-g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -6 || Basic Chemistry -6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a7a86f0-4b8d-4189-90c9-f71f932fba9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture -7 || Basic Chemistry -7",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/9wiYVyusqBQ",
+      "hd_video_url": "https://www.youtube.com/embed/9wiYVyusqBQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -7 || Basic Chemistry -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da3fd5d9-1f36-4c82-9a98-976f5d73709a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

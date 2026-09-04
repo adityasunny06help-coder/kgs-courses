@@ -1,0 +1,76 @@
+{
+  "batch_info": {
+    "title": "NDA-01 2025 Target Batch (Dehradun Offline)",
+    "price": "25000",
+    "id": "398",
+    "extracted_date": "2025-08-27T15:46:35.037603"
+  },
+  "subjects": [
+    {
+      "name": "SSB Guidance",
+      "id": 4170,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 3617,
+      "video_count": 91,
+      "note_count": 90
+    },
+    {
+      "name": "Maths by Vipin Sir",
+      "id": 3619,
+      "video_count": 119,
+      "note_count": 118
+    },
+    {
+      "name": "English by Ruchir sir",
+      "id": 3620,
+      "video_count": 97,
+      "note_count": 89
+    },
+    {
+      "name": "History Practice by Amarendra Sir",
+      "id": 5592,
+      "video_count": 17,
+      "note_count": 16
+    },
+    {
+      "name": "GS by Vishal Kumar sir",
+      "id": 3621,
+      "video_count": 92,
+      "note_count": 90
+    },
+    {
+      "name": "Geography by Ashish Sir",
+      "id": 4357,
+      "video_count": 54,
+      "note_count": 50
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 4421,
+      "video_count": 17,
+      "note_count": 17
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 4606,
+      "video_count": 44,
+      "note_count": 43
+    },
+    {
+      "name": "Biology by Amrita mam",
+      "id": 4767,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "NDA TEST-01",
+      "id": 5151,
+      "video_count": 13,
+      "note_count": 37
+    }
+  ]
+}

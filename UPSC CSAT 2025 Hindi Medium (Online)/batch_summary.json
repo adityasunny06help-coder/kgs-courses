@@ -1,0 +1,28 @@
+{
+  "batch_info": {
+    "title": "UPSC CSAT 2025 Hindi Medium (Online)",
+    "price": "1599",
+    "id": "379",
+    "extracted_date": "2025-08-27T16:00:20.328715"
+  },
+  "subjects": [
+    {
+      "name": "CSAT by Sanjeev Tiwari Sir",
+      "id": 3083,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "CSAT Session by Neeraj Kukreja Sir",
+      "id": 3211,
+      "video_count": 38,
+      "note_count": 40
+    },
+    {
+      "name": "Hindi CSAT by Ajay Anurag Sir",
+      "id": 4480,
+      "video_count": 4,
+      "note_count": 3
+    }
+  ]
+}

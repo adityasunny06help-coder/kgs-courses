@@ -1,0 +1,51 @@
+{
+  "subject_name": "Test Paper And Solution",
+  "subject_id": 6967,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Unit Test - 1 Physics Question Video Solution - 1",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/A9ARp0bEEkU",
+      "hd_video_url": "https://www.youtube.com/embed/A9ARp0bEEkU",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Class Notes Unit Test - 1 Physics Question Video Solution - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f25bb53-e874-4f04-a5d0-9f88e7dce675.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Unit Test - 1 Chemistry Question Video Solution - 2",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/0xvOqf48L3M",
+      "hd_video_url": "https://www.youtube.com/embed/0xvOqf48L3M",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Class Notes Unit Test - 1 Chemistry Question Video Solution - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9f67ad0-7582-487b-b712-bf08cd57425f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Unit Test - 1 Math Question Video Solution - 3",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/4lofc6SuSoo",
+      "hd_video_url": "https://www.youtube.com/embed/4lofc6SuSoo",
+      "thumbnail": null,
+      "notes": [
+        {
+          "title": "Class Notes Unit Test - 1 Math Question Video Solution - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b407cb3e-fe5b-49b7-973a-4ab55f6f4fcc.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

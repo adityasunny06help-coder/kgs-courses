@@ -1,0 +1,46 @@
+{
+  "subject_name": "Current Affairs By Arya Ma'am",
+  "subject_id": 8408,
+  "video_count": 3,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || June 2025 (Part-1)",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/gA28RUiSsHA",
+      "hd_video_url": "https://www.youtube.com/embed/gA28RUiSsHA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bICG3aWfKJKWEhmEZrE3Lis2HXOcaUVcdDHKmZXU.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Current Affairs",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e3bd433-8749-48bf-bdfb-59e7285151fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || June 2025 (Part-2)",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/n5VzDUUQihM",
+      "hd_video_url": "https://www.youtube.com/embed/n5VzDUUQihM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/R3REPkT8aQEnWyViUchQrH62WFbDlroH7T0ICujx.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || June 2025 (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1470086a-8846-4d86-ad78-b37761fd39dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || June 2025 (Part-3)",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MnU1xiqldIKHhCjQiA1Rt2JHr1hK9xgUWr7kmUa9.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,432 @@
+{
+  "subject_name": "Indian Polity by Rajesh Mishra Sir",
+  "subject_id": 5568,
+  "video_count": 47,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || सरकार ; विधायिका , कार्यपालिका , न्यायपालिका",
+      "published_date": "06 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/207098/kgss-1741252236-v207098.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/boM2RdHkM_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YgnfBvKIWEgb3Fys7Uzs1pDH37xhU2kHWYXRws7D.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || संविधानवाद",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208106/kgss-1741338538-v208106.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EGtQkQi94R0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TQygWASiFuor3ARrhdoaLKxICBfSU25Pg0qLftiw.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || संविधान की उद्देशिका",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/208683/kgss-1741424579-v208683.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HBKZeV_dWCU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/y6Sqn22zl80nmE5M2evZf5e9jeunHsZ2EANh3IeT.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || आजादी की परिभाषा",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/210423/kgss-1741597572-v210423.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VsAGdQcD9jA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VCjSZbfYy3v8QDnhXx5aXzFiUEwE0nlfq8YrNi3r.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || समानता का अधिकार",
+      "published_date": "17 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/211012/kgss-1742203345-v211012.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-Zkyh-xvvFM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DVtECHycqtQiTDYAgrMCG3CrS3Yu5RHfGAWbtrg0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || विधि के समक्ष समानता , विधियों का समान संरक्षण",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212385/kgss-1742289515-v212385.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XY0xczBielw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v8qKvnqc3dhXJCeHPf0n02jY1cHsL2w8oJwimF9P.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || अनुच्छेद-16 , EWS आरक्षण",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/212866/kgss-1742375571-v212866.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DIDtpvEqP4Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9FK8LtabC4a1sMjNFtEqfYEDfvHZKtdiGrhKISra.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || पदोन्नति में आरक्षण , नागराजन केस , जरनैल सिंह केस",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213285/kgss-1742461939-v213285.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/K630vvefO1Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/52baGWa5buc40znCzJOl4YkrEvQG7UpF6419oQhb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || अनुच्छेद -18 उपाधियों पर प्रतिबंध",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/213827/kgss-1742549840-v213827.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/amfUuMbatZk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/WfkrYFmSKQcHDmd4LOqgzBFDZAXyX44V5OFtlg0G.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || अनुच्छेद -19",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/216488/kgss-1742807445-v216488.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Vvm5r2KSvZY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GgG9wS71Khvhokze637FYu97Vwm3R7eVYTfMlNo1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || अनुच्छेद -21 , जीवन एवं दैहिक स्वतंत्रता",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/217848/kgss-1742894578-v217848.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/odmpy6EakuY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ph8VJ7vqnHHCLo9R4tbDZispIH3RT9jFSSG7SqMc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || विधि की उचित प्रक्रिया , प्राकृतिक न्याय",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218340/kgss-1742981254-v218340.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kN01Yle90Gc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/P1SfrlaHc3IyH00zLAZZYWAACyYcgxmGkE9oq7To.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || अनुच्छेद -22 , MISA , TADA , POTA",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/218922/kgss-1743067247-v218922.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/svZM_F8vzFM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aJFLNEvy68BR8ijIUAqNITIebwwjtRxRXnrRJbCR.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || धार्मिक स्वतंत्रता का अधिकार-1",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/219394/kgss-1743499153-v219394.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iPOec375fNs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MCKzKacT7r5059UIZbx1BOV9LATcToFmsqwwT8qO.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || धार्मिक स्वतंत्रता का अधिकार-2",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/220753/kgss-1743585933-v220753.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cogpZqnarH4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3VJCk6uVU6uMtCjbNRHgbjuYVlLHrHsHrRFWMpOP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || अल्पसंख्यक का अभिप्राय , संपत्ति का अधिकार",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221315/kgss-1743672428-v221315.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/C3cn41Z2R0M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/JbPUbS7FG9e481YnI4R0z8yDY392Go4IJe57wzZ3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || अनुच्छेद 32 संवेधनिक उपचारों का अधिकार",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/221795/kgss-1743758809-v221795.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g3GaW2UjN2w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/n8piBud3Ad3OY2qNWshlAil7D93X3MrcaZzxt53o.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || बंदी प्रत्यक्षीकरण, निवारक नजरबंदी",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223039/kgss-1744105512-v223039.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NmCx_sht4OU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tINozUWPuRAgr7ypmlpU53J2UGISUmLT2cDEBUe7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || अनुच्छेद - 33, 34, मार्शल लॉ",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/223936/kgss-1744191052-v223936.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/DUOv5yhIYl0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/C7GH2LEJx3O0QjzdDXytzoZuDwtp4AkxlDTNx7J1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || अनुच्छेद - 39, 45,46",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/7ih2CP1plAo",
+      "hd_video_url": "https://www.youtube.com/embed/7ih2CP1plAo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fATSw6OUtZof7IMGoibZ6xtNzm2hzJf04J2qsQXb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || मौलिक अधिकार और DPSP मे तुलना",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/225668/kgss-1744364183-v225668.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/boC41BgO8yU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oANV9FHr6r5KoMosyjIOLbRT516sSt7D8sfuybOb.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || मौलिक कर्तव्य - स्वर्ण सिंह कमिटी",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/226708/kgss-1744448768-v226708.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6NR0OFvGq5E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Zj1Zj8T7a6k3HtyCMlEFR2JGWyKInYovX2zOHH0c.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || सांसद , प्रधानमंत्री , राष्ट्रपति",
+      "published_date": "15 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227074/kgss-1744709850-v227074.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_QuxJwR1TLE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wYQ8W6URdcxSpFXVEMhugZwtzbKztwHeAAAimBR4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || भारतीय व अमरीकी संसद",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/227943/kgss-1744795892-v227943.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EvYe2cJ0TKI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gYg4DZP9Y8IJBslSzm2MwMITbxrVtvoheRNoePcI.jpg",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || कार्यपालिका",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/228548/kgss-1744880323-v228548.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/SFpAzM5dc_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OVhGQN9Clr4koijdhsNoZAM0dLqnWOGlR2LP3FdH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || राज्यसभा , विधानसभा मतदान",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229382/kgss-1744968986-v229382.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WQjLkQRO7RU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QMO5NW71twmRzQ3JUjcic3QxkVBmZMtA063BVOU2.jpg",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || संसद के कार्य",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/229714/kgss-1745055209-v229714.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uPel_fVJdFs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m0jNZHMEOZJMLCq64YpT8VEiZiCoYTuCs2T7DcM3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || संचित निधि , लोक लेखा समिति",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230266/kgss-1745228402-v230266.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/PLAS7fAKp9o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/b8Zdwca7kLiMjKGFwDPOcmhS0sGhQZpdK0mIhfOa.jpg",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || संसदीय विशेषाधिकार",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/230639/kgss-1745313999-v230639.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/F6iKedt4UVw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cO6UlYL1hJ6cMZYVdkVmQZp1t3SXl04QrHurByCA.jpg",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || दल - बदल अधिनियम",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/231265/kgss-1745401197-v231265.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dWfIsHimvf4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iu6SSDpkjHvQPzw57SLyyOsJAQEQpN82pABGZsPF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || संसदीय समितियाँ",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/232803/kgss-1745487020-v232803.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/GOAizEu5W10",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HQo46hF2efuy3d0Yznsmzlvgipqo2h4U9YelVy4W.jpg",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || राष्ट्रपति की अध्यादेश की शक्ति",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/233317/kgss-1745573893-v233317.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wLgGpx_Kce0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0dgUmExhZPDaDXN9ZsUid1VAORdNe2qWCvQsVK1U.jpg",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || राष्ट्रपति की वीटो की शक्ति",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/apr-2025/234082/kgss-1745660113-v234082.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Xhp_NYg3xlk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/J9wLt1xX0dbQ8nYm1hUoQInE8cymmIvWi89z33yL.jpg",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Lecture 34 || राष्ट्रपति की क्षमा दाम की शक्ति",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/266982/kgss-1748942545-v266982.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/U82UeXUv_WQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P7hKNhq0lGxjLeh7Sb3yUCZuUJfKEjF1bgM2d8St.jpg",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Lecture 35 || संघीय शासन , राज्य सूची",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/267439/kgss-1749030955-v267439.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/MkuWjERJivU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LUYOJ25LjwDtTuZR3ur239ZbeNiMElplMyTPHvgX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Lecture 36 || 7वी अनुसूची राज्यों को अनुदान",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/269890/kgss-1749116963-v269890.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Le2i4ahzI_E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DdrXWhJzEowFXKq32IuqX6RKJ1oAvccZ2zFjC8eX.jpg",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Lecture 37 || क्षेत्रीय परिषद",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/270581/kgss-1749202595-v270581.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/eqKwPE1oHmg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tbAAHunSL4d8wOJTIUewdIOC2ztodXl203MEXgf3.jpg",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Lecture 38 || राष्ट्रपति , राज्यपाल",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/271201/kgss-1749461916-v271201.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3_C2BnbbdWY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HdxA8CdNmipY06qyvtVAVWblnA0bU3m6dws3XUr0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Lecture 39 || संघ सूची , राज्य सूची",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/272099/kgss-1749634790-v272099.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Iw4KpSsvJXU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qzFpCYIGT8YHnqzZZ4uIY5kBVTmbFj3Bg7N3nuov.jpg",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Lecture 40 || न्यायधीशों की नियुक्ति",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/274166/kgss-1749721425-v274166.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qtwKLi7YhD0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cTgXoVb00NU824yiUg5lRyaGyVrN1fzJ1z01Ezaf.jpg",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Lecture 41 || कॉलेजियम",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/275056/kgss-1749808476-v275056.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3egKumYDbFQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jOXIu4wsDXJvOw4lpaHaiRrIPRbBAyzeuf7LHsew.jpg",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Lecture 42 || न्यायाधीश (जांच) अधिनियम, 1968 , रविचंद्रन अय्यर बनाम न्यायमूर्ति ए.एम. भट्टाचार्य",
+      "published_date": "14 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/275941/kgss-1749895099-v275941.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/whTI_zIj1xw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tHPIZELyMDod2xEiQ8Gu03CCL7mOORZrD83HnZIV.jpg",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Lecture 43 || उच्चतम न्यायालय , उच्च न्यायालय , जनपद न्यायालय",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/276535/kgss-1750067336-v276535.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tz8ef8WmTNg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EhwUzIFHWY7tvqSP5QE4XfZaV1HabaCJEBDX7jU7.jpg",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Lecture 44 || जनपद न्यायालय",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/277133/kgss-1750153538-v277133.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5SsA7PfGTLE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b5CHtx39QFDhnvu8J3sOrDufkIEbXXOaB7HWbW3l.jpg",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Lecture 45 || MPLAD , गैर सरकारी संस्थाएं",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/277624/kgss-1750240664-v277624.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WEx97x3yTA8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pySg4q5ZoYjRzylIkEjcGAekGrOqxlyXFDB6uDIe.jpg",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Lecture 46 || नगर निगम , नगर परिषद",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/278277/kgss-1750326660-v278277.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/XIy_m2_Kv6A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XKiypwsAZ4wENwYCOkx8PODbPMYdTb6zwOVJ9ial.jpg",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Lecture 47 || Indian Polity by Rajesh Mishra Sir",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/279085/kgss-1750413300-v279085.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bB7O_VldvVY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LnOYn6di1D9NKDH1ZkcsVqCxxojHi4Sz8WBoEtUU.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

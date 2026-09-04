@@ -1,0 +1,36 @@
+{
+  "subject_name": "Pre-history and Proto-history",
+  "subject_id": 8065,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 05 || PALAEOLITHIC PERIOD, MESOLITHIC , NEOLITHIC",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/283415/kgss-1751026247-v283415.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OUoJkSfZlIs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/I2c1Acb64RkvoY4bJtfX2vGKisIjXrfJtXDW7Dyh.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 06 || POTTERY TRADITION IN INDIA",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jun-2025/286085/kgss-1751285739-v286085.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/bB0LPh4SBqA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Kufe3G2hsuKRjXGuaRTW4fJOr8tUq3CrZr3VGP75.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 07 || PRE-HISTORY AND PROTO-HISTORY",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2025/286892/kgss-1751372522-v286892.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6AhsZzuFtac",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xd1t4udboySMgTQAAhR8tKr5TQWlLjv1GTfB1I36.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

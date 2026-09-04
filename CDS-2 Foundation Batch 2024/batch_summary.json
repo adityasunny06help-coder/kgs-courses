@@ -1,0 +1,82 @@
+{
+  "batch_info": {
+    "title": "CDS-2 Foundation Batch 2024",
+    "price": "1499",
+    "id": "262",
+    "extracted_date": "2025-08-27T16:49:02.021903"
+  },
+  "subjects": [
+    {
+      "name": "Geography by Amit Shree Sir",
+      "id": 2180,
+      "video_count": 75,
+      "note_count": 74
+    },
+    {
+      "name": "History by Amarendra Sir",
+      "id": 2181,
+      "video_count": 80,
+      "note_count": 79
+    },
+    {
+      "name": "Physics by Shubhankar Sir",
+      "id": 2182,
+      "video_count": 28,
+      "note_count": 28
+    },
+    {
+      "name": "Chemistry by Shubhankar Sir",
+      "id": 2183,
+      "video_count": 10,
+      "note_count": 10
+    },
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 2184,
+      "video_count": 38,
+      "note_count": 38
+    },
+    {
+      "name": "Polity by Gyan Sir",
+      "id": 2185,
+      "video_count": 84,
+      "note_count": 84
+    },
+    {
+      "name": "Mathematics by Neeraj Kukreja Sir",
+      "id": 2186,
+      "video_count": 72,
+      "note_count": 72
+    },
+    {
+      "name": "English by Ruchir Sir",
+      "id": 2187,
+      "video_count": 75,
+      "note_count": 75
+    },
+    {
+      "name": "Economics by Sukesh Sir",
+      "id": 2188,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Current Affairs by Arya Ma'am",
+      "id": 2189,
+      "video_count": 20,
+      "note_count": 19
+    },
+    {
+      "name": "World Geography by Amit Shree Sir",
+      "id": 2235,
+      "video_count": 56,
+      "note_count": 54
+    },
+    {
+      "name": "MEGA WORKSHOP",
+      "id": 4247,
+      "video_count": 3,
+      "note_count": 0
+    }
+  ]
+}

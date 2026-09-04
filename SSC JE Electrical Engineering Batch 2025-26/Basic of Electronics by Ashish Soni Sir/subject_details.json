@@ -1,0 +1,298 @@
+{
+  "subject_name": "Basic of Electronics by Ashish Soni Sir",
+  "subject_id": 7421,
+  "video_count": 21,
+  "note_count": 20,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 ||  Introduction to Basic Electronics",
+      "published_date": "25 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/oHG7HQcrjAY",
+      "hd_video_url": "https://www.youtube.com/embed/oHG7HQcrjAY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RCAVwphm254FpvMWzo8zKlCBWpxsg65kPAtH7WLT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 ||  Introduction to Basic Electronics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a036c5da-c6ff-4f8c-bd21-206a7976f06e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 ||  Basics of Semiconductor Materials",
+      "published_date": "26 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/KN8FUpRAhcg",
+      "hd_video_url": "https://www.youtube.com/embed/KN8FUpRAhcg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TuSWiT6oKqWF9JGY2nOd9pQQVKkjHxf4zG8HC7PI.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 ||  Basics of Semiconductor Materials",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/915713d6-53cd-498b-bec7-917ec26520e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Semiconductor Physics",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/XJlOmRzeq_Q",
+      "hd_video_url": "https://www.youtube.com/embed/XJlOmRzeq_Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/84Z3VFozihlwHLClpiFRnCzhcbL1vKdrJ9d6dxWK.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Semiconductor Physics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58c489c0-7297-4d91-8365-738a82b9b1fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 ||  PN Junction Diode",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/qBHLn4u8Nrw",
+      "hd_video_url": "https://www.youtube.com/embed/qBHLn4u8Nrw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DZySUtKBFuYNm6fUMc9htQok3yKOL3ljZB33DsAZ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 ||  PN Junction Diode",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f1e8fc5-24a2-4365-b15e-2d7c803193b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 ||  Zener Diode (Part-1)",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/QPZj4zQaz7o",
+      "hd_video_url": "https://www.youtube.com/embed/QPZj4zQaz7o",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pVGeRGtGn2OkWnAUDffQlohlVlsGFu7KxGWrrMmk.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 ||  Zener Diode (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/756d996f-8f10-4a41-a6e4-9bda5761bee6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Zener Diode (Part-2)",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-kYr45S3aTw",
+      "hd_video_url": "https://www.youtube.com/embed/-kYr45S3aTw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oDsS4HIdsHRa4G2VIzLwkR4CaL2RjgMIkgp0zNmD.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Zener Diode (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2128464-e43e-4417-81b9-afe4b8738345.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 ||  Tunnel diode, LED, PhotoDiode, Shottcky Diode",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/n7XSX0f4MRI",
+      "hd_video_url": "https://www.youtube.com/embed/n7XSX0f4MRI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D03zcAsRf9j59oCnayZRFqBAC4mIdLZoCyUaseIW.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 ||  Tunnel diode, LED, PhotoDiode, Shottcky Diode",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aedf79cf-1d71-445a-a75f-b294caaee2c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 ||  Tunnel diode, LED, PhotoDiode, Shottcky Diode (Part-2)",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Vtrobn7BfNQ",
+      "hd_video_url": "https://www.youtube.com/embed/Vtrobn7BfNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YtMY4iybu75gOf1XH7VuseTK18fFUhUFRW6tjOx8.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 ||  Tunnel diode, LED, PhotoDiode, Shottcky Diode (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa44e731-e84d-4d2c-9004-5b722dd975f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Tunnel diode, LED, PhotoDiode, Shottcky Diode (Part-3) & BJT (Part-1)",
+      "published_date": "04 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/ITFrVIgQFPY",
+      "hd_video_url": "https://www.youtube.com/embed/ITFrVIgQFPY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CO0WR6s9ShVEJaq1p5NF8OHvm1w88tcrnFl9y7MT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Tunnel diode, LED, PhotoDiode, Shottcky Diode (Part-3) & BJT (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e7f2e38-2921-4aa2-89fa-074611ff46a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 ||  BJT (Part-2)",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xc8nwezlQ6c",
+      "hd_video_url": "https://www.youtube.com/embed/xc8nwezlQ6c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1wTbdPNu3hIsiX3A2ddAFCMf1k91pKb26Wp420jS.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 ||  BJT (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd4ee2df-ff35-43e0-8b01-a32e49a136f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || BJT (Part-3)",
+      "published_date": "07 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/xLNPcSRIZcg",
+      "hd_video_url": "https://www.youtube.com/embed/xLNPcSRIZcg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NeT6Xd138JZAVXkgIId6poDlR3nheOSVw1vNknid.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || BJT (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d7a4fb6-2317-471b-8dda-66e198be4276.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || BJT (Part-4)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/4jlgsyv7HsY",
+      "hd_video_url": "https://www.youtube.com/embed/4jlgsyv7HsY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TxvX3TTs07SyYFtU4iPV9GD2JTQ1zF8I5KHzx57a.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || BJT (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b43b6037-c710-4c56-86a5-8a930b03805d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || BJT (Part-5)",
+      "published_date": "08 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/IJh0xKpyVis",
+      "hd_video_url": "https://www.youtube.com/embed/IJh0xKpyVis",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6KfUPoh4Mo4Yrc6lgXhnQ1npW14mbWjIbBWT7pih.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || BJT (Part-5)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b6665bc6-4b43-4259-a23e-2aaa490305c9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 ||  Miscellnous of BJT",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/mm-2xyMW5yU",
+      "hd_video_url": "https://www.youtube.com/embed/mm-2xyMW5yU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k6DgsjLiNV4FOubgAroRz4PbOmry5ZEzDU5XWJXA.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 ||  Miscellnous of BJT",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dd069f4-2f77-4eba-a7a6-8171f00900e5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 ||  FeedBack Amplifier",
+      "published_date": "09 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lNVi83LwRls",
+      "hd_video_url": "https://www.youtube.com/embed/lNVi83LwRls",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4MNGIOOMaGkDZ6H2SBthPkv8d22Re6hGNGOwIy8j.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 ||  FeedBack Amplifier",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b038f07-922d-4aa5-ba90-849552cdb538.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Power amplifier",
+      "published_date": "11 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/SOW_ZYWo7UY",
+      "hd_video_url": "https://www.youtube.com/embed/SOW_ZYWo7UY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0oR1wE0OThRuWhu3Nt0ESvIaq06UTg4dxtgb0VyT.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 16 || Power amplifier",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/kTshis-N0jA",
+      "hd_video_url": "https://www.youtube.com/embed/kTshis-N0jA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dSPqHN26HsU7ipKbsbusuthQVr2Wbd5SjlkTqWaN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Power amplifier",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cda85d70-0e8f-4d26-91f4-11b7cc3bccd5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 17 || OP-Amp (Part-01)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/Q1t2zTwW-84",
+      "hd_video_url": "https://www.youtube.com/embed/Q1t2zTwW-84",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/i8rAo5MO6hX8mVl91eqSPKIKnvfc1Rr2jLkWxSHU.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || OP-Amp (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a280d4b-b0e3-4bf5-9cfa-5f06d81d2d44.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 18 || OP-Amp (Part-02)",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/-J063FVTy3I",
+      "hd_video_url": "https://www.youtube.com/embed/-J063FVTy3I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/f4BjgOQcjEwcoRqW5ferQr033Zd8vRQCR81jRX22.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || OP-Amp (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/781dd8cd-20b1-4ee7-aa19-6ef42e66fd98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 19 || FET",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/qjYM-4T9QQg",
+      "hd_video_url": "https://www.youtube.com/embed/qjYM-4T9QQg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZMXo2e34U3qMSb3ry7qsMmHNUHmvMr1koDROd8KH.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || FET",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f363284-2f66-4c9f-b9e3-727060714108.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 20 || MOFSET",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/zTQf-950rog",
+      "hd_video_url": "https://www.youtube.com/embed/zTQf-950rog",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LyrozOZuRz9BeUbmvWIa85L7BBNq4JoioawcIk0H.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || MOFSET",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39405034-61c6-4d02-9de0-6cb206a086be.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

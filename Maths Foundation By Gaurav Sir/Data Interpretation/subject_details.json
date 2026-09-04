@@ -1,0 +1,51 @@
+{
+  "subject_name": "Data Interpretation",
+  "subject_id": 2327,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Data Interpretation -01",
+      "published_date": "11 May 2024",
+      "video_url": "https://www.youtube.com/embed/VQmeepfKu8s",
+      "hd_video_url": "https://www.youtube.com/embed/VQmeepfKu8s",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/pV5mTeD9nMK2DglRKaaPRk3tkMisJZgPQJ4XIWvV.png",
+      "notes": [
+        {
+          "title": "Data Interpretation -01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b6489eda-154a-4761-9938-f5eb98aa46ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Data Interpretation -02",
+      "published_date": "18 May 2024",
+      "video_url": "https://www.youtube.com/embed/xM9aCk9776U",
+      "hd_video_url": "https://www.youtube.com/embed/xM9aCk9776U",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Le2hQ5dSFiOzRf6lKyJvy3ZfeNv1puwkteBJV8Ci.png",
+      "notes": [
+        {
+          "title": "Data Interpretation -02",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8d45c1d5-92c3-4d54-bead-f5913c29a39a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Data Interpretation -03",
+      "published_date": "08 Jun 2024",
+      "video_url": "https://kgs-v4.akamaized.net/kgs-cv/jun-2024/83108/kgss-1717849093-v83108.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wAOhL8UxXR0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4HvnEtb9x3IkbAzyFbtatYPjMsVyubFWPSe8JnTj.png",
+      "notes": [
+        {
+          "title": "Data Interpretation -03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7dee532d-33fb-4775-a2bf-a6760f8f6993.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

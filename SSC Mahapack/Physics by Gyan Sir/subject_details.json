@@ -1,0 +1,737 @@
+{
+  "subject_name": "Physics by Gyan Sir",
+  "subject_id": 3069,
+  "video_count": 52,
+  "note_count": 52,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture- 01 || Physics Introduction Class",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/ssc-mahapack/physics-gyan-sir/l-01/l-01-physics-gyan-sir-ssc-mahapack.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fILIUTSAiww",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4KIgC9yoYjilD9FsyqbsSci9FdqnIZX8vrMIcDIH.jpg",
+      "notes": [
+        {
+          "title": "l1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/516c2493-133c-4123-bf88-1343ea1844ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 02 || Unit and Dimension || मात्रक और विमा (Part 01)",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98432/kgss-1721791616-v98432.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5oZFu3pnlnw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905d739d7.jpg",
+      "notes": [
+        {
+          "title": "l2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b43d4caa-5f7a-44e6-915c-980120de033f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture- 03 || Unit and Dimension || मात्रक और विमा (Part 02)",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/98887/kgss-1721877720-v98887.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/62JkmHJHGcY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905ced032.jpg",
+      "notes": [
+        {
+          "title": "l3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d8cf8cd-73f4-4ce8-9cc5-ecf60d9b8aec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 04 || Unit and Dimension || मात्रक और विमा (Part 03)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/99359/kgss-1721964128-v99359.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/slKgQwB1GXE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905c6eee1.jpg",
+      "notes": [
+        {
+          "title": "l4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e040c06-0f57-4e8f-ad2e-fa1204069d50.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 05 || Unit and Dimension || मात्रक और विमा (Part 04)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/99978/kgss-1722223594-v99978.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/zlCrgawd7iU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905be5cb6.jpg",
+      "notes": [
+        {
+          "title": "l5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05ba7419-da98-4990-8b24-1ec7913ac0ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture- 06 || Motion || गति (Part 01)",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jul-2024/101064/kgss-1722396216-v101064.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1rEzd0rxmBo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905b6b954.jpg",
+      "notes": [
+        {
+          "title": "l6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/955c4ea7-2fa4-4b1a-afb0-3b6cd1bd5f26.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture- 07 || Motion || गति (Part 02)",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/101462/kgss-1722482730-v101462.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/iFQWFuUo604",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905ae18be.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 07 || Motion || गति (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3e40307-29f3-44e7-8b02-c359dfe1c4fb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture- 08 || Motion || गति (Part 03)",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/102272/kgss-1722569018-v102272.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/AKqDcbnSqA8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905a62ce7.jpg",
+      "notes": [
+        {
+          "title": "l8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c15708b-534d-4b99-a105-bd204299acb7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture- 09 || Motion || गति (Part 04)",
+      "published_date": "03 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/102798/kgss-1722655517-v102798.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kD6Rkt39KqY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319059dce8c.jpg",
+      "notes": [
+        {
+          "title": "l9motion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff0d5a81-7d4a-4eb2-abdf-e7dca933c134.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture- 10 || Motion || गति (Part 05)",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103091/kgss-1722828183-v103091.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hwKvwCY8iF4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683190596075c.jpg",
+      "notes": [
+        {
+          "title": "l10motionpart5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2dc4f1e-ebd2-4213-88e2-fb318285a98a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture- 11 || Motion || गति (Part 06)",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103481/kgss-1722914841-v103481.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/BLCr_9xy4I0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319058d82ae.jpg",
+      "notes": [
+        {
+          "title": "l11motionpart6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e2b6da3-3416-4498-9faa-cd08c2ea01b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture- 12 || Force and Friction || बल और घर्षण (Part 01)",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/103990/kgss-1723001138-v103990.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/d-by6hWXRHY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683190585cb11.jpg",
+      "notes": [
+        {
+          "title": "l12forceandfrictionpart1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cfffa708-0d97-4e3a-a729-88662e0a7885.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture- 13 || Force and Friction || बल और घर्षण (Part 02)",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/104476/kgss-1723086683-v104476.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/6VIk7bGAkIE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319057d3fe1.jpg",
+      "notes": [
+        {
+          "title": "Force and Friction || बल और घर्षण (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a17ed50-4a2b-4b4f-b111-4e126a5519c6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture- 14 || Force and Friction || बल और घर्षण (Part 03)",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/105070/kgss-1723173723-v105070.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/C5AzZjWBfZ0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319057576ba.jpg",
+      "notes": [
+        {
+          "title": "Force and Friction || बल और घर्षण (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e021fa9a-508d-47ce-affe-7c3f4bb7d56b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || Gravitation || गुरुत्वाकर्षण (Part 01)",
+      "published_date": "12 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/106055/kgss-1723433345-v106055.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/VjFIc-PAxeY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319056d0fd7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || Gravitation || गुरुत्वाकर्षण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/192dfeb8-5650-49fa-b537-0f5d87a0ed5b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || Gravitation || गुरुत्वाकर्षण (Part 02)",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/106405/kgss-1723518622-v106405.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/OJP-qFmGNrg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905655ccb.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || Gravitation || गुरुत्वाकर्षण (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a28160e-1d15-4ac1-9ab1-0010cad9c504.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || Gravitation || गुरुत्वाकर्षण (Part 03)",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/106997/kgss-1723605072-v106997.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/jYxhobuq96c",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/camj5YfQYPUBHUboogeAUK5wkhaAj5RBe3S7A7oQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || Gravitation || गुरुत्वाकर्षण (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/303af2e3-3829-4a1b-bd1e-5aeca08c2db0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 ||  Gravitation || गुरुत्वाकर्षण (Part 04)",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/107620/kgss-1723777443-v107620.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dMCO1yRzSO8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6831905560b3c.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0845f72e-6e52-4cba-a3d5-0810d9dcec45.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 01)",
+      "published_date": "21 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/108370/kgss-1724210708-v108370.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/cxXKVJ-csBQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319054a6e59.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69cad797-f44e-4af3-9c6e-c9086b31dad0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 02)",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/109300/kgss-1724296771-v109300.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/wvoPPJzPSN8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68319053b5665.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cdfcbb0-a086-4cba-9f95-daba1e2e9630.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 03)",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/109585/kgss-1724383074-v109585.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7_yF2GBUzYY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ILocEf98BjeLFWN3iOIk44icz5J8UhE0VqTiG32v.png",
+      "notes": [
+        {
+          "title": "Lecture - 21 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9c0c0dc-e303-4807-94db-670e4ffdee59.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 04)",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/110535/kgss-1724642434-v110535.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kkZOuWlZmE8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4sVTFD2UGrpf3dfGl2ZcIArZj1m8YRNrdG1isjmJ.png",
+      "notes": [
+        {
+          "title": "Lecture - 22 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67034f11-76e5-4696-93d8-fa0aaf27fff1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 05)",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/110838/kgss-1724727927-v110838.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xm3Rxf-PoAQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/r3qMquGDmOG5x8mI0IQ8y3u6R3y1aXlnTh672mti.png",
+      "notes": [
+        {
+          "title": "Lecture - 23 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7893b50e-017a-4fb4-86f6-588a01f286fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 06)",
+      "published_date": "28 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/111188/kgss-1724815007-v111188.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7z3FmRKv7uM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rsS59sfFfD4TAyGSCxjTwMGeqKdU0eDFg2FR3rzv.png",
+      "notes": [
+        {
+          "title": "Lecture - 24 || General Properties of Matter || पदार्थ के सामान्य गुण (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20afab3e-627b-4c06-b881-84bc35d508ff.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || Heat and Temperature || ऊष्मा और  तापमान (Part 01)",
+      "published_date": "29 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/111694/kgss-1724900847-v111694.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/0Q8Qt21stKQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eUNyc9zswJxCAfFRFdclw1G65JcehK2k9343wnmY.png",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Heat and Temperature || ऊष्मा और  तापमान (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9df0d4ff-d4c8-44dd-9812-53e88a62320d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || Heat and Temperature || ऊष्मा और तापमान (Part 02)",
+      "published_date": "30 Aug 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2024/112055/kgss-1724987991-v112055.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/qv5Q9NH-RtA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/L2dHuo5rkgwWpRsQIf4mIiSunQGCUhj66RorkLyV.png",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Heat and Temperature || ऊष्मा और तापमान (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b60ffd4-ee00-4b62-85b9-d524fa1f3069.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || Heat and Temperature || ऊष्मा और तापमान (Part 03)",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/112960/kgss-1725246847-v112960.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/lb69KN3N7FY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NNxEUdzwBuKJmohQjMQfJN2JBIiMRae6dbSyetgI.png",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Heat and Temperature || ऊष्मा और तापमान (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/974b0b0b-6679-4521-ae71-c8d29c085efb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Heat and Temperature || ऊष्मा और तापमान (Part 04)",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113545/kgss-1725334049-v113545.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WTyX-NdVrAo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VBxt703rfDUmvXTKBpoeuk57NgQkFqQ4nzoKebmX.png",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Heat and Temperature || ऊष्मा और तापमान (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2823dedb-0956-40a7-ae0a-ac3d2de8d981.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Heat and Temperature || ऊष्मा और तापमान (Part 05)",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/113877/kgss-1725420101-v113877.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/7WxoXT6cvuU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HjRrrIVu8xR99WJQDQurAZY2HtspCSQFp8cOGFbl.png",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Work Energy and Power || कार्य ऊर्जा और शक्ति (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9524426-042a-4d69-a6d3-6f6e50246804.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Heat and Temperature || ऊष्मा और तापमान (Part 06)",
+      "published_date": "05 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/114381/kgss-1725506672-v114381.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/tNKEgtMqlsQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Phdx29mbI0X6ye4AT0f9Wvsa0O03d5rMdYduX8oC.png",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Work Energy and Power || कार्य ऊर्जा और शक्ति (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d14df973-8945-4428-a3ed-85ad19c8154f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Work, Energy and Power || कार्य, ऊर्जा और शक्ति (Part 01)",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115005/kgss-1725593076-v115005.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HyOGqeOjx9Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lp4aU54lA3Aq1IFq06WUaYzoZv5uX7aNgOuywW6W.png",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Work Energy and Power || कार्य ऊर्जा और शक्ति (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6fbac11-52c6-4aba-b220-31b329c25fac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Work, Energy and Power || कार्य, ऊर्जा और शक्ति (Part 02)",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/115813/kgss-1725852115-v115813.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1crjDmVYlfE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/rgpKyZadjhYYE8rzCZC2vi8oxzf9ABj7J3c3WZYi.png",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Work Energy and Power || कार्य ऊर्जा और शक्ति (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5beb7add-7ef2-4266-b1cd-5f8f716b6234.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || Work, Energy and Power || कार्य, ऊर्जा और शक्ति (Part 03)",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116292/kgss-1725938577-v116292.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/P1rgasTlNB8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nNnFB5kxyLJGwMjD9ZiNpZGxS527wNZI9ovp3wjG.png",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Work Energy and Power || कार्य ऊर्जा और शक्ति (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/908f7708-92d9-439d-9a22-8571fe85e1c5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || Wave Motion || तरंग गति (Part 01)",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/116702/kgss-1726024956-v116702.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_F3xMbgKnpo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sZgHDsGo2JH3SPYjQ121EJQipyGUvbNkM5hongov.png",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Wave Motion || तरंग गति (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db3b8e5a-7543-4bbe-a168-6a108af93d64.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 35 || Wave Motion || तरंग गति (Part 02)",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117418/kgss-1726110828-v117418.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/R5IDtJqDcdw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ME5vl5fuKt42pDNauDehN65jxSOrj2ygGi3ViLMg.png",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Wave Motion || तरंग गति (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2420cbeb-1645-4c6b-b9bb-fab39f14440d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 36 || Sound Wave || ध्वनी तरंग (Part 01)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/117688/kgss-1726197802-v117688.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UWuSi3ZrIfg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EUksAzMX1pnu773rvQzqFO8PX4wQXKGyu57B1VMS.png",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Sound Wave || ध्वनी तरंग (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd2e5381-9cd1-4aa9-8771-f4f95e4b886b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 37 || Sound Wave || ध्वनी तरंग (Part 02)",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/118582/kgss-1726456826-v118582.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/8Xy4JhXUN6A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dAkCZxf8U1s0CRbiSMNFAleP2DPZod6YXnrXuMY6.png",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Sound Wave || ध्वनी तरंग (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84e5b0e0-367e-4e1e-a92e-eb4df23a2862.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 38 || Sound Wave || ध्वनी तरंग (Part 03)",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119180/kgss-1726542437-v119180.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5QsMNZuSYrw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FAmDuF5D7IL7Zqop3JBgNueqKMNcBHDYH1kPVN19.png",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Sound Wave || ध्वनी तरंग (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ec5c376-d8ce-4d99-aaf2-863b572dee2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 39 || Light || प्रकाश (Part 01)",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/119648/kgss-1726629156-v119648.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/EN3PDoVj-TY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jaNcEXqcFhHw8WOJBnQgR9eUR5i5eluQxEjIHtHy.png",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Light || प्रकाश (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2e03516-3223-49e1-a4a1-67ed716fff93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 40 || Light || प्रकाश (Part 02)",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/120502/kgss-1726716389-v120502.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/WwS5XYLJOHo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EY7HXuNf1y6Ra4dYZwAbjqHbE1wUhyGRlLWiws8k.png",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Light || प्रकाश (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db832c54-74d8-49d4-b060-d8c42364979a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 41 || Light || प्रकाश (Part 03)",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/121098/kgss-1726802784-v121098.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vsBqFRs-0R0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/maWi3M0FIkEWBcUaSeJUieMy5kOfRm12LkWNsS0f.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Light || प्रकाश (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7560ce5c-f2bd-48b9-98d4-a45d39e3ee3f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 42 || Light || प्रकाश (Part 04)",
+      "published_date": "23 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/122131/kgss-1727061981-v122131.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/c6RkQeZdtBA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ugdzaEBzzW6iVAg4d3mIxL600dezDEbxyk0zxghB.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Light || प्रकाश (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ca64b4d-3fca-4607-88b6-e5c9027443e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 43 || Light || प्रकाश (Part 05)",
+      "published_date": "24 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/122636/kgss-1727147622-v122636.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/_WmcPb4J-xU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6tNYSBSRLqjHTrTumIkj4Fq9eSjzyDw1s18zW6gJ.jpg",
+      "notes": [
+        {
+          "title": "Lecture 43 Light प्रकाश Part 05",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2736b60-fcb9-42ad-b1b5-715b9e195037.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 44 || Light || प्रकाश (Part 06)",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123145/kgss-1727234700-v123145.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/3-lvxfynITU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/p7i8bm0wA3tgbp5WmToGUhvmX05pK1VzC3E7OcuT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 44 Light प्रकाश Part 06",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c6a31ef-3c42-4e9f-b932-a4343786906a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 45 || Light || प्रकाश (Part 07)",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/123793/kgss-1727321331-v123793.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uKYI80_-RYQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4i1OSAr1S1tpyVOX2f0UF2ByTNuzCqcUhK4sjCJi.jpg",
+      "notes": [
+        {
+          "title": "Lecture  45  Light  प्रकाश Part 07",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31ff280d-59f0-4ae4-92a6-886d97334373.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 46 || Light || प्रकाश (Part 08)",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/124465/kgss-1727407697-v124465.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Q9E7nnQDIyM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bl6rCMol73XHTFQKN1L3xuKqFPnETPv9LDI3mpf4.jpg",
+      "notes": [
+        {
+          "title": "Lecture  46 Electricity विद्युत Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df4d62ad-0310-4d37-b037-14d20b1352b5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 47 || Light || प्रकाश (Part 09)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/sep-2024/125439/kgss-1727666946-v125439.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/QHQdtNVbqNQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Zm5sudNx5XDbHJ3K6rImApmoD7GqgtGpSdd5xu6T.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Electricity || विद्युत (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61544350-9b8c-4f29-adf9-57fb96cdfca8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 48 || Electricity || विद्युत (Part 01)",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126038/kgss-1727752505-v126038.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/KWMrsJfarC4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/abfT3F88ai8Q3vjJWvjIJ8SMS3qylHTg1VhU9uyV.jpg",
+      "notes": [
+        {
+          "title": "Lecture 48 Electricity विद्युत Part 01",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16eefe90-1c29-49f4-a055-ced0c2f492ee.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 49 || Electricity || विद्युत (Part 02)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/126774/kgss-1727925642-v126774.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/vsecKIq1ndM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jCHFEl9KmrRBz3UzTJjSIsEhqcGZdYZlSi5GSVP2.jpg",
+      "notes": [
+        {
+          "title": "Lecture 49 Electricity  विद्युत Part 02",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80bfc55f-e836-4056-ad1d-4522294e678f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 50 || Electricity || विद्युत (Part 03)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/127410/kgss-1728012530-v127410.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/D8OW1xmS2kA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LFY1sgMHwYDRx4WojGlL0bOY3NnYF3KEI4rVcmZx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 50 Electricity विद्युत Part 03",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e3c49b0-1584-4fa1-b89a-a657754ffd2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 51 || Magnetism || चुंबकत्व (Part-01)",
+      "published_date": "06 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/oct-2024/128216/kgss-1728188129-v128216.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-z1AAxPg3EQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6ZJQGbI1JLqlgaWp15xhkPYQcfa3l0sxHDi8s9Mx.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Magnetism || चुंबकत्व",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa11961d-7592-48e6-bdca-4a2bec0631a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 52 || Magnetism || चुंबकत्व (Part-02)",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/dec-2024/169718/kgss-1734751525-v169718.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/yyz008LxkBQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LqWrzbj0Q5KtvDYuwPvYF2qh6GorQYftTOXh0MZa.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Magnetism || चुंबकत्व (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ae4b00a-1d94-429b-b465-9d629562f6ea.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

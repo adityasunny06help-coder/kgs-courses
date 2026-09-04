@@ -1,0 +1,36 @@
+{
+  "subject_name": "CDS 01-2025 Test 08",
+  "subject_id": 5757,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "CDS 01-2025 Test 08 (Paper-02) [GK]",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/dhJlTL429JI",
+      "hd_video_url": "https://www.youtube.com/embed/dhJlTL429JI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BCA3OUuSNhvQ2r2QR2UJ5zabiex5z7OpjYuELgTx.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "CDS 01-2025 Test 08 (English)",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Oqecr5Gi55s",
+      "hd_video_url": "https://www.youtube.com/embed/Oqecr5Gi55s",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EXzUGrPo6AFKI5oO8vzG3kGgkmrMQOUr51bvXkrd.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "CDS 01-2025 Test 08 (Mathematics)",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/M3l3gjhFItU",
+      "hd_video_url": "https://www.youtube.com/embed/M3l3gjhFItU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OiCdIuHDXSDrCU7Sanyn3nRPfageDAaQEb3GyL70.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

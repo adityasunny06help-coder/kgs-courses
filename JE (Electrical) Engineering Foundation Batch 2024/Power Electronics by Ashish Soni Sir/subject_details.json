@@ -1,0 +1,163 @@
+{
+  "subject_name": "Power Electronics by Ashish Soni Sir",
+  "subject_id": 5755,
+  "video_count": 11,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1 || Introduction Of Power Electronics",
+      "published_date": "18 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/wMvajoCS9ac",
+      "hd_video_url": "https://www.youtube.com/embed/wMvajoCS9ac",
+      "thumbnail": "https://i.ytimg.com/vi/wMvajoCS9ac/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-1 || Introduction Of Power Electronics",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1c30f7c-2533-4164-b52e-568728a4522d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2 || Thyristor Working  ,Their Triggering & Protection Methods",
+      "published_date": "19 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ysjdEv_51IU",
+      "hd_video_url": "https://www.youtube.com/embed/ysjdEv_51IU",
+      "thumbnail": "https://i.ytimg.com/vi/ysjdEv_51IU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-2 || Thyristor Working  ,Their Triggering & Protection Methods",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3f78229-e14f-43d1-9b93-f2396c76c32f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-3 || Commutation technique, firing circuits and gate protection of SCR",
+      "published_date": "20 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/hDEQvZSeKLY",
+      "hd_video_url": "https://www.youtube.com/embed/hDEQvZSeKLY",
+      "thumbnail": "https://i.ytimg.com/vi/hDEQvZSeKLY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-3 || Commutation technique, firing circuits and gate protection of SCR",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88bdd6fd-a298-4f7f-adf3-1611146823ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-4 || Series & parallel connection of thyristors, GTO, ASCR",
+      "published_date": "21 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/9R_ioE7UFME",
+      "hd_video_url": "https://www.youtube.com/embed/9R_ioE7UFME",
+      "thumbnail": "https://i.ytimg.com/vi/9R_ioE7UFME/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-4 || Series & parallel connection of thyristors, GTO, ASCR",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/279e8e47-3d7e-45d2-b6bd-942142f8a249.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-5 || RCT, TRIAC, Power BJT, Power MOSFET, IGBT,",
+      "published_date": "22 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/ziCJ1X7v-XU",
+      "hd_video_url": "https://www.youtube.com/embed/ziCJ1X7v-XU",
+      "thumbnail": "https://i.ytimg.com/vi/ziCJ1X7v-XU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-5 || RCT, TRIAC, Power BJT, Power MOSFET, IGBT,",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdea6288-0a97-453e-a807-79e6b08c3f87.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-6 || 1-phase half wave converter, full wave converter, Semiconverter",
+      "published_date": "24 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/VhvEqM9VK-0",
+      "hd_video_url": "https://www.youtube.com/embed/VhvEqM9VK-0",
+      "thumbnail": "https://i.ytimg.com/vi/VhvEqM9VK-0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || 1-phase half wave converter, full wave converter, Semiconverter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bb4ab04-2306-4cc9-9bfb-f218eb1b9096.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-7 || 3 phase half wave converter, full wave and semiconverter, dual converter",
+      "published_date": "25 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/xUFaCajdr5w",
+      "hd_video_url": "https://www.youtube.com/embed/xUFaCajdr5w",
+      "thumbnail": "https://i.ytimg.com/vi/xUFaCajdr5w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-6 || 3 phase half wave converter, full wave and semiconverter, dual converter",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03543f5f-559b-4c99-b37a-7e9317e54e7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-8 || Inverter basics, types and their working & important formulaes",
+      "published_date": "26 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/TBJxG0_EC3U",
+      "hd_video_url": "https://www.youtube.com/embed/TBJxG0_EC3U",
+      "thumbnail": "https://i.ytimg.com/vi/TBJxG0_EC3U/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-8 || Inverter basics, types and their working & important formulaes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3614c186-7ea0-4c5c-8c1d-3b095d31faaf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-9 || Chopper basics, types and their working and important formulaes",
+      "published_date": "27 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/JgAA2perOAM",
+      "hd_video_url": "https://www.youtube.com/embed/JgAA2perOAM",
+      "thumbnail": "https://i.ytimg.com/vi/JgAA2perOAM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-9 || Chopper basics, types and their working and important formulaes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c73c87c8-ab4e-4ce1-a13c-cf2178495239.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Basics of AC Voltgae regulators, cycloconverters, SMPS and important formulaes",
+      "published_date": "28 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/cQQr9tbHnGs",
+      "hd_video_url": "https://www.youtube.com/embed/cQQr9tbHnGs",
+      "thumbnail": "https://i.ytimg.com/vi/cQQr9tbHnGs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-10 || Basics of AC Voltgae regulators, cycloconverters, SMPS and important formulaes",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7101754-7507-45ef-b96e-3496ee4fdf87.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Phase controlled rectifier",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/omz_yxvZSfo",
+      "hd_video_url": "https://www.youtube.com/embed/omz_yxvZSfo",
+      "thumbnail": "https://i.ytimg.com/vi/omz_yxvZSfo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-11 || Phase controlled rectifier",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca3909d5-f23f-42ad-b009-282b1f5892ab.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

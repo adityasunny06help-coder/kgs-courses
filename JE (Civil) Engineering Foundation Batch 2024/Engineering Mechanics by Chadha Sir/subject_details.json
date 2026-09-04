@@ -1,0 +1,163 @@
+{
+  "subject_name": "Engineering Mechanics by Chadha Sir",
+  "subject_id": 3052,
+  "video_count": 11,
+  "note_count": 11,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Force Analysis || बल विश्लेषण",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/G_ddn2l0ZWA",
+      "hd_video_url": "https://www.youtube.com/embed/G_ddn2l0ZWA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || Force Analysis || बल विश्लेषण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87e0aec8-6ada-4ff9-85a7-e95bbe63a4c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Equilibrium Forces ||  संतुलन बल",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/MZDhFoo2ygg",
+      "hd_video_url": "https://www.youtube.com/embed/MZDhFoo2ygg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-02 || Equilibrium Forces ||  संतुलन बल",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2fd1ced-07de-45df-a141-92abbf503c20.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Moment of Inertia || जड़त्व आघूर्ण",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ZR9KO8x6eCc",
+      "hd_video_url": "https://www.youtube.com/embed/ZR9KO8x6eCc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || Moment of Inertia || जड़त्व आघूर्ण",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c64dc9fd-cfd9-4c79-998a-e0947b0239fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Friction || घर्षण  (Part-1)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/eK4P3DIDzu0",
+      "hd_video_url": "https://www.youtube.com/embed/eK4P3DIDzu0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 ||Friction || घर्षण  (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70ab2d6e-c041-4d9a-9287-690f5ee89827.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Friction || घर्षण (Part-2)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/TOga2cYsdEw",
+      "hd_video_url": "https://www.youtube.com/embed/TOga2cYsdEw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Friction || घर्षण (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3572278-de6e-4977-93e8-18b2cebb9582.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Support Reactions || समर्थन प्रतिक्रियाएँ",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/0_Fsu4pDT1c",
+      "hd_video_url": "https://www.youtube.com/embed/0_Fsu4pDT1c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || Support Reactions || समर्थन प्रतिक्रियाएँ",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70cc48c6-65ea-4e01-9702-d75f059c0f73.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 ||  Linear Motion || रेखीय गति",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/CDof36Qt7Qc",
+      "hd_video_url": "https://www.youtube.com/embed/CDof36Qt7Qc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-07 ||  Linear Motion || रेखीय गति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d83b7b10-7a99-495e-ad96-1d30a8aa34cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 ||  Projectile Motion || प्रक्षेप्य गति",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/bXq25YmEIwY",
+      "hd_video_url": "https://www.youtube.com/embed/bXq25YmEIwY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-08 ||  Projectile Motion || प्रक्षेप्य गति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81d11dc8-f8e8-4ff4-bab0-74f1d88ab8ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || Laws of Motion || गति के नियम",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/crXj6hZAWT0",
+      "hd_video_url": "https://www.youtube.com/embed/crXj6hZAWT0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-09 || Laws of Motion || गति के नियम",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa9e2462-b688-4251-b025-d4c4bf6c9b71.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 || Collision of Elastic Bodies || लोचदार निकायों का टकराव",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/Gju-bJ7m_LI",
+      "hd_video_url": "https://www.youtube.com/embed/Gju-bJ7m_LI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-10 || Collision of Elastic Bodies || लोचदार निकायों का टकराव",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0279f6bb-80fd-43b7-8dd0-505cda29af89.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 || Work, Energy & Power || कार्य,ऊर्जा एवं शक्ति",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/nVCVCvjdRQ4",
+      "hd_video_url": "https://www.youtube.com/embed/nVCVCvjdRQ4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-11 || Work, Energy & Power || कार्य,ऊर्जा एवं शक्ति",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dad000ae-dc1c-4095-8ee4-2205fd86b7b9.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

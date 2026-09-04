@@ -1,0 +1,107 @@
+{
+  "subject_name": "Zoology By Mukesh Sir (NZMS Sir)",
+  "subject_id": 4857,
+  "video_count": 7,
+  "note_count": 7,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || Animal Kingdom - 1",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rvkIw7Q1gCk",
+      "hd_video_url": "https://www.youtube.com/embed/rvkIw7Q1gCk",
+      "thumbnail": "https://i.ytimg.com/vi/rvkIw7Q1gCk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 1 || Animal Kingdom - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a62a2a3-e5b2-44d3-9a53-444a3b8f4959.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || Animal Kingdom - 2",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/x68iLg5oVHM",
+      "hd_video_url": "https://www.youtube.com/embed/x68iLg5oVHM",
+      "thumbnail": "https://i.ytimg.com/vi/x68iLg5oVHM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || Animal Kingdom - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1acd14a9-f885-48a3-b912-48891e596d29.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || Animal Kingdom - 3",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/7b3zDTBT6ZI",
+      "hd_video_url": "https://www.youtube.com/embed/7b3zDTBT6ZI",
+      "thumbnail": "https://i.ytimg.com/vi/7b3zDTBT6ZI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || Animal Kingdom - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/750b9ff2-8ad0-4ea4-b2f9-22d9b303bdaa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || Animal Kingdom - 4",
+      "published_date": "26 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/E2aD7Q6Qz2c",
+      "hd_video_url": "https://www.youtube.com/embed/E2aD7Q6Qz2c",
+      "thumbnail": "https://i.ytimg.com/vi/E2aD7Q6Qz2c/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || Animal Kingdom - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0f9567b-a600-47f4-a6b9-f54b34ebeae6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || Animal Kingdom - 5",
+      "published_date": "27 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/bi82YFuV08I",
+      "hd_video_url": "https://www.youtube.com/embed/bi82YFuV08I",
+      "thumbnail": "https://i.ytimg.com/vi/bi82YFuV08I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || Animal Kingdom - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c752478-6625-4d21-9724-d775600610ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || Animal Kingdom - 6",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/RHP7Nxa9Pjg",
+      "hd_video_url": "https://www.youtube.com/embed/RHP7Nxa9Pjg",
+      "thumbnail": "https://i.ytimg.com/vi/RHP7Nxa9Pjg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || Animal Kingdom - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab5772ed-c873-491a-8353-141fcc4d1359.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || Animal Kingdom - 7",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/e-VKFFsOyW0",
+      "hd_video_url": "https://www.youtube.com/embed/e-VKFFsOyW0",
+      "thumbnail": "https://i.ytimg.com/vi/e-VKFFsOyW0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || Animal Kingdom - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc7b56f1-cbbd-491b-bbab-10b41df3366d.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

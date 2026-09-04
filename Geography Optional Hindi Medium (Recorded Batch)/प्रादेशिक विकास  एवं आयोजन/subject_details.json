@@ -1,0 +1,36 @@
+{
+  "subject_name": "प्रादेशिक विकास  एवं आयोजन",
+  "subject_id": 7887,
+  "video_count": 3,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || प्रादेशिक नियोजन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l192/lecture192.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l192/lecture192.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o9qaidI2BzyjRKhCGMJCYw5nyyp9ZKSNYoW9OV2I.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || पंचवर्षीय योजना व प्रादेशिक विकास",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l193/lecture193.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l193/lecture193.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pkNNUoFdIkjrFD4fiH2g65CzWrzrHwLDGc0qOb3d.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || विकेन्द्रीकृत आयोजन",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l194/lecture194.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l194/lecture194.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QCtKY9HDzWdk5d8KbIlgcoEqXdQ22yUxIWuT17xH.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

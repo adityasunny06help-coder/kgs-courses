@@ -1,0 +1,428 @@
+{
+  "subject_name": "Reasoning by Kartik Sir",
+  "subject_id": 1983,
+  "video_count": 31,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Introduction of Reasoning",
+      "published_date": "15 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/aXxjNJOCMfM",
+      "hd_video_url": "https://www.youtube.com/embed/aXxjNJOCMfM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/E5UVgOiBe8vwS1s7NU6hYbrIlZsoDSL0mBdbPaye.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-01 || Analogy || समानता (Part-1)",
+      "published_date": "16 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/8mw5s3tIfHA",
+      "hd_video_url": "https://www.youtube.com/embed/8mw5s3tIfHA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/jRdd7SEy2HK7uu9nyMCn2jEmkZfRPZ9v7t8UGJt7.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-02 || Analogy || समानता (Part-2)",
+      "published_date": "17 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/8cq0zdx_Lw4",
+      "hd_video_url": "https://www.youtube.com/embed/8cq0zdx_Lw4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/OFn8jhBg6cFNw0vhGHuW7gwrHRhN18TlHLQcSRPt.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-03 || Classification || वर्गीकरण (Part-1)",
+      "published_date": "18 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/FAR-4tQDPkc",
+      "hd_video_url": "https://www.youtube.com/embed/FAR-4tQDPkc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/V0Z7pod9JX3VWy9bbwSTIps0frr0F3MPpvt7uw1F.png",
+      "notes": [
+        {
+          "title": "Classification || वर्गीकरण (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/93ec0572-8b24-4ba9-8dd6-b19672b179f9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-04 || Classification || वर्गीकरण (Part-2)",
+      "published_date": "19 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/-MTgz1rasIU",
+      "hd_video_url": "https://www.youtube.com/embed/-MTgz1rasIU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/0G36M8Y5Wo87Hm5piKzj3AHmJlSuQZuife2hDeBp.png",
+      "notes": [
+        {
+          "title": "Lecture-04 || Classification || वर्गीकरण (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3ca7b741-ff52-4480-9776-f2254aa42b09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-05 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-1)",
+      "published_date": "22 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/XoVH6_PC0Cg",
+      "hd_video_url": "https://www.youtube.com/embed/XoVH6_PC0Cg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/RZT4G869TT1v85U7q5zKE01Fw4Ftu5D2hzCCcC4q.png",
+      "notes": [
+        {
+          "title": "Lecture-05 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/33e1a0ae-98e2-4ae8-824e-0a87acb89aeb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-06 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-2)",
+      "published_date": "23 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/Deebf2qsRuE",
+      "hd_video_url": "https://www.youtube.com/embed/Deebf2qsRuE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ocE7pODXClPq9PgFS00N1VA9uKsVx9hj0ESAgZXt.png",
+      "notes": [
+        {
+          "title": "Lecture-06 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b2aa8503-70f2-441b-b928-93275848a2d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-07 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-3)",
+      "published_date": "24 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/mbFiIG4cp8k",
+      "hd_video_url": "https://www.youtube.com/embed/mbFiIG4cp8k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/TkfbsmGaTO9DO5fbx89xOvf8lrx69XCgFDiQKfb7.png",
+      "notes": [
+        {
+          "title": "Lecture-07 || Coding-Decoding || कोडिंग-डिकोडिंग (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/e831d759-1c71-46d7-ba4b-26e724619ae8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-08 || Blood Relation || रक्त संबंध (Part-1)",
+      "published_date": "25 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/JBup0V8DKZs",
+      "hd_video_url": "https://www.youtube.com/embed/JBup0V8DKZs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/6uO028L5NeI5BzSo6NWMarwj2TAfvzsPb8ZCgwjy.png",
+      "notes": [
+        {
+          "title": "Lecture-08 || Blood Relation || रक्त संबंध (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d673913d-4c6e-4460-9a3b-0c82cdefdb09.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-09 || Blood Relation || रक्त संबंध (Part-2)",
+      "published_date": "26 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/xsaAtba8QzY",
+      "hd_video_url": "https://www.youtube.com/embed/xsaAtba8QzY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/sGj1bjzQV6rM9bz7nKJ1VbdpbJSLbuNRTXuAHLog.png",
+      "notes": [
+        {
+          "title": "Lecture-09 || Blood Relation || रक्त संबंध (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/31e086ba-cb4f-4b67-b1f8-714129bd7e15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-10 || Blood Relation || रक्त संबंध (Part-3)",
+      "published_date": "29 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/rc-Ud7O3kPs",
+      "hd_video_url": "https://www.youtube.com/embed/rc-Ud7O3kPs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/a53exQNZnGsA5Oi6HydfXco6v7VCcOTCZzglT16t.png",
+      "notes": [
+        {
+          "title": "Lecture-10 || Blood Relation || रक्त संबंध (Part-3)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1491efa9-84d1-4318-bccf-babacddff1e9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-11 || Inequalities || असमानता (Part-1)",
+      "published_date": "30 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/dgJAfLjwY0Q",
+      "hd_video_url": "https://www.youtube.com/embed/dgJAfLjwY0Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cffHqSmmEImV5nbvBMlY4G3ph7rQKSxpA8vO6Qjc.png",
+      "notes": [
+        {
+          "title": "Lecture-11 || Inequalities || असमानता (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/6af1821a-3377-41f9-ae21-9d19815d5eb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-12 || Inequalities || असमानता (Part-2)",
+      "published_date": "01 May 2024",
+      "video_url": "https://www.youtube.com/embed/YUZ9oAsGLgA",
+      "hd_video_url": "https://www.youtube.com/embed/YUZ9oAsGLgA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/5AXYDMY5TqbjIR9FUQ1fbI0ldfqPXErvvo6UPJ3F.png",
+      "notes": [
+        {
+          "title": "Inequalities || असमानता (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/861a93fb-b805-40d1-aedc-5169f4ff1162.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-13 || Seating Arrangement || बैठने की व्यवस्था (Part-1)",
+      "published_date": "02 May 2024",
+      "video_url": "https://www.youtube.com/embed/dczaqC71wAw",
+      "hd_video_url": "https://www.youtube.com/embed/dczaqC71wAw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/xzIqt0eOj19De4uXGglmnGtxnn0ocMLZRtAPTKCW.png",
+      "notes": [
+        {
+          "title": "Lecture-13 || Seating Arrangement || बैठने की व्यवस्था (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/1ed4e11f-3bfd-4a7d-831b-9024a34d86c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-14 || Seating Arrangement || बैठने की व्यवस्था (Part-2)",
+      "published_date": "03 May 2024",
+      "video_url": "https://www.youtube.com/embed/-rkWbOIG82w",
+      "hd_video_url": "https://www.youtube.com/embed/-rkWbOIG82w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/KWpew4E86XvlyCkZrnNy4j9GKRwlcuzUfeYM8Zs7.png",
+      "notes": [
+        {
+          "title": "Lecture-14 || Seating Arrangement || बैठने की व्यवस्था (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/fba88a4a-d13c-45dd-850e-d449723041b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-15 || Puzzles || पहेलि (Part-1)",
+      "published_date": "06 May 2024",
+      "video_url": "https://www.youtube.com/embed/8OXrmQ0ke2c",
+      "hd_video_url": "https://www.youtube.com/embed/8OXrmQ0ke2c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/ewxwjoM7h6tjVjZZeKftZlzvo3GyIDXaE2DO81Q8.png",
+      "notes": [
+        {
+          "title": "Lecture-15 || Puzzles || पहेलि (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c91e3d08-36f2-4f0d-b6a3-6ab7039b3445.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-16 || Puzzles || पहेलि (Part-2)",
+      "published_date": "07 May 2024",
+      "video_url": "https://www.youtube.com/embed/3gEr64ICrds",
+      "hd_video_url": "https://www.youtube.com/embed/3gEr64ICrds",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/mUfyDRoc3DB5zWZn79tCImeLLymvvEKCew2o6OgW.png",
+      "notes": [
+        {
+          "title": "Lecture-16 || Puzzles || पहेलि (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/dc354187-366c-4151-b902-f2e86d4ce4d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-17 || Mock Test  01",
+      "published_date": "08 May 2024",
+      "video_url": "https://www.youtube.com/embed/JNvw_LgP_x8",
+      "hd_video_url": "https://www.youtube.com/embed/JNvw_LgP_x8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/WmZPraykBqDQyadFVYoeBa9Q1xaN3t65WZ3t58V1.png",
+      "notes": [
+        {
+          "title": "Lecture-17 || Mock Test  01",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/c50275ca-9f19-4d09-9070-c89986b0336e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-18 || Number Series || संख्या शृंखला (Part-1)",
+      "published_date": "09 May 2024",
+      "video_url": "https://www.youtube.com/embed/S19DQoqTNF8",
+      "hd_video_url": "https://www.youtube.com/embed/S19DQoqTNF8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/4NtI0k7FUOkAzTIl4bWlvsPjelL1qZAYj6emhDlr.png",
+      "notes": [
+        {
+          "title": "Lecture-18 || Number Series || संख्या शृंखला (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/aa55e8e4-48f3-45e0-a89d-44de4d85e79e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-19 || Number Series || संख्या शृंखला (Part-2)",
+      "published_date": "10 May 2024",
+      "video_url": "https://www.youtube.com/embed/zoOz8anGmd0",
+      "hd_video_url": "https://www.youtube.com/embed/zoOz8anGmd0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/gPbw2Dzs5oxdUp8FHCfQcFFjtd8Puu5caKXRywIb.png",
+      "notes": [
+        {
+          "title": "Lecture-19 || Number Series || संख्या शृंखला (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/abf5fe87-c861-4aa7-9f5c-285aba3a4f72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-20 || Dice & Cube || पासा और घन (Part-1)",
+      "published_date": "13 May 2024",
+      "video_url": "https://www.youtube.com/embed/Cgc5lllSlxg",
+      "hd_video_url": "https://www.youtube.com/embed/Cgc5lllSlxg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/5bHDNa1BrcWlbbSLNUqSrxnmZNWId7S1raGAFfzK.png",
+      "notes": [
+        {
+          "title": "Lecture-20 || Dice & Cube || पासा और घन (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/33eb9756-6c21-4c79-956f-281db70e1fc3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-21 || Dice & Cube || पासा और घन (Part-2)",
+      "published_date": "14 May 2024",
+      "video_url": "https://www.youtube.com/embed/7g9AFBYy6VM",
+      "hd_video_url": "https://www.youtube.com/embed/7g9AFBYy6VM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/FIa6tmQeuIXjt9Pjr2Kpv0pzUB5AlOt4d8kpmcy8.png",
+      "notes": [
+        {
+          "title": "Lecture-21 || Dice & Cube || पासा और घन (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/d8d2a91c-45f7-46bf-98a6-f60e1590cb0d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-22 || Mathematical operations || गणितीय संक्रियाएँ",
+      "published_date": "15 May 2024",
+      "video_url": "https://www.youtube.com/embed/XKn8h7ORP4Y",
+      "hd_video_url": "https://www.youtube.com/embed/XKn8h7ORP4Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/MBKVAeXURsd0p0TkRDYY0wtaHaz815H2rKfQpwHF.png",
+      "notes": [
+        {
+          "title": "Lecture-22 || Mathematical operations || गणितीय संक्रियाएँ",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/9e8fba10-9f1b-46b6-803c-9b7826c72d7b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-23 || Arithmetic Reasoning || अंकगणितीय तर्क",
+      "published_date": "16 May 2024",
+      "video_url": "https://www.youtube.com/embed/xdTA9JY1a-g",
+      "hd_video_url": "https://www.youtube.com/embed/xdTA9JY1a-g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/vXAaAWEHXU6up0jE9fXNPWwxwD769AAGrJDBKgOa.png",
+      "notes": [
+        {
+          "title": "Lecture-23 || Arithmetic Reasoning || अंकगणितीय तर्क",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/8955dc1b-17d5-4936-99bd-19db399cb8f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-24 || Mock Test-2",
+      "published_date": "17 May 2024",
+      "video_url": "https://www.youtube.com/embed/e3ktDsryX-g",
+      "hd_video_url": "https://www.youtube.com/embed/e3ktDsryX-g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/2mfTRAX9xZIe2gvRXYgBIw7nJZIE0I0t7qO5G3XG.png",
+      "notes": [
+        {
+          "title": "Lecture-24 || Mock Test-2",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/91482764-d700-4375-97f3-fd51c4007f39.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-25 || Figure Counting || चित्र गिनती",
+      "published_date": "20 May 2024",
+      "video_url": "https://www.youtube.com/embed/dvsz7sBwJIY",
+      "hd_video_url": "https://www.youtube.com/embed/dvsz7sBwJIY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/VIcrO2SsRZIjqk6dUYUiERx2NAYlTunFIx3o6iVj.png",
+      "notes": [
+        {
+          "title": "Lecture-25 || Figure Counting || चित्र गिनती",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/66699539-fc44-4de2-bebf-1a51ca98711f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-26 || Figure Based  || चित्र आधारित",
+      "published_date": "21 May 2024",
+      "video_url": "https://www.youtube.com/embed/1nQtgVVjKl0",
+      "hd_video_url": "https://www.youtube.com/embed/1nQtgVVjKl0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/Q40CZ0SvAC24h9dj0wJNeMrVv6MKtnpIO5FNaQcd.png",
+      "notes": [
+        {
+          "title": "Lecture-26 || Figure Based  || चित्र आधारित",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/33c5b11b-a667-4afa-afbe-e52b7ad45965.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-27 || Mirror and Water Image || दर्पण और जल छवि",
+      "published_date": "22 May 2024",
+      "video_url": "https://www.youtube.com/embed/Q2_UeKO0uIE",
+      "hd_video_url": "https://www.youtube.com/embed/Q2_UeKO0uIE",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/fwUwkCAWjjfRBcz7W3siZUgmSowUDr8BgPIlmXRy.png",
+      "notes": [
+        {
+          "title": "Lecture-27 || Mirror and Water Image || दर्पण और जल छवि",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/b50651c5-6e74-4657-9a03-121dc86ffe74.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-28 || Paper Folding and Cutting || कागज मोड़ना और काटना",
+      "published_date": "23 May 2024",
+      "video_url": "https://www.youtube.com/embed/USe-ljP6FQw",
+      "hd_video_url": "https://www.youtube.com/embed/USe-ljP6FQw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/iUvYC7j0RvCCzEAW2Qg9xWZAisYMijnW17ZvRGqo.png",
+      "notes": [
+        {
+          "title": "l28",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/3655aa07-6ce5-4631-90ae-7bcddd1bf2e0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-29 || Venn Diagram || वेन आरेख",
+      "published_date": "24 May 2024",
+      "video_url": "https://www.youtube.com/embed/i3iNTsChiWA",
+      "hd_video_url": "https://www.youtube.com/embed/i3iNTsChiWA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/HoGQPIWjDi8b2dc4LQovP8veyQwsjoObTjyjpmXw.png",
+      "notes": [
+        {
+          "title": "l29",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/947fc957-bc24-4af9-816a-84248132c5e3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-30 || Mock Test-3",
+      "published_date": "27 May 2024",
+      "video_url": "https://www.youtube.com/embed/z01so_NJ7kA",
+      "hd_video_url": "https://www.youtube.com/embed/z01so_NJ7kA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/hGtICsqZfL7fbyeoLums4VOnfliU6YQtX8T42G8P.png",
+      "notes": [
+        {
+          "title": "Lecture-30 || Mock Test-3",
+          "url": "https://kgs-v2.akamaized.net/kgs/pdfs/df72f5e5-e279-4e94-a543-f3441799efb5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

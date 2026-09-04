@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Class 10th Board Hindi Medium Prarambh Batch",
+    "price": "None",
+    "id": "436",
+    "extracted_date": "2025-08-27T15:28:26.957266"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 3669,
+      "video_count": 4,
+      "note_count": 0
+    },
+    {
+      "name": "Maths By Mahendra Sir",
+      "id": 3671,
+      "video_count": 44,
+      "note_count": 41
+    },
+    {
+      "name": "Physics By Jitesh Sir",
+      "id": 3673,
+      "video_count": 33,
+      "note_count": 27
+    },
+    {
+      "name": "Chemistry By Shekhar Sir",
+      "id": 3674,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Biology By Prateek Sir",
+      "id": 3675,
+      "video_count": 40,
+      "note_count": 39
+    }
+  ]
+}

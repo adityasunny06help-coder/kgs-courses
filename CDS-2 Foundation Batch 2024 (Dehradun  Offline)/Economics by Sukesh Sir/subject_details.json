@@ -1,0 +1,93 @@
+{
+  "subject_name": "Economics by Sukesh Sir",
+  "subject_id": 3147,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 01 || Introduction & Syllabus discussion",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/y2ZNoVCOG4E",
+      "hd_video_url": "https://www.youtube.com/embed/y2ZNoVCOG4E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 01 || Introduction & Syllabus discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a447f93-1eba-4f7f-b60e-2ed3bd8372cf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -02 || Money and Banking",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/qqAN0J2mzis",
+      "hd_video_url": "https://www.youtube.com/embed/qqAN0J2mzis",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -02 || Money and Banking",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15325be7-3603-4856-857d-7feda05a357d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture -03 || Money and Banking",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/UPzyohjOXYA",
+      "hd_video_url": "https://www.youtube.com/embed/UPzyohjOXYA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture -03 || Money and Banking",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7630cb5b-39ab-4878-841c-0e8cefa2ecb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Money and Banking",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/7wrDASnMaLI",
+      "hd_video_url": "https://www.youtube.com/embed/7wrDASnMaLI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 04 || Money and Banking",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e85dbb47-17d9-4c61-ae26-0c0fee7fa3dd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Budget and Tax",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/M6_z2INH518",
+      "hd_video_url": "https://www.youtube.com/embed/M6_z2INH518",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 05 || Budget and Tax",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4486c5c5-ba5b-40c0-9032-53e5ed2a6143.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || Budget and Tax",
+      "published_date": "03 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/9sAHqTzgd8E",
+      "hd_video_url": "https://www.youtube.com/embed/9sAHqTzgd8E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture - 06 || Budget and Tax",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa6e8c0d-5a2f-49ea-915a-0d3cf6451b1c.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

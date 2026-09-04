@@ -1,0 +1,32 @@
+{
+  "subject_name": "Orientations Class",
+  "subject_id": 3402,
+  "video_count": 2,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Orientation Class",
+      "published_date": "05 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/xCiNSvLJN7g",
+      "hd_video_url": "https://www.youtube.com/embed/xCiNSvLJN7g",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df088cb0-8ef8-4264-accf-de15ffa5dd4e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Bihar Daroga Syllabus",
+      "published_date": "18 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-U1LotTZats",
+      "hd_video_url": "https://www.youtube.com/embed/-U1LotTZats",
+      "thumbnail": "https://i.ytimg.com/vi/-U1LotTZats/default.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

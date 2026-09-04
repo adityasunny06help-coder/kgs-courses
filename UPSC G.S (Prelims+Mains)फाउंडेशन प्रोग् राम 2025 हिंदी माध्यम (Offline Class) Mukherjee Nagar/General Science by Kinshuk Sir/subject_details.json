@@ -1,0 +1,198 @@
+{
+  "subject_name": "General Science by Kinshuk Sir",
+  "subject_id": 5058,
+  "video_count": 21,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || भौतिक विज्ञान",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/jan-2025/187014/kgss-1738300909-v187014.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Pe9D79RWdCk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2336b7a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || बलों की प्रकृति",
+      "published_date": "03 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188007/kgss-1738560026-v188007.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/oLwp9VKCkKs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd23e10a1.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || General Science by Kinshuk Sir",
+      "published_date": "04 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/188646/kgss-1738646588-v188646.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1vU7E_-coSQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2463f52.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || प्रकाश",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/189623/kgss-1738819151-v189623.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/e0hN0wDvDS0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd24d73ee.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 ||  ध्वनि",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/190075/kgss-1738904421-v190075.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/39vbQJuYS-E",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2553b83.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || विधुत् चुंबकीय स्पेक्ट्रम",
+      "published_date": "10 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191362/kgss-1739163112-v191362.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/dGnnQBG5KCo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd25c7b46.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 ||   विद्युत एवं चुंबक",
+      "published_date": "11 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/191901/kgss-1739249959-v191901.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w_lqgsNMBek",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd26479a9.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || प्रकाश, विद्युत और चुंबकत्व",
+      "published_date": "12 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192175/kgss-1739338559-v192175.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/5YahkSr_kJk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd26b8500.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || ब्रह्मांड",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/192861/kgss-1739422972-v192861.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4mJtC6laYNU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2736a7a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || तारे",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/193429/kgss-1739508821-v193429.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JAy7MiF6OOk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd27ab545.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || कोशिका",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194251/kgss-1739768530-v194251.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/UUAyklzuZMA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd28294ab.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || कोषिकांग",
+      "published_date": "18 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194742/kgss-1739854477-v194742.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/1cbbqBBnmFY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd289d397.jpg",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || स्टेम सेल",
+      "published_date": "19 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/194848/kgss-1739941109-v194848.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/FTDna3ijT3Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2963425.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || किंगडम",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/196840/kgss-1740028375-v196840.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JaQ5JZNG5TU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd29d306a.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 ||  परिसंचरण तंत्र",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/197859/kgss-1740113631-v197859.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/HiWnMyQ_JkA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2a520c9.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || श्वसन तंत्र",
+      "published_date": "24 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/198849/kgss-1740374687-v198849.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/hYaYPP2UdBc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2ac4f4f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || पाचन तंत्र",
+      "published_date": "25 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/199255/kgss-1740459648-v199255.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/65JyoOmQf50",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2b4256e.jpg",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || रोग",
+      "published_date": "28 Feb 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/feb-2025/200745/kgss-1740728327-v200745.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kcC0tyGqQpE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2bb624b.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || कैंसर",
+      "published_date": "01 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201039/kgss-1740813626-v201039.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Dnbgokfqe88",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2c36348.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || रोगाणु-रोधी प्रतिरोधी",
+      "published_date": "03 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/201673/kgss-1740987816-v201673.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/mSD__k7aq-Y",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2ca779c.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || General Science by Kinshuk Sir",
+      "published_date": "04 Mar 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/mar-2025/202175/kgss-1741074037-v202175.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/Evd3CDhP7ME",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680afd2d28087.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

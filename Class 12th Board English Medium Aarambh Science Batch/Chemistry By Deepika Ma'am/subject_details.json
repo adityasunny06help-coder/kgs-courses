@@ -1,0 +1,858 @@
+{
+  "subject_name": "Chemistry By Deepika Ma'am",
+  "subject_id": 3501,
+  "video_count": 61,
+  "note_count": 60,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "1. Solution Part 1",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5iz5PRyM9nU",
+      "hd_video_url": "https://www.youtube.com/embed/5iz5PRyM9nU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c07a124b-5efd-40ac-9dee-50e28c78fa3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "2. Solution Part 2",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/hQ4U1OfM9uk",
+      "hd_video_url": "https://www.youtube.com/embed/hQ4U1OfM9uk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/859d7068-7a0e-4b69-b60f-d9000657286f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "3. Solution Part 3",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/5LJvlqdKZAM",
+      "hd_video_url": "https://www.youtube.com/embed/5LJvlqdKZAM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e9fc27c-159f-46be-8baa-d92ad34e06e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "4. Solution Part  4",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/XEdPISCaXF8",
+      "hd_video_url": "https://www.youtube.com/embed/XEdPISCaXF8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Part  4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3661dff-4319-47c4-a90d-c2a0ff3ae5cd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "5. Solution Part 5",
+      "published_date": "14 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/_OUOIIMAOsQ",
+      "hd_video_url": "https://www.youtube.com/embed/_OUOIIMAOsQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bccee95-5e35-4b6d-a83c-4bcba37592f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "6. Solution DPP Discussion",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-vm2O47SO48",
+      "hd_video_url": "https://www.youtube.com/embed/-vm2O47SO48",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution DPP Discussion",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd456f0d-e64d-41e9-9d92-08d23971355c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "7. Solution Test Paper Discussions",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-vm2O47SO48",
+      "hd_video_url": "https://www.youtube.com/embed/-vm2O47SO48",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Solution Test Paper Discussions",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ff84df4-c1e7-47bf-bd2e-6050b5a3c8f6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "8. Electrochemistry Part 2",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/-r93-v0X1rU",
+      "hd_video_url": "https://www.youtube.com/embed/-r93-v0X1rU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes Electrochemistry Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b1eacdf-1bf3-4d06-bf9d-f0c53e5cb4d5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "9. Electrochemistry Part 3",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/WXNfQeu-A38",
+      "hd_video_url": "https://www.youtube.com/embed/WXNfQeu-A38",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Electrochemistry Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50bb0ab5-969a-4d5d-89cc-d908c036351e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "10. Electrochemistry Part 4",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/zCEQxHYaIN4",
+      "hd_video_url": "https://www.youtube.com/embed/zCEQxHYaIN4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Electrochemistry Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52fac436-c972-46a7-9431-f6cbe2942f6e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "11. Electrochemistry Part 5",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/j4lt5nJGgIA",
+      "hd_video_url": "https://www.youtube.com/embed/j4lt5nJGgIA",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Electrochemistry Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/616bc649-5734-494a-a3ae-08f470efaa82.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "12. Electrochemistry Part 6",
+      "published_date": "25 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ID9HP_ckfLg",
+      "hd_video_url": "https://www.youtube.com/embed/ID9HP_ckfLg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Electrochemistry Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f7e2878d-b9f4-44fd-bfed-d41a10b6dba1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "13. Electrochemistry Part 7",
+      "published_date": "26 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/WjYSNfQOGb0",
+      "hd_video_url": "https://www.youtube.com/embed/WjYSNfQOGb0",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Electrochemistry Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3cdb619-ee5c-4661-8a3a-9352bcf9e1a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "14. Electrochemistry DPP",
+      "published_date": "27 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/4GHKGXPlHfM",
+      "hd_video_url": "https://www.youtube.com/embed/4GHKGXPlHfM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Electrochemistry DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d3e253f-feb1-4d8d-bbe5-79de39ce3ec8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "15. Chemical Kinetics Part 1",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/7ZwyfewbjeM",
+      "hd_video_url": "https://www.youtube.com/embed/7ZwyfewbjeM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Kinetics Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/812bfbfa-5c1c-4f3d-a764-f1fb876cf456.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "16. Chemical Kinetics Part 2",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/e4uIOYeCqlg",
+      "hd_video_url": "https://www.youtube.com/embed/e4uIOYeCqlg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Kinetics Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c91f659e-71ba-4570-8113-cac81092e7b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "17. Chemical Kinetics Part 3",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/LrGrFjSJR6k",
+      "hd_video_url": "https://www.youtube.com/embed/LrGrFjSJR6k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Kinetics Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aa7603d-e3fa-488d-a8da-0e1c10709531.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "18. Chemical Kinetics Part 4",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/EH4XmYhhijY",
+      "hd_video_url": "https://www.youtube.com/embed/EH4XmYhhijY",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Kinetics Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10c04e16-11e9-45ac-8418-272a3ed377d2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "19. Chemical Kinetics DPP",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/QvCDoxouAPc",
+      "hd_video_url": "https://www.youtube.com/embed/QvCDoxouAPc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Chemical Kinetics DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/805104ef-5af7-445b-9f35-812889c2369a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "21. Haloalkanes and Haloarenes Part 1",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/aZyJW4tXf0Q",
+      "hd_video_url": "https://www.youtube.com/embed/aZyJW4tXf0Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8fdd1ab-176b-4919-96c8-a7d958579e57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "22. Haloalkanes and Haloarenes Part 2",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/PAaV4WJEjP4",
+      "hd_video_url": "https://www.youtube.com/embed/PAaV4WJEjP4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3247dd20-c746-46d8-9a60-eba632cb9e0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "23. Haloalkanes and Haloarenes Part 3",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/5nOKzc7V4GI",
+      "hd_video_url": "https://www.youtube.com/embed/5nOKzc7V4GI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50f4365f-7931-4ae1-906a-bea837f504c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "24. Haloalkanes and Haloarenes Part 4",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/TtprcrFxG2U",
+      "hd_video_url": "https://www.youtube.com/embed/TtprcrFxG2U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cffe9fa8-c7b0-4aa4-9ce2-4f22aa71e208.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "25. Haloalkanes and Haloarenes Part 5",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/GUEUxejyU84",
+      "hd_video_url": "https://www.youtube.com/embed/GUEUxejyU84",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-  Haloalkanes and Haloarenes Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9914170-a2c0-4712-9e4a-905a1c57e61b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "26. Haloalkanes and Haloarenes Part 6",
+      "published_date": "17 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/wQCVl-PLDAI",
+      "hd_video_url": "https://www.youtube.com/embed/wQCVl-PLDAI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70c7c832-2a3f-4ce5-945b-324d9a14dc2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "27. Haloalkanes and Haloarenes Part 7",
+      "published_date": "18 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/xNOVAdE-Yvc",
+      "hd_video_url": "https://www.youtube.com/embed/xNOVAdE-Yvc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Haloalkanes and Haloarenes Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7363bada-c2b3-4c10-b3e7-96159c1a9fb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "28. Haloalkanes and Haloarenes DPP",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/IdIZ-RoSfL8",
+      "hd_video_url": "https://www.youtube.com/embed/IdIZ-RoSfL8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes-Haloalkanes and Haloarenes DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ece0f0d-3b65-4677-8c4b-c52ebf8b0221.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "29. Alcohols, Phenols and Ethers Part 1",
+      "published_date": "21 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/mjvkrw63lXU",
+      "hd_video_url": "https://www.youtube.com/embed/mjvkrw63lXU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1676fc45-b68d-4148-9cff-27edf98b900c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "30. Alcohols, Phenols and Ethers Part 2",
+      "published_date": "22 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/jEx5FedeXHk",
+      "hd_video_url": "https://www.youtube.com/embed/jEx5FedeXHk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31c5c12d-2030-48fa-9207-88bab34fd7c1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "31. Alcohols, Phenols and Ethers Part 3",
+      "published_date": "23 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/vyKvQ0UQk68",
+      "hd_video_url": "https://www.youtube.com/embed/vyKvQ0UQk68",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d393b857-88e6-4ab0-9905-579a643a6468.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "32. Alcohols, Phenols and Ethers Part 4",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/7fBAFFBSinM",
+      "hd_video_url": "https://www.youtube.com/embed/7fBAFFBSinM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb5c0bae-7b86-4911-8fbe-ba8dd4de9d72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "33. Alcohols, Phenols and Ethers Part 5",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/q5-OQOrvMAc",
+      "hd_video_url": "https://www.youtube.com/embed/q5-OQOrvMAc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e2fc9ce-db47-4048-aa0e-bc685a575bb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "34. Alcohols, Phenols and Ethers Part 6",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/j47R4nTOCX4",
+      "hd_video_url": "https://www.youtube.com/embed/j47R4nTOCX4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae02613a-a6bd-4dbf-9b5c-98df01819fd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "35. Alcohols, Phenols and Ethers Part 7",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/kG1uXYIhBaU",
+      "hd_video_url": "https://www.youtube.com/embed/kG1uXYIhBaU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0849bb1e-97f6-47b3-89b1-700f2b9ddea7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "36. Alcohols, Phenols and Ethers Part 8",
+      "published_date": "07 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/fLSHQpqxci8",
+      "hd_video_url": "https://www.youtube.com/embed/fLSHQpqxci8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77384a45-f415-4fe1-972b-8ee4f930a63b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "37. Alcohols, Phenols and Ethers DPP",
+      "published_date": "08 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/tSOL2mjpq6A",
+      "hd_video_url": "https://www.youtube.com/embed/tSOL2mjpq6A",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes- Alcohols, Phenols and Ethers DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77c97761-fdba-4c75-ab67-00b32f2b89d7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "38. Aldehydes, Ketones and Carboxylic Acids Part 1",
+      "published_date": "09 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/gv5BCcITZ-k",
+      "hd_video_url": "https://www.youtube.com/embed/gv5BCcITZ-k",
+      "thumbnail": "https://i.ytimg.com/vi/gv5BCcITZ-k/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e15c4f0-9f1a-482a-94b6-aa77b7ef06ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "39. Aldehydes, Ketones and Carboxylic Acids Part 2",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ocbPA2ehaxE",
+      "hd_video_url": "https://www.youtube.com/embed/ocbPA2ehaxE",
+      "thumbnail": "https://i.ytimg.com/vi/ocbPA2ehaxE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ad0f017-4b47-4b40-b965-0595b064c991.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "40. Aldehydes, Ketones and Carboxylic Acids Part 3",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Aup5VzRYu2Q",
+      "hd_video_url": "https://www.youtube.com/embed/Aup5VzRYu2Q",
+      "thumbnail": "https://i.ytimg.com/vi/Aup5VzRYu2Q/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db390e74-2113-4592-924c-803677e6a83c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "41. Aldehydes, Ketones and Carboxylic Acids Part 4",
+      "published_date": "14 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/-OLDV2izYVQ",
+      "hd_video_url": "https://www.youtube.com/embed/-OLDV2izYVQ",
+      "thumbnail": "https://i.ytimg.com/vi/-OLDV2izYVQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43ac858c-9ad8-4046-8716-a390254bc3a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "42. Aldehydes, Ketones and Carboxylic Acids Part 5",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PXM8oyINlEc",
+      "hd_video_url": "https://www.youtube.com/embed/PXM8oyINlEc",
+      "thumbnail": "https://i.ytimg.com/vi/PXM8oyINlEc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5d6af4a-7123-46b7-9e5d-22a657cb767c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "43. Aldehydes, Ketones and Carboxylic Acids Part 6",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/4vMGhWNe7nQ",
+      "hd_video_url": "https://www.youtube.com/embed/4vMGhWNe7nQ",
+      "thumbnail": "https://i.ytimg.com/vi/4vMGhWNe7nQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4202c85-e453-43ed-bd3c-13b7c942002f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "44. Aldehydes, Ketones and Carboxylic Acids Part 7",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/4JWc5RzAYYc",
+      "hd_video_url": "https://www.youtube.com/embed/4JWc5RzAYYc",
+      "thumbnail": "https://i.ytimg.com/vi/4JWc5RzAYYc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e54b347-067a-46c8-8fc8-6f6df1c1aa65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "45. Aldehydes, Ketones and Carboxylic Acids Part 8",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/OP1coBH5xX0",
+      "hd_video_url": "https://www.youtube.com/embed/OP1coBH5xX0",
+      "thumbnail": "https://i.ytimg.com/vi/OP1coBH5xX0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Aldehydes, Ketones and Carboxylic Acids Part 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27cda34b-d64a-44f5-8c27-85b3df47779b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "46. \tAldehydes, Ketones and Carboxylic Acids DPP",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_w8Dw3BMnWM",
+      "hd_video_url": "https://www.youtube.com/embed/_w8Dw3BMnWM",
+      "thumbnail": "https://i.ytimg.com/vi/_w8Dw3BMnWM/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Aldehydes, Ketones and Carboxylic Acids DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37068ce1-493c-420b-9a41-ede4f9b0dcd1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "47. Amines Part 1",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/h7bXI_hyYcE",
+      "hd_video_url": "https://www.youtube.com/embed/h7bXI_hyYcE",
+      "thumbnail": "https://i.ytimg.com/vi/h7bXI_hyYcE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Amines Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/001179c5-dd61-40d6-8f63-b0514b493505.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "48. Amines Part 2",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PwVXVD14D7s",
+      "hd_video_url": "https://www.youtube.com/embed/PwVXVD14D7s",
+      "thumbnail": "https://i.ytimg.com/vi/PwVXVD14D7s/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes- Amines Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/663aeb3a-cb49-4bb7-8523-a9f35ed0bf18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "49. Amines Part 3",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1etrrGR2MxQ",
+      "hd_video_url": "https://www.youtube.com/embed/1etrrGR2MxQ",
+      "thumbnail": "https://i.ytimg.com/vi/1etrrGR2MxQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Amines Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9fab4931-f6ca-48c2-be80-27f2488b6cc4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "50. Amines Part 4",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/gMxcOeoENvc",
+      "hd_video_url": "https://www.youtube.com/embed/gMxcOeoENvc",
+      "thumbnail": "https://i.ytimg.com/vi/gMxcOeoENvc/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Amines Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ff42ca0-2542-4c8d-9d9c-e44efa6b6011.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "51. Amines Part DPP",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9tnYEDFzTBE",
+      "hd_video_url": "https://www.youtube.com/embed/9tnYEDFzTBE",
+      "thumbnail": "https://i.ytimg.com/vi/9tnYEDFzTBE/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- Amines Part DPP",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92c6d6a0-27bd-46b1-a35c-e137e3d9efed.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "52. D & F - Block Elements Part 1",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ICOL82JJ2Lw",
+      "hd_video_url": "https://www.youtube.com/embed/ICOL82JJ2Lw",
+      "thumbnail": "https://i.ytimg.com/vi/ICOL82JJ2Lw/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e03c981c-a320-496a-ba67-8153afb2c3ac.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "53. D & F - Block Elements Part 2",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/3ITR9km-nQk",
+      "hd_video_url": "https://www.youtube.com/embed/3ITR9km-nQk",
+      "thumbnail": "https://i.ytimg.com/vi/3ITR9km-nQk/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3fa2e65-e9c0-4d0c-bda5-7234d70afbe1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "54. D & F - Block Elements Part 3",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5yUgKCiouuo",
+      "hd_video_url": "https://www.youtube.com/embed/5yUgKCiouuo",
+      "thumbnail": "https://i.ytimg.com/vi/5yUgKCiouuo/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94a24d04-2985-42a3-a299-75e28b24c353.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "55. D & F - Block Elements Part 4",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5vH1ob06H0A",
+      "hd_video_url": "https://www.youtube.com/embed/5vH1ob06H0A",
+      "thumbnail": "https://i.ytimg.com/vi/5vH1ob06H0A/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e09b5df1-354a-4140-8795-fc4bc899e41b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "56. D & F - Block Elements Part 5",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/P87RjUSXBwQ",
+      "hd_video_url": "https://www.youtube.com/embed/P87RjUSXBwQ",
+      "thumbnail": "https://i.ytimg.com/vi/P87RjUSXBwQ/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c79c433d-60bf-4c53-b9fe-9a7c8e81178e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "57. D & F - Block Elements Part 6",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/BB_fEfaYev0",
+      "hd_video_url": "https://www.youtube.com/embed/BB_fEfaYev0",
+      "thumbnail": "https://i.ytimg.com/vi/BB_fEfaYev0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Note :- D & F - Block Elements Part 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a91c12f-9038-4f47-94e1-3ddc38706b32.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "58. Alcohols, Phenols & Ethers | Aldehydes | Ketones & Carboxylic Acids",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5AQwtb2Yrg0",
+      "hd_video_url": "https://www.youtube.com/embed/5AQwtb2Yrg0",
+      "thumbnail": "https://i.ytimg.com/vi/5AQwtb2Yrg0/default.jpg",
+      "notes": [
+        {
+          "title": "Class Notes :- 58. Alcohols, Phenols & Ethers | Aldehydes | Ketones & Carboxylic Acids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c7be66d-7728-4271-99bb-7538aa764014.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "59. Maha Revision Session:  Amines & Biomolecules",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/YTiG6W9PcEM",
+      "hd_video_url": "https://www.youtube.com/embed/YTiG6W9PcEM",
+      "thumbnail": "https://i.ytimg.com/vi/YTiG6W9PcEM/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "60. Coordination Compounds Part 1",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/5DcFiyWFh5s",
+      "hd_video_url": "https://www.youtube.com/embed/5DcFiyWFh5s",
+      "thumbnail": "https://i.ytimg.com/vi/5DcFiyWFh5s/default.jpg",
+      "notes": [
+        {
+          "title": "60. Coordination Compounds Part 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7ad9273-8371-42b4-975f-5f9c0ce00920.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 60,
+      "title": "61. Coordination Compounds Part 2",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/wQxOJ-HkYhg",
+      "hd_video_url": "https://www.youtube.com/embed/wQxOJ-HkYhg",
+      "thumbnail": "https://i.ytimg.com/vi/wQxOJ-HkYhg/default.jpg",
+      "notes": [
+        {
+          "title": "61. Coordination Compounds Part 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/641e29a0-0478-401a-b4e8-2084884f6c80.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "62. Amines & Biomolecules",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Tl0otq-mNdM",
+      "hd_video_url": "https://www.youtube.com/embed/Tl0otq-mNdM",
+      "thumbnail": "https://i.ytimg.com/vi/Tl0otq-mNdM/default.jpg",
+      "notes": [
+        {
+          "title": "62. Amines & Biomolecules",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/37cc72c3-969c-4fed-b9b4-3f141d5e885b.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

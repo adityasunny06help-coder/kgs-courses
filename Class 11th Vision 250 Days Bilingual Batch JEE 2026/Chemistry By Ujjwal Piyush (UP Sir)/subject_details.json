@@ -1,0 +1,760 @@
+{
+  "subject_name": "Chemistry By Ujjwal Piyush (UP Sir)",
+  "subject_id": 3343,
+  "video_count": 54,
+  "note_count": 53,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture- 42 || some basic concept of chemistry-5",
+      "published_date": null,
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AuuNkd7e3H1HyZ44Tb5QWv59bHJg5ovPQnbTTnHF.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture- 1 || Periodic Table - 1",
+      "published_date": "02 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/lRLgUB-bkTc",
+      "hd_video_url": "https://www.youtube.com/embed/lRLgUB-bkTc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 1 || Periodic Table - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09a79c4c-8f6a-4ef1-aaca-017b6c73229a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture- 2 || Periodic Table - 2",
+      "published_date": "03 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/G7DgsyV7YHM",
+      "hd_video_url": "https://www.youtube.com/embed/G7DgsyV7YHM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 2 || Periodic Table - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d370f4f-eb7f-4463-9ef9-fea0833370d6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture- 3 || Periodic Table - 3",
+      "published_date": "04 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/hzQWEDNjspE",
+      "hd_video_url": "https://www.youtube.com/embed/hzQWEDNjspE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 3 || Periodic Table - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86e09295-2a3d-4636-a249-83282283d9cb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture- 4 || Periodic Table - 4",
+      "published_date": "05 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/moBHA4Wa5Ps",
+      "hd_video_url": "https://www.youtube.com/embed/moBHA4Wa5Ps",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 4 || Periodic Table - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c04ee81c-10b5-4993-bbe4-29d36a68d8d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture- 5 || Periodic Table - 5",
+      "published_date": "06 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/y5eA7nnutd4",
+      "hd_video_url": "https://www.youtube.com/embed/y5eA7nnutd4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 5 || Periodic Table - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a81ed52a-5fee-472e-b11c-850992f7c02a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture- 6 || Periodic Table - 6",
+      "published_date": "09 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/SOdyiIG_PhE",
+      "hd_video_url": "https://www.youtube.com/embed/SOdyiIG_PhE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 6 || Periodic Table - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35460b90-ce10-4892-9da1-48071e09f4e6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture- 7 || Periodic Table - 7",
+      "published_date": "10 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/3QGy8NC6750",
+      "hd_video_url": "https://www.youtube.com/embed/3QGy8NC6750",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SGAEaPlwqgMkwMrU4AaunqRwdeuFOtcA5Av3Wqm0.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 7 || Periodic Table - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22aa4775-3c2d-46f6-a95e-b901265f9553.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture- 8 || Periodic Table - 8",
+      "published_date": "11 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/zapYaeX2Iqw",
+      "hd_video_url": "https://www.youtube.com/embed/zapYaeX2Iqw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Gt9D53VpdZ7Ud7WDJInGQNJFJYTMErPtt41gE5Fh.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 8 || Periodic Table - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68d88ea4-43ed-4650-b4b9-5a5939fbc343.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture- 9 || Periodic Table - 9",
+      "published_date": "12 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Zr8_AG4C494",
+      "hd_video_url": "https://www.youtube.com/embed/Zr8_AG4C494",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YREElZtshkf2lxui0ZJAmjOWfNgW0bUVdIrwbyj3.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 9 || Periodic Table - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ada5666d-2ebe-48c9-b476-544a9a9bd895.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture- 10 || Periodic Table - 10",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/qhr7CWb4WOA",
+      "hd_video_url": "https://www.youtube.com/embed/qhr7CWb4WOA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XQkql5wpY8qCey9Tb4bCyAaccsKTUO1fsBQ0TAil.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 10 || Periodic Table - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94d5c6a6-82de-4308-a3cd-6c430c7355df.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture- 11 || Periodic Table - 11",
+      "published_date": "16 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/ahKqp_eyiiU",
+      "hd_video_url": "https://www.youtube.com/embed/ahKqp_eyiiU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jJWnj4DXIatPA7c77fKDeIwS5IUqKgV80W3vGwEW.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 11 || Periodic Table - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74c2605c-5c2a-4ed7-9748-c67353e10507.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture- 12 || Periodic Table - 12",
+      "published_date": "17 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/HX9eNf06ouY",
+      "hd_video_url": "https://www.youtube.com/embed/HX9eNf06ouY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4wfMHGwBl8aqwXs37hPnG1g9CMQ6AzENyc5VRUw1.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 12 || Periodic Table - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32c17e5d-667a-4586-81c7-872118b04883.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture- 13 || Chemical Bonding and Molecular Structure - 1",
+      "published_date": "18 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/GHal8qOcVjM",
+      "hd_video_url": "https://www.youtube.com/embed/GHal8qOcVjM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PjrAastCDbIsMnfJQczjaer31H59qc149u8zw98r.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 13 || Chemical Bonding and Molecular Structure - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34f52bbc-1e56-4868-982a-734320d95b51.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture- 14 || Chemical Bonding and Molecular Structure - 2",
+      "published_date": "19 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/yAcIjp7MkyM",
+      "hd_video_url": "https://www.youtube.com/embed/yAcIjp7MkyM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/saL7T5LNynxynUoLxSmMgLXiTzTHQPGx1A36oOul.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 14 || Chemical Bonding and Molecular Structure - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afedeadb-2d07-42a8-b2be-7700a4aa4e2c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture- 15 || Chemical Bonding and Molecular Structure - 3",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/F7Svyd4ICg0",
+      "hd_video_url": "https://www.youtube.com/embed/F7Svyd4ICg0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Gjv7UFzYkQ77twVu45Q9n6QBP0IpbLioXSpQY0qc.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 15 || Chemical Bonding and Molecular Structure - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0233dd9-d24e-4096-b103-b46239f17b1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture- 16 || Chemical Bonding and Molecular Structure - 4",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/kITXbQRg_qc",
+      "hd_video_url": "https://www.youtube.com/embed/kITXbQRg_qc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/olKUFEzcocLhS2aEoEFx7Qi6RbkHVCqe4Iv6Avn4.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 16 || Chemical Bonding and Molecular Structure - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/608ddc0a-4070-4f52-89ac-43b38473875a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture- 17 || Chemical Bonding and Molecular Structure - 5",
+      "published_date": "01 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/2mvN7uRg_UY",
+      "hd_video_url": "https://www.youtube.com/embed/2mvN7uRg_UY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9NCF1KWtfh4N6frMYCzlspIFPBKxIxn4II86lehq.jpg",
+      "notes": [
+        {
+          "title": "Class notes - Lecture- 17 || Chemical Bonding and Molecular Structure - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f9cb665-0f04-4790-ae19-78fd1d59b40f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture- 18 || Chemical Bonding and Molecular Structure - 6",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/arnPdOuYhBQ",
+      "hd_video_url": "https://www.youtube.com/embed/arnPdOuYhBQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZLPgn9pRedSoYJCjC0eQh0YrZ28y6S3loNKUzsjy.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 18 || Chemical Bonding and Molecular Structure - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0244b345-68e9-4735-b855-dce0d2bc3f4f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture- 19 || Chemical Bonding and Molecular Structure - 7",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/QPHr-lruAno",
+      "hd_video_url": "https://www.youtube.com/embed/QPHr-lruAno",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1czYd6ulUte7q6E19ax7ZKRGibzgUBQuNKWZwyMN.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 19 || Chemical Bonding and Molecular Structure - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8cd697b9-977e-4e45-bf4c-7122625a8445.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture- 20 || Chemical Bonding and Molecular Structure - 8",
+      "published_date": "08 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ZnrTWrV0zQk",
+      "hd_video_url": "https://www.youtube.com/embed/ZnrTWrV0zQk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/e2u4GZ4TBoSFRtbH2hSFXvI7Iz1HXjvzyyrap5BE.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 20 || Chemical Bonding and Molecular Structure - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a366130-4a2a-4f33-831e-b06e53589080.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture- 21 || Chemical Bonding and Molecular Structure - 9",
+      "published_date": "10 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/V7IeK4hp9UE",
+      "hd_video_url": "https://www.youtube.com/embed/V7IeK4hp9UE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mSakWWUR8CVPm4W6JDhOKb4UsoCUZNGtD87qDZHL.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 21 || Chemical Bonding and Molecular Structure - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5e8f6a9-d481-4a58-8d40-5f149b1db718.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture- 22 || Chemical Bonding and Molecular Structure - 10",
+      "published_date": "11 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/MpyC0v7gH_4",
+      "hd_video_url": "https://www.youtube.com/embed/MpyC0v7gH_4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ARqFMTwXnfh2CuZfZlX5PoY2tLNXRicYycOyQLO1.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 22 || Chemical Bonding and Molecular Structure - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f6708e1-271c-4272-a06e-ef769a7c51ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture- 23 || Chemical Bonding and Molecular Structure - 11",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/ITGsWAotKxw",
+      "hd_video_url": "https://www.youtube.com/embed/ITGsWAotKxw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6wTNbhgAoqHdkuHBvRJIDvlOPV5ISejdC1Grxd16.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 23 || Chemical Bonding and Molecular Structure - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85bc9ef9-18a7-4a40-8bd4-ddb246b542b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture- 24 || Chemical Bonding and Molecular Structure - 12",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/N_XvC1gG6JQ",
+      "hd_video_url": "https://www.youtube.com/embed/N_XvC1gG6JQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eG9AdXFoHuZ3zhSDboC0Yp5iSpRmthJlhSNF8dYy.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 24 || Chemical Bonding and Molecular Structure - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20bd27cc-f1af-4c9e-8387-2f08bb081a7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture- 25 || Chemical Bonding and Molecular Structure - 13",
+      "published_date": "14 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/979kWLkN_gc",
+      "hd_video_url": "https://www.youtube.com/embed/979kWLkN_gc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mCt9lYg8JvJouYdzMOjlly0N2vrdrEJ6DWdGBy3N.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 25 || Chemical Bonding and Molecular Structure - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88a2e2b1-e0ea-4a5e-8786-9722dd131e7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture- 26 || Chemical Bonding and Molecular Structure - 14",
+      "published_date": "15 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/kBRbuluzE5I",
+      "hd_video_url": "https://www.youtube.com/embed/kBRbuluzE5I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qiitmY8CSYR4nATqlXuzXtkx5fXYkZvKeSEOzrjq.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 26 || Chemical Bonding and Molecular Structure - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adf3e6c9-c412-4f50-bc20-a635eb31a126.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture- 27 || Chemical Bonding and Molecular Structure - 15",
+      "published_date": "16 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/c3xQIsSqymI",
+      "hd_video_url": "https://www.youtube.com/embed/c3xQIsSqymI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c0Qxl1ikKsPD9CFcPQZwGA0X8EMbZGaifjokb07N.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 27 || Chemical Bonding and Molecular Structure - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c85f58e-9028-4aa8-8ad9-502ddce1f4f3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture- 28 || P - Block Element - 1",
+      "published_date": "24 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/DvJzKD0QUVk",
+      "hd_video_url": "https://www.youtube.com/embed/DvJzKD0QUVk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yLX7FHrwCglnLZZGDKIgS3VsWa96I5Ek7LAJTRnY.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 28 || P - Block Element - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3404120d-44ac-477f-a56f-da199a797982.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture- 29 || P - Block Element - 2",
+      "published_date": "25 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/tugCjdxE66A",
+      "hd_video_url": "https://www.youtube.com/embed/tugCjdxE66A",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lpFYngyljM2fpmUPc0YgyApZUSr9NTAfBNJSRb91.jpg",
+      "notes": [
+        {
+          "title": "Class Notes - Lecture- 29 || P - Block Element - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52e1a049-8285-4c6a-a26b-61520b72247f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture- 30 || P - Block Element - 3",
+      "published_date": "28 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/cwmhlD5Xpaw",
+      "hd_video_url": "https://www.youtube.com/embed/cwmhlD5Xpaw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/aEXvzIH2muvIO8WWpBe7o5BUIDeDTtepd3KYiSIi.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 30 || P - Block Element - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7df2cbc0-2138-42b2-bc52-1b7d58eb0fe6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture- 31 || P - Block Element - 4",
+      "published_date": "29 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/Z1ntG36HuYs",
+      "hd_video_url": "https://www.youtube.com/embed/Z1ntG36HuYs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uHwJXAxXXJ7is1WLJXsbkz2mr9ct7cSwkKdQG5B2.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 31 || P - Block Element - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04e4ca24-ffd8-485a-9319-8a4f39acb2ea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture- 32 || P - Block Element - 5",
+      "published_date": "04 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/F94tiYsKfGg",
+      "hd_video_url": "https://www.youtube.com/embed/F94tiYsKfGg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nq1C4dMagcSiQ84yqLSbzMvotZTElBDGarduoT7f.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 32 || P - Block Element - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2345b9fa-b1d1-4902-83ee-e8d9cbe0d920.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture- 33 || P - Block Element - 6",
+      "published_date": "05 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/6S1_sYXpd_I",
+      "hd_video_url": "https://www.youtube.com/embed/6S1_sYXpd_I",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thpRjpieXwnWU99JB1gm5oUzV9QwLwdfYEeF0YF3.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 33 || P - Block Element - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/147e5cd6-925c-405d-ac4b-ebf4ac91343e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture- 34 || P - Block Element - 7",
+      "published_date": "06 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/F_I86cNSPu0",
+      "hd_video_url": "https://www.youtube.com/embed/F_I86cNSPu0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AneqB3RRXIt4WHPAfatRFhJICYHaxIjQJk0G0iRg.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 34 || P - Block Element - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8813e754-891f-45a4-a9c3-e654c74ee582.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture- 35 || P - Block Element - 8",
+      "published_date": "11 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PadFqRh0eQk",
+      "hd_video_url": "https://www.youtube.com/embed/PadFqRh0eQk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ldy63KIdbzCTyDb7nNwZYzOXMJ6z1lo9dSLSWfDj.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 35 || P - Block Element - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65bf6ce6-95c8-4d3d-9141-49241970b0eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture- 36|| P - Block Element - 9",
+      "published_date": "12 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/MIth1JOIuLw",
+      "hd_video_url": "https://www.youtube.com/embed/MIth1JOIuLw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gq8aq3cJj1I7R4iCQGA4hAVTIVAbIe2ZdBCt2L5h.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 36|| P - Block Element - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/907fc116-9f16-45c9-a7d6-ec3aab2a7c8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture- 37|| P - Block Element - 10",
+      "published_date": "13 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/hqVlFpvQtbc",
+      "hd_video_url": "https://www.youtube.com/embed/hqVlFpvQtbc",
+      "thumbnail": "https://i.ytimg.com/vi/hqVlFpvQtbc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 37|| P - Block Element - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53fe22b3-e87f-465b-a098-a022e2aa078e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture- 38 || some basic concept of chemistry-1",
+      "published_date": "15 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/nPgqxY_cHAU",
+      "hd_video_url": "https://www.youtube.com/embed/nPgqxY_cHAU",
+      "thumbnail": "https://i.ytimg.com/vi/nPgqxY_cHAU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 38 || some basic concept of chemistry-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/81c1d5d9-c04e-4c38-943b-39af0ada9ada.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture- 39 || some basic concept of chemistry-2",
+      "published_date": "18 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/SH8_j2BXcq8",
+      "hd_video_url": "https://www.youtube.com/embed/SH8_j2BXcq8",
+      "thumbnail": "https://i.ytimg.com/vi/SH8_j2BXcq8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 39 || some basic concept of chemistry-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9370200-9ee7-4dcf-9c28-ddc405274b72.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture- 40 || some basic concept of chemistry-3",
+      "published_date": "19 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/pZqvuqTQ4Zg",
+      "hd_video_url": "https://www.youtube.com/embed/pZqvuqTQ4Zg",
+      "thumbnail": "https://i.ytimg.com/vi/pZqvuqTQ4Zg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 40 || some basic concept of chemistry-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8720f95c-72f8-41e0-8b8c-07a4a9caa16d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture- 41 || some basic concept of chemistry-4",
+      "published_date": "20 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/yTjxl5eFLYQ",
+      "hd_video_url": "https://www.youtube.com/embed/yTjxl5eFLYQ",
+      "thumbnail": "https://i.ytimg.com/vi/yTjxl5eFLYQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 41 || some basic concept of chemistry-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a219ad71-7d66-4c6b-beba-47ae85b2f1b0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture- 42  || some basic concept of chemistry-5",
+      "published_date": "21 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/U9ccdolFUwI",
+      "hd_video_url": "https://www.youtube.com/embed/U9ccdolFUwI",
+      "thumbnail": "https://i.ytimg.com/vi/U9ccdolFUwI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 42  || some basic concept of chemistry-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18414259-80fc-460d-947d-54359f849b6c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture- 43 || some basic concept of chemistry-6",
+      "published_date": "22 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/DQKlf2PROYM",
+      "hd_video_url": "https://www.youtube.com/embed/DQKlf2PROYM",
+      "thumbnail": "https://i.ytimg.com/vi/DQKlf2PROYM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 43 || some basic concept of chemistry-6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6eb62e8a-56eb-4bcf-84b7-c6311ac63b0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture- 44 || some basic concept of chemistry-7",
+      "published_date": "25 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/3oO42hh2-a8",
+      "hd_video_url": "https://www.youtube.com/embed/3oO42hh2-a8",
+      "thumbnail": "https://i.ytimg.com/vi/3oO42hh2-a8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 44 || some basic concept of chemistry-7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06bb5f79-af8d-4ad3-bf94-088bdf1f8286.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture- 45 || some basic concept of chemistry-8",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/Lt_OFq_rH5w",
+      "hd_video_url": "https://www.youtube.com/embed/Lt_OFq_rH5w",
+      "thumbnail": "https://i.ytimg.com/vi/Lt_OFq_rH5w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 45 || some basic concept of chemistry-8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82d388b9-2581-409e-9ebf-c0b91424164e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture- 46 || some basic concept of chemistry-9",
+      "published_date": "27 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/s-ERHwdBC7k",
+      "hd_video_url": "https://www.youtube.com/embed/s-ERHwdBC7k",
+      "thumbnail": "https://i.ytimg.com/vi/s-ERHwdBC7k/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 46 || some basic concept of chemistry-9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f8a7915-f897-4f45-9b76-eb0e061207da.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture- 47 || some basic concept of chemistry-10",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/kH76SHH1Jfs",
+      "hd_video_url": "https://www.youtube.com/embed/kH76SHH1Jfs",
+      "thumbnail": "https://i.ytimg.com/vi/kH76SHH1Jfs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 47 || some basic concept of chemistry-10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e465dbcc-d8a3-4520-a7fd-3e04f97e14f0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture- 48  || some basic concept of chemistry-11",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/JNBShCYnkew",
+      "hd_video_url": "https://www.youtube.com/embed/JNBShCYnkew",
+      "thumbnail": "https://i.ytimg.com/vi/JNBShCYnkew/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 48  || some basic concept of chemistry-11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07123484-cbae-4521-83e3-e648203c69fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture- 49 ||Redox reaction-1",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-8bAkDccqYg",
+      "hd_video_url": "https://www.youtube.com/embed/-8bAkDccqYg",
+      "thumbnail": "https://i.ytimg.com/vi/-8bAkDccqYg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 49 ||Redox reaction-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afb3bd49-e973-4c2c-895b-ceb1906ee3f7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture- 49 || Redox reaction-2",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/_XFH9rCCMQU",
+      "hd_video_url": "https://www.youtube.com/embed/_XFH9rCCMQU",
+      "thumbnail": "https://i.ytimg.com/vi/_XFH9rCCMQU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 49 || Redox reaction-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2245cafe-f251-4dc9-9056-70c5903df390.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture- 50 || Redox reaction-3",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/pWqvSV3LUm0",
+      "hd_video_url": "https://www.youtube.com/embed/pWqvSV3LUm0",
+      "thumbnail": "https://i.ytimg.com/vi/pWqvSV3LUm0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 50 || Redox reaction-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2897b6a9-a565-4eae-bd5e-3f102bbfe740.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture- 51 || Redox reaction-4",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RcguFxy9H54",
+      "hd_video_url": "https://www.youtube.com/embed/RcguFxy9H54",
+      "thumbnail": "https://i.ytimg.com/vi/RcguFxy9H54/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 51 || Redox reaction-4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da0ee151-fe72-4d4c-845b-61209739baca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture- 52 || Redox reaction-5",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/iG5MCa6zuo0",
+      "hd_video_url": "https://www.youtube.com/embed/iG5MCa6zuo0",
+      "thumbnail": "https://i.ytimg.com/vi/iG5MCa6zuo0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture- 52 || Redox reaction-5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6caa40ec-b5cd-4605-b87c-1ad4a39c5edb.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

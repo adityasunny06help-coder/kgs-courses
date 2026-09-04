@@ -1,0 +1,120 @@
+{
+  "subject_name": "Chemistry by Sumit Mehta Sir",
+  "subject_id": 5126,
+  "video_count": 9,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture  1 || Isomerism -1",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/oVB3Kc4ONDI",
+      "hd_video_url": "https://www.youtube.com/embed/oVB3Kc4ONDI",
+      "thumbnail": "https://i.ytimg.com/vi/oVB3Kc4ONDI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Isomerism -2",
+      "published_date": "06 Feb 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hgA18Fd1RwYzvjt4yxvCRiVMquwDZfdt5xOOuv8i.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Isomerism -3",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/pZaQyyxrsug",
+      "hd_video_url": "https://www.youtube.com/embed/pZaQyyxrsug",
+      "thumbnail": "https://i.ytimg.com/vi/pZaQyyxrsug/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Isomerism -3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de346b14-c354-488d-8210-6d426cd51b4b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 5 || Isomerism -5",
+      "published_date": "08 Feb 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ePZWUV3k1tcsdL633JirpIGEIWL05uWXhRTYtWk4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 7 || GOC 1",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/EZhlIF3ZYtM",
+      "hd_video_url": "https://www.youtube.com/embed/EZhlIF3ZYtM",
+      "thumbnail": "https://i.ytimg.com/vi/EZhlIF3ZYtM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Isomerism -7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/269973f1-d9c3-4481-b078-524a58fd5917.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 8 || GOC 2",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/GpTcwPvPtF4",
+      "hd_video_url": "https://www.youtube.com/embed/GpTcwPvPtF4",
+      "thumbnail": "https://i.ytimg.com/vi/GpTcwPvPtF4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -18 || GOC - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/269973f1-d9c3-4481-b078-524a58fd5917.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 9 || GOC 3",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/7WInp-f06xo",
+      "hd_video_url": "https://www.youtube.com/embed/7WInp-f06xo",
+      "thumbnail": "https://i.ytimg.com/vi/7WInp-f06xo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -19 || GOC - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b8379b1-ae8e-4ffe-b5d3-f32c4328e606.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 10 || GOC - 4",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/XdPMO1-z__w",
+      "hd_video_url": "https://www.youtube.com/embed/XdPMO1-z__w",
+      "thumbnail": "https://i.ytimg.com/vi/XdPMO1-z__w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -20 || GOC - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c643c02f-8f82-4fa5-a9e3-564e249ce8e8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 11 || GOC - 5",
+      "published_date": "17 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/aybelcUCecc",
+      "hd_video_url": "https://www.youtube.com/embed/aybelcUCecc",
+      "thumbnail": "https://i.ytimg.com/vi/aybelcUCecc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || GOC - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/883299e3-259d-45d8-96c2-8049311e54a6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

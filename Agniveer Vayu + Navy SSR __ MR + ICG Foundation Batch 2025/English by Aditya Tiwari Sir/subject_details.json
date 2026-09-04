@@ -1,0 +1,46 @@
+{
+  "subject_name": "English by Aditya Tiwari Sir",
+  "subject_id": 8387,
+  "video_count": 3,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || English",
+      "published_date": "25 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/SnyDdxSBZhQ",
+      "hd_video_url": "https://www.youtube.com/embed/SnyDdxSBZhQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RebfcBsmA3ygTVMOGj2keR1kBw98QZpYSf5SLiax.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || English",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbc3a267-bd5b-4e05-9b58-b0554f54b803.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || English",
+      "published_date": "26 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/aeNLxORmK6U",
+      "hd_video_url": "https://www.youtube.com/embed/aeNLxORmK6U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/K3YNQSaVr9MFI0V9ypTLD2CfMLow727JiGqmPEos.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || English",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5cde468-2439-4a78-9482-d6026d04d03b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || English",
+      "published_date": "28 Aug 2025",
+      "video_url": "",
+      "hd_video_url": "",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YQedKjLKNGsd0E0oYcqqPVTqq5xCWapdfVXmZSZ2.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

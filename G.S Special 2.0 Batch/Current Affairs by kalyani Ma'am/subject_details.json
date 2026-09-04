@@ -1,0 +1,79 @@
+{
+  "subject_name": "Current Affairs by kalyani Ma'am",
+  "subject_id": 2771,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || January Monthly 2024 (Part-01)",
+      "published_date": "20 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/13GUgOtYB8k",
+      "hd_video_url": "https://www.youtube.com/embed/13GUgOtYB8k",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-01 || January Monthly 2024 (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fb1bc84-640d-41dd-9b31-f00cb5c253a4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || January Monthly 2024 (Part-02)",
+      "published_date": "21 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/8PCZm_ksO9Q",
+      "hd_video_url": "https://www.youtube.com/embed/8PCZm_ksO9Q",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "l2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce9eb849-b267-41b6-81da-b842314ffdbe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || February Monthly 2024 (Part-01)",
+      "published_date": "26 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/Q-L8A1p3Leo",
+      "hd_video_url": "https://www.youtube.com/embed/Q-L8A1p3Leo",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-03 || February Monthly 2024 (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfefaa67-c795-4c7b-b108-70be5d574cc5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || February Monthly 2024 (Part-02)",
+      "published_date": "27 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/cWUCdEVL_ks",
+      "hd_video_url": "https://www.youtube.com/embed/cWUCdEVL_ks",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-04 || February Monthly 2024 (Part-02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cece9e20-64c7-4878-a956-99df296939c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || March Monthly 2024 (Part-01)",
+      "published_date": "28 Jun 2024",
+      "video_url": "https://www.youtube.com/embed/c5KQ0xmhHDs",
+      "hd_video_url": "https://www.youtube.com/embed/c5KQ0xmhHDs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture-05 || March Monthly 2024 (Part-01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3602fa15-20dd-44f1-907a-cdf4c1967271.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

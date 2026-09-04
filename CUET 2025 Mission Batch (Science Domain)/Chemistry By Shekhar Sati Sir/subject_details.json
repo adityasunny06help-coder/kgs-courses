@@ -1,0 +1,485 @@
+{
+  "subject_name": "Chemistry By Shekhar Sati Sir",
+  "subject_id": 5887,
+  "video_count": 34,
+  "note_count": 34,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -01 || Solution (विलयन ) - 1",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/oE2DEY8SarY",
+      "hd_video_url": "https://www.youtube.com/embed/oE2DEY8SarY",
+      "thumbnail": "https://i.ytimg.com/vi/oE2DEY8SarY/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture -01 || Solution (विलयन ) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/541b22c1-8007-44b5-bf97-e433fcfe2364.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture -02 ||  Solution (विलयन ) - 2",
+      "published_date": "02 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/NCPhWyAw9Vs",
+      "hd_video_url": "https://www.youtube.com/embed/NCPhWyAw9Vs",
+      "thumbnail": "https://i.ytimg.com/vi/NCPhWyAw9Vs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture -02 ||  Solution (विलयन ) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38212f4f-d5ff-4c67-8f38-8fe53c8e7aca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 03 ||  Solution (विलयन ) - 3",
+      "published_date": "03 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/iK75ffNTWQE",
+      "hd_video_url": "https://www.youtube.com/embed/iK75ffNTWQE",
+      "thumbnail": "https://i.ytimg.com/vi/iK75ffNTWQE/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture - 03 ||  Solution (विलयन ) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/697a2756-ba2e-4479-910a-a6d257769fa7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 04 || Electrochemistry ( वैद्युतरसायन ) - 1",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/fWCcdwKuAJU",
+      "hd_video_url": "https://www.youtube.com/embed/fWCcdwKuAJU",
+      "thumbnail": "https://i.ytimg.com/vi/fWCcdwKuAJU/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTES - Lecture - 04 || Electrochemistry ( वैद्युतरसायन ) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b659586-7bc8-4b72-b18e-e3d5892aa533.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 05 || Electrochemistry ( वैद्युतरसायन ) - 2",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/saar64Qdq50",
+      "hd_video_url": "https://www.youtube.com/embed/saar64Qdq50",
+      "thumbnail": "https://i.ytimg.com/vi/saar64Qdq50/default.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 05 || Electrochemistry ( वैद्युतरसायन ) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed90dd2f-f8b1-4c0a-8ed8-467d59b9d267.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 06 || Electrochemistry ( वैद्युतरसायन ) - 3",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/T0fUAmyFnp4",
+      "hd_video_url": "https://www.youtube.com/embed/T0fUAmyFnp4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/x9rF342HH5AWemUOjC37QMYnYC1ScQplwmRd1UjG.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE -  Lecture - 06 || Electrochemistry ( वैद्युतरसायन ) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42ccf04d-1f59-452c-89de-03c4c72e8101.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 07 || Electrochemistry(वैद्युतरसायन) - 4",
+      "published_date": "11 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/ZOrEuZIiARA",
+      "hd_video_url": "https://www.youtube.com/embed/ZOrEuZIiARA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/djzL8ocVRbMJgbBlZ6pC6v2GCD8NlEKii847L2BS.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 07 || Electrochemistry(वैद्युतरसायन) - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b0ebaf0-8677-41f3-8e92-aba75e48ddb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 08 || रासायनिक गतिकी (Chemical Kinetics) -1",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/mlmYsMO6YPc",
+      "hd_video_url": "https://www.youtube.com/embed/mlmYsMO6YPc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ChY8kgFmjogsMZk7IoX3fr9Yt1WhHJoAAKJdgNSV.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 08 || रासायनिक गतिकी (Chemical Kinetics) -1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52a5e404-2eae-482a-a8cc-53f278409c08.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 09 || रासायनिक गतिकी (Chemical Kinetics) -2",
+      "published_date": "12 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/V3f38zPyTZg",
+      "hd_video_url": "https://www.youtube.com/embed/V3f38zPyTZg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fPYJN648EeUoatFM3V2MU0T8nl11NLj5P6V7gZza.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 09 || रासायनिक गतिकी (Chemical Kinetics) -2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22ec1056-3ac7-445d-95cb-7b615c34cd14.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || d and f Block Elements (d और f-ब्लॉक तत्व) - 1",
+      "published_date": "14 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/yVpvevFG53k",
+      "hd_video_url": "https://www.youtube.com/embed/yVpvevFG53k",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mT1JGozScSdKiNOSAQIldq0ENa1VpSflRG0g0cu5.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 10 || d and f Block Elements (d और f-ब्लॉक तत्व) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c40f8669-1539-464c-9763-202422773e48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || d and f Block Elements (d और f-ब्लॉक तत्व) - 2",
+      "published_date": "16 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/1rTd1dXBua0",
+      "hd_video_url": "https://www.youtube.com/embed/1rTd1dXBua0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/okXYeXmbFwVfKm1LfnlVMjGVIyKPAmyCLOaKTH50.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 11 || d and f Block Elements (d और f-ब्लॉक तत्व) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/507e7170-c4a9-40ca-9ca9-1f4e5a801e76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || d and f Block Elements (d और f-ब्लॉक तत्व) - 3",
+      "published_date": "17 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/DhFfRO0FqTY",
+      "hd_video_url": "https://www.youtube.com/embed/DhFfRO0FqTY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/q0weK0mDR6TiySic00jKN87xbiIbxX7PBlgA3zD7.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 12 || d and f Block Elements (d और f-ब्लॉक तत्व) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31fe3f87-7cd4-407b-8b7b-b988e7e33ed4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 1",
+      "published_date": "18 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/vb_twew9pvY",
+      "hd_video_url": "https://www.youtube.com/embed/vb_twew9pvY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YcCFV4hmLG3QdaKT7mE3n4qPjjO5Wd23xlvxmHvm.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88927c4c-4935-407f-a926-11431ace5db9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 2",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/2cABNQTqdhI",
+      "hd_video_url": "https://www.youtube.com/embed/2cABNQTqdhI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/26dSxGJcbUEXGF0H0QtFs0PhrWtUC9vRqYfLTsOW.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/974365d9-1a61-41f2-bbe9-034d187d02ad.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || d & f BLOCK - 4",
+      "published_date": "19 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/96OfILgq6jI",
+      "hd_video_url": "https://www.youtube.com/embed/96OfILgq6jI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EcXOrjbq4jBlPMfYZ61vsTcPTbHvyaQe3NzUH8ne.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || d & f BLOCK - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04ed2b89-bd33-4529-8b30-df943c9f15fd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 3",
+      "published_date": "21 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/rYY6LQYdhvY",
+      "hd_video_url": "https://www.youtube.com/embed/rYY6LQYdhvY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/F2hHZrzL6zNApenuIaW92uYghS7urBE77vtY0cMa.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 16 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9c0e2da-89d9-4f61-a0e8-e8e6a405fbfd.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 4",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Pk_ZjpjmJ-Q",
+      "hd_video_url": "https://www.youtube.com/embed/Pk_ZjpjmJ-Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hYyHpimlt1fbH8tcN7Eao8oEoFBAAm9U0UfklW9l.jpg",
+      "notes": [
+        {
+          "title": "CLAS NOTE - Lecture - 17 || उपसहसंयोजन यौगिक ( Coordination Compounds) - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce5b0577-b665-44fc-a0c7-d52065a79e65.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 ||  Haloalkanes and Haloarenes (हैलोएल्केन्स और हैलोएरीन) - 1",
+      "published_date": "22 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/TfA_AWFXn7g",
+      "hd_video_url": "https://www.youtube.com/embed/TfA_AWFXn7g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/S1cNKgY25905Rjs1zOFjKame4SSFcoBADSujVCA9.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 18 ||  Haloalkanes and Haloarenes (हैलोएल्केन्स और हैलोएरीन) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cda69d9-f22a-48e7-a981-45b465130768.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || Haloalkanes and Haloarenes (हैलोएल्केन्स और हैलोएरीन) - 2",
+      "published_date": "23 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/y-G6SH_rUmU",
+      "hd_video_url": "https://www.youtube.com/embed/y-G6SH_rUmU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AcAMUwh0WCBQNFIJswkM2opEieyNqN2DJPIpKmih.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || Haloalkanes and Haloarenes (हैलोएल्केन्स और हैलोएरीन) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b21dfd4-73ea-4b4e-9907-9ba7f702fa16.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 1",
+      "published_date": "24 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/z9ey3EUM3zE",
+      "hd_video_url": "https://www.youtube.com/embed/z9ey3EUM3zE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/7MY7ItAafqFDn4GH27wsiqft2aGNzrOS34BcQFh1.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 20 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf36d6d0-cd14-42b3-a62d-318a0d543500.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 2",
+      "published_date": "25 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Fq20W58TIFY",
+      "hd_video_url": "https://www.youtube.com/embed/Fq20W58TIFY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fUW7u0mwkpWJWESrNUbOCIHGmJFOMtjsHy1N0sf7.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c13ca76f-909f-4d97-a1e5-f82f3928df96.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 3",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/IseGsziSCsM",
+      "hd_video_url": "https://www.youtube.com/embed/IseGsziSCsM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Tq4CdzrKH7gSBumaOK3J8xqDkAGQgthsD5La9vn3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2e917bf6-04ce-486f-97f9-1f5c7238d9eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 4",
+      "published_date": "26 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/EpSOjCBCWdk",
+      "hd_video_url": "https://www.youtube.com/embed/EpSOjCBCWdk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xVzvwK5znQJJ8qb1L01Qv12jURA80BdouRwTM9xy.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || Alcohols, Phenols and Ethers (ऐल्कोहॉल फिनोल तथा ईथर) - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40142f25-ce65-4fc5-91dc-1faa386a6aea.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 ||  Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 1",
+      "published_date": "27 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/SudPDm3uLJw",
+      "hd_video_url": "https://www.youtube.com/embed/SudPDm3uLJw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XcfPeYMzQ6j8PvsxpDOBHcDyUCXxyq9kPKCLgrEQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 ||  Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a3de34c-e483-4a66-9cbd-a3759b216f84.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 2",
+      "published_date": "28 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GDaTiIELNTQ",
+      "hd_video_url": "https://www.youtube.com/embed/GDaTiIELNTQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oZs4Lnm5EiE7v9X0rP1zOKQbg93duOQGgjAT5LmU.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86f4a9b0-a7ac-49df-8309-e5a3b4e47f70.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 3",
+      "published_date": "29 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/4MSTUcSuu0U",
+      "hd_video_url": "https://www.youtube.com/embed/4MSTUcSuu0U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Px3hSjr1ctWep9650t0n5mKWl1vJxhVXJs3MsRK3.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड कीटोन तथा कार्बाॅक्सीलिक अम्ल) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8d6dc30-059b-437e-a86f-3d8e74f4101e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 ||  Amines (ऐमीन ) - 1",
+      "published_date": "30 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/f8vcZCwmJMA",
+      "hd_video_url": "https://www.youtube.com/embed/f8vcZCwmJMA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UffE2ZVaJseikyKC6RaROts9fJEF25MocvuaSM3h.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 27 ||  Amines (ऐमीन )",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10121a91-064b-4845-b270-fffefc39951c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Amines (ऐमीन ) - 2",
+      "published_date": "01 May 2025",
+      "video_url": "https://www.youtube.com/embed/NgLEAjjpa5U",
+      "hd_video_url": "https://www.youtube.com/embed/NgLEAjjpa5U",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5d5dxtl3Dy2OaTb0MNbShNS2YO1AlaV0lgFFJFTQ.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Amines (ऐमीन ) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31249f31-b82c-4584-845a-0297e867d60b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Biomolecules (जैव-अणु) - 1",
+      "published_date": "02 May 2025",
+      "video_url": "https://www.youtube.com/embed/GgdBcoHE1A0",
+      "hd_video_url": "https://www.youtube.com/embed/GgdBcoHE1A0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wUH0Z9JD6bSrKQxl5qjJswJb60KNAn2dIdU8xdcq.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE  - Lecture - 29 || BIOMOLECULES (जैव-अणु)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e28a4182-20df-4b7d-aaeb-0e4d845f843e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Biomolecules (जैव-अणु) - 2",
+      "published_date": "03 May 2025",
+      "video_url": "https://www.youtube.com/embed/bbZf5x26y00",
+      "hd_video_url": "https://www.youtube.com/embed/bbZf5x26y00",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6uv0fwPyY9giXFM2amid3TEJjkptAET2kX88rfJ6.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 30 || Biomolecules (जैव-अणु) - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f820f959-c243-4d8d-9ed6-02d9928af844.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Biomolecules (जैव-अणु) - 3",
+      "published_date": "05 May 2025",
+      "video_url": "https://www.youtube.com/embed/yNaSotWcwpg",
+      "hd_video_url": "https://www.youtube.com/embed/yNaSotWcwpg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TU2L1QGpA17CGLpfgJ1Nmyu5xFX2ZeMqwPRhj2EC.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 31 || Biomolecules (जैव-अणु) - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1ff6a85-f90e-4405-882f-f11e71e6b306.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Biomolecules (जैव-अणु) - 4",
+      "published_date": "07 May 2025",
+      "video_url": "https://www.youtube.com/embed/NHbyFhBu7ic",
+      "hd_video_url": "https://www.youtube.com/embed/NHbyFhBu7ic",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FzB7KoPAXkg687PLY4udz8TnQkBcql2LfuOaGese.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 32 || Biomolecules (जैव-अणु) - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b33ecd8-d5ab-47e7-9aaf-09a663fcdd52.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || DOUBT SESSION - 1",
+      "published_date": "08 May 2025",
+      "video_url": "https://www.youtube.com/embed/FF0FqhWgoiY",
+      "hd_video_url": "https://www.youtube.com/embed/FF0FqhWgoiY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AsfkT4Z8NYvLLI8xQbMZkwmXAeRCsZRz1Ahz7eab.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 33 || DOUBT SESSION - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75f4d372-1024-43a4-83e5-762da2c4648b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || DOUBT SESSION - 2",
+      "published_date": "10 May 2025",
+      "video_url": "https://www.youtube.com/embed/tTuwIVGkelQ",
+      "hd_video_url": "https://www.youtube.com/embed/tTuwIVGkelQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6sQO3ExhEiF9JlTExe71GtOzlb437fxoc6f9xWr1.jpg",
+      "notes": [
+        {
+          "title": "CLASS NOTE - Lecture - 34 || DOUBT SESSION - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b900f29f-411a-4c2a-b07c-4e77360b6aa4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

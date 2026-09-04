@@ -1,0 +1,105 @@
+{
+  "subject_name": "Current Affairs by Khan Sir",
+  "subject_id": 1320,
+  "video_count": 9,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || December Current Affairs Part-01",
+      "published_date": "06 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/iqG1Qfqwpwg",
+      "hd_video_url": "https://www.youtube.com/embed/iqG1Qfqwpwg",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//0638cf50-61fb-45dd-98a2-db7d99b6c40c.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || December Current Affairs Part-02",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/5magtwoTiaA",
+      "hd_video_url": "https://www.youtube.com/embed/5magtwoTiaA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c92b9786-a0b6-4f08-8150-6a7208c35971.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || January Current Affairs Part-01",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/4RyaZXYpMr8",
+      "hd_video_url": "https://www.youtube.com/embed/4RyaZXYpMr8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/z7dz4wNI1O25AGmRl8gReWCSG6Aknv9u5rN0HPKb.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || January Current Affairs Part-02",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/Qbxos3AAvYc",
+      "hd_video_url": "https://www.youtube.com/embed/Qbxos3AAvYc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GzYNZXK0pSxlGVbVWeT7cTn7XxG7mCp7SLnS01jT.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || February Current Affairs Part-01",
+      "published_date": "24 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/ByPWV4L8e0k",
+      "hd_video_url": "https://www.youtube.com/embed/ByPWV4L8e0k",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/NIwr0xdydhu8P7NIpPyJ733y0P7QuF5KZ1Lqfh7v.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || February Current Affairs Part-02",
+      "published_date": "02 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/AvBmxI_OceY",
+      "hd_video_url": "https://www.youtube.com/embed/AvBmxI_OceY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ABgoGxjRJ5BizhZ86IErT3QNrwEeAxXPVpiqeIwM.png",
+      "notes": [
+        {
+          "title": "February Current Affairs Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/002cc09f-cc92-4c8b-8d8a-d890c76b4ec9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 || March Current Affairs Part-01",
+      "published_date": "09 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "hd_video_url": "https://www.youtube.com/embed/10M-yA83_gM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/VvCBVgZoinrt1rWJJkgE0SBN3EMD8EBoJw9Xn5nQ.png",
+      "notes": [
+        {
+          "title": "March Current Affairs Part-01",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/4bfcedad-7d3a-4052-b3b9-b4434cebe05a.03"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 || March Current Affairs Part-02",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "hd_video_url": "https://www.youtube.com/embed/rB78YkmXhqY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/UZrEVl8pqtDfCYhmBoDrHYluiFaU0uenNrCPyIyH.png",
+      "notes": [
+        {
+          "title": "March Current Affairs Part-02",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bbaa0ea8-9eba-46ed-933d-5a684cff33c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 || April Current Affairs Part-01",
+      "published_date": "20 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/F0A0C1wljIQ",
+      "hd_video_url": "https://www.youtube.com/embed/F0A0C1wljIQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/a8o23RObeDYWUfmBZ0GuD166wenp2dhG7mgTVytD.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

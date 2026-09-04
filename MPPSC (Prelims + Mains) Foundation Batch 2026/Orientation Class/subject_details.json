@@ -1,0 +1,68 @@
+{
+  "subject_name": "Orientation Class",
+  "subject_id": 4822,
+  "video_count": 6,
+  "note_count": 1,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "History Orientation Class",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/6ITtYGilRgE",
+      "hd_video_url": "https://www.youtube.com/embed/6ITtYGilRgE",
+      "thumbnail": "https://i.ytimg.com/vi/6ITtYGilRgE/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "MP History Orientation Class",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/E9pnpQqotj0",
+      "hd_video_url": "https://www.youtube.com/embed/E9pnpQqotj0",
+      "thumbnail": "https://i.ytimg.com/vi/E9pnpQqotj0/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Sociology Orientation Class",
+      "published_date": "17 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/aOwDNWbyf60",
+      "hd_video_url": "https://www.youtube.com/embed/aOwDNWbyf60",
+      "thumbnail": "https://i.ytimg.com/vi/aOwDNWbyf60/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Orientation Class -GS MAINS 2(A) :Unit-2,3,4 & 5 (MP History)",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Ly1U3vmvZgI",
+      "hd_video_url": "https://www.youtube.com/embed/Ly1U3vmvZgI",
+      "thumbnail": "https://i.ytimg.com/vi/Ly1U3vmvZgI/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Indian Geography Orientation Class",
+      "published_date": "01 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/GQ2ban49LKA",
+      "hd_video_url": "https://www.youtube.com/embed/GQ2ban49LKA",
+      "thumbnail": "https://i.ytimg.com/vi/GQ2ban49LKA/default.jpg",
+      "notes": [
+        {
+          "title": "Indian Geography Orientation Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d6083b4a-8ea6-46ef-b9c6-64d542df1a0c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Computer Orientation Class",
+      "published_date": "20 Aug 2025",
+      "video_url": "https://www.youtube.com/embed/0Bt62LbDDr4",
+      "hd_video_url": "https://www.youtube.com/embed/0Bt62LbDDr4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8ZEc4LaQqyFVnRddCcAAAFzcrJ4879GLvKo3ofDj.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,457 @@
+{
+  "subject_name": "Chemistry By Avinash Sir",
+  "subject_id": 7075,
+  "video_count": 32,
+  "note_count": 32,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || States of Matter-1",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/f6Q8QWVnll4",
+      "hd_video_url": "https://www.youtube.com/embed/f6Q8QWVnll4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L8ot0AemOcVt03gN8p1T8qRaHFsaBs3LjTL26snn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01 || States of Matter-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55bf0612-eeb1-4d49-a28c-7c3ad3812efe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || States of Matter-2",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/TI6b4FVxoFQ",
+      "hd_video_url": "https://www.youtube.com/embed/TI6b4FVxoFQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RwmdUESSHUr1dAr9UleO3hXyDqh1BEFNc6ZTVGQo.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02 || States of Matter-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a489ff4-43d5-4cd9-afd2-c43a5261b851."
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 || Periodic Table 1",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/3dffL6WQTNk",
+      "hd_video_url": "https://www.youtube.com/embed/3dffL6WQTNk",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KG1fXVNtEIGiz5VKZ1h4v5dSzV7BwvqYyKkWdx6Z.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03 || Periodic Table 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74de6a98-164f-4d59-827d-3b6617f3e563.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 || Periodic Table 2",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/GQR3fZgswpw",
+      "hd_video_url": "https://www.youtube.com/embed/GQR3fZgswpw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nk1dK0GEAN0WUouejHzFTQBosby9dBPY284Ydxya.jpg",
+      "notes": [
+        {
+          "title": "Lecture 04 || Periodic Table 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a07a03f-d6f8-42f5-a1ec-ef28017bc0e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 || Periodic Table 3",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/CaI0CqmVkx4",
+      "hd_video_url": "https://www.youtube.com/embed/CaI0CqmVkx4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9SEPfCD36d1GhDKFfoK5EPYLMwppSSF59xn0cq9R.jpg",
+      "notes": [
+        {
+          "title": "Lecture 05 || Periodic Table 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2438b99-febc-401c-8462-6443f7b511b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 06 || Periodic Table 4",
+      "published_date": "02 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ekttaugw2XY",
+      "hd_video_url": "https://www.youtube.com/embed/ekttaugw2XY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5SJUU8WaFsLDcTSA6fSCMdFSYxq9C2T5Szr1XoT5.jpg",
+      "notes": [
+        {
+          "title": "Lecture 06 || Periodic Table 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eac448c7-e5be-42cd-8832-73fcc28507c2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 07 || Periodic Table 5",
+      "published_date": "03 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/SiAdT0K_pS8",
+      "hd_video_url": "https://www.youtube.com/embed/SiAdT0K_pS8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qb4P3MWy1f5M02Lbe34PskN6ZYM84KHwjWWKiCBb.jpg",
+      "notes": [
+        {
+          "title": "Lecture 07 || Periodic Table 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e9a89ac-93df-45a8-be6c-8cdd37d363f4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 08 || Periodic Table 6",
+      "published_date": "04 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/R392i7NMJgo",
+      "hd_video_url": "https://www.youtube.com/embed/R392i7NMJgo",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UZ4GPWdbvqgn7ITvLrK6K0IxkZYcMtjT2Q8J76M7.jpg",
+      "notes": [
+        {
+          "title": "Lecture 08 || Periodic Table 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e392d2ae-3361-402e-8b07-3515e29b4d78.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 09 || Periodic Table 7",
+      "published_date": "05 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/tiWW1khEIv0",
+      "hd_video_url": "https://www.youtube.com/embed/tiWW1khEIv0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ymoPi9dsGca8Bmld2Fn3uU0C6r8TwOnnTkTMQY3L.jpg",
+      "notes": [
+        {
+          "title": "Lecture 09 || Periodic Table 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e8f6aac-d004-458f-88dd-808cb271dfcb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Acid, Base And Salt-1",
+      "published_date": "06 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/exBruTbjLi0",
+      "hd_video_url": "https://www.youtube.com/embed/exBruTbjLi0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q2rxFR3l7sZ5oRGeMyO9slKcpQfJYiSrwNKZrzgH.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Acid, Base And Salt-1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24bbc630-e44e-4f7e-a7e6-669473f4dac4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Acid, Base And Salt-2",
+      "published_date": "09 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/k_Wvv3j37TE",
+      "hd_video_url": "https://www.youtube.com/embed/k_Wvv3j37TE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uk0JDcNUyPSPJZRBTERSAsmNdCU2AIvYvT8O0ODT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Acid, Base And Salt-2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c59fc04-1e4d-41af-b0a3-e795eae43183.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Acid, Base And Salt-3",
+      "published_date": "10 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/abnnufOqYq4",
+      "hd_video_url": "https://www.youtube.com/embed/abnnufOqYq4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iz7kpRpsWxksUjHGJaMODR1ZFci49DbCqs6P8xIy.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Acid, Base And Salt-3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bc839ee-116c-430c-9a27-7a31cdd64497.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Acid, Base And Salt (Part 04)",
+      "published_date": "11 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/DolEmCqSWXA",
+      "hd_video_url": "https://www.youtube.com/embed/DolEmCqSWXA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZJKcNTW3zLzOXSXPQveraRC2HhxxOgmyEQKQgOvX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Acid, Base And Salt (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96f8cda7-2bf4-4ba9-a1f6-e1cb7254e378.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Acid, Base And Salt (Part 05)",
+      "published_date": "12 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/vvdx5pKoEDg",
+      "hd_video_url": "https://www.youtube.com/embed/vvdx5pKoEDg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L4J2hEBFsPAa4VRflCsql3NDdtjMiHXxaZRxPLfX.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Acid, Base And Salt (Part 05)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13052850-581e-4adc-a34e-d51041b36858.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Acid, Base And Salt (Part 06)",
+      "published_date": "13 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/0V8Lj2ymFRc",
+      "hd_video_url": "https://www.youtube.com/embed/0V8Lj2ymFRc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GEgLgYe84h6hKHq90Tsk8KhpS8UXEgND5GsE62GI.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Acid, Base And Salt (Part 06)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9bf21bc-4564-43e4-aef5-01e3b1e2aeb6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Chemical Bonding (Part 01)",
+      "published_date": "16 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/DWOAgtVW0w0",
+      "hd_video_url": "https://www.youtube.com/embed/DWOAgtVW0w0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wIW247m3HzFl1U8bSEXPqUbXRRzh9Rs4Lk0yg8rN.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Chemical Bonding (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dbe307c-e814-45c9-94d6-ed97697bb2bc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Chemical Bonding (Part 02)",
+      "published_date": "17 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/SbHArCtbY28",
+      "hd_video_url": "https://www.youtube.com/embed/SbHArCtbY28",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g7T8oaD2VfuOKpAiPxWAgy60chjRoCpaVfGIHiyE.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Chemical Bonding (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6565e833-63e2-4a5f-80bd-93da12435856.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Chemical Reaction (Part 01)",
+      "published_date": "18 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/Ng6SoD_PbPQ",
+      "hd_video_url": "https://www.youtube.com/embed/Ng6SoD_PbPQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JBl59z2oa4UmNd5dYndu6UHHWI8N8wEoGupmhTFv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Chemical Reaction (Part 01)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fb2ad45-a5ae-445d-bac2-e0aeb2e4dad1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Chemical Reaction (Part 02)",
+      "published_date": "19 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/LY80AKS-Ukc",
+      "hd_video_url": "https://www.youtube.com/embed/LY80AKS-Ukc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/scO1JQefr5PiEtZIb9tyUqPP0waZH1iYIDb4QbKn.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Chemical Reaction (Part 02)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60f1c9e9-d75b-48f5-babb-c0c110dcb70a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Chemical Reaction (Part 03)",
+      "published_date": "20 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/vArVC7Fy3eU",
+      "hd_video_url": "https://www.youtube.com/embed/vArVC7Fy3eU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/trflyHoKISLVPwvFDZbH3whDh0aBsxrnfcLwkJ1j.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Chemical Reaction (Part 03)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab07f239-02fc-43fa-b46b-fdaeb8271ef2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Chemical Reaction (Part 04)",
+      "published_date": "21 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/q2fsARfvBg8",
+      "hd_video_url": "https://www.youtube.com/embed/q2fsARfvBg8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Mwq7V1znYBUAiqEiLJqcN3AdJAu6lDxhYlaxu6jt.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Chemical Reaction (Part 04)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39491086-3e72-4d76-9d4d-d9c0174bcbec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Fuel and Metals and non metals",
+      "published_date": "22 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/2X_fOg8g-tY",
+      "hd_video_url": "https://www.youtube.com/embed/2X_fOg8g-tY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aPIKHZxL05hVRPATqcIIOoesf0gQ4RpG9ugTAOpY.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Fuel and Metals and non metals",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/566d8678-8095-4bb5-b147-0b3dcbac6284.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Metal and non metal (Part 02) and Colloids",
+      "published_date": "27 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/j0_xj45NNqg",
+      "hd_video_url": "https://www.youtube.com/embed/j0_xj45NNqg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hSPVEqN6o4nSQOEDvHfIa9OfToL1j76IxSGypBj0.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Metal and non metal (Part 02) and Colloids",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54822ca2-f007-4801-95c8-dbbda375d814.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Chemistry By Avinash Sir",
+      "published_date": "28 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/eoVO8Miq87M",
+      "hd_video_url": "https://www.youtube.com/embed/eoVO8Miq87M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dZfE5zW0PKsOJ9jLAMVy1A4SPJvaWY8d03pJ5pkv.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b72b792-b469-46d6-92aa-913d92344b3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Chemistry By Avinash Sir",
+      "published_date": "29 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/EPX_AcUCtI4",
+      "hd_video_url": "https://www.youtube.com/embed/EPX_AcUCtI4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jtyEPQjS1LgD0UUQnm09w2NQwi7j7QiCyG0FIvk9.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/208cc30a-f519-428d-bed0-1c92c95a04a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Chemistry By Avinash Sir",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/lsLB8iBl3Fs",
+      "hd_video_url": "https://www.youtube.com/embed/lsLB8iBl3Fs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D8vWPFX9hc8FlXha9VEYWBxNwqTCnoFSLJ81svnT.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd01cf33-14af-46c1-b931-57136319047b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Chemistry By Avinash Sir",
+      "published_date": "30 Jun 2025",
+      "video_url": "https://www.youtube.com/embed/ZwB95J5LE6Q",
+      "hd_video_url": "https://www.youtube.com/embed/ZwB95J5LE6Q",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dCWLuMfWgG9KIJbGVxNCnmEJWUoSB243wJin4z2G.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e95be80c-18a5-4604-9633-194e36fd2088.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Chemistry By Avinash Sir",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/rV-7LX4AavU",
+      "hd_video_url": "https://www.youtube.com/embed/rV-7LX4AavU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jOnoHiDe0S3FGoGiVIP3lGWrn2DZIRD1tKgMZSKf.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76bfd906-0e02-4afb-8a65-df7856da0564.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Chemistry By Avinash Sir",
+      "published_date": "01 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/lWcukKxoZ5M",
+      "hd_video_url": "https://www.youtube.com/embed/lWcukKxoZ5M",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/B5qsS44dIFuF7v9aeYqarfzTSLHRncIQfI9ABHud.jpg",
+      "notes": [
+        {
+          "title": "Lecture 29 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47de321a-6608-414e-bb0b-1a0b5148d8f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Chemistry By Avinash Sir",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/D2s4hL85b5w",
+      "hd_video_url": "https://www.youtube.com/embed/D2s4hL85b5w",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3Rwsnbmf4oUHGltMdy9aTAhwf9nkvcRxkmg6fnUF.jpg",
+      "notes": [
+        {
+          "title": "Lecture 30 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f5bc358-16b2-4750-9856-3c1b6e32f97d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Chemistry By Avinash Sir",
+      "published_date": "02 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/jVIYvfPpmzs",
+      "hd_video_url": "https://www.youtube.com/embed/jVIYvfPpmzs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RI6IF56JBDSzfrvnB0gtLLB6R9YSAF9PrxybXuYx.jpg",
+      "notes": [
+        {
+          "title": "Lecture 31 || Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b8a9d30-b05c-4741-9cfe-40f54981b477.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || (Last Class) Chemistry By Avinash Sir",
+      "published_date": "03 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/vZuAF5-YyW0",
+      "hd_video_url": "https://www.youtube.com/embed/vZuAF5-YyW0",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4BZ2N4oMsQkk5rcKKy8p8fzH1fJ7OgwaKoTAkMkz.jpg",
+      "notes": [
+        {
+          "title": "Lecture 32 || (Last Class) Chemistry By Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a370172d-8faa-401f-92c5-8315253c3497.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

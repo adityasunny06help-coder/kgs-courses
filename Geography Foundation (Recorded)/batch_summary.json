@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "Geography Foundation (Recorded)",
+    "price": "199",
+    "id": "20",
+    "extracted_date": "2025-08-27T17:44:01.407115"
+  },
+  "subjects": [
+    {
+      "name": "Astronomy (World Geography)",
+      "id": 76,
+      "video_count": 16,
+      "note_count": 0
+    },
+    {
+      "name": "Topography (World Geography)",
+      "id": 77,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Geology (World Geography)",
+      "id": 78,
+      "video_count": 29,
+      "note_count": 0
+    },
+    {
+      "name": "Indian Geography",
+      "id": 79,
+      "video_count": 26,
+      "note_count": 0
+    },
+    {
+      "name": "Revision Classes",
+      "id": 327,
+      "video_count": 16,
+      "note_count": 0
+    }
+  ]
+}

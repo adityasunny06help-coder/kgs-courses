@@ -1,0 +1,90 @@
+{
+  "subject_name": "कृषि",
+  "subject_id": 7878,
+  "video_count": 9,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || कृषि के नियंत्रक कारक || सिंचाई",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l149/lecture149.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l149/lecture149.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/71NZEZ5VxL3HwV9NcByqyLhNsJeIZT6NYpWBYgzs.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भारत का भूमि उपयोग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l150/lecture150.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l150/lecture150.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8EV4APU6XiZmc8bmSA1z0TkvJ7VBD6zqFoDy8b3K.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || भारत में कृषि विकास",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l151/lecture151.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l151/lecture151.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/syhnaSyT5fMJgLYe8vVxfRuUTIlJuudHIGTvIEOH.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || भारत में कृषि विकास के चरण",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l152/lecture152.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l152/lecture152.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Of6CrNAG3A3C4MFw1Wdme0o2BQS1SslirysFbYFQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || भारतीय कृषि का प्रादेशीकरण",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l153/lecture153.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l153/lecture153.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3Mc6iC3E0WcOg12dNC367xxgHylXeYhGBMqg2MLv.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || भारत कृषि उत्पादकता",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l154/lecture154.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l154/lecture154.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eCG1c8CctCxbuiZM79Tel8dmg4dnhJd6fW6U332i.jpg",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || भारत में उद्योग || सीमेंट उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l144/lecture144.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l144/lecture144.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r1t7jANZT9JbOWfF8AaYeaLRGmrnxJ57KgYAnOX8.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 7 || फसल बीज, उर्वरक",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l155/lecture155.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l155/lecture155.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nYRubrKat97xl6Pgycphi32ouLLBnxXPPyghN54f.jpg",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 8 || भारतीय कृषि का इतिहास एवं समस्याएं",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l156/lecture156.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l156/lecture156.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2VZmGWUmg4v0Nsl7EQNwtGCnWZYbWWkTSnrHZGZo.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

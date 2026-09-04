@@ -1,0 +1,63 @@
+{
+  "subject_name": "उद्योग",
+  "subject_id": 7879,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || भारत के उद्योग एवं औद्योगिक क्षेत्र",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/new/l138-2/lecture138-2.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/new/l138-2/lecture138-2.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mZkZXnwcgpfiW6pkYz4swPd9MG1fcTvj1Vtp6Zlc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || भारत में उद्योग || चीनी उद्योग, सूती वस्त्र उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l139/l139.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l139/l139.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/deruQ4xiRNam8NqlykQTnfrfgHU5FKpesOxRrtst.jpg",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || भारत में उद्योग  || सूती वस्त्र उद्योग, रेशम उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l140/l140.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l140/l140.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YlEU0bLofgezNmVIwl1Rrv4xYItWL0KdXIkF8C1V.jpg",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || भारत में उद्योग || वन आधारित उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l141/l141.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l141/l141.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PB2QdPLqhhYKipmo5gMKnJl5LQrwhK2pgXWr314T.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || भारत में उद्योग || भारत का लौह इस्पात उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l142/l142.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l142/l142.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3qDwd4lG9AaW7RUXhjDcVvvZSnUJ6jE31QDdKtcn.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || भारत में उद्योग || रसायन उद्योग",
+      "published_date": "17 Jul 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l143/lecture143.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kv3/geo-131/l143/lecture143.m3u8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Yc8mwEkW4wBjxJ3BDrflHGAo2Ud8QQWlL4FQtqX7.jpg",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

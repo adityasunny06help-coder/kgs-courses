@@ -1,0 +1,63 @@
+{
+  "subject_name": "Demo Classes of All Subjects",
+  "subject_id": 3683,
+  "video_count": 6,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Demo Class of English (Parts of Speech)",
+      "published_date": "20 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/Q8zSCth3Tsg",
+      "hd_video_url": "https://www.youtube.com/embed/Q8zSCth3Tsg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e459afa68.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Demo Class of Reasoning (Calender)",
+      "published_date": "30 Sep 2024",
+      "video_url": "https://www.youtube.com/embed/oSdTlIitwZw",
+      "hd_video_url": "https://www.youtube.com/embed/oSdTlIitwZw",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PijxwatBBfjSndUDsprFb9nM4mZmeKbW3WXtI2GF.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Demo Class of Arithmetic Maths (Ratio & Proportion)",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/M47oPt_9pRQ",
+      "hd_video_url": "https://www.youtube.com/embed/M47oPt_9pRQ",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fYfoEKV0RLnlupiVje3KluDTumnN8qYTBDXU5nVq.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Demo Class of History (Harappan Civilization Part-01)",
+      "published_date": "07 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/VmiTWRT6kCs",
+      "hd_video_url": "https://www.youtube.com/embed/VmiTWRT6kCs",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4WI9MILC6Vms4ZN1sxX1fUUSES5xUEsEwZF8TTon.jpg",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Demo Class of History (Harappan Civilization Part-02)",
+      "published_date": "09 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/BcXj4BF9AbU",
+      "hd_video_url": "https://www.youtube.com/embed/BcXj4BF9AbU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6106fLUlPQLpAqm6IpUHmZODzRtCznuWbRZgOFDE.jpg",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Demo Class of Economics (Inflation)",
+      "published_date": "19 Oct 2024",
+      "video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "hd_video_url": "https://www.youtube.com/embed/oUyknZXwx-4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ADrUY85QH2xNj6JR4tkxw17ehrtxY2oFzJU5FZF6.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

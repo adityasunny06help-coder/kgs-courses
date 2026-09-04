@@ -1,0 +1,54 @@
+{
+  "subject_name": "Bihar Geography By Ajeet Sir",
+  "subject_id": 794,
+  "video_count": 5,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-1: Geographical structure of Bihar(बिहार की भौगोलिक संरचना )",
+      "published_date": "17 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/4nyjot6vPWk",
+      "hd_video_url": "https://www.youtube.com/embed/4nyjot6vPWk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b3d6ed36-2472-439f-ba69-ba9b27f89c68.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-2: Climate of Bihar (बिहार की जलवायु )",
+      "published_date": "18 Sep 2023",
+      "video_url": "https://www.youtube.com/embed/ma0rkz50M-c",
+      "hd_video_url": "https://www.youtube.com/embed/ma0rkz50M-c",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ca95f213-643c-4623-9946-37ad6eb98bba.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 03 : Drainage system of Bihar(बिहार का अपवाह तंत्र )",
+      "published_date": "19 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bihar-geo/l-03/l-03-bihar-geo-bpsc.m3u8",
+      "hd_video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bihar-geo/l-03/l-03-bihar-geo-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ed23fcf0-dcfa-4879-b122-8b69f1ed4aad.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 04 : Agriculture of Bihar (बिहार कृषि)",
+      "published_date": "19 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bihar-geo/l-04/l-04-bihar-geo-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/bihar-geo/l-04/l-04-bihar-geo-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9d806a55-73ab-4933-815d-e6d7241592ef.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 05 : India Census 2011(जनगणना )",
+      "published_date": "20 Sep 2023",
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/state-pcs/bpsc/bihar-geo/l-05/l-05-bihar-geo-bpsc.m3u8",
+      "hd_video_url": "https://1179218413.rsc.cdn77.org/kgs3/state-pcs/bpsc/bihar-geo/l-05/l-05-bihar-geo-bpsc.m3u8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ee0943cc-fa97-4baf-9fd6-7f4688affc1b.png",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

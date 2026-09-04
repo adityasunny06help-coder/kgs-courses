@@ -1,0 +1,93 @@
+{
+  "subject_name": "HMT By Varun Sharma Sir",
+  "subject_id": 6040,
+  "video_count": 6,
+  "note_count": 6,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 || Basics of Heat Transfer",
+      "published_date": "04 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/9DuLFqqvXi0",
+      "hd_video_url": "https://www.youtube.com/embed/9DuLFqqvXi0",
+      "thumbnail": "https://i.ytimg.com/vi/9DuLFqqvXi0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-01 || Basics of Heat Transfer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cd29d83-fda1-4c4c-8c98-0f28b5e0a0bf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || Modes of heat transfer",
+      "published_date": "05 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/2FD6j30kgp8",
+      "hd_video_url": "https://www.youtube.com/embed/2FD6j30kgp8",
+      "thumbnail": "https://i.ytimg.com/vi/2FD6j30kgp8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Modes of heat transfer",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ef77b88-d032-4338-9fee-ca0097689ebf.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || Definition & Rate laws",
+      "published_date": "07 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/PQ4ADvy7AFA",
+      "hd_video_url": "https://www.youtube.com/embed/PQ4ADvy7AFA",
+      "thumbnail": "https://i.ytimg.com/vi/PQ4ADvy7AFA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Definition & Rate laws",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf2b671a-006e-4acb-bb4c-446b66a9f0b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || Conduction",
+      "published_date": "08 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/Aeye8P0Apyg",
+      "hd_video_url": "https://www.youtube.com/embed/Aeye8P0Apyg",
+      "thumbnail": "https://i.ytimg.com/vi/Aeye8P0Apyg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Conduction",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6846eab5-c92c-49e9-9a8a-ed5db8978171.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || Convection",
+      "published_date": "09 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/R7BBi7y5HKM",
+      "hd_video_url": "https://www.youtube.com/embed/R7BBi7y5HKM",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DY5BVIVP8EyzoLN2bXuWyyyKTc50HhT02htQixdh.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Convection",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ebe52d16-85b9-44d8-b7f9-277b33cf7f63.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 || Radiation",
+      "published_date": "10 Apr 2025",
+      "video_url": "https://www.youtube.com/embed/jOqQFG3VynA",
+      "hd_video_url": "https://www.youtube.com/embed/jOqQFG3VynA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YFgFR7oQywqAhrZSnYFTBeAFJk0cCdy53X2bluxm.jpg",
+      "notes": [
+        {
+          "title": "Lecture-06 || Radiation",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c725e54-a0b7-4e51-b1c2-0a414362d304.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

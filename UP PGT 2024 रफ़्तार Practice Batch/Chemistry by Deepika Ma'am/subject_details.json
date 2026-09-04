@@ -1,0 +1,401 @@
+{
+  "subject_name": "Chemistry by Deepika Ma'am",
+  "subject_id": 4380,
+  "video_count": 28,
+  "note_count": 28,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1 || Introduction Class",
+      "published_date": "26 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ZMkB_F8lMB8",
+      "hd_video_url": "https://www.youtube.com/embed/ZMkB_F8lMB8",
+      "thumbnail": "https://i.ytimg.com/vi/ZMkB_F8lMB8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 1 || Chemistry Practice Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c424c18b-32c5-4b9d-a5a3-345b644a40e1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || General Organic Chemistry",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/mJI68H23jrY",
+      "hd_video_url": "https://www.youtube.com/embed/mJI68H23jrY",
+      "thumbnail": "https://i.ytimg.com/vi/mJI68H23jrY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 2 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32df0c70-35c2-4fea-9549-a6e4685f2851.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Reagents",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/ULLMcswRVXc",
+      "hd_video_url": "https://www.youtube.com/embed/ULLMcswRVXc",
+      "thumbnail": "https://i.ytimg.com/vi/ULLMcswRVXc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 3 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/949c43bb-eb5e-435f-acfc-1c2794fff17d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Reactive intermediates",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/PXVls7OVl2Y",
+      "hd_video_url": "https://www.youtube.com/embed/PXVls7OVl2Y",
+      "thumbnail": "https://i.ytimg.com/vi/PXVls7OVl2Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 4 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c71e87e8-5214-48f0-9f1f-4a603a8bfbfa.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Mechanism of Reactions",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/ExcpeR8giNA",
+      "hd_video_url": "https://www.youtube.com/embed/ExcpeR8giNA",
+      "thumbnail": "https://i.ytimg.com/vi/ExcpeR8giNA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 5 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/71b434a7-df89-48ae-b9a2-a3894041f70d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Carbohydrates",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/71Z8iYD-3CY",
+      "hd_video_url": "https://www.youtube.com/embed/71Z8iYD-3CY",
+      "thumbnail": "https://i.ytimg.com/vi/71Z8iYD-3CY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 6 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2af5a318-bb3e-4fd4-8edd-0b98594d01a6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Polymer",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Uq4GSJiUFnM",
+      "hd_video_url": "https://www.youtube.com/embed/Uq4GSJiUFnM",
+      "thumbnail": "https://i.ytimg.com/vi/Uq4GSJiUFnM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 7 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3a21720-40f9-4936-9ffb-1abffc1e542c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Isomerism",
+      "published_date": "05 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UJjFeEdl9nY",
+      "hd_video_url": "https://www.youtube.com/embed/UJjFeEdl9nY",
+      "thumbnail": "https://i.ytimg.com/vi/UJjFeEdl9nY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 8 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1dacc94-37e2-4ee7-bc19-b2d67a95a5de.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Heterocyclic compounds",
+      "published_date": "06 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/NuAPJMgp_Rk",
+      "hd_video_url": "https://www.youtube.com/embed/NuAPJMgp_Rk",
+      "thumbnail": "https://i.ytimg.com/vi/NuAPJMgp_Rk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 9 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1552ce0c-05e2-4b5d-9e47-8aaf4b18ed1a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Spectroscopy",
+      "published_date": "07 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/W61Lo_N1yUg",
+      "hd_video_url": "https://www.youtube.com/embed/W61Lo_N1yUg",
+      "thumbnail": "https://i.ytimg.com/vi/W61Lo_N1yUg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 10 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85764c0d-418e-4c75-aa3a-af77722054d3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 || Structure of Atom",
+      "published_date": "09 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/wakTP6gYPuY",
+      "hd_video_url": "https://www.youtube.com/embed/wakTP6gYPuY",
+      "thumbnail": "https://i.ytimg.com/vi/wakTP6gYPuY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 11 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0609718a-6362-4a26-867f-84c12041c95e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Periodic Classification",
+      "published_date": "10 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/35k9wg4NAek",
+      "hd_video_url": "https://www.youtube.com/embed/35k9wg4NAek",
+      "thumbnail": "https://i.ytimg.com/vi/35k9wg4NAek/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 12 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11875b65-9438-4258-9108-49e314bc3ca5.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || S block ,P block, D block",
+      "published_date": "11 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/PxwnrlDZIis",
+      "hd_video_url": "https://www.youtube.com/embed/PxwnrlDZIis",
+      "thumbnail": "https://i.ytimg.com/vi/PxwnrlDZIis/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 13 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df5aa270-db2c-436b-8f23-adc5c49158fc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Chemical bonding",
+      "published_date": "12 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/jpsVIE40Zf8",
+      "hd_video_url": "https://www.youtube.com/embed/jpsVIE40Zf8",
+      "thumbnail": "https://i.ytimg.com/vi/jpsVIE40Zf8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 14 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/782f746c-b7c1-48b4-9a26-780773f1e996.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Chemical bonding  (Part 2)",
+      "published_date": "13 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Gq50igua5CY",
+      "hd_video_url": "https://www.youtube.com/embed/Gq50igua5CY",
+      "thumbnail": "https://i.ytimg.com/vi/Gq50igua5CY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 15 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c00679a-b10d-4925-a69a-92c64d708cc9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Co-ordination Chemistry",
+      "published_date": "14 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/F83g78CVnAs",
+      "hd_video_url": "https://www.youtube.com/embed/F83g78CVnAs",
+      "thumbnail": "https://i.ytimg.com/vi/F83g78CVnAs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 16 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6308698-e464-40fc-8662-132532e3dc99.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Biomolecules",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-6OQ3bAZaTs",
+      "hd_video_url": "https://www.youtube.com/embed/-6OQ3bAZaTs",
+      "thumbnail": "https://i.ytimg.com/vi/-6OQ3bAZaTs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 17 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcd5635a-9b15-40a4-b1cb-c1d035cf64ce.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Chemical Kinetics",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/h1NcVnYcYig",
+      "hd_video_url": "https://www.youtube.com/embed/h1NcVnYcYig",
+      "thumbnail": "https://i.ytimg.com/vi/h1NcVnYcYig/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 18 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cade7da7-19b9-49f7-9be7-6333a1df1995.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Radioactivity",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/zLz49VfhIqM",
+      "hd_video_url": "https://www.youtube.com/embed/zLz49VfhIqM",
+      "thumbnail": "https://i.ytimg.com/vi/zLz49VfhIqM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 19 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f579bb27-07ec-4299-8457-3143db1a8e6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Chemical Equilibrium",
+      "published_date": "19 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/oBW36vZH_S0",
+      "hd_video_url": "https://www.youtube.com/embed/oBW36vZH_S0",
+      "thumbnail": "https://i.ytimg.com/vi/oBW36vZH_S0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 20 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d2ab071-ba7d-4840-ba8b-47d9ed8a5de7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Ionic equilibrium (Part 1)",
+      "published_date": "20 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/1UAYWV8QwNA",
+      "hd_video_url": "https://www.youtube.com/embed/1UAYWV8QwNA",
+      "thumbnail": "https://i.ytimg.com/vi/1UAYWV8QwNA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 21 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4088ad8-4295-484c-9e1d-6f12cd485324.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Ionic equilibrium (Part 2)",
+      "published_date": "21 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/HK_Xqh_2ThA",
+      "hd_video_url": "https://www.youtube.com/embed/HK_Xqh_2ThA",
+      "thumbnail": "https://i.ytimg.com/vi/HK_Xqh_2ThA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 22 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/803d9f1e-0ace-4cf1-9973-37113abb8413.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Thermodynamics (Part 1)",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/9NHGGeMPNcI",
+      "hd_video_url": "https://www.youtube.com/embed/9NHGGeMPNcI",
+      "thumbnail": "https://i.ytimg.com/vi/9NHGGeMPNcI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 23 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18c4449d-f3a1-403d-9c00-138b851339c7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Thermodynamics (Part 2)",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/-OkPwY_XjrI",
+      "hd_video_url": "https://www.youtube.com/embed/-OkPwY_XjrI",
+      "thumbnail": "https://i.ytimg.com/vi/-OkPwY_XjrI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 24 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3dddfd2-df8e-40bc-a6b2-8087d4852f76.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Surface Chemistry",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/QKcnH7B_6Xg",
+      "hd_video_url": "https://www.youtube.com/embed/QKcnH7B_6Xg",
+      "thumbnail": "https://i.ytimg.com/vi/QKcnH7B_6Xg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 25 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8dce59d5-e8df-4ba8-b234-5fc1dc0fe75f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Solid State",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/FY70sNo6how",
+      "hd_video_url": "https://www.youtube.com/embed/FY70sNo6how",
+      "thumbnail": "https://i.ytimg.com/vi/FY70sNo6how/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 26 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/196ab5fa-cf2b-49a3-927c-5e073338df5f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Liquid & Gaseous State",
+      "published_date": "30 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/Ve_IwqioF7o",
+      "hd_video_url": "https://www.youtube.com/embed/Ve_IwqioF7o",
+      "thumbnail": "https://i.ytimg.com/vi/Ve_IwqioF7o/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 27 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c6fadec-2b27-4bc5-bd9b-66b2b424dd2e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Organometallic Chemistry",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/tiy55X35O9Y",
+      "hd_video_url": "https://www.youtube.com/embed/tiy55X35O9Y",
+      "thumbnail": "https://i.ytimg.com/vi/tiy55X35O9Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 28 || Chemistry by Deepika Ma'am",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97c3586f-f967-437b-b2b8-7dbdd7899ed6.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

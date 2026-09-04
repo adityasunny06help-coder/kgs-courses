@@ -1,0 +1,27 @@
+{
+  "subject_name": "CDS TEST-06",
+  "subject_id": 5607,
+  "video_count": 1,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "CDS 01-2025 Test 06 (English)",
+      "published_date": "07 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/MPopsFtqEPE",
+      "hd_video_url": "https://www.youtube.com/embed/MPopsFtqEPE",
+      "thumbnail": "https://i.ytimg.com/vi/MPopsFtqEPE/default.jpg",
+      "notes": [
+        {
+          "title": "CDS 01-2025 Test 06 (English) Question Paper",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c7a440c-05bf-4136-99a5-92b4e2d4d3a5.pdf"
+        },
+        {
+          "title": "CDS 01-2025 Test 04 (English) Solution",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d258068-e472-46f4-8fba-9aebb3a513c5.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

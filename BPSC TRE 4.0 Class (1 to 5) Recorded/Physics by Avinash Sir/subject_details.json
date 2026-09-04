@@ -1,0 +1,471 @@
+{
+  "subject_name": "Physics by Avinash Sir",
+  "subject_id": 6895,
+  "video_count": 33,
+  "note_count": 33,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 1|| Introduction Class",
+      "published_date": "02 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/y9BbOectwWQ",
+      "hd_video_url": "https://www.youtube.com/embed/y9BbOectwWQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 1|| Introduction Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0546a914-816b-4b33-9132-559c5bbee0a7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 2 || Units , Measurement & Errors (Part 1)",
+      "published_date": "03 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/L3OOyG3OkO8",
+      "hd_video_url": "https://www.youtube.com/embed/L3OOyG3OkO8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 2 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13fc1fa2-1d5e-4b4f-92aa-c3d583d0db93.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 3 || Motion (Part 1)",
+      "published_date": "04 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/oFaGiPD9dxs",
+      "hd_video_url": "https://www.youtube.com/embed/oFaGiPD9dxs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 3 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c87803c0-617c-4d09-a18c-644a74324385.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 4 || Motion (Part 2)",
+      "published_date": "05 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/wu7LL8UcPaw",
+      "hd_video_url": "https://www.youtube.com/embed/wu7LL8UcPaw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 4 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c489ff9c-301d-44a0-9789-a396f71245c0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture 5 || Practice Questions on Motion",
+      "published_date": "08 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/l6yYe18wxLg",
+      "hd_video_url": "https://www.youtube.com/embed/l6yYe18wxLg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 5 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d288b7d-2188-417a-a4ba-09b24bf74d68.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture 6 || Practice Questions on Motion (Part 2)",
+      "published_date": "09 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/nw7QWK_-AQs",
+      "hd_video_url": "https://www.youtube.com/embed/nw7QWK_-AQs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 6 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba4861e9-6acb-4caf-be1e-220c9ec5fb57.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture 7 || Work ,Energy & Power (Part 1)",
+      "published_date": "11 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/W2RoLgDxTSg",
+      "hd_video_url": "https://www.youtube.com/embed/W2RoLgDxTSg",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 7 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93b94b23-f7c3-40a4-aa40-710b28873943.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture 8 || Work ,Energy & Power (Part 2)",
+      "published_date": "12 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/JGyi6CmWxeM",
+      "hd_video_url": "https://www.youtube.com/embed/JGyi6CmWxeM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 8 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1be1b5b7-4e15-4d51-8725-2ab5c4e48f8d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture 9 || Optics (Part 1)",
+      "published_date": "15 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/BUj2up8lXCw",
+      "hd_video_url": "https://www.youtube.com/embed/BUj2up8lXCw",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 9 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a84dec9c-fb44-4ce4-8d30-c9e39446fd1c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture 10 || Optics (Part 2)",
+      "published_date": "16 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/ElNc64o7UUc",
+      "hd_video_url": "https://www.youtube.com/embed/ElNc64o7UUc",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 10 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7bde531-40dd-4d82-b487-c4c092923c58.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture 11 ||  Optics (Part 3)",
+      "published_date": "18 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/DLr_KgZ6nj8",
+      "hd_video_url": "https://www.youtube.com/embed/DLr_KgZ6nj8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 11 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5ec3b25-0fc1-4047-96c0-fc4a8f19bee4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture 12 || Optics (Part 4)",
+      "published_date": "22 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/3PzH9HoA3ME",
+      "hd_video_url": "https://www.youtube.com/embed/3PzH9HoA3ME",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 12 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/108cbc1a-5072-4eeb-9c4f-449e4d815605.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture 13 || Optics (Part 5)",
+      "published_date": "23 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/REA0h1BSvTs",
+      "hd_video_url": "https://www.youtube.com/embed/REA0h1BSvTs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 13 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae98421b-65d6-4a7d-8bdc-ac1bce7ea7d8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture 14 || Electricity (Part 1)",
+      "published_date": "24 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/RIBuWZls388",
+      "hd_video_url": "https://www.youtube.com/embed/RIBuWZls388",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 14 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9469451d-b61b-4dc1-9509-0a32e140fd9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture 15 || Electricity (Part 2)",
+      "published_date": "25 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/2tgxgnUnVcQ",
+      "hd_video_url": "https://www.youtube.com/embed/2tgxgnUnVcQ",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 15 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3ecec20-e90f-4620-81cd-99275dc68c7f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture 16 || Electricity (Part 3)",
+      "published_date": "26 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/piZd6ACfa50",
+      "hd_video_url": "https://www.youtube.com/embed/piZd6ACfa50",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 16 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efde216e-c5ad-4aee-8fdf-a26d05a7cba7.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture 17 || Electricity (Part 4)",
+      "published_date": "29 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/yw5sxm4i2vE",
+      "hd_video_url": "https://www.youtube.com/embed/yw5sxm4i2vE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 17 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41efa206-5260-4acd-a244-feae53180e48.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture 18 || Heat & Temperature (Part 1)",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/UQDfsRnm2F8",
+      "hd_video_url": "https://www.youtube.com/embed/UQDfsRnm2F8",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 18 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e3368a6c-1691-4348-b1b9-4dc3151151ba.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture 19 || Heat & Temperature (Part 2)",
+      "published_date": "31 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/3BawhEpiuX4",
+      "hd_video_url": "https://www.youtube.com/embed/3BawhEpiuX4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 19 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e9665d6-972d-42a6-9e98-43449f52d075.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture 20 || Heat & Temperature (Part 3)",
+      "published_date": "01 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/xxehHOrfk7s",
+      "hd_video_url": "https://www.youtube.com/embed/xxehHOrfk7s",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 20 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6091e80c-b867-4149-a614-b87308888d0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture 21 || Wave (Part 1)",
+      "published_date": "02 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/MW9CxL1iUTI",
+      "hd_video_url": "https://www.youtube.com/embed/MW9CxL1iUTI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 21 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/864e920b-2645-469f-a873-58f0cf7b231f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture 22 || Wave (Part 2)",
+      "published_date": "05 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/EfelhayeXEI",
+      "hd_video_url": "https://www.youtube.com/embed/EfelhayeXEI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 22 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5809d23-99d2-4791-bc39-98368aad3b61.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture 23 || Questions  on Waves",
+      "published_date": "06 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/KB4x28xwFok",
+      "hd_video_url": "https://www.youtube.com/embed/KB4x28xwFok",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 23 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01eda49e-6a50-4aa2-a33d-f34fe3dce23e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture 24 || Important Concept on Waves",
+      "published_date": "07 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/6yMIyl0hwzk",
+      "hd_video_url": "https://www.youtube.com/embed/6yMIyl0hwzk",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 24 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2de9de43-87e6-4d1d-88b5-d61f414fc27e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture 25 || Magnetism",
+      "published_date": "08 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/wAK_ob0TQpI",
+      "hd_video_url": "https://www.youtube.com/embed/wAK_ob0TQpI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 25 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f179aaa-979f-4f3c-8297-a7d40cc001ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture 26 || Mixed Practice Questions",
+      "published_date": "09 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/tVlVUflRnxE",
+      "hd_video_url": "https://www.youtube.com/embed/tVlVUflRnxE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 26 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b82ca0e3-9902-4d5b-933d-1f3af8646d7c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture 27 || Air Pressure & density (Part 1)",
+      "published_date": "13 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/M3QWS1NBlE4",
+      "hd_video_url": "https://www.youtube.com/embed/M3QWS1NBlE4",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 27 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bdcedf9-baba-4a11-9708-452534e2a480.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture 28 || Air Pressure & density (Part 2)",
+      "published_date": "14 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/bYlhLC_-V8c",
+      "hd_video_url": "https://www.youtube.com/embed/bYlhLC_-V8c",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 28 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bddaf4a5-c26f-4399-a110-b77a320801dc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture 29 || Machine",
+      "published_date": "16 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/v_RNvTD84FE",
+      "hd_video_url": "https://www.youtube.com/embed/v_RNvTD84FE",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 29 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdf93076-6b19-4473-815e-ae02272964b4.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture 30 || Acceleration & Velocity (Part 1)",
+      "published_date": "22 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/DkdmJ-KSArs",
+      "hd_video_url": "https://www.youtube.com/embed/DkdmJ-KSArs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 30 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db11a6d5-8352-4856-933c-24893a99e656.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture 31 || Acceleration & Velocity (Part 2)",
+      "published_date": "23 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/cpV6PcMuY3E",
+      "hd_video_url": "https://www.youtube.com/embed/cpV6PcMuY3E",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 31 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3cd335e9-a7e3-4ba8-a556-69ed66d39cd3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture 32 || Practice Questions",
+      "published_date": "26 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/p2hv2LSpGbs",
+      "hd_video_url": "https://www.youtube.com/embed/p2hv2LSpGbs",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 32 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/800172ab-be4a-4e6a-91e1-2aec2c615bc0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture 33 || Practice Questions",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/JMMWv1t_V2U",
+      "hd_video_url": "https://www.youtube.com/embed/JMMWv1t_V2U",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Lecture 33 || Physics by Avinash Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a6dcb72-65f7-4cca-83f5-184ee8b421fd.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

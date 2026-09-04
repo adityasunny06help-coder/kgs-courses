@@ -1,0 +1,328 @@
+{
+  "batch_info": {
+    "title": "UPPSC (Prelims + Mains) Batch - 2024",
+    "price": "4500",
+    "id": "99",
+    "extracted_date": "2025-08-27T17:41:30.017409"
+  },
+  "subjects": [
+    {
+      "name": "Interpersonal Skill & Communication (CSAT) by Shantanu Sir",
+      "id": 2255,
+      "video_count": 5,
+      "note_count": 5
+    },
+    {
+      "name": "Indian Economy by Dr. Bharat Sir (Mains)",
+      "id": 1982,
+      "video_count": 51,
+      "note_count": 50
+    },
+    {
+      "name": "Polity (Mains) by Dr. Karan Sir",
+      "id": 2801,
+      "video_count": 39,
+      "note_count": 33
+    },
+    {
+      "name": "International Relations by Abhishek Sir (Mains)",
+      "id": 3328,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Current Affairs by Jeet Sir",
+      "id": 2132,
+      "video_count": 15,
+      "note_count": 18
+    },
+    {
+      "name": "Ethics (Mains-IV) by Dharmendra Kumar Sir",
+      "id": 1942,
+      "video_count": 37,
+      "note_count": 34
+    },
+    {
+      "name": "UP Special (Mains) Economy",
+      "id": 2608,
+      "video_count": 55,
+      "note_count": 67
+    },
+    {
+      "name": "Essay (Economy) Mains) by Dr. Bharat Sir",
+      "id": 2840,
+      "video_count": 2,
+      "note_count": 2
+    },
+    {
+      "name": "Disaster Management (Mains) by Ajeet Sir",
+      "id": 2841,
+      "video_count": 36,
+      "note_count": 36
+    },
+    {
+      "name": "Hindi (Mains) by Jitendra Soni Sir",
+      "id": 2934,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "World History by Shweta Ma'am (Mains)",
+      "id": 3016,
+      "video_count": 29,
+      "note_count": 29
+    },
+    {
+      "name": "Tentative Time Table",
+      "id": 3191,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Post independence by Manju Sir (Mains)",
+      "id": 3411,
+      "video_count": 10,
+      "note_count": 9
+    },
+    {
+      "name": "Indian & Human Geography by Ajeet Sir (Mains)",
+      "id": 3511,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "UPPSC Exam Guidelines",
+      "id": 6582,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "How to Upload Answer Writing",
+      "id": 5769,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "U.P. Special (History) by Dr. Amit Shukla Sir",
+      "id": 5551,
+      "video_count": 37,
+      "note_count": 37
+    },
+    {
+      "name": "Hindi Mains by Dr. Ajay Anurag Sir",
+      "id": 4799,
+      "video_count": 16,
+      "note_count": 16
+    },
+    {
+      "name": "U.P. Special (Geography) by Shankar Jha Sir",
+      "id": 4715,
+      "video_count": 30,
+      "note_count": 30
+    },
+    {
+      "name": "Internal Security by Arpit Sir",
+      "id": 4460,
+      "video_count": 16,
+      "note_count": 25
+    },
+    {
+      "name": "Governance by Abhishek Tripathi Sir",
+      "id": 3994,
+      "video_count": 19,
+      "note_count": 19
+    },
+    {
+      "name": "Art & Culture by Vishal Mishra Sir",
+      "id": 3742,
+      "video_count": 23,
+      "note_count": 23
+    },
+    {
+      "name": "Telegram Channel Link",
+      "id": 1210,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Weekly Mini Test",
+      "id": 1106,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Answer Writing Practice (No Videos)",
+      "id": 1048,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Subjective Practice Test",
+      "id": 1102,
+      "video_count": 0,
+      "note_count": 0
+    },
+    {
+      "name": "Modern History by Shubham Gupta Sir",
+      "id": 1116,
+      "video_count": 62,
+      "note_count": 0
+    },
+    {
+      "name": "Hindi (CSAT) by Jitendra Soni Sir",
+      "id": 1440,
+      "video_count": 43,
+      "note_count": 27
+    },
+    {
+      "name": "U.P. Special (Prelims) by Abhishek Sir",
+      "id": 1397,
+      "video_count": 78,
+      "note_count": 56
+    },
+    {
+      "name": "Math (CSAT) by Amit Sir",
+      "id": 1358,
+      "video_count": 38,
+      "note_count": 25
+    },
+    {
+      "name": "Reasoning (CSAT) by Shantanu Sir",
+      "id": 1357,
+      "video_count": 31,
+      "note_count": 4
+    },
+    {
+      "name": "Current Affairs by Yadavendra Sir",
+      "id": 1356,
+      "video_count": 35,
+      "note_count": 11
+    },
+    {
+      "name": "Indian Economy by Dr. Bharat Sir (Pre.)",
+      "id": 1202,
+      "video_count": 57,
+      "note_count": 1
+    },
+    {
+      "name": "English (CSAT) by Vishal Sir",
+      "id": 1587,
+      "video_count": 22,
+      "note_count": 22
+    },
+    {
+      "name": "Interpersonal Skill & Communication (CSAT) by Manoj Jaiswal Sir",
+      "id": 1720,
+      "video_count": 32,
+      "note_count": 32
+    },
+    {
+      "name": "Environment & Ecology by Ajeet Sir",
+      "id": 1636,
+      "video_count": 36,
+      "note_count": 36
+    },
+    {
+      "name": "Physical Geography by Ajeet Sir",
+      "id": 730,
+      "video_count": 68,
+      "note_count": 0
+    },
+    {
+      "name": "Climatology by Ajeet Sir",
+      "id": 1558,
+      "video_count": 6,
+      "note_count": 6
+    },
+    {
+      "name": "Indian Geography by Ajeet Sir",
+      "id": 1422,
+      "video_count": 22,
+      "note_count": 4
+    },
+    {
+      "name": "Medieval History by Amarendra Sir",
+      "id": 1600,
+      "video_count": 35,
+      "note_count": 35
+    },
+    {
+      "name": "Ancient History by Amarendra Sir",
+      "id": 1223,
+      "video_count": 47,
+      "note_count": 2
+    },
+    {
+      "name": "Physics by Sumit Sir",
+      "id": 1159,
+      "video_count": 19,
+      "note_count": 0
+    },
+    {
+      "name": "Chemistry by Sumit Sir",
+      "id": 1428,
+      "video_count": 7,
+      "note_count": 0
+    },
+    {
+      "name": "Biology by Amrita Ma'am",
+      "id": 727,
+      "video_count": 75,
+      "note_count": 0
+    },
+    {
+      "name": "Geography (Mapping) by Shubham Gupta Sir",
+      "id": 500,
+      "video_count": 57,
+      "note_count": 0
+    },
+    {
+      "name": "Social Issues & Social Justice by Dharmendra Sir",
+      "id": 508,
+      "video_count": 48,
+      "note_count": 0
+    },
+    {
+      "name": "Science & Technology by Sumit Sir",
+      "id": 1068,
+      "video_count": 92,
+      "note_count": 73
+    },
+    {
+      "name": "Polity by Karan Sir",
+      "id": 499,
+      "video_count": 97,
+      "note_count": 0
+    },
+    {
+      "name": "Exam Analysis",
+      "id": 415,
+      "video_count": 3,
+      "note_count": 0
+    },
+    {
+      "name": "Paper Analysis",
+      "id": 864,
+      "video_count": 6,
+      "note_count": 0
+    },
+    {
+      "name": "Orientation Class",
+      "id": 490,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Application Update Information",
+      "id": 966,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Essay Writing (Mains-V) by Dharmendra Kumar Sir",
+      "id": 2485,
+      "video_count": 9,
+      "note_count": 9
+    }
+  ]
+}

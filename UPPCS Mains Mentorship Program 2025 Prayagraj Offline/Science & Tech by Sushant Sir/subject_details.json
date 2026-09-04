@@ -1,0 +1,79 @@
+{
+  "subject_name": "Science & Tech by Sushant Sir",
+  "subject_id": 7059,
+  "video_count": 5,
+  "note_count": 5,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture -01 || विज्ञान एवं प्रौद्योगिकी",
+      "published_date": "27 May 2025",
+      "video_url": "https://www.youtube.com/embed/f01kODVI400",
+      "hd_video_url": "https://www.youtube.com/embed/f01kODVI400",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EWAfAml5ORo1MJfStYLrm2IJ5XKIru8uCShY8uy4.jpg",
+      "notes": [
+        {
+          "title": "Lecture -01 || Science & tech by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f73c752-dbf7-44d1-82f3-9f2106fe3ddc.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 || विज्ञान एवं प्रौद्योगिकी",
+      "published_date": "28 May 2025",
+      "video_url": "https://www.youtube.com/embed/CjgOySR6loc",
+      "hd_video_url": "https://www.youtube.com/embed/CjgOySR6loc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bdYdk3l8gmV6dnTtaeDAPdTsWSui2UARV0fXpuHN.jpg",
+      "notes": [
+        {
+          "title": "Lecture-02 || Science & tech by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dee85eb-9ae4-48be-b383-6d5cb182e361.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 || विज्ञान एवं प्रौद्योगिकी",
+      "published_date": "29 May 2025",
+      "video_url": "https://www.youtube.com/embed/pJe7PB_dpoc",
+      "hd_video_url": "https://www.youtube.com/embed/pJe7PB_dpoc",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZKdLT7206YcsTAXkVWADuEs2PFzL1atT5H4sq545.jpg",
+      "notes": [
+        {
+          "title": "Lecture-03 || Science & tech by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b57237af-b583-40c1-ad22-9adf5bf9f4b3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 || विज्ञान एवं प्रौद्योगिकी",
+      "published_date": "30 May 2025",
+      "video_url": "https://www.youtube.com/embed/aJhd5Ze7pyI",
+      "hd_video_url": "https://www.youtube.com/embed/aJhd5Ze7pyI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VDIPcr2Ns7hAXgV3FNu1VAKd8Ag5fKb1dka42OZp.jpg",
+      "notes": [
+        {
+          "title": "Lecture-04 || Science & tech by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6dfc1b4-e56e-4ec4-9017-0048e58597fe.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 || विज्ञान एवं प्रौद्योगिकी",
+      "published_date": "31 May 2025",
+      "video_url": "https://www.youtube.com/embed/DlMTpb4WqIU",
+      "hd_video_url": "https://www.youtube.com/embed/DlMTpb4WqIU",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/L5kIH5MWJg0tYzbzfmmw2wzL3EXt0jsipJe7qTh6.jpg",
+      "notes": [
+        {
+          "title": "Lecture-05 || Science & tech by Sushant Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf8588c1-5fa5-479c-b2eb-9c1aa2105626.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

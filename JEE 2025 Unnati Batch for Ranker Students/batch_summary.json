@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "JEE 2025 Unnati Batch for Ranker Students",
+    "price": null,
+    "id": "578",
+    "extracted_date": "2025-08-27T14:22:41.947775"
+  },
+  "subjects": [
+    {
+      "name": "Introduction Section",
+      "id": 5402,
+      "video_count": 1,
+      "note_count": 0
+    },
+    {
+      "name": "Physics",
+      "id": 5407,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Chemistry",
+      "id": 5408,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Maths",
+      "id": 5409,
+      "video_count": 9,
+      "note_count": 9
+    },
+    {
+      "name": "Test Paper And Solution",
+      "id": 5631,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "subject_name": "Polity",
+  "subject_id": 1234,
+  "video_count": 95,
+  "note_count": 0,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Polity 92 : LEMOA , COMCASA , Geneva Convention || Foundation",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l80/l80.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l80/l80.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Polity 91 : EU, NATO || Foundation Class",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l79/l79.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l79/l79.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Polity 90 : (NPT,NSG,CTBT || Foundation By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l78/l78.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l78/l78.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Polity 89 ( G-4,G-7,G-20,NPT,NSG,CTBT ) By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l77/l77.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l77/l77.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Polity 88 ( UNO ) || Foundation By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l76/l76.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l76/l76.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Polity 87 ( UNO ) By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l75/l75.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l75/l75.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Polity 86 ( UNO ) By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l74/l74.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l74/l74.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Polity 85 ( संविधान के विदेशी स्रोत )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l73/l73.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l73/l73.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Polity 84 (Constitution Development 04) || Foundation Class By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l72/l72.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l72/l72.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Polity 83 (Constitution Development) 03 || Polity Foundation By Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l71/l71.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l71/l71.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Polity 82 (Constitution Development)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l70/l70.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l70/l70.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Polity 81 (Constitution Development)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l69/l69.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l69/l69.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Polity 80 (Constitution Development)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l68/l68.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l68/l68.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Polity 79 (FIR & CRPC) Khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l67/l67.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l67/l67.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Polity 78 ( सरकार के प्रकार) By khan Sir",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l66/l66.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l66/l66.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Polity 77 ( शासन के प्रकार और सरकार के प्रकार)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l65/l65.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l65/l65.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Polity 76 ( Calendar & Preamble )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l64/l64.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l64/l64.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Polity 75 ( प्रमुख संविधान संशोधन & वरियता क्रम )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l63/l63.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l63/l63.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Polity 74 ( प्रमुख संविधान संशोधन & वरियता क्रम )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l62/l62.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l62/l62.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Polity 73 ( प्रमुख संविधान संशोधन )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l61/l61.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l61/l61.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Polity 72 ( प्रमुख संविधान संशोधन )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l60/l60.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l60/l60.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Polity 71 (Classical Language & Emergency )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l56-2/l56-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l56-2/l56-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Polity 70 ( दल - बदल )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l51-2/l51-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l51-2/l51-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Polity 69 ( Election And Political Party )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l50-2/l50-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l50-2/l50-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 25,
+      "title": "Polity 68 ( Election Commission)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l49-2/l49-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l49-2/l49-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 26,
+      "title": "Polity 67 ( Bhag 21 & 22 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l59/l59.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l59/l59.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 27,
+      "title": "Polity 66 ( भाग 21 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l58-2/l58-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l58-2/l58-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 28,
+      "title": "Polity 65 ( भाग 19: Key Provisions & भाग 20: संविधान संशोधन )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l57-2/l57-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l57-2/l57-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Polity 64 ( Bhag 18 : Official Language 02 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l55-2/l55-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l55-2/l55-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 30,
+      "title": "Polity 63 ( Bhag 17+ : Official Language)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l54-2/l54-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l54-2/l54-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 31,
+      "title": "Polity 62 ( Bhag 16 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l53-2/l53-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l53-2/l53-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 32,
+      "title": "Polity 61 ( Bhag 15 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l52-2/l52-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l52-2/l52-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 33,
+      "title": "Polity 60 ( Bhag 14 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l48-2/l48-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l48-2/l48-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 34,
+      "title": "Polity 59 ( Bhag 12 &13 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l47-2/l47-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l47-2/l47-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 35,
+      "title": "Polity 58  C ( Bhag-10  )",
+      "published_date": null,
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/polity-223/p58c/l-46.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/JuzD8gdmrOA",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 36,
+      "title": "Polity 58  B ( Bhag 9 :- पंचायत )",
+      "published_date": null,
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/polity-223/p58b/l-45.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/NsJOOM0wN2w",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 37,
+      "title": "Polity 58  A (  Bhag 9 :- पंचायत )",
+      "published_date": null,
+      "video_url": "https://kgs-v1.akamaized.net/kgs3/foundation-batch/khan-sir/polity-223/p58a/l-42.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/w7ChLsW9QYk",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 38,
+      "title": "Polity 58 (Family Court & Union Territories)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l58/l58.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l58/l58.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 39,
+      "title": "Polity 57 (Family Court & Union Territories)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l57/l57.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l57/l57.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 40,
+      "title": "Polity 56 (High Court And Lower Court)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l56/l56.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l56/l56.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 41,
+      "title": "Polity 55 (Assembly Speaker & High Court)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l55/l55.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l55/l55.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 42,
+      "title": "Polity 54 (विधान सभा & विधान परिषद-Legislative Assembly & Legislative Council )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l54/l54.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l54/l54.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 43,
+      "title": "Polity 53 ( Chief Minister And Assembly )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l53/l53.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l53/l53.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 44,
+      "title": "Polity 52 ( Governor )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l52/l52.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l52/l52.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 45,
+      "title": "Polity 51 ( CAG And State )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l51/l51.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l51/l51.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 46,
+      "title": "Polity 50 (Supreme court & CAG)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l50/l50.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l50/l50.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 47,
+      "title": "Polity 49 (Supreme court)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l49/l49.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l49/l49.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 48,
+      "title": "Polity 48 (Supreme court)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l48/l48.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l48/l48.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Polity 47 (Various motion of the Parliament)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l47/l47.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l47/l47.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 50,
+      "title": "Polity 46 (Article 118 -Parliamentary Committee)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l46/l46.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l46/l46.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 51,
+      "title": "Polity 44 ( Articles 115-120)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l44/l44.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l44/l44.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 52,
+      "title": "Polity 43 ( Articles 109-112)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l43/l43.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l43/l43.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 53,
+      "title": "Polity 42 ( Articles 100-108)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l42/l42.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l42/l42.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 54,
+      "title": "Polity 41 ( Articles 89 & 93 Speaker &Chairman )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l41/l41.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l41/l41.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Polity 40 ( Articles 85-88 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l40/l40.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l40/l40.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Polity 39 ( Articles 82-84 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l39/l39.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l39/l39.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Polity 38  Parliament Lok sabha & Rajya sabha )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l38/l38.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l38/l38.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 58,
+      "title": "Polity 37 (Attorney General & Parliament )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l37/l37.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l37/l37.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Polity 36 ( UPA And NDA Government)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l36/l36.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l36/l36.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Polity 35 ( Vice President)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l35/l35.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l35/l35.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 61,
+      "title": "Polity 34 ( Vice President)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l34/l34.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l34/l34.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 62,
+      "title": "Polity 33 ( Vice President)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l33/l33.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l33/l33.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 63,
+      "title": "Polity 32 (Veto Power And Vice President)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l32/l32.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l32/l32.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 64,
+      "title": "Polity 31 ( Financial Emergency | वित्तीय आपातकाल )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l31/l31.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l31/l31.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Polity 30 ( State Emergency |  राजकीय आपातकाल )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l30/l30.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l30/l30.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 66,
+      "title": "Polity 29(Emergency)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l29/l29.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l29/l29.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 67,
+      "title": "Polity 28 (Emergency Powers )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l28/l28.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l28/l28.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 68,
+      "title": "Polity 27 (Powers Of President)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l27/l27.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l27/l27.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 69,
+      "title": "Polity 26 महाभियोग ( Impeachment )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l26/l26.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l26/l26.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 70,
+      "title": "Polity 25 (Articles 55-60)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l25/l25.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l25/l25.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 71,
+      "title": "Polity 24 (एकल संक्रमणीय पद्धति)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l24/l24.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l24/l24.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 72,
+      "title": "Polity 23 (भाग-05)  संघ",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l23/l23.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l23/l23.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 73,
+      "title": "Polity 22 (Articles 46-50)Directive Principle of State Policy",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l22/l22.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l22/l22.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 74,
+      "title": "Polity 21 (Articles 46-50)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l21/l21.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l21/l21.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 75,
+      "title": "Polity 20 (Articles 44-45)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l20/l20.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l20/l20.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 76,
+      "title": "Polity 19 (Articles 40-43)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l19/l19.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l19/l19.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 77,
+      "title": "Polity 18 (Articles 36-39)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l18/l18.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l18/l18.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 78,
+      "title": "Polity 17 (Articles 32-35)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l17/l17.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l17/l17.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 79,
+      "title": "Polity 16 (Articles 32)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l16/l16.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l16/l16.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 80,
+      "title": "Polity 15 (Articles 29-31)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l15/l15.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l15/l15.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 81,
+      "title": "Polity 14 (Articles 24,25,26,27,28) (Part-02)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l14-2/l14-2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l14-2/l14-2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 82,
+      "title": "Polity 14 (Articles 23) (Part-01)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l14/l14.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l14/l14.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 83,
+      "title": "Polity 13 (Articles 22)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l13/l13.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l13/l13.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 84,
+      "title": "Polity 12 (Articles 22)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l12/l12.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l12/l12.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 85,
+      "title": "Polity 11 (Articles 20-22)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l11/l11.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l11/l11.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 86,
+      "title": "Polity 10 ( Bhag 04 | Articles 17-24 )",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l10/l10.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l10/l10.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 87,
+      "title": "Polity 09 ( Bhag 03 | Fundamental Rights)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l9/l9.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l9/l9.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 88,
+      "title": "Polity 08 (NRC)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l8/l8.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l8/l8.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 89,
+      "title": "Polity 07 (NRI,CAA,NRC)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l7/l7.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l7/l7.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 90,
+      "title": "Polity Class 06",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l6/l6.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l6/l6.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 91,
+      "title": "Test 01 + Polity Class 05 ( Bhag 02)",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l5/l5.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l5/l5.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 92,
+      "title": "Polity Class 04",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l4/l4.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l4/l4.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 93,
+      "title": "Polity Class 03",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l3/l3.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l3/l3.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 94,
+      "title": "Polity Class 02",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l2/l2.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l2/l2.m3u8",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 95,
+      "title": "Polity Class  01",
+      "published_date": null,
+      "video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l1/l1.m3u8",
+      "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/polity/l1/l1.m3u8",
+      "thumbnail": "",
+      "notes": []
+    }
+  ],
+  "notes": []
+}

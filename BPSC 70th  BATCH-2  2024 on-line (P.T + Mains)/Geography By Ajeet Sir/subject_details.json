@@ -1,0 +1,792 @@
+{
+  "subject_name": "Geography By Ajeet Sir",
+  "subject_id": 1364,
+  "video_count": 67,
+  "note_count": 36,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture-01 ।। Oceanography ।। समुद्र विज्ञान ।। (Part-1)",
+      "published_date": "12 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/4Z0N22h1iA8",
+      "hd_video_url": "https://www.youtube.com/embed/4Z0N22h1iA8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//52b56a29-a162-4f21-8916-2f48235a9b68.png",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture-02 ।। Mapping South America ।। दक्षिण अमेरिका (Part-1)",
+      "published_date": "13 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/QKMgIrvyCvs",
+      "hd_video_url": "https://www.youtube.com/embed/QKMgIrvyCvs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e17359ee-35da-4b7e-87e6-bbdcd4fd190a.png",
+      "notes": []
+    },
+    {
+      "serial": 3,
+      "title": "Lecture-03 ।। law of the sea ।। समुद्र के नियम",
+      "published_date": "15 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/u0RdixCn0cI",
+      "hd_video_url": "https://www.youtube.com/embed/u0RdixCn0cI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//dd2260c5-9fbc-4baa-a19e-230a16dfefcd.png",
+      "notes": []
+    },
+    {
+      "serial": 4,
+      "title": "Lecture-04 ।। Salinity of Ocean Water ।। महासागरीय जल की लवणता (Part-1)",
+      "published_date": "16 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/8A_1gR3kS2Q",
+      "hd_video_url": "https://www.youtube.com/embed/8A_1gR3kS2Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//03e2d080-78b2-42c3-beee-aa04ef07821a.png",
+      "notes": []
+    },
+    {
+      "serial": 5,
+      "title": "Lecture-05 ।। Salinity of Ocean Water ।। महासागरीय जल की लवणता (Part-2)",
+      "published_date": "17 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/tZBhT-XHIB0",
+      "hd_video_url": "https://www.youtube.com/embed/tZBhT-XHIB0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//06aa57b4-cf90-41a4-b817-5e5a4f221bb6.png",
+      "notes": []
+    },
+    {
+      "serial": 6,
+      "title": "Lecture-06 ।। Ocean Bottom Relief ।। महासागरीय नितल उच्चावच  (Part-1)",
+      "published_date": "18 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/fpu-S953crk",
+      "hd_video_url": "https://www.youtube.com/embed/fpu-S953crk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ac04c8cb-ef03-4856-9ee8-1b240458c460.png",
+      "notes": []
+    },
+    {
+      "serial": 7,
+      "title": "Lecture-07 ।। Ocean Bottom Relief ।। महासागरीय नितल उच्चावच (Part-2)",
+      "published_date": "19 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/6T5j2oJgBf4",
+      "hd_video_url": "https://www.youtube.com/embed/6T5j2oJgBf4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uadNZJgfa79rQhfw5rI85LAIIXrZWbAak8GiGr9b.jpg",
+      "notes": []
+    },
+    {
+      "serial": 8,
+      "title": "Lecture-08 ।। Mapping South America ।। दक्षिण अमेरिका (Part-2)",
+      "published_date": "20 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/NF1nkSQplQo",
+      "hd_video_url": "https://www.youtube.com/embed/NF1nkSQplQo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/i4fqBM5b2K20EzIh5sSbfqO4cxxYMT9lFANFbqKy.png",
+      "notes": []
+    },
+    {
+      "serial": 9,
+      "title": "Lecture-09 ।। Ocean Bottom Relief ।। महासागरीय नितल उच्चावच (Part-3)",
+      "published_date": "23 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/-tkupr4Uus4",
+      "hd_video_url": "https://www.youtube.com/embed/-tkupr4Uus4",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/HsdAsoro6Sizsrd9yPDKo8T7X4rGPGK2fyqYnBxq.jpg",
+      "notes": []
+    },
+    {
+      "serial": 10,
+      "title": "Lecture-10 ।। Coral and Coral Reef ।। प्रवाल एवं  प्रवाल भित्ति",
+      "published_date": "24 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/1dPKltuj-V8",
+      "hd_video_url": "https://www.youtube.com/embed/1dPKltuj-V8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ywlOWGIcEPSQyR4fldZBurlIuUf8JxZjAvIo6hPG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 11,
+      "title": "Lecture-11 ।। Coral Reef and Ocean Currents ।।  प्रवाल भित्ति एवं महासागरीय धाराएँ",
+      "published_date": "25 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/NSfFtC3sDBM",
+      "hd_video_url": "https://www.youtube.com/embed/NSfFtC3sDBM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XSgXln8EZ7PLVVvXIi891Uay820PzaQdq7vjrhsP.jpg",
+      "notes": []
+    },
+    {
+      "serial": 12,
+      "title": "Lecture-12 ।। Mapping South America ।।  दक्षिण अमेरिका (Part-3)",
+      "published_date": "27 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/gduWuBu3KOA",
+      "hd_video_url": "https://www.youtube.com/embed/gduWuBu3KOA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QWcWmB3NNEFdtuxZtR8RyfdyyUgBLXcjFsQIC4yh.png",
+      "notes": []
+    },
+    {
+      "serial": 13,
+      "title": "Lecture-13 ।। Ocean Currents ।। महासागरीय धाराएँ (Part-1)",
+      "published_date": "29 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/odnGEiMJRnk",
+      "hd_video_url": "https://www.youtube.com/embed/odnGEiMJRnk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/KWL91bymQAmBNb6NpKQvfEJW5xazx4WpzcwAFtsc.jpg",
+      "notes": []
+    },
+    {
+      "serial": 14,
+      "title": "Lecture-14 ।। Ocean Currents ।। महासागरीय धाराएँ (Part-2)",
+      "published_date": "30 Jan 2024",
+      "video_url": "https://www.youtube.com/embed/4n0JCA13XOM",
+      "hd_video_url": "https://www.youtube.com/embed/4n0JCA13XOM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/WyD14Y29rXCH4N8c61w4PnzQw4auKGBF6OVeOxvG.jpg",
+      "notes": []
+    },
+    {
+      "serial": 15,
+      "title": "Lecture-15 ।। Tides and Ebbs ।। ज्वार और भाटा (Part-1)",
+      "published_date": "01 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Df96924yOlA",
+      "hd_video_url": "https://www.youtube.com/embed/Df96924yOlA",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/TZihqL8KGvLjgsvVxHoQpGUuw7Mz01wj7JMSl40i.jpg",
+      "notes": []
+    },
+    {
+      "serial": 16,
+      "title": "Lecture-16 ।। Tides and Ebbs ।। ज्वार और भाटा (Part-2)",
+      "published_date": "02 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/sTI6WNJ4yJ8",
+      "hd_video_url": "https://www.youtube.com/embed/sTI6WNJ4yJ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wKPgSuULLsifOaaRyZ0SSxUwtQOxs0qMMpKyAFa4.jpg",
+      "notes": []
+    },
+    {
+      "serial": 17,
+      "title": "Lecture-17 ।। Mapping South America ।। दक्षिण अमेरिका (Part-4)",
+      "published_date": "03 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/37H-0iYauws",
+      "hd_video_url": "https://www.youtube.com/embed/37H-0iYauws",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FFy5pDdL4ORCRoz6N6v5ECrMQevlMOQ4NtHsQ3UV.png",
+      "notes": []
+    },
+    {
+      "serial": 18,
+      "title": "Lecture-18 ।। Tsunami ।। सुनामी",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/fSyCWNrGaW8",
+      "hd_video_url": "https://www.youtube.com/embed/fSyCWNrGaW8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/3coNkq7lvfXgUftqMsueiERAbMzgm3uHRb7dKqno.jpg",
+      "notes": []
+    },
+    {
+      "serial": 19,
+      "title": "Lecture-19 ।। Insolation ।। सूर्यातप",
+      "published_date": "05 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/0oOkaRiGZ8Y",
+      "hd_video_url": "https://www.youtube.com/embed/0oOkaRiGZ8Y",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DAkMCqrz1oFHF2OTwBwoBc9x6lYzRSZ9vUFmQadQ.jpg",
+      "notes": []
+    },
+    {
+      "serial": 20,
+      "title": "Lecture-20 ।। Heat Budget ।। ऊष्मा बजट",
+      "published_date": "06 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/wlB7JKfb9yQ",
+      "hd_video_url": "https://www.youtube.com/embed/wlB7JKfb9yQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/v3yJcTq9sLz2HOwIelPHA48he3QT4tjkBHhlWolK.jpg",
+      "notes": []
+    },
+    {
+      "serial": 21,
+      "title": "Lecture-21 ।। Temperature Inversion and Lapse Rate ।। तापमान व्युत्क्रमण और ह्रास दर",
+      "published_date": "07 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/2RGnNmsal7w",
+      "hd_video_url": "https://www.youtube.com/embed/2RGnNmsal7w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/QurH0C9v5TswD3Y9N834tGsZCkg9F8t7y9wO7Q2R.jpg",
+      "notes": []
+    },
+    {
+      "serial": 22,
+      "title": "Lecture-22 ।। Isotherm Line ।। समताप रेखा",
+      "published_date": "08 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/czFoJWkGVIw",
+      "hd_video_url": "https://www.youtube.com/embed/czFoJWkGVIw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/RXzWAMD3WCjMOVOJ3GyFSsdJJUSfea6HYOLkBVHz.jpg",
+      "notes": []
+    },
+    {
+      "serial": 23,
+      "title": "Lecture-23 ।। Airmasses ।। वायुराशियाँ",
+      "published_date": "09 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/QgJuvF1DTos",
+      "hd_video_url": "https://www.youtube.com/embed/QgJuvF1DTos",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/uMQU7hI3ewm2dpukEKTlovf86pZIg6mhmB5RVkSa.jpg",
+      "notes": []
+    },
+    {
+      "serial": 24,
+      "title": "Lecture-24 ।। Pressure and Pressure Belt ।। दाब तथा दाब कटिबंध",
+      "published_date": "21 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/4vyi1v8eKDM",
+      "hd_video_url": "https://www.youtube.com/embed/4vyi1v8eKDM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/qWDD25gXFbV3Nro5N4Pd22e47W4EZvusEyuYfKXd.jpg",
+      "notes": [
+        {
+          "title": "Pressure and Pressure Belt ।। दाब तथा दाब कटिबंध",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5f9d4869-ce10-4cb3-b977-e5ac64cf117b.02"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture-25 ।। Wind System ।। पवन तंत्र (Part-1)",
+      "published_date": "22 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/1JKYnE4cYQ8",
+      "hd_video_url": "https://www.youtube.com/embed/1JKYnE4cYQ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/FdRJqVPwlLK7DoqA3BSSvwRceXkMDgnge17FPDHU.jpg",
+      "notes": [
+        {
+          "title": "Wind System ।। पवन तंत्र (Part-1)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/894d388a-1787-480a-a8fc-08c230ce3b3e.02"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture-26 ।। Wind System ।। पवन तंत्र (Part-2)",
+      "published_date": "23 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Sqmit5QRWxQ",
+      "hd_video_url": "https://www.youtube.com/embed/Sqmit5QRWxQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/PTeuruawY9Nj2gTMTPs63hXzlR6QxxilsXh9kLUh.jpg",
+      "notes": [
+        {
+          "title": "Wind System ।। पवन तंत्र (Part-2)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/903ee605-1719-4d3a-8a3f-56f66580e330.02"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture-27 ।। Wind System ।। पवन तंत्र (Part-3)",
+      "published_date": "25 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/Bru43aXHOs0",
+      "hd_video_url": "https://www.youtube.com/embed/Bru43aXHOs0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/CMxN9vNiZ5btfd4kZHl9Nsz7qTQuC3UvFELA5Qiu.jpg",
+      "notes": [
+        {
+          "title": "Wind System and Cyclone ।। पवन तंत्र और चक्रवात",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/7e40190c-b8ed-4c0a-acc5-34d3b180b098.02"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture-28 ।। Cyclone ।। चक्रवात (Part-1)",
+      "published_date": "25 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/emwq0Gcn4Og",
+      "hd_video_url": "https://www.youtube.com/embed/emwq0Gcn4Og",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/yYI8pSDRUtzogVxijq0yVN1QRlRD0OSXITDrqADK.jpg",
+      "notes": []
+    },
+    {
+      "serial": 29,
+      "title": "Lecture-29 ।। Cyclone ।। चक्रवात (Part-2)",
+      "published_date": "26 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/n8hMBAmdUSY",
+      "hd_video_url": "https://www.youtube.com/embed/n8hMBAmdUSY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/oQ9fRPW6hi53j0AOK3EYhtw5aLP1PfIbx18rdj5c.jpg",
+      "notes": [
+        {
+          "title": "Cyclone ।। चक्रवात (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bbaffd04-5bca-4aef-9caa-bc7a7476e41a.02"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture-30 ।। Jet Stream ।। जेट प्रवाह",
+      "published_date": "27 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/pmsLfozYA_A",
+      "hd_video_url": "https://www.youtube.com/embed/pmsLfozYA_A",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/DGCZQWffIGR6KsO00BIzvTEATyM8itTaOoYcCVLj.jpg",
+      "notes": [
+        {
+          "title": "Jet Stream ।। जेट प्रवाह",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/0805452f-f91d-45bc-a8ec-65c054f80209.02"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture-31 ।। Rainfall ।। वर्षा",
+      "published_date": "28 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/BQR1Ix6bGV0",
+      "hd_video_url": "https://www.youtube.com/embed/BQR1Ix6bGV0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ov0aeEBGasH1Mu6ZakGrJ1qb15J3IuUCKyjHcCdd.jpg",
+      "notes": [
+        {
+          "title": "Rainfall ।। वर्षा",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1cdfaa45-698d-4418-8a85-2092108f20ef.02"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture-32 ।। Koppen's climate classification ।। कोपेन का जलवायु वर्गीकरण (Part-1)",
+      "published_date": "29 Feb 2024",
+      "video_url": "https://www.youtube.com/embed/OJi_i-oVjjk",
+      "hd_video_url": "https://www.youtube.com/embed/OJi_i-oVjjk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/5xIoPf7r43Xlo1ROA9VK4YPu7KtGmyoD9ahF73AP.jpg",
+      "notes": [
+        {
+          "title": "Koppen's climate classification ।। कोपेन का जलवायु वर्गीकरण (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/d50b9b4b-bd91-4872-81fc-524aadabb0d0.02"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture-33 ।। Koppen's climate classification ।। कोपेन का जलवायु वर्गीकरण (Part-2)",
+      "published_date": "01 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/brpjJdPgLbQ",
+      "hd_video_url": "https://www.youtube.com/embed/brpjJdPgLbQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/XMbFXwikSiN2hbHwhXZrC4wyYBFecDCrWDRgCgbL.jpg",
+      "notes": [
+        {
+          "title": "Koppen's climate classification ।। कोपेन का जलवायु वर्गीकरण (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1a130657-ef5b-4fb7-bff3-f3ad2f7d8a40.03"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture-34 ।। Atmosphere ।। वायुमंडल",
+      "published_date": "03 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/5iJoFwXcDbM",
+      "hd_video_url": "https://www.youtube.com/embed/5iJoFwXcDbM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/91ZCBP61zvixDenLMMU15REJvgBw0YWnn3Kn6Clm.jpg",
+      "notes": [
+        {
+          "title": "Atmosphere ।। वायुमंडल",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e8728ac4-6932-4bcc-af65-73eb1ab5cbd9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture-35 ।। Origin of Indian subcontinent ।। भारतीय उपमहाद्वीप की उत्पत्ति",
+      "published_date": "04 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/jv67KLmk0GY",
+      "hd_video_url": "https://www.youtube.com/embed/jv67KLmk0GY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/8JcNRfWWTmNTxem8Ygehhe9868ywCbNxrlmJmlNf.jpg",
+      "notes": [
+        {
+          "title": "Origin of Indian subcontinent ।। भारतीय उपमहाद्वीप की उत्पत्ति",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/9846d3ce-e187-46df-905f-133707ac4b17.03"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture-36 ।। Location and rock structure of India ।। भारत की स्थिति एवं चट्टानीय संरचना",
+      "published_date": "05 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/ADX4VaXjQXQ",
+      "hd_video_url": "https://www.youtube.com/embed/ADX4VaXjQXQ",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4MRQqxovpHm6vQknQnibjGpwG3VfKrwegwlOvQQ1.jpg",
+      "notes": [
+        {
+          "title": "Location and rock structure of India ।। भारत की स्थिति एवं चट्टानीय संरचना",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ae837bf7-4d78-4570-b70f-be465039b6eb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture-37 ।। Rock structure of India ।। भारत की चट्टानीय  संरचना (Part-1)",
+      "published_date": "06 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/ggh4dbNA8PM",
+      "hd_video_url": "https://www.youtube.com/embed/ggh4dbNA8PM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/GrRaaGSwF0Q3v3jd8B5UqW1Y11bDsEs56p6P1es1.jpg",
+      "notes": [
+        {
+          "title": "Rock structure of India ।। भारत की चट्टानीय  संरचना",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/36b03cfb-e1c8-4346-b0ce-a8bc26501ed3.03"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture-38 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-2)",
+      "published_date": "07 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/smtqfphCb5I",
+      "hd_video_url": "https://www.youtube.com/embed/smtqfphCb5I",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ZiANZTWgXmKLDbyinaevIoEpzTduUXWhMBXVnoFW.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/472e2bb8-3637-4280-9e54-1038401bcba6.03"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture-39 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-1)",
+      "published_date": "10 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/6o6ut7kjHFk",
+      "hd_video_url": "https://www.youtube.com/embed/6o6ut7kjHFk",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/the8jx40jy7xrYWUFv2e8t2GayEvdEWgQCytYWcB.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-01)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f8433767-e124-476e-893b-613e787aea46.03"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture-40 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-2)",
+      "published_date": "11 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/qDEF84OLIxw",
+      "hd_video_url": "https://www.youtube.com/embed/qDEF84OLIxw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/YDlPUHDlA7Loj4JFi5DSw1bwSjmpKnJOd8oJxnP2.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a60a56c0-525d-4cdf-be64-1b8b58d39a9b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture-41 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-3)",
+      "published_date": "12 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/MmGMhqabWDo",
+      "hd_video_url": "https://www.youtube.com/embed/MmGMhqabWDo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/C3f4WDRnsdfJDvOAQ3wFWHLENw1A6AxOuQuS2qDJ.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-03)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/bd81969d-ac5c-404f-a7fa-acc1b85eac03.03"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture-42 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-4)",
+      "published_date": "13 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/Q6SlnUX9TJ8",
+      "hd_video_url": "https://www.youtube.com/embed/Q6SlnUX9TJ8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/Eh1EzdzTbRUi1SGnD1vpyBoaKLArVHNVHOc2dPEe.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-04)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/1d3aa6ea-e918-4129-a119-b27563fc35f8.03"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture-43 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-5)",
+      "published_date": "14 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/6DeFw7tGkpM",
+      "hd_video_url": "https://www.youtube.com/embed/6DeFw7tGkpM",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/xh90cJQSqCWkSPi1Qiqpi0KjXv0drl2tP6Ll1FcW.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-05)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/abfdfc1a-36d1-4b40-9c0a-a0dba23d96eb.03"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture-44 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-6)",
+      "published_date": "15 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/A4DPO-BWs6Q",
+      "hd_video_url": "https://www.youtube.com/embed/A4DPO-BWs6Q",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/wXS3Y0vCsOjKe4MCvwJUtLouUinHbvraJF88Z2Py.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/3258afc6-c605-449f-84d6-b2d9b0080e71.03"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture-45 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-6)",
+      "published_date": "16 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/W7cQEOgJnCw",
+      "hd_video_url": "https://www.youtube.com/embed/W7cQEOgJnCw",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/JEMpDNlpzrWT1NLyebOcs4mICsOcd3kM2wjofE9J.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-06)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/5faf3169-8015-4903-b122-11254706ef03.03"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture-46 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-7)",
+      "published_date": "18 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/LHRNG-i35_g",
+      "hd_video_url": "https://www.youtube.com/embed/LHRNG-i35_g",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/BMbt3iyhaCm961riLnlHXw4Aos1L28iPhpdFp1FY.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-07)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e662ccfd-5f5a-444c-8e6b-8a7c19d3f092.03"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture-47 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-8)",
+      "published_date": "19 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/nEMSw5nOkXs",
+      "hd_video_url": "https://www.youtube.com/embed/nEMSw5nOkXs",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/iMUWz40Q1iJpjgch5BgKdWIMBVqk3gSjrBfKwbOH.jpg",
+      "notes": [
+        {
+          "title": "Physical Division of India ।। भारत का भौतिक विभाजन (Part-08)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/ccb19a33-79f5-4f5f-9dbf-a3c9e754eb96.03"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture-48 ।। Physical Division of India ।। भारत का भौतिक विभाजन (Part-9)",
+      "published_date": "20 Mar 2024",
+      "video_url": "https://www.youtube.com/embed/dWJ9IDvOrEQ",
+      "hd_video_url": "https://www.youtube.com/embed/dWJ9IDvOrEQ",
+      "thumbnail": "",
+      "notes": []
+    },
+    {
+      "serial": 49,
+      "title": "Lecture-49 ।। Indian Monsoon ।। भारतीय मानसून (Part-1)",
+      "published_date": "01 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/cfcDoa3LYQU",
+      "hd_video_url": "https://www.youtube.com/embed/cfcDoa3LYQU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/lbtqBHJFsQpmvs2QjDmaWJub57kkZhLKZvj5SzGA.jpg",
+      "notes": [
+        {
+          "title": "Indian Monsoon ।। भारतीय मानसून",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/e057f8ed-a560-459b-a2d3-51247c513d6f.04"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture-50 ।। Indian Monsoon ।। भारतीय मानसून (Part-2)",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/dbeYIdi_UhU",
+      "hd_video_url": "https://www.youtube.com/embed/dbeYIdi_UhU",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/ph7GT2MTJ1KFFv27S5BzMRdPB5r3VZ3F6Dkn8OFl.jpg",
+      "notes": [
+        {
+          "title": "Indian Monsoon ।। भारतीय मानसून (Part-02)",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/a7f56fff-2eec-4a2c-98b7-2edd9e3514ca.04"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture-51 ।। Soil of India ।। भारत की मृदा",
+      "published_date": "02 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/I9C_omgBY5w",
+      "hd_video_url": "https://www.youtube.com/embed/I9C_omgBY5w",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/MwrazFYE7LDlx8YOPshzBl8MnWV2wEEhWhwNoC1W.jpg",
+      "notes": [
+        {
+          "title": "Soil ।। मिट्टी",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/57d5af66-fffb-496c-848f-88e9b4307bbf.04"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture-52 ।। Natural vegetation ।। प्राकृतिक वनस्पतियाँ",
+      "published_date": "04 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/MLR1B2BKR_M",
+      "hd_video_url": "https://www.youtube.com/embed/MLR1B2BKR_M",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/mZ0itR47W251XGPTn8l8XXo4qxGTlm6M4ZooyHmV.jpg",
+      "notes": [
+        {
+          "title": "Natural vegetation ।। प्राकृतिक वनस्पतियाँ",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/c5e6227c-15a9-4ca3-adc9-c036028176a5.04"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture-53 ।। Indian Agriculture ।। भारतीय कृषि",
+      "published_date": "05 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/-zFAP-txnWY",
+      "hd_video_url": "https://www.youtube.com/embed/-zFAP-txnWY",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/39PDpgKx34hU4C67xNCMUnShRepiowAGH3tg5Esy.jpg",
+      "notes": [
+        {
+          "title": "Agriculture ।। कृषि",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/629cf00b-e8f5-4227-b12c-ea0fd81b7b79.04"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture-54 ।। Mineral resources in India ।। भारत में खनिज संसाधन",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/fPlQ_6dnTw0",
+      "hd_video_url": "https://www.youtube.com/embed/fPlQ_6dnTw0",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/tPM4Bg3vgR31vBzQLFOyLXaiBITAcR6qHM3MDsx0.jpg",
+      "notes": []
+    },
+    {
+      "serial": 55,
+      "title": "Lecture-55 ।। Mineral Resources and Industries in India ।। भारत में खनिज संसाधन और उद्योग",
+      "published_date": "08 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/RnSI1wx1ds8",
+      "hd_video_url": "https://www.youtube.com/embed/RnSI1wx1ds8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/4GlVIsAACm8n6Kho1ic9iBX88jJoVUrpjtvv2WzN.jpg",
+      "notes": []
+    },
+    {
+      "serial": 56,
+      "title": "Lecture-56 ।। Population of India ।। भारत की जनसंख्या",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/xU3b65CoxAI",
+      "hd_video_url": "https://www.youtube.com/embed/xU3b65CoxAI",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/M57JtZ29wlHntLHKJHZKDUPuXMrdFKeEzDxKcVyD.jpg",
+      "notes": []
+    },
+    {
+      "serial": 57,
+      "title": "Lecture-57 ।। Drainage System of India ।। भारत का अपवाह तंत्र",
+      "published_date": "09 Apr 2024",
+      "video_url": "https://www.youtube.com/embed/ZJkJ_JjGxHo",
+      "hd_video_url": "https://www.youtube.com/embed/ZJkJ_JjGxHo",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/do/video-thumbs/SBoItRjH0uyxQCTA0h7rBmdqM64wVx2E5XBFldOK.jpg",
+      "notes": [
+        {
+          "title": "Population and Drainage System of India ।। भारत की जनसंख्या और अपवाह तंत्र",
+          "url": "https://kgs-v2.akamaized.net/kgs/do/pdfs/f8f700a8-e936-441f-9a2a-451bcc4556d3.04"
+        }
+      ]
+    },
+    {
+      "serial": 58,
+      "title": "Lecture-58 ।। South America ।। दक्षिण अमेरिका (Part-2) Old",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/_1em2t0GiBc",
+      "hd_video_url": "https://www.youtube.com/embed/_1em2t0GiBc",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/cUtAC3RsK4kD5HUc1pyxCOaFD8EC1tc14duLMbzU.png",
+      "notes": []
+    },
+    {
+      "serial": 59,
+      "title": "Lecture-59 ।। South America ।। दक्षिण अमेरिका (Part-1) Old",
+      "published_date": "30 May 2024",
+      "video_url": "https://www.youtube.com/embed/eEQT9YovK-8",
+      "hd_video_url": "https://www.youtube.com/embed/eEQT9YovK-8",
+      "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs/RjgL9LTh9FdCykSQvFvifBUsFeTgOiarT0EkGYpv.png",
+      "notes": []
+    },
+    {
+      "serial": 60,
+      "title": "Lecture-60 ।। Africa ।। अफ्रीका (Part-1)",
+      "published_date": "07 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-01/l-01-mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/L3lLAtxpdNY",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e56b06e7f.jpg",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5e0c4ae-1c36-49a8-ad2d-8a0ce8390a3c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 61,
+      "title": "Lecture-61 ।। Africa ।। अफ्रीका (Part-2)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-02/l-02-mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/g9esBQGmCq4",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e56a7593a.jpg",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-2)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ee4d4f3-fed0-48b5-ae5c-4e5045725d11.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 62,
+      "title": "Lecture-62 ।। Africa ।। अफ्रीका (Part-3)",
+      "published_date": "13 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-03/l-03-mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/YlTfOrCxF_8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e569e192c.jpg",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-3)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e30b8fae-364d-47a2-93ec-20726db6cb35.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 63,
+      "title": "Lecture-63 ।। Africa ।। अफ्रीका (Part-4)",
+      "published_date": "21 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-04/l-04-mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/4WO4CyLRri8",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e5695f9fb.jpg",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-4)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abb641b4-742f-4f11-91cd-ead419706475.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 64,
+      "title": "Lecture-64 ।। Africa ।। अफ्रीका (Part-5)",
+      "published_date": "28 Sep 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-05/mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/-nLmqm5QnlA",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e568d0401.jpg",
+      "notes": []
+    },
+    {
+      "serial": 65,
+      "title": "Lecture-65 ।। Africa ।। अफ्रीका (Part-6)",
+      "published_date": "03 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-06/mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/xqxGBqlmGRg",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7ub3amFCaHt3eeObZcdJkmGnVDMVW5id0mVBI1B3.png",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-6)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/169dc88e-5620-48e7-81c5-1f81d819a20f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 66,
+      "title": "Lecture-66 ।। Africa ।। अफ्रीका (Part-7)",
+      "published_date": "04 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-07/mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/fQuOhRMxrKE",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e56816edc.jpg",
+      "notes": [
+        {
+          "title": "Africa ।। अफ्रीका (Part-7)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61a44067-b12e-4e10-8e25-c6ff6caf593e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 67,
+      "title": "Lecture-67 ।। Australia।। ऑस्ट्रेलिया (Last Class)",
+      "published_date": "05 Oct 2024",
+      "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/mapping-ajeet-sir/l-08/mapping-ajeet-sir-bpsc71-br.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/uIQQyl4W6As",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809e567884bc.jpg",
+      "notes": [
+        {
+          "title": "Australia।। ऑस्ट्रेलिया (Part-1)",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6360a4ce-7ed3-4721-b9ed-11eab6ae039a.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

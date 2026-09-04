@@ -1,0 +1,65 @@
+{
+  "subject_name": "History by Amarendra Sir (For Group Y)",
+  "subject_id": 4701,
+  "video_count": 4,
+  "note_count": 4,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "History Marathon Class",
+      "published_date": "08 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/fGxW2Jju-qM",
+      "hd_video_url": "https://www.youtube.com/embed/fGxW2Jju-qM",
+      "thumbnail": "https://i.ytimg.com/vi/fGxW2Jju-qM/default.jpg",
+      "notes": [
+        {
+          "title": "History Marathon Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e0648e0-721c-42d1-8d1b-98d45745a3b6.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 01- History Class",
+      "published_date": "10 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/p-5M80jvgL8",
+      "hd_video_url": "https://www.youtube.com/embed/p-5M80jvgL8",
+      "thumbnail": "https://i.ytimg.com/vi/p-5M80jvgL8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 01- History Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5c5739a-9ef7-4208-94e0-1f09b7520705.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture 02- History Class",
+      "published_date": "11 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/n7LFUI0a3cI",
+      "hd_video_url": "https://www.youtube.com/embed/n7LFUI0a3cI",
+      "thumbnail": "https://i.ytimg.com/vi/n7LFUI0a3cI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 02- History Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02f0b899-989a-4b7c-92dc-7abdd91d08ec.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture 03- History Class",
+      "published_date": "12 Mar 2025",
+      "video_url": "https://www.youtube.com/embed/PGRVHYOXpFU",
+      "hd_video_url": "https://www.youtube.com/embed/PGRVHYOXpFU",
+      "thumbnail": "https://i.ytimg.com/vi/PGRVHYOXpFU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture 03- History Class",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0b3ecf8-4b65-455e-a7ab-4a837dc3d318.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

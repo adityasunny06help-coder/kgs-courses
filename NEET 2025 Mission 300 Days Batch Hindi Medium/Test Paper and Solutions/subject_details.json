@@ -1,0 +1,51 @@
+{
+  "subject_name": "Test Paper and Solutions",
+  "subject_id": 2684,
+  "video_count": 3,
+  "note_count": 3,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Unit Test - 2 : Physics Video Solution - 1",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/GAYYiQFyJFI",
+      "hd_video_url": "https://www.youtube.com/embed/GAYYiQFyJFI",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Unit Test - 2 : Physics Video Solution - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bdc1c49a-8975-4df5-b400-b3bca407ce0b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Unit Test - 2 : Botany Video Solution - 1",
+      "published_date": "30 Jul 2024",
+      "video_url": "https://www.youtube.com/embed/Jn3AElOABJM",
+      "hd_video_url": "https://www.youtube.com/embed/Jn3AElOABJM",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Unit Test - 2 : Botany Video Solution - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1704dc42-877c-42ac-baeb-85e22b238a67.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Unit Test - 3 : Physics Video Solution - 1",
+      "published_date": "27 Aug 2024",
+      "video_url": "https://www.youtube.com/embed/A8-HyH9aJLU",
+      "hd_video_url": "https://www.youtube.com/embed/A8-HyH9aJLU",
+      "thumbnail": "",
+      "notes": [
+        {
+          "title": "Class Notes - Unit Test - 3 : Physics Video Solution - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4f336ee-64f7-458e-a259-f894c162f8f4.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

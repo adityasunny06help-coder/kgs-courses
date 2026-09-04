@@ -1,0 +1,37 @@
+{
+  "subject_name": "Current Affairs by Jeet Sir",
+  "subject_id": 8075,
+  "video_count": 2,
+  "note_count": 2,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture 01 || Current Affairs by Jeet Sir",
+      "published_date": "31 Jul 2025",
+      "video_url": "https://www.youtube.com/embed/TzrgyBsbC5g",
+      "hd_video_url": "https://www.youtube.com/embed/TzrgyBsbC5g",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/npZ0djmu2oKeSTO3MSUifibCfWcjSWD85Y7F0aff.png",
+      "notes": [
+        {
+          "title": "Lecture 01 || Current Affairs by Jeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c55986c-1d66-4857-b573-c9345097d732.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 2,
+      "title": "Lecture 02 || Current Affairs by Jeet Sir",
+      "published_date": "07 Aug 2025",
+      "video_url": "https://kgs-v1.akamaized.net/kv3/aug-2025/319126/kgss-1754577437-v319126.m3u8",
+      "hd_video_url": "https://www.youtube.com/embed/kyWGBIFL0DI",
+      "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nS1jBKIL6gsOvY5O1f3QLm1Ndjue7Gi7hc8q2wlC.png",
+      "notes": [
+        {
+          "title": "Lecture 02 || Current Affairs by Jeet Sir",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dee1b0e-ad7d-4174-8941-83596916d475.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

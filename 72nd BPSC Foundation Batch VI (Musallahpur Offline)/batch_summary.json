@@ -1,0 +1,40 @@
+{
+  "batch_info": {
+    "title": "72nd BPSC Foundation Batch VI (Musallahpur Offline)",
+    "price": "15000",
+    "id": "708",
+    "extracted_date": "2025-08-27T13:35:38.073498"
+  },
+  "subjects": [
+    {
+      "name": "Orientation Class by Khan Sir",
+      "id": 7871,
+      "video_count": 1,
+      "note_count": 1
+    },
+    {
+      "name": "Geography by Ajeet Sir",
+      "id": 7892,
+      "video_count": 25,
+      "note_count": 25
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 7896,
+      "video_count": 4,
+      "note_count": 4
+    },
+    {
+      "name": "Economy by Dr. Bharat Sir",
+      "id": 8283,
+      "video_count": 9,
+      "note_count": 7
+    },
+    {
+      "name": "Bihar Special by Jaswant Sir",
+      "id": 8403,
+      "video_count": 0,
+      "note_count": 0
+    }
+  ]
+}

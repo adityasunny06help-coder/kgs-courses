@@ -1,0 +1,802 @@
+{
+  "subject_name": "Chemistry By Yogesh Yadav (NCYY Sir)",
+  "subject_id": 2245,
+  "video_count": 57,
+  "note_count": 56,
+  "videos": [
+    {
+      "serial": 1,
+      "title": "Lecture - 1 || IUPAC - 1",
+      "published_date": "28 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/WsgDSFt8vaM",
+      "hd_video_url": "https://www.youtube.com/embed/WsgDSFt8vaM",
+      "thumbnail": "https://i.ytimg.com/vi/WsgDSFt8vaM/default.jpg",
+      "notes": []
+    },
+    {
+      "serial": 2,
+      "title": "Lecture - 2 || IUPAC - 2",
+      "published_date": "29 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/rrw8wEpU90E",
+      "hd_video_url": "https://www.youtube.com/embed/rrw8wEpU90E",
+      "thumbnail": "https://i.ytimg.com/vi/rrw8wEpU90E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 2 || IUPAC - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/016a9ed1-0006-400c-b24b-7c77cddf3c15.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 3,
+      "title": "Lecture - 3 || IUPAC - 3",
+      "published_date": "30 Nov 2024",
+      "video_url": "https://www.youtube.com/embed/_h11zU9rppI",
+      "hd_video_url": "https://www.youtube.com/embed/_h11zU9rppI",
+      "thumbnail": "https://i.ytimg.com/vi/_h11zU9rppI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 3 || IUPAC - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b977b75a-7e8f-4a62-bf58-9c2581396102.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 4,
+      "title": "Lecture - 4 || IUPAC - 4",
+      "published_date": "02 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/RIh8_TinaM8",
+      "hd_video_url": "https://www.youtube.com/embed/RIh8_TinaM8",
+      "thumbnail": "https://i.ytimg.com/vi/RIh8_TinaM8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 4 || IUPAC - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bec7f636-3286-4493-87f3-27a243f8fbb9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 5,
+      "title": "Lecture - 5 || IUPAC - 5",
+      "published_date": "03 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/eyB8GSCYLpY",
+      "hd_video_url": "https://www.youtube.com/embed/eyB8GSCYLpY",
+      "thumbnail": "https://i.ytimg.com/vi/eyB8GSCYLpY/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 5 || IUPAC - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e70f6136-7c45-4e46-8873-8dc564980218.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 6,
+      "title": "Lecture - 6 || IUPAC - 6",
+      "published_date": "04 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/6q1wafiaoSE",
+      "hd_video_url": "https://www.youtube.com/embed/6q1wafiaoSE",
+      "thumbnail": "https://i.ytimg.com/vi/6q1wafiaoSE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 6 || IUPAC - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e095a999-84fa-4594-8c28-90ce5711107b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 7,
+      "title": "Lecture - 7 || IUPAC - 7",
+      "published_date": "16 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/VKZ6l8EpCRE",
+      "hd_video_url": "https://www.youtube.com/embed/VKZ6l8EpCRE",
+      "thumbnail": "https://i.ytimg.com/vi/VKZ6l8EpCRE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 7 || IUPAC - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d4713f0-f581-46e3-a8e3-064f44ff0a18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 8,
+      "title": "Lecture - 8 || IUPAC - 8",
+      "published_date": "17 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/hF_X4BYwvX0",
+      "hd_video_url": "https://www.youtube.com/embed/hF_X4BYwvX0",
+      "thumbnail": "https://i.ytimg.com/vi/hF_X4BYwvX0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 8 || IUPAC - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d41a0a82-3b3b-477a-a891-227c74bff9ca.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 9,
+      "title": "Lecture - 9 || IUPAC - 9",
+      "published_date": "18 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/_onQPVYG2aE",
+      "hd_video_url": "https://www.youtube.com/embed/_onQPVYG2aE",
+      "thumbnail": "https://i.ytimg.com/vi/_onQPVYG2aE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 9 || IUPAC - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb827bfd-4281-419a-b7fb-ed52399d151b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 10,
+      "title": "Lecture - 10 || IUPAC - 10",
+      "published_date": "23 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/UBDwiBbcvk8",
+      "hd_video_url": "https://www.youtube.com/embed/UBDwiBbcvk8",
+      "thumbnail": "https://i.ytimg.com/vi/UBDwiBbcvk8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 10 || IUPAC - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1abcce8f-9a5b-4d53-98d9-e4aa4f08881e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 11,
+      "title": "Lecture - 11 || IUPAC - 11",
+      "published_date": "24 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/10TbZjUWv3w",
+      "hd_video_url": "https://www.youtube.com/embed/10TbZjUWv3w",
+      "thumbnail": "https://i.ytimg.com/vi/10TbZjUWv3w/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 11 || IUPAC - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f3934cb-30a4-4fc6-af0c-17bb3d6cb8d1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 12,
+      "title": "Lecture - 12 || IUPAC - 12",
+      "published_date": "25 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/kxpEYUIbLao",
+      "hd_video_url": "https://www.youtube.com/embed/kxpEYUIbLao",
+      "thumbnail": "https://i.ytimg.com/vi/kxpEYUIbLao/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 12 || IUPAC - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c105827-cc89-4e4d-96c4-56fca9646766.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 13,
+      "title": "Lecture - 13 || IUPAC - 13",
+      "published_date": "26 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/3FNoj0yewvQ",
+      "hd_video_url": "https://www.youtube.com/embed/3FNoj0yewvQ",
+      "thumbnail": "https://i.ytimg.com/vi/3FNoj0yewvQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 13 || IUPAC - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d3a9df9-c0ad-4748-af12-cc1f1f96b242.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 14,
+      "title": "Lecture - 14 || IUPAC - 14",
+      "published_date": "27 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/aHVLjDLVEGw",
+      "hd_video_url": "https://www.youtube.com/embed/aHVLjDLVEGw",
+      "thumbnail": "https://i.ytimg.com/vi/aHVLjDLVEGw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 14 || IUPAC - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a6ec197-0a52-4d40-8f16-32205e543128.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 15,
+      "title": "Lecture - 15 || IUPAC - 15",
+      "published_date": "28 Dec 2024",
+      "video_url": "https://www.youtube.com/embed/gWLyjrys-k8",
+      "hd_video_url": "https://www.youtube.com/embed/gWLyjrys-k8",
+      "thumbnail": "https://i.ytimg.com/vi/gWLyjrys-k8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 15 || IUPAC - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f03a0bb7-9afd-4393-b0f5-96b033e830d9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 16,
+      "title": "Lecture - 16 || IUPAC - 16",
+      "published_date": "02 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/jJOo1Q-Kg8Y",
+      "hd_video_url": "https://www.youtube.com/embed/jJOo1Q-Kg8Y",
+      "thumbnail": "https://i.ytimg.com/vi/jJOo1Q-Kg8Y/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 16 || IUPAC - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d014427-1750-46fa-b3b6-7a3a166c20f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 17,
+      "title": "Lecture - 17 || IUPAC - 17",
+      "published_date": "03 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ZgoRuhIhrVs",
+      "hd_video_url": "https://www.youtube.com/embed/ZgoRuhIhrVs",
+      "thumbnail": "https://i.ytimg.com/vi/ZgoRuhIhrVs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 17 || IUPAC - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fda3cb6-4fab-4126-94ca-dc4f565322a9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 18,
+      "title": "Lecture - 18 || IUPAC - 18",
+      "published_date": "04 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/8ZKZmhU-0zE",
+      "hd_video_url": "https://www.youtube.com/embed/8ZKZmhU-0zE",
+      "thumbnail": "https://i.ytimg.com/vi/8ZKZmhU-0zE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 18 || IUPAC - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42862876-d40a-4caa-b763-d367980a5614.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 19,
+      "title": "Lecture - 19 || IUPAC - 19",
+      "published_date": "06 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/fh_Bd-8umHM",
+      "hd_video_url": "https://www.youtube.com/embed/fh_Bd-8umHM",
+      "thumbnail": "https://i.ytimg.com/vi/fh_Bd-8umHM/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 19 || IUPAC - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cddc46e9-5a66-4cb8-b923-7deb8c98f0e2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 20,
+      "title": "Lecture - 20 || IUPAC - 20",
+      "published_date": "07 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rzitk_kYdvc",
+      "hd_video_url": "https://www.youtube.com/embed/rzitk_kYdvc",
+      "thumbnail": "https://i.ytimg.com/vi/rzitk_kYdvc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 20 || IUPAC - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48d3a04c-3c6d-43a5-bd91-40332245e853.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 21,
+      "title": "Lecture - 21 || IUPAC - 21",
+      "published_date": "08 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/rirQTjma0yk",
+      "hd_video_url": "https://www.youtube.com/embed/rirQTjma0yk",
+      "thumbnail": "https://i.ytimg.com/vi/rirQTjma0yk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 21 || IUPAC - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae3c1e87-797e-4f57-97e8-b207234a05b9.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 22,
+      "title": "Lecture - 22 || IUPAC - 22",
+      "published_date": "09 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-WWFDnyyek4",
+      "hd_video_url": "https://www.youtube.com/embed/-WWFDnyyek4",
+      "thumbnail": "https://i.ytimg.com/vi/-WWFDnyyek4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 22 || IUPAC - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4eb13808-5ae2-437b-af64-0088b26d7554.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 23,
+      "title": "Lecture - 23 || IUPAC - 23",
+      "published_date": "11 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/q8AwFzIolOg",
+      "hd_video_url": "https://www.youtube.com/embed/q8AwFzIolOg",
+      "thumbnail": "https://i.ytimg.com/vi/q8AwFzIolOg/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 23 || IUPAC - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/388091da-afe5-4aca-b0d4-a543e579643a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 24,
+      "title": "Lecture - 24 || IUPAC - 24",
+      "published_date": "13 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/RGwkFhAVPrQ",
+      "hd_video_url": "https://www.youtube.com/embed/RGwkFhAVPrQ",
+      "thumbnail": "https://i.ytimg.com/vi/RGwkFhAVPrQ/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 24 || IUPAC - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d95bafab-1287-41d1-842a-07200387b108.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 25,
+      "title": "Lecture - 25 || IUPAC - 25",
+      "published_date": "14 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/0Y2skXPyFCA",
+      "hd_video_url": "https://www.youtube.com/embed/0Y2skXPyFCA",
+      "thumbnail": "https://i.ytimg.com/vi/0Y2skXPyFCA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 25 || IUPAC - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abb5ba35-609c-4e12-8ce7-c48ce7ac779c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 26,
+      "title": "Lecture - 26 || IUPAC - 26",
+      "published_date": "15 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/NgyzwoALwQI",
+      "hd_video_url": "https://www.youtube.com/embed/NgyzwoALwQI",
+      "thumbnail": "https://i.ytimg.com/vi/NgyzwoALwQI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 26 || IUPAC - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8477a777-9b6d-4b3e-aead-2d836be92439.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 27,
+      "title": "Lecture - 27 || Isomerism - 1",
+      "published_date": "16 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/Lfl9PEqafhA",
+      "hd_video_url": "https://www.youtube.com/embed/Lfl9PEqafhA",
+      "thumbnail": "https://i.ytimg.com/vi/Lfl9PEqafhA/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 27 || Isomerism - 1",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8b9d6f8-a4c3-4ff4-bc92-ef720676a075.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 28,
+      "title": "Lecture - 28 || Isomerism - 2",
+      "published_date": "20 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/e7jrhcL8t-E",
+      "hd_video_url": "https://www.youtube.com/embed/e7jrhcL8t-E",
+      "thumbnail": "https://i.ytimg.com/vi/e7jrhcL8t-E/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 28 || Isomerism - 2",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50a7c810-4b28-4988-a036-93bc1f37a3f8.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 29,
+      "title": "Lecture - 29 || Isomerism - 3",
+      "published_date": "21 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/x-F_78JChYI",
+      "hd_video_url": "https://www.youtube.com/embed/x-F_78JChYI",
+      "thumbnail": "https://i.ytimg.com/vi/x-F_78JChYI/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 29 || Isomerism - 3",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fb5efa7-6383-434b-a3cf-82c48ac0957b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 30,
+      "title": "Lecture - 30 || Isomerism - 4",
+      "published_date": "22 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/zjbaPb7jfms",
+      "hd_video_url": "https://www.youtube.com/embed/zjbaPb7jfms",
+      "thumbnail": "https://i.ytimg.com/vi/zjbaPb7jfms/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 30 || Isomerism - 4",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/066cb148-3d69-404e-8bd8-b56d52a7bc2d.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 31,
+      "title": "Lecture - 31 || Isomerism - 5",
+      "published_date": "23 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/33TnqK5WmKE",
+      "hd_video_url": "https://www.youtube.com/embed/33TnqK5WmKE",
+      "thumbnail": "https://i.ytimg.com/vi/33TnqK5WmKE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 31 || Isomerism - 5",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc379c5f-5c3f-4917-a647-ef012b151d98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 32,
+      "title": "Lecture - 32 || Isomerism - 6",
+      "published_date": "24 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/ecMLiIfiFBw",
+      "hd_video_url": "https://www.youtube.com/embed/ecMLiIfiFBw",
+      "thumbnail": "https://i.ytimg.com/vi/ecMLiIfiFBw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 32 || Isomerism - 6",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d097df89-972b-4c07-b220-0787eba7cf0f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 33,
+      "title": "Lecture - 33 || Isomerism - 7",
+      "published_date": "25 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/gBdz-LkHEM0",
+      "hd_video_url": "https://www.youtube.com/embed/gBdz-LkHEM0",
+      "thumbnail": "https://i.ytimg.com/vi/gBdz-LkHEM0/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 33 || Isomerism - 7",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/639da12c-b70a-4c43-8b01-22c212f6fa6f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 34,
+      "title": "Lecture - 34 || Isomerism - 8",
+      "published_date": "27 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/HWk7RYgR6oU",
+      "hd_video_url": "https://www.youtube.com/embed/HWk7RYgR6oU",
+      "thumbnail": "https://i.ytimg.com/vi/HWk7RYgR6oU/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 34 || Isomerism - 8",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/562a60db-5484-4d3f-b888-01513b3c7349.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 35,
+      "title": "Lecture - 35 || Isomerism - 9",
+      "published_date": "28 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/xAjCogC9P5s",
+      "hd_video_url": "https://www.youtube.com/embed/xAjCogC9P5s",
+      "thumbnail": "https://i.ytimg.com/vi/xAjCogC9P5s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 35 || Isomerism - 9",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b068d8a5-629e-4309-b654-27a7b6a5bb8f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 36,
+      "title": "Lecture - 36 || Isomerism - 10",
+      "published_date": "29 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/voaNQ-w1MZw",
+      "hd_video_url": "https://www.youtube.com/embed/voaNQ-w1MZw",
+      "thumbnail": "https://i.ytimg.com/vi/voaNQ-w1MZw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 36 || Isomerism - 10",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8677a4e2-be86-465d-8ff4-b0cf717b6f18.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 37,
+      "title": "Lecture - 37 || Isomerism - 11",
+      "published_date": "30 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/-AnbiTUp3Qs",
+      "hd_video_url": "https://www.youtube.com/embed/-AnbiTUp3Qs",
+      "thumbnail": "https://i.ytimg.com/vi/-AnbiTUp3Qs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 37 || Isomerism - 11",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fd8142c-2631-4582-9326-7dabbf2fb2a3.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 38,
+      "title": "Lecture - 38 || Isomerism - 12",
+      "published_date": "31 Jan 2025",
+      "video_url": "https://www.youtube.com/embed/_8i1DyjQJ64",
+      "hd_video_url": "https://www.youtube.com/embed/_8i1DyjQJ64",
+      "thumbnail": "https://i.ytimg.com/vi/_8i1DyjQJ64/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 38 || Isomerism - 12",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/817d4079-deed-48db-9a41-8cd6b1f77957.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 39,
+      "title": "Lecture - 39 || Isomerism - 13",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/Ue55daCz278",
+      "hd_video_url": "https://www.youtube.com/embed/Ue55daCz278",
+      "thumbnail": "https://i.ytimg.com/vi/Ue55daCz278/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 39 || Isomerism - 13",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99b8c51d-39bd-4920-9532-caf98ae5fee0.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 40,
+      "title": "Lecture - 40 || Isomerism - 14",
+      "published_date": "06 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/uaPXUhBLbVk",
+      "hd_video_url": "https://www.youtube.com/embed/uaPXUhBLbVk",
+      "thumbnail": "https://i.ytimg.com/vi/uaPXUhBLbVk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 40 || Isomerism - 14",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2082163f-4463-4ca8-bfa1-dd158f0aff0e.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 41,
+      "title": "Lecture - 41 || Isomerism - 15",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/h1wJhlWphyE",
+      "hd_video_url": "https://www.youtube.com/embed/h1wJhlWphyE",
+      "thumbnail": "https://i.ytimg.com/vi/h1wJhlWphyE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 41 || Isomerism - 15",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cf16652-1586-4297-8be3-f5f90503d05c.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 42,
+      "title": "Lecture - 42 || Isomerism - 16",
+      "published_date": "07 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/3ssUCCUFbXc",
+      "hd_video_url": "https://www.youtube.com/embed/3ssUCCUFbXc",
+      "thumbnail": "https://i.ytimg.com/vi/3ssUCCUFbXc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 42 || Isomerism - 16",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be386a00-e88b-4e65-b98c-7d3073e2273a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 43,
+      "title": "Lecture - 43 || Isomerism - 17",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/IYFqQ7Aqvkk",
+      "hd_video_url": "https://www.youtube.com/embed/IYFqQ7Aqvkk",
+      "thumbnail": "https://i.ytimg.com/vi/IYFqQ7Aqvkk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 43 || Isomerism - 17",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c4711f4-2794-407d-a93a-309f3d77f15a.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 44,
+      "title": "Lecture - 44 || Isomerism - 18",
+      "published_date": "08 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/MmAAopJvnks",
+      "hd_video_url": "https://www.youtube.com/embed/MmAAopJvnks",
+      "thumbnail": "https://i.ytimg.com/vi/MmAAopJvnks/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 44 || Isomerism - 18",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afdf840a-78e6-4d06-a08a-9f4b2e988f81.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 45,
+      "title": "Lecture - 45 || Isomerism - 19",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/XJHQb94JwXk",
+      "hd_video_url": "https://www.youtube.com/embed/XJHQb94JwXk",
+      "thumbnail": "https://i.ytimg.com/vi/XJHQb94JwXk/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 45 || Isomerism - 19",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/812c73dd-37eb-4b3b-8877-13b931cc9046.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 46,
+      "title": "Lecture - 46 || Isomerism - 20",
+      "published_date": "13 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/_pfzDBTde5I",
+      "hd_video_url": "https://www.youtube.com/embed/_pfzDBTde5I",
+      "thumbnail": "https://i.ytimg.com/vi/_pfzDBTde5I/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 46 || Isomerism - 20",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/104eba25-0d73-4f6b-8f41-d6a9893fca66.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 47,
+      "title": "Lecture - 47 || Isomerism - 21",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/W_f_brjBmxE",
+      "hd_video_url": "https://www.youtube.com/embed/W_f_brjBmxE",
+      "thumbnail": "https://i.ytimg.com/vi/W_f_brjBmxE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 47 || Isomerism - 21",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d48a44d3-4d1e-4b48-a5a0-1bb2741250f2.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 48,
+      "title": "Lecture - 48 || Isomerism - 22",
+      "published_date": "14 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/KpQIMtXcJEw",
+      "hd_video_url": "https://www.youtube.com/embed/KpQIMtXcJEw",
+      "thumbnail": "https://i.ytimg.com/vi/KpQIMtXcJEw/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 48 || Isomerism - 22",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c5bd8176-1441-495c-894f-135dd4027634.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 49,
+      "title": "Lecture - 49 || Isomerism - 23",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/08FpUpcmC5s",
+      "hd_video_url": "https://www.youtube.com/embed/08FpUpcmC5s",
+      "thumbnail": "https://i.ytimg.com/vi/08FpUpcmC5s/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 49 || Isomerism - 23",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39e5889e-d19d-4a46-b1ca-885f74652c98.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 50,
+      "title": "Lecture - 50 || Isomerism - 24",
+      "published_date": "15 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/gHHQTnGwpwo",
+      "hd_video_url": "https://www.youtube.com/embed/gHHQTnGwpwo",
+      "thumbnail": "https://i.ytimg.com/vi/gHHQTnGwpwo/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 50 || Isomerism - 24",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82e02c7b-589d-4372-b321-6e0253080542.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 51,
+      "title": "Lecture - 51 || Isomerism - 25",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/9W_2tNeSlpc",
+      "hd_video_url": "https://www.youtube.com/embed/9W_2tNeSlpc",
+      "thumbnail": "https://i.ytimg.com/vi/9W_2tNeSlpc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 51 || Isomerism - 25",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2a8fe90-161e-4a8d-8912-1bf104aacc75.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 52,
+      "title": "Lecture - 52 || Isomerism - 26",
+      "published_date": "20 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/nmc1uKXOPDc",
+      "hd_video_url": "https://www.youtube.com/embed/nmc1uKXOPDc",
+      "thumbnail": "https://i.ytimg.com/vi/nmc1uKXOPDc/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 52 || Isomerism - 26",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b26dbf3f-1d5a-4bda-8749-e8687df973b1.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 53,
+      "title": "Lecture - 53 || Isomerism - 27",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/m5x1mQKQqjs",
+      "hd_video_url": "https://www.youtube.com/embed/m5x1mQKQqjs",
+      "thumbnail": "https://i.ytimg.com/vi/m5x1mQKQqjs/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 53 || Isomerism - 27",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4d761680-1d45-4fcf-9eed-f8c6f99a191b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 54,
+      "title": "Lecture - 54 || Isomerism - 28",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/zIHJfRpBHAE",
+      "hd_video_url": "https://www.youtube.com/embed/zIHJfRpBHAE",
+      "thumbnail": "https://i.ytimg.com/vi/zIHJfRpBHAE/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 54 || Isomerism - 28",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09d4da46-c2d1-4c1d-8168-fa9fa382ec8b.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 55,
+      "title": "Lecture - 55 || Isomerism - 29",
+      "published_date": "21 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/QVkGs4d_tY8",
+      "hd_video_url": "https://www.youtube.com/embed/QVkGs4d_tY8",
+      "thumbnail": "https://i.ytimg.com/vi/QVkGs4d_tY8/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 55 || Isomerism - 29",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ee27588-75b4-4e39-be6b-e6d70e5b2cdb.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 56,
+      "title": "Lecture - 56 || Isomerism - 30",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/BPZzAQkeTD4",
+      "hd_video_url": "https://www.youtube.com/embed/BPZzAQkeTD4",
+      "thumbnail": "https://i.ytimg.com/vi/BPZzAQkeTD4/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 56 || Isomerism - 30",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9b6c900-d06a-4308-aea9-291b00b3440f.pdf"
+        }
+      ]
+    },
+    {
+      "serial": 57,
+      "title": "Lecture - 57 || Isomerism - 31",
+      "published_date": "22 Feb 2025",
+      "video_url": "https://www.youtube.com/embed/izI2QnR4Q-A",
+      "hd_video_url": "https://www.youtube.com/embed/izI2QnR4Q-A",
+      "thumbnail": "https://i.ytimg.com/vi/izI2QnR4Q-A/default.jpg",
+      "notes": [
+        {
+          "title": "Lecture - 57 || Isomerism - 31",
+          "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa5fc407-7eaa-4911-a897-455eefa3bb9e.pdf"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

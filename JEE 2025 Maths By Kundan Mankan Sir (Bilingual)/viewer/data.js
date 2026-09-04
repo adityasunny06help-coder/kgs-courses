@@ -1,0 +1,2835 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Diwali Assignment",
+      "subject_id": 4143,
+      "video_count": 0,
+      "note_count": 0,
+      "videos": [],
+      "notes": []
+    },
+    {
+      "subject_name": "Introduction Section",
+      "subject_id": 2675,
+      "video_count": 3,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "1. Complete Maths By KM Sir",
+          "published_date": "10 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/gUn2-csEEAI",
+          "hd_video_url": "https://www.youtube.com/embed/gUn2-csEEAI",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "2. How to Use Your Application",
+          "published_date": "22 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+          "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "How to Attempt your Test on KGS Website",
+          "published_date": "19 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/qD3BdAgJ83g",
+          "hd_video_url": "https://www.youtube.com/embed/qD3BdAgJ83g",
+          "thumbnail": "",
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths By Kundan Mankad (KM Sir)",
+      "subject_id": 2676,
+      "video_count": 156,
+      "note_count": 156,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture - 1 || Basic Maths & Logarithm - 1",
+          "published_date": "13 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/ndfekzCOofo",
+          "hd_video_url": "https://www.youtube.com/embed/ndfekzCOofo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes  - Lecture - 1 || Basic Maths & Logarithm - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/719f88ee-974b-47e0-a206-ef2f641edca1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture - 2 || Basic Maths & Logarithm - 2",
+          "published_date": "14 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/TbVzoNTBlsg",
+          "hd_video_url": "https://www.youtube.com/embed/TbVzoNTBlsg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 2 || Basic Maths & Logarithm - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/230a3af5-0364-4594-9caa-a830de0f68eb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 3 || Basic Maths & Logarithm - 3",
+          "published_date": "15 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/V4FUVBrW2v4",
+          "hd_video_url": "https://www.youtube.com/embed/V4FUVBrW2v4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 3 || Basic Maths & Logarithm - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e077a485-b22d-43d0-8f98-4fe50709d137.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 ||  Quadratic Equation - 1",
+          "published_date": "18 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/wNQ5hr0mZiE",
+          "hd_video_url": "https://www.youtube.com/embed/wNQ5hr0mZiE",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 4 ||  Quadratic Equation - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b934dee-3f1d-4b68-868a-0e9b3527b12c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || Quadratic Equation - 2",
+          "published_date": "19 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/_5n7YDrNDI0",
+          "hd_video_url": "https://www.youtube.com/embed/_5n7YDrNDI0",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 5 || Quadratic Equation - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76765072-f2f3-4290-aa09-193ffd67d4b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || Quadratic Equation - 3",
+          "published_date": "20 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/yey3EsRYSz4",
+          "hd_video_url": "https://www.youtube.com/embed/yey3EsRYSz4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 6 || Quadratic Equation - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dbcecc31-d633-4b64-a721-cfe1b62077a3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || Quadratic Equation - 4",
+          "published_date": "21 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/eFB3KiL23ck",
+          "hd_video_url": "https://www.youtube.com/embed/eFB3KiL23ck",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 7 || Quadratic Equation - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/398aeb48-0f55-4b9e-b69d-fd6412b1e8ff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || Quadratic Equation - 5",
+          "published_date": "22 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/iQ62HwT8H1o",
+          "hd_video_url": "https://www.youtube.com/embed/iQ62HwT8H1o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 8 || Quadratic Equation - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6190dbcc-1f0b-430c-9b77-4111122bb653.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || Sequence and Series -1",
+          "published_date": "24 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/2ybmLS7gmKw",
+          "hd_video_url": "https://www.youtube.com/embed/2ybmLS7gmKw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Lecture - 9 || Sequence and Series -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1005c2c6-b9e3-41df-8b80-9cf2717aa56d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Sequence and Series -2",
+          "published_date": "25 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/KuTl1moE-ds",
+          "hd_video_url": "https://www.youtube.com/embed/KuTl1moE-ds",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 10 || Sequence And Series - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b353e89d-949d-45c3-a3d6-ffd9406819fb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Sequence and Series -3",
+          "published_date": "26 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/Y4liE2b3KpM",
+          "hd_video_url": "https://www.youtube.com/embed/Y4liE2b3KpM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Lecture - 11 || Sequence and Series -3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/555d0599-3e9c-4d5c-b4da-a7af488f410d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture - 12 || Sequence and Series - 4",
+          "published_date": "27 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/US4SRFqIJSM",
+          "hd_video_url": "https://www.youtube.com/embed/US4SRFqIJSM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 12 || Sequence and Series - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5df23203-11ad-4725-843c-93ac403b4aa2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 13 || Sequence and Series - 5",
+          "published_date": "28 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/U0SAfeuaFH4",
+          "hd_video_url": "https://www.youtube.com/embed/U0SAfeuaFH4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 13 || Sequence and Series - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d7b62fa-c0ff-43b2-8d66-4f09a7199ca1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 14 || Sequence and Series - 6",
+          "published_date": "29 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/_yD47gg2Ruk",
+          "hd_video_url": "https://www.youtube.com/embed/_yD47gg2Ruk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 14 || Sequence and Series - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e99eb6e7-d3ee-410f-a01c-dd2bf059df32.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 15 || Trigonometric Ratio & Identities -1",
+          "published_date": "01 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/fUbku2BvVi4",
+          "hd_video_url": "https://www.youtube.com/embed/fUbku2BvVi4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 15 || Trigonometric Ratio & Identities -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a2603b5-be03-4973-9888-d4f0fc6d9b0c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 16 || Trigonometric Ratio & Identities - 2",
+          "published_date": "02 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/JDFCUwqKRpc",
+          "hd_video_url": "https://www.youtube.com/embed/JDFCUwqKRpc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture -52 || Trigonometric Ratio & Identities -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92747eba-c26c-4b30-afb3-f5f570cc40ba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 17 ||  Permutations and Combinations - 1",
+          "published_date": "02 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/W1ORipmeJtg",
+          "hd_video_url": "https://www.youtube.com/embed/W1ORipmeJtg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 17 || Permutations and Combinations - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1f37a5f-ba7c-4cad-aa63-a4cd8a187a72.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 18 || Trigonometric Ratio & Identities - 3",
+          "published_date": "03 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/t_jIRsm2C2E",
+          "hd_video_url": "https://www.youtube.com/embed/t_jIRsm2C2E",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 18 || Trigonometric Ratio & Identities - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f09add27-8e95-43d2-b47f-229c5bf65e9c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 19 || Trigonometric Ratio & Identities - 4",
+          "published_date": "04 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/qcIbjPjtzFw",
+          "hd_video_url": "https://www.youtube.com/embed/qcIbjPjtzFw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture -19 || Trigonometric Ratio & Identities - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e58fc97-8b6b-4aa0-ad7a-d46cf35646dd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 20 || Permutations and Combinations - 2",
+          "published_date": "04 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/jlE2M4Zc6QA",
+          "hd_video_url": "https://www.youtube.com/embed/jlE2M4Zc6QA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 20 || Permutations and Combinations - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1d572a0-81e1-44c5-a5f4-5cac569adeba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 21 || Trigonometric Ratio & Identities - 5",
+          "published_date": "05 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/x_iELV4Xapg",
+          "hd_video_url": "https://www.youtube.com/embed/x_iELV4Xapg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 21 || Trigonometric Ratio & Identities - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/082e9cea-0f65-409e-9d31-b7e1c473516f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 22 || Trigonometric Ratio & Identities - 6",
+          "published_date": "06 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/BYjjyUWU1Co",
+          "hd_video_url": "https://www.youtube.com/embed/BYjjyUWU1Co",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 22 || Trigonometric Ratio & Identities - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73027e9b-b60f-4d38-9741-85236bdda7d7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture - 23 || Trigonometric Ratio & Identities - 7",
+          "published_date": "08 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/ZQYzP5s3yTQ",
+          "hd_video_url": "https://www.youtube.com/embed/ZQYzP5s3yTQ",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 23 || Trigonometric Ratio & Identities - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6aaf5ad6-5fcd-4ec5-93fb-c4ab5c03176d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture - 24 || Trigonometric Ratio & Identities - 8",
+          "published_date": "09 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/JPCeb9Qs-vc",
+          "hd_video_url": "https://www.youtube.com/embed/JPCeb9Qs-vc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 24 || Trigonometric Ratio & Identities - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7603c5a-0b59-465f-9527-a05fc98dbdb7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 25 || Permutations and Combinations - 3",
+          "published_date": "09 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/rqLj8_JLL_4",
+          "hd_video_url": "https://www.youtube.com/embed/rqLj8_JLL_4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 25 || Permutations and Combinations - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e12e28b8-f311-4ed0-96f7-85b04cb2d75f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 26 || Trigonometric Equations - 1",
+          "published_date": "10 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/mTOHCWMWM9s",
+          "hd_video_url": "https://www.youtube.com/embed/mTOHCWMWM9s",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 26 || Trigonometric Equations - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b5fa207-a1af-403a-8f78-3868ac1354fa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 27 || Trigonometric Equations - 2",
+          "published_date": "11 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/qVSJzUahdD0",
+          "hd_video_url": "https://www.youtube.com/embed/qVSJzUahdD0",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 27 || Trigonometric Equations - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9dd51e12-5c85-4010-9919-2c8846229272.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture - 28 || Permutations and Combinations - 4",
+          "published_date": "11 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/MoVg2lCFVvY",
+          "hd_video_url": "https://www.youtube.com/embed/MoVg2lCFVvY",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 28 || Permutations and Combinations - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be135466-4843-44ea-8d0e-1dca002cb871.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture - 29 || Trigonometric Equations - 3",
+          "published_date": "12 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/2DlvMarI15E",
+          "hd_video_url": "https://www.youtube.com/embed/2DlvMarI15E",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 29 || Trigonometric Equations - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5dd305c1-edc2-41d5-bece-3bf4014eea13.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 30 || Determinants - 1",
+          "published_date": "13 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/_ojK346Xmfo",
+          "hd_video_url": "https://www.youtube.com/embed/_ojK346Xmfo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 30 || Determinants - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a89807a-0bd4-44dc-a433-9a4b191c77fb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 31 || Permutations and Combinations - 5",
+          "published_date": "13 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/WkqBsu4ZKEs",
+          "hd_video_url": "https://www.youtube.com/embed/WkqBsu4ZKEs",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 31 || Permutations and Combinations - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ddc3f85-db16-4233-997f-6b9cbe2e381e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 32 || Determinants - 2",
+          "published_date": "15 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/S2O5xyFyNxg",
+          "hd_video_url": "https://www.youtube.com/embed/S2O5xyFyNxg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 31 || Determinants - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f654432a-923d-4fb6-a938-5a9a1c83436b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 33 || Determinants - 3",
+          "published_date": "16 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/eaaBC3iT8Rk",
+          "hd_video_url": "https://www.youtube.com/embed/eaaBC3iT8Rk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 33 || Determinants - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bdfc002-9aa2-41d0-b7df-e44789819337.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 34 || Binomial Theorem - 1 & 2",
+          "published_date": "16 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/S8QpB7dBuIQ",
+          "hd_video_url": "https://www.youtube.com/embed/S8QpB7dBuIQ",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Noytes - Lecture - 34 || Binomial Theorem -1 & 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a759ee0f-2452-4663-a4cc-5679ec7c25c8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 35 || Determinants - 4",
+          "published_date": "18 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/36i6ENdvk74",
+          "hd_video_url": "https://www.youtube.com/embed/36i6ENdvk74",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 35 || Determinants - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/142ac28c-c8f2-4adc-a85c-442607881260.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 36 || Binomial Theorem - 3",
+          "published_date": "18 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/0GsUjzdakFI",
+          "hd_video_url": "https://www.youtube.com/embed/0GsUjzdakFI",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 36 || Binomial Theorem - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e5e05a0-06c3-45b6-abc8-3c98a74a3655.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 37 || Determinants - 5",
+          "published_date": "19 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/zYTfcZ0ALtU",
+          "hd_video_url": "https://www.youtube.com/embed/zYTfcZ0ALtU",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 37 || Determinants - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83b7d4b4-78b1-4d59-87fb-e7bf30ca8b66.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 38 || Determinants - 6",
+          "published_date": "20 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/B-Omn9pgkQY",
+          "hd_video_url": "https://www.youtube.com/embed/B-Omn9pgkQY",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 38 || Determinants - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2460e02a-3527-424e-b661-32cb607e90b7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 39 || Matrices - 1",
+          "published_date": "22 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/i02LZXTkyx4",
+          "hd_video_url": "https://www.youtube.com/embed/i02LZXTkyx4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 39 || Matrices - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfeb756f-0e33-4920-aed2-0ac062e9d04f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 40 || Matrices - 2",
+          "published_date": "23 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/89gzcgkck5o",
+          "hd_video_url": "https://www.youtube.com/embed/89gzcgkck5o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 40 || Matrices - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97a78ecb-5347-41cd-9635-2b5eb8ebe68d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 41 ||  Binomial Theorem - 4",
+          "published_date": "23 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/rYSkuR2KzSo",
+          "hd_video_url": "https://www.youtube.com/embed/rYSkuR2KzSo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 41 ||  Binomial Theorem - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b970c9d-0d32-4fbe-a195-ef63559bc34c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 42 || Matrices - 3",
+          "published_date": "24 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/g9nOESbBa1M",
+          "hd_video_url": "https://www.youtube.com/embed/g9nOESbBa1M",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 42 || Matrices - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bcaf6d90-b817-4c60-b367-b591b72d4d04.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 43 || Matrices - 4",
+          "published_date": "25 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/hHoLc9wB174",
+          "hd_video_url": "https://www.youtube.com/embed/hHoLc9wB174",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 43 || Matrices - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/034155d2-5f1e-4cd3-a404-a0591f9d6669.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 44 || Binomial Theorem - 5",
+          "published_date": "25 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/vMpKtEgHX8s",
+          "hd_video_url": "https://www.youtube.com/embed/vMpKtEgHX8s",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Lecture - 44 || Binomial Theorem - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8806dacc-58ea-470c-9dc7-bbf00cfaad6a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 45 || Matrices - 5",
+          "published_date": "26 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/gVocqwe5GF8",
+          "hd_video_url": "https://www.youtube.com/embed/gVocqwe5GF8",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 45 || Matrices - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c01cf7a2-4f7d-4813-bbd9-3ff2b01a2655.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 46 || Straight Lines - 1",
+          "published_date": "27 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/YxAbChjY2OU",
+          "hd_video_url": "https://www.youtube.com/embed/YxAbChjY2OU",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 46 || Straight Lines - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32bb4ea9-7341-4956-93f5-cb1bde6044e8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 47 || Straight Lines - 2",
+          "published_date": "29 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/6qFFF1h0s0I",
+          "hd_video_url": "https://www.youtube.com/embed/6qFFF1h0s0I",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 47 || Straight Lines - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d395b553-10b2-4ad0-a5ff-48eac8415bb6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 48 || Straight Lines - 3",
+          "published_date": "30 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/Zk82GuThn9w",
+          "hd_video_url": "https://www.youtube.com/embed/Zk82GuThn9w",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 48 || Straight Lines - 23",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a54f09b9-a779-4078-b42e-77bdc2eeff6e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 49 || Straight Lines - 4",
+          "published_date": "31 Jul 2024",
+          "video_url": "https://www.youtube.com/embed/wLV-Z2Jrwlg",
+          "hd_video_url": "https://www.youtube.com/embed/wLV-Z2Jrwlg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 49 || Straight Lines - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75c4a4f9-a303-4f05-b740-a7da57890721.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 50 || Straight Lines - 5",
+          "published_date": "01 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/Vzmqy9GFB6w",
+          "hd_video_url": "https://www.youtube.com/embed/Vzmqy9GFB6w",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 50 || Straight Lines - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c20599da-d3b7-4ecd-8583-43b5087cdc1a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture - 51 || Straight Lines - 6",
+          "published_date": "02 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/eau3J8asTuw",
+          "hd_video_url": "https://www.youtube.com/embed/eau3J8asTuw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 51 || Straight Lines - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/645227a4-6bf6-460b-bdb6-57c7f0e8e21e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture - 52 || Straight Lines - 7",
+          "published_date": "03 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/6VPe6chJWGg",
+          "hd_video_url": "https://www.youtube.com/embed/6VPe6chJWGg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 52 || Straight Lines - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49db8349-2282-427e-907b-315f672096d6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture - 53 || Straight Lines - 8",
+          "published_date": "05 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/N5-oZVf_Guc",
+          "hd_video_url": "https://www.youtube.com/embed/N5-oZVf_Guc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 53 || Straight Lines - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5dcfdd6-10c3-4754-97ea-20321e0aa34d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture - 54 || Straight Lines - 9",
+          "published_date": "06 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/tp4DQo1dg1o",
+          "hd_video_url": "https://www.youtube.com/embed/tp4DQo1dg1o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 54 || Straight Lines - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd22abed-b077-4d8c-803e-f1dfb8d2d68b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture - 55 || Straight Lines - 10",
+          "published_date": "07 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/5RF6tpOemh4",
+          "hd_video_url": "https://www.youtube.com/embed/5RF6tpOemh4",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 55 || Straight Lines - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d02b4da5-10bb-49e4-99c6-021fb4d91aff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture - 56 || Straight Lines - 11",
+          "published_date": "08 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/B5_ogpiXQXc",
+          "hd_video_url": "https://www.youtube.com/embed/B5_ogpiXQXc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 56 || Straight Lines - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e82d6b1-0ba6-4396-8e14-73ef09976b2b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture - 57 || Straight Lines - 12",
+          "published_date": "09 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/1VLi9VznSuM",
+          "hd_video_url": "https://www.youtube.com/embed/1VLi9VznSuM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 57 || Straight Lines - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c1dcb35-eb52-4f05-b172-cdafbf3a9260.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture - 58 || Straight Lines - 13",
+          "published_date": "10 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/7qcbBD129uA",
+          "hd_video_url": "https://www.youtube.com/embed/7qcbBD129uA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 58 || Straight Lines - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/994ff129-5a35-48a7-bf77-9f030e50b550.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture - 59 || Circles - 1",
+          "published_date": "12 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/s9Zx1dOrk_o",
+          "hd_video_url": "https://www.youtube.com/embed/s9Zx1dOrk_o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 59 || Circles - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0ebfec5-33b9-4108-85da-9c1a4214dcbf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture - 60 || Circles - 2",
+          "published_date": "13 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/eQLJQTAKIiQ",
+          "hd_video_url": "https://www.youtube.com/embed/eQLJQTAKIiQ",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 60 || Circles - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dcd9f1c4-8b35-4728-b3e0-efc9326fa4ce.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture - 61 || Circles - 3",
+          "published_date": "14 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/BjhhN_-VslM",
+          "hd_video_url": "https://www.youtube.com/embed/BjhhN_-VslM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 61 || Circles - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6acce8b7-7a6e-4e71-878e-a29e1f7b5f02.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture - 62 || Circles - 4",
+          "published_date": "16 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/pGqy-RdE7NA",
+          "hd_video_url": "https://www.youtube.com/embed/pGqy-RdE7NA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 62 || Circles - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/119b9c9f-5463-41ca-8aa2-12ea8e968d7b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture - 63 || Circles - 5",
+          "published_date": "17 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/Z74OtXa6XyI",
+          "hd_video_url": "https://www.youtube.com/embed/Z74OtXa6XyI",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 63 || Circles - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e94fbefe-dae3-4d3e-947a-79957eb78dbd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture - 64 || Circles - 6",
+          "published_date": "20 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/ovnfdG2CN8k",
+          "hd_video_url": "https://www.youtube.com/embed/ovnfdG2CN8k",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 64 || Circles - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/407390be-b2d2-4fac-96c7-ddb8db2485d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture - 65 || Circles - 7",
+          "published_date": "21 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/UJy14M9tZos",
+          "hd_video_url": "https://www.youtube.com/embed/UJy14M9tZos",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 65 || Circles - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79f15b70-371c-4691-8e50-59097df94c0a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture - 66 || Circles - 8",
+          "published_date": "22 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/Gt1fiqOEAvo",
+          "hd_video_url": "https://www.youtube.com/embed/Gt1fiqOEAvo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 66 || Parabola - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/515bdff0-475b-4b37-8b9e-e23dfd45a74e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture - 67 ||Circles - 9",
+          "published_date": "23 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/ebFWkHvDAqw",
+          "hd_video_url": "https://www.youtube.com/embed/ebFWkHvDAqw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 67 || Circles - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd8529af-3333-4eb7-aead-e3df44c5b164.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture - 68 || Parabola - 1",
+          "published_date": "24 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/5DQyM6ADZRs",
+          "hd_video_url": "https://www.youtube.com/embed/5DQyM6ADZRs",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 68 || Parabola - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2de31156-49ee-4d5a-8369-b6b7f97f7250.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture - 69 || Parabola - 2",
+          "published_date": "27 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/6FvpvQwOuis",
+          "hd_video_url": "https://www.youtube.com/embed/6FvpvQwOuis",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 69 || Parabola - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/180825d6-8c90-433f-826a-f488ffddf76d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture - 70 || Parabola - 3",
+          "published_date": "28 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/yWpYKPHsw78",
+          "hd_video_url": "https://www.youtube.com/embed/yWpYKPHsw78",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 70 || Parabola - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/54fb7320-3e98-4ac3-8792-ce6c381fa2a8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture - 71 || Parabola - 4",
+          "published_date": "29 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/xqMd1qfz9_U",
+          "hd_video_url": "https://www.youtube.com/embed/xqMd1qfz9_U",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 71 || Parabola - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0025d75d-b46d-406a-977c-54c45b26c8c1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 72,
+          "title": "Lecture - 72 || Parabola - 5",
+          "published_date": "30 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/-H_upsML_rA",
+          "hd_video_url": "https://www.youtube.com/embed/-H_upsML_rA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 72 || Parabola - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da6c11df-1179-4ad1-90d9-34d960a87423.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture - 73 || Ellipse - 1",
+          "published_date": "31 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/9aTl605JtYM",
+          "hd_video_url": "https://www.youtube.com/embed/9aTl605JtYM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 73 || Ellipse - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14b16f68-49bd-4420-9d3c-42e236828efd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 74,
+          "title": "Lecture - 74 || Ellipse - 2",
+          "published_date": "02 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/8i63msvfa8o",
+          "hd_video_url": "https://www.youtube.com/embed/8i63msvfa8o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 74 || Ellipse - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2bb2b6e-09ed-434b-819c-f2b28590f4a7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 75,
+          "title": "Lecture - 75 || Ellipse - 3",
+          "published_date": "03 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/_aaHgIHTRhY",
+          "hd_video_url": "https://www.youtube.com/embed/_aaHgIHTRhY",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 75 || Ellipse - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/396de250-fc11-481d-8752-6d2b213ffde1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 76,
+          "title": "Lecture - 76 || Ellipse - 4",
+          "published_date": "04 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/jCrIf9_wNvc",
+          "hd_video_url": "https://www.youtube.com/embed/jCrIf9_wNvc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 76 || Ellipse - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2221803e-3820-4d61-a4a2-b7b82e209446.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 77,
+          "title": "Lecture - 77 || Hyperbola - 1",
+          "published_date": "05 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/ZfRrubPypTk",
+          "hd_video_url": "https://www.youtube.com/embed/ZfRrubPypTk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 77 || Hyperbola - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a4e291d-e464-4e6c-9cf6-5ed601295120.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 78,
+          "title": "Lecture - 78 || Hyperbola - 2",
+          "published_date": "06 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/nmS8VUmsb9o",
+          "hd_video_url": "https://www.youtube.com/embed/nmS8VUmsb9o",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 78 || Hyperbola - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2181f112-2cbc-45e4-a881-04f0225ac579.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 79,
+          "title": "Lecture - 79 || Vector Algebra - 1",
+          "published_date": "07 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/vIVTmFVmdhM",
+          "hd_video_url": "https://www.youtube.com/embed/vIVTmFVmdhM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 79 || Vector Algebra - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7fe62252-a166-4abd-9e66-e419af868d44.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 80,
+          "title": "Lecture - 80 || Vector Algebra - 2",
+          "published_date": "09 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/GUPOCDIFtzk",
+          "hd_video_url": "https://www.youtube.com/embed/GUPOCDIFtzk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 80 || Vector Algebra - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/04c27dd7-0d44-4c34-a74f-460b5119dab6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 81,
+          "title": "Lecture - 81 || Vector Algebra - 3",
+          "published_date": "09 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/kAxDE2VXsxw",
+          "hd_video_url": "https://www.youtube.com/embed/kAxDE2VXsxw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 81 || Vector Algebra - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5910c425-17a1-42d9-a331-c34dfb5f719c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 82,
+          "title": "Lecture - 82 || Vector Algebra - 4",
+          "published_date": "10 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/T7qif5adrDI",
+          "hd_video_url": "https://www.youtube.com/embed/T7qif5adrDI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pnw8E9YmaUWi8KknDyivLp6cXNifbqPcLO5yFYuE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 82 || Vector Algebra - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a740ceb1-7590-4ebf-a8db-e3e833a40dbc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 83,
+          "title": "Lecture - 83 || Vector Algebra - 5",
+          "published_date": "11 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/MZMdFRKKvUw",
+          "hd_video_url": "https://www.youtube.com/embed/MZMdFRKKvUw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/M5L7zFsUKboXISUceVTlBuOJmYtaXJlTqkKms692.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 83 || Vector Algebra - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5cbc872c-7623-40f6-86d4-dc7d9f43666e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 84,
+          "title": "Lecture - 84 || Vector Algebra - 6",
+          "published_date": "12 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/v-LSpDJXBA0",
+          "hd_video_url": "https://www.youtube.com/embed/v-LSpDJXBA0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mGkltbsMsrTHWl8lNcYJOUkR61ZyxLSd3Z37VqTq.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 84 || Vector Algebra - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fecb636-23ea-4401-bfd0-a7fc8b7429d3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 85,
+          "title": "Lecture - 85 || Vector Algebra - 7",
+          "published_date": "13 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/pknJvencHsE",
+          "hd_video_url": "https://www.youtube.com/embed/pknJvencHsE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lTRk1GDc6yh6fGhKcvmjLOAGoueRvFyOXZX6qqIV.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 85 || Vector Algebra - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9176ce4e-2f72-45cf-a5b0-56852885aaa7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 86,
+          "title": "Lecture - 86 || Vector Algebra - 8 || (3-D Geometry - 1)",
+          "published_date": "14 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/J2hUDqqlrFY",
+          "hd_video_url": "https://www.youtube.com/embed/J2hUDqqlrFY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cTHDqCjgfsCRVbaJqpJ9pU90vWnSe5I90BXO9U6v.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 86 || Vector Algebra - 8 || (3-D Geometry - 1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fcc9ec3-a6b9-43fa-b831-afa630ccb8c2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 87,
+          "title": "Lecture - 87 || 3-D Geometry - 2",
+          "published_date": "16 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/b-Eti3uBRA0",
+          "hd_video_url": "https://www.youtube.com/embed/b-Eti3uBRA0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BrKcqCtX9rxF7iLI0rJESYe40ZcvK6aRcGnYIs5w.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 87 || 3-D Geometry - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d768851-63f6-446e-a725-14684ca50900.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 88,
+          "title": "Lecture - 88 || 3-D Geometry - 3",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/1AhcLk3UtOk",
+          "hd_video_url": "https://www.youtube.com/embed/1AhcLk3UtOk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iBsF1FPEvFzZWFrhVu83rwJlnd1TetJKnpz3WrH3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 88 || 3-D Geometry - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66dac799-7e62-4827-9f22-a842e78db613.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 89,
+          "title": "Lecture - 89 || 3-D Geometry - 4",
+          "published_date": "18 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/_uD2cJcaPuY",
+          "hd_video_url": "https://www.youtube.com/embed/_uD2cJcaPuY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xkBGXAi3oXVhbBUY8bJBeQqMsqCkwzxaYYx8pda5.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 89 || 3-D Geometry - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fef66bc-cc6d-4429-96a2-647e25bb2e81.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 90,
+          "title": "Lecture - 90 || 3-D Geometry - 5",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/J2RZwNDkiw8",
+          "hd_video_url": "https://www.youtube.com/embed/J2RZwNDkiw8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5MHNEjL9ZDFzyiJPpNzlB688eYR94AdLiMmJPOlT.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 90 || 3-D Geometry - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94713be1-e3b1-4004-b362-f7ce5c7f9f6b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 91,
+          "title": "Lecture - 91 || Complex Numbers - 1",
+          "published_date": "20 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/nUbeJt96gHU",
+          "hd_video_url": "https://www.youtube.com/embed/nUbeJt96gHU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CTgwu7TsJ44jiYFvMn6hogJcut338tiEPM92alqn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 91 || Complex Numbers - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7596fb99-c3c5-4444-a290-20fc4cd51cf9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 92,
+          "title": "Lecture - 92 || Complex Numbers - 2",
+          "published_date": "21 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/oktVg66Gdko",
+          "hd_video_url": "https://www.youtube.com/embed/oktVg66Gdko",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BoNNPbGHF5pgeKwM1yG03m4mWcn0uv1NSvdxkfFk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 92 || Complex Numbers - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a445ea37-08be-4f17-84e1-ff7ee3bf2db9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 93,
+          "title": "Lecture - 93 || Complex Numbers - 3",
+          "published_date": "23 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/mNKqpYSV7RU",
+          "hd_video_url": "https://www.youtube.com/embed/mNKqpYSV7RU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ud6RnZ2xkpV2E9NE0SXv5hNU3oW1ylFCZjTPdlB0.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 93 || Complex Numbers - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/929ad686-0c34-46d7-984f-9457bb1d6d9c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 94,
+          "title": "Lecture - 94 || Complex Numbers - 4",
+          "published_date": "24 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/STzfjE2opn4",
+          "hd_video_url": "https://www.youtube.com/embed/STzfjE2opn4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5BOge73JBBURIhOodimFRStCeSa4S5Rd4i1h26E4.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 94 || Complex Numbers - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e097071-f9bf-4e82-85b0-141870b9a45b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 95,
+          "title": "Lecture - 95 || Complex Numbers - 5",
+          "published_date": "26 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/0vy5acgwDdw",
+          "hd_video_url": "https://www.youtube.com/embed/0vy5acgwDdw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5JdNIOYSzjQv3pTJ1SqoozbAgXh4L8Hio5H1vEvv.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 95 || Complex Numbers - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c77dbfb7-5b05-482d-ba65-f06d9cefd841.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 96,
+          "title": "Lecture - 96 || Complex Numbers - 6",
+          "published_date": "27 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/E68tpXfI3X8",
+          "hd_video_url": "https://www.youtube.com/embed/E68tpXfI3X8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Xty1FhYUkO6lY0FpMjclEg3YI6obvVUxsUQiNOQn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 96 || Complex Numbers - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4bc99c8-5359-43d3-9361-208edb8387b7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 97,
+          "title": "Lecture - 97 || Complex Numbers - 7",
+          "published_date": "28 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/1ShFQGWy3Aw",
+          "hd_video_url": "https://www.youtube.com/embed/1ShFQGWy3Aw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RNJYV5yKF6Ta9RvaF3UcC0uqIXZa4KUp9bccCgPy.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 97 || Complex Numbers - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e26e9b8d-a877-46d7-adde-9e42fd0bd978.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 98,
+          "title": "Lecture - 98 || Complex Numbers - 8",
+          "published_date": "30 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/GmD2M45wZLg",
+          "hd_video_url": "https://www.youtube.com/embed/GmD2M45wZLg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pHtSwrT5BnfHsWmnjC3UKIpf38hv0dgmEeMzq6qg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 98 || Complex Numbers - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7de7439f-6d3f-4aba-93d4-68969f0a5573.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 99,
+          "title": "Lecture - 99 || Complex Numbers - 9",
+          "published_date": "01 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/QZnb_okP3Ng",
+          "hd_video_url": "https://www.youtube.com/embed/QZnb_okP3Ng",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GWUTQCM1lFhdAwFfsSqQbqvahNBDeJgclN21koPk.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 99 || Complex Numbers - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fdb6df15-c5e2-4769-a951-cb814602d10d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 100,
+          "title": "Lecture - 100 || Complex Numbers -10",
+          "published_date": "03 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/wwuSI_tIFJQ",
+          "hd_video_url": "https://www.youtube.com/embed/wwuSI_tIFJQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vucUOG4FoEk7mxw5nz5Y1XExCts5ainXv93DxcLn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 100 || Complex Numbers -10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bfe05e2-2085-4d28-b70f-8d989684b000.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 101,
+          "title": "Lecture - 101 || Set & Relations - 1",
+          "published_date": "04 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/P9ySLLPo7as",
+          "hd_video_url": "https://www.youtube.com/embed/P9ySLLPo7as",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/M3aEy2MIBUU5gb1T4Ae8eyG0mNVRkqzwOfMAtnf2.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 101 || Set & Relations - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fcdc173-54d8-469f-acc4-cfb04de775b2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 102,
+          "title": "Lecture - 102 || Set & Relations - 2",
+          "published_date": "07 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/vtfAfjEL2P4",
+          "hd_video_url": "https://www.youtube.com/embed/vtfAfjEL2P4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/5dT7BR89jGWfpNV66dsPqAYmfD5gtou8S8R3I892.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 102 || Set & Relations - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea7b3141-9bda-4c64-b999-bccfd9eec770.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 103,
+          "title": "Lecture - 103 || Inverse Trigonometric Functions - 1",
+          "published_date": "08 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/vwYq6C03LT0",
+          "hd_video_url": "https://www.youtube.com/embed/vwYq6C03LT0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/O5ksK2jJlxIUmqEhIPSLmj0Mj0fJKm5IXL2RCdcS.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 103 || Inverse Trigonometric Functions - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0504d5c-28f0-4125-bb8e-96066150a25a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 104,
+          "title": "Lecture - 104 || Inverse Trigonometric Functions - 2",
+          "published_date": "10 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/sV_vWhmXtW4",
+          "hd_video_url": "https://www.youtube.com/embed/sV_vWhmXtW4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/apk9CCOupmR9MvBzAAMsYJbTTprQw44PgxTbEhR6.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 104 || Inverse Trigonometric Functions - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d8a3231-008f-4085-8da3-0b90d20b4aba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 105,
+          "title": "Lecture - 105 || Inverse Trigonometric Functions - 3",
+          "published_date": "14 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/6e_LnFtdU-g",
+          "hd_video_url": "https://www.youtube.com/embed/6e_LnFtdU-g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gmYO9RwYwFNQmX4oBovQjBbgYYiGV1YCIERI2M5A.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 105 || Inverse Trigonometric Functions - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa1fb0d9-58bc-4668-b59f-98434714b308.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 106,
+          "title": "Lecture - 106 || Inverse Trigonometric Functions - 4",
+          "published_date": "15 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/om7rsCRDHJ4",
+          "hd_video_url": "https://www.youtube.com/embed/om7rsCRDHJ4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9bNkAoIb97dK0s8mJACKg8P48WlPsSm4a2fVyIB9.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 106 || Inverse Trigonometric Functions - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23e6a65a-b288-4209-8760-5f8ed1446886.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 107,
+          "title": "Lecture - 107 || Inverse Trigonometric Functions - 5",
+          "published_date": "17 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/FlpilLenw1E",
+          "hd_video_url": "https://www.youtube.com/embed/FlpilLenw1E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DjcrnPOUlJT55NfVm2gVTUQNl3WNfDxARZ7Dv2I8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 107 || Inverse Trigonometric Functions - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e996465a-c14a-4d4d-b840-7b6f0083e469.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 108,
+          "title": "Lecture - 108 || Inverse Trigonometric Functions - 6",
+          "published_date": "18 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/c-LiIaoQFeA",
+          "hd_video_url": "https://www.youtube.com/embed/c-LiIaoQFeA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/j8Kh2rnhKzHnyriELjLmn4wZYux2evWket6AYX2d.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 108 || Inverse Trigonometric Functions - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/090e9645-b9c0-42d6-9ea4-f7031f718352.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 109,
+          "title": "Lecture - 109 || Inverse Trigonometric Functions - 7",
+          "published_date": "19 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/VxBJLBdAqDI",
+          "hd_video_url": "https://www.youtube.com/embed/VxBJLBdAqDI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YkYs3DPdx53aYgLhqaWRsnvQ9UuyDG8dVhVX46w6.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 109 || Inverse Trigonometric Functions - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60ea0165-1090-4282-a40d-0e9d27cddfab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 110,
+          "title": "Lecture - 110 || Inverse Trigonometric Functions - 8",
+          "published_date": "21 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/xD438_k47kY",
+          "hd_video_url": "https://www.youtube.com/embed/xD438_k47kY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/x6SxaEBbFYKldpvpDmSoe6xc40uvHAbANXbGu33l.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 110 || Inverse Trigonometric Functions - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1edfeeb-b66e-4f65-a070-a2b82640a3f2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 111,
+          "title": "Lecture - 111 || Continuity & Differentiability - 1",
+          "published_date": "22 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/xK7s7nlKhF0",
+          "hd_video_url": "https://www.youtube.com/embed/xK7s7nlKhF0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/O5LC1eQG70uwS8n2EpPPus2GqZO4lRveJyewNajj.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 111 || Continuity & Differentiability - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f727b434-7132-46bf-ba81-7720c0824c61.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 112,
+          "title": "Lecture - 112 || Continuity & Differentiability - 2",
+          "published_date": "24 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/cSdk23iJs0Y",
+          "hd_video_url": "https://www.youtube.com/embed/cSdk23iJs0Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8C1bQnZwjG1zAU85Kdbgg0QuNCvYgQ94HFGWeOjj.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 112 || Continuity & Differentiability - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c94c5cb-f30c-4474-9254-e3cca2d8cf70.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 113,
+          "title": "Lecture - 113 || Continuity & Differentiability - 3",
+          "published_date": "25 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/nDDlR2883jE",
+          "hd_video_url": "https://www.youtube.com/embed/nDDlR2883jE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NFP7ukV21qJf4DLJSB1hRuabtvqMCFmRKbpfS7ki.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 113 || Continuity & Differentiability - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/863d0b3d-137c-44a0-8814-90289f036eec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 114,
+          "title": "Lecture - 114 || Continuity & Differentiability - 4",
+          "published_date": "26 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/_PlkG9vPtEE",
+          "hd_video_url": "https://www.youtube.com/embed/_PlkG9vPtEE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OqfTIyoGcAIVp7hcaPx041hYSZCGqYSCXfriD2OE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 114 || Continuity & Differentiability - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06aadf95-1c8f-4005-970e-f913cb77b8ed.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 115,
+          "title": "Lecture - 115 || Continuity & Differentiability - 5",
+          "published_date": "04 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/cMxP0Rslcp8",
+          "hd_video_url": "https://www.youtube.com/embed/cMxP0Rslcp8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/pbeV5GjaE9f9zdAN6CexOp9sEqJJf1YWGBP9Dn5F.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 115 || Continuity & Differentiability - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffe1b97d-df61-4401-80d9-91df5a76d80f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 116,
+          "title": "Lecture - 116 ||  Application of Derivatives - 1",
+          "published_date": "05 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/rw5fOziz-Ks",
+          "hd_video_url": "https://www.youtube.com/embed/rw5fOziz-Ks",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hXVgB2SyNPvUQZkWTBN8JBR02mwO3UtbKRDYizfI.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 116 || Application of Derivatives - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da73ffe9-79bc-426f-8c4a-8afa9ffe626a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 117,
+          "title": "Lecture - 117 || Application of Derivatives - 2",
+          "published_date": "07 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/RR5BgwD6y8Y",
+          "hd_video_url": "https://www.youtube.com/embed/RR5BgwD6y8Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XahKCNdCVVPF1e9cOTrJLWOrHATjQwrqPrO7y9xy.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 117 || Application of Derivatives - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fafbfba8-284c-467f-bfef-c8ea2e025141.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 118,
+          "title": "Lecture - 118 || Application of Derivatives - 3",
+          "published_date": "08 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/nFwQ4g9YQzo",
+          "hd_video_url": "https://www.youtube.com/embed/nFwQ4g9YQzo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zfQE3jUAQKHnSxEpVeX721B3D729cLRna2AhhUZC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 118 || Application of Derivatives - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/047b69fa-0bd1-4180-bd89-3161134914b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 119,
+          "title": "Lecture - 119 || Application of Derivatives - 4",
+          "published_date": "11 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/_bfms2X1hsA",
+          "hd_video_url": "https://www.youtube.com/embed/_bfms2X1hsA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eYi9iaZKDFqVAzC9zbccknqYmD3ZZxMHHZApUSki.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 119 || Application of Derivatives - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66a2c93b-8977-44d4-a8a2-4d3a08e5bd3b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 120,
+          "title": "Lecture - 120 || Application of Derivatives - 5",
+          "published_date": "12 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/sCaO_-yAFY0",
+          "hd_video_url": "https://www.youtube.com/embed/sCaO_-yAFY0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EhtnMasPFwDCCGVMip7fBco2hEhPq3eeVV7oFrU7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 120 || Application of Derivatives - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74199310-5ad8-4df8-a6c5-f3abb85d5992.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 121,
+          "title": "Lecture - 121 || Definite Integral - 1",
+          "published_date": "13 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/vqOb_9qibLY",
+          "hd_video_url": "https://www.youtube.com/embed/vqOb_9qibLY",
+          "thumbnail": "https://i.ytimg.com/vi/vqOb_9qibLY/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 121 || Definite Integral - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52ca468c-7dc1-47ee-9dab-6334f7d41f03.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 122,
+          "title": "Lecture - 122 || Definite Integral - 2",
+          "published_date": "14 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/H72WY4T58Mo",
+          "hd_video_url": "https://www.youtube.com/embed/H72WY4T58Mo",
+          "thumbnail": "https://i.ytimg.com/vi/H72WY4T58Mo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 122 || Application of Derivatives - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a63ecebd-e170-4179-8f47-387a4be742e2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 123,
+          "title": "Lecture - 123 || Definite Integral - 3",
+          "published_date": "15 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/VbMqFVS5OTo",
+          "hd_video_url": "https://www.youtube.com/embed/VbMqFVS5OTo",
+          "thumbnail": "https://i.ytimg.com/vi/VbMqFVS5OTo/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 123 || Definite Integral - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/413a3713-c4ed-4adb-adf1-29a15d9b8f17.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 124,
+          "title": "Lecture - 124 || Definite Integral - 4",
+          "published_date": "16 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/2iT2xH0anZs",
+          "hd_video_url": "https://www.youtube.com/embed/2iT2xH0anZs",
+          "thumbnail": "https://i.ytimg.com/vi/2iT2xH0anZs/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 124 || Definite Integral - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/199e4146-86ce-4f85-8b08-78b05f3683a3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 125,
+          "title": "Lecture - 125 || Definite Integral - 5",
+          "published_date": "18 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/sNc9hFRpjRQ",
+          "hd_video_url": "https://www.youtube.com/embed/sNc9hFRpjRQ",
+          "thumbnail": "https://i.ytimg.com/vi/sNc9hFRpjRQ/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 125 || Definite Integral - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3809052f-6a24-4d58-9960-20bc2ce29879.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 126,
+          "title": "Lecture - 126 || Definite Integral - 6",
+          "published_date": "19 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/BC2To3MBqSk",
+          "hd_video_url": "https://www.youtube.com/embed/BC2To3MBqSk",
+          "thumbnail": "https://i.ytimg.com/vi/BC2To3MBqSk/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 125 || Definite Integral - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4bc47da-4a32-4225-b33b-7d2b2255274c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 127,
+          "title": "Lecture - 127 || Definite Integral - 7",
+          "published_date": "20 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/Iq_KPOGRMV4",
+          "hd_video_url": "https://www.youtube.com/embed/Iq_KPOGRMV4",
+          "thumbnail": "https://i.ytimg.com/vi/Iq_KPOGRMV4/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 127 || Definite Integral - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e78c8c70-8af4-402e-a21f-5d0aa57f7c59.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 128,
+          "title": "Lecture - 128 || Differential Equations - 1",
+          "published_date": "21 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/I_h3bWU0Uqk",
+          "hd_video_url": "https://www.youtube.com/embed/I_h3bWU0Uqk",
+          "thumbnail": "https://i.ytimg.com/vi/I_h3bWU0Uqk/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 128 || Differential Equations - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a2c1908-cd25-4f63-8fb4-a72ecf3c7fba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 129,
+          "title": "Lecture - 129 || Differential Equations - 2",
+          "published_date": "22 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/ixZ99opf1hc",
+          "hd_video_url": "https://www.youtube.com/embed/ixZ99opf1hc",
+          "thumbnail": "https://i.ytimg.com/vi/ixZ99opf1hc/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 129 || Differential Equations - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab0137ea-10c4-41a3-9fe6-d7db08e1bf02.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 130,
+          "title": "Lecture - 130 || Differential Equations - 3",
+          "published_date": "23 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/6H2LSgArCOw",
+          "hd_video_url": "https://www.youtube.com/embed/6H2LSgArCOw",
+          "thumbnail": "https://i.ytimg.com/vi/6H2LSgArCOw/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 157 || Differential Equations - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f290f6c7-6777-4367-a0d7-0d892092935a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 131,
+          "title": "Lecture - 131 || Differential Equations - 4",
+          "published_date": "25 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/0tztIvDSJUc",
+          "hd_video_url": "https://www.youtube.com/embed/0tztIvDSJUc",
+          "thumbnail": "https://i.ytimg.com/vi/0tztIvDSJUc/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 131 || Differential Equations - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/902c5fe6-c681-42bc-bf33-2ae28771c523.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 132,
+          "title": "Lecture - 132 || Probability - 1",
+          "published_date": "26 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/ePof6GX5Nts",
+          "hd_video_url": "https://www.youtube.com/embed/ePof6GX5Nts",
+          "thumbnail": "https://i.ytimg.com/vi/ePof6GX5Nts/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 132 || Differential Equations - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de9519d9-bbf5-49c2-9222-d2d7508a247d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 133,
+          "title": "Lecture - 133 || Probability - 2",
+          "published_date": "27 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/J0NwbYyRmYQ",
+          "hd_video_url": "https://www.youtube.com/embed/J0NwbYyRmYQ",
+          "thumbnail": "https://i.ytimg.com/vi/J0NwbYyRmYQ/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 133 || Probability - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b09da33c-3310-454c-b78e-4e180e7897f8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 134,
+          "title": "Lecture - 134 || Probability - 3",
+          "published_date": "28 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/MbiGJTJQru8",
+          "hd_video_url": "https://www.youtube.com/embed/MbiGJTJQru8",
+          "thumbnail": "https://i.ytimg.com/vi/MbiGJTJQru8/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 134 || Probability - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ec8cf3b-15c5-4ed1-a4d2-384ac48e0cf0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 135,
+          "title": "Lecture - 135 || Probability - 4",
+          "published_date": "29 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/TFT6_dcrVKA",
+          "hd_video_url": "https://www.youtube.com/embed/TFT6_dcrVKA",
+          "thumbnail": "https://i.ytimg.com/vi/TFT6_dcrVKA/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 162 || Probability - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e617466-ce41-4baf-ba84-26590af37aeb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 136,
+          "title": "Lecture - 136 || Statistics - 1",
+          "published_date": "30 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/ta0ocuA-lxc",
+          "hd_video_url": "https://www.youtube.com/embed/ta0ocuA-lxc",
+          "thumbnail": "https://i.ytimg.com/vi/ta0ocuA-lxc/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 136 || Statistics - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ad67c8e-6010-4172-afdd-9715339746fa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 137,
+          "title": "Lecture - 137 || Statistics - 2",
+          "published_date": "02 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/p2rEMiLRK-g",
+          "hd_video_url": "https://www.youtube.com/embed/p2rEMiLRK-g",
+          "thumbnail": "https://i.ytimg.com/vi/p2rEMiLRK-g/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 137 || Statistics - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9191c29-b72a-4129-9ac6-f8c5b7ff6ee1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 138,
+          "title": "Lecture - 138 || Statistics - 3",
+          "published_date": "03 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/Cdtb0GpaHMY",
+          "hd_video_url": "https://www.youtube.com/embed/Cdtb0GpaHMY",
+          "thumbnail": "https://i.ytimg.com/vi/Cdtb0GpaHMY/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 138 || Statistics - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8617ad3-68e9-4ce4-977b-e83e2d23dffa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 139,
+          "title": "Lecture - 139 || Solution of triangles - 1",
+          "published_date": "05 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/pMH2RTFbnAE",
+          "hd_video_url": "https://www.youtube.com/embed/pMH2RTFbnAE",
+          "thumbnail": "https://i.ytimg.com/vi/pMH2RTFbnAE/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 139 || Solution of triangles - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ece8573-11ea-4773-aae6-7405714e7095.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 140,
+          "title": "Lecture - 140 || Solution of triangles - 2",
+          "published_date": "06 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/acXKF5gqTto",
+          "hd_video_url": "https://www.youtube.com/embed/acXKF5gqTto",
+          "thumbnail": "https://i.ytimg.com/vi/acXKF5gqTto/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 140 || Solution of triangles - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8fb29028-3d28-4e3f-8d34-0d8b72e7c339.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 141,
+          "title": "Lecture - 141 || Solution of triangles - 3",
+          "published_date": "07 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/4ERqNc7EM14",
+          "hd_video_url": "https://www.youtube.com/embed/4ERqNc7EM14",
+          "thumbnail": "https://i.ytimg.com/vi/4ERqNc7EM14/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 141 || Solution of triangles - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/133bceef-4a84-4afb-b476-bd6a6d51a602.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 142,
+          "title": "Lecture - 142 || Solution of triangles - 4",
+          "published_date": "09 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/t1Axs0tqzi8",
+          "hd_video_url": "https://www.youtube.com/embed/t1Axs0tqzi8",
+          "thumbnail": "https://i.ytimg.com/vi/t1Axs0tqzi8/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 142 || Solution of triangles - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dba72232-bbc7-4575-a974-8aea2ef0bcb8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 143,
+          "title": "Lecture - 143 || Solution of triangles - 5",
+          "published_date": "10 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/SmkmYxsXTgQ",
+          "hd_video_url": "https://www.youtube.com/embed/SmkmYxsXTgQ",
+          "thumbnail": "https://i.ytimg.com/vi/SmkmYxsXTgQ/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 143 || Solution of triangles - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3906baf-b031-4776-9a6a-c18102fc5186.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 144,
+          "title": "Lecture - 144 || Solution of triangles - 6",
+          "published_date": "12 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/wQjuykfmKJ8",
+          "hd_video_url": "https://www.youtube.com/embed/wQjuykfmKJ8",
+          "thumbnail": "https://i.ytimg.com/vi/wQjuykfmKJ8/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 144 || Solution of triangles - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b0cb1f6-f812-4e98-95a0-55acd8c1eb12.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 145,
+          "title": "Lecture - 145 || Solution of triangles - 7",
+          "published_date": "13 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/pGL_k-Ep8UQ",
+          "hd_video_url": "https://www.youtube.com/embed/pGL_k-Ep8UQ",
+          "thumbnail": "https://i.ytimg.com/vi/pGL_k-Ep8UQ/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 172 || Solution of triangles - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ff12ad0-c5cd-439f-ad75-e6c2a9248f30.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 146,
+          "title": "Lecture - 146 || Solution of triangles - 8",
+          "published_date": "16 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/pbVJTtrFmek",
+          "hd_video_url": "https://www.youtube.com/embed/pbVJTtrFmek",
+          "thumbnail": "https://i.ytimg.com/vi/pbVJTtrFmek/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 146 || Solution of triangles - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/33ad5f1e-40b3-4e77-8d0d-07a1d94ca8e9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 147,
+          "title": "Lecture - 147 || Solution of triangles - 9",
+          "published_date": "17 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/fUGo2dMzMBg",
+          "hd_video_url": "https://www.youtube.com/embed/fUGo2dMzMBg",
+          "thumbnail": "https://i.ytimg.com/vi/fUGo2dMzMBg/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 147 || Solution of triangles - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4239da3c-12bf-4b76-b099-2cb796f6e193.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 148,
+          "title": "Lecture - 148 || Solution of triangles - 10",
+          "published_date": "18 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/8hTcVBqH2u8",
+          "hd_video_url": "https://www.youtube.com/embed/8hTcVBqH2u8",
+          "thumbnail": "https://i.ytimg.com/vi/8hTcVBqH2u8/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 148 || Solution of triangles - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d8a81a3-b0a8-43b7-aa57-a7cd1b20ebe0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 149,
+          "title": "Lecture - 149 || Revision and Practice session - 1",
+          "published_date": "19 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/sSjYTIcazN8",
+          "hd_video_url": "https://www.youtube.com/embed/sSjYTIcazN8",
+          "thumbnail": "https://i.ytimg.com/vi/sSjYTIcazN8/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 149 || Revision and Practice session - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d09bf6d7-3050-47ac-9dbb-aded7fc9636a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 150,
+          "title": "Lecture - 150 || Revision and Practice session - 2",
+          "published_date": "20 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/LFxlqO3F3AQ",
+          "hd_video_url": "https://www.youtube.com/embed/LFxlqO3F3AQ",
+          "thumbnail": "https://i.ytimg.com/vi/LFxlqO3F3AQ/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 150 || Revision and Practice session - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73b01d50-5c8f-4f83-b9e2-378b87c6a8e5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 151,
+          "title": "Lecture - 151 || Revision and Practice session - 3",
+          "published_date": "21 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/uiKch0mNvHc",
+          "hd_video_url": "https://www.youtube.com/embed/uiKch0mNvHc",
+          "thumbnail": "https://i.ytimg.com/vi/uiKch0mNvHc/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 151 || Revision and Practice session - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66f2e7db-554e-4280-98a2-0ff799350490.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 152,
+          "title": "Lecture - 152 || Revision and Practice session - 4",
+          "published_date": "23 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/YP0w0AHI8Ic",
+          "hd_video_url": "https://www.youtube.com/embed/YP0w0AHI8Ic",
+          "thumbnail": "https://i.ytimg.com/vi/YP0w0AHI8Ic/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 152 || Revision and Practice session - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a00fd406-5fe6-43f5-85ab-0311dc286852.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 153,
+          "title": "Lecture - 153 || Revision and Practice session - 5",
+          "published_date": "24 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/IgTt2J1Fzew",
+          "hd_video_url": "https://www.youtube.com/embed/IgTt2J1Fzew",
+          "thumbnail": "https://i.ytimg.com/vi/IgTt2J1Fzew/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 153 || Revision and Practice session - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5cf32c2-2443-468e-9a36-a96079dca878.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 154,
+          "title": "Lecture - 154 || Revision and Practice session - 6",
+          "published_date": "27 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/f_jt1U94e2c",
+          "hd_video_url": "https://www.youtube.com/embed/f_jt1U94e2c",
+          "thumbnail": "https://i.ytimg.com/vi/f_jt1U94e2c/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 154 || Revision and Practice session - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/290b212d-ac7d-479a-86ee-2f0f7649bfe6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 155,
+          "title": "Lecture - 155 || Revision and Practice session - 7",
+          "published_date": "28 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/l1e5O5L59OU",
+          "hd_video_url": "https://www.youtube.com/embed/l1e5O5L59OU",
+          "thumbnail": "https://i.ytimg.com/vi/l1e5O5L59OU/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 155 || Revision and Practice session - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2503ac0a-d770-4982-bb27-2c3ff583d11e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 156,
+          "title": "Lecture - 156 || Revision and Practice session - 8",
+          "published_date": "30 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/8y4ObaxMsV0",
+          "hd_video_url": "https://www.youtube.com/embed/8y4ObaxMsV0",
+          "thumbnail": "https://i.ytimg.com/vi/8y4ObaxMsV0/default.jpg",
+          "notes": [
+            {
+              "title": "Class Notes - Lecture - 156 || Revision and Practice session - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8deb41e5-ff7d-41eb-831a-cae3ab96bebb.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths Supporting Material",
+      "subject_id": 2677,
+      "video_count": 40,
+      "note_count": 36,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "1. Quadratic Equations (Practice Section) || Video Solution Part - 1",
+          "published_date": "27 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/M-zgmcDBJFc",
+          "hd_video_url": "https://www.youtube.com/embed/M-zgmcDBJFc",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/309c6da1-8ad5-4f15-95e5-00914162501c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "2. Quadratic Equations (Practice Section) || Video Solution Part - 2",
+          "published_date": "27 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/5MuwXta9dwU",
+          "hd_video_url": "https://www.youtube.com/embed/5MuwXta9dwU",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19ad698b-52be-414b-b436-2220f9f57d8a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "3. Quadratic Equations (Practice Section) || Video Solution Part - 3",
+          "published_date": "27 Jun 2024",
+          "video_url": "https://www.youtube.com/embed/x-wFe0JDHyE",
+          "hd_video_url": "https://www.youtube.com/embed/x-wFe0JDHyE",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Quadratic Equations (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e3261ed-88a3-45aa-ae3b-7d54f6195705.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "4. Binomial Theorem (Practice Section) || Video Solution Part - 1",
+          "published_date": "07 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/2BRZo0NK280",
+          "hd_video_url": "https://www.youtube.com/embed/2BRZo0NK280",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Binomial Theorem (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e85fa14-e918-413a-9b2f-da6e76e2462f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "5. Binomial Theorem (Practice Section) || Video Solution Part - 2",
+          "published_date": "07 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/mc6ZwWdNMMk",
+          "hd_video_url": "https://www.youtube.com/embed/mc6ZwWdNMMk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Binomial Theorem (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76243099-73ff-4a96-afbc-6d0fd0eec02e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "6. Permutation and Combination (Practice Section) || Video Solution Part - 1",
+          "published_date": "16 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/L_VR8H-YiYI",
+          "hd_video_url": "https://www.youtube.com/embed/L_VR8H-YiYI",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes -  Permutation and Combination (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/119ea3e9-fb6b-44f5-9e08-b63b306a072b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "7. Permutation and Combination (Practice Section) || Video Solution Part - 2",
+          "published_date": "16 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/lWy9TYedM34",
+          "hd_video_url": "https://www.youtube.com/embed/lWy9TYedM34",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d48aae06-68ab-430a-b8c7-f9e88c43c618.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "8. Permutation and Combination (Practice Section) || Video Solution Part - 3",
+          "published_date": "16 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/8G_PlK4oB7k",
+          "hd_video_url": "https://www.youtube.com/embed/8G_PlK4oB7k",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b691733-a486-4d34-a695-ede86adb6f1d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "9. Permutation and Combination (Practice Section) || Video Solution Part - 4",
+          "published_date": "16 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/IekTUnAjMhw",
+          "hd_video_url": "https://www.youtube.com/embed/IekTUnAjMhw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Permutation and Combination (Practice Section) || Video Solution Part - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7887ffaf-85e9-4d07-ab64-3338a0cff416.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "10. Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 1",
+          "published_date": "17 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/W72JeKHRLQw",
+          "hd_video_url": "https://www.youtube.com/embed/W72JeKHRLQw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17265005-0551-45cf-a500-8737100b3c85.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "11. Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 2",
+          "published_date": "17 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/SzhDWDocUAM",
+          "hd_video_url": "https://www.youtube.com/embed/SzhDWDocUAM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Trigonometric Ratio & Identities (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40c621f3-52b8-4809-bc39-aa0bfa018511.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "12. Sequence and Series ( JEE FLASBACK) || Video Solution",
+          "published_date": "17 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/nU6kvLSoSJ0",
+          "hd_video_url": "https://www.youtube.com/embed/nU6kvLSoSJ0",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "13. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 1",
+          "published_date": "13 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/WcugRWLfdo0",
+          "hd_video_url": "https://www.youtube.com/embed/WcugRWLfdo0",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a4f8e76-19bb-4384-b18c-2b38d8ca11dd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "14. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 2",
+          "published_date": "13 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/bHU_kQbszgE",
+          "hd_video_url": "https://www.youtube.com/embed/bHU_kQbszgE",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ce838d6-711b-40ae-8d3c-c5d6cf1916be.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "15. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 3",
+          "published_date": "13 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/6W4IeUtNNLs",
+          "hd_video_url": "https://www.youtube.com/embed/6W4IeUtNNLs",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - 15. Basic Maths and Logarithm ( Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd24eb76-55b7-4a69-9fbe-b545a8356e89.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "16. Sequence And Series (Practice Section) || Video Solution Part - 1",
+          "published_date": "14 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/FSUjIzhpLXo",
+          "hd_video_url": "https://www.youtube.com/embed/FSUjIzhpLXo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/50769150-2698-406d-8e3d-89b5c017826f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "17. Sequence And Series (Practice Section) || Video Solution Part - 2",
+          "published_date": "14 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/OJRPKvmGf2Q",
+          "hd_video_url": "https://www.youtube.com/embed/OJRPKvmGf2Q",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a14ceded-fb68-43b5-9c31-88238e8f130f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "18. Sequence And Series (Practice Section) || Video Solution Part - 3",
+          "published_date": "14 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/jshaqy0q8D0",
+          "hd_video_url": "https://www.youtube.com/embed/jshaqy0q8D0",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Sequence And Series (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cabc156-a8f1-408b-aa9e-0eb7ff69628f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "19. Sequence And Series (Practice Section) || Video Solution Part - 4",
+          "published_date": "14 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/XpnZCPjVj2w",
+          "hd_video_url": "https://www.youtube.com/embed/XpnZCPjVj2w",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes -  Sequence And Series (Practice Section) || Video Solution Part - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e976567-67c0-43b9-8455-8a1b8621e0ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "20. Trigonometric Equation (Practice Section) || Video Solution Part - 1",
+          "published_date": "16 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/5TpmZE4kHkQ",
+          "hd_video_url": "https://www.youtube.com/embed/5TpmZE4kHkQ",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Trigonometric Equation (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cebc5619-2906-41a8-8de0-c1bf9582b358.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "21. Trigonometric Equation (Practice Section) || Video Solution Part - 2",
+          "published_date": "16 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/FIowFfnBIWk",
+          "hd_video_url": "https://www.youtube.com/embed/FIowFfnBIWk",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes -  Trigonometric Equation (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b9a0528-1bd1-46db-84cb-59549b4048de.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "22. Straight Line (Practice Section) || Video Solution Part - 1",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/_AOlmobH1fo",
+          "hd_video_url": "https://www.youtube.com/embed/_AOlmobH1fo",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a2e9f10-866e-4252-a5b0-0ae4ca56658c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "23. Straight Line (Practice Section) || Video Solution Part - 2",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/9bRp17_HOEM",
+          "hd_video_url": "https://www.youtube.com/embed/9bRp17_HOEM",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0acc51b3-aff6-41aa-9f79-a77a5f48cbc5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "24. Straight Line (Practice Section) || Video Solution Part - 3",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/IPx53sWhlqw",
+          "hd_video_url": "https://www.youtube.com/embed/IPx53sWhlqw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/320d409a-e69c-4969-9f3c-83f86baed1aa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "25. Straight Line (Practice Section) || Video Solution Part - 4",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/uk6A7pQSeCs",
+          "hd_video_url": "https://www.youtube.com/embed/uk6A7pQSeCs",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Straight Line (Practice Section) || Video Solution Part - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af05831f-64a3-499a-9b80-b9a8c025fb3f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "26. Circle (Practice Section) || Video Solution Part - 1",
+          "published_date": "18 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/mBnsMZ7oz0I",
+          "hd_video_url": "https://www.youtube.com/embed/mBnsMZ7oz0I",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48a17129-3662-4736-82cc-bff9f307bcb9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "27. Circle (Practice Section) || Video Solution Part - 2",
+          "published_date": "18 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/NsCk36WXGhQ",
+          "hd_video_url": "https://www.youtube.com/embed/NsCk36WXGhQ",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26871428-23bb-47ae-ba03-ae3c297ace64.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "28. Circle (Practice Section) || Video Solution Part - 3",
+          "published_date": "18 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/yQ0H1J5Wovw",
+          "hd_video_url": "https://www.youtube.com/embed/yQ0H1J5Wovw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Circle (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4344b9fd-f0a6-4b09-bd47-6bacb2217044.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "29. Parabola (Practice Section) || Video Solution Part - 1",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/CMR4swiVr3c",
+          "hd_video_url": "https://www.youtube.com/embed/CMR4swiVr3c",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff448c20-c550-4886-92da-f531d2db8c31.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "30. Parabola (Practice Section) || Video Solution Part - 2",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/iN9nRq9b9Rw",
+          "hd_video_url": "https://www.youtube.com/embed/iN9nRq9b9Rw",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/26e45211-60a1-4ab9-b5c0-c708231e1254.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "31. Parabola (Practice Section) || Video Solution Part - 3",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/7V8cTO3ySzg",
+          "hd_video_url": "https://www.youtube.com/embed/7V8cTO3ySzg",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Parabola (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5895787-5099-4d84-ac60-01ab166c3e36.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "32. Matrices (Practice Section) || Video Solution Part - 1",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/DONeUwZKS_c",
+          "hd_video_url": "https://www.youtube.com/embed/DONeUwZKS_c",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Matrices (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a1d12f7-2080-4798-9a3a-84b881f43b1b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "33. Matrices (Practice Section) || Video Solution Part - 2",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/SqqQrR8je8c",
+          "hd_video_url": "https://www.youtube.com/embed/SqqQrR8je8c",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes -  Matrices (Practice Section) || Video Solution Part - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0fc48b96-2345-4eb3-868e-0dd8291ceb18.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "34. Matrices (Practice Section) || Video Solution Part - 3",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/Kg3hp2rMH84",
+          "hd_video_url": "https://www.youtube.com/embed/Kg3hp2rMH84",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Matrices (Practice Section) || Video Solution Part - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f0b60d3-5e2e-4c66-9ca0-2fede59e67fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "35. Vector (Practice Section) || Video Solution Part - 1",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/cap5dt-x5UA",
+          "hd_video_url": "https://www.youtube.com/embed/cap5dt-x5UA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Vector (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb3e67e3-16b7-46df-b20f-5506d97c2df2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "36. Complex Number (Practice Section) || Video Solution Part - 1",
+          "published_date": "18 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/AOSlFeWU2IY",
+          "hd_video_url": "https://www.youtube.com/embed/AOSlFeWU2IY",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Complex Number (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eecd468c-4d07-4342-9cfd-6f864c3ea8ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "37. Hyperbola (Practice Section) || Video Solution Part - 1",
+          "published_date": "18 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/kf9jr6MiRjI",
+          "hd_video_url": "https://www.youtube.com/embed/kf9jr6MiRjI",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 38,
+          "title": "38. Ellipse  (Practice Section) || Video Solution Part - 1",
+          "published_date": "18 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/Ru0h2XNGoHA",
+          "hd_video_url": "https://www.youtube.com/embed/Ru0h2XNGoHA",
+          "thumbnail": "",
+          "notes": [
+            {
+              "title": "Class Notes - Ellipse  (Practice Section) || Video Solution Part - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8256f600-f12f-4f04-83d5-852e0a5e19ca.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "39. Complex Number (Practice Section) || Video Solution Part - 2",
+          "published_date": "05 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/DnwV1WApykI",
+          "hd_video_url": "https://www.youtube.com/embed/DnwV1WApykI",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 40,
+          "title": "40. Hyperbola - 2 (Practice Section) || Video Solution Part - 2",
+          "published_date": "05 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/X_aFiNtTHcQ",
+          "hd_video_url": "https://www.youtube.com/embed/X_aFiNtTHcQ",
+          "thumbnail": "",
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Test Paper and  Solutions",
+      "subject_id": 3085,
+      "video_count": 4,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "1. Part Test - 1 : Maths Video Solution",
+          "published_date": "26 Aug 2024",
+          "video_url": "https://www.youtube.com/embed/Qm1OEh1WuTc",
+          "hd_video_url": "https://www.youtube.com/embed/Qm1OEh1WuTc",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "2. Unit Test - 2 : Maths Video Solution",
+          "published_date": "24 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/fknxOQeVykw",
+          "hd_video_url": "https://www.youtube.com/embed/fknxOQeVykw",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "03. Unit Test - 3 || Maths Video Solution",
+          "published_date": "26 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/PtVbjQ5oZbA",
+          "hd_video_url": "https://www.youtube.com/embed/PtVbjQ5oZbA",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "04.Part Test - 2 || Maths Video Solution",
+          "published_date": "25 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/eOZESVahpdo",
+          "hd_video_url": "https://www.youtube.com/embed/eOZESVahpdo",
+          "thumbnail": "https://i.ytimg.com/vi/eOZESVahpdo/default.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

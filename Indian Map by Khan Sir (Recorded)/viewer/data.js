@@ -1,0 +1,601 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Indian Map By Khan Sir",
+      "subject_id": 6922,
+      "video_count": 67,
+      "note_count": 1,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture-01 || Introduction of Indian Map || भारत मानचित्र का परिचय",
+          "published_date": "05 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/pDK9NpG91cs",
+          "hd_video_url": "https://www.youtube.com/embed/pDK9NpG91cs",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Lecture-02 || Jammu-Kashmir & Ladakh || जम्मू-कश्मीर  और लद्दाख (Part-01)",
+          "published_date": "06 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/uj4S8YLN8yE",
+          "hd_video_url": "https://www.youtube.com/embed/uj4S8YLN8yE",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "Lecture-03 || Jammu-Kashmir & Ladakh || जम्मू-कश्मीर  और लद्दाख (Part-02)",
+          "published_date": "09 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/nzsf-5QOuCo",
+          "hd_video_url": "https://www.youtube.com/embed/nzsf-5QOuCo",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "Lecture-04 || Jammu-Kashmir & Ladakh || जम्मू-कश्मीर और लद्दाख (Part-03)",
+          "published_date": "10 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/KnsACbfPQTU",
+          "hd_video_url": "https://www.youtube.com/embed/KnsACbfPQTU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4P6mpSZIqCDsf8Jf3NohAS4rwX3zvzcA8gWO0yw2.jpg",
+          "notes": []
+        },
+        {
+          "serial": 5,
+          "title": "Lecture-05 || Jammu-Kashmir & Ladakh || जम्मू-कश्मीर और लद्दाख (Part-04)",
+          "published_date": "11 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/JIksVEQSNi8",
+          "hd_video_url": "https://www.youtube.com/embed/JIksVEQSNi8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mO9FMRd0yW7V6SHH8onzHwVwFCgriIE1r7abr2Ho.jpg",
+          "notes": []
+        },
+        {
+          "serial": 6,
+          "title": "Lecture-06 || Himachal Pradesh || हिमाचल प्रदेश",
+          "published_date": "12 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/P9j05ntv5e8",
+          "hd_video_url": "https://www.youtube.com/embed/P9j05ntv5e8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/r0kOExKRynv7uT043bIeK4g9K58XhYhX8rXIpSI7.jpg",
+          "notes": []
+        },
+        {
+          "serial": 7,
+          "title": "Lecture-07 || Himachal Pradesh & Punjab || \nहिमाचल  प्रदेश और पंजाब",
+          "published_date": "16 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/h0rwfRDy5xA",
+          "hd_video_url": "https://www.youtube.com/embed/h0rwfRDy5xA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FyTZlWiKgM7TH4yPjS7890kwqxI4GuRRxIjqZdSu.jpg",
+          "notes": []
+        },
+        {
+          "serial": 8,
+          "title": "Lecture-08 || Punjab || पंजाब",
+          "published_date": "17 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/lZv1LIEjhDw",
+          "hd_video_url": "https://www.youtube.com/embed/lZv1LIEjhDw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/mtR4006jByyjEdqYEYR1l3JNvxgO5EEL0Mwv3iLF.jpg",
+          "notes": []
+        },
+        {
+          "serial": 9,
+          "title": "Lecture-09 || Punjab & Haryana || पंजाब और हरियाणा",
+          "published_date": "18 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/B3xaUeo_CIA",
+          "hd_video_url": "https://www.youtube.com/embed/B3xaUeo_CIA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/g3BvLCnOhmw8Kz42qM89RRvsFKy2xFpMhX5SVDVo.jpg",
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "Lecture-10 || Haryana & Delhi || हरियाणा & दिल्ली",
+          "published_date": "19 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/aeQ4iFhXXuQ",
+          "hd_video_url": "https://www.youtube.com/embed/aeQ4iFhXXuQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LgTrRNK6EjwtdZZgksOLFiqYX0JxZ8UiP2xVWTF8.jpg",
+          "notes": []
+        },
+        {
+          "serial": 11,
+          "title": "Lecture-11 || Uttarakhand || उत्तराखंड (Part-01)",
+          "published_date": "20 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/u_g4P7Dfq_0",
+          "hd_video_url": "https://www.youtube.com/embed/u_g4P7Dfq_0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oXi9Lws7ablxbPmhKjqodEIkNsRqOUZokoA3vPhe.jpg",
+          "notes": []
+        },
+        {
+          "serial": 12,
+          "title": "Lecture-12 || Uttarakhand || उत्तराखंड (Part-02)",
+          "published_date": "23 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/rKfSFVROU8I",
+          "hd_video_url": "https://www.youtube.com/embed/rKfSFVROU8I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DWvqNYIjWI17N7AmbeabMMfyI1jWlVVPuuF1ct8m.jpg",
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "Lecture-13 || Rajasthan || राजस्थान (Part-01)",
+          "published_date": "24 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/tAADKAKmrO4",
+          "hd_video_url": "https://www.youtube.com/embed/tAADKAKmrO4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0CNCuHmgkov0eQXD3hvzLjokHQWg25WaMbzwTZb8.jpg",
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "Lecture-14 || Rajasthan || राजस्थान (Part-02)",
+          "published_date": "25 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/mc72G3rRCIY",
+          "hd_video_url": "https://www.youtube.com/embed/mc72G3rRCIY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YiQlfBlVDML14cBTZ1EI3Wz6fpsJYwHxU8LuGTd4.jpg",
+          "notes": []
+        },
+        {
+          "serial": 15,
+          "title": "Lecture-15 || Rajasthan & Gujarat || राजस्थान और गुजरात",
+          "published_date": "26 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/gn_O-NXswqw",
+          "hd_video_url": "https://www.youtube.com/embed/gn_O-NXswqw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZEQhzzrMInrp2rELvcg5LYJ4AlVY9TtnreqvoWTz.jpg",
+          "notes": []
+        },
+        {
+          "serial": 16,
+          "title": "Lecture-16 || Gujarat || गुजरात (Part-01)",
+          "published_date": "27 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/m0oOoEtQLmU",
+          "hd_video_url": "https://www.youtube.com/embed/m0oOoEtQLmU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/McBF6Cu005GpMvz2mgj9gHHsFN06Je5gddWkTFYX.jpg",
+          "notes": []
+        },
+        {
+          "serial": 17,
+          "title": "Lecture-17 || Gujarat || गुजरात (Part-02)",
+          "published_date": "30 Sep 2024",
+          "video_url": "https://www.youtube.com/embed/9OZ2XsgwIN0",
+          "hd_video_url": "https://www.youtube.com/embed/9OZ2XsgwIN0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/cvSFPuhfuLf7tApFFdgfghGxyCQ9J30VadvLKLuK.jpg",
+          "notes": []
+        },
+        {
+          "serial": 18,
+          "title": "Lecture-18 || Uttar Pradesh || उत्तर प्रदेश (Part-01)",
+          "published_date": "01 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/7tTg8XWzHS0",
+          "hd_video_url": "https://www.youtube.com/embed/7tTg8XWzHS0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FfDbwxP5vShiLsS245BvHUc9rLlwIix4Yw6rGwN0.jpg",
+          "notes": []
+        },
+        {
+          "serial": 19,
+          "title": "Lecture-19 || Uttar Pradesh || उत्तर प्रदेश (Part-02)",
+          "published_date": "03 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/mR77cCSukmY",
+          "hd_video_url": "https://www.youtube.com/embed/mR77cCSukmY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vPVLtxfzWT2o9xblXIqoST69niyZSCg1rES2IXjW.jpg",
+          "notes": []
+        },
+        {
+          "serial": 20,
+          "title": "Lecture-20 || Uttar Pradesh || उत्तर प्रदेश (Part-03)",
+          "published_date": "04 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/WS4-uItI2Qg",
+          "hd_video_url": "https://www.youtube.com/embed/WS4-uItI2Qg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68124013d3e99.jpg",
+          "notes": []
+        },
+        {
+          "serial": 21,
+          "title": "Lecture-21 || Uttar Pradesh & Bihar || उत्तर प्रदेश और बिहार",
+          "published_date": "14 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/J7-cV8DDadM",
+          "hd_video_url": "https://www.youtube.com/embed/J7-cV8DDadM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zUA5xAflvhxksD9K4V6PgQ6wX6Q6hrnhFRK2zNUv.jpg",
+          "notes": []
+        },
+        {
+          "serial": 22,
+          "title": "Lecture-22 || Bihar || बिहार (Part-01)",
+          "published_date": "15 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/ea4ukZkEHl8",
+          "hd_video_url": "https://www.youtube.com/embed/ea4ukZkEHl8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/W42ZSmgaqUju0CStUYDrWWYuJDa2en2yFez7Yduv.jpg",
+          "notes": []
+        },
+        {
+          "serial": 23,
+          "title": "Lecture-23 || Bihar || बिहार (Part-02)",
+          "published_date": "16 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/-eRELkIndp8",
+          "hd_video_url": "https://www.youtube.com/embed/-eRELkIndp8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/o4YpGE6S8Xgvj3jN4qwiPxpjpilAWJaiHbYej9zU.jpg",
+          "notes": []
+        },
+        {
+          "serial": 24,
+          "title": "Lecture-24 || Bihar & Jharkhand || बिहार और झारखंड",
+          "published_date": "17 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/TxVy6cAfyFQ",
+          "hd_video_url": "https://www.youtube.com/embed/TxVy6cAfyFQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CrqF3lI9HYJ98ZFyLG2lmQmCCNyC9HCwjly6KQq5.jpg",
+          "notes": []
+        },
+        {
+          "serial": 25,
+          "title": "Lecture-25 || Jharkhand & West Bengal || झारखंड और पश्चिम बंगाल",
+          "published_date": "18 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/yshv2vy3wo4",
+          "hd_video_url": "https://www.youtube.com/embed/yshv2vy3wo4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/kLIhW5eTemOIuEHhqtLIIFBdgWb5cOQrCrBf0kjS.jpg",
+          "notes": []
+        },
+        {
+          "serial": 26,
+          "title": "Lecture-26 || West Bengal || पश्चिम बंगाल",
+          "published_date": "21 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/LvGJgPITB1g",
+          "hd_video_url": "https://www.youtube.com/embed/LvGJgPITB1g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VdlykkfQ2muBVfMVtgdsBjfNIXzfcuvWs6itNney.jpg",
+          "notes": []
+        },
+        {
+          "serial": 27,
+          "title": "Lecture-27 || Assam, Meghalaya & Mizoram || असम, मेघालय और मिजोरम",
+          "published_date": "22 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/8dzfgt4Ha-s",
+          "hd_video_url": "https://www.youtube.com/embed/8dzfgt4Ha-s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HeJeO1fNmpPzTMiBeVcfN0DYDgcOv0Ocb47fafPz.jpg",
+          "notes": []
+        },
+        {
+          "serial": 28,
+          "title": "Lecture-28 || Assam, Manipur, Nagaland & Arunachal Pradesh || असम, मणिपुर, नागालैंड और अरुणाचल प्रदेश",
+          "published_date": "23 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/wHcougm8kAQ",
+          "hd_video_url": "https://www.youtube.com/embed/wHcougm8kAQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HiQIUuIXz5FV3W9JZsJwf7YSy2KoxezDLFui0BgN.jpg",
+          "notes": []
+        },
+        {
+          "serial": 29,
+          "title": "Lecture-29 || Madhya Pradesh || मध्य प्रदेश",
+          "published_date": "24 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/Ycos3yFZx_I",
+          "hd_video_url": "https://www.youtube.com/embed/Ycos3yFZx_I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AwlwGJhg7OnSXrKuV7wsA4NkURazHFI0fxA2zY8g.jpg",
+          "notes": []
+        },
+        {
+          "serial": 30,
+          "title": "Lecture-30 || Madhya Pradesh & Chhattisgarh || मध्य प्रदेश और छत्तीसगढ़",
+          "published_date": "25 Oct 2024",
+          "video_url": "https://www.youtube.com/embed/IVHot_giJls",
+          "hd_video_url": "https://www.youtube.com/embed/IVHot_giJls",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ITgWNmmyRcqWIQJ1ZJ7mzu9S72hWDgQUVQlzK7cv.jpg",
+          "notes": []
+        },
+        {
+          "serial": 31,
+          "title": "Lecture-31 || Chhattisgarh & Odisha || छत्तीसगढ़ और उड़ीसा",
+          "published_date": "11 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/3IafC-WPBKQ",
+          "hd_video_url": "https://www.youtube.com/embed/3IafC-WPBKQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68124010ce9c9.jpg",
+          "notes": []
+        },
+        {
+          "serial": 32,
+          "title": "Lecture-32 || Maharashtra || महाराष्ट्र (Part-01)",
+          "published_date": "12 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/rBRZ27DhyTQ",
+          "hd_video_url": "https://www.youtube.com/embed/rBRZ27DhyTQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812400fd9f74.jpg",
+          "notes": []
+        },
+        {
+          "serial": 33,
+          "title": "Lecture-33 || Maharashtra || महाराष्ट्र (Part-02)",
+          "published_date": "13 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/7stHUKOZyq4",
+          "hd_video_url": "https://www.youtube.com/embed/7stHUKOZyq4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812400ee7a49.jpg",
+          "notes": []
+        },
+        {
+          "serial": 34,
+          "title": "Lecture-34 || Andhra Pradesh & Telangana || आंध्र प्रदेश और तेलंगाना",
+          "published_date": "14 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/79N-MfmQnFs",
+          "hd_video_url": "https://www.youtube.com/embed/79N-MfmQnFs",
+          "thumbnail": "https://i.ytimg.com/vi/79N-MfmQnFs/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 35,
+          "title": "Lecture-35 || Karnataka & Bangalore || कर्नाटक और बेंगलुरू",
+          "published_date": "15 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/fAWwET92JjY",
+          "hd_video_url": "https://www.youtube.com/embed/fAWwET92JjY",
+          "thumbnail": "https://i.ytimg.com/vi/fAWwET92JjY/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 36,
+          "title": "Lecture-36 || Kerala || केरल",
+          "published_date": "18 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/Xrz1fveu9M4",
+          "hd_video_url": "https://www.youtube.com/embed/Xrz1fveu9M4",
+          "thumbnail": "https://i.ytimg.com/vi/Xrz1fveu9M4/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 37,
+          "title": "Lecture-37 || Andhra Pradesh || आंध्र प्रदेश",
+          "published_date": "19 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/EGPHUF2BijM",
+          "hd_video_url": "https://www.youtube.com/embed/EGPHUF2BijM",
+          "thumbnail": "https://i.ytimg.com/vi/EGPHUF2BijM/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 38,
+          "title": "Lecture-38 || Andaman  Nicobar || अंडमान निकोबार",
+          "published_date": "20 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/s-dkr1WcuDM",
+          "hd_video_url": "https://www.youtube.com/embed/s-dkr1WcuDM",
+          "thumbnail": "https://i.ytimg.com/vi/s-dkr1WcuDM/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 39,
+          "title": "Lecture-39 || Maldives & Minicoy  || मालदीव और मिनिकाय",
+          "published_date": "21 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/lfwzsnR3Atk",
+          "hd_video_url": "https://www.youtube.com/embed/lfwzsnR3Atk",
+          "thumbnail": "https://i.ytimg.com/vi/lfwzsnR3Atk/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 40,
+          "title": "Lecture-40 || Mountain Range || पर्वतीय श्रेणी",
+          "published_date": "22 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/lGQx6jCXikk",
+          "hd_video_url": "https://www.youtube.com/embed/lGQx6jCXikk",
+          "thumbnail": "https://i.ytimg.com/vi/lGQx6jCXikk/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 41,
+          "title": "Lecture-41 || Passes of India || भारत के दर्रे (Part-01)",
+          "published_date": "25 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/jIoardJdSeY",
+          "hd_video_url": "https://www.youtube.com/embed/jIoardJdSeY",
+          "thumbnail": "https://i.ytimg.com/vi/jIoardJdSeY/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 42,
+          "title": "Lecture-42 || Passes of India || भारत के दर्रे (Part-02)",
+          "published_date": "26 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/jOL4XpGXUJM",
+          "hd_video_url": "https://www.youtube.com/embed/jOL4XpGXUJM",
+          "thumbnail": "https://i.ytimg.com/vi/jOL4XpGXUJM/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 43,
+          "title": "Lecture-43 || Kerala || केरल",
+          "published_date": "02 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/peqq9KVhQlE",
+          "hd_video_url": "https://www.youtube.com/embed/peqq9KVhQlE",
+          "thumbnail": "https://i.ytimg.com/vi/peqq9KVhQlE/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 44,
+          "title": "Lecture-44 || Monsoon || मानसून",
+          "published_date": "16 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/MIqt08eG5nY",
+          "hd_video_url": "https://www.youtube.com/embed/MIqt08eG5nY",
+          "thumbnail": "https://i.ytimg.com/vi/MIqt08eG5nY/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 45,
+          "title": "Lecture-45 || Channel & Geographic Boundary || चैनल और भूगोलिक सीमा",
+          "published_date": "17 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/snXVGkuqXlk",
+          "hd_video_url": "https://www.youtube.com/embed/snXVGkuqXlk",
+          "thumbnail": "https://i.ytimg.com/vi/snXVGkuqXlk/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 46,
+          "title": "Lecture-46 || Tropic of Cancer & Time Line || कर्क रेखा और समय रेखा",
+          "published_date": "18 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/Dcj7yU2LmiM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MBxNvXwVJDNMDRRSClKYN6NF0PGh7xBpO8BmNXdV.jpg",
+          "notes": []
+        },
+        {
+          "serial": 47,
+          "title": "Lecture-47 || Himalaya || हिमालय",
+          "published_date": "19 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/6hvaH_ZQRZQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jdXSONVQn2chGp8AKaRgHLII4WasTyBoaqhk2PJS.jpg",
+          "notes": []
+        },
+        {
+          "serial": 48,
+          "title": "Lecture-48 || Major rivers of India || भारत की प्रमुख नदियां (\nPart-01)",
+          "published_date": "20 Dec 2024",
+          "video_url": "https://www.youtube.com/embed/jrbOkDMoMOU",
+          "hd_video_url": "https://www.youtube.com/embed/jrbOkDMoMOU",
+          "thumbnail": "https://i.ytimg.com/vi/jrbOkDMoMOU/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 49,
+          "title": "Lecture-49 || Major rivers of India || भारत की प्रमुख नदियां (\nPart-02)",
+          "published_date": "23 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/mTH20RInEy0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ZVxsjWUSx9C1slZxxxKyYBvt1t1Mr8Dd2XqxwlRz.jpg",
+          "notes": []
+        },
+        {
+          "serial": 50,
+          "title": "Lecture-50 ||  Major rivers of India || भारत की प्रमुख नदियां ( Part-03)",
+          "published_date": "24 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/adPkLIfaQHY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fxfzvpjcSUIDnosEjkNGpVw8YO8BTrtoSNLg0w2V.jpg",
+          "notes": []
+        },
+        {
+          "serial": 51,
+          "title": "Lecture-51 || Major rivers of India || भारत की प्रमुख नदियां ( Part-04)",
+          "published_date": "25 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/eSxXx7jp41I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9TGOqH6ZnzN6XGYek4dbDbvwLrahDexe7DqZ9KD8.jpg",
+          "notes": []
+        },
+        {
+          "serial": 52,
+          "title": "Lecture-52 || Indian Soil || भारतीय मिट्टी (Part-01)",
+          "published_date": "26 Dec 2024",
+          "hd_video_url": "https://www.youtube.com/embed/8Htxo7pwGrQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3vfWkbZpIgz561eBK98IcsdlRJVn6uS7Md75pbRt.jpg",
+          "notes": [
+            {
+              "title": "Lecture-52 || Indian Map By Khan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/317ec5dd-748a-4f46-82b4-a5b64d9277c7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture-53 || Indian Soil || भारतीय मिट्टी (Part-02)",
+          "published_date": "06 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/14HUFRUDzT0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NvpHxgXS2PdIRivqDrxkjdCw8GVp74jG2Xp0mzX2.jpg",
+          "notes": []
+        },
+        {
+          "serial": 54,
+          "title": "Lecture-54 || Indian Transportation Project || भारतीय परिवहन परियोजना (Part-01)",
+          "published_date": "07 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/b1FobGu_k2w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nGDGGcD6poJu7yfVyCAqltvtJ4dl8ZeZEa8iW1GR.jpg",
+          "notes": []
+        },
+        {
+          "serial": 55,
+          "title": "Lecture-55 || Indian Transportation Project || भारतीय परिवहन परियोजना (Part-02)",
+          "published_date": "08 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/pe38HwmvfZ4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/PX7ELMOlVyywlZCoSmNbPbMaAVwCJB8VOh4KUHAI.jpg",
+          "notes": []
+        },
+        {
+          "serial": 56,
+          "title": "Lecture-56 || Indian Transportation Project || भारतीय परिवहन परियोजना (Part-03)",
+          "published_date": "09 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/S1BtXsjvK0Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qvlIlYx2V0LDRcTdfmr6BrQkmJydyVpfkVzTgyD6.jpg",
+          "notes": []
+        },
+        {
+          "serial": 57,
+          "title": "Lecture-57 || Indian Transportation & Harbor || भारतीय परिवहन और बंदरगाह",
+          "published_date": "10 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/YmY3E4aNM7w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/4Nxuni10MoluToJnLLs14kCC2ss8x3OlLJY19ibz.jpg",
+          "notes": []
+        },
+        {
+          "serial": 58,
+          "title": "Lecture-58 || Harbor & National Park || बंदरगाह और नैशनल पार्क",
+          "published_date": "13 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/8I4CFkgQvYc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812400884d9c.jpg",
+          "notes": []
+        },
+        {
+          "serial": 59,
+          "title": "Lecture-59 || National Park || नैशनल पार्क",
+          "published_date": "14 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/LuOhSuAxjaE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812400791b2f.jpg",
+          "notes": []
+        },
+        {
+          "serial": 60,
+          "title": "Lecture-60 || India Railway Zones || भारत के रेलवे जोन",
+          "published_date": "15 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/6k56i01qDVQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/681240069dcfd.jpg",
+          "notes": []
+        },
+        {
+          "serial": 61,
+          "title": "Lecture-61 || Indian River Systems || भारतीय नदी प्रणाली  (Part-1)",
+          "published_date": "16 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/3l1iDp2Q-G4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68124005abbd4.jpg",
+          "notes": []
+        },
+        {
+          "serial": 62,
+          "title": "Lecture-62 || Indian River Systems || भारतीय नदी प्रणाली (Part-2)",
+          "published_date": "17 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/zZPmxfTqHRM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68124004b89a8.jpg",
+          "notes": []
+        },
+        {
+          "serial": 63,
+          "title": "Lecture-63 || Indian River Systems || भारतीय नदी प्रणाली (Part-3)",
+          "published_date": "20 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/7N_phXQ67Fc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68124003c0c09.jpg",
+          "notes": []
+        },
+        {
+          "serial": 64,
+          "title": "Lecture-64 || Indian River Systems || भारतीय नदी प्रणाली (Part-4)",
+          "published_date": "21 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/WDxCQxPLbuY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Y4c9lZs53a7vDxPCtOOPa1tOk3rlTbzy8IMPsHGW.jpg",
+          "notes": []
+        },
+        {
+          "serial": 65,
+          "title": "Lecture-65 || Indian River Systems || भारतीय नदी प्रणाली (Part-5)",
+          "published_date": "22 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/9bVT8lb16lQ",
+          "hd_video_url": "https://www.youtube.com/embed/9bVT8lb16lQ",
+          "thumbnail": "https://i.ytimg.com/vi/9bVT8lb16lQ/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 66,
+          "title": "Lecture-66 || Indian Army Command || भारतीय सेना के कमान",
+          "published_date": "27 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/WW2K3zoDHSM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/681240025c1f2.jpg",
+          "notes": []
+        },
+        {
+          "serial": 67,
+          "title": "Lecture-67 ||  Multipurpose Project || बहुउद्देशीय परियोजना",
+          "published_date": "28 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/ZSW4g7Z_-xY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6812400133aa0.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

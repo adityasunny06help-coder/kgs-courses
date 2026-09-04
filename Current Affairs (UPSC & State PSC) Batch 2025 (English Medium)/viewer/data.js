@@ -1,0 +1,620 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Current Affairs by Kinshuk Sir",
+      "subject_id": 4903,
+      "video_count": 47,
+      "note_count": 45,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Orientation Class by Kinshuk Sir",
+          "published_date": "18 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/YachsdCSAZ4",
+          "hd_video_url": "https://www.youtube.com/embed/YachsdCSAZ4",
+          "thumbnail": "https://i.ytimg.com/vi/YachsdCSAZ4/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Lecture- 1 || Current Affairs by Kinshuk Sir",
+          "published_date": "21 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/qVMw8zED8DY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HcuaTdqwHDVcJ12el3Yclo1N0YUXZ4Bmac0WlRz6.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 1 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14aff147-388c-4e25-b398-f22992961caa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture- 2 || Current Affairs by Kinshuk Sir",
+          "published_date": "23 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/1MLvQZHVX8M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80dfbab74.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 2 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f10e5b7d-f3e1-4a76-8763-17c99979fc2a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture- 3 || Current Affairs by Kinshuk Sir",
+          "published_date": "25 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/HOWtUBwyznc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80df4526f.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 3 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c6b9fed-cbe9-40c8-8038-2b0a2e8fce58.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture- 4 || Current Affairs by Kinshuk Sir",
+          "published_date": "27 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/CmrWg5lNgXY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80debe1ad.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 4 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90ba9935-e616-4329-ab4f-c449f42473ec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture- 5 || Current Affairs by Kinshuk Sir",
+          "published_date": "30 Jan 2025",
+          "hd_video_url": "https://www.youtube.com/embed/1xgNekz_c3A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80de47446.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 5 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b753761d-44d8-49a0-b9ca-ba7fd6c6994c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture- 6 || Current Affairs by Kinshuk Sir",
+          "published_date": "03 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/x-VmnQqCN2s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80ddc146a.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 6 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3880f6bf-55f8-4ca1-8b30-5f3fe2be7182.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture- 7 || Current Affairs by Kinshuk Sir",
+          "published_date": "06 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/tfoMQgrZncE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80dd19afb.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 7 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fbb008f8-1c8a-44ee-9693-9be777ea77b2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture- 8 || Current Affairs by Kinshuk Sir",
+          "published_date": "08 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/EejFWWQ11q4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hm2Q5P0Kbp1OMr1TyoD3xKQLd5IVeKbpvooqL5No.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 8 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90b8c1d8-870d-456d-8407-905c6a5e5771.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture- 9 || Current Affairs by Kinshuk Sir",
+          "published_date": "10 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/XiZfVL11C-8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GuDMQlXqR2ouOqWKV6W35KShsqtJOXyoHweovg7u.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 9 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d95187b3-7e50-4ab3-a7af-7c1af8688eff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture- 10 || Current Affairs by Kinshuk Sir",
+          "published_date": "13 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/gvLv99OFC-Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80dbbe535.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 10 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e119bd1-d990-4247-8664-3075ac5bd35b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture- 11 || Current Affairs by Kinshuk Sir",
+          "published_date": "15 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/SF6Z3LPoYjw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/sPpuUTieRRlesncpyOHkiMogu77szJ52GQaRfNAu.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 11 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa97d399-ef4a-4812-829f-446d1a1a4f69.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture- 12 || Current Affairs by Kinshuk Sir",
+          "published_date": "17 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/02Qw99_JGcQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80daa1ee1.jpg",
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "Lecture- 13 || Current Affairs by Kinshuk Sir",
+          "published_date": "20 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/TiFs6xpZFKM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d9ba816.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 57 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7ba558d-e7f3-4fe7-bc30-6690b61122aa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture- 14 || Current Affairs by Kinshuk Sir",
+          "published_date": "24 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/Ckx_Wq1Lah4",
+          "hd_video_url": "https://www.youtube.com/embed/Ckx_Wq1Lah4",
+          "thumbnail": "https://i.ytimg.com/vi/Ckx_Wq1Lah4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 14 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c93dd08-e557-43e6-a249-3408c104c4ab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture- 15 || Current Affairs by Kinshuk Sir",
+          "published_date": "27 Feb 2025",
+          "hd_video_url": "https://www.youtube.com/embed/ba_LRnyDEKk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d8a155e.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 15 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32468dbf-094d-4dca-96d2-e3ba6041175f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture- 16 || Current Affairs by Kinshuk Sir",
+          "published_date": "01 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/6kvRQasA3Js",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d7ba3dd.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 16 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a05a5862-268b-471e-930e-008ff2c1efaf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture- 17 || Current Affairs by Kinshuk Sir",
+          "published_date": "03 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/xeftSinGHOQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d6d1012.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 17 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/337ee02a-9a02-42b4-9b03-544f45937ef6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture- 18 || Current Affairs by Kinshuk Sir",
+          "published_date": "06 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/p08pu9ITM_g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d5e9350.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 18 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5af79c0-a602-449d-9f23-57150bde30cb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture- 19 || Current Affairs by Kinshuk Sir",
+          "published_date": "08 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/q3bt6DjpN3M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d510ea9.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 19 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e1d3d61-6d8f-4a83-a50c-49297160037c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture- 20 || Current Affairs by Kinshuk Sir",
+          "published_date": "10 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/0PDuIgt4nHY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Dsu0RdUN4YUb6gRhDlynRNkxdGOWGk37drxls7nj.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 20 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cc623ea5-e295-4a58-847c-4699e3247227.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture- 21 || Current Affairs by Kinshuk Sir",
+          "published_date": "17 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/A7XGPbDuyng",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d3eda87.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 21 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/415bc5dc-e8a6-4049-b086-ff1b05295d8c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture- 22 || Current Affairs by Kinshuk Sir",
+          "published_date": "20 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/OtcQon8JXQo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d3144ad.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 22 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98023ff2-6c65-4497-a0bc-e896bcb2728a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture- 23 || Current Affairs by Kinshuk Sir",
+          "published_date": "22 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/RkQlqL-uMso",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d22e104.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 23 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ddc8353-e4a7-49b7-8c59-71104e0c214b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture- 24 || Current Affairs by Kinshuk Sir",
+          "published_date": "24 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/obC7QKEAhrc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d14557c.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 24 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f14e2553-e672-4b6e-b28f-a71e9f8fc460.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture- 25 || Current Affairs by Kinshuk Sir",
+          "published_date": "27 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/Eac6uvvsnu4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80d0602df.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 25 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4cd389a-f9fb-4ca8-9b78-f1561d9b1315.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture- 26 || Current Affairs by Kinshuk Sir",
+          "published_date": "30 Mar 2025",
+          "hd_video_url": "https://www.youtube.com/embed/UtsxtUu5m3w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80cf7ad2d.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 26 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a4d3ca2-1692-4bc5-b58c-255ed86c858b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture- 27 || Current Affairs by Kinshuk Sir",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/JPLyIGZcU9E",
+          "hd_video_url": "https://www.youtube.com/embed/JPLyIGZcU9E",
+          "thumbnail": "https://i.ytimg.com/vi/JPLyIGZcU9E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 70 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/058fcfa8-6abc-4bbb-87a2-07ad48ee0a6c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture- 28 || Current Affairs by Kinshuk Sir",
+          "published_date": "05 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/TgzKTwaG1-4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80ce619d9.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 71 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/231f354b-8706-4ccf-8704-617811b71ae5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture- 29 || Current Affairs by Kinshuk Sir",
+          "published_date": "10 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/sW1YfXTa5H8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80cd7dd5b.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 29 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4986f5a2-b1f1-4131-b122-45621a7ae4a4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture- 30 || Current Affairs by Kinshuk Sir",
+          "published_date": "12 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/JyI61xe7Y7Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/680b80cc6386a.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 30 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb955bd8-7538-4cd6-a98e-ddf73b4cab16.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture- 31 || Current Affairs by Kinshuk Sir",
+          "published_date": "17 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/plfHicuKSP4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qPUpn2rSDWohb874fiDfwLYiis4RIlvq24k2ZlK2.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 31 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/561c4a08-507e-4e65-a136-49b8d98f40a8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture- 32 || Current Affairs by Kinshuk Sir",
+          "published_date": "20 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/0FyvNKwklDM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/m8lgWOsOb9ARRytNFu6viXYL9bdFF7ZqgC6Dgcgp.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 76 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35370b42-6c7c-43fb-af22-2192a82961a5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture- 33 || Current Affairs by Kinshuk Sir",
+          "published_date": "22 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/2uaF3BaPXKo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JP96QCtbs7RJUruRd9Vt4MmFcvmerqrRCrzpNZYU.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 33 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9af8c07-ce67-4b43-9735-f4fcededca29.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture- 34 || Current Affairs by Kinshuk Sir",
+          "published_date": "23 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/34plWMugS3I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HZVrkZBRvvNdoCCqvZMLGLfugfBEF96Z7TDuaIdp.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 34 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e497f1aa-3831-43bf-9114-1d48b9dc7950.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture- 35 || Current Affairs by Kinshuk Sir",
+          "published_date": "28 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/YIsQOeIRvhk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68ad0a4695248.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 35 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/351c96c8-4eee-438c-9d29-d0f3b2bd637c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture- 36 || Current Affairs by Kinshuk Sir",
+          "published_date": "29 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/zOa_DfhgxAY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68ad0a45d4128.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 36 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6d87fd83-dcde-407c-b2dd-4f5c4ad7b03e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture- 37 || Current Affairs by Kinshuk Sir",
+          "published_date": "30 Apr 2025",
+          "hd_video_url": "https://www.youtube.com/embed/cxKyrAGU_Y8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VG0ymXsZ2hK90JZqQMebwaE0zCfwOyjEnllv6Ioy.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 37 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa064389-9963-40fd-ad0f-3fd688acc9d2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture- 38 || Current Affairs by Kinshuk Sir",
+          "published_date": "01 May 2025",
+          "hd_video_url": "https://www.youtube.com/embed/dn4y68_FvcA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/EfWjIqwUKT43A8lTLwV54QMm0KCbcS5SKBC15fgJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 38 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecd9bfa5-a97d-4d57-98cc-cfa10b61b22b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture- 39 || Current Affairs by Kinshuk Sir",
+          "published_date": "10 Jun 2025",
+          "hd_video_url": "https://www.youtube.com/embed/eoxsZC7E7yc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vPKJWy3eUh5uFPyMTMg0YrK87lgPZs7dgNryxFsZ.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 39 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/39674d5b-b108-44c9-825e-630295cf1faa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 40 || Current Affairs by Kinshuk Sir",
+          "published_date": "12 Jun 2025",
+          "hd_video_url": "https://www.youtube.com/embed/KkQauhpqKKU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dyeMobXWkO1UQB1Z8SiAqrueBmDXvPXaTodgnkUS.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67f5b3f2-12e9-47d0-8d73-6584b3f43e5a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture- 41 || Current Affairs by Kinshuk Sir",
+          "published_date": "17 Jun 2025",
+          "hd_video_url": "https://www.youtube.com/embed/hMp_Z08Gf0o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BxMo9haECKM6YBKDi6WEc8QJb36SatWaX5P2INRx.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 41 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf41f1c4-7230-4f74-813a-9e57a49b66f0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture- 42 || Current Affairs by Kinshuk Sir",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/XZq-ATmvv_I",
+          "hd_video_url": "https://www.youtube.com/embed/XZq-ATmvv_I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AGNzaMJrFeTY3C4NnqgAEvUEOIJiBV9AvgM8EcKr.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 42 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d28264de-e609-40d7-a5e2-4f483a44ad6f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture- 43 || Current Affairs by Kinshuk Sir",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/HPHgDjgGm58",
+          "hd_video_url": "https://www.youtube.com/embed/HPHgDjgGm58",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qPjJLC0E1kV1dDae3ZC5rYl0D815kZEXBvgWpe4D.jpg",
+          "notes": [
+            {
+              "title": "Lecture- 43 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/380045c8-04f9-462b-87af-e6e502c34e6d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 44 || Current Affairs by Kinshuk Sir",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/nIGc5J_Oos4",
+          "hd_video_url": "https://www.youtube.com/embed/nIGc5J_Oos4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Ml75FdpnY9Ie984KD1hbLJRz7j3pKRBaO4l4myBB.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ee5e3b2-fb15-47d0-8451-965d0f041135.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 45 || Current Affairs by Kinshuk Sir",
+          "published_date": "08 Jul 2025",
+          "hd_video_url": "https://www.youtube.com/embed/v4QaYzi0Dho",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/daOTULKjmmOlC2syDNDsxvTGRrmSRYOJFDY75uJj.jpg",
+          "notes": [
+            {
+              "title": "Lecture 89 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51eb865f-d2de-41a3-be87-3a8026f90933.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 46 || Current Affairs by Kinshuk Sir (Last Class)",
+          "published_date": "31 Jul 2025",
+          "hd_video_url": "https://www.youtube.com/embed/DOhFDFKjnXk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/221vMwkSmdW87llNU28N8ddG3nkkODZg8o1OhiSj.jpg",
+          "notes": [
+            {
+              "title": "Lecture 90 || Current Affairs by Kinshuk Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bf2b61f-b96f-4656-845a-f314cda3e3cd.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

@@ -1,0 +1,6 @@
+# Ignore raw batch data - only keep viewer folders
+*/subject_details.json
+*/video_urls.txt
+*.m3u8
+node_modules/
+*.log

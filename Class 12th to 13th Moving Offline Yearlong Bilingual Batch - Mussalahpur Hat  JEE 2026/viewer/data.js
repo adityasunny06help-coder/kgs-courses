@@ -1,0 +1,5676 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Chemistry By Indrajeet Verma (JCIV Sir)",
+      "subject_id": 7207,
+      "video_count": 50,
+      "note_count": 50,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture -1 || Structure of Atom - 1",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/C8keJMzl7QA",
+          "hd_video_url": "https://www.youtube.com/embed/C8keJMzl7QA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nVACljR18PxRa1GxEx02qN0NdJcjPNwn1Rf5v3z9.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -1 Structure of Atom - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1571951-671c-4f60-8110-0452a2f88422.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture -2 || Structure of Atom - 2",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/h-U3omu-dIs",
+          "hd_video_url": "https://www.youtube.com/embed/h-U3omu-dIs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LUMLnK6uCc0VnV8y3OFhjsvgU45NxdStlIPhENwn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -2 Structure of Atom - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51c14de8-b278-4534-a67a-e5fbbec1e323.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture -3 || Structure of Atom - 3",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/0_UkN4obc6Q",
+          "hd_video_url": "https://www.youtube.com/embed/0_UkN4obc6Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9NyXVnGdGPSom3wzGp8ZclYdu9U5zsxsKD2toFN5.jpg",
+          "notes": [
+            {
+              "title": "Lecture -3 || Structure of Atom - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba8574a9-a8ba-4b6a-9e10-5d7096abbae8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 || Structure of Atom - 4",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/S6BpzE0xRZ0",
+          "hd_video_url": "https://www.youtube.com/embed/S6BpzE0xRZ0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aN5cuCyfS7Wn9jAKC973V9MMdXkNBrNkRRBFf496.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -4 Structure of Atom - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2bb67275-315f-4e03-8b11-79ec86c65f8d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || Structure of Atom - 5",
+          "published_date": "14 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/6WvDxN-DOrE",
+          "hd_video_url": "https://www.youtube.com/embed/6WvDxN-DOrE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zdywGlNKWE02CbReHpWrJOZXOtTXLB15fLIWQXGi.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 5 Structure of Atom - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8de439e-563a-46fb-9b59-07c4fe4fc08e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || Structure of Atom - 6",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/KMN4SOjlyBo",
+          "hd_video_url": "https://www.youtube.com/embed/KMN4SOjlyBo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gCJWWuORJ6ULo6gUO03SZHqvuPYC07l3OBF7Eb1q.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 6 Structure of Atom - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46529e2e-8b12-4e31-aeb6-99a3ca4b6249.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || Structure of Atom - 7",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/zcIAgsapiYQ",
+          "hd_video_url": "https://www.youtube.com/embed/zcIAgsapiYQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yRnx1qJzuEr0Y9obUqaqrfNa5pDdHZRN9rArQNEW.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 7 Structure of Atom - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f123032-d1e3-4bcf-9f91-b1d47a8d5a51.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || Structure of Atom - 8",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/CwlYE0A76dk",
+          "hd_video_url": "https://www.youtube.com/embed/CwlYE0A76dk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZSFgLKEonnvrqQZ3JJlegdMJsc2S3aYI2vNSaE1m.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 8 Structure of Atom - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db79607c-2ebe-4281-9927-92c2c366d021.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || Structure of Atom - 9",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/UZxLf_QvxNw",
+          "hd_video_url": "https://www.youtube.com/embed/UZxLf_QvxNw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GmF2ueOKmehulbHdZ80yLApWkmkF6WZ0QBW3ze9X.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 9 Structure of Atom - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ad54eab-c17c-4428-bada-9d42f55bd46b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Structure of Atom - 10",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/iYPRYMxsHQM",
+          "hd_video_url": "https://www.youtube.com/embed/iYPRYMxsHQM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dFec7j77Ui8iw9qWfDlwcAjpip3FyfzYu1JiYWPL.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 10 Structure of Atom - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8f01dc2-cad6-47ce-869f-df561e8d47d8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Structure of Atom - 11",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/YaVzVOSmX1E",
+          "hd_video_url": "https://www.youtube.com/embed/YaVzVOSmX1E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0BhqYhB1W0HBiMoPvPeRWwu0H0qL0DBRSM7JAPFs.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 11  Structure of Atom - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06f91988-2b4c-4845-b6fa-30450b9cc96a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture - 12 || Structure of Atom - 12 & Periodic Table - 1",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/cxHE63uWBB0",
+          "hd_video_url": "https://www.youtube.com/embed/cxHE63uWBB0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/T2Np5HNqljgh9VXxyqdcjw2hn5uFkXA8ogcDyt4f.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 12 Structure of Atom - 12 & Periodic Table - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f071bb3-47ad-4d53-aee6-cb408598c5c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 13 || Periodic Table - 2",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7vsUXE2EIzI",
+          "hd_video_url": "https://www.youtube.com/embed/7vsUXE2EIzI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZBJUsAmQqWeBngk4ILz3On3YjYLALC7vw8y6H11n.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 13 Periodic Table - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1aafcb44-26be-4ad4-b3a3-7b7393c60a46.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 14 || Periodic Table - 3",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7kpqn7Jx5ls",
+          "hd_video_url": "https://www.youtube.com/embed/7kpqn7Jx5ls",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eTHwuq1wmZKxUSmGChdIK1LwJmMe1wfeA83Vbpru.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 14 Periodic Table - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/560b1b28-acad-414f-9441-3332020512a4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 15 || Periodic Table - 4",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/TwW8E4Zid5w",
+          "hd_video_url": "https://www.youtube.com/embed/TwW8E4Zid5w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NDN8FEetGyRM6km2L7msm96Io4jbtikHiX3GbMnk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 15 Periodic Table - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76bd997e-2ee8-4cf7-ac5b-dca604abbc4d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 16 || Periodic Table - 5",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/y5r4pyCMP6c",
+          "hd_video_url": "https://www.youtube.com/embed/y5r4pyCMP6c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ujJ6NSKe3LM9OT9jCnbTjYSp1qBqWop5TZDSSLPM.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 16 Periodic Table - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd18ab6a-6477-4682-b4a5-f3a94e9bc2d8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 17 || Periodic Table - 6",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2wOD1vsqx1k",
+          "hd_video_url": "https://www.youtube.com/embed/2wOD1vsqx1k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rpoitlU0dRm0IBPmOlBPoDhGhX1VXUrtUxAkdZLB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 17 Periodic Table - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd3dfe34-3aed-4f42-96c7-5fbc51335c0b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 18 || Periodic Table - 7",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WSf6-hkXAq8",
+          "hd_video_url": "https://www.youtube.com/embed/WSf6-hkXAq8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HbaBNFjSTBfhPX520502PZugHwaLQRCR12zBrfDF.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 18 Periodic Table - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf0e7916-22dc-492a-99b6-2f17b9d26f49.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 19 || Periodic Table - 8",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/jyyfqZdB1FE",
+          "hd_video_url": "https://www.youtube.com/embed/jyyfqZdB1FE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eXmCBduvaZ6MJr75wTLOJeitO0X4wR0sRr5NZzk3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 19 Periodic Table - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ba1484e-7697-4a6e-8f6a-0c3169f6523d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 20 || Chemical Bonding-1",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/iKk9Op-kCGU",
+          "hd_video_url": "https://www.youtube.com/embed/iKk9Op-kCGU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lOUhtvzPjCcfTR1E9ErK9KrdcqenelEkVx3NFCWp.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 20 Chemical Bonding-1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2589c14-4edc-4fc4-bd00-4bccedc6a91d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 21 || Chemical Bonding - 2",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5nJMuuOzEN8",
+          "hd_video_url": "https://www.youtube.com/embed/5nJMuuOzEN8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j0ZGryMnkL2ll3gr2sAYMxqHdLotKuzIj9jZqSgy.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 21 Chemical Bonding-2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16a24189-d521-4e9a-8c11-bb914e0f74a6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 22 || Chemical Bonding-3",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Ab9tpRWs8dc",
+          "hd_video_url": "https://www.youtube.com/embed/Ab9tpRWs8dc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u6ythQ8SodJaD4C5Fn9a1Uf8xKqvcTiCu4zhuudp.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 22 Chemical Bonding-3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c02e2738-e08a-4263-bf62-b0a7927c97d8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture - 23 || Chemical Bonding- 4",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/X6zQ7GZvBw8",
+          "hd_video_url": "https://www.youtube.com/embed/X6zQ7GZvBw8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UwB7yP4GGY26lAVVT5V0ZZmBMRkTt1oxdBEvKY5P.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 24 Chemical Bonding- 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9af32690-782c-4a5f-bcde-7807125f938d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture - 24 || Chemical Bonding- 5",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Aui3C1Pp6Vo",
+          "hd_video_url": "https://www.youtube.com/embed/Aui3C1Pp6Vo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6GgGPndbr5WFYqcbxCIDmsIupPTxx4vBdxd39hME.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 25 Chemical Bonding- 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d5e4f08-2e54-4112-83f0-46e19f1fb62d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 25 || Chemical Bonding - 6",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ig4LX5anY0U",
+          "hd_video_url": "https://www.youtube.com/embed/ig4LX5anY0U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9hi8alwhoL6Wtk8lFz8YkjUvBNYEhVoZ2INOUsQg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 25 Chemical Bonding - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34645bcd-d921-4eaf-9565-482805b59b1a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 26 || Chemical Bonding - 7",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WVz-Pq0smt4",
+          "hd_video_url": "https://www.youtube.com/embed/WVz-Pq0smt4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D3zjhQmYOlaJOKZ3KNOmEWavQIwckietbwL9GQ2I.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 26 Chemical Bonding - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9c52a50e-49a9-40c2-9aef-bf14ce02a8c7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 27 || Chemical Bonding - 8",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/gm5n3fDtxaY",
+          "hd_video_url": "https://www.youtube.com/embed/gm5n3fDtxaY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1H4BSa6UiPmhzkVn3h0TOsSfDwUmZXnA9Wu6yxvo.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 27 Chemical Bonding - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f828e522-f718-436e-b93f-9f4f756cb2ca.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture - 28 || Chemical Bonding - 9",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/If8Uov5o9dg",
+          "hd_video_url": "https://www.youtube.com/embed/If8Uov5o9dg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cowMgCJSt845f1ZQqt9ikPKIi2S1UPpO5AfADanm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 28 Chemical Bonding - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e19ae095-559d-4d61-94c4-af97981eae20.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture - 29 || Chemical Bonding - 10",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ODIgLDVdRhc",
+          "hd_video_url": "https://www.youtube.com/embed/ODIgLDVdRhc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kAHyTIXE5mzJnzTJ6efaDhXaJ3VoZOzIpjJJT6vc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 29  Chemical Bonding - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/861a2613-da32-424c-8185-31d1b36a29f1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 30 || Chemical Bonding - 11",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/pn7fnHQ26rc",
+          "hd_video_url": "https://www.youtube.com/embed/pn7fnHQ26rc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2g55vGO7JzXfRrRNW2PQHny8ScOQfwv8H6S9SaiJ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 30 Chemical Bonding - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75d2eb5b-502b-4f39-ae06-de4ecaef330b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 31 || Chemical Bonding - 12",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/uf9RbDiY6Ck",
+          "hd_video_url": "https://www.youtube.com/embed/uf9RbDiY6Ck",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jzjLF4IyMOcqPvBOStKWxBod1YoSGumZtJs2W1EB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 31 Chemical Bonding - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d9807864-d271-483c-9959-15d2aaba8a43.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 32 || Chemical Bonding - 13",
+          "published_date": "19 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/1qF3lRMuMaA",
+          "hd_video_url": "https://www.youtube.com/embed/1qF3lRMuMaA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oRPDHo8vAIsjzjRhCxXdK7siZI2S0tmVKGlY7KTf.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 32 Chemical Bonding - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a408740-326a-43b0-8b74-917d24d415eb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 33 || Chemical Bonding - 14",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/-qteMuU-wIs",
+          "hd_video_url": "https://www.youtube.com/embed/-qteMuU-wIs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FperkQxPieE9gUkgFw4HgxROln8mLyHAWrMyJjwZ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 33 Chemical Bonding - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0d318af-ff12-4af1-a5e4-454f4db5d8e2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 34 || Chemical Bonding - 15",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/3gYp_Bp0s8s",
+          "hd_video_url": "https://www.youtube.com/embed/3gYp_Bp0s8s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/J9PrMEz28uPqOvpaaomnMTwl2hXrHwY6pkElt7Ri.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 34 Chemical Bonding - 15",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f45f8f69-ed1a-4a44-b4e5-aaa5dc32bec9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 35 || Chemical Bonding - 16",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/tBU3GEtYdDw",
+          "hd_video_url": "https://www.youtube.com/embed/tBU3GEtYdDw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/knqX2Pu6E5XfQhWEkGEpCHlWtcWcQRSApsnRitwk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 35 Chemical Bonding - 16",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/744829ea-9eaf-444a-83fb-95a09a4f0ebf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 36 || Chemical Bonding - 17",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://youtu.be/dQ69s8D25iM",
+          "hd_video_url": "https://youtu.be/dQ69s8D25iM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qhnFwrfdRBKVlsOZB1zMbDKAQ5JssxcuckbLddq6.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 36 Chemical Bonding - 17",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf83acab-f64b-49df-b8a8-8391d16f041e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 37 || Chemical Bonding - 18",
+          "published_date": "26 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/7s7PweQaNd8",
+          "hd_video_url": "https://www.youtube.com/embed/7s7PweQaNd8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7x0ZuGnsizOXl7YE3UU0oA71T2d0floTkziO6Kmm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 37 Chemical Bonding - 18",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4da70e6-072b-4ad9-b16b-966355299281.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 38 || Chemical Bonding - 19 & Coordination Compounds - 1",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/DxvnjfZ9Mcs",
+          "hd_video_url": "https://www.youtube.com/embed/DxvnjfZ9Mcs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N1VvTkG7RFj8dpNIGVoNFJSyMzsJqRVdGXiWWMPE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 38 Chemical Bonding - 19 & Coordination Compounds - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1b58e01-9f67-4900-a7cc-b6750d1fecef.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 39 || Coordination Compounds - 2",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/voKUPjYwmMc",
+          "hd_video_url": "https://www.youtube.com/embed/voKUPjYwmMc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QMRDPFHaSNP2blKvu2H1fcXSB8Djxu9xMPmT4tGM.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 39  Coordination Compounds - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c0dbf98-f23d-4f2f-a712-33d311091830.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 40 || Coordination Compounds - 3",
+          "published_date": "30 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/pRydK0QRIfo",
+          "hd_video_url": "https://www.youtube.com/embed/pRydK0QRIfo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gB22NrL5yl4nH0e9OUxJx3UYOldDbzCWJV83z1os.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 40 Coordination Compounds - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c46bdc65-b0d8-444c-9d46-763c11dd8c22.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 41 || Coordination Compounds - 4",
+          "published_date": "31 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/67ChdCC-WsM",
+          "hd_video_url": "https://www.youtube.com/embed/67ChdCC-WsM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wktYBO1SmSNA6N2jZE0kdrT7wrTBvo7h41Da05IU.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 41 Coordination Compounds - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/840f3775-fe5b-4b5d-9a49-4db01dce578f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 42 || Coordination Compounds - 5",
+          "published_date": "01 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/r0QqhXE6ZfA",
+          "hd_video_url": "https://www.youtube.com/embed/r0QqhXE6ZfA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/B4mqNIaJ1bdeU0qBClJHIgT9V3eQGak5p3khFsrZ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 42 Coordination Compounds - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba360554-9970-4524-b8ce-8f01bb6b1920.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 43 || Coordination Compounds - 6",
+          "published_date": "02 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/IC56ivkA00w",
+          "hd_video_url": "https://www.youtube.com/embed/IC56ivkA00w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/niveAC4q50FkYjx3fUhDxMuhcFpsdLXBHmS5NJI6.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 43 Coordination Compounds - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00c6abaa-af2b-4787-843c-6fe792616405.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 44 || Coordination Compounds - 7",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/02_-9qJImQs",
+          "hd_video_url": "https://www.youtube.com/embed/02_-9qJImQs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/a2Zb8EX8SQRDuNcJfCGFgHRXCJ4hL3SE1sgUFvFo.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 44 Coordination Compounds - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f193ffc-89e5-4a2f-8cda-7f36163b8fd6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 45 || Coordination Compounds - 8",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/VQyHtNwyJdA",
+          "hd_video_url": "https://www.youtube.com/embed/VQyHtNwyJdA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ogCUPRn6cZGhVg8MAsv8CXlZyDK6WDX4ESKOITlU.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 45 Coordination Compounds - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/881405d9-6d51-4c8c-9dcc-c5a67628f9e1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 46 || Coordination Compounds - 9",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Dg4Q26XgGAU",
+          "hd_video_url": "https://www.youtube.com/embed/Dg4Q26XgGAU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b1wRFY9UEupd4hSBkz0iIqUgFv33RX53f8JFXhvB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 46 Coordination Compounds - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de4098c1-06da-4ea3-a575-6929bfb2f22f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 47 || Coordination Compounds - 10",
+          "published_date": "11 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/VsNSNct91zI",
+          "hd_video_url": "https://www.youtube.com/embed/VsNSNct91zI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sKmCCxnKjVQ8vf6kwtV4E0FqkXdhqCeqkCFMwJdx.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 47 || Coordination Compounds - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35d9fd6b-c884-4274-aa32-5964a44d23f8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 48 || Coordination Compounds - 11",
+          "published_date": "12 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/DNcRxely3lM",
+          "hd_video_url": "https://www.youtube.com/embed/DNcRxely3lM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4r9Ol6ILvG6a7VEroX4olEyNWvDt4MrufwzcRrSc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 48 Coordination Compounds - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/039e478e-fdd8-438d-8365-5ec04e64644c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 49 || Coordination Compounds - 12",
+          "published_date": "13 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/RM54VBYIRPQ",
+          "hd_video_url": "https://www.youtube.com/embed/RM54VBYIRPQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PSuhCXgJIdPLmImXfOxwfcLvhp0eQjeDaQvex0t1.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 49 Coordination Compounds - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ca92d33-5cdd-40ae-959b-78f7bc81b778.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 50 || Coordination Compounds - 13",
+          "published_date": "14 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/r-Owlvweq2g",
+          "hd_video_url": "https://www.youtube.com/embed/r-Owlvweq2g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aYSUHi0h7wA1wfnS9fYpWzb1ZkClOWNG2fg397Zg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 50 Coordination Compounds - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bf0a3f0-fdd0-4e94-ae5e-476a3e65c60a.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Chemistry By Sumit Mehta Sir  (JCSM Sir)",
+      "subject_id": 6257,
+      "video_count": 95,
+      "note_count": 95,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture - 1 || General Organic Chemistry - 1",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/GU8fEH6Yjmw",
+          "hd_video_url": "https://www.youtube.com/embed/GU8fEH6Yjmw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VBmJNQjqoU2aO7IsI8cYNJN6a7DwrJCRlX040eAp.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 1 General Organic Chemistry & Isomerism",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff27a119-c19c-403b-b18b-3fb8377b1abe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture - 2 || General Organic Chemistry - 2",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/QD_XwhHbX5w",
+          "hd_video_url": "https://www.youtube.com/embed/QD_XwhHbX5w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DMfOmgu97Ff4wDj7ArbVPlkSnXMljEPKvhzq3WzW.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 2 General Organic Chemistry & Isomerism - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24481c00-580f-4dd2-8645-6ea0b9a76b4e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 3 || General Organic Chemistry  - 3",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/Lw0ZwdyHfCU",
+          "hd_video_url": "https://www.youtube.com/embed/Lw0ZwdyHfCU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3YLNLPiqrZZFg6mMQtJeGPMUmsEdpugMlVhCnjUY.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 3 General Organic Chemistry & Isomerism - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/430d2e84-5f89-4169-934c-3c8c52b68bf2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 || General Organic Chemistry - 4",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/bK3Ppx97bCk",
+          "hd_video_url": "https://www.youtube.com/embed/bK3Ppx97bCk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/O9VC3Ayt5eunhP38cU0goR2Acs6K5ctSx8aFRorX.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 4 General Organic Chemistry & Isomerism - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a62e8d1b-316f-48b6-8c18-34de5d3b3084.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || General Organic Chemistry  - 5",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/cW4iOAMMIQg",
+          "hd_video_url": "https://www.youtube.com/embed/cW4iOAMMIQg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/b2PdAiHVbMMX6y1DfuqT4aA8lLaHlNoDp8hoL4qa.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 5 General Organic Chemistry & Isomerism - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96928833-2b84-4d08-9b84-eed01f12e054.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || General Organic Chemistry - 6",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/HYTr99mg2NI",
+          "hd_video_url": "https://www.youtube.com/embed/HYTr99mg2NI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/1X6bPWSkX7m0MTMtpXU7FGhNxws0F2mGr9royTTb.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 6 General Organic Chemistry & Isomerism - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3460f48b-6f33-4eb4-94e4-ce55f80a9a0b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || General Organic Chemistry - 7",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/uvc4avJhAEw",
+          "hd_video_url": "https://www.youtube.com/embed/uvc4avJhAEw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SFGztC36KkhSbPVOQg6wzXfEQ3s6Gnd0bwM6LiYd.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 7  General Organic Chemistry & Isomerism - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c43f8f8-53a0-4247-8263-62df206a1d34.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || General Organic Chemistry  - 8",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/8LQ8lxNpKnU",
+          "hd_video_url": "https://www.youtube.com/embed/8LQ8lxNpKnU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dnqustR1f663FjJzyOwM7LQ8zQnMXDv2YYpqfCWj.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 8  General Organic Chemistry & Isomerism - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a38b76d-ec31-4f87-9062-96ddf7bc26be.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || General Organic Chemistry - 9",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/slwdBhZglWs",
+          "hd_video_url": "https://www.youtube.com/embed/slwdBhZglWs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3wELDgCts1pzs1EZAzGj6ilPiRe3cRzmjn8ZTyPU.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 9 General Organic Chemistry & Isomerism - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c532c34-5e4c-4de2-964a-f7199bfd36b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || General Organic Chemistry - 10",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/hW3QyN4KCyc",
+          "hd_video_url": "https://www.youtube.com/embed/hW3QyN4KCyc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jYf2DmTSBwQTFMMCDGKfpmp3TNOwJa5gfXM7eMrW.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 10 General Organic Chemistry & Isomerism - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a0556e7-c456-4347-b665-22e5a248f5e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || General Organic Chemistry - 11",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/s5lLgvQxkfo",
+          "hd_video_url": "https://www.youtube.com/embed/s5lLgvQxkfo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MEWQVIWigC5XWSmnnACuIYchAABe6G4CUJ5PuQ6t.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 11 General Organic Chemistry & Isomerism - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7045506f-dfb9-41e5-8808-e0d1160995d5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture - 12 || General Organic Chemistry - 12",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/Gd_WGefWgpQ",
+          "hd_video_url": "https://www.youtube.com/embed/Gd_WGefWgpQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/X4KIIMwJZe79EtO35cWqRPuWT1Lv94QtPk62WoMH.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 12 General Organic Chemistry & Isomerism - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cd862a0-1992-44cf-800b-0e045e9faa19.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 13 || General Organic Chemistry - 13",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/FfluVXUg8nw",
+          "hd_video_url": "https://www.youtube.com/embed/FfluVXUg8nw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qFLGncwaDQSD0uYYcbByrN1eddKSwNArGXwUc4E8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 13 General Organic Chemistry & Isomerism - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23ab1115-4897-4baf-9a3e-a6ee1b213c05.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 14 || General Organic Chemistry - 14",
+          "published_date": "10 May 2025",
+          "video_url": "https://www.youtube.com/embed/jbzxLWb__hg",
+          "hd_video_url": "https://www.youtube.com/embed/jbzxLWb__hg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/dOGLiBjKnbZF03I5KDKYU5CbPEodk6khpYaLHLH5.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 14  General Organic Chemistry - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c126b0d-bb65-4920-b05e-3e757e3133da.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 15 || IUPAC Nomenclature - 1",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/PwFwAx1TC10",
+          "hd_video_url": "https://www.youtube.com/embed/PwFwAx1TC10",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Wa0gXsxWL3BNQ7m10UsNGChn5sCQNJvikJmghgNi.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 15 IUPAC Nomenclature - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fa82758-2d08-4755-bc3a-62dcb025d581.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 16 || IUPAC Nomenclature - 2",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/Jr9LrA2CjFQ",
+          "hd_video_url": "https://www.youtube.com/embed/Jr9LrA2CjFQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/TgEcHB6CWcr3pEZQtxjKa7gfvbt2sSOGteAXcBjx.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 16 IUPAC Nomenclature - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b0f12917-9c65-4d37-83a6-1d575b3af7f9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 17 || IUPAC Nomenclature - 3",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/8QtRQk8GlRo",
+          "hd_video_url": "https://www.youtube.com/embed/8QtRQk8GlRo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/nrLq1WTrCUbojUPxZkXF4BrvRetVG9fJ8Nx9LLY9.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 17 IUPAC Nomenclature - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d20feb08-55bc-406d-b0c5-264485590481.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 18 || IUPAC Nomenclature - 4",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/z3pY4WlkMYo",
+          "hd_video_url": "https://www.youtube.com/embed/z3pY4WlkMYo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sSmcs8EiAHnr8QyU1GNJFpPE6NRLvV14L7Ffb109.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 18 IUPAC Nomenclature - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43c4ac79-9352-4f52-aee2-3b8236aba29f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 19 || Isomerism - 1",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/ejt1dTbodKA",
+          "hd_video_url": "https://www.youtube.com/embed/ejt1dTbodKA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/qWoTa2tbeVMwMDxJChYdnLYOszx3zJspxsLAhust.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 19 Isomerism - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/623e7b33-bd01-496f-9a65-81bc0b51c756.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 20 || Isomerism - 2",
+          "published_date": "17 May 2025",
+          "video_url": "https://www.youtube.com/embed/EZGSwuATc1o",
+          "hd_video_url": "https://www.youtube.com/embed/EZGSwuATc1o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KdMcYyvMR05O9wt9ywzMvmjUXeXGH5BnxGSEGkGc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 20 Isomerism - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/346141c8-5bb0-43cd-be98-8baacfb6061e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 21 || Isomerism - 3",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/gAm2M0nyTtE",
+          "hd_video_url": "https://www.youtube.com/embed/gAm2M0nyTtE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3Z80kSznDTPg9bBYASUqc0KBABgK7Rrsm2ptKDJF.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 21 Isomerism - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3925ad55-ffd7-4a92-a8ee-ef36545cc693.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 22 || Isomerism - 4",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/dntBvfw5a7k",
+          "hd_video_url": "https://www.youtube.com/embed/dntBvfw5a7k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eRCoRsl74VcRRO273aer76Q5xtTS6TfHMGTqG4BR.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 22  Isomerism - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8610d880-d5be-4ec7-96c0-8e60de3606dc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture - 23 || Isomerism - 5",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/98pvAUIhQ4Y",
+          "hd_video_url": "https://www.youtube.com/embed/98pvAUIhQ4Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ACXv7aAbXkzksRw6ZGo58HshH7rhRJnWjw4T5TIQ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 23 Isomerism - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22db6d3d-ee2e-4020-bd48-8d04674f5247.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture - 24 || Isomerism - 6",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/BMmkEkfw4i0",
+          "hd_video_url": "https://www.youtube.com/embed/BMmkEkfw4i0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/QaZz9EoxGjq6qNUrzOCrnKm8DKA18GZBs16QjiRT.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 24 Isomerism - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a39e91b4-0432-4d0d-bda4-c1e00ed51360.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 25 || Isomerism - 7",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/izFMh5geyx8",
+          "hd_video_url": "https://www.youtube.com/embed/izFMh5geyx8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KWyENKORwrv3SuWqsYszaEhS6xi2k8im5kAhcmL3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 25 Isomerism - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65f18221-6c27-4549-b4bc-fe10db311c39.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 26 || Isomerism - 8",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/K07fGAh6CEM",
+          "hd_video_url": "https://www.youtube.com/embed/K07fGAh6CEM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/napjcaoGBGif69soCV6GU6AtaeDmXCOpJK9nRs7R.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 26 Isomerism - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/359f3cdd-f0f0-4316-a7c3-d24165fabe62.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 27 || Isomerism - 9",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/CcMLERXcV34",
+          "hd_video_url": "https://www.youtube.com/embed/CcMLERXcV34",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6ODsqu452ugmQOqZanCF81SEayheXvcY3U248PNE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 27 Isomerism - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d24bc1c-7996-4a75-980d-6d3c49967ef9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture - 28 || Isomerism - 10",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/A2cbvUEdLJ8",
+          "hd_video_url": "https://www.youtube.com/embed/A2cbvUEdLJ8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/yViCxYYftSUOyLxkj7NEc6idkuNJHX61uZlVoc7n.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 28 Isomerism - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce309532-4964-47bc-a2b8-9bdd7daba888.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture - 29 || Isomerism - 11",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/cFn2UjjY6Xk",
+          "hd_video_url": "https://www.youtube.com/embed/cFn2UjjY6Xk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Vn7mbgGFGnGpcJuWrsyhgFEJbV3kOve6cYDzcCME.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 29 Isomerism - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e6c09d7-001a-42b8-a921-b4011a34ad7e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 30 || Isomerism - 12",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/hBDjRrbcXSk",
+          "hd_video_url": "https://www.youtube.com/embed/hBDjRrbcXSk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xuY4GJEBH5o2VwUGxAilmTNgx6WBVWPcXbbGiIN8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 30  Isomerism - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/646a44ae-304d-424c-8cfe-046b538c6e1f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 31 || Isomerism - 13",
+          "published_date": "31 May 2025",
+          "video_url": "https://www.youtube.com/embed/hPCJbKuBFMM",
+          "hd_video_url": "https://www.youtube.com/embed/hPCJbKuBFMM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vXKw3ccAdb91UPc9sfTV2a7UbSajI1tokyx8JGUm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 31 Isomerism - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/52628f49-97f0-49e1-875a-cefd1cbaee5c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 32 || Isomerism - 14",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/ESGCiU8vagw",
+          "hd_video_url": "https://www.youtube.com/embed/ESGCiU8vagw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CMKMBhZG5yFmYeVh0eCNajvJk2qcDPZCnzyHhkwN.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 32 Isomerism - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d859cb83-0f10-4ca3-b5de-9416c3793116.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 33 || Isomerism - 15 & Hydrocarbon -1",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/9PdpvWh0zzM",
+          "hd_video_url": "https://www.youtube.com/embed/9PdpvWh0zzM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DmTQRcOilnnrbzAATtR66j9AGnkZiItSHVl37Vyo.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 33 Isomerism - 15 & Hydrocarbon -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afacb167-682a-4873-a3a8-d1ec4423fb01.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 34 || Hydrocarbon -2",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/XjJEU3lN8lk",
+          "hd_video_url": "https://www.youtube.com/embed/XjJEU3lN8lk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/K9oMVx5qUsVjLHiOa4xzKXErfgSYO18ULZFqRDqc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 34  Hydrocarbon -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4408d8f7-07eb-4bb7-bec5-9658fd0d72e1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 35 || Hydrocarbon - 3",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/jWjzAtjn5gI",
+          "hd_video_url": "https://www.youtube.com/embed/jWjzAtjn5gI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OVyMX5VIRQqAvNFFddDs1dqDaufmLCZX4e5jVMa3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 35 Hydrocarbon - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01f9f7bc-ef2c-496d-8faf-373a4ceb01b0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 36 || Hydrocarbon - 4",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/qiGMoN0iZ2A",
+          "hd_video_url": "https://www.youtube.com/embed/qiGMoN0iZ2A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YDfKsn4dQZLhg9FbryyXeZV8a6KvIVhvodjEYuAC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 36 Hydrocarbon - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b3683d5-cb00-4af3-b843-752d7c14788b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 37 || Hydrocarbon - 5",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/4p1PQCBVr6g",
+          "hd_video_url": "https://www.youtube.com/embed/4p1PQCBVr6g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uzZ6mJn9r6SDvJIAftbOFtWPenuYKOgpKTpl7k0z.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 37 Hydrocarbon - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c708f180-25a8-4324-bc1d-483347d1065c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 38 || Hydrocarbon - 6",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/KHr3IMQeIAY",
+          "hd_video_url": "https://www.youtube.com/embed/KHr3IMQeIAY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EBv4f6EyV1WNwMGZyroGHk2lBdbDay6WCo702JSZ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 38 Hydrocarbon - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74f86e51-53ff-40f3-9cd0-3d654c0cdcd5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 39 || Hydrocarbon - 7",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JTVnZtfFxkQ",
+          "hd_video_url": "https://www.youtube.com/embed/JTVnZtfFxkQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VbXDIy7p1UMQMhK2VHvg7GtGdCYziWyd9Tf90nCw.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 39 || Hydrocarbon - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87b08b75-c7a1-43c7-b9f5-8963b72c7f55.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 40 || Hydrocarbon - 8",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/J27fkfoDa1M",
+          "hd_video_url": "https://www.youtube.com/embed/J27fkfoDa1M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lvzV8n5r9cAuPmETwbNQLoP4dEFbTTWum80vMtuD.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 40 Hydrocarbon - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/783d97a7-8386-40f9-aa2e-ca0835fa4d2f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 41 || Hydrocarbon - 9",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/pB6yO3UF1oQ",
+          "hd_video_url": "https://www.youtube.com/embed/pB6yO3UF1oQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZXoSBfEkmAImVDgbov1p40lXfNaIFBnXIwdfdXCq.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 41 Hydrocarbon - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6eb5e2ab-69da-479e-a1ff-0ea61b5ca4f3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 42 || Hydrocarbon - 10",
+          "published_date": "14 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vXc0774USEc",
+          "hd_video_url": "https://www.youtube.com/embed/vXc0774USEc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F53z5YgSFie25eKEHzzBd2jAsnIxeI3sJkLzsTHV.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 42 Hydrocarbon - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90ad9381-5820-461c-b9da-c25437a4ee2f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 43 || Hydrocarbon - 11",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/rxYJjQt4KSE",
+          "hd_video_url": "https://www.youtube.com/embed/rxYJjQt4KSE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7srOMLJ9h1ahSKHYaygGS94pSaLS4K8vJC1eDZ63.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 43 Hydrocarbon - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f90e0c05-f68f-48ed-92cb-e5ec5e968a46.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 44 || Hydrocarbon - 12",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/qkXwjkwILh0",
+          "hd_video_url": "https://www.youtube.com/embed/qkXwjkwILh0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/V4s2y8mpsiRAJzcH79CcehEZTKjRHDKWkrNSQcrT.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 44 Hydrocarbon - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ef665e6-0262-436f-ad6e-5ff851ed5fd3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 45 || Hydrocarbon - 13",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/kjK8WeNmXDc",
+          "hd_video_url": "https://www.youtube.com/embed/kjK8WeNmXDc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PPTsgyoye7UTfNRjZRKI3WCIy2dfXl16pgMWDiKu.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 45 Hydrocarbon - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0224555a-2cfc-47c9-8128-713743c64b7d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 46 || Hydrocarbon - 14",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JLahwM8GV_A",
+          "hd_video_url": "https://www.youtube.com/embed/JLahwM8GV_A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wHTy9F6HrxNUckrVKxtDn5M92NVBhYWLaqcKR3Cn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 46 Hydrocarbon - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bd12fbb-fc18-41fb-b475-625eef350a5f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 47 || Haloalkanes and Haloarenes - 1",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JYAnBvmf9-0",
+          "hd_video_url": "https://www.youtube.com/embed/JYAnBvmf9-0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cfe60OxxIL5jW4GNQ9LafOa57AFxRhrvyYaGT4j1.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 47 Haloalkanes and Haloarenes - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a8a82b9-7bff-433d-88fb-52a5be93df6c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 48 || Haloalkanes and Haloarenes - 2",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/oQmp7jimGks",
+          "hd_video_url": "https://www.youtube.com/embed/oQmp7jimGks",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zztDtFvxR2Wa6oxC4nAFsxKgKCGgMm7Vt11kQZrc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 48 Haloalkanes and Haloarenes - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e543af51-2746-4ed0-b877-1b7b26bff7b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 49 || Haloalkanes and Haloarenes - 3",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/NSpHaBDEwpc",
+          "hd_video_url": "https://www.youtube.com/embed/NSpHaBDEwpc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LbYFltOSnMphfc8BDoErKlavhUYYOd0uG9QnN5mD.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 49  Haloalkanes and Haloarenes - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a52b5945-92aa-43bf-b140-b63d5fc19e12.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 50 || Haloalkanes and Haloarenes - 4",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/j3J8yvFXt3Y",
+          "hd_video_url": "https://www.youtube.com/embed/j3J8yvFXt3Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YL3itilsLyTx0zTUvTEG5MZYdDnLFljQgWUp1yG6.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 50 Haloalkanes and Haloarenes - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69b1d713-fb8b-4671-aa63-6906337a0966.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture - 51 || Haloalkanes and Haloarenes - 5",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/tbi6HaYwc1E",
+          "hd_video_url": "https://www.youtube.com/embed/tbi6HaYwc1E",
+          "thumbnail": null,
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 51 Haloalkanes and Haloarenes - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/438de87b-7708-4749-a767-2137c3364ec3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture - 52 || Haloalkanes and Haloarenes - 6",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/HgNFh_9P1EU",
+          "hd_video_url": "https://www.youtube.com/embed/HgNFh_9P1EU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ydyfwsAXB1KBUev3Ep2lU3UrpKtJ4DDfvKXNrrsd.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 52 Haloalkanes and Haloarenes - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8757ea25-d7ba-4e63-bb1d-308d8b36624f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture - 53 || Haloalkanes and Haloarenes - 7",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/lIE4gsnDU28",
+          "hd_video_url": "https://www.youtube.com/embed/lIE4gsnDU28",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RpWBMLTehiFNQE81y8lsXQghiCfaIUPp79NWdSLK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 53 Haloalkanes and Haloarenes - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/927000fc-1fc7-49be-8993-1044793443aa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture - 54 || Haloalkanes and Haloarenes - 8",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/34Kg47oNWa0",
+          "hd_video_url": "https://www.youtube.com/embed/34Kg47oNWa0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LkbyITyxYUUpezdKmJwieUCrlFvOX1EIolf8F3lY.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 54 Haloalkanes and Haloarenes - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff182182-dfab-49e0-920c-8697c645f3e7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture - 55 || Haloalkanes and Haloarenes - 9",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WTgVMy7noII",
+          "hd_video_url": "https://www.youtube.com/embed/WTgVMy7noII",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IvRHVKmKnzQ89OUWJbRO8YCbmFF9Ot3ixO0ybS2j.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 55  Haloalkanes and Haloarenes - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d09f8999-cc69-4623-93a3-0a96465c05c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture - 56 || Haloalkanes and Haloarenes - 10",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/2X9Jep5R_2o",
+          "hd_video_url": "https://www.youtube.com/embed/2X9Jep5R_2o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wIYFasosi3EL4YWJ9yeCX3jzPyAf8sPAj5GELu5X.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 56 Haloalkanes and Haloarenes - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1135ea2-d583-45be-8f8f-2a02f3c0befd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture - 57 || Alcohols, Phenols and Ethers- 1",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/rBpyIBz0VuY",
+          "hd_video_url": "https://www.youtube.com/embed/rBpyIBz0VuY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dlDfHeVcWR6rqNZ5eeV6rcmA0ufg0EcS59447ups.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 57 Alcohols, Phenols and Ethers- 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70980c9c-6711-4af4-a96a-0e488290aef9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture - 58 || Alcohols, Phenols and Ethers - 2",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kDZzcxERhCA",
+          "hd_video_url": "https://www.youtube.com/embed/kDZzcxERhCA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Qwit5baNmVa4aKxGohgsoFrff8sanX4UTT9rXwNA.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 58  Alcohols, Phenols and Ethers - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cbc94680-63a3-4cc3-ae97-9a44c2a4a20d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture - 59 || Alcohols, Phenols and Ethers - 3",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GkkbB20KsW8",
+          "hd_video_url": "https://www.youtube.com/embed/GkkbB20KsW8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xflJw6LI64AZyhazM8KSjQS5EL9F2XViHC1zdfpg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 59 Alcohols, Phenols and Ethers - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0379907b-bba4-439f-b329-128174dea17d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture - 60 || Alcohols, Phenols and Ethers - 4",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/X36x0RI_K7k",
+          "hd_video_url": "https://www.youtube.com/embed/X36x0RI_K7k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9IGBdgTxE9OGtDgwzOQMQzVjP1YFYipamK5WQIIU.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 60 Alcohols, Phenols and Ethers - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c4434d2-436c-4258-bb10-70c07d4984c5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture - 61 || Alcohols, Phenols and Ethers - 5",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/SnfGWGUzSvU",
+          "hd_video_url": "https://www.youtube.com/embed/SnfGWGUzSvU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ejbrIPZ4AISS9jVrFsuYJyTAqMxDgtJGAYP7Cwts.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 61 Alcohols, Phenols and Ethers - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/996446ef-a093-4ecc-9f12-b10f20a8f44f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture - 62 || Alcohols, Phenols and Ethers - 6",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GTxsY2RpxO4",
+          "hd_video_url": "https://www.youtube.com/embed/GTxsY2RpxO4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/03lwUt45wdzDuERr2HUKRv0BMJBvyUt0tM7ML3oe.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 62  Alcohols, Phenols and Ethers - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c494b191-b1f7-4d7b-99f8-bdce96f6c6c0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture - 63 || Alcohols, Phenols and Ethers - 7",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/cFG1UL9P3yU",
+          "hd_video_url": "https://www.youtube.com/embed/cFG1UL9P3yU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KBRHFmsrmi1NgrmzRKoxEfUUDuAbUlHPvDrkI0gX.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 63 Alcohols, Phenols and Ethers - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d6e52b8-30b5-4fef-b045-f9f26ce44f6f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture - 64 || Alcohols, Phenols and Ethers - 8",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Lz7tU6IKBZs",
+          "hd_video_url": "https://www.youtube.com/embed/Lz7tU6IKBZs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/na0ZAGiZZm9XSwEXhi6FpxtmjE61LNZ4Ixhy2rPl.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 64  Alcohols, Phenols and Ethers - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fe9a5e4-62e9-4c8c-b81c-3d7bcc20bfe7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture - 65 || Alcohols, Phenols and Ethers - 9",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ahFMapmsZTo",
+          "hd_video_url": "https://www.youtube.com/embed/ahFMapmsZTo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IGz2ET0fwl6BtUNblVWkGIhjfignyrntT9Bs0ElX.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 65  Alcohols, Phenols and Ethers - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5835783a-20d7-4bf7-a3b0-2689728550b5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture - 66 || Aldehyde, Ketone, Carboxylic Acid -1",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/D3F8Hc3LMOs",
+          "hd_video_url": "https://www.youtube.com/embed/D3F8Hc3LMOs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XdYqsxySSLP76srNV9FchlTwWNKllL7sls9kCfq4.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 66 Aldehyde, Ketone, Carboxylic Acid - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d129971-818f-4d7f-aa42-3e05708761d1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture - 67 || Aldehyde, Ketone, Carboxylic Acid -2",
+          "published_date": "22 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/J3VejhuPZ2E",
+          "hd_video_url": "https://www.youtube.com/embed/J3VejhuPZ2E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SOQZNIUs1ximvg8kMgVpr8cPhOQFG4dylS6qEyfE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 67 Aldehyde, Ketone, Carboxylic Acid -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c756642a-e3c4-4fc4-b717-3e0ac9e1a234.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture - 68 || Aldehyde, Ketone, Carboxylic Acid -3",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/0PnIi5m5IWA",
+          "hd_video_url": "https://www.youtube.com/embed/0PnIi5m5IWA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/js8MHZO188bHEL0kV2omeywYifxhTkg48Dzhpe6m.jpg",
+          "notes": [
+            {
+              "title": "Class Note Lecture - 68 Aldehyde, Ketone, Carboxylic Acid -3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35556031-3186-4665-9eaa-051a74c1d521.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture - 69 || Aldehyde, Ketone, Carboxylic Acid - 4",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/zvTWVvDOc1M",
+          "hd_video_url": "https://www.youtube.com/embed/zvTWVvDOc1M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y53saqIlc5EWrfoM1W7Sv9WCj3x719rToDUgDYkC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 69 Aldehyde, Ketone, Carboxylic Acid - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25f18827-e7b6-49da-add5-ea4a20b35f5d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture - 70 || Aldehyde, Ketone, Carboxylic Acid - 5",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/q-abOJXhDog",
+          "hd_video_url": "https://www.youtube.com/embed/q-abOJXhDog",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xlIH9DLPch2JuqEbxE6CW8ZDVwU0EiTC1cagJr5u.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 70 Aldehyde, Ketone, Carboxylic Acid - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef35dd7e-0e87-4094-941e-ff7610be351e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture - 71 || Aldehyde, Ketone, Carboxylic Acid - 6",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/K-00IijzM7o",
+          "hd_video_url": "https://www.youtube.com/embed/K-00IijzM7o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KcKTywhJfuP2gEDhuEMsjItUSxJtyHh0MudzD7cP.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 71  Aldehyde, Ketone, Carboxylic Acid - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91a4518b-b6e3-408f-b7cc-5c3256f0bbc1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 72,
+          "title": "Lecture - 72 || Aldehyde, Ketone, Carboxylic Acid - 7",
+          "published_date": "26 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/wOeTk6rJGuM",
+          "hd_video_url": "https://www.youtube.com/embed/wOeTk6rJGuM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/80FzWD1KeAQg7jJsCb2xq6AfGyEmoewd44cPu0ao.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 72 || Aldehyde, Ketone, Carboxylic Acid - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05ad7258-5abf-4d1c-9be1-623fa2fc09d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture - 73 || Aldehyde, Ketone, Carboxylic Acid - 8",
+          "published_date": "26 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/p0nHoPGldx8",
+          "hd_video_url": "https://www.youtube.com/embed/p0nHoPGldx8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OAFck5pG46OZDvtrTdjYh37xbwttesRJ05NHrf6K.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 73 Aldehyde, Ketone, Carboxylic Acid - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b8f1be2-a00d-4159-a7c6-c88f2f869385.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 74,
+          "title": "Lecture - 74 || Aldehyde, Ketone, Carboxylic Acid - 9",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/iPPzqtRv3Co",
+          "hd_video_url": "https://www.youtube.com/embed/iPPzqtRv3Co",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hdkqlufvSilfu0IKPaSZ5u1pJKrWvOVjl0dD0g1y.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 74  Aldehyde, Ketone, Carboxylic Acid - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e44078e8-bf11-416e-8044-25a7eb7abf72.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 75,
+          "title": "Lecture - 75 || Aldehyde, Ketone, Carboxylic Acid - 10",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/J2KnULnrMOQ",
+          "hd_video_url": "https://www.youtube.com/embed/J2KnULnrMOQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dUTtyc4bQOHaSFih1phDfxEUCzaHuapW0YWEBTGv.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 75 Aldehyde, Ketone, Carboxylic Acid - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7b344d7-05e3-4181-af9d-21f57578351d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 76,
+          "title": "Lecture - 76 || Aldehyde, Ketone, Carboxylic Acid - 11",
+          "published_date": "30 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Cn11o2QGJmw",
+          "hd_video_url": "https://www.youtube.com/embed/Cn11o2QGJmw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5f2KxvvOnHAtUajFUOeZMGLpBOOBFcku6SkFetTK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 76 Aldehyde, Ketone, Carboxylic Acid - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de84ffcb-9d70-4988-8ebd-75ffb13141e8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 77,
+          "title": "Lecture - 77 || Amines -1",
+          "published_date": "31 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/6CDKReio2vE",
+          "hd_video_url": "https://www.youtube.com/embed/6CDKReio2vE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/smCLGfYc6XOgr0zmtN2YeQgvKAhv3RFEN7c0Z3Vm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 77 Aldehyde, Ketone, Carboxylic Acid - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8b92d7e-b033-4b2b-aaf6-7ac80d4a7e37.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 78,
+          "title": "Lecture - 78 || Amines - 2",
+          "published_date": "01 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/M4q-dR1CaUc",
+          "hd_video_url": "https://www.youtube.com/embed/M4q-dR1CaUc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6V3DjYcc0NWfkpglP0V95RSj2LCzt9xAkWOm6mLq.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 78 || Aldehyde, Ketone, Carboxylic Acid - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3c99276-d5bb-447b-b218-c8f24c5376dc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 79,
+          "title": "Lecture - 79 || Amines - 3 & Biomolecules - 1",
+          "published_date": "02 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/UVN_emZTHtE",
+          "hd_video_url": "https://www.youtube.com/embed/UVN_emZTHtE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8E4S3KgQngpjw5gq7z0ajVxJ1CZ76bC2JEU2sa5h.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 79 Amines - 3 & Biomolecules - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eca6601f-fac0-4739-8682-54fc6709aedd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 80,
+          "title": "Lecture - 80 || Biomolecules - 2",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/NkwnWJVILsk",
+          "hd_video_url": "https://www.youtube.com/embed/NkwnWJVILsk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4xaikb7xfro46JQEGwoymvhy79cbpPU07nhL9NcG.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 80 Biomolecules - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4fb02fe-8dad-451f-975f-740e4141cc46.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 81,
+          "title": "Lecture - 81 || Biomolecules - 3",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/-qMWoQ5s3mE",
+          "hd_video_url": "https://www.youtube.com/embed/-qMWoQ5s3mE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uhUXrrcWHPQNvfNJTGKeVNs6GZu1Cn1FshpJkqQr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 81  Biomolecules - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c567e0e8-670b-48bc-aece-ed0424170ce4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 82,
+          "title": "Lecture - 82 || Biomolecules - 4",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/kScyjbLPLh8",
+          "hd_video_url": "https://www.youtube.com/embed/kScyjbLPLh8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Es9K19Ve1sGtTag2EPZWEmRFiuKw2wpWBEcWFOgQ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 82 Biomolecules - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bf6df0b-3901-42f3-8506-5c0b60a6fec7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 83,
+          "title": "Lecture - 83 || Biomolecules - 5",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/l7-kK-goI0A",
+          "hd_video_url": "https://www.youtube.com/embed/l7-kK-goI0A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pJHnjVmcS6Bv38etSDcKfe1Q7zgZwBWkNU9Doo8f.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 83 Biomolecules - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3141ed24-4c02-4405-8b0d-8bf86104c84c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 84,
+          "title": "Lecture - 84 || Biomolecules - 6",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/D83hZ1cui68",
+          "hd_video_url": "https://www.youtube.com/embed/D83hZ1cui68",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/T9MLPdsRjQoNks4TZLg2Dg5rxxAueNlFWl1jPOOX.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 84 || Biomolecules - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee98057c-5a05-4c99-bcb3-78c03afd62e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 85,
+          "title": "Lecture - 85 || Biomolecules - 7",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/0KDi_pF1bdU",
+          "hd_video_url": "https://www.youtube.com/embed/0KDi_pF1bdU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uCo0oTdh24Ufsyu36vGoe7GbEZE0poW2HHlmt3lT.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 85 Biomolecules - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/605a746c-4a26-4d82-b5ce-f9fa22a0c08b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 86,
+          "title": "Lecture - 86 || Some Basic Concept of Chemistry - 1",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/xipUEDaWN-E",
+          "hd_video_url": "https://www.youtube.com/embed/xipUEDaWN-E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Mi7SQuYr2f7CKQcYBLfboCsc2y9LqbrNKKL35SzN.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 86 Some Basic Concept of Chemistry - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/920de1cc-79dd-4bd3-b573-01af43724208.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 87,
+          "title": "Lecture - 87 || Some Basic Concept of Chemistry - 2",
+          "published_date": "19 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/fgH4NMgy7NE",
+          "hd_video_url": "https://www.youtube.com/embed/fgH4NMgy7NE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/glJImmclKH5M5H0sX2GVeYOpQNIPKIbedBgUDhVG.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 87 || Some Basic Concept of Chemistry - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c34933d1-9215-4fe5-aecc-3b9565b754d5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 88,
+          "title": "Lecture - 88 || Some Basic Concept of Chemistry - 3",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/xyuPDxATUOM",
+          "hd_video_url": "https://www.youtube.com/embed/xyuPDxATUOM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sFTrmD78BMH94wfDTFi9PBeM8aPG2jPYIefTpR7x.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 88 Some Basic Concept of Chemistry - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb558461-047c-4adf-bc88-aea86189af71.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 89,
+          "title": "Lecture - 89 || Some Basic Concept of Chemistry - 4",
+          "published_date": "21 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/gWpYRBgvpBw",
+          "hd_video_url": "https://www.youtube.com/embed/gWpYRBgvpBw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6LwmxSzrqFYed4nkP50lGCp3DEIcdE3V9towuiUk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 89 Some Basic Concept of Chemistry - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96877221-b973-464e-b7a0-9fbd388a2651.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 90,
+          "title": "Lecture - 90 || Some Basic Concept of Chemistry - 5",
+          "published_date": "22 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/4XUmQOYbmvA",
+          "hd_video_url": "https://www.youtube.com/embed/4XUmQOYbmvA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aUZIMkyNN1qJ9qwIFdM3GSMYqy529pIPyRt8FfJk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 90  Some Basic Concept of Chemistry - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9fa11152-8c11-4700-a8e6-f9976a458adf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 91,
+          "title": "Lecture - 91 || Some Basic Concept of Chemistry - 6",
+          "published_date": "23 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/XjZGcpRSVX8",
+          "hd_video_url": "https://www.youtube.com/embed/XjZGcpRSVX8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RBiBw1fAWuy1rtRrVNYlfw4cLC7FQiqIWEy2Gsh8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 91 Some Basic Concept of Chemistry - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4ab9563-b475-4ff8-ab75-7435e19eeed2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 92,
+          "title": "Lecture - 92 || Some Basic Concept of Chemistry - 7",
+          "published_date": "24 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/SEpPBLVyHx4",
+          "hd_video_url": "https://www.youtube.com/embed/SEpPBLVyHx4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RH1IygU4TaFOC3RMPzAdw8WIE1rKMJwvyJm8zRwm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 92 || Some Basic Concept of Chemistry - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ef037f8-4fa0-4dae-9ce5-e577a808ba3b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 93,
+          "title": "Lecture - 93 || Some Basic Concept of Chemistry - 8",
+          "published_date": "25 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/SNtdUibng7w",
+          "hd_video_url": "https://www.youtube.com/embed/SNtdUibng7w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u2WT1rz0vC2xMK7UQEc5wzKQbRt62aHgeoKbrZGB.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 93 || Some Basic Concept of Chemistry - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c0c5813-10c5-47fb-9973-6152529f1e49.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 94,
+          "title": "Lecture - 94 || Some Basic Concept of Chemistry - 9",
+          "published_date": "26 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/--uQAhsVT1Q",
+          "hd_video_url": "https://www.youtube.com/embed/--uQAhsVT1Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vwYWetBtZVjlB3YAbWSvJpyoZmYzJQuPrQx6gfkW.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 94 || Some Basic Concept of Chemistry - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d27da6a-f76c-4c07-9d07-138ad64fae67.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 95,
+          "title": "Lecture - 95 || Some Basic Concept of Chemistry - 10",
+          "published_date": "27 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/X2Ar3q6HTTE",
+          "hd_video_url": "https://www.youtube.com/embed/X2Ar3q6HTTE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AICGLPNPh7pXENdecDcTe6TnqfuEBmEZNtb3p9t8.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 95 || Some Basic Concept of Chemistry - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f73121d1-1e1f-4bbc-9c44-446d6cd874d4.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Chemistry Supporting Material",
+      "subject_id": 7724,
+      "video_count": 46,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Coordination Compounds (Practice Section) Part 4 - Video Solution - 35",
+          "published_date": null,
+          "video_url": "https://www.youtube.com/embed/icmBqiudQI8",
+          "hd_video_url": "https://www.youtube.com/embed/icmBqiudQI8",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "General Organic Chemistry I (Practice Section) Part 1 - Video Solution - 1",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/YkG7LqdkbfA",
+          "hd_video_url": "https://www.youtube.com/embed/YkG7LqdkbfA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "General Organic Chemistry I (Practice Section) Part 2 - Video Solution - 2",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/q2VZOD4aGJc",
+          "hd_video_url": "https://www.youtube.com/embed/q2VZOD4aGJc",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "General Organic Chemistry I (Practice Section) Part 3 - Video Solution - 3",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/sP0CGCRwANI",
+          "hd_video_url": "https://www.youtube.com/embed/sP0CGCRwANI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 5,
+          "title": "General Organic Chemistry I (Practice Section) Part 4 - Video Solution - 4",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/3IG-r1i6Pps",
+          "hd_video_url": "https://www.youtube.com/embed/3IG-r1i6Pps",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 6,
+          "title": "General Organic Chemistry II (Practice Section) Part 1 - Video Solution - 5",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/bRx91xKhUIc",
+          "hd_video_url": "https://www.youtube.com/embed/bRx91xKhUIc",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 7,
+          "title": "General Organic Chemistry II (Practice Section) Part 2 - Video Solution - 6",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/RbI1mabeRpI",
+          "hd_video_url": "https://www.youtube.com/embed/RbI1mabeRpI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 8,
+          "title": "General Organic Chemistry II (Practice Section) Part 3 - Video Solution - 7",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mLRuDhtYqFM",
+          "hd_video_url": "https://www.youtube.com/embed/mLRuDhtYqFM",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 9,
+          "title": "Isomerism (Practice Section)  Part 1 - Video Solution - 8",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FFngJJdyK8s",
+          "hd_video_url": "https://www.youtube.com/embed/FFngJJdyK8s",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "Isomerism (Practice Section)  Part 2 - Video Solution - 9",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/u0wzJj_BL-4",
+          "hd_video_url": "https://www.youtube.com/embed/u0wzJj_BL-4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 11,
+          "title": "Isomerism (Practice Section) Part 3 - Video Solution - 10",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FqCQ1-sKtN4",
+          "hd_video_url": "https://www.youtube.com/embed/FqCQ1-sKtN4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 12,
+          "title": "IUPAC Nomenclature (Practice Section) Part 1 - Video Solution - 11",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Xp4bSHuodnU",
+          "hd_video_url": "https://www.youtube.com/embed/Xp4bSHuodnU",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "IUPAC Nomenclature (Practice Section) Part 2 - Video Solution - 12",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/v_xRjAxNxq0",
+          "hd_video_url": "https://www.youtube.com/embed/v_xRjAxNxq0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "Hydrocarbon (Practice Section) Part 1 - Video Solution - 13",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/NqSPTMdgxwY",
+          "hd_video_url": "https://www.youtube.com/embed/NqSPTMdgxwY",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 15,
+          "title": "Hydrocarbon (Practice Section) Part 2 - Video Solution - 14",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/tyRcHw_OOjA",
+          "hd_video_url": "https://www.youtube.com/embed/tyRcHw_OOjA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 16,
+          "title": "Hydrocarbon (Practice Section) Part 3 - Video Solution - 15",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/jtLXE8O68Ew",
+          "hd_video_url": "https://www.youtube.com/embed/jtLXE8O68Ew",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 17,
+          "title": "Structure of Atom (Practice Section) Part 1 - Video Solution - 16",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/YLrEnn784lA",
+          "hd_video_url": "https://www.youtube.com/embed/YLrEnn784lA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 18,
+          "title": "Structure of Atom (Practice Section) Part 2 - Video Solution - 17",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/103nU6p9lhA",
+          "hd_video_url": "https://www.youtube.com/embed/103nU6p9lhA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 19,
+          "title": "Structure of Atom (Practice Section) Part 3 - Video Solution - 18",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/eXCRcMelLOQ",
+          "hd_video_url": "https://www.youtube.com/embed/eXCRcMelLOQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 20,
+          "title": "Structure of Atom (Practice Section) Part 4 - Video Solution - 19",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/PW5pG64Ebi0",
+          "hd_video_url": "https://www.youtube.com/embed/PW5pG64Ebi0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 21,
+          "title": "Haloalkanes and Haloarenes (Practice Section) Part 1 - Video Solution - 20",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/bcDmFZhhZ7I",
+          "hd_video_url": "https://www.youtube.com/embed/bcDmFZhhZ7I",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 22,
+          "title": "Haloalkanes and Haloarenes (Practice Section) Part 2 - Video Solution - 21",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ZEH-SjpQLB4",
+          "hd_video_url": "https://www.youtube.com/embed/ZEH-SjpQLB4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 23,
+          "title": "Periodic Table  (Practice Section) Part 1 - Video Solution - 22",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/tGI_rKPHhi0",
+          "hd_video_url": "https://www.youtube.com/embed/tGI_rKPHhi0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 24,
+          "title": "Periodic Table  (Practice Section) Part 2 - Video Solution - 23",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/9RXy7iG8Q2g",
+          "hd_video_url": "https://www.youtube.com/embed/9RXy7iG8Q2g",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 25,
+          "title": "Periodic Table (Practice Section) Part 3 - Video Solution - 24",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/zIAUyCQXTUQ",
+          "hd_video_url": "https://www.youtube.com/embed/zIAUyCQXTUQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 26,
+          "title": "Periodic Table (Practice Section) Part 4 - Video Solution - 25",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/cEUGywVc3Lk",
+          "hd_video_url": "https://www.youtube.com/embed/cEUGywVc3Lk",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 27,
+          "title": "Chemical Bonding (Practice Section) Part 1 - Video Solution - 26",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/otTV0R5g1_M",
+          "hd_video_url": "https://www.youtube.com/embed/otTV0R5g1_M",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 28,
+          "title": "Chemical Bonding (Practice Section) Part 2 - Video Solution - 27",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/hxBVpUJPHXk",
+          "hd_video_url": "https://www.youtube.com/embed/hxBVpUJPHXk",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 29,
+          "title": "Chemical Bonding (Practice Section) Part 3 - Video Solution - 28",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/7EUOVnGN9U0",
+          "hd_video_url": "https://www.youtube.com/embed/7EUOVnGN9U0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 30,
+          "title": "Chemical Bonding (Practice Section) Part 4 - Video Solution - 29",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/zgzGueUXqcE",
+          "hd_video_url": "https://www.youtube.com/embed/zgzGueUXqcE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 31,
+          "title": "Oxygen Containing Compound (Practice Section)  Part 1 - Video Solution - 30",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/B8eL5NsN0TA",
+          "hd_video_url": "https://www.youtube.com/embed/B8eL5NsN0TA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 32,
+          "title": "Oxygen Containing Compound (Practice Section) Part 2 - Video Solution - 31",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5bX1EI7T1L4",
+          "hd_video_url": "https://www.youtube.com/embed/5bX1EI7T1L4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 33,
+          "title": "Coordination Compounds  (Practice Section) Part 1 - Video Solution - 32",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FsivYTEQNQA",
+          "hd_video_url": "https://www.youtube.com/embed/FsivYTEQNQA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 34,
+          "title": "Coordination Compounds  (Practice Section) Part 2 - Video Solution - 33",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/R2tZTDIWof0",
+          "hd_video_url": "https://www.youtube.com/embed/R2tZTDIWof0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 35,
+          "title": "Coordination Compounds  (Practice Section) Part 3 - Video Solution - 34",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/0yJzWKpUW3E",
+          "hd_video_url": "https://www.youtube.com/embed/0yJzWKpUW3E",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 36,
+          "title": "Coordination Compounds (Practice Section) Part 4 - Video Solution - 35",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/icmBqiudQI8",
+          "hd_video_url": "https://www.youtube.com/embed/icmBqiudQI8",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 37,
+          "title": "Amine (Practice Section)  Part 1 - Video Solution - 36",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/b-jO-kZu4Yk",
+          "hd_video_url": "https://www.youtube.com/embed/b-jO-kZu4Yk",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 38,
+          "title": "Amine (Practice Section)  Part 2 - Video Solution - 37",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/AWniAFTyHNI",
+          "hd_video_url": "https://www.youtube.com/embed/AWniAFTyHNI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 39,
+          "title": "Biomolecules, Polymers & Chemistry in Everyday Life (Practice Section) Part 1 - Video Solution - 38",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/7to1S4aCQZE",
+          "hd_video_url": "https://www.youtube.com/embed/7to1S4aCQZE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 40,
+          "title": "Biomolecules, Polymers & Chemistry in Everyday Life (Practice Section) Part 2 - Video Solution - 39",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/iaYlE5STu4k",
+          "hd_video_url": "https://www.youtube.com/embed/iaYlE5STu4k",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 41,
+          "title": "Biomolecules, Polymers & Chemistry in Everyday Life (Practice Section) Part 3 - Video Solution - 40",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/33mTCIcRQio",
+          "hd_video_url": "https://www.youtube.com/embed/33mTCIcRQio",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 42,
+          "title": "Biomolecules, Polymers & Chemistry in Everyday Life (Practice Section) Part 3 - Video Solution - 40",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/33mTCIcRQio",
+          "hd_video_url": "https://www.youtube.com/embed/33mTCIcRQio",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 43,
+          "title": "Some Basic Concept of Chemistry (Practice Section) Part 1 - Video Solution - 41",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/7_v02_XJZIE",
+          "hd_video_url": "https://www.youtube.com/embed/7_v02_XJZIE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 44,
+          "title": "Some Basic Concept of Chemistry (Practice Section) Part 2 - Video Solution - 42",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9AQI2yrb0hg",
+          "hd_video_url": "https://www.youtube.com/embed/9AQI2yrb0hg",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 45,
+          "title": "Some Basic Concept of Chemistry (Practice Section) Part 3- Video Solution - 43",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/QHkDKyuHuNI",
+          "hd_video_url": "https://www.youtube.com/embed/QHkDKyuHuNI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 46,
+          "title": "Some Basic Concept of Chemistry (Practice Section) Part 4- Video Solution - 44",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/GgcF3LeXD34",
+          "hd_video_url": "https://www.youtube.com/embed/GgcF3LeXD34",
+          "thumbnail": null,
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Introduction Section",
+      "subject_id": 6213,
+      "video_count": 3,
+      "note_count": 1,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Orientation Session",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/jXuXsJyDmdY",
+          "hd_video_url": "https://www.youtube.com/embed/jXuXsJyDmdY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/iw32QcxIuFkXfprUz6AcFlwmgaXlxj9rC66qvotE.jpg",
+          "notes": [
+            {
+              "title": "Orientation Session",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06d47d5a-4880-48d8-a5bd-f957a1b1c299.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "How to Use Your Application",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+          "hd_video_url": "https://www.youtube.com/embed/17pEf-lKGMM",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "KGS Mein Admission Kaise Lein? Step-by-Step Complete Guide",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+          "hd_video_url": "https://youtu.be/1doxh4CPQ0k?si=RqPrqoN4d_SuZD_4",
+          "thumbnail": null,
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths by Divyanshu Verma (JMDV Sir)",
+      "subject_id": 8147,
+      "video_count": 19,
+      "note_count": 18,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture -1 || Inverse Trigonometric Function -1",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/JaIFkozHu0M",
+          "hd_video_url": "https://www.youtube.com/embed/JaIFkozHu0M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/52DNAulU8lzCor8SghZwVk5SvJEJ0DdBehlTfABt.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -1 Inverse trigonometric function -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cbe74957-8526-4d5d-bd4a-c76fb01c1350.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture -2 || Inverse Trigonometric Function -2",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Dt_c9CXYdC8",
+          "hd_video_url": "https://www.youtube.com/embed/Dt_c9CXYdC8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9Yl1cWpoTiEAAAhaNgv1RIqEGYcRrbZQvtSkYwJZ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -2 Inverse trigonometric function -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3694918d-285e-4dd3-a23a-3baadb54351f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 3 || Inverse Trigonometric Function -3",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9QpMH2jK5Ws",
+          "hd_video_url": "https://www.youtube.com/embed/9QpMH2jK5Ws",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pD8VCqNwivvvUAOM3vxzYTIlVg3lDPsPGKZwIpmm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 3 || Inverse trigonometric function -3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73114395-ede0-42fa-b574-5550b8984123.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 || Inverse Trigonometric Function - 4",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/zYFX6XW8aAg",
+          "hd_video_url": "https://www.youtube.com/embed/zYFX6XW8aAg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AuFHDjrsLKNcmXc0lpmenTFHmOlLYha3WZ5XMHoQ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 4 || Inverse trigonometric function - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e798298-44c0-4ba0-bf2c-5666366d7a19.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || Inverse Trigonometric Function - 5",
+          "published_date": "11 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/wFR8ElcUHVw",
+          "hd_video_url": "https://www.youtube.com/embed/wFR8ElcUHVw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LKAGIvIMd3LfU5muYq9ylS7TnWVscbIINJufqBJB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 5  Inverse Trigonometric Function - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9572da1-b61f-4a63-a7bc-a1d136381734.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || Inverse Trigonometric Function - 6",
+          "published_date": "12 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Y3-JV1Hydmc",
+          "hd_video_url": "https://www.youtube.com/embed/Y3-JV1Hydmc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N2qZeEin8atZVUz2KCKH3SEWnt8LBVHGRHJRQLV4.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 6 Inverse Trigonometric Function - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47b17853-5cae-4bd4-a54a-927b98c62dd9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || Limit - 1",
+          "published_date": "13 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/6wXzrmrmWsk",
+          "hd_video_url": "https://www.youtube.com/embed/6wXzrmrmWsk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ooOBB7tQwJQ8mqMlh35aF5ajUaUsZ4R5R7TfUzlS.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 7  Limit - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/23b0f914-cd74-41a8-b2e5-06dbaec225a6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || Limit - 2",
+          "published_date": "14 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/36jJ3fHq9J4",
+          "hd_video_url": "https://www.youtube.com/embed/36jJ3fHq9J4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UhFKYKRA2GcgGsOfKMjncgk916lVkQWNCOucDXoM.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 8 Limit - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/494f37f4-0712-49be-a338-76d3be8fe5df.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || Limit - 3",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/tN4KIduBIAE",
+          "hd_video_url": "https://www.youtube.com/embed/tN4KIduBIAE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/V730KIjRZqdni0z7UnSiELFhXESqBf9lXntbI92q.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 9 Limit - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57ac3bc4-34ff-48ea-838d-14ef6223557e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Limit - 4",
+          "published_date": "19 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9KaVSh4XgEI",
+          "hd_video_url": "https://www.youtube.com/embed/9KaVSh4XgEI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fqHZH08D5dcVM4DHevWW7u2nyBYegQ7PyqfAtqp8.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 10 || Limit - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/251440c7-4c95-4ada-9478-25b319af64f8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Limit - 5",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/3CnHqFc--_0",
+          "hd_video_url": "https://www.youtube.com/embed/3CnHqFc--_0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pP8gj4xPjqmo8mDwzrdrVjrYKVAYe1r9Fvlz684A.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 11 Limit - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c3a7032-40f1-4959-90be-53350c3a35d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture - 12 || Limit - 6",
+          "published_date": "21 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Zzh29tlX4qY",
+          "hd_video_url": "https://www.youtube.com/embed/Zzh29tlX4qY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dm7qlLCowzm4ckYk8k05nEdAtmvMM2QFXzYbay7m.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 12 Limit - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d226b5c4-a112-431b-8675-68bdd244be32.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 13 || Limit - 7",
+          "published_date": "22 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/5lRej-FpbGo",
+          "hd_video_url": "https://www.youtube.com/embed/5lRej-FpbGo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HbP3kwck0xNWfZ74vJdk7k8yOQiqk22AFITfQOfJ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 13 Limit - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fedc2a24-7c49-40c3-822a-bd7953f88511.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 14 || Limit - 8",
+          "published_date": "23 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/cxwLHBKGvlg",
+          "hd_video_url": "https://www.youtube.com/embed/cxwLHBKGvlg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WpzO0fJwNKNOu14qymJA9AoPrDJ1lNovm1rVYFcK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 14  Limit - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01ca623b-20ed-46f7-84a1-7bb9e886907b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 15 || Limit - 9",
+          "published_date": "24 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/qHYey-cKK2A",
+          "hd_video_url": "https://www.youtube.com/embed/qHYey-cKK2A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ccUAYTPuHfQxa9StPpCaYk5yWHDAUlKZoln7mJzy.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 15 || Limit - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/229013c3-93b9-4347-a120-743c8dcd8597.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 16 || Limit - 10",
+          "published_date": "25 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/-b-Y5mcqhYU",
+          "hd_video_url": "https://www.youtube.com/embed/-b-Y5mcqhYU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bGf3ZIngHHiKSBMphu8sn3UystdHf9rHK4uAHueJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 16 || Limit - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7f24ec7-f272-499c-a62e-719536639a6e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 17 || Limit - 11",
+          "published_date": "26 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/65Jn7mRhSlw",
+          "hd_video_url": "https://www.youtube.com/embed/65Jn7mRhSlw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RCcrkStB3TDFPkCLWFG8mrVjf8hGirmFou8Pn9VJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 17 || Limit - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44a7f2f7-e9d1-49c2-a721-b1e11122f409.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 18 || Limit - 12",
+          "published_date": "27 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Y-hWjyt70HM",
+          "hd_video_url": "https://www.youtube.com/embed/Y-hWjyt70HM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LfsDyv8NMvGL5jdf84KDBq66h5cIO1XODmWDsGEX.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 18 || Limit - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d89bdf17-939d-4391-9721-989626e720ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 19 || Limit - 13",
+          "published_date": "28 Aug 2025",
+          "video_url": "",
+          "hd_video_url": "",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/G0yngstBgweSMxwg5w3TUORSEoLril4UTUOMEHO8.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths By Kundan Mankad Sir (JMKM Sir)",
+      "subject_id": 6259,
+      "video_count": 67,
+      "note_count": 67,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture - 1 || Basic Mathematics and Logarithm - 1",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/yvF6NjarW5c",
+          "hd_video_url": "https://www.youtube.com/embed/yvF6NjarW5c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7s9jTrbfqhAtnOImr3pFds1Vi5E5XMRr2zbe1IPP.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 1 Basic Mathematics and Logarithm - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f471911f-cafd-4cf0-b097-0abff44e0493.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture - 2 || Basic Mathematics and Logarithm - 2",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/moHqf_1aVVk",
+          "hd_video_url": "https://www.youtube.com/embed/moHqf_1aVVk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/msYZWe52tGutydqv76cbI7J3uI4G3O28K41tflGR.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 2 Basic Mathematics and Logarithm - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d62cdac6-31e2-43cd-a885-b46e2b0d3377.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 3 || Basic Mathematics and Logarithm - 3",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/5UWqYMlYM1I",
+          "hd_video_url": "https://www.youtube.com/embed/5UWqYMlYM1I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aKae6HJY5GMxJYZxBLnDyV0Qt7GnbgjuX3VVxVaU.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 3  Basic Mathematics and Logarithm - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4a71a08-7928-4c18-9833-7928435157ab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 || Basic Mathematics and Logarithm - 4",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/igL7ZC2Kd9k",
+          "hd_video_url": "https://www.youtube.com/embed/igL7ZC2Kd9k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wv5VAHvHXW11DzEWm6RhiMBHnzaPaskJ3stZ5Ayx.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 4 Basic Mathematics and Logarithm - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51cb82d5-4e7f-47ac-aeb8-d3552ac4e97a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || Basic Mathematics and Logarithm - 5",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/g1Rmf7G0mgw",
+          "hd_video_url": "https://www.youtube.com/embed/g1Rmf7G0mgw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/wnLythrl0ccOxs8IDf27muyN8I3was9jnV4MYVE1.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 5 Basic Mathematics and Logarithm - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2595225-6f68-4695-8973-f384573e82f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || Basic Mathematics and Logarithm - 6",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/CWHuRj3arno",
+          "hd_video_url": "https://www.youtube.com/embed/CWHuRj3arno",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jpK637T4uWOu14CXglMr48CqbLjjoWubLvPNsQY9.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 6  Basic Mathematics and Logarithm - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/64f7865e-51b5-48e8-bd3b-927a0d7f9ad8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || Basic Mathematics and Logarithm - 7",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/g0EM8W7hWk0",
+          "hd_video_url": "https://www.youtube.com/embed/g0EM8W7hWk0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Ynptj4gbKUZ0TketLckhynPCEW9PM3653V8s1t9W.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 7  Basic Mathematics and Logarithm - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57c64ac4-1b75-4b82-b967-b67fca5c5705.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || Basic Mathematics and Logarithm - 8",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/KPY2iKRzj8w",
+          "hd_video_url": "https://www.youtube.com/embed/KPY2iKRzj8w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/zH26YpBMO6MvLdbbmShuP1A2DCZ7QXgOsOmcpYUx.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 8 || Basic Mathematics and Logarithm - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/347017ce-7590-4b48-86f2-92328743a3eb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || Basic Mathematics and Logarithm - 9",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/AkDQU73ACBg",
+          "hd_video_url": "https://www.youtube.com/embed/AkDQU73ACBg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/o103Nw9KccAQFnphlQdBi55bB63fpgTcT9mTu1wA.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 9  Basic Mathematics and Logarithm - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a88827b-8b5d-4b98-adc9-d0c70a4858b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Basic Mathematics and Logarithm - 10",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/cgnmhBLSD8c",
+          "hd_video_url": "https://www.youtube.com/embed/cgnmhBLSD8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vB7bic7FwgW19LiscDBu9DyYKsHuOgVlXLx1QYux.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 10 || Basic Mathematics and Logarithm - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58547033-f55e-486f-bd5d-386bf7599ee5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Basic Mathematics and Logarithm - 11",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/Keko6hympao",
+          "hd_video_url": "https://www.youtube.com/embed/Keko6hympao",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nB7K6KKELTrDDpH5UF0VgzWHHYgPC9qdZgQz5Amk.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 11 || Basic Mathematics and Logarithm - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58547033-f55e-486f-bd5d-386bf7599ee5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Basic Mathematics and Logarithm (Revision)",
+          "published_date": "03 May 2025",
+          "video_url": "https://www.youtube.com/embed/ERqkBq89dD8",
+          "hd_video_url": "https://www.youtube.com/embed/ERqkBq89dD8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/UJA0iOJMgBYmqvx1Dqb0APOPNWrbYZDoqD9WBU9s.jpg",
+          "notes": [
+            {
+              "title": "Basic Mathematics and Logarithm (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cdd0fef-933e-4335-b390-5b02b04e0ffb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 12 || Basic Mathematics and Logarithm - 12 & Quadratic Equation - 1",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/PI_9g3_0NBU",
+          "hd_video_url": "https://www.youtube.com/embed/PI_9g3_0NBU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/xShhFXOlpNQcyAfTj2o8sHX0tNO80KYBeU2gTPyu.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 12 Basic Mathematics and Logarithm - 12 & Quadratic Equation - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f04faf1e-5035-410c-be0f-7e82c799778c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 13 ||  Quadratic Equation - 2",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/yhEGGQbkMOw",
+          "hd_video_url": "https://www.youtube.com/embed/yhEGGQbkMOw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fr783VI7dHvFLTQJ9xQIsxzbUl3BG5UnJr0YVj67.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 13 Quadratic Equation - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ced9a69-8805-4ab4-8d30-3638c3b6584c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 14 ||  Quadratic Equation - 3",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/-Yj-lwPt4bA",
+          "hd_video_url": "https://www.youtube.com/embed/-Yj-lwPt4bA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tpJkMGikJTrWOwMYne0p4h6Bwbe5KTaPX7VQicih.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 14   Quadratic Equation - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b49a4833-2644-4aeb-be03-8a0129774aed.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 15 || Quadratic Equation - 4",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/heaNlekdujA",
+          "hd_video_url": "https://www.youtube.com/embed/heaNlekdujA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/CDmvcvqeV2P7H3tUDb5N3vv38pa0Kh8lTaMZeTLH.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 15  Quadratic Equation - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b5f4b40-3aef-438b-b7ee-c445445de4ab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 16 || Quadratic Equation - 5",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/pQJxptjRV4I",
+          "hd_video_url": "https://www.youtube.com/embed/pQJxptjRV4I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/tWoDpE8ER0bPuQidKQtTwfc94Upz2lfRX9WlRxyw.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 16  Quadratic Equation - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/412603fb-8875-4b3b-99ac-437aa4dacc5a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 17 || Quadratic Equation - 6",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/G3vDsA04o1E",
+          "hd_video_url": "https://www.youtube.com/embed/G3vDsA04o1E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cF33BqcU0bklXSSI2OROnGWqK8kz3kzIfJxODGCK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 17  Quadratic Equation - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ead880e-86f8-4944-90e0-5d574baa6257.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 18 || Quadratic Equation - 7",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/GWm3EGWHGYY",
+          "hd_video_url": "https://www.youtube.com/embed/GWm3EGWHGYY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ohQdaLakIoXEGxlTxlzXSOxpJHC51CCmjdLrCSzG.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 18 Quadratic Equation - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86abafb5-bfe6-40df-bf20-7b3c261a9ae6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 19 || Quadratic Equation - 8",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/WUhVSBkqxcc",
+          "hd_video_url": "https://www.youtube.com/embed/WUhVSBkqxcc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SiiTF2tLgnSeZ10vVoSNRfSIVfq2NTGrmjx7FeTz.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -19 Quadratic Equation - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de7fbe56-e004-4759-9dd6-75cc4968e54b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 20 || Quadratic Equation - 9 & Sequence and Series - 1",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/fa-dAkt6IH4",
+          "hd_video_url": "https://www.youtube.com/embed/fa-dAkt6IH4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/msoFz7EVbDCyABEdNs5Nrk3vwx9Bbv9qLk1cSzgk.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 20 Quadratic Equation - 9 & Sequence and Series - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42c1e652-b59f-4a01-a305-fd8b236c0cbe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 21 ||  Sequence and Series - 2",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/Q3M-q0AuxnI",
+          "hd_video_url": "https://www.youtube.com/embed/Q3M-q0AuxnI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uYWtMYiFtboTIHAMZc1bSIYS1OfNUlPUqUX517ak.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 21 Sequence and Series - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a25c8648-c294-4ac6-810e-9459a73ce062.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Quadratic Equation  (Revision)",
+          "published_date": "17 May 2025",
+          "video_url": "https://www.youtube.com/embed/zRjAAbPlqTI",
+          "hd_video_url": "https://www.youtube.com/embed/zRjAAbPlqTI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gOD5j6XywiOW9slLBiStefyIsYewUcQBk0HCfJ9P.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Quadratic Equation  (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d825e310-8a46-492c-b70b-e8a9bb26ba90.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture - 22 || Sequence and Series - 3",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/s0_8alVSn7M",
+          "hd_video_url": "https://www.youtube.com/embed/s0_8alVSn7M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/taub7FUBrzVDaswc666hSy3a6ikrKTg4ntKb9jBf.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 22  Sequence and Series - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d38af7c5-2b46-43e2-9a1b-491afdf2d650.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 23 || Sequence and Series - 4",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/L2vgTIdNixk",
+          "hd_video_url": "https://www.youtube.com/embed/L2vgTIdNixk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/eJgLu5lgo3Msvi44sl1uchSmXqiZVroF34WKbb9S.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 23 Sequence and Series - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90e7d7b2-7453-4d72-b869-b33a18b205c0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 24 || Sequence and Series - 5",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/jF12DWS8-p0",
+          "hd_video_url": "https://www.youtube.com/embed/jF12DWS8-p0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/uG8wf98sEL2VX8obSrSKe8bWoyjKHeadFMSQGaQm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes .Lecture - 24 Sequence and Series - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a2c04a73-8c6a-46b0-98d2-55ccd9fd57d0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 25 || Sequence and Series - 6",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/VK9TsAbxt-c",
+          "hd_video_url": "https://www.youtube.com/embed/VK9TsAbxt-c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Cy6BDbXtaDA2sNsQ74Drx5HXCrOnzcTvWyy9WxS7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 25 Sequence and Series - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a236850-aec3-4a22-b56d-2747d2d8aa2c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Sequence and Series (Revision)",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/1jYk9dE-lRg",
+          "hd_video_url": "https://www.youtube.com/embed/1jYk9dE-lRg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DiyoJHzZAjk48h5kArT0TJoZ371tsXG0nrzjDigi.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Sequence and Series (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/062ceb82-9d43-4916-baa8-f849b5310ef5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture - 26 || Sequence and Series - 7",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/R6Q6lnkBwzw",
+          "hd_video_url": "https://www.youtube.com/embed/R6Q6lnkBwzw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XC2LU73zuSphBiF9TJBNs7j34g6lvU3NG48OFDIu.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 26 Sequence and Series - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57bdda81-14b8-4777-a606-dd053b00809c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 27 || Sequence and Series - 8",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/LYI0HahFQlU",
+          "hd_video_url": "https://www.youtube.com/embed/LYI0HahFQlU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/l5CSJ7uZVhfir1ixKFBq2p0icyKxJ53LScCkTmvl.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 27 Sequence and Series - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e51e51f6-63ea-4e49-b03e-bad1ae24fa86.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 28 || Sequence and Series - 9",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/IHnR8j-KpU0",
+          "hd_video_url": "https://www.youtube.com/embed/IHnR8j-KpU0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/bdft32oQ4WR385VGgR99zN0cXCbd0ScozfND6kvy.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 28 Sequence and Series - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c26ecbf7-a5a5-4c10-adc9-4397c33a1c85.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 29 || Sequence and Series - 10",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/6UBhDHPsqiM",
+          "hd_video_url": "https://www.youtube.com/embed/6UBhDHPsqiM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GEKIpN7svPbpNiROvKP0gNy5WPeniH5PykEGLQAg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 29 Sequence and Series - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c5b5ffa-3367-4d05-8d69-6aab6a160b43.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 30 || Sequence and Series - 11",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/5vPRj2UTOu4",
+          "hd_video_url": "https://www.youtube.com/embed/5vPRj2UTOu4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Mu5sLvnkRF13MponwlmpvGeuhtYoWwOxxyBFTdJy.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 30 Sequence and Series - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92011712-ffee-4699-b745-48c6cab4cc4f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 31 || Sequence and Series - 12",
+          "published_date": "31 May 2025",
+          "video_url": "https://www.youtube.com/embed/bkpxTXhUzWk",
+          "hd_video_url": "https://www.youtube.com/embed/bkpxTXhUzWk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PG1nmJcPlmnbLixckNb1hmAJBdctK8ycQ6d9qnvQ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 31  Sequence and Series - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e02962ae-2c18-422a-beda-cc22dca1911e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 32 || Trigonometric Identities & Ratios - 1",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/duSue9OX3tA",
+          "hd_video_url": "https://www.youtube.com/embed/duSue9OX3tA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Qn2OwUh7J8PXiXHhYqrEaL45ytD6sV9JbYfQjCfs.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 32 Trigonometric Identities & Ratios - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91fed6c1-dce9-4584-a04b-b2864673fa46.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 33 || Trigonometric Identities & Ratios - 2",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7JMYRgUJ7w8",
+          "hd_video_url": "https://www.youtube.com/embed/7JMYRgUJ7w8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RvFwvBfYedFHDCemtQX2XTj3VHLVRryeq31mIJY3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 33 Trigonometric Identities & Ratios - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/918f9997-d80e-483d-a437-a7cf52450a0a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 34 || Trigonometric Identities & Ratios - 3",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/jkqlnwqmTL0",
+          "hd_video_url": "https://www.youtube.com/embed/jkqlnwqmTL0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Buvr8j49sXGMZuy8wmGceS622nMqEeT7PxJijVwn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 34 Trigonometric Identities & Ratios - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e50eaa05-e707-4bbc-abb5-b7fa95988185.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 35 || Trigonometric Identities & Ratios - 4",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7GyddfcOHag",
+          "hd_video_url": "https://www.youtube.com/embed/7GyddfcOHag",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dfwMNylXhSHUL1prQ2PvTwN8sA34z7lpuIjzctuS.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 35 Trigonometric Identities & Ratios - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6841c730-0c91-4c0f-a466-307eaa6b586d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 36 || Trigonometric Identities & Ratios - 5",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/PrTZFxOAU0s",
+          "hd_video_url": "https://www.youtube.com/embed/PrTZFxOAU0s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PYpy1vLwhGAq2xKC8DPmUe6yEp4E7GVwT4AIyuKj.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 36 || Trigonometric Identities & Ratios - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/78062ea4-a666-48a4-9c02-b516f5ac5706.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 37 || Trigonometric Identities & Ratios - 6",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/aeuFfMC1Uoc",
+          "hd_video_url": "https://www.youtube.com/embed/aeuFfMC1Uoc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j7ggucq8GLsYqcOxkoz2QRsQ8aibYSbjfKcCAI6N.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 37 Trigonometric Identities & Ratios - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5c82010-3f08-4303-a5cc-1cd0264223bf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 38 || Trigonometric Identities & Ratios - 7",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/eGJs7EOSoyk",
+          "hd_video_url": "https://www.youtube.com/embed/eGJs7EOSoyk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CeMiFxXUySzCsjItB2TEIXvKRlIbEgyiqPpJF3yr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 38 Trigonometric Identities & Ratios - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bab2da9c-bc7d-4c88-89b6-a808f3b385b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 39 || Trigonometric Identities & Ratios - 8 & Trigonometrical Equation - 1",
+          "published_date": "14 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/odupUMf0dz4",
+          "hd_video_url": "https://www.youtube.com/embed/odupUMf0dz4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TaaONnzydxboy20e1pe6K2XiKqUxwWEaCkCX6Utc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 39  Trigonometric Identities & Ratios - 8 & Trigonometrical Equation - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5164965-d2c4-4f98-8eb6-6c8f59efd607.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 40 || Trigonometrical Equation - 2",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/XhLufB68L-I",
+          "hd_video_url": "https://www.youtube.com/embed/XhLufB68L-I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yKLkUmoCtLk9XdIRr2iVo2179dJk6OIXFUruObEM.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 40 Trigonometrical Equation - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b84c561d-1cba-49fb-8761-d119c315bd22.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 41 || Trigonometrical Equation - 3",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/ywIhjopkBmg",
+          "hd_video_url": "https://www.youtube.com/embed/ywIhjopkBmg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JOtrNARjYwAWoNK5lHYkPujDZRt1L67gLpFYPdin.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 41 Trigonometrical Equation - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3acb2469-c673-4ede-b333-8e957ccb720c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 42 || Trigonometrical Equation - 4",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/6VOSvaUni8c",
+          "hd_video_url": "https://www.youtube.com/embed/6VOSvaUni8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/T0Crz0xKwfCMcRrQJSkjSQR6KRG6ztNkZpz0gDyg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 42 Trigonometrical Equation - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb11519c-4b9f-4b83-a4dd-a32854cca9cf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 43 || Sets- 1",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/-e5VRESXHM8",
+          "hd_video_url": "https://www.youtube.com/embed/-e5VRESXHM8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3XqOfdfeEIUQj297BcVEhLIxIXuA6jqEjrirNIsl.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 43 Sets- 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79ac27f2-1c45-4c5b-bc98-1f5f6a242db9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 44 || Relation and Function -1",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/4_Z2Oz_80wM",
+          "hd_video_url": "https://www.youtube.com/embed/4_Z2Oz_80wM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rZ9Dd4yv4Ikzh8r11b7VkQDHFkDjHfDHQZE3OSj7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 44 Relation and Function -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8513125-0bfe-4ddb-9e78-67077e6a99ff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 45 || Relation and Function -2",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/UVv5C3VSee8",
+          "hd_video_url": "https://www.youtube.com/embed/UVv5C3VSee8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z2EnLviDpSDFXrxFN3MnThrsge1tafit69xy4z2I.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 45 Relation and Function -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a49c4c3-592f-413f-88be-28bb14a161fd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 46 || Relation and Function -3",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Ju623KMpJxY",
+          "hd_video_url": "https://www.youtube.com/embed/Ju623KMpJxY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3FXLKEZJeZqVzZePTgfVu5IyNNWpKtSzDOylftOG.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 46 Relation and Function -3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca8a84e1-068a-45a9-ac75-6354b490cd09.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 47 || Relation and Function - 4",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/rxnN_NbM-Zs",
+          "hd_video_url": "https://www.youtube.com/embed/rxnN_NbM-Zs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/efBoFN46hPreBpGXiDGswtpcJxDQ07L8JEjRntTK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 47 Relation and Function - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e492330b-6a70-4949-b4dd-e60c8b41fc80.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture - 48 || Relation and Function - 5",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/FdkcHEroj9s",
+          "hd_video_url": "https://www.youtube.com/embed/FdkcHEroj9s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/38zofbBUQQBE5NiMAA7h8wrm8z9GEgsllQo24RCd.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 48 Relation and Function - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e990832-5dfe-4b6c-94ab-11c5d2b29c89.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture - 49 || Relation and Function - 6",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/qj6P2fUyHBk",
+          "hd_video_url": "https://www.youtube.com/embed/qj6P2fUyHBk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GOeJzhclp2MMhgVgXMRz9LHQzq8k9um15WbaoeXH.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 49  Relation and Function - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b0fe4fe-f5fa-4109-ae41-431cee745b2d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture - 50 || Relation and Function - 7",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Yu80iqc16LY",
+          "hd_video_url": "https://www.youtube.com/embed/Yu80iqc16LY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/shCX45IuQ83yyHrpa30Xqzv0nbWb0T6cweJVv0Hr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 50 Relation and Function - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c14e33f0-5821-47d0-ade8-3a4c7cf11cb1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture - 51 || Relation and Function - 8",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/YviFgQAx63Y",
+          "hd_video_url": "https://www.youtube.com/embed/YviFgQAx63Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rnlnAdfkJzoXbEX7GOcvM976mRTBYnat6X7kuwPD.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 51 || Relation and Function - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/344f512c-0862-4ff1-9b48-16d283748856.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture - 52 || Relation and Function - 9",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/g0JTMi1RX8s",
+          "hd_video_url": "https://www.youtube.com/embed/g0JTMi1RX8s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FbFRQd2NycNscTJZlOUiQFsZuAJ0YDwhA6lfuCk7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 52 Relation and Function - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db2266fa-05ff-40bd-86b7-f73c1f21965f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture - 53 || Relation and Function - 10",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/shRoag2uHaw",
+          "hd_video_url": "https://www.youtube.com/embed/shRoag2uHaw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1AA4aw007uzCq9MrgHJ0R6pPM0MwXLzUN0EWY6Zx.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 53 Relation and Function - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7fdc2c47-7dd1-4dc0-a661-fbcd8ce3d6fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture - 54 || Relation and Function - 11",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/u7twjukscMw",
+          "hd_video_url": "https://www.youtube.com/embed/u7twjukscMw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QjaGtqvkgO1SmubySBWu8fmPfwpmby75f3J1Svcz.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 54  Relation and Function - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e25baef6-2fdb-4cc4-8475-a14d4f4a6f8d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture - 55 || Relation and Function - 12",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GCe0nDYgYao",
+          "hd_video_url": "https://www.youtube.com/embed/GCe0nDYgYao",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UgEmwNKyTXfMNNWv0YchS1PsNBlV1l8YkUJsyzPC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 55 Relation and Function - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a957094d-f7fe-41e6-a47e-3567d4b41585.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture - 56 || Relation and Function - 13",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mG9v0Ufvjzs",
+          "hd_video_url": "https://www.youtube.com/embed/mG9v0Ufvjzs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JlR9R3evGTsBAfnhHZU5qfJjwj9m74rcGGtXyiWD.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 56 Relation and Function - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08e0340e-163a-4eba-b7d5-2d13321ecd8c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture - 57 || Relation and Function - 14",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/fQD-CJc8B5Q",
+          "hd_video_url": "https://www.youtube.com/embed/fQD-CJc8B5Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fQ9DeGEHQ4wofcV1BsMDnTcGjjstJpxFVoQMb7An.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 57 Relation and Function - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5caab8c6-a6e9-410a-aab5-42fa28804fd4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture - 58 || Relation and Function - 15",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/2abTpBn1Rkc",
+          "hd_video_url": "https://www.youtube.com/embed/2abTpBn1Rkc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SvWV1yP2LSB5Mo0SrFbl0eN8Abf0DM39qav1W7K0.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 58 Relation and Function - 15",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/939e0534-49d5-4a38-a9c3-1cd8347b69f3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture - 59 || Relation and Function - 16",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/j3w4xRS-OtE",
+          "hd_video_url": "https://www.youtube.com/embed/j3w4xRS-OtE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AIZivVkcauYgPxkQ9OaXH8rCakHDk1iVlX7C0o9l.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 59  Relation and Function - 16",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d84baa24-b9de-44c6-a82b-fa7d26caf19a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture - 60 || Relation and Function - 17",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kroL04rG1V4",
+          "hd_video_url": "https://www.youtube.com/embed/kroL04rG1V4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0Vn2DJTacdH84ca41MuE6yEdWLV3M5tRVfi5jGPC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 60 Relation and Function - 17",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1cdc860-b5cf-4a35-a74f-9a1679045d0a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture - 61 || Relation and Function - 18",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/xaxOhR_58w4",
+          "hd_video_url": "https://www.youtube.com/embed/xaxOhR_58w4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/68D0UiXwk6b4ZblfXCVkciRjLEoohRTrQCyofvkr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 61  Relation and Function - 18",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/76f37166-9e29-4710-a198-6992714b7fc6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture - 62 || Relation and Function - 19",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/16Pi_MffWIY",
+          "hd_video_url": "https://www.youtube.com/embed/16Pi_MffWIY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ie8o5FcA2YUtchU1C8SqWiUyLjIXEOSWhlRhX0Lx.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 62 Relation and Function - 19",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5d47177-6634-4214-9655-615e7cd596f0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture - 63 || Relation and Function - 20",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/6iUbR-96dEU",
+          "hd_video_url": "https://www.youtube.com/embed/6iUbR-96dEU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/axWQ4vWeF6T4E4lF09EWoRagG4smBw8dXxdjoPev.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 63 Relation and Function - 20",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82aa316c-4c57-4774-bd59-4b4545d3c207.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture - 64 || Relation and Function - 21",
+          "published_date": "19 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mUvWUqCn5fc",
+          "hd_video_url": "https://www.youtube.com/embed/mUvWUqCn5fc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vCay9du2JhYiSvMIu62Pn4mV4shzdAPklifGgK5l.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 64 Relation and Function - 21",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12329d1e-0bff-45e5-ad07-a491edef7750.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths Supporting Material",
+      "subject_id": 7725,
+      "video_count": 24,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Basic Mathematics and Logarithm (Practice Section) Part2 - Video Solution - 2",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/IYtxKL0NLwk",
+          "hd_video_url": "https://www.youtube.com/embed/IYtxKL0NLwk",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Basic Mathematics and Logarithm (Practice Section) Part 1 - Video Solution - 1",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/1U7-WldhbLg",
+          "hd_video_url": "https://www.youtube.com/embed/1U7-WldhbLg",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "Basic Mathematics and Logarithm (Practice Section) Part  3 - Video Solution - 3",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/fvGJtFcfM88",
+          "hd_video_url": "https://www.youtube.com/embed/fvGJtFcfM88",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "Quadratic Equation (Practice Section) Part 1 - Video Solution - 4",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/KIgEo0b1lMo",
+          "hd_video_url": "https://www.youtube.com/embed/KIgEo0b1lMo",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 5,
+          "title": "Quadratic Equation (Practice Section) Part 2 - Video Solution - 5",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/-IrWIMKLHYQ",
+          "hd_video_url": "https://www.youtube.com/embed/-IrWIMKLHYQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 6,
+          "title": "Quadratic Equation (Practice Section) Part 3 - Video Solution - 6",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FtndsEUKNH8",
+          "hd_video_url": "https://www.youtube.com/embed/FtndsEUKNH8",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 7,
+          "title": "Sequence and Series (Practice Section) Part 1 - Video Solution - 7",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kwZqk0fuOhE",
+          "hd_video_url": "https://www.youtube.com/embed/kwZqk0fuOhE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 8,
+          "title": "Sequence and Series (Practice Section) Part 2 - Video Solution - 8",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kyFx62M9AHo",
+          "hd_video_url": "https://www.youtube.com/embed/kyFx62M9AHo",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 9,
+          "title": "Sequence and Series (Practice Section) Part 3 - Video Solution - 9",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/vOp9RkHvBT0",
+          "hd_video_url": "https://www.youtube.com/embed/vOp9RkHvBT0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "Sequence and Series (Practice Section) Part 4 - Video Solution - 10",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ZO7t2CzTNn0",
+          "hd_video_url": "https://www.youtube.com/embed/ZO7t2CzTNn0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 11,
+          "title": "Trigonometric Ratios and Identities (Practice Section) Part 1 - Video Solution - 11",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/RGK7zAmI0Ik",
+          "hd_video_url": "https://www.youtube.com/embed/RGK7zAmI0Ik",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 12,
+          "title": "Trigonometric Ratios and Identities (Practice Section) Part 2 - Video Solution - 12",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/c5XXYTip3qU",
+          "hd_video_url": "https://www.youtube.com/embed/c5XXYTip3qU",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "Trigonometrical Equation (Practice Section) Part 1 - Video Solution - 13",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FOK4CfnJxRU",
+          "hd_video_url": "https://www.youtube.com/embed/FOK4CfnJxRU",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "Trigonometrical Equation (Practice Section) Part 2 - Video Solution - 14",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WcqZdlxccHI",
+          "hd_video_url": "https://www.youtube.com/embed/WcqZdlxccHI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 15,
+          "title": "Sets  (Practice Section) Part 1 - Video Solution - 15",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WmKEH571FyI",
+          "hd_video_url": "https://www.youtube.com/embed/WmKEH571FyI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 16,
+          "title": "Sets (Practice Section) Part 2 - Video Solution - 16",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/4QKY-xLThcQ",
+          "hd_video_url": "https://www.youtube.com/embed/4QKY-xLThcQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 17,
+          "title": "Function (Practice Section) Part 1 - Video Solution - 17",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/cgAQkGZX1cA",
+          "hd_video_url": "https://www.youtube.com/embed/cgAQkGZX1cA",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 18,
+          "title": "Function (Practice Section) Part 2 - Video Solution - 18",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/IJtwwnLG9eQ",
+          "hd_video_url": "https://www.youtube.com/embed/IJtwwnLG9eQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 19,
+          "title": "Function (Practice Section) Part 3 - Video Solution - 19",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/oF83zHyvIoE",
+          "hd_video_url": "https://www.youtube.com/embed/oF83zHyvIoE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 20,
+          "title": "Inverse trigonometric function (Practice Section) Part 1 - Video Solution - 20",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/yh0MTdeiXL0",
+          "hd_video_url": "https://www.youtube.com/embed/yh0MTdeiXL0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 21,
+          "title": "Inverse trigonometric function (Practice Section) Part 2 - Video Solution - 21",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/N2zjfhMWym4",
+          "hd_video_url": "https://www.youtube.com/embed/N2zjfhMWym4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 22,
+          "title": "Limits  (Practice Section) Part 1 - Video Solution - 22",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/tePzTXw3SRQ",
+          "hd_video_url": "https://www.youtube.com/embed/tePzTXw3SRQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 23,
+          "title": "Limits (Practice Section) Part 2 - Video Solution - 23",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/MzXjix9c-eo",
+          "hd_video_url": "https://www.youtube.com/embed/MzXjix9c-eo",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 24,
+          "title": "Limits (Practice Section) Part 3 - Video Solution - 24",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/pg2NxR-qbcU",
+          "hd_video_url": "https://www.youtube.com/embed/pg2NxR-qbcU",
+          "thumbnail": null,
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Physics By Vikrant Singh Sir (JPVS Sir)",
+      "subject_id": 6256,
+      "video_count": 105,
+      "note_count": 103,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture - 1 || Mathematical Tools & Vector - 1",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/CSu4hWfo24M",
+          "hd_video_url": "https://www.youtube.com/embed/CSu4hWfo24M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IhUSkScDbj0cdIlUVZcu2nKHtphIj6DgAsTB9nIV.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 1 Mathematical Tools & Vector - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e75309f-9af9-4cdc-a752-e22589d59192.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture - 2 || Mathematical Tools & Vector - 2",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/0qJUvJEv-ls",
+          "hd_video_url": "https://www.youtube.com/embed/0qJUvJEv-ls",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/RKNtOVwAZP57UvJjuPya5zSJCV3an2T09C9PhVGe.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 2 Mathematical Tools & Vector - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1d80773-1d87-4292-8300-bbc5baec263d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 3 || Mathematical Tools & Vector - 3",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/3JRzwR2jK4k",
+          "hd_video_url": "https://www.youtube.com/embed/3JRzwR2jK4k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/u9CwAMVSlOxqkmdcp7ORLF5hoCufAf9dA5J2mQBn.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 3 Mathematical Tools & Vector - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/284aa348-50fe-4758-bedc-a925edb524e0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 4 || Mathematical Tools & Vector - 4",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/jwIbr0Zn2cA",
+          "hd_video_url": "https://www.youtube.com/embed/jwIbr0Zn2cA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HDMe9LgEHMdTf6f001dtzTV942BNlwY3sz5CBYx3.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 4 Mathematical Tools & Vector - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91d62cda-47c5-4667-8a7f-00d1eeab0fda.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 5 || Mathematical Tools & Vector - 5",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/WR0dZVQVVjE",
+          "hd_video_url": "https://www.youtube.com/embed/WR0dZVQVVjE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/v06wgw4wSU4ZmOeMyjokPYhIX64T5m9gBO1fDoOr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 5 Mathematical Tools & Vector - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba011c50-9cca-4e61-8d27-633459d74771.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 6 || Mathematical Tools & Vector - 6",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/HQVM93QFVlk",
+          "hd_video_url": "https://www.youtube.com/embed/HQVM93QFVlk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/y9Tj6eGDcO1Lh9KAZLUxpkQpSaf4DsCvRI8CvrrI.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 6 Mathematical Tools & Vector - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f72eea79-ccdf-4580-b2a7-9d21b00776f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 7 || Mathematical Tools & Vector - 7",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/dRAOVWsXL-A",
+          "hd_video_url": "https://www.youtube.com/embed/dRAOVWsXL-A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/guIPIjxgiMK9mBEa2mIUr2cUcBSca66UgCgLcmgm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 7 Mathematical Tools & Vector - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/745b40dc-7e0f-4653-ad3d-86c28885c312.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 8 || Mathematical Tools & Vector - 8",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/sJhmhPXW_O4",
+          "hd_video_url": "https://www.youtube.com/embed/sJhmhPXW_O4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6gyzHrk81FkCYbVrDWAyoqNNPeNiIijOUjLz0Q6X.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 8 || Mathematical Tools & Vector - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e3a418f-dc77-4e96-bd4c-61412532c424.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 9 || Mathematical Tools & Vector - 9",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/IIJtIMmSR_4",
+          "hd_video_url": "https://www.youtube.com/embed/IIJtIMmSR_4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/OnU6WHG3noI1p7SNxNkrgSbMGubb3iHGQwKkMVZx.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 9 || Mathematical Tools & Vector - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07b1663b-e57b-4a42-87df-21a777dca4e5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Motion In Straight Line - 1",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/OiCqeVNeEFc",
+          "hd_video_url": "https://www.youtube.com/embed/OiCqeVNeEFc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vGTUboYHjoNqIRs8IUqLe2SZ8Dq4eDJfyTDaoVH0.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 10  Motion In Straight Line - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/181f55b1-afd4-426a-952b-16d7d46aa83c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Motion In Straight Line - 2",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/ccAxsquu2Qg",
+          "hd_video_url": "https://www.youtube.com/embed/ccAxsquu2Qg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SjQdTUF0SFF7SWHkxlwO4QfC4N7QgVgwQ7qIVNkh.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 11 Motion In Straight Line - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd6c2cb6-3c33-49b2-858c-62ff373153a5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Mathematical Tools & Vector (Revision)",
+          "published_date": "03 May 2025",
+          "video_url": "https://www.youtube.com/embed/Yum64LvDpKI",
+          "hd_video_url": "https://www.youtube.com/embed/Yum64LvDpKI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/NIndWgH2T1joUVooZsOcTWS2ULTBEdL6qs7A56rT.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Mathematical Tools & Vector (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91d35c72-fd70-4fa8-8641-89edded4a71d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 12 || Motion In Straight Line - 3",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/zkyhfOPcMwM",
+          "hd_video_url": "https://www.youtube.com/embed/zkyhfOPcMwM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FaKdC3DscMvvi68d6XUf8w2GXMNS7l64Elaxwhhf.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 12 Motion In Straight Line - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91d35c72-fd70-4fa8-8641-89edded4a71d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 13 || Motion In Straight Line - 4",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/V0RB3Pkqnf4",
+          "hd_video_url": "https://www.youtube.com/embed/V0RB3Pkqnf4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Jjc9gUeSVhDsToDzPjZs6Q6FMTzTJwPWbX0PRxCR.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 13 Motion In Straight Line - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef97e323-5c27-4228-8776-7bef0afd5fdf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 14 || Motion In Straight Line - 5",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/awI7R7ox4Eo",
+          "hd_video_url": "https://www.youtube.com/embed/awI7R7ox4Eo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/LR2nN8XCUGHfHrDL1jEFWtbpwpffv0p8rdqfAWh7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 14 Motion In Straight Line - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aef18c7e-ea32-4e68-8929-27f59f092b56.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 15 || Motion In Straight Line - 6",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/gAWgnIwkYsg",
+          "hd_video_url": "https://www.youtube.com/embed/gAWgnIwkYsg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jbj1xHRkpvrSumKcVF0x6IlHYBArTfy10HPWd91Q.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 15 Motion In Straight Line - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/61550dd0-f4e3-4c1f-8ff9-39b00daafc0b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 16 || Motion In Straight Line - 7",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/FkIa4Hb8jOs",
+          "hd_video_url": "https://www.youtube.com/embed/FkIa4Hb8jOs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lkyb6HctlYhjcXveN1M4Vxrc6WP5AjUhaYioh1k5.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 16 Motion In Straight Line - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c04b6b7-c73a-4463-85f7-a89007c39f9f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Motion In Straight Line (Revision)",
+          "published_date": "10 May 2025",
+          "video_url": "https://www.youtube.com/embed/XSVpjwi06v0",
+          "hd_video_url": "https://www.youtube.com/embed/XSVpjwi06v0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/KPcWAyjusP01cWSSXW4AvI59JPIyIHyOa2nLhk3E.jpg",
+          "notes": [
+            {
+              "title": "class Notes Motion In Straight Line (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a426b66c-0dcc-498b-9b43-03f9da212d02.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 17 || Motion In Straight Line - 8",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/B1zWeNEk-G8",
+          "hd_video_url": "https://www.youtube.com/embed/B1zWeNEk-G8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/8pDEArI47Puh0BNGglwxcV7GalUE7QaG1eYybJCH.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 17  Motion In Straight Line - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/392fd188-ff33-411a-a5b4-7708ddf33989.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 18 || Motion In Straight Line - 9",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/LKk53Yvu0jE",
+          "hd_video_url": "https://www.youtube.com/embed/LKk53Yvu0jE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/6tsnzKCCRQ2jcb5I2Z97PIKZq7Atgl6YBjsOqWul.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 18 Motion In Straight Line - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d05eff64-1b2d-4301-9312-8b5d1e42f204.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 19 || Motion In Straight Line - 10",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/RjzyEnNkPPo",
+          "hd_video_url": "https://www.youtube.com/embed/RjzyEnNkPPo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/m0Kxhx4YSRspub4UfcNMqkz4g7pZe8qay95ARWgf.jpg",
+          "notes": [
+            {
+              "title": "Class notes Lecture - 19 Motion In Straight Line - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e1722d7-46f3-4fae-a68a-04b07f0c82bd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 20 || Motion in a Plane - 1",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/3yPwwuDec4Q",
+          "hd_video_url": "https://www.youtube.com/embed/3yPwwuDec4Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/za7PC9RDnz3C2DRV0gdN8SpnKunsqeFZS3Vv5xuH.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 20 Motion in a Plane - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d6f7269-dce3-4df2-b9e7-40178a7998e4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture - 21 || Motion in a Plane - 2",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/s6zNBqBUi7U",
+          "hd_video_url": "https://www.youtube.com/embed/s6zNBqBUi7U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/YUHUwlRGGntgFeiQU0uDHjMUHG696ReVpLi9q25s.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 21  Motion in a Plane - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d76f77b9-2f3e-4813-8ec9-97d72f1c0dd2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Motion In Straight Line  (Revision)",
+          "published_date": "17 May 2025",
+          "video_url": "https://www.youtube.com/embed/dSjos_Uq-70",
+          "hd_video_url": "https://www.youtube.com/embed/dSjos_Uq-70",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/108FYQjJnQ2BxX7IxZCVNYN0CIqa6P9Z1LnVWtgp.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Motion In Straight Line  (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2056f46e-7c3c-4be3-8386-5a5e979da59c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 22 || Motion in a Plane - 3",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/tn_mz_CfxyA",
+          "hd_video_url": "https://www.youtube.com/embed/tn_mz_CfxyA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/XQEk9PUwYfuYtf8eeCNGZYUCDIdKQBij0arub6GD.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 22 Motion in a Plane - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/945c165c-4ce0-4574-8a29-a32b200b6825.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 23 || Motion in a Plane - 4",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/sG9ATjBa2Os",
+          "hd_video_url": "https://www.youtube.com/embed/sG9ATjBa2Os",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hovdG5sPsd4O60yyGyY3ucGDbUozCmzZJUl1Y22C.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 23 Motion in a Plane - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25c56d93-2c6d-4435-87bf-351da9a768bb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 24 || Motion in a Plane - 5",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/HDHdGG1OP0c",
+          "hd_video_url": "https://www.youtube.com/embed/HDHdGG1OP0c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/DFMHUt4kPQm6mxHQduekRuzy0tjXdgyKHQFKfUrp.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 24 Motion in a Plane - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6fe15db8-38fb-4dbc-8e97-fe3e6ad3d31b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture - 25 || Motion in a Plane - 6",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/GFn6-E24TgE",
+          "hd_video_url": "https://www.youtube.com/embed/GFn6-E24TgE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ky8S3fXaxDHfy1iVHN1Ah9DIwcH7tVhFfmvWuulK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 25 Motion in a Plane - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12400181-709d-4b87-965c-2c06b2ef85e3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Motion in a Plane (Revision)",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/Jh_v01HZFw8",
+          "hd_video_url": "https://www.youtube.com/embed/Jh_v01HZFw8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/MU3DkDEPYR0yOeVYygTPpB9P1arubYWPGXsLe7MR.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Motion in a Plane (Revision)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca8b034b-aaf3-4932-ae22-5532860beea6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 26 || Motion in a Plane - 7",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/e5Nxh1dv34c",
+          "hd_video_url": "https://www.youtube.com/embed/e5Nxh1dv34c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/d2NZLdCKosUBm0n96jKyOUQwseTl8aNRS0ymVbMo.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 26  Motion in a Plane - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9040c6a-109b-4a13-b3a3-24ee27a7a4f3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 27 || Motion in a Plane - 8",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/-IhDtztJ98I",
+          "hd_video_url": "https://www.youtube.com/embed/-IhDtztJ98I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/lGrYfiaIgDJmJ5emI37qvCqPbtYZvpiADdhuUAqt.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 27 Motion in a Plane - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b4df98fd-966d-4fd6-a8ba-ba394b85668c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 28 || Motion in a Plane - 9",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/j_TKDwvjE5c",
+          "hd_video_url": "https://www.youtube.com/embed/j_TKDwvjE5c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/9C4RnBpUut7U362eJc5R6hZL3GdZf60SeliIhhb9.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 28 Motion in a Plane - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ca3cf5e-0ef3-40e1-8cf5-13ed65f27487.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 29 || Motion in a Plane - 10",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/7bnHm37SJ4w",
+          "hd_video_url": "https://www.youtube.com/embed/7bnHm37SJ4w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/3d6fJ4RDNKZEoyj0sWCFMKHu0jr34hEeGDamxZyC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 29 Motion in a Plane - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/63141fb5-c976-4b37-b5ab-5495d6e781a0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 30 || Motion in a Plane - 11",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/ML11BhiS_MQ",
+          "hd_video_url": "https://www.youtube.com/embed/ML11BhiS_MQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/VvKdSW4TGdeQOmwajDRfmKE2CL8TPvdHryZM9886.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 30  Motion in a Plane - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b179239-e205-4ea4-8add-651ba7af6d3a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 31 || Motion in a Plane - 12",
+          "published_date": "31 May 2025",
+          "video_url": "https://www.youtube.com/embed/GCRDqu5POzc",
+          "hd_video_url": "https://www.youtube.com/embed/GCRDqu5POzc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3RvSr9HozMtl6U6DSJBYgiQ8caq6fzUzSZJRybxB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 31 Motion in a Plane - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c554127-7073-430e-bc65-2ce17e2868c6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 32 || Motion in a Plane - 13",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/AXGAQGaCKHE",
+          "hd_video_url": "https://www.youtube.com/embed/AXGAQGaCKHE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/daVcLpFQSKdGrFzOifqOcH93fCN2JS03zWckG6Eb.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 32 Motion in a Plane - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9bac3da-b08a-41b9-9f58-fb2581d7b409.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 33 || Motion in a Plane - 14",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JeLj2rLsa-E",
+          "hd_video_url": "https://www.youtube.com/embed/JeLj2rLsa-E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/chi4zIQkMsn4wQXEBIK5eGBOxdqWFtXLYmy2PvnO.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 33 Motion in a Plane - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9436afa4-6db8-4c37-b1ef-8ac18cdb15ce.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 34 || Newton's Laws of Motion -1",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/D99oDveRM0E",
+          "hd_video_url": "https://www.youtube.com/embed/D99oDveRM0E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jqE1C2npK3fiQW8UjOIpzANJLN8woPObBrZZyHkQ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 34 Newton's Laws of Motion -1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abb82c0a-895f-47e7-84d1-3e87b4532afe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 35 || Newton's Laws of Motion -2",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/SDKBTUQaAGc",
+          "hd_video_url": "https://www.youtube.com/embed/SDKBTUQaAGc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iCJX8RvUV1gBp4lbg7gkom3oJ1H8i65HAd4MG2Ef.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 35 Newton's Laws of Motion -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e6b4ac4-9161-4e2d-8620-64d9d2e0d418.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 36 || Newton's Laws of Motion - 3",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/KQQULwZQZbY",
+          "hd_video_url": "https://www.youtube.com/embed/KQQULwZQZbY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EhECACQKw2nNjnVNEYHrvSq03oYojUDYpHsYHC0P.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 36 Newton's Laws of Motion - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5be881c-0e2a-46cf-851b-ada9e80068b3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 37 || Newton's Laws of Motion - 4",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2F4rxBbiDGg",
+          "hd_video_url": "https://www.youtube.com/embed/2F4rxBbiDGg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CX4JTDlNp76TTiihfzDFSiQ84gK1kqL1jYrONTDz.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 37 || Newton's Laws of Motion - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab2922a5-0674-4497-8deb-0570ddccc8e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 38 || Newton's Laws of Motion - 5",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/-HL0wtn1IRA",
+          "hd_video_url": "https://www.youtube.com/embed/-HL0wtn1IRA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cfgdDDX8U8A3dzGBethn71TtRIWe5muuA7E5Wii8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 38 Newton's Laws of Motion - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2842fa8-977b-4025-bd15-eba5e1fb9a48.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 39 || Newton's Laws of Motion - 6",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/f9yaxzdlY0M",
+          "hd_video_url": "https://www.youtube.com/embed/f9yaxzdlY0M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/trugt51Sk0hxahJRFYKgHwPj012PLDLZxZc4nW7X.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 39 Newton's Laws of Motion - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9bc70383-b8f3-4928-b344-7aafe584e4c9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 40 || Newton's Laws of Motion - 7",
+          "published_date": "14 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/xDlcjOwwUTc",
+          "hd_video_url": "https://www.youtube.com/embed/xDlcjOwwUTc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3ryNVT4UAkzNA9D4ANnyiVIYY1HD9faQIWwQTfFE.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 40 Newton's Laws of Motion - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db1f9efc-843e-4e03-bc4b-f3928f8ee9df.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 41 || Newton's Laws of Motion - 8",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/6Q2bBpBX6ss",
+          "hd_video_url": "https://www.youtube.com/embed/6Q2bBpBX6ss",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Z8RVNm2vUt9W9WoH69rymret1GerZOesmFo2lR16.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 41  Newton's Laws of Motion - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17a43a13-78d1-40bc-a790-b605aab575dc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 42 || Newton's Laws of Motion - 9",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/0YYEuhfb1xo",
+          "hd_video_url": "https://www.youtube.com/embed/0YYEuhfb1xo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0XQ5oYCuri9E2e2kiIm8w4ZQtCMIrSbNmrDEyXr8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 42 Newton's Laws of Motion - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abb5ba17-06e7-41f6-99a4-36b1da3303c1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 43 || Newton's Laws of Motion - 10",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/J07HOD-QYI4",
+          "hd_video_url": "https://www.youtube.com/embed/J07HOD-QYI4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/v8aPDVZcBeMaTa8Zg3YsShpdGsQc1dQ2EmtRhMHX.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 43 Newton's Laws of Motion - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dffcca2c-a880-4736-85e5-d2d7b65cdbb3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 44 || Newton's Laws of Motion - 11",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/G6JEQWQ44JY",
+          "hd_video_url": "https://www.youtube.com/embed/G6JEQWQ44JY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ckvnD9MUWUG1El6PTrbMspctuFw4YlXXX1gRA0iL.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 44 Newton's Laws of Motion - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ba5ca739-ca69-49af-afc4-06449751da90.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 45 || Newton's Laws of Motion - 12",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/N6KGtybk9-w",
+          "hd_video_url": "https://www.youtube.com/embed/N6KGtybk9-w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nIZhZXoYBtcRFFwqHzrfvEca7q1igP8KKdvkLc43.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 45 Newton's Laws of Motion - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7082965f-b9d4-44b6-b448-9df356d85fcf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 46 || Newton's Laws of Motion - 13",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/NdQbY1VRjSw",
+          "hd_video_url": "https://www.youtube.com/embed/NdQbY1VRjSw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GuKqL7wLMskB9YU1ZGdpN51ezktVK2WrgMXxslSw.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 46 Newton's Laws of Motion - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5dcae3a7-ea79-4c40-9365-258685ebb4fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture - 47 || Newton's Laws of Motion - 14",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/RsvHa8lfFcA",
+          "hd_video_url": "https://www.youtube.com/embed/RsvHa8lfFcA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PcSCvuGL1U79k6bSxE1y5cp1A54EHRZ0c4hhJXLB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 47  Newton's Laws of Motion - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/342fc4ab-f19b-4dec-8397-99010d4d93de.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture - 48 || Newton's Laws of Motion - 15",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/HccCd6pNDFQ",
+          "hd_video_url": "https://www.youtube.com/embed/HccCd6pNDFQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/sErlLe1j45t3DhT7SyFga8XeCiwSMEKJGTNmfrAg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 48 Newton's Laws of Motion - 15",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d346b172-7efa-47b4-855f-c2ea09ee044b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture - 49 || Newton's Laws of Motion - 16 & Work ,Energy and Power - 1",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/k3mtsEoVIVQ",
+          "hd_video_url": "https://www.youtube.com/embed/k3mtsEoVIVQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fvJoIkOk2AyLGJmNNXCwQYMAelbVCQ8G6HubTgWN.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 49 Newton's Laws of Motion - 16 & Work ,Energy and Power - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c21855e-919b-4875-bd23-dff4942621d5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture - 50 || Work ,Energy and Power - 2",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/KYWf-XrL71o",
+          "hd_video_url": "https://www.youtube.com/embed/KYWf-XrL71o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kv2uzSOis6hFiMzFuk5UpiozvtlIRTEiS49ioKRR.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 50 Work ,Energy and Power - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/924fd74a-8f0e-4de2-94e5-7759f88aa594.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture - 51 || Work ,Energy and Power - 3",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/mLY5sfkEVSI",
+          "hd_video_url": "https://www.youtube.com/embed/mLY5sfkEVSI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Jf8I5a1hgjdhlSK1bC1M64KfF8JbTP4iBDag1CHP.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 51 Work ,Energy and Power - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8292aef2-d8ca-491d-a18f-92882b9b8a99.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture - 52 || Work ,Energy and Power - 4",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/rA3VUF0DD9A",
+          "hd_video_url": "https://www.youtube.com/embed/rA3VUF0DD9A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8J51MtfHNzNYbYvnKXdbjc5SjCkZWRkSPHdUBYUg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 52 Work ,Energy and Power - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0b6d4a0-11c5-417c-b772-cf75008fb51e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture - 53 || Work ,Energy and Power - 5",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/vkKVMhGuP7M",
+          "hd_video_url": "https://www.youtube.com/embed/vkKVMhGuP7M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S1JPJW1bX0g5SnoOzydH0iy9EZUgTcjjdvCDb7VV.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 53 Work ,Energy and Power - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d2c62ab-3c82-4312-bb7c-bb97e2f3760d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture - 54 || Work ,Energy and Power - 6",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/IYyc97KAeIA",
+          "hd_video_url": "https://www.youtube.com/embed/IYyc97KAeIA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QmZt1DbQWZyiOUzutthQgSJEe91qDvbm64bcBDRg.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 54  Work ,Energy and Power - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/00559fab-e866-4e9c-b2ba-ddcc0237acdc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture - 55 || Work ,Energy and Power - 7",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/951paifMeKU",
+          "hd_video_url": "https://www.youtube.com/embed/951paifMeKU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nOUOepJtSmLtGnK1cH7X9M2V6zQEneuipBxWwHkd.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 55  Work ,Energy and Power - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e94fc31-2206-4fb7-8835-92d3fa6b73eb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture - 56 || Work ,Energy and Power - 8",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/2P2kK7VdgxU",
+          "hd_video_url": "https://www.youtube.com/embed/2P2kK7VdgxU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FVzADXsjaeE6H2NgFf89VJbXHOvHOz9cHPoscRjJ.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 56  Work ,Energy and Power - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93d9b192-7279-4595-9c06-001a83fd8890.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture - 57 || Work ,Energy and Power - 9",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GMg0eOsqVQk",
+          "hd_video_url": "https://www.youtube.com/embed/GMg0eOsqVQk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xpJrkAhm1NhrZ3zlvR5PEwPuD9i0uC7oPbVKNbm5.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 57 Work ,Energy and Power - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eeef55f7-c46f-4db9-b299-ce12be65f05e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture - 58 || Newton's Laws of Motion - 17",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/aNB0xf7IpeA",
+          "hd_video_url": "https://www.youtube.com/embed/aNB0xf7IpeA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dBHNcG9M3Imf4Kdx5hNitMj9FpQuEBGmnRuIdJVi.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 58 Newton's Laws of Motion - 17",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ba0a14e-c0fe-4ecb-9a38-4e690cf0aa5c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture - 59 || Newton's Laws of Motion - 18",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/s5HjF6hEQog",
+          "hd_video_url": "https://www.youtube.com/embed/s5HjF6hEQog",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KGfF3doL7rUQPThedq9Kt5bcRHQy8zMHZKE9jVGc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 59 Newton's Laws of Motion - 18",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c287f418-bc4b-4c72-a6f9-375ef770db44.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture - 60 || Newton's Laws of Motion - 19",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mdJtuJ6iZEY",
+          "hd_video_url": "https://www.youtube.com/embed/mdJtuJ6iZEY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bry61v4pFJ7Nq9nNgqmP80hb7Te3SoRVoRhV9jUv.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 60 Newton's Laws of Motion - 19",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b9f95d9-8c5c-42a6-a692-e0fec2ca3831.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture - 61|| Newton's Laws of Motion - 20",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/2uVSR8LVJ_8",
+          "hd_video_url": "https://www.youtube.com/embed/2uVSR8LVJ_8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5U3o4IrATuJt4OlvsRFLhJ4wWFaPtKmeu2HYbTEN.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture -61 Newton's Laws of Motion - 20",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2b2b865-0f95-48fc-9492-42feeb9b656b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture - 62 || Unit Test -3 Discussion & Newton's Laws of Motion - 21",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/4KqIQK1YY4U",
+          "hd_video_url": "https://www.youtube.com/embed/4KqIQK1YY4U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QmXmUtqqHmZvRQ1hOykzizJqzwCOd6msr2XiA5aB.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 62 Unit Test -3 Discussion & Newton's Laws of Motion - 21",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8c7cdca-afc1-4a07-9a21-233e47609c57.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture - 63 || Newton's Laws of Motion - 22",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/63Gcu0rJtO0",
+          "hd_video_url": "https://www.youtube.com/embed/63Gcu0rJtO0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vnpLYLYbgX0bDE7ElWgI0KgPyuvfkrZqS7nW2pfr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 63  Newton's Laws of Motion - 22",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f34cf685-3212-493a-a0df-5482d6ec45e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture - 64 || Newton's Laws of Motion - 23",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WOdhiEfS86Q",
+          "hd_video_url": "https://www.youtube.com/embed/WOdhiEfS86Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ShYfv3vy1LZLNcf3ADe86n8W1snBIa5o7Tbf45dc.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 64 Newton's Laws of Motion - 23",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/696f1190-bfc2-4c40-94ab-adf1ff8ae946.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture - 65 || Newton's Laws of Motion - 24",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/X5gUTSMuG_w",
+          "hd_video_url": "https://www.youtube.com/embed/X5gUTSMuG_w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nZ8Es59xCE9sdVLSooZhz1HQPdk9Y7GzJpuBeAkF.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 65  Newton's Laws of Motion - 24",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5f19236-e468-4d93-b35b-593a863b7514.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture - 66 || Newton's Laws of Motion - 25",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/b77geDpwJvo",
+          "hd_video_url": "https://www.youtube.com/embed/b77geDpwJvo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tv0USFZrXYhgOVeBpbkWyWyXtuxfgAxAwBidSO9s.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 66 Newton's Laws of Motion - 25",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/763706f8-2790-4541-acb9-be89bff96fc1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture - 67 || Newton's Laws of Motion - 26",
+          "published_date": "19 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/zSDh2LU5SIY",
+          "hd_video_url": "https://www.youtube.com/embed/zSDh2LU5SIY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IdpKBmRszzCGPK18LNgTscp7YJHVeCZ69IE3ARMv.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 67 Newton's Laws of Motion - 26",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/177523de-ac2c-476d-959c-f3e116b10e22.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 72,
+          "title": "Lecture - 68 || Centre of Mass & Collision - 1",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/adciV8PihdM",
+          "hd_video_url": "https://www.youtube.com/embed/adciV8PihdM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RjWBctdUef0UnbBmtp4vrIdXGLE72N2pOSY8hCh7.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 68 Centre of Mass & Collision - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08facdd4-f509-46da-ae8c-cc2596b58f46.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture - 67 || Centre of Mass & Collision - 2",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/scfoSmBFUVk",
+          "hd_video_url": "https://www.youtube.com/embed/scfoSmBFUVk",
+          "thumbnail": null,
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 69 Centre of Mass & Collision - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bce9fa39-30ee-4275-9406-2af0a051cc6e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 74,
+          "title": "Lecture - 69 || Centre of Mass & Collision - 3",
+          "published_date": "22 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mCS02g2AExI",
+          "hd_video_url": "https://www.youtube.com/embed/mCS02g2AExI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VPtQ6M3zu5rmNYzUJ5cDanF583oMqo6Wm2S8ldcq.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 69 Centre of Mass & Collision - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/616756ea-03b7-46ec-b6c5-d6e5d4fc6b92.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 75,
+          "title": "Lecture - 71 || Centre of Mass & Collision - 4",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/v1cs-T-DdxQ",
+          "hd_video_url": "https://www.youtube.com/embed/v1cs-T-DdxQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gdavRCmjxXVueVc0zl9GHKPYFDpSNWBKhlHaMGOo.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 71 Centre of Mass & Collision - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ab246d04-8bdf-44a7-a93d-c5d6b585550a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 76,
+          "title": "Lecture - 72 || Centre of Mass & Collision - 5",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/S2xQn-39kn8",
+          "hd_video_url": "https://www.youtube.com/embed/S2xQn-39kn8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TzbfpJN5TxvdxbsIhQOeEF8FM4yTDJhBRtjHo2kN.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 72 Centre of Mass & Collision - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb93e999-4c6a-4a75-bd30-031dd03876ef.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 77,
+          "title": "Lecture - 73 || Centre of Mass & Collision - 6",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/y73jR61-wcg",
+          "hd_video_url": "https://www.youtube.com/embed/y73jR61-wcg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dU35Y2s0L5Iw5yCBYekOlUuCDvI9OZoGobmbcI26.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 73 Centre of Mass & Collision - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02041464-036e-490b-bd5a-bddccf7b9dfd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 78,
+          "title": "Lecture - 74 || Centre of Mass & Collision - 7",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/8pALXGAQzD4",
+          "hd_video_url": "https://www.youtube.com/embed/8pALXGAQzD4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2jSUP31nIAVmrvUrm4c39TqMPbRHMSSiSYOj0yyK.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 74 Centre of Mass & Collision - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5442b19f-bb94-4a1e-9f21-d22825678c12.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 79,
+          "title": "Lecture - 75 || Centre of Mass & Collision - 8",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/l1v6Q8dzgco",
+          "hd_video_url": "https://www.youtube.com/embed/l1v6Q8dzgco",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OZxFHQ9U9RY04PSqYCr1W2xR1uEqhwI2MrpS1MgC.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 75 Centre of Mass & Collision - 8",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eeecf5a8-0574-446f-aadc-64ce5a87b07d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 80,
+          "title": "Lecture - 76 || Electrostatic-1(Electric Charge and Field)",
+          "published_date": "26 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/3JDhW1_MAw4",
+          "hd_video_url": "https://www.youtube.com/embed/3JDhW1_MAw4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zDyILJNVohPYrOvLA4ad9d74KKduI7aa8f8fLIRY.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 76 Electrostatic-1(Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9179e86-2eb0-44c7-af14-084c7e6acf47.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 81,
+          "title": "Lecture - 77 || Electrostatic- 2 (Electric Charge and Field)",
+          "published_date": "27 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/40nMws9N2h0",
+          "hd_video_url": "https://www.youtube.com/embed/40nMws9N2h0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q0hItCHALXCumC4R6EszklI1eanTFavNTChJpBl3.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 77 || Electrostatic- 2 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cb43a6c-af5e-4e92-8600-f0e698207674.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 82,
+          "title": "Lecture - 78 || Centre of Mass & Collision - 9",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/aKxCRo-KhUU",
+          "hd_video_url": "https://www.youtube.com/embed/aKxCRo-KhUU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bhxMYzqJC5lSUzZ6ObNv5g2BNAl5EaikwClAp2t8.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 78 Centre of Mass & Collision - 9",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73b6b58b-797d-4355-a777-bf1874be4162.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 83,
+          "title": "Lecture - 79 || Centre of Mass & Collision - 10",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Xld_BIb9G_Y",
+          "hd_video_url": "https://www.youtube.com/embed/Xld_BIb9G_Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xI081nOHP99b57zU9dvW12yaOyZCl8S2LGaIxg6D.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 79 Centre of Mass & Collision - 10",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f6bb4e8d-2da1-47e9-a301-26cd7f197295.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 84,
+          "title": "Lecture - 80 || Centre of Mass & Collision - 11",
+          "published_date": "30 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ZWHLyO-lSPw",
+          "hd_video_url": "https://www.youtube.com/embed/ZWHLyO-lSPw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rdFkeEzf61OqmbrDmV3cuRRgERtqOTg2o1WLKwgq.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 80 Centre of Mass & Collision - 11",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5a11573-7baa-4023-a78d-09c9c423fb1f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 85,
+          "title": "Lecture - 81 || Centre of Mass & Collision - 12",
+          "published_date": "31 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ejnj3xHGhoQ",
+          "hd_video_url": "https://www.youtube.com/embed/ejnj3xHGhoQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LBZqnppcTzI7vhdZjYiV3Ev0sne0oxn4J5aJoqVd.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 81 Centre of Mass & Collision - 12",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9c1aeba-db24-450f-8445-6836a83d33e9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 86,
+          "title": "Lecture - 82 || Centre of Mass & Collision - 13",
+          "published_date": "01 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Y-jc48vDGvQ",
+          "hd_video_url": "https://www.youtube.com/embed/Y-jc48vDGvQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Xg2NE7KhfYzJUrY69jnmzyhsfdkwFlC3aiJ9KRtq.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 82 Centre of Mass & Collision - 13",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/151fbd08-1da4-4629-a85b-07ad8d2ff587.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 87,
+          "title": "Lecture - 83 || Electrostatic- 3 (Electric Charge and Field)",
+          "published_date": "02 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Yn-lRk8a_c4",
+          "hd_video_url": "https://www.youtube.com/embed/Yn-lRk8a_c4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FJ2KRnx8x7tDm3kzY9Afqi1PntlGFplzxbpmGId4.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 83 Electrostatic- 3 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40899fb4-5db2-4378-8e88-a4acd93e976a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 88,
+          "title": "Lecture - 84 || Electrostatic- 4 (Electric Charge and Field)",
+          "published_date": "02 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/wGo3oWUmhEc",
+          "hd_video_url": "https://www.youtube.com/embed/wGo3oWUmhEc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yCAeuRqawg6qYj3CZ6W93FaekCFLP8FKO7vy3wlr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 84 Electrostatic- 4 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96b85d8c-dcc8-4e70-b47c-3f842c6ee893.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 89,
+          "title": "Lecture - 85 || Electrostatic- 5 (Electric Charge and Field)",
+          "published_date": "03 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/abEIM_wJngY",
+          "hd_video_url": "https://www.youtube.com/embed/abEIM_wJngY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7nWgND0SBbZ0qvYqR89ozLCOHG5AMZ4VQlDx8Y19.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 85 Electrostatic- 5 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1822624-ad37-43d9-9bbe-a85c675ce5d4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 90,
+          "title": "Lecture - 86 || Centre of Mass & Collision - 14",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/PsgppLrnhUA",
+          "hd_video_url": "https://www.youtube.com/embed/PsgppLrnhUA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FceW6tX7avmelTSBuVjd0RkF4nvC8miysBufK00E.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 86 Centre of Mass & Collision - 14",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/361eec21-e718-40a6-81ed-65a17a858a74.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 91,
+          "title": "Lecture - 87 || Centre of Mass & Collision - 15",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/gYHJlNm7Rd4",
+          "hd_video_url": "https://www.youtube.com/embed/gYHJlNm7Rd4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5yWubeRrXP2fgQUxNUgN8ewxZhU6AENJqvqcxlRm.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 87 Centre of Mass & Collision - 15",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f49851b-7ef0-41fc-b255-6eca6539ffc7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 92,
+          "title": "Lecture - 88 || Centre of Mass & Collision - 16",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/qFQxaFLS6q4",
+          "hd_video_url": "https://www.youtube.com/embed/qFQxaFLS6q4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4gds9i0WLiIJt4mcyZLDxobhR1eW3QgOHLlWe6hj.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 88 Centre of Mass & Collision - 16",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cd08db6-e8ec-4f2b-97ce-3f11379cf321.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 93,
+          "title": "Lecture - 89 || Centre of Mass & Collision - 17",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/qjAYs6L4kx0",
+          "hd_video_url": "https://www.youtube.com/embed/qjAYs6L4kx0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/wdV8oxHsoP6BIePoeqJ5wGqSpxwT1IZ48CtDjN3X.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 89 Centre of Mass & Collision - 17",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9756feea-8a55-4048-94a9-56ebe6f781a2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 94,
+          "title": "Lecture - 90 || Centre of Mass & Collision - 18",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/rKajmH-tB-U",
+          "hd_video_url": "https://www.youtube.com/embed/rKajmH-tB-U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PN8GJMZfIkdS1LTthshQd179iLHnVkR5xH7Va4J5.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 90 Centre of Mass & Collision - 18",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3983a4fd-a039-4f55-ab4f-dbe2f6f35bcf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 95,
+          "title": "Lecture - 91 || Ray Optics and Optical Instruments-1",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/uiSLCihpFqU",
+          "hd_video_url": "https://www.youtube.com/embed/uiSLCihpFqU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/prG1TI445VbyCFh120trUJtWfoLPce4uPhy9cSNe.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 91 Ray Optics and Optical Instruments-1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eef1819e-f991-48b0-bb0b-a42952e35217.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 96,
+          "title": "Lecture - 92 || Ray Optics and Optical Instruments -2",
+          "published_date": "19 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/VY2qP5rw6KY",
+          "hd_video_url": "https://www.youtube.com/embed/VY2qP5rw6KY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/06tWPMjT8f7VKJ0BagqvIMlq56x1luTFpL4qSmkY.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 92 || Ray Optics and Optical Instruments -2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca7c2de2-1f2c-4c75-b637-249b1f425667.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 97,
+          "title": "Lecture - 93 || Ray Optics and Optical Instruments -3",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/1VZueFYk40A",
+          "hd_video_url": "https://www.youtube.com/embed/1VZueFYk40A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QuCpjF8A5oDLmsBVebAuFY6YShMeWeqhPgHNIMpt.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 93 Ray Optics and Optical Instruments -3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9c73dca-c782-47af-bf06-c8c2c4b0868f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 98,
+          "title": "Lecture - 94 || Ray Optics and Optical Instruments - 4",
+          "published_date": "21 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/DEGNpohK-Wo",
+          "hd_video_url": "https://www.youtube.com/embed/DEGNpohK-Wo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U3A47fJOQalKqD0xROUWkC00ypFOUnEpDlQZY7PV.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 94 Ray Optics and Optical Instruments - 4",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1b4f416-9b56-4775-b450-fcde49afdaa0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 99,
+          "title": "Lecture - 95 || Ray Optics and Optical Instruments - 5",
+          "published_date": "22 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/YJTS9Zg5XMQ",
+          "hd_video_url": "https://www.youtube.com/embed/YJTS9Zg5XMQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k18XtKjuSufAG4wLcTUPBFIRUM22hbnoESN8nKlr.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 95 Ray Optics and Optical Instruments - 5",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/446256aa-f658-4fa0-a249-084fdbb62f2a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 100,
+          "title": "Lecture - 96 || Electrostatic- 6 (Electric Charge and Field)",
+          "published_date": "23 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9z8kRB6DScE",
+          "hd_video_url": "https://www.youtube.com/embed/9z8kRB6DScE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lnb5VVwTZCWn37n443MdqgvQGXkFHz3rAfEwRn5k.jpg",
+          "notes": [
+            {
+              "title": "Class Notes Lecture - 96  Electrostatic- 6 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fc750e7a-1d40-47cb-8fc8-fb5dc7b03019.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 101,
+          "title": "Lecture - 97 || Electrostatic- 7 (Electric Charge and Field)",
+          "published_date": "24 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/N7UTV1qq2LY",
+          "hd_video_url": "https://www.youtube.com/embed/N7UTV1qq2LY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UYXH0kownUSjhHc3jHh6RvKLBvWleGL6tNn86pME.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 97 || Electrostatic- 7 (Electric Charge and Field)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e16c4cc9-08e9-4e5c-a8c5-fc5759e90e67.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 102,
+          "title": "Lecture - 98 || Ray Optics and Optical Instruments - 6",
+          "published_date": "26 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/KXhJYfQySCo",
+          "hd_video_url": "https://www.youtube.com/embed/KXhJYfQySCo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hbMQxrZ5cH5YiBCdAYC12TgqxAmTFjnoohJyHKtb.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 98 || Ray Optics and Optical Instruments - 6",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a06263a6-b36e-4ff7-af40-ec86ad284d41.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 103,
+          "title": "Lecture - 99 || Ray Optics and Optical Instruments - 7",
+          "published_date": "27 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/C0sGUuLcKSQ",
+          "hd_video_url": "https://www.youtube.com/embed/C0sGUuLcKSQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iCaBvlAuBfUAkXfEfeWVbgnwyK35Hjk1w0kJeN39.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 99 || Ray Optics and Optical Instruments - 7",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74eac6f0-4bc8-4ae1-b230-b1dcaa589bf1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 104,
+          "title": "Lecture - 100 || Ray Optics and Optical Instruments - 8",
+          "published_date": "28 Aug 2025",
+          "video_url": "",
+          "hd_video_url": "",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AA3TNm2ucd7vS6x6tWTRuEza1LdjD3Wqu8oH5ieM.jpg",
+          "notes": []
+        },
+        {
+          "serial": 105,
+          "title": "Lecture - 96 || Some Basic Concept of Chemistry - 11",
+          "published_date": "28 Aug 2025",
+          "video_url": "",
+          "hd_video_url": "",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VUop1I9oRaJkSRyKKXuYjyqmPr8VhhDjG6el21bT.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Physics Supporting Material",
+      "subject_id": 7723,
+      "video_count": 21,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Mathematical Tools & Vector (Practice Section)  Part 1 - Video Solution - 1",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/91ml6DUnFN8",
+          "hd_video_url": "https://www.youtube.com/embed/91ml6DUnFN8",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Mathematical Tools & Vector (Practice Section)  Part 2 - Video Solution - 2",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/iVhoW1VMrwk",
+          "hd_video_url": "https://www.youtube.com/embed/iVhoW1VMrwk",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 1 - Video Solution - 3",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/B4VFa8t7JlQ",
+          "hd_video_url": "https://www.youtube.com/embed/B4VFa8t7JlQ",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 2 - Video Solution - 4",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/nwC5hkcw4K0",
+          "hd_video_url": "https://www.youtube.com/embed/nwC5hkcw4K0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 5,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 3 - Video Solution - 5",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Yd0gbx00HdE",
+          "hd_video_url": "https://www.youtube.com/embed/Yd0gbx00HdE",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 6,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 4 - Video Solution - 6",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mHG-e7lWKMM",
+          "hd_video_url": "https://www.youtube.com/embed/mHG-e7lWKMM",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 7,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 5 - Video Solution - 7",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/6NVjat5_Lo4",
+          "hd_video_url": "https://www.youtube.com/embed/6NVjat5_Lo4",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 8,
+          "title": "Kinematics 1-D & 2-D (Practice Section) Part 6 - Video Solution - 8",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/dshgFkB7QXI",
+          "hd_video_url": "https://www.youtube.com/embed/dshgFkB7QXI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 9,
+          "title": "Newton's Laws of Motion (Practice Section)  Part 1 - Video Solution - 9",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Tig4HPmHMZw",
+          "hd_video_url": "https://www.youtube.com/embed/Tig4HPmHMZw",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "Newton's Laws of Motion (Practice Section)  Part 2 - Video Solution - 10",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/M0CVCOER9A0",
+          "hd_video_url": "https://www.youtube.com/embed/M0CVCOER9A0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 11,
+          "title": "Newton's Laws of Motion (Practice Section) Part 3 - Video Solution - 11",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5vXxJ-IhpDg",
+          "hd_video_url": "https://www.youtube.com/embed/5vXxJ-IhpDg",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 12,
+          "title": "Work ,Energy and Power (Practice Section) Part 1 - Video Solution - 12",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/bjJzJtpErNU",
+          "hd_video_url": "https://www.youtube.com/embed/bjJzJtpErNU",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "Work ,Energy and Power (Practice Section) Part 2 - Video Solution - 13",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/VT60x_hIt9Y",
+          "hd_video_url": "https://www.youtube.com/embed/VT60x_hIt9Y",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "Centre of Mass & Collision (Practice Section) Part 1 - Video Solution - 14",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/uH6kAqdUjCs",
+          "hd_video_url": "https://www.youtube.com/embed/uH6kAqdUjCs",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 15,
+          "title": "Centre of Mass & Collision (Practice Section) Part 2 - Video Solution - 15",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/2E228VSWHxw",
+          "hd_video_url": "https://www.youtube.com/embed/2E228VSWHxw",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 16,
+          "title": "Electrostatic (Practice Section) Part 1 - Video Solution - 16",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/4ZmeE0EdkTI",
+          "hd_video_url": "https://www.youtube.com/embed/4ZmeE0EdkTI",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 17,
+          "title": "Electrostatic (Practice Section) Part 2 - Video Solution - 17",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/51-pl8vSO9k",
+          "hd_video_url": "https://www.youtube.com/embed/51-pl8vSO9k",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 18,
+          "title": "Ray Optics and Optical Instruments (Practice Section) Part 1 - Video Solution - 18",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9os5Fb6QED",
+          "hd_video_url": "https://www.youtube.com/embed/9os5Fb6QED",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 19,
+          "title": "Ray Optics and Optical Instruments (Practice Section) Part 2 - Video Solution - 19",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/djWHBZmXq9w",
+          "hd_video_url": "https://www.youtube.com/embed/djWHBZmXq9w",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 20,
+          "title": "Ray Optics and Optical Instruments (Practice Section) Part 3 - Video Solution - 20",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/wkWI6ReNRf0",
+          "hd_video_url": "https://www.youtube.com/embed/wkWI6ReNRf0",
+          "thumbnail": null,
+          "notes": []
+        },
+        {
+          "serial": 21,
+          "title": "Ray Optics and Optical Instruments (Practice Section) Part 4 - Video Solution - 20",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/OsJaVaW5UXc",
+          "hd_video_url": "https://www.youtube.com/embed/OsJaVaW5UXc",
+          "thumbnail": null,
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Test Paper And Solution",
+      "subject_id": 6966,
+      "video_count": 3,
+      "note_count": 3,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Unit Test - 1 Physics Question Video Solution - 1",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/GKYmE8TQ4Hg",
+          "hd_video_url": "https://www.youtube.com/embed/GKYmE8TQ4Hg",
+          "thumbnail": null,
+          "notes": [
+            {
+              "title": "Class Notes Unit Test - 1 Physics Question Video Solution - 1",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/128e93ae-efbc-4083-a3b3-4b577c8c20c9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Unit Test - 1 Chemistry Question Video Solution - 2",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/VgdR3iYjUNI",
+          "hd_video_url": "https://www.youtube.com/embed/VgdR3iYjUNI",
+          "thumbnail": null,
+          "notes": [
+            {
+              "title": "Class Notes Unit Test - 1 Chemistry Question Video Solution - 2",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09512f74-d367-483e-9389-6b395698a30a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Unit Test - 1 Math Question Video Solution - 3",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/PPpP_8rvBhE",
+          "hd_video_url": "https://www.youtube.com/embed/PPpP_8rvBhE",
+          "thumbnail": null,
+          "notes": [
+            {
+              "title": "Class Notes Unit Test - 1 Math Question Video Solution - 3",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9fb3d60c-aa07-4709-b82b-b5fb26d69421.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

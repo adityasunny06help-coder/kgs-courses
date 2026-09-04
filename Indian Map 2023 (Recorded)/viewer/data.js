@@ -1,0 +1,473 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Indian Map by Khan Sir",
+      "subject_id": 394,
+      "video_count": 57,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "L- 55 (Rivers of India 03 )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l54/l54.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a2469c07-c7c0-408d-91cf-bb5c6ad08ef6.png",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "L- 54 (Rivers of India 02 )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l53/l53.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//30cd45da-d8a1-47dd-803a-a34174ccdfca.png",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "L- 53 (Rivers of India 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l52/l52.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f494b5bc-5697-48f1-a740-a2f0d1b76ff2.png",
+          "notes": []
+        },
+        {
+          "serial": 4,
+          "title": "L- 52 ( Security force )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l51/l51.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//67dbcad2-2c8b-4df4-a0d2-63a0d073723d.png",
+          "notes": []
+        },
+        {
+          "serial": 5,
+          "title": "L - 51 ( Railway Zone And Military Headquarters )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l50/l50.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//063400ef-de7f-439d-92b6-709d1fca4dea.png",
+          "notes": []
+        },
+        {
+          "serial": 6,
+          "title": "L- 50 ( Railway Zone )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l49/l49.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//490829c1-a4e3-4273-94a7-6bf6ea8ded53.png",
+          "notes": []
+        },
+        {
+          "serial": 7,
+          "title": "L- 49 ( National Park )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l48/l48.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9695bb6b-4307-40f3-a6f6-b43f69b264ef.png",
+          "notes": []
+        },
+        {
+          "serial": 8,
+          "title": "L- 48 (Sea Port 02 )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l47/l47.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//2ab13d81-f43d-482f-8c60-6dbcc9739588.png",
+          "notes": []
+        },
+        {
+          "serial": 9,
+          "title": "L- 47 ( Sea Port 01 )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l46/l46.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f316387b-b813-4520-83ff-550a9527e823.png",
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "L- 46 ( Nuclear Power Station)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l45/l45.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//33e7e21e-5029-42f6-ba4c-76977b702644.png",
+          "notes": []
+        },
+        {
+          "serial": 11,
+          "title": "L- 45 ( National Water Way )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l44/l44.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//eb030faf-7125-4ded-8fdb-4e8e1c524a74.png",
+          "notes": []
+        },
+        {
+          "serial": 12,
+          "title": "L- 44 ( National Highway)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l43/l43.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f108abb1-ab66-495f-ad13-66c32b0431e4.png",
+          "notes": []
+        },
+        {
+          "serial": 13,
+          "title": "L- 43 ( Soil )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l42/l42.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3571cb2f-a644-4e98-97b7-e5db8280073f.png",
+          "notes": []
+        },
+        {
+          "serial": 14,
+          "title": "L- 42 (Waterfall)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l41/l41.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//daef02dc-65e9-496e-9a3a-950d7da63dec.png",
+          "notes": []
+        },
+        {
+          "serial": 15,
+          "title": "L- 41 (Lake)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l40/l40.m3u8",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 16,
+          "title": "L- 40 (Physical Expansion of India)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l39/l39.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//4329d933-84e0-4635-933c-09d282cbc366.png",
+          "notes": []
+        },
+        {
+          "serial": 17,
+          "title": "L- 39 (land and water boundry of india)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l38/l38.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b234e577-7d0f-4ab4-ae89-99fbb21faa14.png",
+          "notes": []
+        },
+        {
+          "serial": 18,
+          "title": "L- 38 (Introduction to India)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l37/l37.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//01784efe-ea9d-4b5b-9a26-1851349e7a80.png",
+          "notes": []
+        },
+        {
+          "serial": 19,
+          "title": "L- 37 (plateau)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l36/l36.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//27f3fc81-348b-4c7b-b21e-a42adadd54e7.png",
+          "notes": []
+        },
+        {
+          "serial": 20,
+          "title": "L- 36 (Monsoon 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l35/l35.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//90ccccc5-54aa-4eee-8f9b-4f11270cd358.png",
+          "notes": []
+        },
+        {
+          "serial": 21,
+          "title": "L- 35 (Monsoon 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l34/l34.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//6e218ec8-cf68-46dc-b8b6-819c27530b4d.png",
+          "notes": []
+        },
+        {
+          "serial": 22,
+          "title": "L- 34 (Pass)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l33/l33.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//650e5335-c708-4438-b59b-336d87c1c4cd.png",
+          "notes": []
+        },
+        {
+          "serial": 23,
+          "title": "L- 33 (Mountain 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l32/l32.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3ca4db93-1822-48f3-aac3-c152ba32fe43.png",
+          "notes": []
+        },
+        {
+          "serial": 24,
+          "title": "L- 32 (Mountain 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l31/l31.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//ab64eddb-6094-4254-852b-9747dabc25dc.png",
+          "notes": []
+        },
+        {
+          "serial": 25,
+          "title": "L- 31 (Union Territory 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l30/l30.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//28a89868-97b1-48eb-9242-286108705e73.png",
+          "notes": []
+        },
+        {
+          "serial": 26,
+          "title": "L- 30 (Union Territory 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l29/l29.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3a890795-cb53-4134-a476-212df5231f87.png",
+          "notes": []
+        },
+        {
+          "serial": 27,
+          "title": "L- 29 ( Tamilnadu , Pondicherry)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l28/l28.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//269760e7-c0f7-441c-9035-abc3f264998c.png",
+          "notes": []
+        },
+        {
+          "serial": 28,
+          "title": "L- 28 (Kerala , TamilNadu)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l27/l27.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//56aacf5f-c07f-45f2-af29-69f71a2fddc6.png",
+          "notes": []
+        },
+        {
+          "serial": 29,
+          "title": "L- 27 (  Karnataka 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l26/l26.m3u8",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 30,
+          "title": "L- 26 ( Andhra Pradesh , Karnataka 01)",
+          "published_date": null,
+          "video_url": "https://s3.ap-northeast-1.wasabisys.com/kgs-test/ind-map/l25/l25.m3u8",
+          "hd_video_url": "https://www.youtube.com/embed/yfBtskrzOmw",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c0da9411-4d7a-425e-9f80-6742822e4cbc.png",
+          "notes": []
+        },
+        {
+          "serial": 31,
+          "title": "L- 25 ( Goa , Telangana)",
+          "published_date": null,
+          "video_url": "https://www.youtube.com/embed/A9YRmun5i_g",
+          "hd_video_url": "https://www.youtube.com/embed/A9YRmun5i_g",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d4c84a4a-89a2-42ef-b1ca-1de6f664677d.png",
+          "notes": []
+        },
+        {
+          "serial": 32,
+          "title": "L-24 ( Maharashtra  03 , Telangana)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l24-2/l24.m3u8",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 33,
+          "title": "L- 23 ( Maharashtra 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l23/l23.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//3c856f0c-4068-4f4a-babf-9243c011d8a8.png",
+          "notes": []
+        },
+        {
+          "serial": 34,
+          "title": "L- 22 (Madhya Pradesh , Maharashtra 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l22/l22.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//aa76f5fe-754f-4f24-884a-125c262213a1.png",
+          "notes": []
+        },
+        {
+          "serial": 35,
+          "title": "L- 21 (Chhattishgarh)",
+          "published_date": null,
+          "video_url": "https://www.youtube.com/embed/qOAyDyJ5Qc4",
+          "hd_video_url": "https://www.youtube.com/embed/qOAyDyJ5Qc4",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 36,
+          "title": "L- 20 (Odisha and Chhattisgarh)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l20/l20.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//91bb343e-2911-4fc3-b0cc-8437f24e1a11.png",
+          "notes": []
+        },
+        {
+          "serial": 37,
+          "title": "L- 19 (Assam & Odisha )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l19/l19.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//35165d12-8e64-486e-beab-4229ce4a52f2.png",
+          "notes": []
+        },
+        {
+          "serial": 38,
+          "title": "L- 18 (North East )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l18/l18.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//65b8c0aa-3235-4e07-a951-4b206ab36abd.png",
+          "notes": []
+        },
+        {
+          "serial": 39,
+          "title": "L- 17 (W B, Sikkim & Arunachal Pradesh)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l17/l17.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//74a6da90-c8ad-446a-a542-9e9548a77d27.png",
+          "notes": []
+        },
+        {
+          "serial": 40,
+          "title": "L-16 (Jharkhand And West Bengal)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l16/l16.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//e3cba862-216e-4cd3-841a-d365c2d3570a.png",
+          "notes": []
+        },
+        {
+          "serial": 41,
+          "title": "L- 15 ( Bihar 02 And Jharkhand)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l15/l15.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//42fdd9b8-0cb8-41ee-bf3b-ad35c7faed5f.png",
+          "notes": []
+        },
+        {
+          "serial": 42,
+          "title": "L- 14 (Bihar 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l14/l14.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//b467cd24-048f-42dd-a070-eaecee3d177e.png",
+          "notes": []
+        },
+        {
+          "serial": 43,
+          "title": "L- 13 (Uttar Pradesh 02)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l13/l13.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//f0522bed-a684-4548-a677-6cd074dd70d8.png",
+          "notes": []
+        },
+        {
+          "serial": 44,
+          "title": "L-12 (Uttar Pradesh 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l12/l12.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//95624361-00b3-4c4b-8408-f798f459e7c1.png",
+          "notes": []
+        },
+        {
+          "serial": 45,
+          "title": "L- 11 (Gujarat)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l11/l11.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//98a52f00-e11f-478c-9245-844a9faba40a.png",
+          "notes": []
+        },
+        {
+          "serial": 46,
+          "title": "Revision Class ( 24 Feb )",
+          "published_date": null,
+          "video_url": "https://www.youtube.com/embed/2SeyqiuQhps",
+          "hd_video_url": "https://www.youtube.com/embed/2SeyqiuQhps",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 47,
+          "title": "L-10 (Rajasthan 01)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l10/l10.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//186d4bf5-57da-4442-9af8-847ed889fb3e.png",
+          "notes": []
+        },
+        {
+          "serial": 48,
+          "title": "L- 09 (Uttarakhand 02 , Rajasthan)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l9/l9.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//050d2af3-fb20-4dc6-9984-6f6f733a31bc.png",
+          "notes": []
+        },
+        {
+          "serial": 49,
+          "title": "L- 08 (Ganga River)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l8/l8.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//d35eb2e8-7630-4294-9891-d454d2df5235.png",
+          "notes": []
+        },
+        {
+          "serial": 50,
+          "title": "L- 07 (Uttarakhand 01 )",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l7/l7.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//04a9d3d9-a4b0-4f4a-85b6-ab26d0a59a8b.png",
+          "notes": []
+        },
+        {
+          "serial": 51,
+          "title": "L- 06 (Punjab And Haryana)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l6/l6.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//9fd5638b-3186-4e94-b6fc-eed11d6e4996.png",
+          "notes": []
+        },
+        {
+          "serial": 52,
+          "title": "L- 05 (Punjab)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l5/l5.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//96b73b8b-8442-444b-a518-8cc3313fbe27.png",
+          "notes": []
+        },
+        {
+          "serial": 53,
+          "title": "L- 04 (Himachal Pradesh)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l4/l4.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//83a8a79f-b03e-42b5-865b-d73e40339daa.png",
+          "notes": []
+        },
+        {
+          "serial": 54,
+          "title": "L- 03 (Jammu & Kashmir)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l3/l3.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//a4226533-7914-4d8f-986d-962f41713b55.png",
+          "notes": []
+        },
+        {
+          "serial": 55,
+          "title": "L- 02 (Jammu & Kashmir)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l2/l2.m3u8",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 56,
+          "title": "L- 01 (Jammu & Kashmir)",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/l1/l1.m3u8",
+          "thumbnail": "",
+          "notes": []
+        },
+        {
+          "serial": 57,
+          "title": "Indian Map Introduction Class",
+          "published_date": null,
+          "hd_video_url": "https://kgs-v2.akamaized.net/kgs-test/ind-map/i1/i1.m3u8",
+          "thumbnail": "https://kgs-v2.akamaized.net/kgs/video-thumbs//c0a2cf7b-3644-421b-8eb4-ea3be07b681f.png",
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

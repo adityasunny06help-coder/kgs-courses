@@ -1,0 +1,809 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "DI Demo video",
+      "subject_id": 7069,
+      "video_count": 1,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "DI Demo video",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/T3AyUwFwTc8",
+          "hd_video_url": "https://www.youtube.com/embed/T3AyUwFwTc8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/0TyRtMJhyIcs1dHPtJlfGXNnoZeMY5VKwawmGQBw.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Practice Sheet of DI",
+      "subject_id": 7293,
+      "video_count": 0,
+      "note_count": 0,
+      "videos": [],
+      "notes": []
+    },
+    {
+      "subject_name": "Special DI by Bharat Sir",
+      "subject_id": 7131,
+      "video_count": 55,
+      "note_count": 55,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture-01 || DI Introduction Class",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/1Vw7F-5uDjE",
+          "hd_video_url": "https://www.youtube.com/embed/1Vw7F-5uDjE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RLdQjbz21bzHpGTBCmGqcheSJFI4il991IMdqBsX.jpg",
+          "notes": [
+            {
+              "title": "Lecture-01 || DI Introduction Class",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0cf54213-0efc-4b5a-81e5-9d1f32a14b18.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture-02 || Smart Calculation Tips for DI (Part - 01)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/MrZNYoeinn4",
+          "hd_video_url": "https://www.youtube.com/embed/MrZNYoeinn4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QqQfPlmuBrDrvDJOaqDk0Xts8DMUTgukpYV8YneP.png",
+          "notes": [
+            {
+              "title": "Lecture-02 || Smart Calculation Tips for DI (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db964a88-9249-4f0a-88a8-e66acfa74df2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture-03 || Smart Calculation Tips for DI (Part - 02)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/tWwm5OlrWnQ",
+          "hd_video_url": "https://www.youtube.com/embed/tWwm5OlrWnQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DqwEK02dOf01ZyHeS217ZC74l8CHFvpya9dprhA6.png",
+          "notes": [
+            {
+              "title": "Lecture-03 || Smart Calculation Tips for DI (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d4ff81d-c20c-4865-8726-4f6bcce1dd54.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture-04 || Smart Calculation Tips for DI (Part - 03)",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/uv8gnbyV--I",
+          "hd_video_url": "https://www.youtube.com/embed/uv8gnbyV--I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r7knsZLTSI5VXFqZnKPsXitfNgCBldl8rg95UhUG.png",
+          "notes": [
+            {
+              "title": "Lecture-04 || Smart Calculation Tips for DI (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec3cc98b-2e6e-4e80-ad13-96afb2973992.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture-05 || Smart Calculation Tips for DI (Part - 04)",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/DMdQTVD4sX0",
+          "hd_video_url": "https://www.youtube.com/embed/DMdQTVD4sX0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/w9uvi0WJmAHbi6igWvF4KDuqCox3u7Rasy4aFR0r.png",
+          "notes": [
+            {
+              "title": "Lecture-05 || Smart Calculation Tips for DI (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dacc6d91-77d6-46aa-9cf9-1d3005349d59.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture-06 || Smart Calculation Tips for DI (Part - 05)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/dP1N7SBtPYk",
+          "hd_video_url": "https://www.youtube.com/embed/dP1N7SBtPYk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/icLByYPtP0MsvF9Aet79EYf3Wp3LvtJCu3aDxZ86.png",
+          "notes": [
+            {
+              "title": "Lecture-06 || Smart Calculation Tips for DI (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/11853cd7-735a-40ba-8c29-d6aa1637fa03.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture-07 || Table Graph (Part - 01)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/WPkIXeBmV2o",
+          "hd_video_url": "https://www.youtube.com/embed/WPkIXeBmV2o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pJ7Gj9tRvxOUhF2MHSAN0vaj06oPFJbRtyfJdhfo.jpg",
+          "notes": [
+            {
+              "title": "Lecture-07 || Table Graph (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/135636ed-18a3-4bd1-adcb-1e0612dc5e29.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture-08 || Table Graph (Part - 02)",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/YN-TBRMUZpg",
+          "hd_video_url": "https://www.youtube.com/embed/YN-TBRMUZpg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bsNuDftEHNSqdq2oN0CgZfcHrMDMneLK27mBUBxN.jpg",
+          "notes": [
+            {
+              "title": "Lecture-08 || Table Graph (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5065d19-ab57-446f-9b28-fa44e2d0b78c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture-09 || Table Graph (Part - 03)",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/iWQEYfTV1no",
+          "hd_video_url": "https://www.youtube.com/embed/iWQEYfTV1no",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MR8jI9HrE4PkZfDZ7jrx5cMGGAJ1h7ounttiCYZS.jpg",
+          "notes": [
+            {
+              "title": "Lecture-09 || Table Graph (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb6c5df5-f14a-48cd-8ed8-92cbddcb612f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture-10 || Table Graph (Part - 04)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/q9-fUovf7W4",
+          "hd_video_url": "https://www.youtube.com/embed/q9-fUovf7W4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EqsxqMOACUOrXwwnq4yb4hAFQgMDhFY80f0qrIHT.jpg",
+          "notes": [
+            {
+              "title": "Lecture-10 || Table Graph (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4bb266df-eaa0-4494-86fa-481e8c9f7f1a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture-11 || Table Graph (Part - 05)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/cquPqgjG3is",
+          "hd_video_url": "https://www.youtube.com/embed/cquPqgjG3is",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BWH0rV5buxwY0y44Boy6plovz88c4YYr2oG1XXkq.jpg",
+          "notes": [
+            {
+              "title": "Lecture-11 || Table Graph (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9af228d1-54a7-498d-ac27-d0a84a9d806c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture-12 || Line Graph (Part - 01)",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/KFx-oSQkc0s",
+          "hd_video_url": "https://www.youtube.com/embed/KFx-oSQkc0s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/stnLPTUoONAA19JeQ5CxD3YcsVn1RsplzH89VkTM.jpg",
+          "notes": [
+            {
+              "title": "Lecture-12 || Line Graph (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35832d5e-0b02-4944-a1da-1169678e0bab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture-13 || Line Graph (Part - 02)",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/xFCvNG7c_14",
+          "hd_video_url": "https://www.youtube.com/embed/xFCvNG7c_14",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hhkAUhA8gDEwdQeiBiC2fWcxmrwA1DC6ZjjYgpVu.jpg",
+          "notes": [
+            {
+              "title": "Lecture-13 || Line Graph (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/043ebdfd-559f-4a85-b414-93a6166d1998.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture-14 || Line Graph (Part - 03)",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JklYiU1qJOQ",
+          "hd_video_url": "https://www.youtube.com/embed/JklYiU1qJOQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vp5LXs7i8RGWYPKqCWWAgupB90enbEfWskeGWdAH.jpg",
+          "notes": [
+            {
+              "title": "Lecture-14 || Line Graph (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3db2acc-485d-4487-9ab2-cc34b5ab2590.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture-15 || Line Graph (Part - 04)",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/lYnb8W2s8dg",
+          "hd_video_url": "https://www.youtube.com/embed/lYnb8W2s8dg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HOROSiRSLEAEQ1NQdkojjQH7OF5DT1rVm7AJ2Ju6.jpg",
+          "notes": [
+            {
+              "title": "Lecture-15 || Line Graph (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a113707-79f6-43ed-852f-774414e40d67.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture-16 || Line Graph (Part - 05)",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/-ov5IsRizoE",
+          "hd_video_url": "https://www.youtube.com/embed/-ov5IsRizoE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lk4ZuQ4U9bd4ZHAWfxZ8ZBMdkQN5jiwQx4EXDX96.jpg",
+          "notes": [
+            {
+              "title": "Lecture-16 || Line Graph (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41fd4cd6-f8fc-4e72-870f-5600d24340c2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture-17 || Bar Graph (Part - 01)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/B3hqMf5De6E",
+          "hd_video_url": "https://www.youtube.com/embed/B3hqMf5De6E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2M8taoZ2vIkEOxxql4uNv15dDlBqJALUP2t6SsFz.jpg",
+          "notes": [
+            {
+              "title": "Lecture-17 || Bar Graph (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99b9d290-5525-4eca-8f4e-7c26447c09e9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture-18 || Bar Graph (Part - 02)",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2GgvdSSu5nQ",
+          "hd_video_url": "https://www.youtube.com/embed/2GgvdSSu5nQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hqvaqN2Oa55I19bSmjYKe9FBQ8zke18uzrIY87qJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture-18 || Bar Graph (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2fe025b-8fbb-4fc9-83a4-a055cd9c7399.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture-19 || Bar Graph (Part - 03)",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/pklCdrhygOQ",
+          "hd_video_url": "https://www.youtube.com/embed/pklCdrhygOQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4fXOCrjIrrtlu5ncKFl7TDpBQE3xXnsJFKdW1rcy.jpg",
+          "notes": [
+            {
+              "title": "Lecture-19 || Bar Graph (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7df81913-2ecb-488e-9854-0bf8bebbcd8e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture-20 || Bar Graph (Part - 04)",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/uQfJjT7hWRI",
+          "hd_video_url": "https://www.youtube.com/embed/uQfJjT7hWRI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WXq89OgNBg0QArv7Wpjqplavm4kFFTJGFqSP5oR4.jpg",
+          "notes": [
+            {
+              "title": "Lecture-20 || Bar Graph (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac775e95-fffb-4ff4-8b82-19aedc19790b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture-21 || Bar Graph (Part - 05)",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/3daorNSY66I",
+          "hd_video_url": "https://www.youtube.com/embed/3daorNSY66I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DMR8SMMHJQ0cimUxK4H6m9lMTDLSFEW7vOHIKfva.jpg",
+          "notes": [
+            {
+              "title": "Lecture-21 || Bar Graph (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f87765e3-80e2-4e35-a4dd-80dec2656a96.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture-22 || Pie Chart (Part - 01)",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/1JcPGAbS74g",
+          "hd_video_url": "https://www.youtube.com/embed/1JcPGAbS74g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bYkqQBPF0SADJJLTBQlGFyFFEZcuKvsCOuYfIQHw.jpg",
+          "notes": [
+            {
+              "title": "Lecture-22 || Pie Chart (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2165883-2df3-4dc7-8629-3f3640b72071.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture-23 || Pie Chart (Part - 02)",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/DPiSvySRtOA",
+          "hd_video_url": "https://www.youtube.com/embed/DPiSvySRtOA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6sJ5B5BXKiYPNgk3GILTSU9dN8XHiIFtshP58BD8.jpg",
+          "notes": [
+            {
+              "title": "Lecture-23 || Pie Chart (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/138d4010-7397-4bcd-83dc-a6bbe38dd72d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture-24 || Pie Chart (Part - 03)",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kduW8tyBdQ8",
+          "hd_video_url": "https://www.youtube.com/embed/kduW8tyBdQ8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6D4nfUYbkFjayz5akAeXii2UkQ0ZyQVvTGyEOAn2.jpg",
+          "notes": [
+            {
+              "title": "Lecture-24 || Pie Chart (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/034b69ac-f576-4410-a4e8-58a1395c58e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture-25 || Pie Chart (Part - 04)",
+          "published_date": "09 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5tHHB6sh2VQ",
+          "hd_video_url": "https://www.youtube.com/embed/5tHHB6sh2VQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/99CwjQpK0NyqF4K8xDW9tr5ofzzl7FjyhK2dAEz7.jpg",
+          "notes": [
+            {
+              "title": "Lecture-25 || Pie Chart (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83667789-e6f2-4dc1-9090-d6e092ab0308.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture-26 || Pie Chart (Part - 05)",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/hZCSwgpes9k",
+          "hd_video_url": "https://www.youtube.com/embed/hZCSwgpes9k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nqrw4h0SsknbhdvrTZ2TbzXmQTG4ehQi9QxlETKW.jpg",
+          "notes": [
+            {
+              "title": "Lecture-26 || Pie Chart (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d6183c1-0a36-426d-8bc7-1120b7952190.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture-27 || Caselet DI (Part - 01)",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/C0mvaaQwLdg",
+          "hd_video_url": "https://www.youtube.com/embed/C0mvaaQwLdg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qs2Tq1P2XK7ROPYB3Ui6kYsmuDa8AJOMlvDepOOX.jpg",
+          "notes": [
+            {
+              "title": "Lecture-27 || Caselet DI (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ccc53f5-9140-49bf-b5d9-ed7159751d4d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture-28 || Caselet DI (Part - 02)",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/COlAElU59kM",
+          "hd_video_url": "https://www.youtube.com/embed/COlAElU59kM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zpj1ZyFnXQuTjG1FFRU5XuZpI1nkLoN0D5CbP2N5.jpg",
+          "notes": [
+            {
+              "title": "Lecture-28 || Caselet DI (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a2ea930-f696-444f-896b-62283fbab2a4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture-29 || Caselet DI (Part - 03)",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/krldYp8ioPQ",
+          "hd_video_url": "https://www.youtube.com/embed/krldYp8ioPQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/55t9NdyNh9eSJz0u8D0NXEyrlyH2DXGQb76Kr6ay.jpg",
+          "notes": [
+            {
+              "title": "Lecture-29 || Caselet DI (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ba2fc58-43ba-4840-905a-ea763b0dbbd4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture-30 || Caselet DI (Part - 04)",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ad2C1fltt18",
+          "hd_video_url": "https://www.youtube.com/embed/ad2C1fltt18",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ePLVbDzCkkPUFuEtntanj2axTDEpWeLzIvokadw9.jpg",
+          "notes": [
+            {
+              "title": "Lecture-30 || Caselet DI (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/59264df6-8659-47f9-8614-c660ffa1333a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture-31 || Caselet DI (Part - 05)",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/gILXj1_MFy8",
+          "hd_video_url": "https://www.youtube.com/embed/gILXj1_MFy8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/27vHbNyBWRlzXiLoXsz4aYJlHZcNkhUrgESeKDuE.jpg",
+          "notes": [
+            {
+              "title": "Lecture-31 || Caselet DI (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3365d3a6-8a27-4b20-868a-0260f832215a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture-32 || Mix Graph Advance (Part - 01)",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/qF_jWmVrWlk",
+          "hd_video_url": "https://www.youtube.com/embed/qF_jWmVrWlk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aOmEHnl3z9jSgtSy9D3LdbbPBmGjW7ky3YFerzL7.jpg",
+          "notes": [
+            {
+              "title": "Lecture-32 || Mix Graph Advance (Part - 01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fed79871-4341-4f1a-af2d-7e405c57e416.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture-33 || Mix Graph Advance (Part - 02)",
+          "published_date": "22 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/mU6SHSFnDmU",
+          "hd_video_url": "https://www.youtube.com/embed/mU6SHSFnDmU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IKlXxjldwk3iogKNjQvavOBn7vLtAdwc8I2hgtfo.jpg",
+          "notes": [
+            {
+              "title": "Lecture-33 || Mix Graph Advance (Part - 02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0ee6ba0d-e7cc-46e6-ba69-5eb7bf0a275f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture-34 || Mix Graph Advance (Part - 03)",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/PPrL19iS5NY",
+          "hd_video_url": "https://www.youtube.com/embed/PPrL19iS5NY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/D4B5yKqOlvtTsonpITbx0MqXXm31r8Xy4uffDSJj.jpg",
+          "notes": [
+            {
+              "title": "Lecture-34 || Mix Graph Advance (Part - 03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87cbb0d0-7c74-49a5-989c-feb433bb4734.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture-35 || Mix Graph Advance (Part - 04)",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/qGf9FqQ_w-E",
+          "hd_video_url": "https://www.youtube.com/embed/qGf9FqQ_w-E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/v07Mr7H4u18NsRQgRxIe8MHNKLuh4aLS1IiabIcc.jpg",
+          "notes": [
+            {
+              "title": "Lecture-35 || Mix Graph Advance (Part - 04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/317a51cb-3c07-4739-ba86-beb8e8df6ef8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture-36 || Mix Graph Advance (Part - 05)",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/erIYEJjD79s",
+          "hd_video_url": "https://www.youtube.com/embed/erIYEJjD79s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XYOjKmlUkVS5KV8yx2GlN10P1ooFhqPuztNrczyM.jpg",
+          "notes": [
+            {
+              "title": "Lecture-36 || Mix Graph Advance (Part - 05)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ee6e54c-4b07-42a4-9e13-6ab7ff42f1f5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture-37 || Mix Graph Advance (Part - 06)",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kaYwVr07Pw0",
+          "hd_video_url": "https://www.youtube.com/embed/kaYwVr07Pw0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ibkfRm6eEWtnYoFyexQ1AGGZp0I5uffSgH1nT6N.jpg",
+          "notes": [
+            {
+              "title": "Lecture-37 || Mix Graph Advance (Part - 06)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ae6d18e-5a05-4793-8462-34f0b4961986.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture-38 || Mix Graph Advance (Part - 07)",
+          "published_date": "30 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/z4YBwWeyXtM",
+          "hd_video_url": "https://www.youtube.com/embed/z4YBwWeyXtM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/iNlAlTXS82QMOhtnG6GDZnOfCh5o7y64yeX2TcNY.jpg",
+          "notes": [
+            {
+              "title": "Lecture-38 || Mix Graph Advance (Part - 07)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c64f00aa-179b-49e9-973d-2a37b3474297.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture-39 || Mix Graph Advance (Part - 08)",
+          "published_date": "01 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/nifBHgGGcL4",
+          "hd_video_url": "https://www.youtube.com/embed/nifBHgGGcL4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7i7SrZpiBXJWR78gCrdnh690ySoFbWvqYPg3w4CD.jpg",
+          "notes": [
+            {
+              "title": "Lecture-39 || Mix Graph Advance (Part - 08)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f106e17b-02fa-4719-9dde-f6d4dd1b6794.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture-40 || Mix Graph Advance (Part - 09)",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/ajPRUFnYJyQ",
+          "hd_video_url": "https://www.youtube.com/embed/ajPRUFnYJyQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CBjPbHu2SiTbqzN5y0u8PBwqVZqOOf97Z719tYln.jpg",
+          "notes": [
+            {
+              "title": "Lecture-40 || Mix Graph Advance (Part - 09)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a528368a-a07a-4006-b081-76756b60868a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture-41 || Mix Graph Advance (Part - 10)",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/3iJ94dc5bFI",
+          "hd_video_url": "https://www.youtube.com/embed/3iJ94dc5bFI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F6wwOKjvU8YKlkEAkEIhQUCwawHw38GWIT0G4bv0.jpg",
+          "notes": [
+            {
+              "title": "Lecture-41 || Mix Graph Advance (Part - 10)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d722868-178c-47c2-9914-578384986474.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture-42 || Mix Graph Advance (Part - 11)",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Fs3sAt_YOXk",
+          "hd_video_url": "https://www.youtube.com/embed/Fs3sAt_YOXk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/znuvMuPiqrDKfbO9DWFQ3JvIMAu4cG08Y9FRERLI.jpg",
+          "notes": [
+            {
+              "title": "Lecture-42 || Mix Graph Advance (Part - 11)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9022cc70-1da9-45d6-a417-9afff7fa655f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture-43 || Mix Graph Advance (Part - 12)",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/QH7LazIeba4",
+          "hd_video_url": "https://www.youtube.com/embed/QH7LazIeba4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cAWVIEjgVmzUzkNPnJIenRRtTbTHi4rwYldEkvrp.jpg",
+          "notes": [
+            {
+              "title": "Lecture-43 || Mix Graph Advance (Part - 12)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd07077d-6676-49c1-8707-9640e78311f4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture-44 || Mix Graph Advance (Part - 13)",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/Cyf1bsIvFmM",
+          "hd_video_url": "https://www.youtube.com/embed/Cyf1bsIvFmM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ETvqZPAubbRTM62GRsRpqwURmrWkansIPp9ImPNx.jpg",
+          "notes": [
+            {
+              "title": "Lecture-44 || Mix Graph Advance (Part - 13)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8603e6d-0fe4-4743-bf46-c72d45e4e4a2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture-45 || Mix Graph Advance (Part - 14)",
+          "published_date": "11 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/cDoVQylWLGs",
+          "hd_video_url": "https://www.youtube.com/embed/cDoVQylWLGs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Yy9sWGxhOS8KLNUBYphvr8oHsusqBP1Lbtglq3EX.jpg",
+          "notes": [
+            {
+              "title": "Lecture-45 || Mix Graph Advance (Part - 14)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2bee7a3-05dd-414f-b4cf-24895b34159e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture-46 || Mix Graph Advance (Part - 15)",
+          "published_date": "12 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/aPEdeH-JtEs",
+          "hd_video_url": "https://www.youtube.com/embed/aPEdeH-JtEs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/M3yZhks5EXzzd5pli9puolypvjmMvH7DKvOBz3W5.jpg",
+          "notes": [
+            {
+              "title": "Lecture-46 || Mix Graph Advance (Part - 15)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b83daeb6-470b-4b37-9550-8610f0685bf9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture-47 || Mix Graph Advance (Part - 16)",
+          "published_date": "13 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/EC5JNAmBPrY",
+          "hd_video_url": "https://www.youtube.com/embed/EC5JNAmBPrY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LXULDa54UTCsFrwXUi8gCYsQKYvaS2U6cVLFm6dL.jpg",
+          "notes": [
+            {
+              "title": "Lecture-47 || Mix Graph Advance (Part - 16)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb82a16f-7f37-4eab-a208-51775b2b7c18.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture-48 || Mix Graph Advance (Part - 17)",
+          "published_date": "14 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/qm_7Bgz4nTU",
+          "hd_video_url": "https://www.youtube.com/embed/qm_7Bgz4nTU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/18BsoarRXIehAUUBqYHYkbfB1a6oJOKSAivYbzkA.jpg",
+          "notes": [
+            {
+              "title": "Lecture-48 || Mix Graph Advance (Part - 17)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7cb831d5-5d85-4e99-b42d-0eff1007b64f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture-49 || Mix Graph Advance (Part - 18)",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/jlFecaVSupM",
+          "hd_video_url": "https://www.youtube.com/embed/jlFecaVSupM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YdC0lVxmOxPye82TdB9xJUkSVhmyeLN8xVr10wPu.jpg",
+          "notes": [
+            {
+              "title": "Lecture-49 || Mix Graph Advance (Part - 18)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1cb6e7c-712c-4113-8961-a1ea399b64f1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture-50 || Mix Graph Advance (Part - 19)",
+          "published_date": "19 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/JjHcKM3dH58",
+          "hd_video_url": "https://www.youtube.com/embed/JjHcKM3dH58",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RsPa6hdERumOdu6T02kn1f4vUhxw9c9TzlUCwRfT.jpg",
+          "notes": [
+            {
+              "title": "Lecture-50 || Mix Graph Advance (Part - 19)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/625e2152-9048-4fa2-98d0-8eb3a92853c6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture-51 || Mix Graph Advance (Part - 20)",
+          "published_date": "20 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/-fT-QTFumzc",
+          "hd_video_url": "https://www.youtube.com/embed/-fT-QTFumzc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Qxwh24At4C4sgkC2XNC7CQ0BYK2ntEcj8Elm5jDz.jpg",
+          "notes": [
+            {
+              "title": "Lecture-51 || Mix Graph Advance (Part - 20)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1da920e-6def-4d33-bd2b-5438df593879.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture-52 || Mix Graph Advance (Part - 21)",
+          "published_date": "22 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/FHhxAZkWrsU",
+          "hd_video_url": "https://www.youtube.com/embed/FHhxAZkWrsU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BYnBBS8zvnN9sElPEfj69GriKTMEuYQcMPNWJpa6.jpg",
+          "notes": [
+            {
+              "title": "Lecture-52 || Mix Graph Advance (Part - 21)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa713cd4-bdc8-437b-95ba-2cb88edfe3a7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture-53 || Mix Graph Advance (Part - 22)",
+          "published_date": "25 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/n6C9g3UlZzU",
+          "hd_video_url": "https://www.youtube.com/embed/n6C9g3UlZzU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/uaDFboAnOWrDjcVXw6fGA8VwiWlUnIZc9qL5HOxr.jpg",
+          "notes": [
+            {
+              "title": "Lecture-53 || Mix Graph Advance (Part - 22)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5042c7ba-10bb-4b49-8169-40d657107cde.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture-54 || Mix Graph Advance (Part - 23)",
+          "published_date": "26 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/urnb_utGY4c",
+          "hd_video_url": "https://www.youtube.com/embed/urnb_utGY4c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yGRiWwIO6ed9WXpzr82zl6GfhKOaDeYc7aNAczSO.jpg",
+          "notes": [
+            {
+              "title": "Lecture-54 || Mix Graph Advance (Part - 23)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01554193-7703-4501-95f0-b5650c1dd49f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture-55 || Mix Graph Advance (Part - 24)",
+          "published_date": "27 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/UsqZcPt5Jz0",
+          "hd_video_url": "https://www.youtube.com/embed/UsqZcPt5Jz0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kq5QbN8gVeASdQTYjlHZlSlu3IV88TTsMm8eH0jP.jpg",
+          "notes": [
+            {
+              "title": "Lecture-55 || Mix Graph Advance (Part - 24)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/194040ad-860d-43c8-8836-bbd1061df7cd.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

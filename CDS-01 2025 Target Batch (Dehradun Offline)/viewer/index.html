@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDS-01 2025 Target Batch (Dehradun Offline)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for Subjects -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="logo">📚</div>
+                <h1 style="font-size: 1.1rem; line-height: 1.3;">CDS-01 2025 Target Batch (Dehradun Of...</h1>
+            </div>
+            <nav class="subject-nav" id="subject-nav">
+                <!-- Subject Links will be injected here -->
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="topbar">
+                <button id="mobile-menu-btn" class="mobile-menu-btn">☰</button>
+                <h2 id="current-subject-title">Select a Subject</h2>
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Search videos...">
+                </div>
+            </header>
+
+            <div class="content-area">
+                <!-- Video Grid -->
+                <div class="video-grid" id="video-grid">
+                    <!-- Video Cards will be injected here -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Video Player Modal -->
+    <div class="modal" id="video-modal">
+        <div class="modal-content">
+            <button class="close-modal" id="close-modal">&times;</button>
+            <div class="iframe-container">
+                <iframe id="video-iframe" src="" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+            </div>
+            <h3 id="modal-video-title">Video Title</h3>
+            <div class="modal-actions" id="modal-actions">
+                <!-- Notes button will be injected here if available -->
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

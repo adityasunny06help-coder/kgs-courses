@@ -1,0 +1,40 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Introduction Section",
+      "subject_id": 4349,
+      "video_count": 3,
+      "note_count": 0,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Launching Prayagraj For NEET & JEE Preparation ‪@KGSNeetJee‬ Khan Sir | Khan Global Studies",
+          "published_date": "20 Nov 2024",
+          "video_url": "https://www.youtube.com/embed/pfa-PWkfCOA",
+          "hd_video_url": "https://www.youtube.com/embed/pfa-PWkfCOA",
+          "thumbnail": "https://i.ytimg.com/vi/pfa-PWkfCOA/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Something Special now in Prayagraj 🤩",
+          "published_date": "02 Dec 2024",
+          "video_url": "https://youtube.com/shorts/EHJ-a7HPGrE?si=KgXA3D-1OJMHJyGr",
+          "hd_video_url": "https://youtube.com/shorts/EHJ-a7HPGrE?si=KgXA3D-1OJMHJyGr",
+          "thumbnail": "https://i.ytimg.com/vi//default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 3,
+          "title": "आपकी NEET Preparation कहाँ से होगी ? ⚡📚",
+          "published_date": "02 Dec 2024",
+          "video_url": "https://youtube.com/shorts/-RP7VoJPTWI?si=iiKmYj842-Vk7EQh",
+          "hd_video_url": "https://youtube.com/shorts/-RP7VoJPTWI?si=iiKmYj842-Vk7EQh",
+          "thumbnail": "https://i.ytimg.com/vi//default.jpg",
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

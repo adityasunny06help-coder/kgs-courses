@@ -1,0 +1,9397 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "CDP by Satpreet Ma'am  (Paper I & II)",
+      "subject_id": 4915,
+      "video_count": 63,
+      "note_count": 62,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 50 || CDP by Satpreet Ma'am",
+          "published_date": null,
+          "video_url": "",
+          "hd_video_url": "",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/z1KsxTX0mZxIyW4UE6ncgRzzrmfB7ehly8eEc3bz.jpg",
+          "notes": []
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "03 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/AwT2uubIw8s",
+          "hd_video_url": "https://www.youtube.com/embed/AwT2uubIw8s",
+          "thumbnail": "https://i.ytimg.com/vi/AwT2uubIw8s/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Introduction Class",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe149496-fe65-47b8-aa7a-4c37b7cfa68f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 2 || Growth & Development (Part 1)",
+          "published_date": "04 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/xcYVUGHx3Rs",
+          "hd_video_url": "https://www.youtube.com/embed/xcYVUGHx3Rs",
+          "thumbnail": "https://i.ytimg.com/vi/xcYVUGHx3Rs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db3be9d2-5901-49ae-9af1-5dfdb8ed4002.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 3 || Growth & Development (Part 2)",
+          "published_date": "05 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/l6tyPMOrFR8",
+          "hd_video_url": "https://www.youtube.com/embed/l6tyPMOrFR8",
+          "thumbnail": "https://i.ytimg.com/vi/l6tyPMOrFR8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aba5b9db-0081-403b-ba59-2fbef8fd83fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 4 || Growth & Development (Part 3)",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/wa7LeqnjsCM",
+          "hd_video_url": "https://www.youtube.com/embed/wa7LeqnjsCM",
+          "thumbnail": "https://i.ytimg.com/vi/wa7LeqnjsCM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/924f09b2-bbed-4fc3-8322-ddfaac3c1eef.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 5 || Growth & Development (Part 4)",
+          "published_date": "24 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/CIa3p_w_pG4",
+          "hd_video_url": "https://www.youtube.com/embed/CIa3p_w_pG4",
+          "thumbnail": "https://i.ytimg.com/vi/CIa3p_w_pG4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/502ec70c-70dc-41ea-b07d-7cb9d7d42be1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 6 || Growth & Development (Part 5)",
+          "published_date": "25 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/T_FskxB9gFs",
+          "hd_video_url": "https://www.youtube.com/embed/T_FskxB9gFs",
+          "thumbnail": "https://i.ytimg.com/vi/T_FskxB9gFs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/921d8dad-7e52-4741-b33b-936d6c501c8d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 7 || Principle of Child Development",
+          "published_date": "03 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/6W7OzbpXl5Y",
+          "hd_video_url": "https://www.youtube.com/embed/6W7OzbpXl5Y",
+          "thumbnail": "https://i.ytimg.com/vi/6W7OzbpXl5Y/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e51c63a2-9286-45ef-9685-106b9803d524.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 8 || Practice Class",
+          "published_date": "04 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/m2a86DTpKiA",
+          "hd_video_url": "https://www.youtube.com/embed/m2a86DTpKiA",
+          "thumbnail": "https://i.ytimg.com/vi/m2a86DTpKiA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38de2f30-3d26-4005-b47c-0a5a5aeee0f0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 9 || Socialisation",
+          "published_date": "05 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/q5H-mBBbIUc",
+          "hd_video_url": "https://www.youtube.com/embed/q5H-mBBbIUc",
+          "thumbnail": "https://i.ytimg.com/vi/q5H-mBBbIUc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f984e8d-143d-4673-9b8d-d62f39a16831.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 10 || Practice Class",
+          "published_date": "06 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/rlr9wmT-sv4",
+          "hd_video_url": "https://www.youtube.com/embed/rlr9wmT-sv4",
+          "thumbnail": "https://i.ytimg.com/vi/rlr9wmT-sv4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48f447cb-cb19-48e0-ba96-aae42ea93bc9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 11 || Practice Class",
+          "published_date": "10 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/jO2F_tnHU4M",
+          "hd_video_url": "https://www.youtube.com/embed/jO2F_tnHU4M",
+          "thumbnail": "https://i.ytimg.com/vi/jO2F_tnHU4M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6cd9549-764b-42dd-84d3-d734b6a56f5b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 12 || Heredity environment",
+          "published_date": "11 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/aPu8kOgd1gY",
+          "hd_video_url": "https://www.youtube.com/embed/aPu8kOgd1gY",
+          "thumbnail": "https://i.ytimg.com/vi/aPu8kOgd1gY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c60a9934-17b2-40d5-b4bd-2139d8076e1b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 13 || Piaget's",
+          "published_date": "12 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/omYkGCtO4AA",
+          "hd_video_url": "https://www.youtube.com/embed/omYkGCtO4AA",
+          "thumbnail": "https://i.ytimg.com/vi/omYkGCtO4AA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65603ea5-1fa4-408e-a7af-a395bb884220.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 14 || Piaget's  Theory of Cognitive Development (Part 2)",
+          "published_date": "17 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/D8Zh_TnttF0",
+          "hd_video_url": "https://www.youtube.com/embed/D8Zh_TnttF0",
+          "thumbnail": "https://i.ytimg.com/vi/D8Zh_TnttF0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6487a758-beb9-4f98-acfd-24aba90593a7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 15 || Piaget's  Theory of Cognitive Development (Part 3)",
+          "published_date": "18 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/rJqOmwx_DT8",
+          "hd_video_url": "https://www.youtube.com/embed/rJqOmwx_DT8",
+          "thumbnail": "https://i.ytimg.com/vi/rJqOmwx_DT8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a941c991-ea75-43c8-b7be-cc9fba61d2f1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 16 || Practice Class",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/u-mggM7rHH0",
+          "hd_video_url": "https://www.youtube.com/embed/u-mggM7rHH0",
+          "thumbnail": "https://i.ytimg.com/vi/u-mggM7rHH0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8c6d621-c25f-409d-bf49-b40aabdbb5e6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 17 || Principle of Child Development",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/s7mBbALcaiA",
+          "hd_video_url": "https://www.youtube.com/embed/s7mBbALcaiA",
+          "thumbnail": "https://i.ytimg.com/vi/s7mBbALcaiA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec4410d6-250d-47d1-ba0e-7172cee04398.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 18 || Vygotsky Theory",
+          "published_date": "24 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/MDnAZz7-tkI",
+          "hd_video_url": "https://www.youtube.com/embed/MDnAZz7-tkI",
+          "thumbnail": "https://i.ytimg.com/vi/MDnAZz7-tkI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ea17719-d9c5-4fb7-a03f-b09a80c0d583.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 19 || Moral Development (Kohlberg)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/juJjQht1H3Q",
+          "hd_video_url": "https://www.youtube.com/embed/juJjQht1H3Q",
+          "thumbnail": "https://i.ytimg.com/vi/juJjQht1H3Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cd8f139-8c12-49e4-9a83-9d11f1c57818.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 20 || Intelligence (Part 1)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/5Ty1LXCw-LU",
+          "hd_video_url": "https://www.youtube.com/embed/5Ty1LXCw-LU",
+          "thumbnail": "https://i.ytimg.com/vi/5Ty1LXCw-LU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d8383244-f199-4467-89d3-5f7a6ada3202.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 21 || Intelligence (Part 2)",
+          "published_date": "27 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/ImYPZDGnzvk",
+          "hd_video_url": "https://www.youtube.com/embed/ImYPZDGnzvk",
+          "thumbnail": "https://i.ytimg.com/vi/ImYPZDGnzvk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f136e0a4-488f-4361-8456-b8cf3b4e03a2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 22 || Practice Class",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/rbp3LsyUCso",
+          "hd_video_url": "https://www.youtube.com/embed/rbp3LsyUCso",
+          "thumbnail": "https://i.ytimg.com/vi/rbp3LsyUCso/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87df95f5-45f9-4ec3-a22f-15935bc608d8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 23 || Child Centered Education",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/lSmkaJfLYfQ",
+          "hd_video_url": "https://www.youtube.com/embed/lSmkaJfLYfQ",
+          "thumbnail": "https://i.ytimg.com/vi/lSmkaJfLYfQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2e9001a-a855-48e5-8c8b-d4d0fb449b3c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 24 || Practice Class",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/X1KYp_JtZn0",
+          "hd_video_url": "https://www.youtube.com/embed/X1KYp_JtZn0",
+          "thumbnail": "https://i.ytimg.com/vi/X1KYp_JtZn0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ae341ca-edf2-4625-84ea-199827276c87.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 25 || Practice Class",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/FPZleY1QgMU",
+          "hd_video_url": "https://www.youtube.com/embed/FPZleY1QgMU",
+          "thumbnail": "https://i.ytimg.com/vi/FPZleY1QgMU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5cf4299-46a7-44cb-8f84-4f9af2f6ed4a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 26 || Practice Class",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/FjBlrlEoYLc",
+          "hd_video_url": "https://www.youtube.com/embed/FjBlrlEoYLc",
+          "thumbnail": "https://i.ytimg.com/vi/FjBlrlEoYLc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3396ed66-7f0d-48dc-b584-de8ba6110a92.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 27 || Language & Thinking",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/UupShtcrMtk",
+          "hd_video_url": "https://www.youtube.com/embed/UupShtcrMtk",
+          "thumbnail": "https://i.ytimg.com/vi/UupShtcrMtk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/415a1a87-26bd-4a3a-bcff-b73eff08060b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 28 || Practice Class",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/kC0JE5m-I_w",
+          "hd_video_url": "https://www.youtube.com/embed/kC0JE5m-I_w",
+          "thumbnail": "https://i.ytimg.com/vi/kC0JE5m-I_w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2b9e154-de18-4d01-b9d9-627b832613e7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 29 || Gender Role",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/o2BZIX91u7c",
+          "hd_video_url": "https://www.youtube.com/embed/o2BZIX91u7c",
+          "thumbnail": "https://i.ytimg.com/vi/o2BZIX91u7c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dad338b2-6c2a-484c-90f3-f002dd0e9f14.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 30 || Inclusive Education (Part 1)",
+          "published_date": "16 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/K2QYFj11mO4",
+          "hd_video_url": "https://www.youtube.com/embed/K2QYFj11mO4",
+          "thumbnail": "https://i.ytimg.com/vi/K2QYFj11mO4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/44644513-90a0-445d-87f3-0520098cde50.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 31 || Inclusive Education (Part 2)",
+          "published_date": "17 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/nqSjX46kLSA",
+          "hd_video_url": "https://www.youtube.com/embed/nqSjX46kLSA",
+          "thumbnail": "https://i.ytimg.com/vi/nqSjX46kLSA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1afc727c-d948-4891-9f34-ee34d184390c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 32 || Learning (Part 1)",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/9LEWD623so8",
+          "hd_video_url": "https://www.youtube.com/embed/9LEWD623so8",
+          "thumbnail": "https://i.ytimg.com/vi/9LEWD623so8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a89e4df0-7f4e-4df1-ae43-d226547088c2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 33 || Progressive Education",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/W_hiWpbsozc",
+          "hd_video_url": "https://www.youtube.com/embed/W_hiWpbsozc",
+          "thumbnail": "https://i.ytimg.com/vi/W_hiWpbsozc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e042e197-4376-4aa3-a17c-74338c7d061e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 34 || Growth & Development",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/yyVh9lIDkvc",
+          "hd_video_url": "https://www.youtube.com/embed/yyVh9lIDkvc",
+          "thumbnail": "https://i.ytimg.com/vi/yyVh9lIDkvc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e33d9717-ba1e-4de1-a5b4-0128be080214.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 35 || Motivation",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/O6sggiUX4Dc",
+          "hd_video_url": "https://www.youtube.com/embed/O6sggiUX4Dc",
+          "thumbnail": "https://i.ytimg.com/vi/O6sggiUX4Dc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b970bdb-4717-4e34-b18e-a2d2750f570c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 36 || Individual Difference",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/jqfiDKEZiY8",
+          "hd_video_url": "https://www.youtube.com/embed/jqfiDKEZiY8",
+          "thumbnail": "https://i.ytimg.com/vi/jqfiDKEZiY8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dd1ccb41-7974-4a6b-8400-b8dcccfeb96d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 37 || Practice Questions",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/kTrCK9klH9o",
+          "hd_video_url": "https://www.youtube.com/embed/kTrCK9klH9o",
+          "thumbnail": "https://i.ytimg.com/vi/kTrCK9klH9o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1d7e39b-6298-4a59-908c-bd768fb7d137.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 38 || Maxims of Teaching",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/LmwRhSijNKI",
+          "hd_video_url": "https://www.youtube.com/embed/LmwRhSijNKI",
+          "thumbnail": "https://i.ytimg.com/vi/LmwRhSijNKI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1d2445a-2d67-4e11-9aed-e16e24212e8b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 39 || Teaching Methods (Part 1)",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/X0U7vfY3qEA",
+          "hd_video_url": "https://www.youtube.com/embed/X0U7vfY3qEA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UMCRYutmOvTIJGoqk1oNIfjN5XUJzW3TwvrGaJ5b.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90228f02-f851-4d73-9dab-38c7349b086e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 40 || Teaching Methods (Part 2)",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/C5u41DynI_s",
+          "hd_video_url": "https://www.youtube.com/embed/C5u41DynI_s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yjL9QJ9ElMR3af3s4CcDRxAbgeSqAs4megzuF9Q8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bd63aa92-f4d9-4c0d-ab44-495af0deff07.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 41 ||  Practice Class",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/P5mKEsY_gY0",
+          "hd_video_url": "https://www.youtube.com/embed/P5mKEsY_gY0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6ILV1G94IxbJ5gg77kv5F1XnBkhKXHou0ICTvRGH.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/73888ea4-f7bb-499f-9087-ab1ac11e951f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 42 || Practice Class",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/a-Tjp5I8td8",
+          "hd_video_url": "https://www.youtube.com/embed/a-Tjp5I8td8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qDrcRsFzwEqLAfQbV5osTsb6NPtlVaouIe8iBkmp.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19b9f0a2-13f4-4371-a61d-2103c142f0de.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 43 || Practice Class",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/cAFs2LKhPG4",
+          "hd_video_url": "https://www.youtube.com/embed/cAFs2LKhPG4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RvQ3YkJO0LUBgXij393QvzinZmMQ0R5k1BVulDjz.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1100dc17-c3f7-46ab-8225-f34ef1b99311.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 44 || Learning",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/nmlEtoDjALQ",
+          "hd_video_url": "https://www.youtube.com/embed/nmlEtoDjALQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FF24JEaIoz1gowAlUzvB6D48CXyoSb8zkgiUyAMG.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/97e77d37-a566-46c8-a216-b60e2b1253a5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 45 || Revision Class",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/8ILXIhPxfeo",
+          "hd_video_url": "https://www.youtube.com/embed/8ILXIhPxfeo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ScuqBawDifOvXyvuWLuSNhmsRdNGQjzisbdpJNZJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff30eaaf-d0f3-49e7-865e-b44ee5c68427.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 46 || Practice Class",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/FjMb_llnEz8",
+          "hd_video_url": "https://www.youtube.com/embed/FjMb_llnEz8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SLvA17159VPpI49gu4peA1CJkJtaUjDp0kegXtym.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d244ecc-1e91-49dc-8ba4-337b2afc7c05.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 47 || Learning Disabilities",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/SZA4KS0BjVA",
+          "hd_video_url": "https://www.youtube.com/embed/SZA4KS0BjVA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e34bdb2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdbf1486-9865-4bf6-a113-f55c199dc9a1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 48 || Practice Class",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/k0tBY6lRPjk",
+          "hd_video_url": "https://www.youtube.com/embed/k0tBY6lRPjk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e2cdf65.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4cc4faf8-bac8-4e9a-bbfe-159e164f2bc4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 49 || Cognitive Development",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/GT287pWw4jA",
+          "hd_video_url": "https://www.youtube.com/embed/GT287pWw4jA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e25de80.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d34103a0-fd92-4ca8-a658-e85e77fd45e0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 50 || Practice Questions",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/7-_hhrkA8U0",
+          "hd_video_url": "https://www.youtube.com/embed/7-_hhrkA8U0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e1e010a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a015afcb-c323-44f4-9ade-4f7e37588f4c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 51 || Assessment and Evaluation",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/qBaeWXxCMjM",
+          "hd_video_url": "https://www.youtube.com/embed/qBaeWXxCMjM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e13e13d.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d93bbf0-ff05-425b-b8fc-ccf52c6c811a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 52 || National Education Policy 2020",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/3GmIGsotXvQ",
+          "hd_video_url": "https://www.youtube.com/embed/3GmIGsotXvQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e0c067b.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/05e8c28c-dae4-44d3-9aa4-20a5bb1f76a2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 53 || N.E.P Practice Questions",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/YzUBuC3_SfY",
+          "hd_video_url": "https://www.youtube.com/embed/YzUBuC3_SfY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69e04f306.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7024f56b-5c2e-4eca-97b9-6c839412b05e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 54 || Revision Class",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/8ZlSJ1ksX_I",
+          "hd_video_url": "https://www.youtube.com/embed/8ZlSJ1ksX_I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69df9acfa.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0e7c874f-1521-42cb-a49d-2a703ee853cc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 55 || N.C.F",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/CtFtwYF3w3s",
+          "hd_video_url": "https://www.youtube.com/embed/CtFtwYF3w3s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tqWUXR8ONtATQq0eg1qd8hfLuaHolYOpxjzH9XcA.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee439b8a-72bf-4fba-9f04-47837e6a63fd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 56 || R.T.E",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/DO8oKV6lbrM",
+          "hd_video_url": "https://www.youtube.com/embed/DO8oKV6lbrM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BAbDc4sIormCXef1MzNIKSwE6mb0x6Hpty3UwnGX.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9447b5e-06a7-4b11-a614-ac2c279bcf30.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 57 || Practice Class",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/6DU_QxvKPKQ",
+          "hd_video_url": "https://www.youtube.com/embed/6DU_QxvKPKQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ajzAuH277aGBTAnG7ONnUpjlyd0nfZqzX04jJ33M.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8a5701b-410a-4ef8-adf0-736ba3a39b76.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 58 ||  Practice Class",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/u-NcdgcdAJQ",
+          "hd_video_url": "https://www.youtube.com/embed/u-NcdgcdAJQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u7DQaZnYCdxgwGj5jsL6OsTGJrY5k2bm6xuLEVIc.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b999d8bd-e17d-49f7-83a0-9190a95bba37.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture 59 ||  Practice Class",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/txxc1oKOn0o",
+          "hd_video_url": "https://www.youtube.com/embed/txxc1oKOn0o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YsrBVzdzQUlR2mcHBotqJUG3Jvm2Oo7f2bvDkeQ8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1759a58b-cc62-4e56-8113-623a200e957b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture 60 ||  Practice Class",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/q3lkTkc8Fhw",
+          "hd_video_url": "https://www.youtube.com/embed/q3lkTkc8Fhw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eFIyPB17jknrdhBGPjcNHBkJXiWfdHtqZwqLr0rn.jpg",
+          "notes": [
+            {
+              "title": "Lecture 60 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/adb3b569-38dd-4e1f-9441-3da453bd95b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture 61 || Practice Class",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/LrZwBrZcjjo",
+          "hd_video_url": "https://www.youtube.com/embed/LrZwBrZcjjo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CsCWBhV1D7YA3I6Xj8M9P6aFU6BDHmQEfVWWslsE.jpg",
+          "notes": [
+            {
+              "title": "Lecture 61 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/baebc87c-583b-4f99-a73f-f487868771b9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture 62 || Practice Class",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/chhiWmO4vJU",
+          "hd_video_url": "https://www.youtube.com/embed/chhiWmO4vJU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mm8IcCPGJUQnGF2kWr1tvej5s7AI5Eq7xDL9wKzF.jpg",
+          "notes": [
+            {
+              "title": "Lecture 62 || CDP by Satpreet Ma'am",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffcd153e-f0fc-4f37-9f9a-e6bb61badf81.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "CTET July 2025 Paper I & II शिखर Foundation Batch 2.0 Telegram Link",
+      "subject_id": 4864,
+      "video_count": 0,
+      "note_count": 0,
+      "videos": [],
+      "notes": []
+    },
+    {
+      "subject_name": "English by Ashutosh Sir  (Paper I & II)",
+      "subject_id": 4916,
+      "video_count": 46,
+      "note_count": 46,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "21 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/6nJzNSnC7Jg",
+          "hd_video_url": "https://www.youtube.com/embed/6nJzNSnC7Jg",
+          "thumbnail": "https://i.ytimg.com/vi/6nJzNSnC7Jg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || English by Ashutosh  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f528c09c-01ba-43b0-a89c-bebab9f69d93.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Learning & Acquisition (Part 1)",
+          "published_date": "22 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/UR0BE_FC7v8",
+          "hd_video_url": "https://www.youtube.com/embed/UR0BE_FC7v8",
+          "thumbnail": "https://i.ytimg.com/vi/UR0BE_FC7v8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || English by Ashutosh",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/395e7674-23c9-45cf-a756-e3ce73eabfe5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture  3|| Learning & Acquisition (Part 2)",
+          "published_date": "23 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/ZxF6s7gKcVI",
+          "hd_video_url": "https://www.youtube.com/embed/ZxF6s7gKcVI",
+          "thumbnail": "https://i.ytimg.com/vi/ZxF6s7gKcVI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture  3|| English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf3229b4-094a-4203-b6af-96af8409a365.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture  4 ||Principle of language Teaching (Part 1)",
+          "published_date": "30 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/6AVeyEt4ZHI",
+          "hd_video_url": "https://www.youtube.com/embed/6AVeyEt4ZHI",
+          "thumbnail": "https://i.ytimg.com/vi/6AVeyEt4ZHI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94dbb8ae-3ba3-4a55-8da2-ef6609efd4f1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || Principle of language Teaching (Part 2)",
+          "published_date": "04 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/3UkcnHe4OPI",
+          "hd_video_url": "https://www.youtube.com/embed/3UkcnHe4OPI",
+          "thumbnail": "https://i.ytimg.com/vi/3UkcnHe4OPI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3428d335-64eb-48ac-b800-c6d3d9d1f29a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Role of speaking & listening",
+          "published_date": "05 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/ul5q0tnCoeg",
+          "hd_video_url": "https://www.youtube.com/embed/ul5q0tnCoeg",
+          "thumbnail": "https://i.ytimg.com/vi/ul5q0tnCoeg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fce8b763-0e49-466b-9db5-77be04994e19.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Role of reading and writing skill",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/-MrUHFtutSg",
+          "hd_video_url": "https://www.youtube.com/embed/-MrUHFtutSg",
+          "thumbnail": "https://i.ytimg.com/vi/-MrUHFtutSg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b03b2709-4187-419e-83c9-929f2924e3f8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || Theories of Language Acquisition & Learning (Part 1)",
+          "published_date": "13 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/U4CovkSadOo",
+          "hd_video_url": "https://www.youtube.com/embed/U4CovkSadOo",
+          "thumbnail": "https://i.ytimg.com/vi/U4CovkSadOo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ca971bee-731c-47c2-bcde-cc6dc5e8bcd3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Theories of Language Acquisition & Learning (Part 2)",
+          "published_date": "18 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/6_Q4nJ6cXhU",
+          "hd_video_url": "https://www.youtube.com/embed/6_Q4nJ6cXhU",
+          "thumbnail": "https://i.ytimg.com/vi/6_Q4nJ6cXhU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57db26e4-bd9a-4d25-a398-f76e6f4070dc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Theories of Language Acquisition & Learning (Part 3)",
+          "published_date": "19 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/1zcCurxrBwU",
+          "hd_video_url": "https://www.youtube.com/embed/1zcCurxrBwU",
+          "thumbnail": "https://i.ytimg.com/vi/1zcCurxrBwU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a48e1e0-dde5-4e0e-a88a-1b8442c509d6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || Function of Language & Learning Disability",
+          "published_date": "27 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/z-jIuFyNo5I",
+          "hd_video_url": "https://www.youtube.com/embed/z-jIuFyNo5I",
+          "thumbnail": "https://i.ytimg.com/vi/z-jIuFyNo5I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/477592b4-dfbd-4800-a134-92f0a950312f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Multilingualism in the classroom",
+          "published_date": "04 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Racc55IeFAs",
+          "hd_video_url": "https://www.youtube.com/embed/Racc55IeFAs",
+          "thumbnail": "https://i.ytimg.com/vi/Racc55IeFAs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ce7c1433-8097-4368-8402-e5dc2f20bf31.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Method of teaching language (Part 1)",
+          "published_date": "05 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/SCAOhlx8ySA",
+          "hd_video_url": "https://www.youtube.com/embed/SCAOhlx8ySA",
+          "thumbnail": "https://i.ytimg.com/vi/SCAOhlx8ySA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6d7b306-962e-4f20-acd8-dcfa8e2b9aa8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Method of teaching language (Part 2)",
+          "published_date": "06 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Uqq0hgDp-Oo",
+          "hd_video_url": "https://www.youtube.com/embed/Uqq0hgDp-Oo",
+          "thumbnail": "https://i.ytimg.com/vi/Uqq0hgDp-Oo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/480a5df4-5343-40b8-a0ef-50b7cfc0fda2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Methods of teaching English",
+          "published_date": "11 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/r-PXtw0tS8M",
+          "hd_video_url": "https://www.youtube.com/embed/r-PXtw0tS8M",
+          "thumbnail": "https://i.ytimg.com/vi/r-PXtw0tS8M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1b810194-ec6d-4abb-a9fd-876791d1425c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Role of English Grammar",
+          "published_date": "12 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/KqgZ6-57NP4",
+          "hd_video_url": "https://www.youtube.com/embed/KqgZ6-57NP4",
+          "thumbnail": "https://i.ytimg.com/vi/KqgZ6-57NP4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53f5bee4-6784-47e3-a3e4-00ab0b51a647.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || Teaching Learning Material",
+          "published_date": "18 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/pVgO4hJlxo8",
+          "hd_video_url": "https://www.youtube.com/embed/pVgO4hJlxo8",
+          "thumbnail": "https://i.ytimg.com/vi/pVgO4hJlxo8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ac613fe-c2d1-41cd-a5bc-3df869ba7c32.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Evaluation of language",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/lnL9WLHDvtU",
+          "hd_video_url": "https://www.youtube.com/embed/lnL9WLHDvtU",
+          "thumbnail": "https://i.ytimg.com/vi/lnL9WLHDvtU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/587d2d07-03b5-4a01-a38d-ed56ea8b1e42.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Remedial teaching",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Cw4Ss7TfTc0",
+          "hd_video_url": "https://www.youtube.com/embed/Cw4Ss7TfTc0",
+          "thumbnail": "https://i.ytimg.com/vi/Cw4Ss7TfTc0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84df733b-a177-46dd-b852-c9bd66c1741b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || NCF 2005 & NEP 2020",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/2B1XX9n6poQ",
+          "hd_video_url": "https://www.youtube.com/embed/2B1XX9n6poQ",
+          "thumbnail": "https://i.ytimg.com/vi/2B1XX9n6poQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/479a260a-0f94-45b9-a290-20b3085055f4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Pedagogical Terms -1",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/u-aO1VLCDc8",
+          "hd_video_url": "https://www.youtube.com/embed/u-aO1VLCDc8",
+          "thumbnail": "https://i.ytimg.com/vi/u-aO1VLCDc8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d1538a7c-c714-4845-b013-8d55e7ec2990.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Pedagogical Terms -2",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/eGEoQndddXk",
+          "hd_video_url": "https://www.youtube.com/embed/eGEoQndddXk",
+          "thumbnail": "https://i.ytimg.com/vi/eGEoQndddXk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1030248b-3662-40c4-85f2-0c9eb6755d3d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Pedagogical Terms -3",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/WAr0CznMK6c",
+          "hd_video_url": "https://www.youtube.com/embed/WAr0CznMK6c",
+          "thumbnail": "https://i.ytimg.com/vi/WAr0CznMK6c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3dd8ebde-7d9b-4d9f-b29d-ae650a318b85.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Lesson planning",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/0Z7Wvlxz0gs",
+          "hd_video_url": "https://www.youtube.com/embed/0Z7Wvlxz0gs",
+          "thumbnail": "https://i.ytimg.com/vi/0Z7Wvlxz0gs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4f8b1c1b-976b-4b44-b059-d93485a3964d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Forms of Language & Linguistic",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/MQ6a1i1aVfA",
+          "hd_video_url": "https://www.youtube.com/embed/MQ6a1i1aVfA",
+          "thumbnail": "https://i.ytimg.com/vi/MQ6a1i1aVfA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a878e730-4823-4f3d-85c6-6c5b076c43f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Sentence",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/SUWYsoU9vso",
+          "hd_video_url": "https://www.youtube.com/embed/SUWYsoU9vso",
+          "thumbnail": "https://i.ytimg.com/vi/SUWYsoU9vso/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa968e1e-1882-4097-97f8-9ea1fc307cfc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || Clauses & Sentence Type",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/iu8_ZZVzCm0",
+          "hd_video_url": "https://www.youtube.com/embed/iu8_ZZVzCm0",
+          "thumbnail": "https://i.ytimg.com/vi/iu8_ZZVzCm0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f3b9add-6718-4558-9a7c-57bb02aa9b61.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || Tense",
+          "published_date": "16 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/gJuB2UzYyzk",
+          "hd_video_url": "https://www.youtube.com/embed/gJuB2UzYyzk",
+          "thumbnail": "https://i.ytimg.com/vi/gJuB2UzYyzk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1775669f-64c5-41c6-a23e-7ba42ae1771e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || Tense (Part 2)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/j7ty2GiPNYE",
+          "hd_video_url": "https://www.youtube.com/embed/j7ty2GiPNYE",
+          "thumbnail": "https://i.ytimg.com/vi/j7ty2GiPNYE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6e8658ef-ae8d-4640-adb4-352c92ddcb60.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Question Tag",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/PTidfx1hrL8",
+          "hd_video_url": "https://www.youtube.com/embed/PTidfx1hrL8",
+          "thumbnail": "https://i.ytimg.com/vi/PTidfx1hrL8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/908e8629-a11e-4f0e-9835-8d5283e23c65.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Noun",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/qnIKE60bz_U",
+          "hd_video_url": "https://www.youtube.com/embed/qnIKE60bz_U",
+          "thumbnail": "https://i.ytimg.com/vi/qnIKE60bz_U/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f84d4ed-2f9f-4a12-b63f-f54a8455c914.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || Pronoun",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/Zor-AsC7JT0",
+          "hd_video_url": "https://www.youtube.com/embed/Zor-AsC7JT0",
+          "thumbnail": "https://i.ytimg.com/vi/Zor-AsC7JT0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f28135e-e1ab-41d1-90fe-80e2d86ab524.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || Adjective",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/IT1U0RX7mBE",
+          "hd_video_url": "https://www.youtube.com/embed/IT1U0RX7mBE",
+          "thumbnail": "https://i.ytimg.com/vi/IT1U0RX7mBE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fa632f8-4550-4f03-8bd5-fcf75be6f23f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || Article",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/-Hj6zL1i8aQ",
+          "hd_video_url": "https://www.youtube.com/embed/-Hj6zL1i8aQ",
+          "thumbnail": "https://i.ytimg.com/vi/-Hj6zL1i8aQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9e4462a3-98aa-474d-8989-c5aeb89e28b5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Subject & Verb Agreement",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/FXUolhjyS1o",
+          "hd_video_url": "https://www.youtube.com/embed/FXUolhjyS1o",
+          "thumbnail": "https://i.ytimg.com/vi/FXUolhjyS1o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9e11216-99da-4313-8667-3511832ef36e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || Preposition",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/uIb362swKvE",
+          "hd_video_url": "https://www.youtube.com/embed/uIb362swKvE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d4a73cc6.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a4144ae-bba2-4450-bf8d-2da12f010aac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Adverb",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/4USKj85w1dk",
+          "hd_video_url": "https://www.youtube.com/embed/4USKj85w1dk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d484ca94.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cb402672-75aa-429d-acba-794ccdeb010e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || Conjunction",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/ZdTyA-GFgVA",
+          "hd_video_url": "https://www.youtube.com/embed/ZdTyA-GFgVA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d462690d.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6390fd7a-baac-4b51-aef4-3af74457917b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || Part Of Speech Identification",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/rVPEPcBwYCo",
+          "hd_video_url": "https://www.youtube.com/embed/rVPEPcBwYCo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d43f40d2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c7e3e9e2-141f-4759-9144-983bab97697c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || Passage (Part 1)",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/bTRdzOSU8e8",
+          "hd_video_url": "https://www.youtube.com/embed/bTRdzOSU8e8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d41cf1f0.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0adf2cfe-28aa-4845-b301-bc7e06ec33b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || Passage (Part 2)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/pyUSLuT-TVY",
+          "hd_video_url": "https://www.youtube.com/embed/pyUSLuT-TVY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d3fa8857.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7859e9db-7b76-4474-b2fc-2d3cdbdf0879.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || Poetry Comprehension",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/nFbQLcy0gQo",
+          "hd_video_url": "https://www.youtube.com/embed/nFbQLcy0gQo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d3d8331b.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/020f1de6-c571-449b-a28e-478169a8c814.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || Figure of Speech-1",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/9oSU9A1smJ4",
+          "hd_video_url": "https://www.youtube.com/embed/9oSU9A1smJ4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d3b5c67a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1b7f22f-2a3e-47a4-84b4-870518d5e9cd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 ||Figure of Speech-2",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/mlyOPTU7eyQ",
+          "hd_video_url": "https://www.youtube.com/embed/mlyOPTU7eyQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d382c051.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/747b573e-e4fe-423b-9365-7d65b480aab3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || Practice Class",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/OOfJi_s8KcA",
+          "hd_video_url": "https://www.youtube.com/embed/OOfJi_s8KcA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381d2e9a81e.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c92b92a-d924-4b5b-8e02-b1a984a498f0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || Punctuation",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/C4Yc-GvnWt4",
+          "hd_video_url": "https://www.youtube.com/embed/C4Yc-GvnWt4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/AyMAwXpmbAOsyFnJrVvMibVWZ3vCFtFfpMwxnSuc.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || English by Ashutosh Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3db04f77-23ad-4576-adbb-e9e3281dbdda.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "EVS by Abhishek Sir (Paper I )",
+      "subject_id": 4919,
+      "video_count": 66,
+      "note_count": 66,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/CTmx6S4yVz4",
+          "hd_video_url": "https://www.youtube.com/embed/CTmx6S4yVz4",
+          "thumbnail": "https://i.ytimg.com/vi/CTmx6S4yVz4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Introduction Class",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36918eab-2a9a-45d1-8422-9bcacb1498c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 ||  Food( Part 1)",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/-85DrmiJTZw",
+          "hd_video_url": "https://www.youtube.com/embed/-85DrmiJTZw",
+          "thumbnail": "https://i.ytimg.com/vi/-85DrmiJTZw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d1ce28c-f917-43dd-a0c3-c570a7e7a485.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Food( Part 2)",
+          "published_date": "21 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/7dp_crrpxVQ",
+          "hd_video_url": "https://www.youtube.com/embed/7dp_crrpxVQ",
+          "thumbnail": "https://i.ytimg.com/vi/7dp_crrpxVQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Environment Studies by Abhishek",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/59120768-a4fd-4d2f-9ff0-bd63e17848ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Food (Part 3)",
+          "published_date": "22 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/krnAn5mCotM",
+          "hd_video_url": "https://www.youtube.com/embed/krnAn5mCotM",
+          "thumbnail": "https://i.ytimg.com/vi/krnAn5mCotM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Environment Studies by Abhishek",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c34f518-eda3-415a-b876-e6dfa332e24a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || Food (Part 4)",
+          "published_date": "24 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/JRVPx_hb6uw",
+          "hd_video_url": "https://www.youtube.com/embed/JRVPx_hb6uw",
+          "thumbnail": "https://i.ytimg.com/vi/JRVPx_hb6uw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cd9f6dc4-5bb9-4aee-a8fa-f8e11a1ec459.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Food (Part 5)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/xf0_ZFjXmnI",
+          "hd_video_url": "https://www.youtube.com/embed/xf0_ZFjXmnI",
+          "thumbnail": "https://i.ytimg.com/vi/xf0_ZFjXmnI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3fb2f81-0ac8-40e8-8df0-7caf6be28ead.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Food (Part 6)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/jivSjk3twj0",
+          "hd_video_url": "https://www.youtube.com/embed/jivSjk3twj0",
+          "thumbnail": "https://i.ytimg.com/vi/jivSjk3twj0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f477a82f-6878-43d6-802d-443f36c3bfab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || Food (Part 7)",
+          "published_date": "27 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/GMm351yAZTw",
+          "hd_video_url": "https://www.youtube.com/embed/GMm351yAZTw",
+          "thumbnail": "https://i.ytimg.com/vi/GMm351yAZTw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91cf1ea9-b678-4015-9c30-da86dc88e4f7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Water (Part 1)",
+          "published_date": "28 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/8pYRy3Yzxp8",
+          "hd_video_url": "https://www.youtube.com/embed/8pYRy3Yzxp8",
+          "thumbnail": "https://i.ytimg.com/vi/8pYRy3Yzxp8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d30b309-62b1-46fb-9e26-e023ec9166ea.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Water (Part 2)",
+          "published_date": "29 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/6sWNBaQ89Ek",
+          "hd_video_url": "https://www.youtube.com/embed/6sWNBaQ89Ek",
+          "thumbnail": "https://i.ytimg.com/vi/6sWNBaQ89Ek/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Environment Studies by Abhishek",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef5392b7-ceda-4dd4-83c7-f5b792e77fce.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || Water (Part 3)",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/F5tki7GHcyE",
+          "hd_video_url": "https://www.youtube.com/embed/F5tki7GHcyE",
+          "thumbnail": "https://i.ytimg.com/vi/F5tki7GHcyE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95618273-a4da-4ef9-a26a-4aaa2a6bea91.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Water (Part 4)",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/zZYRVl_KLOM",
+          "hd_video_url": "https://www.youtube.com/embed/zZYRVl_KLOM",
+          "thumbnail": "https://i.ytimg.com/vi/zZYRVl_KLOM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a6ec2bc7-79c6-4a5c-a071-3bb77e68f664.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Blood",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/QBahg2fjqBc",
+          "hd_video_url": "https://www.youtube.com/embed/QBahg2fjqBc",
+          "thumbnail": "https://i.ytimg.com/vi/QBahg2fjqBc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b84d3782-291f-48e2-9c5b-c080b6e76349.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Blood & Group (Part 1)",
+          "published_date": "05 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/ngqUjjNyk3w",
+          "hd_video_url": "https://www.youtube.com/embed/ngqUjjNyk3w",
+          "thumbnail": "https://i.ytimg.com/vi/ngqUjjNyk3w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e3692ee-5066-4a34-8aef-51b585e56698.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Blood & Group (Part 2)",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/fO6EWySBfBw",
+          "hd_video_url": "https://www.youtube.com/embed/fO6EWySBfBw",
+          "thumbnail": "https://i.ytimg.com/vi/fO6EWySBfBw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/567fcad5-69d7-4442-bdab-5794f03db447.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Plant & Vegetation (Part 1)",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/M3epik9_q1Q",
+          "hd_video_url": "https://www.youtube.com/embed/M3epik9_q1Q",
+          "thumbnail": "https://i.ytimg.com/vi/M3epik9_q1Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/793078a7-7645-4d22-afef-c4cfe8509656.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || Plant & Vegetation (Part 2)",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/92lZfJJF698",
+          "hd_video_url": "https://www.youtube.com/embed/92lZfJJF698",
+          "thumbnail": "https://i.ytimg.com/vi/92lZfJJF698/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6a83df39-b829-4083-a918-18cde26e9f78.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Plant & Vegetation (Part 3)",
+          "published_date": "11 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/XL7-TRUb_OI",
+          "hd_video_url": "https://www.youtube.com/embed/XL7-TRUb_OI",
+          "thumbnail": "https://i.ytimg.com/vi/XL7-TRUb_OI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d0a6c315-b397-4e44-979e-387e6de75434.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Plant & Vegetation (Part 4)",
+          "published_date": "12 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/d3pypw74eJ0",
+          "hd_video_url": "https://www.youtube.com/embed/d3pypw74eJ0",
+          "thumbnail": "https://i.ytimg.com/vi/d3pypw74eJ0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45d14775-ee6f-41c4-a135-27b6fed27a79.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Plant & Vegetation (Part 5)",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/txM8m1Z0qaw",
+          "hd_video_url": "https://www.youtube.com/embed/txM8m1Z0qaw",
+          "thumbnail": "https://i.ytimg.com/vi/txM8m1Z0qaw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0eae9d8e-051e-47b0-b7f7-a4f4ab1e9fbc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Plant & Vegetation (Part 6)",
+          "published_date": "17 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/twmZxCugu5Q",
+          "hd_video_url": "https://www.youtube.com/embed/twmZxCugu5Q",
+          "thumbnail": "https://i.ytimg.com/vi/twmZxCugu5Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25b4e681-7070-4599-8461-7523b21edd44.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Animal (Part 1)",
+          "published_date": "18 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/BkMrcQ7Sn8U",
+          "hd_video_url": "https://www.youtube.com/embed/BkMrcQ7Sn8U",
+          "thumbnail": "https://i.ytimg.com/vi/BkMrcQ7Sn8U/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff0a22d9-d97d-411a-ae0d-fc176db8dc84.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Animal (Part 2)",
+          "published_date": "19 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/nYrPkD6U2j0",
+          "hd_video_url": "https://www.youtube.com/embed/nYrPkD6U2j0",
+          "thumbnail": "https://i.ytimg.com/vi/nYrPkD6U2j0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ccb40a92-3e0f-45c3-a328-cae9872462dd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Animal (Part 3)",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/KQ9P9Wu7atw",
+          "hd_video_url": "https://www.youtube.com/embed/KQ9P9Wu7atw",
+          "thumbnail": "https://i.ytimg.com/vi/KQ9P9Wu7atw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1fc0f08f-9c7c-435e-8455-5638822d7722.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Animal (Part 4)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/tjzMbiNAy9o",
+          "hd_video_url": "https://www.youtube.com/embed/tjzMbiNAy9o",
+          "thumbnail": "https://i.ytimg.com/vi/tjzMbiNAy9o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9269431c-cca2-4e5f-bf25-0ecf14fc16ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Animal (Part 5)",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/wP50LZmqIqs",
+          "hd_video_url": "https://www.youtube.com/embed/wP50LZmqIqs",
+          "thumbnail": "https://i.ytimg.com/vi/wP50LZmqIqs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0f574d13-d90c-44de-9f80-4ed7e65b367f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || Animal (Part 6)",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/vRRRDv_I2QU",
+          "hd_video_url": "https://www.youtube.com/embed/vRRRDv_I2QU",
+          "thumbnail": "https://i.ytimg.com/vi/vRRRDv_I2QU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1e8c1d5-74aa-45b3-94ce-627146511103.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || Animal (Part 7)",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/CixvOKMOIN0",
+          "hd_video_url": "https://www.youtube.com/embed/CixvOKMOIN0",
+          "thumbnail": "https://i.ytimg.com/vi/CixvOKMOIN0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1733b993-c2dc-4f45-a879-bfd7e9deb2fe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || Animal (Part 8) & Ecosystem (Part 1)",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/tg3AUE3OKN0",
+          "hd_video_url": "https://www.youtube.com/embed/tg3AUE3OKN0",
+          "thumbnail": "https://i.ytimg.com/vi/tg3AUE3OKN0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34a7246b-759e-454d-b416-857027a7b2e7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Ecosystem",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/mjeEgqBLT_A",
+          "hd_video_url": "https://www.youtube.com/embed/mjeEgqBLT_A",
+          "thumbnail": "https://i.ytimg.com/vi/mjeEgqBLT_A/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/68a1f37c-d06a-4453-91b2-c36a1c1ddc2f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Biodiversity",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/LqI_cGzUB-g",
+          "hd_video_url": "https://www.youtube.com/embed/LqI_cGzUB-g",
+          "thumbnail": "https://i.ytimg.com/vi/LqI_cGzUB-g/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7bceb659-847d-49ff-967b-57a19f12aeef.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || Biodiversity (Part 2)",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/2N5oiL9H2rY",
+          "hd_video_url": "https://www.youtube.com/embed/2N5oiL9H2rY",
+          "thumbnail": "https://i.ytimg.com/vi/2N5oiL9H2rY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53700229-5ee7-4c94-bb74-a30da845fc85.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || National Park (Part 1)",
+          "published_date": "03 May 2025",
+          "video_url": "https://www.youtube.com/embed/YYh1Gfxhfw0",
+          "hd_video_url": "https://www.youtube.com/embed/YYh1Gfxhfw0",
+          "thumbnail": "https://i.ytimg.com/vi/YYh1Gfxhfw0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d013b1d6-412a-4b1c-a613-e997d566723c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || National Park (Part 2)",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/MRH4yqedNlc",
+          "hd_video_url": "https://www.youtube.com/embed/MRH4yqedNlc",
+          "thumbnail": "https://i.ytimg.com/vi/MRH4yqedNlc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || National Park in India",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c64338b0-e9f6-45b1-9025-fbbade8bf12a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Practice Class 1",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/OKbA7jssl9M",
+          "hd_video_url": "https://www.youtube.com/embed/OKbA7jssl9M",
+          "thumbnail": "https://i.ytimg.com/vi/OKbA7jssl9M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1118e21c-4666-411c-842a-288322e2e7b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || Practice Class 2",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/aGSchc4JgG0",
+          "hd_video_url": "https://www.youtube.com/embed/aGSchc4JgG0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838143878f78.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/475658ba-a6e0-4c66-bd65-7337c53ffa00.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Shelter (Part 1)",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/wcXpWaENvLI",
+          "hd_video_url": "https://www.youtube.com/embed/wcXpWaENvLI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838143ac6c95.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77f2bd6c-cfad-40d3-9e40-4d16b46fff44.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || Shelter (Part 2)",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/FmskCEekZWE",
+          "hd_video_url": "https://www.youtube.com/embed/FmskCEekZWE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838143d1e27a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f70fb5d-e3a8-49dd-8b1e-e85e07d8234d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || Shelter (Part 3)",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/tD3z3pu_iw4",
+          "hd_video_url": "https://www.youtube.com/embed/tD3z3pu_iw4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838143f68696.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eab9e284-30a7-4ae6-a388-f1f975197e61.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || Shelter (Part 4)",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/2qKX8Nl3UjA",
+          "hd_video_url": "https://www.youtube.com/embed/2qKX8Nl3UjA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381441e1591.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/761a9fd2-5f35-488a-bc39-ab6cc78acf1f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || Major lоcal arts in Indian state",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/_PrRwPLnRlc",
+          "hd_video_url": "https://www.youtube.com/embed/_PrRwPLnRlc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838144443a4a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3da4647-c60f-456c-a9c3-426c023e38ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || Folk dance of of India (Part 1)",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/hb64VyofKBY",
+          "hd_video_url": "https://www.youtube.com/embed/hb64VyofKBY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683814468c4e1.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09ff0918-3036-4b6b-82a9-dc7086b553f4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || Folk dance of India (Part 2)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/khn_hLFHPn8",
+          "hd_video_url": "https://www.youtube.com/embed/khn_hLFHPn8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381448d2680.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82ae57ab-a4c0-474a-967b-57bc87e49449.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 || Folk dance of India (Part 3)",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/Vxwh0Q5MTtU",
+          "hd_video_url": "https://www.youtube.com/embed/Vxwh0Q5MTtU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838144b30cbd.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b8c72c94-a026-44b7-839c-1d89d10a562a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || Major tribes in India (Part1 )",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/t8Cdbn5a4OU",
+          "hd_video_url": "https://www.youtube.com/embed/t8Cdbn5a4OU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838144d77bbc.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01152f67-842e-4059-892f-de4680ca1f56.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || Major tribes in India (Part2 )",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/ytj303Mn5es",
+          "hd_video_url": "https://www.youtube.com/embed/ytj303Mn5es",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838144fb3374.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f212863-8f26-4ca6-9f11-926533007259.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || Major Painting",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/epAoBK4NL6g",
+          "hd_video_url": "https://www.youtube.com/embed/epAoBK4NL6g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381451ea5a8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e72c5eea-d6fa-45cd-90c0-44a79f552199.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 ||  Major Festivals in India (Part 1)",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/nZfm-c0vsJA",
+          "hd_video_url": "https://www.youtube.com/embed/nZfm-c0vsJA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838145428719.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/727d5392-f775-4dee-965c-cd975d52a474.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || Major Festivals in India (Part 2)",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/-izKtlChaXw",
+          "hd_video_url": "https://www.youtube.com/embed/-izKtlChaXw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6838145665a5c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f264c3e-f406-4eb4-8174-c43f13bd9e85.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50 || Travel (Part 1)",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/cD7AuDQ2jgc",
+          "hd_video_url": "https://www.youtube.com/embed/cD7AuDQ2jgc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69a8f05a2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09303a3b-f3e4-40ac-9f76-d98e2f5bfc10.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 || Travel (Part 2)",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/yyZlyWMFxGc",
+          "hd_video_url": "https://www.youtube.com/embed/yyZlyWMFxGc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SmnodRi93oKNsN6tXuT3gSRfCaBlh2qTgKgxZ0A2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/081eaf5c-9e9c-4299-b600-d94f010753ca.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 || Travel (Part 3)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/1jZI7fuJaM8",
+          "hd_video_url": "https://www.youtube.com/embed/1jZI7fuJaM8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VQFOhpOjSwuSn8TaGgFTWjlwQvubZpZQKIQbzvBI.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb10cc45-f657-4578-9eda-d3901fd830ae.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 || Travel (Part 4)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/AFHRmTYAgsE",
+          "hd_video_url": "https://www.youtube.com/embed/AFHRmTYAgsE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NyxFfRoV1MTzPuFxsedosrYb9ZYctIcBc3NPyqXn.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6f4e7add-3ab5-4ffa-908a-00ff01b2b439.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 54 || Travel (Part 5)",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/MUgzYmcEDCY",
+          "hd_video_url": "https://www.youtube.com/embed/MUgzYmcEDCY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JUXwa6ZYd196Btsy82GB1csg8vMT2dn4byseEPXW.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db57751b-33d6-4898-842e-6ad05ffbf49a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 55 || Agriculture (Part 1)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Nt9hqdxFhTA",
+          "hd_video_url": "https://www.youtube.com/embed/Nt9hqdxFhTA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ujeeq1QFKbPWuA4u5esFRvYLCmJcb7VT9PG0NExr.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e881e75-b7b0-4275-81d8-8fd781a30925.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 56 || Agriculture (Part 2)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/6-T_S_t2_H0",
+          "hd_video_url": "https://www.youtube.com/embed/6-T_S_t2_H0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lcBHq61cjUkLlRr2BGvTzgxC2TOtUCqg0MuYDPIq.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/17c9bff8-067f-4489-b58c-9b8a18932661.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 57 || Agriculture (Part 3)",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2b5J6U-mEso",
+          "hd_video_url": "https://www.youtube.com/embed/2b5J6U-mEso",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HWpypMjUARIoItyoPOnszgQSdOvTRjgc7sR2tj83.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d58241f7-3318-4790-8d1a-0696fe5fd1ec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 58 || Family and friends  (Part 1)",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/BHaWPRB8CBM",
+          "hd_video_url": "https://www.youtube.com/embed/BHaWPRB8CBM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b3ZflQG8oJhjtTnIwoYVOSYHTurB9evBPL9vzM3a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6b90987b-8b67-4c26-9481-b4b2910de96e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 59 || Family and friends  (Part 2)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/gxFScerNACA",
+          "hd_video_url": "https://www.youtube.com/embed/gxFScerNACA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mAnERC3riRw1mGn9V6ySXwuaDSU19vnZG6JMf9qP.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abfffa1b-a8c6-423e-ba27-118c2fb58173.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture 60 || Environment Studies Concept & Scope (Part 1)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/uzFPnyTyG8k",
+          "hd_video_url": "https://www.youtube.com/embed/uzFPnyTyG8k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cKn4Y6KTVVAhxb302YjVFGj0mRihtzjpbTi1AvMi.jpg",
+          "notes": [
+            {
+              "title": "Lecture 60 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03d531aa-4a27-448d-a9ce-4b7f343fbe29.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture 61 || Environment Studies Concept & Scope (Part 2)",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/d__F2Iaic8c",
+          "hd_video_url": "https://www.youtube.com/embed/d__F2Iaic8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/K3Fdy3dxJqnryENSNKPMPksav4Pjlcm6MNL3OCHh.png",
+          "notes": [
+            {
+              "title": "Lecture 61 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34c06942-406d-409c-9757-eeb87d80a400.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture 62 || NCF 2005",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Vr05jSVPcDo",
+          "hd_video_url": "https://www.youtube.com/embed/Vr05jSVPcDo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vIfs5VP8o6Jo7cHyrBehunmeJYaxqoFj4kjg4Azu.jpg",
+          "notes": [
+            {
+              "title": "Lecture 62 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9506bed9-fcc4-4dc5-9a0f-90ef10a6e54b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture 63 || Practice Class",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/QXXxBcc0I_M",
+          "hd_video_url": "https://www.youtube.com/embed/QXXxBcc0I_M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1JYpTCQFksmJlh36NV7Go9rFlL8fccat9OaML0VW.jpg",
+          "notes": [
+            {
+              "title": "Lecture 63 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86a50526-a7c6-4077-99f7-b95982313c9e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture 64 || EVS by Abhishek Sir",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/drb-oFavM8c",
+          "hd_video_url": "https://www.youtube.com/embed/drb-oFavM8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/67mJxek1ryuXhjZRFIlT54lqEPgepi6mdkMcPRkU.jpg",
+          "notes": [
+            {
+              "title": "Lecture 64 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b7b21d86-8a1e-4684-9d0e-49079c788781.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture 65 || Practice Class",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/VdXaiC3ZIrk",
+          "hd_video_url": "https://www.youtube.com/embed/VdXaiC3ZIrk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pjf5DLeFOOtyZrnkYHtu6X9Drh4SljYhgIpDUASu.jpg",
+          "notes": [
+            {
+              "title": "Lecture 65 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/714eba0e-339c-41ea-aa6a-614682f43097.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture 66 || Practice Class",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/_vvBb-P3aRQ",
+          "hd_video_url": "https://www.youtube.com/embed/_vvBb-P3aRQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CF9sRjpPdjicHI2oI5NVevcxDXJdDFaHQo30jr6V.jpg",
+          "notes": [
+            {
+              "title": "Lecture 66 || EVS by Abhishek Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be9df74d-5b1c-4eb0-a4b8-a90dafd65060.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Hindi by Navneet Sir (Paper I & II)",
+      "subject_id": 4917,
+      "video_count": 63,
+      "note_count": 63,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "21 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/evIOQJlvj5c",
+          "hd_video_url": "https://www.youtube.com/embed/evIOQJlvj5c",
+          "thumbnail": "https://i.ytimg.com/vi/evIOQJlvj5c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fad5232-5683-4a71-ba01-9fdbff1648c3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || गद्यांश  (Part 1)",
+          "published_date": "22 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/St6v3JsVqD8",
+          "hd_video_url": "https://www.youtube.com/embed/St6v3JsVqD8",
+          "thumbnail": "https://i.ytimg.com/vi/St6v3JsVqD8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/45f3ad94-d87e-451a-85b2-0981255f1f32.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || गद्यांश (Part 2)",
+          "published_date": "27 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/U9FQkQ-Pf2M",
+          "hd_video_url": "https://www.youtube.com/embed/U9FQkQ-Pf2M",
+          "thumbnail": "https://i.ytimg.com/vi/U9FQkQ-Pf2M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25c0db84-9a49-4e8c-ac78-a9f867432f3c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || गद्यांश (Part 3)",
+          "published_date": "28 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/pjNJEb5ZWUs",
+          "hd_video_url": "https://www.youtube.com/embed/pjNJEb5ZWUs",
+          "thumbnail": "https://i.ytimg.com/vi/pjNJEb5ZWUs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d832884-3700-4cfe-8258-d51cca00d35d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || गद्यांश (Part 4)",
+          "published_date": "29 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/quuLIZmgZQU",
+          "hd_video_url": "https://www.youtube.com/embed/quuLIZmgZQU",
+          "thumbnail": "https://i.ytimg.com/vi/quuLIZmgZQU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/596c1afd-457b-4a94-80fb-a0384788fbff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || पद्यांश (Part 1)",
+          "published_date": "03 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/SXxgauzfLPE",
+          "hd_video_url": "https://www.youtube.com/embed/SXxgauzfLPE",
+          "thumbnail": "https://i.ytimg.com/vi/SXxgauzfLPE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Hindi  by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b6c8b80-a0be-4399-91ce-59032c4a6927.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || पद्यांश (Part 2)",
+          "published_date": "04 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/JZnf4QVnkBE",
+          "hd_video_url": "https://www.youtube.com/embed/JZnf4QVnkBE",
+          "thumbnail": "https://i.ytimg.com/vi/JZnf4QVnkBE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Hindi  by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ab64889-f456-412d-ad25-fab0d9978186.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || पद्यांश (Part 3)",
+          "published_date": "10 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/s2UHcb1K0Wc",
+          "hd_video_url": "https://www.youtube.com/embed/s2UHcb1K0Wc",
+          "thumbnail": "https://i.ytimg.com/vi/s2UHcb1K0Wc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Hindi  by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eadee01d-6da9-4680-9bd3-6808df410015.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || पद्यांश (Part 4)",
+          "published_date": "11 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/g3-u_kngII0",
+          "hd_video_url": "https://www.youtube.com/embed/g3-u_kngII0",
+          "thumbnail": "https://i.ytimg.com/vi/g3-u_kngII0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || Hindi  by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32460fa3-e7c3-4954-8054-442f0269f96c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || पद्यांश (Part 5)",
+          "published_date": "12 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/DVRxAVQqzbo",
+          "hd_video_url": "https://www.youtube.com/embed/DVRxAVQqzbo",
+          "thumbnail": "https://i.ytimg.com/vi/DVRxAVQqzbo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Hindi  by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f5a94c3f-2803-4263-8e18-9e3f3c2bb63a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || वर्णमाला (Part 1)",
+          "published_date": "17 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/Og41apG5Abw",
+          "hd_video_url": "https://www.youtube.com/embed/Og41apG5Abw",
+          "thumbnail": "https://i.ytimg.com/vi/Og41apG5Abw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4fda489d-8bd1-4990-9f19-1d2fddd7d72c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || वर्णमाला (Part 2)",
+          "published_date": "18 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/qB1It0nHwWY",
+          "hd_video_url": "https://www.youtube.com/embed/qB1It0nHwWY",
+          "thumbnail": "https://i.ytimg.com/vi/qB1It0nHwWY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0e3f162-55d4-4c56-9857-b97e4bd85078.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || वर्णमाला (Part 3)",
+          "published_date": "19 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/9zT9a9WW4ZI",
+          "hd_video_url": "https://www.youtube.com/embed/9zT9a9WW4ZI",
+          "thumbnail": "https://i.ytimg.com/vi/9zT9a9WW4ZI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b5fc130-5534-443f-82c0-5fcaaf40c7e7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || वर्णमाला (Part 4)",
+          "published_date": "25 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/umR6Ye9AGtE",
+          "hd_video_url": "https://www.youtube.com/embed/umR6Ye9AGtE",
+          "thumbnail": "https://i.ytimg.com/vi/umR6Ye9AGtE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1d781a4-8075-4322-a415-dba435a08ba7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || संधि (Part 1)",
+          "published_date": "03 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/_6nl52jduGo",
+          "hd_video_url": "https://www.youtube.com/embed/_6nl52jduGo",
+          "thumbnail": "https://i.ytimg.com/vi/_6nl52jduGo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f4b583de-2955-46d7-bf39-3fe0d52df684.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || संधि (Part 2)",
+          "published_date": "04 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/AK3bsJYHQho",
+          "hd_video_url": "https://www.youtube.com/embed/AK3bsJYHQho",
+          "thumbnail": "https://i.ytimg.com/vi/AK3bsJYHQho/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a0fe059-0171-4647-9f29-10507df6b36f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 ||  संधि (Part 3)",
+          "published_date": "05 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Xl-SPIoHzs0",
+          "hd_video_url": "https://www.youtube.com/embed/Xl-SPIoHzs0",
+          "thumbnail": "https://i.ytimg.com/vi/Xl-SPIoHzs0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b103e51d-78a6-491c-ad30-3a1fe446a5a6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 ||  संधि (Part 4)",
+          "published_date": "10 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/n8T4cG0YoGA",
+          "hd_video_url": "https://www.youtube.com/embed/n8T4cG0YoGA",
+          "thumbnail": "https://i.ytimg.com/vi/n8T4cG0YoGA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/caae620b-2c75-4161-a796-96d9329b29ed.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || संधि (Part 5)",
+          "published_date": "11 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/MqUELrTzZNk",
+          "hd_video_url": "https://www.youtube.com/embed/MqUELrTzZNk",
+          "thumbnail": "https://i.ytimg.com/vi/MqUELrTzZNk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f2efa0fd-ae60-49a6-ada6-7149c7d9cb82.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 ||  संधि (Part 6)",
+          "published_date": "18 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Hqf1rxsdMBM",
+          "hd_video_url": "https://www.youtube.com/embed/Hqf1rxsdMBM",
+          "thumbnail": "https://i.ytimg.com/vi/Hqf1rxsdMBM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ff75bce-515e-4ed1-aa73-efdf35599545.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || संधि (Part 7)",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/MfqTx-xl9XQ",
+          "hd_video_url": "https://www.youtube.com/embed/MfqTx-xl9XQ",
+          "thumbnail": "https://i.ytimg.com/vi/MfqTx-xl9XQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bed0ff8b-1f13-4ca4-8549-214dead15825.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || संधि (Part 8)",
+          "published_date": "24 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/BQsPULd6fmw",
+          "hd_video_url": "https://www.youtube.com/embed/BQsPULd6fmw",
+          "thumbnail": "https://i.ytimg.com/vi/BQsPULd6fmw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f1c0744b-834c-4737-aab6-44a360d775a0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || संधि (Part 9)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/WMYaNnMeotk",
+          "hd_video_url": "https://www.youtube.com/embed/WMYaNnMeotk",
+          "thumbnail": "https://i.ytimg.com/vi/WMYaNnMeotk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4501add4-8401-4684-a554-1e676a8a961f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 ||  समास (Part 1)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/teq02ZWBVKQ",
+          "hd_video_url": "https://www.youtube.com/embed/teq02ZWBVKQ",
+          "thumbnail": "https://i.ytimg.com/vi/teq02ZWBVKQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e14f571-6711-4ec3-826a-512757a10f36.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || समास (Part 2)",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/zKnRylqyEaQ",
+          "hd_video_url": "https://www.youtube.com/embed/zKnRylqyEaQ",
+          "thumbnail": "https://i.ytimg.com/vi/zKnRylqyEaQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55b11b0c-9fff-47b2-b9e7-a97e02544767.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || समास (Part 3)",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/h3JnlCd_MYE",
+          "hd_video_url": "https://www.youtube.com/embed/h3JnlCd_MYE",
+          "thumbnail": "https://i.ytimg.com/vi/h3JnlCd_MYE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c1f99199-8850-4f27-b4a0-6b82ed30b2c7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || शिक्षण शास्त्र",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/-67Fg9lUA38",
+          "hd_video_url": "https://www.youtube.com/embed/-67Fg9lUA38",
+          "thumbnail": "https://i.ytimg.com/vi/-67Fg9lUA38/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a6551ef-9c36-4fcb-9946-c4e38c7d82c9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || भाषा अर्जन (Part 1)",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/xYc-1AYQ3gE",
+          "hd_video_url": "https://www.youtube.com/embed/xYc-1AYQ3gE",
+          "thumbnail": "https://i.ytimg.com/vi/xYc-1AYQ3gE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dafbdffd-6ddb-4662-81c9-78f8be4ec868.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || भाषा अर्जन(Part 2)",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/dlFFKOx4GGw",
+          "hd_video_url": "https://www.youtube.com/embed/dlFFKOx4GGw",
+          "thumbnail": "https://i.ytimg.com/vi/dlFFKOx4GGw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d283b67d-c4a2-409e-9e00-f6f61145f141.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || भाषा अर्जन (Part 3)",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/ygp5faCtqy0",
+          "hd_video_url": "https://www.youtube.com/embed/ygp5faCtqy0",
+          "thumbnail": "https://i.ytimg.com/vi/ygp5faCtqy0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ac55752-5a73-49a0-af9e-a6c153588d2f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || भाषा अर्जन (Part 4)",
+          "published_date": "16 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/YOmaB_YMJoU",
+          "hd_video_url": "https://www.youtube.com/embed/YOmaB_YMJoU",
+          "thumbnail": "https://i.ytimg.com/vi/YOmaB_YMJoU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ecb0d61-2104-4fcb-a020-cf70b76dd3ec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || उपचारात्मक  एवं निदानात्मक शिक्षण (Part 1)",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/5JFuR8sNayE",
+          "hd_video_url": "https://www.youtube.com/embed/5JFuR8sNayE",
+          "thumbnail": "https://i.ytimg.com/vi/5JFuR8sNayE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abd6dc60-fcbb-4fb0-8aa2-c7241e6db88e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 ||  उपचारात्मक  एवं निदानात्मक शिक्षण (Part 2)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/NE0Hvd0Xw6Q",
+          "hd_video_url": "https://www.youtube.com/embed/NE0Hvd0Xw6Q",
+          "thumbnail": "https://i.ytimg.com/vi/NE0Hvd0Xw6Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/656c8237-0f60-4384-bc48-fe49a7daf121.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || उपचारात्मक एवं निदानात्मक शिक्षण (Part 3)",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/s4KX26scUL8",
+          "hd_video_url": "https://www.youtube.com/embed/s4KX26scUL8",
+          "thumbnail": "https://i.ytimg.com/vi/s4KX26scUL8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c39f7eb3-b459-4b8e-acb3-e426e9097c73.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || निदानात्मक शिक्षण (Part 1)",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/o7Ht80WuJlk",
+          "hd_video_url": "https://www.youtube.com/embed/o7Ht80WuJlk",
+          "thumbnail": "https://i.ytimg.com/vi/o7Ht80WuJlk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b98b91f-456e-4855-9ad8-86f45d03121a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || निदानात्मक शिक्षण (Part 2)",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/pOrqIXCP3xQ",
+          "hd_video_url": "https://www.youtube.com/embed/pOrqIXCP3xQ",
+          "thumbnail": "https://i.ytimg.com/vi/pOrqIXCP3xQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8f0d2d6-acb7-4ef9-953b-8e0c636818b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || निदानात्मक शिक्षण (Part 3)",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/bEAT8GXE7t4",
+          "hd_video_url": "https://www.youtube.com/embed/bEAT8GXE7t4",
+          "thumbnail": "https://i.ytimg.com/vi/bEAT8GXE7t4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5de5e800-fa6a-4259-b129-36f4816eb5df.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 ||  निदानात्मक शिक्षण (Part 4)",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/IfS2oCsgV0I",
+          "hd_video_url": "https://www.youtube.com/embed/IfS2oCsgV0I",
+          "thumbnail": "https://i.ytimg.com/vi/IfS2oCsgV0I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ea837da-b545-413f-b5ea-1225502dc3d5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || कविता -शिक्षण (पद्य शिक्षण ) (Part 1)",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/Ew5To2WYXgU",
+          "hd_video_url": "https://www.youtube.com/embed/Ew5To2WYXgU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683586699e8e3.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f41a79ae-b4d1-4d41-9398-f693fb29889c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || कविता -शिक्षण (पद्य शिक्षण ) (Part 2)",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/NqpR5ovJAvg",
+          "hd_video_url": "https://www.youtube.com/embed/NqpR5ovJAvg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683586675fb35.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/366edd5e-89f1-4e48-b354-d266f4c903b8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || कविता -शिक्षण (पद्य शिक्षण ) (Part 2)",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/BX0k2QWEZk4",
+          "hd_video_url": "https://www.youtube.com/embed/BX0k2QWEZk4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683586651d323.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/16c0439e-8029-4619-9947-89b9d39b568d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || कविता - शिक्षण",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/8U4MdJijvz0",
+          "hd_video_url": "https://www.youtube.com/embed/8U4MdJijvz0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68358662bd4de.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a76613c3-d1af-42bc-b6be-fe79067a1bb5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || कहानी शिक्षण- परिचय, उद्देश्य, विधियाँ, तत्व  (Part 1)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/vdC-xP23YGI",
+          "hd_video_url": "https://www.youtube.com/embed/vdC-xP23YGI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683586607ad39.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4944cd10-7274-4ec2-9b93-9d8340450517.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 || कहानी शिक्षण- परिचय, उद्देश्य, विधियाँ, तत्व  (Part 2)",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/d19UW8doweg",
+          "hd_video_url": "https://www.youtube.com/embed/d19UW8doweg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6835865e3e7ac.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dab6090-335c-4114-aa26-678ce9cb2afa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || कहानी शिक्षण (Part 3)",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/FVNVFqKHpqM",
+          "hd_video_url": "https://www.youtube.com/embed/FVNVFqKHpqM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6835865ab526f.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e806cb61-c81c-4cba-9af8-58bb293afd6a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || व्याकरण शिक्षण उद्देश्य, विधियाँ (Part 1)",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/4hS1U_UjfQM",
+          "hd_video_url": "https://www.youtube.com/embed/4hS1U_UjfQM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683586518dab7.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5a4242a1-b430-4a64-afea-d8953e52cf56.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || व्याकरण शिक्षण उद्देश्य, विधियाँ (Part 2)",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/q3xvSphIdeE",
+          "hd_video_url": "https://www.youtube.com/embed/q3xvSphIdeE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/683701d9532ff.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5b908c6a-d482-44ab-a7db-c72adc1b7d77.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 || व्याकरण शिक्षण उद्देश्य, विधियाँ (Part 3)",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/W94SL4TpE8c",
+          "hd_video_url": "https://www.youtube.com/embed/W94SL4TpE8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KSOJ9jUuSNv0ScvCLe7jQJWNa0wVi0ML2agASMFC.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/79b351d1-72c6-45f6-9b53-9c62f578767c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || श्रवण कौशल एवं मौखिक कौशल (Part 1)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/HtMtLYMc6ZA",
+          "hd_video_url": "https://www.youtube.com/embed/HtMtLYMc6ZA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/S32UUVUgVGZwS16zMHKKM4kSHW6mMeVhBoycJnOr.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/91ddadcd-a93e-4c18-aa29-87f54a9a6dba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50 || श्रवण कौशल एवं मौखिक कौशल (Part 1)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/o5EWFpj85vE",
+          "hd_video_url": "https://www.youtube.com/embed/o5EWFpj85vE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DVmKEwqmllZeBIKkOA5GfeyYrIjbyPESGChktWaF.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2fda63a4-bb7d-4645-b6ad-6ee755d45e53.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 || श्रवण कौशल एवं मौखिक कौशल (Part 3)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/k4nCNh1ED0w",
+          "hd_video_url": "https://www.youtube.com/embed/k4nCNh1ED0w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g9G5XW79MzmwkuTrAZC7x5nRgzBKqdUrDJINmxrW.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5aac33ff-aad5-4ef5-9861-6eae87cd7499.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 || श्रवण कौशल एवं मौखिक कौशल (Part 4)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Sk0cPEvsn1U",
+          "hd_video_url": "https://www.youtube.com/embed/Sk0cPEvsn1U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AcWTNd3KvCOW0K9DCDqDmlhIqjkpsK8j1LUmm583.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e29ba66c-0453-4ed4-a777-93bb9eefbdb1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 || श्रवण कौशल एवं मौखिक कौशल (Part 5)",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/aSf6ToZDuJE",
+          "hd_video_url": "https://www.youtube.com/embed/aSf6ToZDuJE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gSMgdQcarCn2SMmsrTErQlDOfQqHBcTtbWXsSOO7.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ef1baef-0e9b-48de-a1e2-f770860c45f4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 54 || श्रवण कौशल एवं मौखिक कौशल (Part 6)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/xTluSBIytQc",
+          "hd_video_url": "https://www.youtube.com/embed/xTluSBIytQc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rHV84jnClCWxkuKAQLT5fdY4aiStrncjg3fUIQgp.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9516d65f-cc99-4627-a0a4-bd5c265bf62d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 55 || लेखन कौशल",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2RInXUMWa2k",
+          "hd_video_url": "https://www.youtube.com/embed/2RInXUMWa2k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VJ9axfjRSdlGed65fw42u5Mf8KxclLvWe5CS1doQ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/96322eed-27de-49c4-be48-c3d058af65c3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 56 || अकादमिक भाषा",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/UllIQPJTfgE",
+          "hd_video_url": "https://www.youtube.com/embed/UllIQPJTfgE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/v1Q3JgIkXxlFnoL4qvd1Aqf6IHabHPCJmGdmkwjR.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c600a4e8-5f60-4249-85c0-853b398eb110.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 57 || स्किमिंग",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/CJ_BrLSK74I",
+          "hd_video_url": "https://www.youtube.com/embed/CJ_BrLSK74I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5hXLIAAZE8GAnc6f56MckNPcLNAElJDhRucZr6va.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fcccdd3d-4392-4f30-9903-a418cc4c3e54.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 58 || बॉटम अप टीचिंग स्ट्रैटेजी (Part 1)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Z-dFKHUQjK0",
+          "hd_video_url": "https://www.youtube.com/embed/Z-dFKHUQjK0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/as08o7mxqJyHkYKSQF8IIl8QqMPVT87IO6e1BaKB.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40e66083-65f0-4cb9-86c3-1c107e6c913a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 59 || बॉटम अप टीचिंग स्ट्रैटेजी (Part 2)",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JKaNk93XUdU",
+          "hd_video_url": "https://www.youtube.com/embed/JKaNk93XUdU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bWZrnIwUaqcUrxS1wQr7QqEDYb2a8u7lJfaqyd9E.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb82611a-ccb0-4d72-a539-4723f4f74c3b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture 60 || स्टीफन क्रेशन",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/kyVkxXG1A7A",
+          "hd_video_url": "https://www.youtube.com/embed/kyVkxXG1A7A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FHyhitrjvrXy5VbVEv9BWbjFvYACm0p40S6tMpuF.jpg",
+          "notes": [
+            {
+              "title": "Lecture 60 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db182fbc-5d50-4e23-a61f-03108c3a3e23.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture 61 || नई शिक्षा नीति",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/7Isy0ZcEz44",
+          "hd_video_url": "https://www.youtube.com/embed/7Isy0ZcEz44",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XMWogt6qVaWqmWxk35xT0NLOhTVhIuZ0RRpx1arQ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 61 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a856097-2600-4ea2-ad4d-8f5509ddff08.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture 62 || राष्ट्रीय पाठ्यचर्या की रुपरेखा  (Part 1)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/YQig0s1Ywa0",
+          "hd_video_url": "https://www.youtube.com/embed/YQig0s1Ywa0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0444en3ua9ac0KMUDXhZ7MjfWD4y7mXVFaa6DIbd.jpg",
+          "notes": [
+            {
+              "title": "Lecture 62 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da2b3e47-17aa-4da5-b135-8d5c3017a048.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture 63 || राष्ट्रीय पाठ्यचर्या की रुपरेखा  (Part 2)",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FeMKBxrWLW0",
+          "hd_video_url": "https://www.youtube.com/embed/FeMKBxrWLW0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mYilh7tn3Fptekw8N7HkHxxspFwdoN1T0UCdGQrW.jpg",
+          "notes": [
+            {
+              "title": "Lecture 63 || Hindi by Navneet Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bcd221a7-6799-452d-aa54-64240a926394.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Mathematics by Deepankar  Sir (Paper  II)",
+      "subject_id": 4874,
+      "video_count": 53,
+      "note_count": 53,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Numbers (Part 1)",
+          "published_date": "23 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/FVBoFKdE1h4",
+          "hd_video_url": "https://www.youtube.com/embed/FVBoFKdE1h4",
+          "thumbnail": "https://i.ytimg.com/vi/FVBoFKdE1h4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Maths by Deepankar  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/86a171ce-0203-4907-818c-b988f69323b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 ||  Numbers (Part 2)",
+          "published_date": "24 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/Uqbi_m9vOew",
+          "hd_video_url": "https://www.youtube.com/embed/Uqbi_m9vOew",
+          "thumbnail": "https://i.ytimg.com/vi/Uqbi_m9vOew/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Maths by Deepankar  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c2abd1b8-2c56-408f-a8cd-5c026076f87d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Numbers (Part 3)",
+          "published_date": "25 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/_0Oy-w43mBY",
+          "hd_video_url": "https://www.youtube.com/embed/_0Oy-w43mBY",
+          "thumbnail": "https://i.ytimg.com/vi/_0Oy-w43mBY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Maths by Deepankar  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/995f7acc-f471-45ff-8365-836070bb63a4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Number System (Part1)",
+          "published_date": "30 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/jfO8_e5-fo0",
+          "hd_video_url": "https://www.youtube.com/embed/jfO8_e5-fo0",
+          "thumbnail": "https://i.ytimg.com/vi/jfO8_e5-fo0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d77801bb-f471-415f-a685-c38971c837fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || Numbers System (Part 2)",
+          "published_date": "31 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/gcHdDVtX28w",
+          "hd_video_url": "https://www.youtube.com/embed/gcHdDVtX28w",
+          "thumbnail": "https://i.ytimg.com/vi/gcHdDVtX28w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25a94279-9464-4799-8383-a7cfb71336cf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Numbers System (Part 3)",
+          "published_date": "01 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/dpbR3PD7e4k",
+          "hd_video_url": "https://www.youtube.com/embed/dpbR3PD7e4k",
+          "thumbnail": "https://i.ytimg.com/vi/dpbR3PD7e4k/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cdfe5a4-8fed-406d-905e-b1e9448f35e3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Numbers System (Part 4)",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/CoMP4Uw7ZKY",
+          "hd_video_url": "https://www.youtube.com/embed/CoMP4Uw7ZKY",
+          "thumbnail": "https://i.ytimg.com/vi/CoMP4Uw7ZKY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afa95715-1211-40d2-a58c-e428173749f2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || Numbers System (Part 5)",
+          "published_date": "07 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/Ot3sXxkeFYE",
+          "hd_video_url": "https://www.youtube.com/embed/Ot3sXxkeFYE",
+          "thumbnail": "https://i.ytimg.com/vi/Ot3sXxkeFYE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cf00c3f0-b5c4-4003-9175-14605310f988.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Numbers System (Part 6)",
+          "published_date": "08 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/jrkkIcCuha8",
+          "hd_video_url": "https://www.youtube.com/embed/jrkkIcCuha8",
+          "thumbnail": "https://i.ytimg.com/vi/jrkkIcCuha8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d2707d9-8970-4ce5-a850-73a93ed2b1d3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 ||  Surds and Indices (Part 1)",
+          "published_date": "13 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/QRR5MVmRGUM",
+          "hd_video_url": "https://www.youtube.com/embed/QRR5MVmRGUM",
+          "thumbnail": "https://i.ytimg.com/vi/QRR5MVmRGUM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b81c4814-0cfd-4de9-b588-a1ead1a8dfc5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 ||  Surds and Indices (Part 2)",
+          "published_date": "14 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/87tPaKyrXek",
+          "hd_video_url": "https://www.youtube.com/embed/87tPaKyrXek",
+          "thumbnail": "https://i.ytimg.com/vi/87tPaKyrXek/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74399cbf-6df1-4f4e-a452-6f2d21609505.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Surds and Indices (Part 3)",
+          "published_date": "15 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/8jc83G0TaQ4",
+          "hd_video_url": "https://www.youtube.com/embed/8jc83G0TaQ4",
+          "thumbnail": "https://i.ytimg.com/vi/8jc83G0TaQ4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ad41779f-4f01-4d0b-aa0a-183445d71b0a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || LCM & HCF( Part 1)",
+          "published_date": "20 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/qlMGPJzwjZs",
+          "hd_video_url": "https://www.youtube.com/embed/qlMGPJzwjZs",
+          "thumbnail": "https://i.ytimg.com/vi/qlMGPJzwjZs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06964c9f-a791-4f51-851c-43f325e3dd20.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 ||  LCM & HCF( Part 2)",
+          "published_date": "21 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/BZ_HbLhvbq0",
+          "hd_video_url": "https://www.youtube.com/embed/BZ_HbLhvbq0",
+          "thumbnail": "https://i.ytimg.com/vi/BZ_HbLhvbq0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/75bc0a17-275c-4686-86ac-e6dc38c75283.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Doubt session",
+          "published_date": "22 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/Kf5KUrAlTZo",
+          "hd_video_url": "https://www.youtube.com/embed/Kf5KUrAlTZo",
+          "thumbnail": "https://i.ytimg.com/vi/Kf5KUrAlTZo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 ||  Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/25cf2971-a0b5-4520-932e-72e0380cc0ad.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Geometry & Mensuration (Part 1)",
+          "published_date": "27 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/AU_ECNP9A98",
+          "hd_video_url": "https://www.youtube.com/embed/AU_ECNP9A98",
+          "thumbnail": "https://i.ytimg.com/vi/AU_ECNP9A98/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/568d2e1c-af6d-426b-bc90-d75366dc332a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || Geometry & Mensuration (Part 2)",
+          "published_date": "28 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/XzOUR4sA25U",
+          "hd_video_url": "https://www.youtube.com/embed/XzOUR4sA25U",
+          "thumbnail": "https://i.ytimg.com/vi/XzOUR4sA25U/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae1ebecf-2875-4b22-a0fe-6d66a158446a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Geometry & Mensuration (Part 3)",
+          "published_date": "01 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/yWjD88-NRFs",
+          "hd_video_url": "https://www.youtube.com/embed/yWjD88-NRFs",
+          "thumbnail": "https://i.ytimg.com/vi/yWjD88-NRFs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e45800d-274e-48ff-81bb-1057a48e9490.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 ||  Geometry & Mensuration (Part 4)",
+          "published_date": "06 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/giCcJgesl54",
+          "hd_video_url": "https://www.youtube.com/embed/giCcJgesl54",
+          "thumbnail": "https://i.ytimg.com/vi/giCcJgesl54/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e7dc7f9-03dc-467e-b97c-dafb1dd5802f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Geometry & Mensuration (Part 5)",
+          "published_date": "08 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/tuxTIFLSBWc",
+          "hd_video_url": "https://www.youtube.com/embed/tuxTIFLSBWc",
+          "thumbnail": "https://i.ytimg.com/vi/tuxTIFLSBWc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0d4c9c23-5408-4481-97dd-2be8da8537d0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Geometry & Mensuration (Part 6)",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/MBdo6fXF__8",
+          "hd_video_url": "https://www.youtube.com/embed/MBdo6fXF__8",
+          "thumbnail": "https://i.ytimg.com/vi/MBdo6fXF__8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4322a1f0-138a-4e71-80a6-576cf48f8bfc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Geometry & Mensuration (Part 6)",
+          "published_date": "21 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/coy2MkSL9HI",
+          "hd_video_url": "https://www.youtube.com/embed/coy2MkSL9HI",
+          "thumbnail": "https://i.ytimg.com/vi/coy2MkSL9HI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a4f953c-e0b9-44be-901b-4717ac031857.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Geometry & Mensuration (Part 7)",
+          "published_date": "22 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/lQ2btIkUNVM",
+          "hd_video_url": "https://www.youtube.com/embed/lQ2btIkUNVM",
+          "thumbnail": "https://i.ytimg.com/vi/lQ2btIkUNVM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f461b935-8c40-4dc7-931d-f919a824daae.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Geometry & Mensuration (Part 8)",
+          "published_date": "27 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/UfrW71UDe_8",
+          "hd_video_url": "https://www.youtube.com/embed/UfrW71UDe_8",
+          "thumbnail": "https://i.ytimg.com/vi/UfrW71UDe_8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/104f3f1c-3f6e-45d2-bce5-ecba1beb063d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Geometry & Mensuration (Part 9)",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/buKhMDXMohY",
+          "hd_video_url": "https://www.youtube.com/embed/buKhMDXMohY",
+          "thumbnail": "https://i.ytimg.com/vi/buKhMDXMohY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/998f8099-4bb1-41a9-a218-20fe87bbe15d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Geometry & Mensuration (Part 10)",
+          "published_date": "04 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/OXFTQXhSZ5E",
+          "hd_video_url": "https://www.youtube.com/embed/OXFTQXhSZ5E",
+          "thumbnail": "https://i.ytimg.com/vi/OXFTQXhSZ5E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/df6e13f9-8f1b-4166-99e5-cf6464d95251.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || Geometry & Mensuration (Part 11)",
+          "published_date": "05 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/eNUMqxPO-wE",
+          "hd_video_url": "https://www.youtube.com/embed/eNUMqxPO-wE",
+          "thumbnail": "https://i.ytimg.com/vi/eNUMqxPO-wE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74d2aa17-d684-43c3-83f1-e7c7b1d3608e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || Algebra (Part 1)",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/sYxVR8FnRDw",
+          "hd_video_url": "https://www.youtube.com/embed/sYxVR8FnRDw",
+          "thumbnail": "https://i.ytimg.com/vi/sYxVR8FnRDw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/162dff64-0a51-472c-8ccf-8e9bcbdf559b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || Algebra (Part 2)",
+          "published_date": "11 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/gBm6Hf1Us68",
+          "hd_video_url": "https://www.youtube.com/embed/gBm6Hf1Us68",
+          "thumbnail": "https://i.ytimg.com/vi/gBm6Hf1Us68/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed666c21-21e7-41fd-aa70-85bf1265e5ae.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Algebra (Part 3)",
+          "published_date": "12 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/hZvDyg8_tIM",
+          "hd_video_url": "https://www.youtube.com/embed/hZvDyg8_tIM",
+          "thumbnail": "https://i.ytimg.com/vi/hZvDyg8_tIM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98eae34c-7339-4e72-a442-2b44c8aa1c57.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Algebra (Part 4)",
+          "published_date": "17 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/mPL-avVs59c",
+          "hd_video_url": "https://www.youtube.com/embed/mPL-avVs59c",
+          "thumbnail": "https://i.ytimg.com/vi/mPL-avVs59c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49cd20e7-8607-451a-908f-763dc4021b20.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || Algebra (Part 5)",
+          "published_date": "18 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/7FzB_WXYBdg",
+          "hd_video_url": "https://www.youtube.com/embed/7FzB_WXYBdg",
+          "thumbnail": "https://i.ytimg.com/vi/7FzB_WXYBdg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a5880f01-52fb-4b7e-b0d2-6722a47f490c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || Data Handling",
+          "published_date": "19 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/oLerOe8u7t8",
+          "hd_video_url": "https://www.youtube.com/embed/oLerOe8u7t8",
+          "thumbnail": "https://i.ytimg.com/vi/oLerOe8u7t8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c50bb41-2eb5-40d1-893e-99b8bfec40f2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || Percentage (Part 1)",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/YDGjubYQbvk",
+          "hd_video_url": "https://www.youtube.com/embed/YDGjubYQbvk",
+          "thumbnail": "https://i.ytimg.com/vi/YDGjubYQbvk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/346fbf7c-88f7-4309-bb41-175deec5f4ca.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Profit & Loss (Part 1)",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/abYjup2a3v4",
+          "hd_video_url": "https://www.youtube.com/embed/abYjup2a3v4",
+          "thumbnail": "https://i.ytimg.com/vi/abYjup2a3v4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3d71dfb2-1a69-49d1-8991-f6ef945759f3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || S.I &  C.I (Part 1)",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/LSFtYV7idmo",
+          "hd_video_url": "https://www.youtube.com/embed/LSFtYV7idmo",
+          "thumbnail": "https://i.ytimg.com/vi/LSFtYV7idmo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || S.I &  C.I",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5563336-457e-49e8-bcc1-8f57a253da6c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Percentage (Part 2)",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/JRnwF63cfBM",
+          "hd_video_url": "https://www.youtube.com/embed/JRnwF63cfBM",
+          "thumbnail": "https://i.ytimg.com/vi/JRnwF63cfBM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/efbac4c6-7d41-4fb8-b187-cefd9a17499d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || Profit & Loss (Part 2)",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/JzIVfz6sQZc",
+          "hd_video_url": "https://www.youtube.com/embed/JzIVfz6sQZc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j1RuiGdaNTPaycubeWqSrDAXFWRNlx4x10pRd24E.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/43e890db-1e92-4195-b765-cd7f92b78936.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || S.I & C.I (Part 1)",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/ueqPg6Avyy0",
+          "hd_video_url": "https://www.youtube.com/embed/ueqPg6Avyy0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vK861xnZT3IFgqRrsWa24eADbgAC9Rv7HcDYsZGS.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3b018bb-43b6-47d1-8ee9-97fac55a4fa1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || Doubt Session",
+          "published_date": "17 May 2025",
+          "video_url": "https://www.youtube.com/embed/9oAU8kX9JoQ",
+          "hd_video_url": "https://www.youtube.com/embed/9oAU8kX9JoQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69f12c898.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/761ea351-20b5-43d8-a8ef-686dafd862d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || Average 1",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/SiDnBczTivU",
+          "hd_video_url": "https://www.youtube.com/embed/SiDnBczTivU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7iJ7TuBKtCOyMn1l46t4KjMeXJGTJNTya5cTpnyt.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ea080d4-957c-45f7-ad7c-cce52d623227.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || Average 2",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/BgUfXSqpUeY",
+          "hd_video_url": "https://www.youtube.com/embed/BgUfXSqpUeY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BWGLmD8a60SMh88U1C70hzOCSpAGXcdFobA7r3g8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bee2d26d-5fdf-434a-9ee6-dc92b75d566e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || Ratio",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/3bfCNcHUbIs",
+          "hd_video_url": "https://www.youtube.com/embed/3bfCNcHUbIs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NWSdDlS8gGoZlQAkIHTbtY6oMphVYbowC66l5dOe.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/440a267c-0bcf-4ce2-b012-75e2ba0608d8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 || Mathematics by Deepankar Sir (Paper II)",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/XgrFNmZVqdg",
+          "hd_video_url": "https://www.youtube.com/embed/XgrFNmZVqdg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rT2YyOkrofOohR7gAhPHAHN1THwHLP5IZXvW2lpr.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/196162cc-03c5-4dbf-b4df-b7d4e2f69a8a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || Time & Work (Part 1)",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/1Nkwj0MKhlA",
+          "hd_video_url": "https://www.youtube.com/embed/1Nkwj0MKhlA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qKvCd4ydvWc6Byqfk2MV657n6tYy7NzS8XlCoTNA.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6636b1b0-c37b-4645-bb60-1ba9f5824723.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || Time & Work (Part 2)",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/MhEh7knXkk8",
+          "hd_video_url": "https://www.youtube.com/embed/MhEh7knXkk8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CVxti7dsIXkm7vSoxt9yGkTD1q7OlLdKeDBci0vW.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/51b2f6de-dbf7-448b-a183-8c30d45c1bc4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || Time Speed & Distance (Part 1)",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/fTlifXrH-6E",
+          "hd_video_url": "https://www.youtube.com/embed/fTlifXrH-6E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9smIOo9JYofYaEjD4gwf7tX1qXMsBHYxDAykXjPK.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3828fe77-26c0-4bc1-acce-ed7aebcf8d7d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 ||Time Speed & Distance (Part 2)",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/vJS7ZGU4Lo8",
+          "hd_video_url": "https://www.youtube.com/embed/vJS7ZGU4Lo8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HcqM971ISEGhFOtmWvWzZHsb90U2bgXY1UdLwGUu.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bf585d4-b755-46eb-8593-cfe5422f44cb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || Time Speed & Distance (Part 3)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/RntkpKO3GWE",
+          "hd_video_url": "https://www.youtube.com/embed/RntkpKO3GWE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5ksNMgF76dr6q4BgypcJkLS6oiUIWGzKq8LLAXTh.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40c953e1-a388-469e-aa59-76efa949288f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50  || Probability. Part 1",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/AUS5sXX65CM",
+          "hd_video_url": "https://www.youtube.com/embed/AUS5sXX65CM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mN1u2p5xNrX5FYYZjNYZ4qufK32ltCnqXCHoaF6n.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50  || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc8ae32a-46a5-4453-b1cb-2f80f385eecd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 || Probability. Part 2",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GgdYgUqiDW0",
+          "hd_video_url": "https://www.youtube.com/embed/GgdYgUqiDW0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5Unj9VfPOwMSPAOifQcCmLKynqTN3ocoof632vXJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58ae0777-2db9-4649-a5a9-457d0d440bc1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 || Mathematics by Deepankar Sir (Paper II)",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/7H8y4KT-82Q",
+          "hd_video_url": "https://www.youtube.com/embed/7H8y4KT-82Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2RULUituyNvmXxCEefysMJeY9V8WgWfhuKz0b08Q.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c798402c-02ab-4fb2-b611-db07dc295523.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 || Mathematics by Deepankar Sir (Paper II)",
+          "published_date": "09 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/A_ybMe6cpR8",
+          "hd_video_url": "https://www.youtube.com/embed/A_ybMe6cpR8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MWcdEQvRSpPouD3THNCzAkWjo785oEjvk4vH0C6Y.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || Mathematics by Deepankar Sir (Paper II)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3e6c495d-6af1-400a-ad02-5a0a947e3a70.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Mathematics by Deepankar  Sir (Paper I)",
+      "subject_id": 4970,
+      "video_count": 39,
+      "note_count": 39,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 ||  Introduction Class",
+          "published_date": "21 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/CCNP76EzlxE",
+          "hd_video_url": "https://www.youtube.com/embed/CCNP76EzlxE",
+          "thumbnail": "https://i.ytimg.com/vi/CCNP76EzlxE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Maths by Deepankar  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/633700b5-9641-4534-84ba-c1d6cb63c888.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Numbers (Part 1)",
+          "published_date": "22 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/Hm1fJJlf8vU",
+          "hd_video_url": "https://www.youtube.com/embed/Hm1fJJlf8vU",
+          "thumbnail": "https://i.ytimg.com/vi/Hm1fJJlf8vU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Maths by Deepankar  Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/020831a0-02d2-472e-a84a-9a6c830a8ebf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Numbers (Part 2)",
+          "published_date": "27 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/enkgag-Uk_E",
+          "hd_video_url": "https://www.youtube.com/embed/enkgag-Uk_E",
+          "thumbnail": "https://i.ytimg.com/vi/enkgag-Uk_E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a1a2422-a2e0-48e5-9072-a453f9fdbb03.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Numbers (Part 3)",
+          "published_date": "28 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/v8YTWvkLiiE",
+          "hd_video_url": "https://www.youtube.com/embed/v8YTWvkLiiE",
+          "thumbnail": "https://i.ytimg.com/vi/v8YTWvkLiiE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69e9bc35-06da-4030-a967-f9095f3fecf7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || Numbers (Part 4)",
+          "published_date": "03 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/5vXLWKjppp0",
+          "hd_video_url": "https://www.youtube.com/embed/5vXLWKjppp0",
+          "thumbnail": "https://i.ytimg.com/vi/5vXLWKjppp0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6ba178a6-2b13-4162-861c-3c4369ac56e1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Numbers (Part 5)",
+          "published_date": "05 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/BdGfQNjIYp0",
+          "hd_video_url": "https://www.youtube.com/embed/BdGfQNjIYp0",
+          "thumbnail": "https://i.ytimg.com/vi/BdGfQNjIYp0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1ba8b74b-2c7d-44d1-aa87-c9316c3df09c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || LCM & HCF (Part 1)",
+          "published_date": "10 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/p0VnVFzQxJQ",
+          "hd_video_url": "https://www.youtube.com/embed/p0VnVFzQxJQ",
+          "thumbnail": "https://i.ytimg.com/vi/p0VnVFzQxJQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62206340-47c5-4cb3-a25e-e26195c24bc8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || LCM & HCF (Part 2)",
+          "published_date": "11 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/2YVvj-TQQB8",
+          "hd_video_url": "https://www.youtube.com/embed/2YVvj-TQQB8",
+          "thumbnail": "https://i.ytimg.com/vi/2YVvj-TQQB8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d170d964-bfc5-4830-aee0-734586dcc958.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || LCM & HCF (Part 3)",
+          "published_date": "12 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/sEoAG_cGN5o",
+          "hd_video_url": "https://www.youtube.com/embed/sEoAG_cGN5o",
+          "thumbnail": "https://i.ytimg.com/vi/sEoAG_cGN5o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b025da60-bc1f-4b7b-a18c-a80c35fd730a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Decimal and fraction (Part 1)",
+          "published_date": "17 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/AbRVXtX5zwE",
+          "hd_video_url": "https://www.youtube.com/embed/AbRVXtX5zwE",
+          "thumbnail": "https://i.ytimg.com/vi/AbRVXtX5zwE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e43e1b96-8b40-4cbb-9c6b-20c0b852ca36.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || Decimal and fraction (Part 2)",
+          "published_date": "18 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/KHzZ5NHfp7s",
+          "hd_video_url": "https://www.youtube.com/embed/KHzZ5NHfp7s",
+          "thumbnail": "https://i.ytimg.com/vi/KHzZ5NHfp7s/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62e27e71-ec58-4edb-b86e-393328813d68.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Decimal and fraction (Part 3)",
+          "published_date": "19 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/ZbxkrBWE2R8",
+          "hd_video_url": "https://www.youtube.com/embed/ZbxkrBWE2R8",
+          "thumbnail": "https://i.ytimg.com/vi/ZbxkrBWE2R8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/abb7f7c2-f24c-4333-af33-9e16ccdf65cb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Decimal and fraction (Part 4)",
+          "published_date": "24 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/oInavMeNldQ",
+          "hd_video_url": "https://www.youtube.com/embed/oInavMeNldQ",
+          "thumbnail": "https://i.ytimg.com/vi/oInavMeNldQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/604adedb-bd12-4a8c-811e-8162454305b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Decimal and fraction (Part 5)",
+          "published_date": "25 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/VWDyO1sxGzc",
+          "hd_video_url": "https://www.youtube.com/embed/VWDyO1sxGzc",
+          "thumbnail": "https://i.ytimg.com/vi/VWDyO1sxGzc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7b1a2ba9-f159-495a-a50d-7664e625568c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Square & Square Root ,Cube & Cube Root (Part 1)",
+          "published_date": "03 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/8TDlGsLtUnk",
+          "hd_video_url": "https://www.youtube.com/embed/8TDlGsLtUnk",
+          "thumbnail": "https://i.ytimg.com/vi/8TDlGsLtUnk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ef74a07f-175b-42be-8b07-a85e2a8aedf5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Square & Square Root ,Cube & Cube Root (Part 2)",
+          "published_date": "04 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/4qY4O8ch0co",
+          "hd_video_url": "https://www.youtube.com/embed/4qY4O8ch0co",
+          "thumbnail": "https://i.ytimg.com/vi/4qY4O8ch0co/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/562c0768-006f-4589-9773-8007cd35bd53.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 ||Square & Square Root ,Cube & Cube Root (Part 3)",
+          "published_date": "05 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/mwWUMZTezIo",
+          "hd_video_url": "https://www.youtube.com/embed/mwWUMZTezIo",
+          "thumbnail": "https://i.ytimg.com/vi/mwWUMZTezIo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Maths by Deepanker Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2cf34856-bd9a-40d4-9eec-4d9e9578ffad.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Square & Square Root ,Cube & Cube Root (Part 4)",
+          "published_date": "10 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/s4kQQNKpETU",
+          "hd_video_url": "https://www.youtube.com/embed/s4kQQNKpETU",
+          "thumbnail": "https://i.ytimg.com/vi/s4kQQNKpETU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48faaba7-f18e-4975-bea8-ae868c978523.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Square & Square Root ,Cube & Cube Root (Part 5)",
+          "published_date": "11 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Le60c7Wxg_0",
+          "hd_video_url": "https://www.youtube.com/embed/Le60c7Wxg_0",
+          "thumbnail": "https://i.ytimg.com/vi/Le60c7Wxg_0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07c5773d-287c-4f34-8172-da2f6350d808.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Unit and measurement (Part 1)",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/iwiBcVJzciU",
+          "hd_video_url": "https://www.youtube.com/embed/iwiBcVJzciU",
+          "thumbnail": "https://i.ytimg.com/vi/iwiBcVJzciU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/108d1bfa-4c6d-4d1c-b340-bd19065db364.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Unit and measurement (Part 2)",
+          "published_date": "24 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/EeVE1B95ZkE",
+          "hd_video_url": "https://www.youtube.com/embed/EeVE1B95ZkE",
+          "thumbnail": "https://i.ytimg.com/vi/EeVE1B95ZkE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/66e78183-0cc0-46bf-aa78-4bc014e13e12.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 ||  Unit and measurement (Part 3)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/6yYeEz9-T-k",
+          "hd_video_url": "https://www.youtube.com/embed/6yYeEz9-T-k",
+          "thumbnail": "https://i.ytimg.com/vi/6yYeEz9-T-k/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfcfbcf6-5e5a-4478-ba49-7f763b3c518d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Unit and measurement (Part 4)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/FmhEq61_f20",
+          "hd_video_url": "https://www.youtube.com/embed/FmhEq61_f20",
+          "thumbnail": "https://i.ytimg.com/vi/FmhEq61_f20/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8602c73-f3d1-41ad-90f4-c8feb2d8481e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Circle & Triangle",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/5eQbtwqCnzc",
+          "hd_video_url": "https://www.youtube.com/embed/5eQbtwqCnzc",
+          "thumbnail": "https://i.ytimg.com/vi/5eQbtwqCnzc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e1a691f2-6d2f-48a0-b17a-62377a8dec76.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Quadrilateral",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/tHd2k1ZStag",
+          "hd_video_url": "https://www.youtube.com/embed/tHd2k1ZStag",
+          "thumbnail": "https://i.ytimg.com/vi/tHd2k1ZStag/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f5024e8-b935-4ab5-9ea7-b2f752efd1cd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Volume 3D",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/cd09tq-8jVM",
+          "hd_video_url": "https://www.youtube.com/embed/cd09tq-8jVM",
+          "thumbnail": "https://i.ytimg.com/vi/cd09tq-8jVM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f404620-0e57-42a7-82ad-8ed32471b83b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || PYQ's - Geometry & Mensuration (Part 1)",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/GPivK1MR0OY",
+          "hd_video_url": "https://www.youtube.com/embed/GPivK1MR0OY",
+          "thumbnail": "https://i.ytimg.com/vi/GPivK1MR0OY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/badd7f39-4877-4e38-8c14-54423c26b621.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || PYQ's - Geometry & Mensuration (Part 2)",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/XidsDm9tVHI",
+          "hd_video_url": "https://www.youtube.com/embed/XidsDm9tVHI",
+          "thumbnail": "https://i.ytimg.com/vi/XidsDm9tVHI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/07460dc2-fe02-4a0b-993f-4b7bba133740.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || PYQ's - Geometry & Mensuration (Part 3)",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/oeY1BdF5fLA",
+          "hd_video_url": "https://www.youtube.com/embed/oeY1BdF5fLA",
+          "thumbnail": "https://i.ytimg.com/vi/oeY1BdF5fLA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2712b9d6-3eb0-48e7-aaf5-76eb77819066.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Lines & Angles",
+          "published_date": "16 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/IwR2ovQx0hE",
+          "hd_video_url": "https://www.youtube.com/embed/IwR2ovQx0hE",
+          "thumbnail": "https://i.ytimg.com/vi/IwR2ovQx0hE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2b9ddab-8d52-4ba0-ab31-6594e7e0cc54.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Lines & Angles (Part 2)",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/UDm1n3Ipf3I",
+          "hd_video_url": "https://www.youtube.com/embed/UDm1n3Ipf3I",
+          "thumbnail": "https://i.ytimg.com/vi/UDm1n3Ipf3I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/88b2b207-635c-4fef-8ed6-1257828c344e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || Arithmetic problem (Part 1)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/0yYlbZ-06aI",
+          "hd_video_url": "https://www.youtube.com/embed/0yYlbZ-06aI",
+          "thumbnail": "https://i.ytimg.com/vi/0yYlbZ-06aI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67d75f17-72d1-413f-b65d-9546251cc85d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || Doubt session",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/KVwBlteQR3o",
+          "hd_video_url": "https://www.youtube.com/embed/KVwBlteQR3o",
+          "thumbnail": "https://i.ytimg.com/vi/KVwBlteQR3o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f9488aaf-dad1-43be-97d7-ee692d337fec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "lecture 34 || Arithmetic problem (Part 2)",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/gu8UZpeppt0",
+          "hd_video_url": "https://www.youtube.com/embed/gu8UZpeppt0",
+          "thumbnail": "https://i.ytimg.com/vi/gu8UZpeppt0/default.jpg",
+          "notes": [
+            {
+              "title": "lecture 34 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65a19646-c965-4479-b82d-e521f05b5553.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Arithmetic problem (Part 3)",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/lCNopLAl_G0",
+          "hd_video_url": "https://www.youtube.com/embed/lCNopLAl_G0",
+          "thumbnail": "https://i.ytimg.com/vi/lCNopLAl_G0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c828c2c0-168e-45d6-a9e0-c239014967b9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || Arithmetic problem (Part 4)",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/NWVPR2uiwcU",
+          "hd_video_url": "https://www.youtube.com/embed/NWVPR2uiwcU",
+          "thumbnail": "https://i.ytimg.com/vi/NWVPR2uiwcU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a28ef1e5-dc45-4702-b040-e1b5255710e5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Arithmetic problem (Part 5)",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/AOkdBnmmtVI",
+          "hd_video_url": "https://www.youtube.com/embed/AOkdBnmmtVI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68260ccfef867.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95011bfd-2dbd-4c45-a189-f59fe1bd75f2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || Arithmetic problem (Part 6)",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/1jPU-BPPz2w",
+          "hd_video_url": "https://www.youtube.com/embed/1jPU-BPPz2w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68260cd0ba3ae.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02cd84e0-01bc-4d6a-ad92-1a7717b69d90.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || Data Handling (Part 1)",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/-l97vsL466M",
+          "hd_video_url": "https://www.youtube.com/embed/-l97vsL466M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68260cd1504d0.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || Maths by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6946cea4-dd80-4b80-b63d-eccac81323c5.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Maths Pedagogy by Deepankar Sir",
+      "subject_id": 6962,
+      "video_count": 27,
+      "note_count": 27,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Meaning of Objective & Curriculum (Part 1)",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/R1N-aE6n8s4",
+          "hd_video_url": "https://www.youtube.com/embed/R1N-aE6n8s4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jqGRSXfhWDfsMmWBCfXXaesY4xigGwTBLPb7QrBl.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5410804a-d5d6-4563-bf5c-7d3330affaf7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Meaning of Objective & Curriculum (Part 2)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/a09Qj00sSyg",
+          "hd_video_url": "https://www.youtube.com/embed/a09Qj00sSyg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a699bde79f.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70a90bda-d76f-4a0f-a556-ccd28c595ad5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Practice Class",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/7N7VuN-9wcs",
+          "hd_video_url": "https://www.youtube.com/embed/7N7VuN-9wcs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a699b6a60a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6294331e-4176-4447-824a-5be12c4c4ba2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Nature of Mathematics",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/nN8zdl-brtI",
+          "hd_video_url": "https://www.youtube.com/embed/nN8zdl-brtI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a699ae77e8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4cd5a83-e80d-4c5a-a438-c370bd7a0084.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || N.C.F  & N.E.P",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/QPjmFEkay_U",
+          "hd_video_url": "https://www.youtube.com/embed/QPjmFEkay_U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a699a770ad.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b13e752f-5127-4e69-b48c-fbed94128d33.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Place of Mathematics in Curriculum(Part 1)",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/P8Qj4JxSzoI",
+          "hd_video_url": "https://www.youtube.com/embed/P8Qj4JxSzoI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a699a0818c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b9096363-3831-4df8-bd8f-2073e5c00d83.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Place of Mathematics in Curriculum(Part 2)",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/IZIyNTa0CQ0",
+          "hd_video_url": "https://www.youtube.com/embed/IZIyNTa0CQ0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69998bb8c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a9b8736-ed82-41e4-9b1b-372dd41553b0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || N.E.P & N.C.F MCQ",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/StQMhq5Si3g",
+          "hd_video_url": "https://www.youtube.com/embed/StQMhq5Si3g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69991bc4d.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a73c3c1-64ac-4e91-b2dc-b3b2aa2b290f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Language of Mathematics & (Development of Geometrical Thinking: Van Hiele (Part 1)",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/NoNfDCMT45Y",
+          "hd_video_url": "https://www.youtube.com/embed/NoNfDCMT45Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69988ecfd.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aeae241-b7a3-43fb-9ae3-709a8ee926a0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Language of Mathematics & (Development of Geometrical Thinking: Van Hiele (Part 2)",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/5osH8JHlktI",
+          "hd_video_url": "https://www.youtube.com/embed/5osH8JHlktI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69981ae3d.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d85d9ab0-c24e-478a-9bc3-53f5444b0371.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || Teaching Methods (Part 1)",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/PvjqNTNXu54",
+          "hd_video_url": "https://www.youtube.com/embed/PvjqNTNXu54",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69979d022.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8fd6133-2f5d-4181-aa3b-716f4c192932.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Teaching Methods (Part 2)",
+          "published_date": "31 May 2025",
+          "video_url": "https://www.youtube.com/embed/b8mnKDWZAEo",
+          "hd_video_url": "https://www.youtube.com/embed/b8mnKDWZAEo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q42NXsGt7O568XdLG7AH2sqBCOJw06Uq4qAcHvGh.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b89f45cb-e7c7-4022-8634-4a7c72fb06cf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Evaluation in Mathematics",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/u5IZN9zukDg",
+          "hd_video_url": "https://www.youtube.com/embed/u5IZN9zukDg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9XFaXZN6qSfk9mSWlzj0H3b9WfNxDY0EJ8PcKeey.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22789cad-9f0b-4e70-ae25-b8792f20b08a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Evaluation in Mathematics (Part 1)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7UJTcA8dpMI",
+          "hd_video_url": "https://www.youtube.com/embed/7UJTcA8dpMI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ixfGuc5IVIeSGafl3mNMxHXKDG0RGNRspjXk9lDt.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/be413bd2-991b-4cbb-a8c6-d72ba63e4d2d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Evaluation in Mathematics (Part 2)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/bpISRsfjtqM",
+          "hd_video_url": "https://www.youtube.com/embed/bpISRsfjtqM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fe51h5dqJLZjHy360urwkZY2gxdlvoGQo6M7DZr2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || Mathematics by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/945ff70d-ae26-42cc-b5c6-dca93b570765.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Evaluation in Mathematics (Part 3)",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/QqcmaziL8b8",
+          "hd_video_url": "https://www.youtube.com/embed/QqcmaziL8b8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hbv0G0USaiWHtwNtlNBPdbJG4nU5uRj9KEe6wSgG.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e0322a4-a043-44f2-88fe-d4c6c709551a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || Evaluation in Mathematics (Part 4)",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/xmUJGC2daVk",
+          "hd_video_url": "https://www.youtube.com/embed/xmUJGC2daVk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7WoYdMpfFMeMiqorKVWuNIPGtSAX5b4kW63YfWpS.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/556734df-e546-4908-ba51-868f80c5e48f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Teaching Aid & Activities ( Part 1)",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/y1a6zSgXY48",
+          "hd_video_url": "https://www.youtube.com/embed/y1a6zSgXY48",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AXP3VB8O8fKH6GD8ohvrnauaxyEWXagvlp2tPQNC.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0ed0ae4-0f24-4225-8cf5-ee7cec3eaa1d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Teaching Aid & Activities ( Part 2)",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/FtUwQppqUU8",
+          "hd_video_url": "https://www.youtube.com/embed/FtUwQppqUU8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0gYXKnGDP6ieQ0My3q8n0yDLfEx7yOTJEHv8SxYs.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49168fd2-1179-4e40-ade1-752ef5a474f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Teaching Aid & Activities ( Part 3)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/oQRnchcwwcE",
+          "hd_video_url": "https://www.youtube.com/embed/oQRnchcwwcE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2ZwOiwYrewmxBkeN81otad5cIICCec8XQTcdEC5p.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9643183-62e2-474b-ac85-b34aaa7cd00a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 1)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/k7jyMhUVs4Q",
+          "hd_video_url": "https://www.youtube.com/embed/k7jyMhUVs4Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2CIYkl30knJxqKRrlWWFfYu376K0uaAFAxxzt0na.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d75a4a08-48a8-44bc-9e7f-44fde6ac5b5a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 2)",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/z_KC2fFHLzs",
+          "hd_video_url": "https://www.youtube.com/embed/z_KC2fFHLzs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/s0oEvreIdYRVnPkFleehndx5Z8LmF6TiuJ6iuIMB.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/662e36a1-1d55-420c-8c9e-cf6503e37120.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 3)",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Re4FBaVyb8o",
+          "hd_video_url": "https://www.youtube.com/embed/Re4FBaVyb8o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yHVzDwas4tlrIwJ7b69UURbhQdA9WWM3gil45lav.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bb21983-6a81-4ffa-89de-fb4672bb3fee.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 4)",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/36Q7PmG3iYs",
+          "hd_video_url": "https://www.youtube.com/embed/36Q7PmG3iYs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/TY7V21W0a83MBVWPhzG6ipEctuCCS5tndOxCwRr7.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/990e62be-29f7-4c6f-8291-bef40ff8fbcf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 5)",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/qXGF-edDZM8",
+          "hd_video_url": "https://www.youtube.com/embed/qXGF-edDZM8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VfMfegDFjEf5CglNdm4Jan8ly0lc4ErDdy0w3uww.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b464b2a1-f6e9-498e-a261-80c4a76f80b9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 6 )",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/jaJx8G6rwuM",
+          "hd_video_url": "https://www.youtube.com/embed/jaJx8G6rwuM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DGIwu5oeHRtFSoi2MTH8gHIQ6Q8jS1zVnq32iAMl.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc910802-476b-4c7c-b6fa-03f77c1babe9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || Error Analysis in Teaching of Mathematics & Teaching Aids (Part 7)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/ofWFGdIerzY",
+          "hd_video_url": "https://www.youtube.com/embed/ofWFGdIerzY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Zo1ofxjYs0YEvfSqFsfi6IKe2oypWdDJTVlf7LtN.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Maths Pedagogy by Deepankar Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4dfdcb0d-31a5-4aa5-bd69-c23c87ddc372.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Sanskrit by Chetan Sir (Paper I & II)",
+      "subject_id": 4918,
+      "video_count": 59,
+      "note_count": 58,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "23 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/WPGCMiYmpE4",
+          "hd_video_url": "https://www.youtube.com/embed/WPGCMiYmpE4",
+          "thumbnail": "https://i.ytimg.com/vi/WPGCMiYmpE4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Introduction Class",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89ba0ad2-363b-4b6d-ab86-3b205d8f5fdd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Tag words",
+          "published_date": "24 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/STKEHNIx5c4",
+          "hd_video_url": "https://www.youtube.com/embed/STKEHNIx5c4",
+          "thumbnail": "https://i.ytimg.com/vi/STKEHNIx5c4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Sanskrit BY Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/98fd5795-c9bb-4007-a932-ad86fe372cba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || अधिगम एवं अर्जन (Part 1)",
+          "published_date": "25 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/aUr2acWkhXs",
+          "hd_video_url": "https://www.youtube.com/embed/aUr2acWkhXs",
+          "thumbnail": "https://i.ytimg.com/vi/aUr2acWkhXs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Sanskrit BY Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9348e7e6-faa4-4b92-977a-c083a8446aa9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || भाषा कौशलानि भाग -1",
+          "published_date": "30 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/LTfz5hWGeak",
+          "hd_video_url": "https://www.youtube.com/embed/LTfz5hWGeak",
+          "thumbnail": "https://i.ytimg.com/vi/LTfz5hWGeak/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Sanskrit BY Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/10c92752-9216-402c-8bc2-551d5154bd9b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || भाषा कौशलानि भाग -2",
+          "published_date": "01 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/QWdpabxVCoE",
+          "hd_video_url": "https://www.youtube.com/embed/QWdpabxVCoE",
+          "thumbnail": "https://i.ytimg.com/vi/QWdpabxVCoE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Sanskrit BY Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e130b50e-9907-4987-98aa-4a27aeac7ba5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || भाषा कौशलानि भाग -3",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/k6heXzN0bGQ",
+          "hd_video_url": "https://www.youtube.com/embed/k6heXzN0bGQ",
+          "thumbnail": "https://i.ytimg.com/vi/k6heXzN0bGQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e68f631-81ef-4c59-a048-f41777f0e683.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || भाषा कौशलानि भाग -4",
+          "published_date": "07 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/g2VpM9Lv8JY",
+          "hd_video_url": "https://www.youtube.com/embed/g2VpM9Lv8JY",
+          "thumbnail": "https://i.ytimg.com/vi/g2VpM9Lv8JY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36afbaef-4185-4ed6-8d20-1a5acb1be1b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || भाषा कौशलानि भाग -5",
+          "published_date": "08 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/NwTERcUhhpY",
+          "hd_video_url": "https://www.youtube.com/embed/NwTERcUhhpY",
+          "thumbnail": "https://i.ytimg.com/vi/NwTERcUhhpY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ac8978d7-435f-40f7-874b-a7d208c27a8c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || भाषा कौशलानि भाग -6",
+          "published_date": "13 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/zGG13dmkpWA",
+          "hd_video_url": "https://www.youtube.com/embed/zGG13dmkpWA",
+          "thumbnail": "https://i.ytimg.com/vi/zGG13dmkpWA/default.jpg",
+          "notes": []
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || संस्कृत सामान्य शिक्षण सिद्धांत",
+          "published_date": "14 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/-VyAoNn4ywU",
+          "hd_video_url": "https://www.youtube.com/embed/-VyAoNn4ywU",
+          "thumbnail": "https://i.ytimg.com/vi/-VyAoNn4ywU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a89bac3a-b7f5-4fa4-adbf-b057159a60f5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || संस्कृत सामान्य शिक्षण सिद्धांत (Part 2)",
+          "published_date": "15 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/BmCNfCs5fko",
+          "hd_video_url": "https://www.youtube.com/embed/BmCNfCs5fko",
+          "thumbnail": "https://i.ytimg.com/vi/BmCNfCs5fko/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06e88e1f-0c45-4a53-99ba-d46b1bc9d56c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || संस्कृत शिक्षण सूत्र",
+          "published_date": "20 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/B8JU6HuVSGY",
+          "hd_video_url": "https://www.youtube.com/embed/B8JU6HuVSGY",
+          "thumbnail": "https://i.ytimg.com/vi/B8JU6HuVSGY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/01fa9198-b6b1-4e05-a03c-6fdd2e3db357.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || संस्कृत भाषा शिक्षण",
+          "published_date": "21 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/dUyNZtvZd8o",
+          "hd_video_url": "https://www.youtube.com/embed/dUyNZtvZd8o",
+          "thumbnail": "https://i.ytimg.com/vi/dUyNZtvZd8o/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3b5a0813-a743-4943-8073-95c4a21147b0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || शिक्षण विधि (Part 1)",
+          "published_date": "27 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/DzJdiVM57os",
+          "hd_video_url": "https://www.youtube.com/embed/DzJdiVM57os",
+          "thumbnail": "https://i.ytimg.com/vi/DzJdiVM57os/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/144e5aaf-8d4a-439d-8379-928a47d8d41b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || शिक्षण विधि (Part 2)",
+          "published_date": "28 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/hjlD-NQEHDE",
+          "hd_video_url": "https://www.youtube.com/embed/hjlD-NQEHDE",
+          "thumbnail": "https://i.ytimg.com/vi/hjlD-NQEHDE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/03cb02c3-a944-4e80-80e3-97b7e6000f96.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || शिक्षण विधि (Part 3)",
+          "published_date": "01 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/gGIHyz3vF40",
+          "hd_video_url": "https://www.youtube.com/embed/gGIHyz3vF40",
+          "thumbnail": "https://i.ytimg.com/vi/gGIHyz3vF40/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1066daf6-067c-43f6-bd3f-85f54c589a23.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || शिक्षण विधि (Part 4)",
+          "published_date": "06 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Zt3Tdi4HUgA",
+          "hd_video_url": "https://www.youtube.com/embed/Zt3Tdi4HUgA",
+          "thumbnail": "https://i.ytimg.com/vi/Zt3Tdi4HUgA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f91075e1-e0c0-4335-8562-b7d1f0d61a5a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || शिक्षण विधि (Part 5)",
+          "published_date": "07 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/zBrB6HWKotM",
+          "hd_video_url": "https://www.youtube.com/embed/zBrB6HWKotM",
+          "thumbnail": "https://i.ytimg.com/vi/zBrB6HWKotM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dfc7092a-a72b-4aa1-b445-789610bcd157.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || शिक्षण अधिगम सामग्री (Part 1)",
+          "published_date": "08 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Q8rdU3x3r-I",
+          "hd_video_url": "https://www.youtube.com/embed/Q8rdU3x3r-I",
+          "thumbnail": "https://i.ytimg.com/vi/Q8rdU3x3r-I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/21d526ad-af11-47d4-981b-4794ca97f54d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || शिक्षण अधिगम सामग्री (Part 2 )",
+          "published_date": "21 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Hi6n3SUKe1E",
+          "hd_video_url": "https://www.youtube.com/embed/Hi6n3SUKe1E",
+          "thumbnail": "https://i.ytimg.com/vi/Hi6n3SUKe1E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/31a65399-f9a6-4ea2-b894-5d7198eb7f82.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || मूल्याँकन (Part 1)",
+          "published_date": "27 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/EL1QDnPwv7Y",
+          "hd_video_url": "https://www.youtube.com/embed/EL1QDnPwv7Y",
+          "thumbnail": "https://i.ytimg.com/vi/EL1QDnPwv7Y/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8bf853f4-54b9-4d70-8c81-3ffa262184cd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || मूल्याँकन (Part 2)",
+          "published_date": "28 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/F7NDO--JoK8",
+          "hd_video_url": "https://www.youtube.com/embed/F7NDO--JoK8",
+          "thumbnail": "https://i.ytimg.com/vi/F7NDO--JoK8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cadc1f2f-b234-45a9-a9d5-480fa1b14810.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || उपचारात्मक शिक्षण",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/ygd5AOb4zMo",
+          "hd_video_url": "https://www.youtube.com/embed/ygd5AOb4zMo",
+          "thumbnail": "https://i.ytimg.com/vi/ygd5AOb4zMo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08556aba-1c93-42ae-bcc2-cbf77f20c537.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Practice Class",
+          "published_date": "04 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/evfa-zPsv4A",
+          "hd_video_url": "https://www.youtube.com/embed/evfa-zPsv4A",
+          "thumbnail": "https://i.ytimg.com/vi/evfa-zPsv4A/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/34b70fe6-f989-4690-9200-4bc8322d885d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || संस्कृत व्याकरण परिचय",
+          "published_date": "05 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/8NzknkjP2Hs",
+          "hd_video_url": "https://www.youtube.com/embed/8NzknkjP2Hs",
+          "thumbnail": "https://i.ytimg.com/vi/8NzknkjP2Hs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/94c4af9d-1900-42d5-a362-ff59eb7f7a32.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || वर्ण",
+          "published_date": "17 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/dMvAEhs36Qw",
+          "hd_video_url": "https://www.youtube.com/embed/dMvAEhs36Qw",
+          "thumbnail": "https://i.ytimg.com/vi/dMvAEhs36Qw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2394fa20-a7d6-4a27-a570-e1d1b8d9a861.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || वर्ण विचार (Part 2)",
+          "published_date": "18 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/dfZOaTQfxXc",
+          "hd_video_url": "https://www.youtube.com/embed/dfZOaTQfxXc",
+          "thumbnail": "https://i.ytimg.com/vi/dfZOaTQfxXc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f8f8270d-f8e8-49fd-8fc8-abb8bd19a53f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || संधि प्रकरण  (Part 1)",
+          "published_date": "19 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/QD2-0DMA4mg",
+          "hd_video_url": "https://www.youtube.com/embed/QD2-0DMA4mg",
+          "thumbnail": "https://i.ytimg.com/vi/QD2-0DMA4mg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb8338f6-71fc-4111-bce0-fa40715e7938.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || संधि प्रकरण (Part 2)",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/ip5BE1xJiEc",
+          "hd_video_url": "https://www.youtube.com/embed/ip5BE1xJiEc",
+          "thumbnail": "https://i.ytimg.com/vi/ip5BE1xJiEc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1e0c7ce4-4860-4633-8521-5842896a2fec.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || संधि प्रकरण (Part 3)",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/7COYjoZ3l90",
+          "hd_video_url": "https://www.youtube.com/embed/7COYjoZ3l90",
+          "thumbnail": "https://i.ytimg.com/vi/7COYjoZ3l90/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38a40f34-bac4-48e2-a351-e967466f6e11.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || संधि प्रकरण (Part 4)",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/XDPrsjti4o8",
+          "hd_video_url": "https://www.youtube.com/embed/XDPrsjti4o8",
+          "thumbnail": "https://i.ytimg.com/vi/XDPrsjti4o8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c189783-2a80-47d0-bbba-ce48be3eb02b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || संधि प्रकरण (Part 4)",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/b2S641EE7IQ",
+          "hd_video_url": "https://www.youtube.com/embed/b2S641EE7IQ",
+          "thumbnail": "https://i.ytimg.com/vi/b2S641EE7IQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7daed845-a0b3-493a-a9e0-e2ea2c0d6348.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || संधि प्रकरण (Part 5)",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/Wr6Jds0V_Ms",
+          "hd_video_url": "https://www.youtube.com/embed/Wr6Jds0V_Ms",
+          "thumbnail": "https://i.ytimg.com/vi/Wr6Jds0V_Ms/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/59e5cb6f-252d-45c8-acc8-02bd909bf2ba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || संधि प्रकरण (Part 6)",
+          "published_date": "03 May 2025",
+          "video_url": "https://www.youtube.com/embed/5nlHt04eD_U",
+          "hd_video_url": "https://www.youtube.com/embed/5nlHt04eD_U",
+          "thumbnail": "https://i.ytimg.com/vi/5nlHt04eD_U/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eda12b4a-4e0e-4adf-a36e-c291371f2a80.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || संधि (Part 8)",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/IoOCBj7GR2A",
+          "hd_video_url": "https://www.youtube.com/embed/IoOCBj7GR2A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69c15d61c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55ceb3a3-0148-4fe0-884e-a4ac3a12b81a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || संधि (Part 9)",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/cpXGu8wIg3c",
+          "hd_video_url": "https://www.youtube.com/embed/cpXGu8wIg3c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69c02e18a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83d62a57-bab5-4bfa-ac69-a050fb6a5d64.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Doubt Session",
+          "published_date": "10 May 2025",
+          "video_url": "https://www.youtube.com/embed/11GgiWu7Z3o",
+          "hd_video_url": "https://www.youtube.com/embed/11GgiWu7Z3o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69beeb017.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2db03dd8-9be7-4e4e-b427-c67aac055e95.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || शब्द रूपमाला",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/Vi75bouNa3Y",
+          "hd_video_url": "https://www.youtube.com/embed/Vi75bouNa3Y",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69bdb0b12.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2d4410e0-86a2-4da1-b431-31d1207b0625.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || समासप्रकरण 1",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/XGVj9rkE09Q",
+          "hd_video_url": "https://www.youtube.com/embed/XGVj9rkE09Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69bc7d138.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d307bc1-be93-4cc9-8cf1-3a16ea8e9e0a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || समासप्रकरण 2",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/XwYo7qgO6Tk",
+          "hd_video_url": "https://www.youtube.com/embed/XwYo7qgO6Tk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69bb4ba9b.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f424a6d-c6b7-49ab-b999-466cd9caa7c9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || समासप्रकरण 3",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/xvas6Ofg6Pg",
+          "hd_video_url": "https://www.youtube.com/embed/xvas6Ofg6Pg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69ba17188.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/017712f9-2161-424e-94ac-2862f23c5e9a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || समासप्रकरण 4",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/bvVrI7VDpbQ",
+          "hd_video_url": "https://www.youtube.com/embed/bvVrI7VDpbQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a69b8da25e.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/65861193-8179-4cb8-b9a8-6c5a007010b2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || समासप्रकरण 5",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/UWOsOLQq7WE",
+          "hd_video_url": "https://www.youtube.com/embed/UWOsOLQq7WE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oVvWhHE3rtEeKhcMCGP0QupzWcTyoWj12rZOeCY7.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a5ecb8e-4501-4d94-9cf2-555d78a05b22.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 || समासप्रकरण 6",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/8RpyqrdzNic",
+          "hd_video_url": "https://www.youtube.com/embed/8RpyqrdzNic",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GHfs5WJ52wlCmmbCPIIQCg23xPiEpcLNQqLEdPps.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a4410e92-069a-4812-86f5-c644c7c19271.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || धातु रूपमाला",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/nehdAz97uJM",
+          "hd_video_url": "https://www.youtube.com/embed/nehdAz97uJM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Q0YfouMDBeT6CF3oH73LbHJcvs9yDw4HK2DkCXoU.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/36c88438-55ed-4706-a79a-b3f9e3ae1e07.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || कारक प्रकरणम्भाग-1",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/8VdG5dnnoJA",
+          "hd_video_url": "https://www.youtube.com/embed/8VdG5dnnoJA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3T2C816oV6RM6BqvOdXb91BNKp7NkhvWFVtKgqY4.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ab9be34-89f8-4d5a-8dbf-bc2e722c7f74.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || कारक प्रकरणम्भाग-2",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/5WDXLD7P5aQ",
+          "hd_video_url": "https://www.youtube.com/embed/5WDXLD7P5aQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Rvgq0JIAk9IXH8ApoJtQY44F4naY8Xb5V42rIBZc.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60b60c7b-ad2b-4450-b632-53967bd37c1e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 || कारक प्रकरणम्भाग-3",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/c95SezuZxf8",
+          "hd_video_url": "https://www.youtube.com/embed/c95SezuZxf8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/24nVgG1axaVJeXcARSm5wumj3cjg5cLpLejDuOQi.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/335ca00a-0c3a-44b1-bd71-73aac9aa801f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || कारक प्रकरणम्भाग-4",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/ZmUlHpSRlTk",
+          "hd_video_url": "https://www.youtube.com/embed/ZmUlHpSRlTk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/0J5WQet0AWp8CPrve6oivyIYnICo5a7aWSSmVOeZ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c3a481ab-7fa9-439f-bda0-b62087a9589d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50 || प्रत्यय  (Part 1)",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/1JRgttnjYfU",
+          "hd_video_url": "https://www.youtube.com/embed/1JRgttnjYfU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mMaFXJVOpZsrv4ul0uU0ygYqUZMCjcvew9hV1hme.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4b06a479-ebf0-408d-b277-356e8b85ef71. 50"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 || प्रत्यय  (Part 2)",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/CWK4IzFMnI4",
+          "hd_video_url": "https://www.youtube.com/embed/CWK4IzFMnI4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MsomFzaKlYpY23T5ityG8w45vQrjuowePKTaG6Q4.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5388aab3-cfc4-4788-b9b1-77e7f6d724c6. 51"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 ||  प्रत्यय (Part 3)",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/x_75kEQGLVM",
+          "hd_video_url": "https://www.youtube.com/embed/x_75kEQGLVM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/jiVlpL7K30DYEYmHVx8FhCJ8MIwTrBVjHPMBJk0Y.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 ||  प्रत्यय (Part 3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b86228e8-db08-4f29-81b8-6304591776b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 ||  प्रत्यय (Part 4)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WjADaGXUlUc",
+          "hd_video_url": "https://www.youtube.com/embed/WjADaGXUlUc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XNGflaPGlpoPelDrqscSFRllPTWGlXWqECHQiqeE.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 ||  प्रत्यय (Part 4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8c215328-a9e4-4672-ac52-d08351a4930c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 54 ||  प्रत्यय (Part 5)",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/GuVPI6CaqeQ",
+          "hd_video_url": "https://www.youtube.com/embed/GuVPI6CaqeQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Q4jmkVtbRkn8Ds0cRplUX2vMjsgaZKk5WTTHmaSu.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fce68e13-2c9f-4b0d-8f83-2b94999f52e3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 55 || कतृ ,क्रियापद, विशेषण -विशेष और सर्वनाम",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/FUtEdDWtuhM",
+          "hd_video_url": "https://www.youtube.com/embed/FUtEdDWtuhM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/PykqvqOZGbpHTTODyrJ7VReRTrLdw7uRRumGqcps.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/416f1d46-c174-4560-af3d-db08f274e39a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 56 || गद्यांश",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/_fMjJtBoIiI",
+          "hd_video_url": "https://www.youtube.com/embed/_fMjJtBoIiI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SG0ThLLitdyyLirql1UwQkxoE2h63Ue0gv5WIR7h.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || गद्यांश",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b81ae2d6-cefe-491c-905b-2c5a91eb1824.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 57 || छंद",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/oTgOvcG9OKc",
+          "hd_video_url": "https://www.youtube.com/embed/oTgOvcG9OKc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bSSKAWXv44WS7kEsdn1PQ5OxwgD1hyJTmYQ4B2Dt.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0891a711-59c1-4100-808d-2eacea1fe0ba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 58 || छंद ज्ञान (Part 2)",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Kie-XfeRdtk",
+          "hd_video_url": "https://www.youtube.com/embed/Kie-XfeRdtk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/AHjX8qhKYtcn8dpuN2IhQTzYM6xsmDWq8iHqUV5l.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/72edb980-f395-4c02-97ea-088cf2802571.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 59 || अपठित पद्यांश",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/akzLHfYTx00",
+          "hd_video_url": "https://www.youtube.com/embed/akzLHfYTx00",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zS07AGjpMrDu2UFEjYu6Rguepbm62u2CnDzMPS6u.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || Sanskrit by Chetan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/936d4c61-f628-4f3c-a130-4aa6639f2598.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Science by Gyan Sir (Paper II)",
+      "subject_id": 4873,
+      "video_count": 124,
+      "note_count": 123,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 || Introduction Class",
+          "published_date": "27 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/0xgA0BpYZ9k",
+          "hd_video_url": "https://www.youtube.com/embed/0xgA0BpYZ9k",
+          "thumbnail": "https://i.ytimg.com/vi/0xgA0BpYZ9k/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Introduction Class",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/08cf7877-9e20-4e5c-b0b3-d4621f9949fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Nutrition (Part 1)",
+          "published_date": "28 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/B5gGo7zZqDI",
+          "hd_video_url": "https://www.youtube.com/embed/B5gGo7zZqDI",
+          "thumbnail": "https://i.ytimg.com/vi/B5gGo7zZqDI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c0ade25e-0f76-4627-a772-639f9e95952e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Nutrition (Part 2)",
+          "published_date": "29 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/Fiiu0al8hDY",
+          "hd_video_url": "https://www.youtube.com/embed/Fiiu0al8hDY",
+          "thumbnail": "https://i.ytimg.com/vi/Fiiu0al8hDY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a5c4870-7058-4213-b8cf-5b77229bde15.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Nutrition (Part 3)",
+          "published_date": "30 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/DaIcOn0ZdRs",
+          "hd_video_url": "https://www.youtube.com/embed/DaIcOn0ZdRs",
+          "thumbnail": "https://i.ytimg.com/vi/DaIcOn0ZdRs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d4910c5-2e5b-452c-8296-b4d72752a0c1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 || Nutrition (Part 4)",
+          "published_date": "31 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/PctGZrajJ2w",
+          "hd_video_url": "https://www.youtube.com/embed/PctGZrajJ2w",
+          "thumbnail": "https://i.ytimg.com/vi/PctGZrajJ2w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d85c3b77-ebdf-4218-a41b-54fb52100bfb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Nutrition (Part 5)",
+          "published_date": "03 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/k-B-AEHUJnY",
+          "hd_video_url": "https://www.youtube.com/embed/k-B-AEHUJnY",
+          "thumbnail": "https://i.ytimg.com/vi/k-B-AEHUJnY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90885eaf-5d5e-46bb-96c2-8227eb59ce8b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Nutrition (Part 6)",
+          "published_date": "04 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/dw2XHEE_DYk",
+          "hd_video_url": "https://www.youtube.com/embed/dw2XHEE_DYk",
+          "thumbnail": "https://i.ytimg.com/vi/dw2XHEE_DYk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/da728308-177a-4a6e-9389-1ba2ed798294.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || Minerals",
+          "published_date": "05 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/YpORtD3dJn4",
+          "hd_video_url": "https://www.youtube.com/embed/YpORtD3dJn4",
+          "thumbnail": "https://i.ytimg.com/vi/YpORtD3dJn4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a477dae8-143a-4346-8453-de062f3464f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Digestive system (Part 1)",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/xR6GnPy5lvI",
+          "hd_video_url": "https://www.youtube.com/embed/xR6GnPy5lvI",
+          "thumbnail": "https://i.ytimg.com/vi/xR6GnPy5lvI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4653bed7-b035-4d61-961f-b7ae4da6f740.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Digestive system (Part 2)",
+          "published_date": "07 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/xGUzR34Gn4w",
+          "hd_video_url": "https://www.youtube.com/embed/xGUzR34Gn4w",
+          "thumbnail": "https://i.ytimg.com/vi/xGUzR34Gn4w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b1dc2c22-f1da-4052-88f6-076a6dddd668.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || Digestive system (Part 3)",
+          "published_date": "10 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/VunqWToD94M",
+          "hd_video_url": "https://www.youtube.com/embed/VunqWToD94M",
+          "thumbnail": "https://i.ytimg.com/vi/VunqWToD94M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32d95a9e-4e33-4cf0-91df-87341f3c7fa3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Digestive system (Part 3)",
+          "published_date": "11 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/8fiilynYH8k",
+          "hd_video_url": "https://www.youtube.com/embed/8fiilynYH8k",
+          "thumbnail": "https://i.ytimg.com/vi/8fiilynYH8k/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/57207823-3a76-41af-914b-b6bee6d70156.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Excretory system (Part 1)",
+          "published_date": "12 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/8OVcYQXulQU",
+          "hd_video_url": "https://www.youtube.com/embed/8OVcYQXulQU",
+          "thumbnail": "https://i.ytimg.com/vi/8OVcYQXulQU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74a9a209-0d19-495b-b529-375fb4c9203b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Excretory system (Part 2)",
+          "published_date": "13 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/-gB2ZTBuRvc",
+          "hd_video_url": "https://www.youtube.com/embed/-gB2ZTBuRvc",
+          "thumbnail": "https://i.ytimg.com/vi/-gB2ZTBuRvc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/100aeead-8100-4e35-b405-8ae54f26aa43.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Respiratory system (Part 1)",
+          "published_date": "14 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/PlaDkFPC7gk",
+          "hd_video_url": "https://www.youtube.com/embed/PlaDkFPC7gk",
+          "thumbnail": "https://i.ytimg.com/vi/PlaDkFPC7gk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a7f9701-0ed7-4d4f-a753-ffa3d721c80c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Respiratory system (Part 2)",
+          "published_date": "17 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/GKatr48vNXY",
+          "hd_video_url": "https://www.youtube.com/embed/GKatr48vNXY",
+          "thumbnail": "https://i.ytimg.com/vi/GKatr48vNXY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6277df51-6b18-4c86-9da0-032ee4a0acb3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17 || Science Practice Class",
+          "published_date": "18 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/pK0izws1z_4",
+          "hd_video_url": "https://www.youtube.com/embed/pK0izws1z_4",
+          "thumbnail": "https://i.ytimg.com/vi/pK0izws1z_4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e0f3713-4d16-41a5-a0ae-41256b75c4e8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Circulatory system (Part 1)",
+          "published_date": "19 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/Z7YjlFP1HyI",
+          "hd_video_url": "https://www.youtube.com/embed/Z7YjlFP1HyI",
+          "thumbnail": "https://i.ytimg.com/vi/Z7YjlFP1HyI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e0199f88-8af0-4061-bf51-d1191bcef6b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Circulatory system (Part 2)",
+          "published_date": "20 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/3rTTva_CY1c",
+          "hd_video_url": "https://www.youtube.com/embed/3rTTva_CY1c",
+          "thumbnail": "https://i.ytimg.com/vi/3rTTva_CY1c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12f63e7d-c635-40a8-893a-726b2680f12a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Circulatory system (Part 3)",
+          "published_date": "21 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/aeTQYT5AdDw",
+          "hd_video_url": "https://www.youtube.com/embed/aeTQYT5AdDw",
+          "thumbnail": "https://i.ytimg.com/vi/aeTQYT5AdDw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e5a6be8e-0d2a-406d-8ac7-25973d2944af.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Blood (Part 1)",
+          "published_date": "24 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/ZqNatUb7fL8",
+          "hd_video_url": "https://www.youtube.com/embed/ZqNatUb7fL8",
+          "thumbnail": "https://i.ytimg.com/vi/ZqNatUb7fL8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0920b6ad-2aad-4fcb-a381-8dd805ecff64.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Blood (Part 2)",
+          "published_date": "25 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/UE8qYm__eWQ",
+          "hd_video_url": "https://www.youtube.com/embed/UE8qYm__eWQ",
+          "thumbnail": "https://i.ytimg.com/vi/UE8qYm__eWQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/244a1237-72eb-4910-bcbc-4cf2b4c5f5b6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Endocrine System (Part 1)",
+          "published_date": "27 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/NZejGU1qO1Q",
+          "hd_video_url": "https://www.youtube.com/embed/NZejGU1qO1Q",
+          "thumbnail": "https://i.ytimg.com/vi/NZejGU1qO1Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1a16981a-b320-4be2-96c5-faf29f7862cf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Endocrine System (Part 2)",
+          "published_date": "28 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/6MR9DSVdWuY",
+          "hd_video_url": "https://www.youtube.com/embed/6MR9DSVdWuY",
+          "thumbnail": "https://i.ytimg.com/vi/6MR9DSVdWuY/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 24 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b88ae800-664e-473e-84e4-c884397e1ce3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 ||  Endocrine System (Part 3)",
+          "published_date": "03 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/ajIfzpMTvw8",
+          "hd_video_url": "https://www.youtube.com/embed/ajIfzpMTvw8",
+          "thumbnail": "https://i.ytimg.com/vi/ajIfzpMTvw8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/086ed0d8-8154-446a-84ed-a362faf61de2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Endocrine System (Part 4)",
+          "published_date": "04 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/JXQeU2VyBec",
+          "hd_video_url": "https://www.youtube.com/embed/JXQeU2VyBec",
+          "thumbnail": "https://i.ytimg.com/vi/JXQeU2VyBec/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9594f6e7-7257-4f62-ab14-20f5b120db07.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || Skeleton system (Part 1)",
+          "published_date": "05 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/kL5OhnqjM8A",
+          "hd_video_url": "https://www.youtube.com/embed/kL5OhnqjM8A",
+          "thumbnail": "https://i.ytimg.com/vi/kL5OhnqjM8A/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0dcfa188-bca2-463f-916e-8e4cd8aa1cf6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || Skeleton system (Part 2)",
+          "published_date": "06 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/NiQeeYJ0_uc",
+          "hd_video_url": "https://www.youtube.com/embed/NiQeeYJ0_uc",
+          "thumbnail": "https://i.ytimg.com/vi/NiQeeYJ0_uc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f503c75-6f65-4f6a-b5c8-532d105267ee.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || Skeleton system (Part 3)",
+          "published_date": "07 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/u0iFE4BaKHs",
+          "hd_video_url": "https://www.youtube.com/embed/u0iFE4BaKHs",
+          "thumbnail": "https://i.ytimg.com/vi/u0iFE4BaKHs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bd225d3-cc36-4a1b-9953-9d25ed9e9386.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Nervous system (Part 1)",
+          "published_date": "10 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/Dana_knAc8g",
+          "hd_video_url": "https://www.youtube.com/embed/Dana_knAc8g",
+          "thumbnail": "https://i.ytimg.com/vi/Dana_knAc8g/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d7c23430-70d3-4938-b9f2-47107b7550ba.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Nervous system (Part 2)",
+          "published_date": "11 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/I7pITf5-lJU",
+          "hd_video_url": "https://www.youtube.com/embed/I7pITf5-lJU",
+          "thumbnail": "https://i.ytimg.com/vi/I7pITf5-lJU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8c4ba29-ed81-485f-a60a-13134d7e6e76.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || Reproductive System",
+          "published_date": "12 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/B0Cc6KbzGME",
+          "hd_video_url": "https://www.youtube.com/embed/B0Cc6KbzGME",
+          "thumbnail": "https://i.ytimg.com/vi/B0Cc6KbzGME/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46e7d3e6-a44b-4937-92ac-31fb8e9abdf0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || Reproductive system (Part 2)",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/hDJZAxw5ZcE",
+          "hd_video_url": "https://www.youtube.com/embed/hDJZAxw5ZcE",
+          "thumbnail": "https://i.ytimg.com/vi/hDJZAxw5ZcE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83521161-30d8-4f16-a245-51f6951f4bd1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || Reproductive system (Part 3)",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/EADK7PftxBI",
+          "hd_video_url": "https://www.youtube.com/embed/EADK7PftxBI",
+          "thumbnail": "https://i.ytimg.com/vi/EADK7PftxBI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/511b0cc8-86bb-4f71-8b6e-58c2bffc4dc9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Human disease (Part 1)",
+          "published_date": "21 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/tFsjcK7ulOQ",
+          "hd_video_url": "https://www.youtube.com/embed/tFsjcK7ulOQ",
+          "thumbnail": "https://i.ytimg.com/vi/tFsjcK7ulOQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/142ff81a-0208-4502-ac36-a91ec5a20bd0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || Human disease (Part 1)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/xz3AQmaiFtU",
+          "hd_video_url": "https://www.youtube.com/embed/xz3AQmaiFtU",
+          "thumbnail": "https://i.ytimg.com/vi/xz3AQmaiFtU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90db73b4-11e9-41ee-a7db-d4c83e36c5b3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Human disease (Part 3)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/CGY1r2-M3kg",
+          "hd_video_url": "https://www.youtube.com/embed/CGY1r2-M3kg",
+          "thumbnail": "https://i.ytimg.com/vi/CGY1r2-M3kg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92c983ac-92ed-4f47-b901-88bc71bd76cc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || Human disease (Part 4)",
+          "published_date": "28 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/uUEWd9J2Hds",
+          "hd_video_url": "https://www.youtube.com/embed/uUEWd9J2Hds",
+          "thumbnail": "https://i.ytimg.com/vi/uUEWd9J2Hds/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/596c815c-f404-4480-8ce8-a48a0f602650.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || Cell (Part 1)",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/iitE_cWou38",
+          "hd_video_url": "https://www.youtube.com/embed/iitE_cWou38",
+          "thumbnail": "https://i.ytimg.com/vi/iitE_cWou38/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a149648-a412-4102-8cc4-83dc8f166716.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || Cell (Part 2)",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/Z5YS9TBk4mE",
+          "hd_video_url": "https://www.youtube.com/embed/Z5YS9TBk4mE",
+          "thumbnail": "https://i.ytimg.com/vi/Z5YS9TBk4mE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ddb3f1da-650e-4d44-a4bd-113bcb9a8794.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || Cell (Part 3)",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/3D_Lbzl16Tc",
+          "hd_video_url": "https://www.youtube.com/embed/3D_Lbzl16Tc",
+          "thumbnail": "https://i.ytimg.com/vi/3D_Lbzl16Tc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7d4de5e1-bd9b-4891-a787-de6dd8538c8d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || Cell (Part 4)",
+          "published_date": "04 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/u8kh7jYkIIQ",
+          "hd_video_url": "https://www.youtube.com/embed/u8kh7jYkIIQ",
+          "thumbnail": "https://i.ytimg.com/vi/u8kh7jYkIIQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89c7cdf7-0acd-4466-a8c6-b53a59b3d69b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || Plants (Part 1)",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/8fV5SxnxoOg",
+          "hd_video_url": "https://www.youtube.com/embed/8fV5SxnxoOg",
+          "thumbnail": "https://i.ytimg.com/vi/8fV5SxnxoOg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf400458-5cf3-44eb-a428-f4f607e5b712.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 || Plants (Part 2)",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/tA1uYVb88rc",
+          "hd_video_url": "https://www.youtube.com/embed/tA1uYVb88rc",
+          "thumbnail": "https://i.ytimg.com/vi/tA1uYVb88rc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f0c7d50b-38fb-4bd7-95f7-4a2e1f7dbf1f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 || Plants (Part 3)",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/rvU_sE7fLSg",
+          "hd_video_url": "https://www.youtube.com/embed/rvU_sE7fLSg",
+          "thumbnail": "https://i.ytimg.com/vi/rvU_sE7fLSg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/918a0417-f4f5-4721-bf95-e9f6dadd1047.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || Plants (Part 4)",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/qLEdsfYrOLk",
+          "hd_video_url": "https://www.youtube.com/embed/qLEdsfYrOLk",
+          "thumbnail": "https://i.ytimg.com/vi/qLEdsfYrOLk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e234f568-3cb0-464e-a516-055d5e6d54d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || Practice Class",
+          "published_date": "11 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/xCLOsmq0X5I",
+          "hd_video_url": "https://www.youtube.com/embed/xCLOsmq0X5I",
+          "thumbnail": "https://i.ytimg.com/vi/xCLOsmq0X5I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ae718a65-78d3-4a94-a6ed-ab6cc5e5172b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 || Quantity (Part 1)",
+          "published_date": "18 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/sXyG2SsqKV4",
+          "hd_video_url": "https://www.youtube.com/embed/sXyG2SsqKV4",
+          "thumbnail": "https://i.ytimg.com/vi/sXyG2SsqKV4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c89f4f3b-239b-4da1-8d24-1a9c2a76996e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || Quantity (Part 2)",
+          "published_date": "21 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/vksLqpd7rh0",
+          "hd_video_url": "https://www.youtube.com/embed/vksLqpd7rh0",
+          "thumbnail": "https://i.ytimg.com/vi/vksLqpd7rh0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/edd630f7-c743-44c2-8b09-3468194c0137.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50 || Quantity (Part 3)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/I4XSnFvD-ik",
+          "hd_video_url": "https://www.youtube.com/embed/I4XSnFvD-ik",
+          "thumbnail": "https://i.ytimg.com/vi/I4XSnFvD-ik/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83605642-1f15-43bc-824d-ffdff6da5cbe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 ||  Motion (Part 1)",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/2W4-4myZacw",
+          "hd_video_url": "https://www.youtube.com/embed/2W4-4myZacw",
+          "thumbnail": "https://i.ytimg.com/vi/2W4-4myZacw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7e3d3118-42b9-4384-a4e4-0489e1c11aa8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 || Motion (Part 2)",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/2fG2_YICHEA",
+          "hd_video_url": "https://www.youtube.com/embed/2fG2_YICHEA",
+          "thumbnail": "https://i.ytimg.com/vi/2fG2_YICHEA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/279829d1-55ee-4723-b019-8551394727f3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 || Motion (Part 3)",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/7vynI4W8t6s",
+          "hd_video_url": "https://www.youtube.com/embed/7vynI4W8t6s",
+          "thumbnail": "https://i.ytimg.com/vi/7vynI4W8t6s/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cdc2f8fe-51d3-48d8-a071-78a04372609f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 54 || Motion (Part 4)",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/B3GPhWDDI6s",
+          "hd_video_url": "https://www.youtube.com/embed/B3GPhWDDI6s",
+          "thumbnail": "https://i.ytimg.com/vi/B3GPhWDDI6s/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5bfb5b13-25fc-447a-bda2-7f85b1195693.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 55 || Motion (Part 5)",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/3HNG7haYafo",
+          "hd_video_url": "https://www.youtube.com/embed/3HNG7haYafo",
+          "thumbnail": "https://i.ytimg.com/vi/3HNG7haYafo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/459245e9-691e-48e2-8518-0ca6ea870bc9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 56 || Motion (Part 6)",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/FyEcoi8PFSs",
+          "hd_video_url": "https://www.youtube.com/embed/FyEcoi8PFSs",
+          "thumbnail": "https://i.ytimg.com/vi/FyEcoi8PFSs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/eb06ee24-5a32-4b8f-8339-ff5906eedb8e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 57 || Motion (Part 7) & Force & Pressure (Part 1)",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/y9IUuAAaW8E",
+          "hd_video_url": "https://www.youtube.com/embed/y9IUuAAaW8E",
+          "thumbnail": "https://i.ytimg.com/vi/y9IUuAAaW8E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6cae80ad-aa7f-4479-ac29-d93238a0a508.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 58 || Force & Pressure (Part 2)",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/uFrxAnodF80",
+          "hd_video_url": "https://www.youtube.com/embed/uFrxAnodF80",
+          "thumbnail": "https://i.ytimg.com/vi/uFrxAnodF80/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c11eedf1-36ea-41ea-911c-2a7064068f09.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 59 || Force & Pressure (Part 3)",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/I2OAl35nHBs",
+          "hd_video_url": "https://www.youtube.com/embed/I2OAl35nHBs",
+          "thumbnail": "https://i.ytimg.com/vi/I2OAl35nHBs/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d2943f32-d03d-45be-8d02-899dfc0f010e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture 60 || Force & Pressure (Part 4)",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/NDLDnns9o0I",
+          "hd_video_url": "https://www.youtube.com/embed/NDLDnns9o0I",
+          "thumbnail": "https://i.ytimg.com/vi/NDLDnns9o0I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 60 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89942f8f-d891-4d5f-a201-f8575fbb10c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture 61 || Gravitation",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/Q5yRGy2S6ag",
+          "hd_video_url": "https://www.youtube.com/embed/Q5yRGy2S6ag",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u4OhSaV2VElL99cHXEtJYwS93JJfIXf3PWdqlhul.jpg",
+          "notes": [
+            {
+              "title": "Lecture 61 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ce784b1-a728-4aa8-9ddc-81e5d8933763.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture 62 || Gravitation (Part 2)",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/wpmAuRtc3-k",
+          "hd_video_url": "https://www.youtube.com/embed/wpmAuRtc3-k",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6826f05a095ec.jpg",
+          "notes": [
+            {
+              "title": "Lecture 62 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8ce4d42e-d883-4176-9ce2-8285527694b2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture 63 || Gravitation (Part 3)",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/OMtcYPf5vGs",
+          "hd_video_url": "https://www.youtube.com/embed/OMtcYPf5vGs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6826f0582cbe1.jpg",
+          "notes": [
+            {
+              "title": "Lecture 63 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1cdc8a31-8379-4878-8aff-1db208dc7066.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture 64 || Heat & Temperature",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/3nVD8NWgao8",
+          "hd_video_url": "https://www.youtube.com/embed/3nVD8NWgao8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6826f05650d93.jpg",
+          "notes": [
+            {
+              "title": "Lecture 64 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8b013aa2-2cfc-42eb-9cab-a28c9d9727a6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture 65 || Heat & Temperature (Part 2)",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/pKFF5jFczbw",
+          "hd_video_url": "https://www.youtube.com/embed/pKFF5jFczbw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6826f0540c29b.jpg",
+          "notes": [
+            {
+              "title": "Lecture 65 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acb72a54-8a35-4afb-8f29-cbfb986ce075.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture 66 || Heat & Temperature (Part 3)",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/-4K1B4KJfkc",
+          "hd_video_url": "https://www.youtube.com/embed/-4K1B4KJfkc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a08480d1.jpg",
+          "notes": [
+            {
+              "title": "Lecture 66 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a334218-4e18-46c3-b9bb-1b1da40b6c1f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture 67 || Wave Motion (Part 1)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/vQzWgh_4HnY",
+          "hd_video_url": "https://www.youtube.com/embed/vQzWgh_4HnY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a068ef5f.jpg",
+          "notes": [
+            {
+              "title": "Lecture 67 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/19adb5ef-a3b8-4847-990d-b9a8628a4309.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture 68 || Wave Motion (Part 2)",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/D8r0JbPxQ60",
+          "hd_video_url": "https://www.youtube.com/embed/D8r0JbPxQ60",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a050c68c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 68 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd2671a6-3ef6-4348-9e35-a1419e4e78a7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture 69 || Sound & Wave(Part 1)",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/6Ya9_Uj1tFo",
+          "hd_video_url": "https://www.youtube.com/embed/6Ya9_Uj1tFo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a038eb22.jpg",
+          "notes": [
+            {
+              "title": "Lecture 69 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/983754dc-ccb7-4679-83d5-07f29f7e2f6d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture 70 || Sound & Wave (Part 2)",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/SJtU4sdiyB8",
+          "hd_video_url": "https://www.youtube.com/embed/SJtU4sdiyB8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a02562d8.jpg",
+          "notes": [
+            {
+              "title": "Lecture 70 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/32f13487-bf2a-42a7-8d72-d5f4c5bab8ff.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture 71 || Sound & Wave (Part 3)",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/I4rMawM0dnw",
+          "hd_video_url": "https://www.youtube.com/embed/I4rMawM0dnw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a0116f2d.jpg",
+          "notes": [
+            {
+              "title": "Lecture 71 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/47acf452-6667-4dba-ba2e-e9d23b77ef0c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 72,
+          "title": "Lecture 72 || Light (Part 1)",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/Ryh6KoM9c4I",
+          "hd_video_url": "https://www.youtube.com/embed/Ryh6KoM9c4I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/GmJ4zzDAUoo9WipT76J7H2ySfspzm2c1DJungtRc.jpg",
+          "notes": [
+            {
+              "title": "Lecture 72 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/deca2d22-28db-4809-98f3-15b8d048df23.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture 73 || Light (Part 2)",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/J4FsT87SDK4",
+          "hd_video_url": "https://www.youtube.com/embed/J4FsT87SDK4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/z5yRYuiBwe8Q7bXH2gAo22bXjqax76EtHuntRuiV.jpg",
+          "notes": [
+            {
+              "title": "Lecture 73 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/284b969e-09f1-4bd5-8609-dc75f9f9c36b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 74,
+          "title": "Lecture 74 || Light (Part 3)",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/Kvt308-Ru4g",
+          "hd_video_url": "https://www.youtube.com/embed/Kvt308-Ru4g",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/hqYu0broEH9UDZ3FRyIp0QCWEDNh33tYODwPunqu.jpg",
+          "notes": [
+            {
+              "title": "Lecture 74 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/92181073-0e74-44c3-83eb-07d9b39261ac.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 75,
+          "title": "Lecture 75 || Light (Part 4)",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/3y9O52QhOFg",
+          "hd_video_url": "https://www.youtube.com/embed/3y9O52QhOFg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/SMWpcuPCJcJU37mgJZ0YIfZEAUuWUmF741ERjrmL.jpg",
+          "notes": [
+            {
+              "title": "Lecture 75 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c1a8bc6-21a7-4447-baeb-a3cae7f4d778.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 76,
+          "title": "Lecture 76 || Light (Part 5)",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/SlpUlzOHzGY",
+          "hd_video_url": "https://www.youtube.com/embed/SlpUlzOHzGY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k76trfsTiVRgLpiswMsAhz00tYOjAYa85SBP9Wnm.jpg",
+          "notes": [
+            {
+              "title": "Lecture 76 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/091a5901-568c-45f3-b3d6-f2f75b1e43a5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 77,
+          "title": "Lecture 77 || Light (Part 6)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/gTxLJivBz6Q",
+          "hd_video_url": "https://www.youtube.com/embed/gTxLJivBz6Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1ivNlL1SWWyGdzieZUpicCv33c7OCQRZaBNnLwR2.jpg",
+          "notes": [
+            {
+              "title": "Lecture 77 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f9a7de8-022e-4dbe-8d52-556827b070bb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 78,
+          "title": "Lecture 78 || Light (Part 7)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/J5OYT9cK6Hc",
+          "hd_video_url": "https://www.youtube.com/embed/J5OYT9cK6Hc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gCvpsTT1rgK31BCoRYhKjHjtsG4rhon4cLEXVuXD.jpg",
+          "notes": [
+            {
+              "title": "Lecture 78 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/42d50856-6cb1-448d-8c03-f01d8a3d3fa7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 79,
+          "title": "Lecture 79 || Light (Part 8)",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/EnUi3Reyklk",
+          "hd_video_url": "https://www.youtube.com/embed/EnUi3Reyklk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SAtj88ncGbCQiynCtd4T4pWDCtSdkcpaQgl51Cmj.jpg",
+          "notes": [
+            {
+              "title": "Lecture 79 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1f6a5824-1625-48b7-87a2-f90ca7dc2c17.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 80,
+          "title": "Lecture 80 || Light (Part 9)",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/uGBXddHJikQ",
+          "hd_video_url": "https://www.youtube.com/embed/uGBXddHJikQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZXtQhDGtxSskgJpg6C5WdhLAWwGzJu0Ph48DnnDn.jpg",
+          "notes": [
+            {
+              "title": "Lecture 80 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/257a4238-1627-4a52-93b0-d6d455d7e648.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 81,
+          "title": "Lecture 81 || Electricity (Part 1)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vETcX7RR_ro",
+          "hd_video_url": "https://www.youtube.com/embed/vETcX7RR_ro",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UzX9RDspD83cub5zeg1DMjZYFvIMu0IfjmfjRGLb.jpg",
+          "notes": [
+            {
+              "title": "Lecture 81 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8175eff0-5fd3-48d1-9978-d168f1106d74.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 82,
+          "title": "Lecture 82 || Electricity (Part 2)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vC0lOe4mGW0",
+          "hd_video_url": "https://www.youtube.com/embed/vC0lOe4mGW0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nWzGlcS2FmR8uFnbkoyuyqxgzYRlmRpEMYnobcNw.jpg",
+          "notes": [
+            {
+              "title": "Lecture 82 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fa34244c-8da2-43eb-9cf0-e5298f0678d6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 83,
+          "title": "Lecture 83 || Electricity (Part 3)",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/BYDnt6UQC0Q",
+          "hd_video_url": "https://www.youtube.com/embed/BYDnt6UQC0Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ODFmBLWf82YPHApSMasIEeswwTG3p0KVkV81O3IE.jpg",
+          "notes": [
+            {
+              "title": "Lecture 83 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9af0919-e08d-406e-8f7d-772ba85dbf57.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 84,
+          "title": "Lecture 84 || Electricity (Part 4)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/s8UuHahfjXo",
+          "hd_video_url": "https://www.youtube.com/embed/s8UuHahfjXo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JkQEFWrhsBTUjxAhNSNpHjrrdVfvKBa0P76mjkcQ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 84 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9941f60a-2bb5-4abf-b9f6-dafe73a78f21.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 85,
+          "title": "Lecture 85 || Electricity (Part 5)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/D_PTZP8OQvQ",
+          "hd_video_url": "https://www.youtube.com/embed/D_PTZP8OQvQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6JL6dvJ7zBirWexmkndrta4gwUu0utuMGpERgEXI.jpg",
+          "notes": [
+            {
+              "title": "Lecture 85 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1d1c8ff5-022e-4d76-8b81-a59b2607de83.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 86,
+          "title": "Lecture 86 || Work Energy Power (Part 1)",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/NGEsFp5WxCs",
+          "hd_video_url": "https://www.youtube.com/embed/NGEsFp5WxCs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bgQqWAtNBpaE12imARuM7c7zGqYkvPAPNlQJUBd4.jpg",
+          "notes": [
+            {
+              "title": "Lecture 86 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7a988959-c240-4db6-bf50-85bba1db7458.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 87,
+          "title": "Lecture 87 || Work Energy Power (Part 2)",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/alNli7H8oK4",
+          "hd_video_url": "https://www.youtube.com/embed/alNli7H8oK4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/g3AhsPCHwafliQcrlBJyflOA2GKNA680TGGFqwI6.jpg",
+          "notes": [
+            {
+              "title": "Lecture 87 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/58bcfdc1-22a8-48c9-9595-dff1dfafa8fd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 88,
+          "title": "Lecture 88 || Work Energy Power (Part 3)",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/dJJzgARCY_s",
+          "hd_video_url": "https://www.youtube.com/embed/dJJzgARCY_s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6tCc45uq6Ppd66EAEdj10Gf9MfKgIXG7mHnGBizo.jpg",
+          "notes": [
+            {
+              "title": "Lecture 88 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/12099fb2-f772-4de9-b7b8-4b04f7b9108a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 89,
+          "title": "Lecture 89 || Matter (Part 1)",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/hS170srkrQw",
+          "hd_video_url": "https://www.youtube.com/embed/hS170srkrQw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GFIjxlVx3IApLwcZfCbvIS2srMIbXfMcD0sS0EIe.jpg",
+          "notes": [
+            {
+              "title": "Lecture 89 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf522587-da8a-4924-a5ee-fe31848009ea.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 90,
+          "title": "Lecture 90 || Matter (Part 2)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JkWl7X9vIAM",
+          "hd_video_url": "https://www.youtube.com/embed/JkWl7X9vIAM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cLn9RdIidHjrBN3CGm8TgLFXqvbUxJIVcWGYYoID.jpg",
+          "notes": [
+            {
+              "title": "Lecture 90 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af2b953d-ac81-4ede-967d-a287e04c0602.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 91,
+          "title": "Lecture 91 || Matter (Part 3)",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/q9okvxGU4kI",
+          "hd_video_url": "https://www.youtube.com/embed/q9okvxGU4kI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/gRl0SI81xgb86iRzApB4giJU6j9PB4BcQz53IJRt.jpg",
+          "notes": [
+            {
+              "title": "Lecture 91 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/552d0c46-b15c-4fb0-aae2-0555468166e4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 92,
+          "title": "Lecture 92 || Matter (Part 4)",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/kOBf8SyuETw",
+          "hd_video_url": "https://www.youtube.com/embed/kOBf8SyuETw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/vHq1JAdNtC9JOymmHRzPY0aQXSLcrObFdooDBn4O.jpg",
+          "notes": [
+            {
+              "title": "Lecture 92 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c239c267-0e1f-4d52-bc06-9475593fa0fa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 93,
+          "title": "Lecture 93 || Matter (Part 5)",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vzy9JZ3ZY44",
+          "hd_video_url": "https://www.youtube.com/embed/vzy9JZ3ZY44",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nw2iHuWjzwMrl1nzMGdSqPRxWoXjbJ2fi6BFhXyX.jpg",
+          "notes": []
+        },
+        {
+          "serial": 94,
+          "title": "Lecture 94 || Compound &Mixture (Part 1)",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/eIWV92kVxpI",
+          "hd_video_url": "https://www.youtube.com/embed/eIWV92kVxpI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ml4nQET80rMYbJQEkNYEOt1Tw3yIB3NlXjEDMXCV.jpg",
+          "notes": [
+            {
+              "title": "Lecture 94 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ecf7b1b0-aacd-4b1b-8e5b-0a47a5a3620f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 95,
+          "title": "Lecture 95 || Compound &Mixture (Part 2)",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/wsIXnPADSMs",
+          "hd_video_url": "https://www.youtube.com/embed/wsIXnPADSMs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/LRtDXlFBHzoHbGLlzyaQrUDOHBhCoSnz4byafIYJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 95 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99c459ee-db14-4672-b38b-5d6039443430.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 96,
+          "title": "Lecture 96 || Compound &Mixture (Part 3)",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/aDjgdjtK3DU",
+          "hd_video_url": "https://www.youtube.com/embed/aDjgdjtK3DU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/pT7OwSfCnsToZ67sqobSLPFwmUDOZcVziDs8boEP.jpg",
+          "notes": [
+            {
+              "title": "Lecture 96 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4e1dccce-6cfd-4149-a82a-3a252ba1b1ae.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 97,
+          "title": "Lecture 97 || Compound &Mixture (Part 4)",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/pytH2xS02zQ",
+          "hd_video_url": "https://www.youtube.com/embed/pytH2xS02zQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rEKtgkvDkZKomeeXY7AYikqfqHt8TVwh6FO88kmN.jpg",
+          "notes": [
+            {
+              "title": "Lecture 97 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c706b19-55af-4f5f-8720-71b288810851.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 98,
+          "title": "Lecture 98 || Compound &Mixture (Part 5)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/dAJn8ff6kSk",
+          "hd_video_url": "https://www.youtube.com/embed/dAJn8ff6kSk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1kpCzWFV6xUe7iHnSgmlZcRtCYddQvboLOkn5PjU.jpg",
+          "notes": [
+            {
+              "title": "Lecture 98 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3f1d12a9-300d-44e1-9f20-0b8e572a44de.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 99,
+          "title": "Lecture 99 || Acid (Part 1)",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/jpTYzQfbAYA",
+          "hd_video_url": "https://www.youtube.com/embed/jpTYzQfbAYA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dCUkWtObgLFf68ezaT1IqwfT1jSQESi7OXbm4c3J.jpg",
+          "notes": [
+            {
+              "title": "Lecture 99 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3fd929c5-b967-47d1-b3a2-abcc114ed2c5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 100,
+          "title": "Lecture 100 || Acid (Part 2)",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Aq-KZKPkVC8",
+          "hd_video_url": "https://www.youtube.com/embed/Aq-KZKPkVC8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nH8GCKpdo54rCjiSOnGcanhSI9BGQYZrvMmZkWWl.jpg",
+          "notes": [
+            {
+              "title": "Lecture 100 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d919b59e-a4dd-4103-96c3-23591a6b308f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 101,
+          "title": "Lecture 101 || Base (Part 1)",
+          "published_date": "09 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/t7oFFWed2p0",
+          "hd_video_url": "https://www.youtube.com/embed/t7oFFWed2p0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r7Xjtp3xJnHJBtaNWhm0yFwlDzCdC9zvBaNrMVWN.png",
+          "notes": [
+            {
+              "title": "Lecture 101 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb8ef1c4-1f89-4d07-9304-1230e9c6e6fc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 102,
+          "title": "Lecture 102 || Base (Part 2)",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/_p8xUU5GK_s",
+          "hd_video_url": "https://www.youtube.com/embed/_p8xUU5GK_s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/668j6K2zhvsDOAI2ACa27PzB35U275R6VaVkEPYT.png",
+          "notes": [
+            {
+              "title": "Lecture 102 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2ac49a69-66cb-41a5-b52b-37747876285c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 103,
+          "title": "Lecture 103 || Base (Part 3)",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Q35Ok7pHfQg",
+          "hd_video_url": "https://www.youtube.com/embed/Q35Ok7pHfQg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2DoqGQ3UP26SNCtmem0OezPv3N64KFi9tdEWWN1z.png",
+          "notes": [
+            {
+              "title": "Lecture 103 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7f2ea2be-2a27-4f57-a1f5-496b408d2328.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 104,
+          "title": "Lecture 104 || Atomic Structure (Part 1 )",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/x8yCKnMHJcw",
+          "hd_video_url": "https://www.youtube.com/embed/x8yCKnMHJcw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Jfxc3q23667o5e4dHvr3ziidgCBxEgQJL44JvCAq.png",
+          "notes": [
+            {
+              "title": "Lecture 104 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/517bbe16-c527-4a5b-8101-e9a442297118.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 105,
+          "title": "Lecture 105 || Atomic Structure (Part 2 )",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/9XxkueT2NWk",
+          "hd_video_url": "https://www.youtube.com/embed/9XxkueT2NWk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/z6v8npDLSAj4fYNIm3vKcXpUB49rxxdB4yJJoOgO.png",
+          "notes": [
+            {
+              "title": "Lecture 105 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9d915502-89b2-4512-a41e-b2e33d78b08c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 106,
+          "title": "Lecture 106 || Atomic Structure (Part 3 )",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/BZA75WwNe5U",
+          "hd_video_url": "https://www.youtube.com/embed/BZA75WwNe5U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/4ymEj4DdVbod5ys1XbizzmDrIx59EiJBGERBi1tg.png",
+          "notes": [
+            {
+              "title": "Lecture 106 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/99e961cf-26e7-4c78-8db9-c3659e26ae78.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 107,
+          "title": "Lecture 107 || Atomic Structure (Part 4 )",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/shsSTl0oj9I",
+          "hd_video_url": "https://www.youtube.com/embed/shsSTl0oj9I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fjtDGbob5xvqYcutIvi9aLYdCsz845MTPmMJtt0L.png",
+          "notes": [
+            {
+              "title": "Lecture 107 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/547c2afc-53da-4786-a239-3485ff4a7a9d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 108,
+          "title": "Lecture 108 || Chemical Reaction (Part1)",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/EHH0NlXQTjo",
+          "hd_video_url": "https://www.youtube.com/embed/EHH0NlXQTjo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ug8LlGcDmaYybKIw6uDYgBno1b4SjFI7oaOWQWGX.png",
+          "notes": [
+            {
+              "title": "Lecture 108 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/372f5591-1ac4-49cb-b8fc-e289494ebe9e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 109,
+          "title": "Lecture 109 || Chemical Reaction (Part 2)",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/y_CpVFlbbeE",
+          "hd_video_url": "https://www.youtube.com/embed/y_CpVFlbbeE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/P6UkfXJy3Y5MIa7PrVJFHURkD47mTgoTA6y11UOG.png",
+          "notes": [
+            {
+              "title": "Lecture 109 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/289cf767-9947-44bc-8bc7-808619c49de2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 110,
+          "title": "Lecture 110 || Chemical Reaction (Part 3)",
+          "published_date": "22 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/z5V_KVwUi2Q",
+          "hd_video_url": "https://www.youtube.com/embed/z5V_KVwUi2Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/qfTiogTraolqaZpnpnQbzRi3SghH9x9QUGYAf7vK.png",
+          "notes": [
+            {
+              "title": "Lecture 110 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a605a8f9-f2de-4907-a858-40e73f81703e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 111,
+          "title": "Lecture 111 || Soil & Crops",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/B1ABIoMCIEo",
+          "hd_video_url": "https://www.youtube.com/embed/B1ABIoMCIEo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WI16taWFoEIhJtSXy9Y4unjpHSoqUSxP0iTPlqJC.png",
+          "notes": [
+            {
+              "title": "Lecture 111 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22606a0a-f314-411e-8337-19651b4a8174.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 112,
+          "title": "Lecture 112 || Hydrocarbon",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/HISjuVRoMW0",
+          "hd_video_url": "https://www.youtube.com/embed/HISjuVRoMW0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7vPyb4zNt80l9BEBO9PMJf2oPbOzRFl5KHegrncN.png",
+          "notes": [
+            {
+              "title": "Lecture 112 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/62aa33f5-38bc-4c65-ba22-4362d40167ef.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 113,
+          "title": "Lecture 113 || Polymer",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/s0RHQEBBdWI",
+          "hd_video_url": "https://www.youtube.com/embed/s0RHQEBBdWI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/q44f1AMlUQvgfgM9Yr2gn0TKVbrphMTd3uU7TKAL.png",
+          "notes": [
+            {
+              "title": "Lecture 113 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/205c0a18-828b-41bf-9618-092f69836ac4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 114,
+          "title": "Lecture 114 || Nature of Science",
+          "published_date": "30 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/EV9QaGsXqfI",
+          "hd_video_url": "https://www.youtube.com/embed/EV9QaGsXqfI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rv0S5E9K1OLWPnavtnfDWv0M7ZBIhZyoj18VeU1x.png",
+          "notes": [
+            {
+              "title": "Lecture 114 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf42e720-ad74-4631-99c4-4dedc1aa8195.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 115,
+          "title": "Lecture 115 || NCF-2005",
+          "published_date": "31 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/uaB6XscZCvQ",
+          "hd_video_url": "https://www.youtube.com/embed/uaB6XscZCvQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ELcmXpVU1qtoxjlFowwQeWs7Qc6JHaqbm2h09j9P.png",
+          "notes": [
+            {
+              "title": "Lecture 115 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee1acd23-fc51-4589-9e9c-7d72233313d0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 116,
+          "title": "Lecture 116 || Curriculum Designing",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/VdLSz4CTxUM",
+          "hd_video_url": "https://www.youtube.com/embed/VdLSz4CTxUM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fwaUBw85ZRTLaI0TeNp75HA4yz0LppE6hrRNSWlK.png",
+          "notes": [
+            {
+              "title": "Lecture 116 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/218210f4-06cc-4a5f-b94e-9127ef38c72e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 117,
+          "title": "Lecture 117 || Teaching Aids",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/eBXgVSoakLg",
+          "hd_video_url": "https://www.youtube.com/embed/eBXgVSoakLg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YybK6kUVjN4posUBZZwZgn9DN4q9gfBpJWoSotpa.png",
+          "notes": [
+            {
+              "title": "Lecture 117 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dea865b0-701f-4624-9194-073f9cdeb0e4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 118,
+          "title": "Lecture 118 || Divergent Thinking",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/T4FAIiqYzTI",
+          "hd_video_url": "https://www.youtube.com/embed/T4FAIiqYzTI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8K9y3f0vKXFeDmGQkdvL5Unxrom8C5qTa9JIrpqv.png",
+          "notes": [
+            {
+              "title": "Lecture 118 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b36818dc-752d-413e-aaa5-edfdb5d90a0b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 119,
+          "title": "Lecture 119 || Problems in Teaching Science",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/0OZCeYtdn6M",
+          "hd_video_url": "https://www.youtube.com/embed/0OZCeYtdn6M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IMKHMIDwQsl4wPev1guczv8Ao6Vma9zhC7kNkjRs.png",
+          "notes": [
+            {
+              "title": "Lecture 119 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3c382085-df85-4d98-85ca-fc53e8df6116.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 120,
+          "title": "Lecture 120 || Remedial Teaching",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/O3gAk_Wj8bQ",
+          "hd_video_url": "https://www.youtube.com/embed/O3gAk_Wj8bQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9aoGBLOB5Pzuo5r3qt2aApzLwd2n2VAdjLKR5MF6.png",
+          "notes": [
+            {
+              "title": "Lecture 120 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aee778e4-fbe7-46c8-a86f-a7ab6de69c82.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 121,
+          "title": "Lecture 121 || Practice Class",
+          "published_date": "11 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/cKF_SKmTWvs",
+          "hd_video_url": "https://www.youtube.com/embed/cKF_SKmTWvs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k51GigEZp4GG31peeBx37gf4t0GvPsifzTnmTxPE.png",
+          "notes": [
+            {
+              "title": "Lecture 121 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60068230-50b8-449b-8d7e-e69a83cdd4c2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 122,
+          "title": "Lecture 122 || Science by Gyan Sir",
+          "published_date": "12 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/l_hPpvKlzew",
+          "hd_video_url": "https://www.youtube.com/embed/l_hPpvKlzew",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c7VegS1ZXH7rbI4K7Q3crcZS8h5CcuvhY09UyfvG.png",
+          "notes": [
+            {
+              "title": "Lecture 122 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85636c14-4228-4a08-b0fc-8041cfe6f3d2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 123,
+          "title": "Lecture 123 || Science by Gyan Sir",
+          "published_date": "13 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/u3_RCdxxRO4",
+          "hd_video_url": "https://www.youtube.com/embed/u3_RCdxxRO4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/enNipECcF12YD6nVafSWMOBh49rcOy1NU5d5Ld8o.png",
+          "notes": [
+            {
+              "title": "Lecture 123 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/684fbed6-96ff-4039-a7cb-9b2ea33506a7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 124,
+          "title": "Lecture 124 || Science by Gyan Sir",
+          "published_date": "14 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/na-JIOmhYy8",
+          "hd_video_url": "https://www.youtube.com/embed/na-JIOmhYy8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U7ZW0hRVZLCi4y9r2hGo5E9FYt0Eu12j1dUBziRk.png",
+          "notes": [
+            {
+              "title": "Lecture 124 || Science by Gyan Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5ee803e9-2cc7-483b-9a88-8ae91487dae7.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "subject_name": "Social Studies by Himanshu Sir (Paper II)",
+      "subject_id": 4872,
+      "video_count": 125,
+      "note_count": 125,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture 1 ||  Introduction Class",
+          "published_date": "21 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/VJq6U1Y5d7k",
+          "hd_video_url": "https://www.youtube.com/embed/VJq6U1Y5d7k",
+          "thumbnail": "https://i.ytimg.com/vi/VJq6U1Y5d7k/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 1 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4c3bc9bf-eb65-43a0-bcde-ef317845a016.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture 2 || Social Studies by Himanshu Sir",
+          "published_date": "22 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/M12EbN6FECM",
+          "hd_video_url": "https://www.youtube.com/embed/M12EbN6FECM",
+          "thumbnail": "https://i.ytimg.com/vi/M12EbN6FECM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 2 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/610438fb-1a44-4653-9b37-8a4277eadb0b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture 3 || Stone Age (Part 2)",
+          "published_date": "23 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/WRbBseRzO84",
+          "hd_video_url": "https://www.youtube.com/embed/WRbBseRzO84",
+          "thumbnail": "https://i.ytimg.com/vi/WRbBseRzO84/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 3 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bcdc191-ac39-4492-940d-0d5e79ba655e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture 4 || Indus Valley Civilizations",
+          "published_date": "24 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/GSDEe305Wrk",
+          "hd_video_url": "https://www.youtube.com/embed/GSDEe305Wrk",
+          "thumbnail": "https://i.ytimg.com/vi/GSDEe305Wrk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 4 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bec260c5-bd11-4f9e-9cf8-a60ddd1c3542.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture 5 ||  Indus Valley Civilizations (Part 2)",
+          "published_date": "25 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/0v21FJIycx8",
+          "hd_video_url": "https://www.youtube.com/embed/0v21FJIycx8",
+          "thumbnail": "https://i.ytimg.com/vi/0v21FJIycx8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 5 ||  Indus Valley Civilizations (Part 2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d3959a76-3a2d-4a59-9507-5978a7fce33a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture 6 || Vedic Period  (Part 1)",
+          "published_date": "27 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/wGacQBcnAOc",
+          "hd_video_url": "https://www.youtube.com/embed/wGacQBcnAOc",
+          "thumbnail": "https://i.ytimg.com/vi/wGacQBcnAOc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 6 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/82f298a4-50a5-47f5-b553-6c39080c06ae.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture 7 || Vedic Period  (Part 2)",
+          "published_date": "28 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/E68K7SyTQTo",
+          "hd_video_url": "https://www.youtube.com/embed/E68K7SyTQTo",
+          "thumbnail": "https://i.ytimg.com/vi/E68K7SyTQTo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 7 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4501b91-7d49-4210-8f6f-de3c3319cf21.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture 8 || Mahajanapada and Magadh Empire",
+          "published_date": "29 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/W0rR--ippkA",
+          "hd_video_url": "https://www.youtube.com/embed/W0rR--ippkA",
+          "thumbnail": "https://i.ytimg.com/vi/W0rR--ippkA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 8 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f7b012d-8669-40a3-9b8f-6056253dc618.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture 9 || Religious Reform Movement Buddhism (Part 1)",
+          "published_date": "30 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/wBiyQnYIr_w",
+          "hd_video_url": "https://www.youtube.com/embed/wBiyQnYIr_w",
+          "thumbnail": "https://i.ytimg.com/vi/wBiyQnYIr_w/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 9 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2b44eee-d864-4240-ae32-439ae73e4a93.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture 10 || Religious Reform Movement Buddhism (Part 2)",
+          "published_date": "31 Jan 2025",
+          "video_url": "https://www.youtube.com/embed/yG-53Rk0WdU",
+          "hd_video_url": "https://www.youtube.com/embed/yG-53Rk0WdU",
+          "thumbnail": "https://i.ytimg.com/vi/yG-53Rk0WdU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 10 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b736a71f-42aa-4adf-be73-39d378007471.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture 11 || First Invasion of India ,The Maurya Empire",
+          "published_date": "01 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/FkaDoiskAR8",
+          "hd_video_url": "https://www.youtube.com/embed/FkaDoiskAR8",
+          "thumbnail": "https://i.ytimg.com/vi/FkaDoiskAR8/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 11 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84a816bd-a223-4407-9d89-ded4b0948c57.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture 12 || Post Mauryan Period (Part 1)",
+          "published_date": "03 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/6o2QdVA8QXk",
+          "hd_video_url": "https://www.youtube.com/embed/6o2QdVA8QXk",
+          "thumbnail": "https://i.ytimg.com/vi/6o2QdVA8QXk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 12 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a1904a49-2fd4-4854-86d9-82b6eda909b1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture 13 || Post Mauryan Period (Part 2)",
+          "published_date": "04 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/gUkRTufhgus",
+          "hd_video_url": "https://www.youtube.com/embed/gUkRTufhgus",
+          "thumbnail": "https://i.ytimg.com/vi/gUkRTufhgus/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 13 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b22a765c-e37a-4bfa-86f6-874f98337826.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture 14 || Gupta Period",
+          "published_date": "05 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/xcyEIlFuNRA",
+          "hd_video_url": "https://www.youtube.com/embed/xcyEIlFuNRA",
+          "thumbnail": "https://i.ytimg.com/vi/xcyEIlFuNRA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 14 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5c8c4799-4ac5-446a-a90c-d13065f5b892.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture 15 || Arab and Turkish Invasion in India",
+          "published_date": "06 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/_6P1RkOSPZg",
+          "hd_video_url": "https://www.youtube.com/embed/_6P1RkOSPZg",
+          "thumbnail": "https://i.ytimg.com/vi/_6P1RkOSPZg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 15 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6bc09653-2ea7-439d-8b0a-4f82870ba884.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture 16 || Delhi Sultanate",
+          "published_date": "07 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/ZSu1wn5VwSc",
+          "hd_video_url": "https://www.youtube.com/embed/ZSu1wn5VwSc",
+          "thumbnail": "https://i.ytimg.com/vi/ZSu1wn5VwSc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 16 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/955da5b7-b5c7-4c16-99ad-666e27ab9903.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture 17|| Delhi Sultanate (Part 2)",
+          "published_date": "08 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/l4IFx1dVDiM",
+          "hd_video_url": "https://www.youtube.com/embed/l4IFx1dVDiM",
+          "thumbnail": "https://i.ytimg.com/vi/l4IFx1dVDiM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 17|| Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c871156e-133a-4fb9-94ec-2019604c1ca6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture 18 || Philosophical sects of India",
+          "published_date": "10 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/O7ke61K7l3Q",
+          "hd_video_url": "https://www.youtube.com/embed/O7ke61K7l3Q",
+          "thumbnail": "https://i.ytimg.com/vi/O7ke61K7l3Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 18 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d5aa18ba-374c-421a-8c9f-65b1b3cbfd00.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture 19 || Mughal Empire (Part 1)",
+          "published_date": "11 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/5YuwLDHnjXM",
+          "hd_video_url": "https://www.youtube.com/embed/5YuwLDHnjXM",
+          "thumbnail": "https://i.ytimg.com/vi/5YuwLDHnjXM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 19 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ff89358-a249-4820-8b4b-3c77d2680359.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture 20 || Mughal Empire (Part 2)",
+          "published_date": "12 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/We2H1gmwbmI",
+          "hd_video_url": "https://www.youtube.com/embed/We2H1gmwbmI",
+          "thumbnail": "https://i.ytimg.com/vi/We2H1gmwbmI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 20 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/980ec533-4b64-4068-ab1e-b3b5a85a3963.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture 21 || Mughal Empire (Part 3)",
+          "published_date": "13 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/MciqB3pgIm4",
+          "hd_video_url": "https://www.youtube.com/embed/MciqB3pgIm4",
+          "thumbnail": "https://i.ytimg.com/vi/MciqB3pgIm4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 21 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c333e2bd-5a5c-408d-b6b7-99dd6bb4fb2b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture 22 || Mughal Empire (Part 4)",
+          "published_date": "14 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/FwtqTIJRh60",
+          "hd_video_url": "https://www.youtube.com/embed/FwtqTIJRh60",
+          "thumbnail": "https://i.ytimg.com/vi/FwtqTIJRh60/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 22 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/520928c1-11fb-4f5b-8aef-20b3cdb1889e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture 23 || Vijaynagar dynasty",
+          "published_date": "15 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/hY_Vet5zU3g",
+          "hd_video_url": "https://www.youtube.com/embed/hY_Vet5zU3g",
+          "thumbnail": "https://i.ytimg.com/vi/hY_Vet5zU3g/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 23 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7ec13602-64eb-4b99-bc82-0ca75e40b820.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture 24 || Mughal Empire (Part 5)",
+          "published_date": "17 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/wU1T1IYqy28",
+          "hd_video_url": "https://www.youtube.com/embed/wU1T1IYqy28",
+          "thumbnail": "https://i.ytimg.com/vi/wU1T1IYqy28/default.jpg",
+          "notes": [
+            {
+              "title": "Social Studies",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/de6410cc-a876-46b4-8b25-7b74aac36547.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture 25 || Advent of European Companies",
+          "published_date": "18 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/7hWz1dUi73Q",
+          "hd_video_url": "https://www.youtube.com/embed/7hWz1dUi73Q",
+          "thumbnail": "https://i.ytimg.com/vi/7hWz1dUi73Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 25 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2c6713df-9701-4584-b97c-07c99f983599.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture 26 || Bengal & Mysore dynasty",
+          "published_date": "19 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/QDQDLxMCw7I",
+          "hd_video_url": "https://www.youtube.com/embed/QDQDLxMCw7I",
+          "thumbnail": "https://i.ytimg.com/vi/QDQDLxMCw7I/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 26 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bfeb8436-610f-44fb-8abb-b03024366b37.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture 27 || British land revenue",
+          "published_date": "20 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/JHmy_bSLK2Q",
+          "hd_video_url": "https://www.youtube.com/embed/JHmy_bSLK2Q",
+          "thumbnail": "https://i.ytimg.com/vi/JHmy_bSLK2Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 27 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c9133c68-4b1b-4e1d-a652-e8bf8524df3b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture 28 || Governor",
+          "published_date": "21 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/7kz5awdIpkQ",
+          "hd_video_url": "https://www.youtube.com/embed/7kz5awdIpkQ",
+          "thumbnail": "https://i.ytimg.com/vi/7kz5awdIpkQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 28 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/829df715-9a3f-479b-8ef2-c5f1c6d97fe7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture 29 || Viceroy of India and the Revolt of 1857",
+          "published_date": "22 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/EjyR7tKzbB4",
+          "hd_video_url": "https://www.youtube.com/embed/EjyR7tKzbB4",
+          "thumbnail": "https://i.ytimg.com/vi/EjyR7tKzbB4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 29 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b2a1056a-4caf-49d6-bfdb-3c3f8962aa5b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture 30 || Social Reformer (Part 1)",
+          "published_date": "24 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/01zNEwj1ibU",
+          "hd_video_url": "https://www.youtube.com/embed/01zNEwj1ibU",
+          "thumbnail": "https://i.ytimg.com/vi/01zNEwj1ibU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 30 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9f098bb0-3aa9-43dd-bd0c-df63a640f449.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture 31 || Social reformer (Part 2)",
+          "published_date": "25 Feb 2025",
+          "video_url": "https://www.youtube.com/embed/mGmzxmVwa_c",
+          "hd_video_url": "https://www.youtube.com/embed/mGmzxmVwa_c",
+          "thumbnail": "https://i.ytimg.com/vi/mGmzxmVwa_c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 31 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d49b4f38-6c1a-4697-bff4-40fa1a95e0a6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture 32 || The revolt of 1857",
+          "published_date": "17 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/AVQfkQoEmI0",
+          "hd_video_url": "https://www.youtube.com/embed/AVQfkQoEmI0",
+          "thumbnail": "https://i.ytimg.com/vi/AVQfkQoEmI0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 32 || The revolt of 1857",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e53a88f5-af83-4412-9c4a-f467f6f31659.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 33,
+          "title": "Lecture 33 || Indian National Congress",
+          "published_date": "18 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/mTxqwi_ZFtg",
+          "hd_video_url": "https://www.youtube.com/embed/mTxqwi_ZFtg",
+          "thumbnail": "https://i.ytimg.com/vi/mTxqwi_ZFtg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 33 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18130340-aa72-4442-9311-15a89313d891.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture 34 || Gandhian Era",
+          "published_date": "19 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/ijQW9hPxs6Q",
+          "hd_video_url": "https://www.youtube.com/embed/ijQW9hPxs6Q",
+          "thumbnail": "https://i.ytimg.com/vi/ijQW9hPxs6Q/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 34 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/55a5d38d-47c9-4d1e-84b9-6e058221c376.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture 35 || Books",
+          "published_date": "20 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/sWA0Tz6QHwc",
+          "hd_video_url": "https://www.youtube.com/embed/sWA0Tz6QHwc",
+          "thumbnail": "https://i.ytimg.com/vi/sWA0Tz6QHwc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 35 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5fba0eaa-8c40-466c-af02-aff46718b943.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture 36 || Home rule Movement",
+          "published_date": "21 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/EYGX37p9kkQ",
+          "hd_video_url": "https://www.youtube.com/embed/EYGX37p9kkQ",
+          "thumbnail": "https://i.ytimg.com/vi/EYGX37p9kkQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 36 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8a4e21c1-f13f-4e58-8382-0bb177dd91c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture 37 || Mahatma Gandhi",
+          "published_date": "22 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/LopAYDGHGOI",
+          "hd_video_url": "https://www.youtube.com/embed/LopAYDGHGOI",
+          "thumbnail": "https://i.ytimg.com/vi/LopAYDGHGOI/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 37 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1c15a171-c38e-4bed-a984-348b9332004c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture 38 || National Movement and Important Facts ( Part 1)",
+          "published_date": "24 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/lHzO1u3LEts",
+          "hd_video_url": "https://www.youtube.com/embed/lHzO1u3LEts",
+          "thumbnail": "https://i.ytimg.com/vi/lHzO1u3LEts/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 38 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ff32641d-cc0c-458b-9a79-10a35b115b05.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture 39 || National Movement and Important Facts ( Part 2)",
+          "published_date": "25 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/M0-sTkQ1JYg",
+          "hd_video_url": "https://www.youtube.com/embed/M0-sTkQ1JYg",
+          "thumbnail": "https://i.ytimg.com/vi/M0-sTkQ1JYg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 39 || National Movement and Important Facts ( Part 2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b24c827f-86d8-40c6-a350-5294db831f0f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture 40 || National Movement and Important Facts( Part 3)",
+          "published_date": "26 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/amNkGrtWyFA",
+          "hd_video_url": "https://www.youtube.com/embed/amNkGrtWyFA",
+          "thumbnail": "https://i.ytimg.com/vi/amNkGrtWyFA/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 40 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e4f81f09-0261-4ab3-8bca-fbb5ffdc684d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture 41 || National Movement and Important Facts( Part 4)",
+          "published_date": "28 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/jlph5WdzFH4",
+          "hd_video_url": "https://www.youtube.com/embed/jlph5WdzFH4",
+          "thumbnail": "https://i.ytimg.com/vi/jlph5WdzFH4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 41 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0a946ca8-6458-4fda-96ed-cf0725d77128.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture 42 || National Movement and Important Facts( Part 5)",
+          "published_date": "29 Mar 2025",
+          "video_url": "https://www.youtube.com/embed/zKXc-cxNxUQ",
+          "hd_video_url": "https://www.youtube.com/embed/zKXc-cxNxUQ",
+          "thumbnail": "https://i.ytimg.com/vi/zKXc-cxNxUQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 42 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ec5bb070-9108-49d8-801a-e01c5995f776.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture 43 || National Movement and Important Facts( Part 6)",
+          "published_date": "01 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/1BQ1kgnsGSk",
+          "hd_video_url": "https://www.youtube.com/embed/1BQ1kgnsGSk",
+          "thumbnail": "https://i.ytimg.com/vi/1BQ1kgnsGSk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 43 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/db542d3f-d3e6-4b84-9ba4-d4b878f725c0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture 44 ||  Indian Political System (Part 1)",
+          "published_date": "02 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/F0M39x7yxpQ",
+          "hd_video_url": "https://www.youtube.com/embed/F0M39x7yxpQ",
+          "thumbnail": "https://i.ytimg.com/vi/F0M39x7yxpQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 44 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b3e1d0f1-b5f0-4ef7-9788-d676022a7806.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture 45 ||  Indian Political System (Part 2)",
+          "published_date": "03 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/6lU7GKXyY3Y",
+          "hd_video_url": "https://www.youtube.com/embed/6lU7GKXyY3Y",
+          "thumbnail": "https://i.ytimg.com/vi/6lU7GKXyY3Y/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 45 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a50fa48-bc70-4036-ba93-4ca6328ee1b2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture 46 || Indian Political System (Part 3)",
+          "published_date": "04 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/fHT4H7nBCFw",
+          "hd_video_url": "https://www.youtube.com/embed/fHT4H7nBCFw",
+          "thumbnail": "https://i.ytimg.com/vi/fHT4H7nBCFw/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 46 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5d9e8fe2-b861-4c7e-81a0-21013ff71a8b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture 47 || Making of the constitution (Part 1)",
+          "published_date": "05 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/QHdNyTns3uU",
+          "hd_video_url": "https://www.youtube.com/embed/QHdNyTns3uU",
+          "thumbnail": "https://i.ytimg.com/vi/QHdNyTns3uU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 47 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fe7bdae5-2504-4ccd-91dc-610f10e72600.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture 48 || Making of the constitution (Part 2)",
+          "published_date": "07 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/25Pg0Tz-Jpk",
+          "hd_video_url": "https://www.youtube.com/embed/25Pg0Tz-Jpk",
+          "thumbnail": "https://i.ytimg.com/vi/25Pg0Tz-Jpk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 48 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c58cc6d-d4e0-4057-8821-abc91d903097.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture 49 || Part & Schedule (Part 1)",
+          "published_date": "08 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/MUmLSzg3Nas",
+          "hd_video_url": "https://www.youtube.com/embed/MUmLSzg3Nas",
+          "thumbnail": "https://i.ytimg.com/vi/MUmLSzg3Nas/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 49 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/87f00f65-e847-4e2c-92ec-e77dbac195b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture 50 || Part & Schedule (Part 2)",
+          "published_date": "09 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/Mf61ai1hTw0",
+          "hd_video_url": "https://www.youtube.com/embed/Mf61ai1hTw0",
+          "thumbnail": "https://i.ytimg.com/vi/Mf61ai1hTw0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 50 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2193ae8d-b998-4c26-be8a-5e300f3252e5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture 51 || Part & Schedule (Part 3)",
+          "published_date": "10 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/qXr9MT-di8E",
+          "hd_video_url": "https://www.youtube.com/embed/qXr9MT-di8E",
+          "thumbnail": "https://i.ytimg.com/vi/qXr9MT-di8E/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 51 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea8551c4-9592-4724-ad9a-c3751ec2c0b8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture 52 || Preamble",
+          "published_date": "11 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/BuT-JmDaFcM",
+          "hd_video_url": "https://www.youtube.com/embed/BuT-JmDaFcM",
+          "thumbnail": "https://i.ytimg.com/vi/BuT-JmDaFcM/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 52 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3a35df92-1bac-4d14-9cc8-8889fa887cb2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture 53 || Fundamental Rights (Part 1)",
+          "published_date": "12 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/Hapaj6yEOTg",
+          "hd_video_url": "https://www.youtube.com/embed/Hapaj6yEOTg",
+          "thumbnail": "https://i.ytimg.com/vi/Hapaj6yEOTg/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 53 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c97ab73c-aa3d-4c9c-8d80-ed85c68c9ee8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture 54 || Fundamental Rights (Part 2)",
+          "published_date": "15 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/evVm3ZnQLUU",
+          "hd_video_url": "https://www.youtube.com/embed/evVm3ZnQLUU",
+          "thumbnail": "https://i.ytimg.com/vi/evVm3ZnQLUU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 54 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0c3982b3-70aa-4179-a9b2-932f2fc15e08.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture 55 || Fundamental Rights (Part 3)",
+          "published_date": "16 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/GTVdfPnys1c",
+          "hd_video_url": "https://www.youtube.com/embed/GTVdfPnys1c",
+          "thumbnail": "https://i.ytimg.com/vi/GTVdfPnys1c/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 55 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0aa5aa0a-62af-4331-9335-fa726439c76f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture 56 || Fundamental Rights (Part 4)",
+          "published_date": "17 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/QfTtFW0tB7M",
+          "hd_video_url": "https://www.youtube.com/embed/QfTtFW0tB7M",
+          "thumbnail": "https://i.ytimg.com/vi/QfTtFW0tB7M/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 56 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/84e59d9b-9711-486a-b427-38c746ae20c1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture 57 || Fundamental Rights (Part 5)",
+          "published_date": "22 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/rZyvnVZpZeo",
+          "hd_video_url": "https://www.youtube.com/embed/rZyvnVZpZeo",
+          "thumbnail": "https://i.ytimg.com/vi/rZyvnVZpZeo/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 57 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/383c2293-5705-4f02-b772-568f5aef962b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture 58 || Social Studies by Himanshu Sir",
+          "published_date": "23 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/yW24jxzktbE",
+          "hd_video_url": "https://www.youtube.com/embed/yW24jxzktbE",
+          "thumbnail": "https://i.ytimg.com/vi/yW24jxzktbE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 58 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/56d8567b-e75a-4b18-8f7c-30e274eccf7b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture 59 || Social Studies by Himanshu Sir",
+          "published_date": "24 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/H542DUKowTQ",
+          "hd_video_url": "https://www.youtube.com/embed/H542DUKowTQ",
+          "thumbnail": "https://i.ytimg.com/vi/H542DUKowTQ/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 59 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6409f0d5-6eaf-42b1-b7c7-036117d30e04.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture 60 || Social Studies by Himanshu Sir",
+          "published_date": "25 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/PNs6Fo7gbqU",
+          "hd_video_url": "https://www.youtube.com/embed/PNs6Fo7gbqU",
+          "thumbnail": "https://i.ytimg.com/vi/PNs6Fo7gbqU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 60 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2318b65-6c5a-476b-a4c1-08ea68bdcc40.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture 61 || President (Part 3) & Vice President",
+          "published_date": "26 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/X8otptcdxd0",
+          "hd_video_url": "https://www.youtube.com/embed/X8otptcdxd0",
+          "thumbnail": "https://i.ytimg.com/vi/X8otptcdxd0/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 61 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/80ac1ca1-2b7a-4f47-b729-f87cb675e5c2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture 62 ||  Prime Minister & Governor",
+          "published_date": "28 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/5OXoSyPzco4",
+          "hd_video_url": "https://www.youtube.com/embed/5OXoSyPzco4",
+          "thumbnail": "https://i.ytimg.com/vi/5OXoSyPzco4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 62 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a3b9206a-41e2-42dc-8c3d-0ebfaa00bbd9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture 63 || Parliament",
+          "published_date": "29 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/TPAfiFtA-nc",
+          "hd_video_url": "https://www.youtube.com/embed/TPAfiFtA-nc",
+          "thumbnail": "https://i.ytimg.com/vi/TPAfiFtA-nc/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 63 || Parliament",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/49ab6ae3-2ec9-4265-bf10-3e59c6f5b30e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture 64 || State Legislative Body",
+          "published_date": "30 Apr 2025",
+          "video_url": "https://www.youtube.com/embed/aWc9Pqc1-QU",
+          "hd_video_url": "https://www.youtube.com/embed/aWc9Pqc1-QU",
+          "thumbnail": "https://i.ytimg.com/vi/aWc9Pqc1-QU/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 64 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a53612ce-4cc6-4b51-90f0-2458ee6fbda2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture 65 || Parliamentary Working System",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/Y7OWhixLrZE",
+          "hd_video_url": "https://www.youtube.com/embed/Y7OWhixLrZE",
+          "thumbnail": "https://i.ytimg.com/vi/Y7OWhixLrZE/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 65 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5b6dab6-1210-46af-8132-529e3cbfc595.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture 66 || Courts of India (Part 1)",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/bumH0T_rbyk",
+          "hd_video_url": "https://www.youtube.com/embed/bumH0T_rbyk",
+          "thumbnail": "https://i.ytimg.com/vi/bumH0T_rbyk/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 66 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5418d2e9-f10d-4611-b7d3-696fe237bc1d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture 67 || Panchayati Raj",
+          "published_date": "03 May 2025",
+          "video_url": "https://www.youtube.com/embed/YRvuCDCa8M4",
+          "hd_video_url": "https://www.youtube.com/embed/YRvuCDCa8M4",
+          "thumbnail": "https://i.ytimg.com/vi/YRvuCDCa8M4/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 67 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b249864-bbb3-4927-a62f-175196ac7906.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture 68 ||  Citizenship",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/aoUDNHTWb7Y",
+          "hd_video_url": "https://www.youtube.com/embed/aoUDNHTWb7Y",
+          "thumbnail": "https://i.ytimg.com/vi/aoUDNHTWb7Y/default.jpg",
+          "notes": [
+            {
+              "title": "Lecture 68 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/09f0595b-388a-4b09-9f08-4975a571a461.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture 69 || Constitutional Body",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/eElbIN54_Mg",
+          "hd_video_url": "https://www.youtube.com/embed/eElbIN54_Mg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eK67ExeoRfoEktjOBMWEYOEyJEe3vSMuJT09uR2D.jpg",
+          "notes": [
+            {
+              "title": "Lecture 69 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/deb37227-f7b1-41b1-96f6-694829f4c1aa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture 70 || Universe  (Part 1)",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/gATTREzKyAw",
+          "hd_video_url": "https://www.youtube.com/embed/gATTREzKyAw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ci7MtGfmr4X2JG39Kr8Td0S6ciuwMsgMxGUbpH3e.jpg",
+          "notes": [
+            {
+              "title": "Lecture 70 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9b9ecec3-e875-4d16-bc7b-bb595488d69d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture 71 || Universe  (Part 2)",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/sFOPLQZrbo8",
+          "hd_video_url": "https://www.youtube.com/embed/sFOPLQZrbo8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/3bp6r0L9O9XNl1Tjdjjk05oAgrWfuD0hgNwX81Sb.jpg",
+          "notes": [
+            {
+              "title": "Lecture 71 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bb224677-4015-45b2-a933-864549c8c69f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 72,
+          "title": "Lecture 72 || Universe  (Part 3)",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/jMGfINeMYcU",
+          "hd_video_url": "https://www.youtube.com/embed/jMGfINeMYcU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/phSUSYylApDZjb7qVcK6omgyXpBN6MNM7bqfUFjZ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 72 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/74d4b13d-e6b7-4b42-b428-aef24e26e539.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture 73 || Universe- Latitude and Longitude Part 1",
+          "published_date": "10 May 2025",
+          "video_url": "https://www.youtube.com/embed/C8h4uDsdut4",
+          "hd_video_url": "https://www.youtube.com/embed/C8h4uDsdut4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/5movTDtCplOAdlU7BM7ZCfitAnqBMOFELu53rxHQ.jpg",
+          "notes": [
+            {
+              "title": "Lecture 73 || Social Studies by Himanshu Sr",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f90dd53-ba62-48bc-8ede-8009ac6200d6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 74,
+          "title": "Lecture 74 || Universe- Latitude and Longitude Part 2",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/r5uQEkz9A4M",
+          "hd_video_url": "https://www.youtube.com/embed/r5uQEkz9A4M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/HnHQJkq49uL0wPXYy8885urkDDvrMC5GZ4m6ZKGo.jpg",
+          "notes": [
+            {
+              "title": "Lecture 74 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2b8dc2d2-683e-4ea9-8967-e6e63362893e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 75,
+          "title": "Lecture 75 || Lithosphere-Origin and Internal Structure of Earth  1",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/SfUQHUCNIh8",
+          "hd_video_url": "https://www.youtube.com/embed/SfUQHUCNIh8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2xRS4QB1EXVcSZw0perhvVHfhFxCUzG64Cdx8Pny.jpg",
+          "notes": [
+            {
+              "title": "Lecture 75 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c4183990-9517-4198-98b9-f7e0ed700a42.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 76,
+          "title": "Lecture 76 || Lithosphere-Origin and Internal Structure of Earth 2",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/RH_qpvf6Yo0",
+          "hd_video_url": "https://www.youtube.com/embed/RH_qpvf6Yo0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/MD711vyO6q7dFjuFTmcHiprigHzUsNXc3eEXEqoP.jpg",
+          "notes": [
+            {
+              "title": "Lecture 76 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a29e6ada-d0e0-437b-ab5d-a334cf7d3309.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 77,
+          "title": "Lecture 77 || Lithosphere- Plates and Rocks",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/NKteFQ2GsUQ",
+          "hd_video_url": "https://www.youtube.com/embed/NKteFQ2GsUQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SqTgRWWjMj1sRQjoOe4ay5gwesA5q9owxqsstX9w.jpg",
+          "notes": [
+            {
+              "title": "Lecture 77 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a24db6a4-2a1a-4527-88f1-c1d3ca18ef17.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 78,
+          "title": "Lecture 78 || Volcano",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/XrAdW49yifE",
+          "hd_video_url": "https://www.youtube.com/embed/XrAdW49yifE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e0e8fb67.jpg",
+          "notes": [
+            {
+              "title": "Lecture 78 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acf4b0fe-a787-43c6-b782-0a772604904d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 79,
+          "title": "Lecture 79 || Earthquake",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/jCwdJJVX9ik",
+          "hd_video_url": "https://www.youtube.com/embed/jCwdJJVX9ik",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e0be307e.jpg",
+          "notes": [
+            {
+              "title": "Lecture 79 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fb15cb8e-cf6f-4b9c-829f-e32f89c001c6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 80,
+          "title": "Lecture 80 || Atmosphere (Part 1)",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/HdQf8pZQgQ0",
+          "hd_video_url": "https://www.youtube.com/embed/HdQf8pZQgQ0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e0977d88.jpg",
+          "notes": [
+            {
+              "title": "Lecture 80 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/77074fcd-9063-492c-aa51-18ffbf8873f6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 81,
+          "title": "Lecture 81 || Atmosphere (Part 2)",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/MnMttIVV2xM",
+          "hd_video_url": "https://www.youtube.com/embed/MnMttIVV2xM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e06cb0e5.jpg",
+          "notes": [
+            {
+              "title": "Lecture 81 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a9cfbe24-d9ea-4c3d-9d8d-ba9b28d2c388.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 82,
+          "title": "Lecture 82 || Coriolis Force",
+          "published_date": "23 May 2025",
+          "video_url": "https://www.youtube.com/embed/Tr7vFAWwgrw",
+          "hd_video_url": "https://www.youtube.com/embed/Tr7vFAWwgrw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e04900e1.jpg",
+          "notes": [
+            {
+              "title": "Lecture 82 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a8100f0-e588-485a-9d74-70f4c2764a9b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 83,
+          "title": "Lecture 83 || Insolation & Earth's Heat Budget",
+          "published_date": "24 May 2025",
+          "video_url": "https://www.youtube.com/embed/nqyp839p0Gc",
+          "hd_video_url": "https://www.youtube.com/embed/nqyp839p0Gc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381e0223a9a.jpg",
+          "notes": [
+            {
+              "title": "Lecture 83 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/06cf5308-7b9f-466d-ae26-b88c553a20ee.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 84,
+          "title": "Lecture 84 || Insolation & Earth's Heat Budget (Part 2)",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/TowLh-qZm_U",
+          "hd_video_url": "https://www.youtube.com/embed/TowLh-qZm_U",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381dfdc5793.jpg",
+          "notes": [
+            {
+              "title": "Lecture 84 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc84fd11-6bd9-4715-82f4-1b8b3dacbe57.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 85,
+          "title": "Lecture 85|| Climatic",
+          "published_date": "27 May 2025",
+          "video_url": "https://www.youtube.com/embed/weL-XJ9LopQ",
+          "hd_video_url": "https://www.youtube.com/embed/weL-XJ9LopQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381df00fcf9.jpg",
+          "notes": [
+            {
+              "title": "Lecture 85|| Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5194ecd1-52fb-40a0-b219-de6833451147.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 86,
+          "title": "Lecture 86 || Oceans of the World",
+          "published_date": "28 May 2025",
+          "video_url": "https://www.youtube.com/embed/BLzetaM5FXE",
+          "hd_video_url": "https://www.youtube.com/embed/BLzetaM5FXE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/68381de1eb8c5.jpg",
+          "notes": [
+            {
+              "title": "Lecture 86 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d259d12c-683e-4657-b75b-c7c9cd32d797.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 87,
+          "title": "Lecture 87 || Salinity of Ocean Water",
+          "published_date": "29 May 2025",
+          "video_url": "https://www.youtube.com/embed/aIEl4oJl_f0",
+          "hd_video_url": "https://www.youtube.com/embed/aIEl4oJl_f0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a20ded40.jpg",
+          "notes": [
+            {
+              "title": "Lecture 87 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a8af3626-4d79-45aa-9e5a-03e8f101d5fb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 88,
+          "title": "Lecture 88 || Coral",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/yGrZa0w1FMQ",
+          "hd_video_url": "https://www.youtube.com/embed/yGrZa0w1FMQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/687a6a1f2f0ae.jpg",
+          "notes": [
+            {
+              "title": "Lecture 88 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/cec889a5-98be-47cc-85c3-bcb11b5a10ea.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 89,
+          "title": "Lecture 89 || Ocean Currents",
+          "published_date": "31 May 2025",
+          "video_url": "https://www.youtube.com/embed/Zxw5qyRJuU4",
+          "hd_video_url": "https://www.youtube.com/embed/Zxw5qyRJuU4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/xk7OCu0n9wfsaYqpRjn79RiqwxpkaJMuwNxCg1ue.jpg",
+          "notes": [
+            {
+              "title": "Lecture 89 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22001399-bbec-4e3c-bd87-45be692fa13a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 90,
+          "title": "Lecture 90 || Concept of Solar Eclipse",
+          "published_date": "02 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Rm06v3lFWlk",
+          "hd_video_url": "https://www.youtube.com/embed/Rm06v3lFWlk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CXPSHiSNcfh2YG7DRFBkqdnYKwtElkIkU2l8UEvx.jpg",
+          "notes": [
+            {
+              "title": "Lecture 90 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2751340c-fe5f-47d7-94aa-cf381cf8514c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 91,
+          "title": "Lecture 91 || Concept of Solar Eclipse (Part2)",
+          "published_date": "03 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vUsPPhj5TDU",
+          "hd_video_url": "https://www.youtube.com/embed/vUsPPhj5TDU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/EQx9UG9x4NtZNqOrtPIW0UKFVhW91e8e2ce3aenr.jpg",
+          "notes": [
+            {
+              "title": "Lecture 91 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/18f5ab38-aea0-4dce-8293-70739bfdc520.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 92,
+          "title": "Lecture 92 || Cyclone (Part 1)",
+          "published_date": "04 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/jaH1TOCaU8A",
+          "hd_video_url": "https://www.youtube.com/embed/jaH1TOCaU8A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/lr5Yj3YPgzWDMTFEIfZobw46se0chT1AqksSpPIY.jpg",
+          "notes": [
+            {
+              "title": "Lecture 92 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/748e8ac0-53dd-4e26-be5b-4ec63460905c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 93,
+          "title": "Lecture 93 || Cyclone (Part 2)",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/b3SI0lb3rKA",
+          "hd_video_url": "https://www.youtube.com/embed/b3SI0lb3rKA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rVA0OBw90rSwdKfrChPAYl394q5ZPnvk7OGWtICK.jpg",
+          "notes": [
+            {
+              "title": "Lecture 93 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f23f5f4c-47c5-4739-83f1-91ff5a693b6b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 94,
+          "title": "Lecture 94 || Soil (Part 1)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/DgSoTIxpOPQ",
+          "hd_video_url": "https://www.youtube.com/embed/DgSoTIxpOPQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FZ8yuvGqJKTgVlmd9qqLAXqllp6Q3IcxkUimHbUI.jpg",
+          "notes": [
+            {
+              "title": "Lecture 94 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/35ca80c9-6a49-4818-9261-aeb4cb8ba6be.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 95,
+          "title": "Lecture 95 || Soil (Part 2)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/THDtE2tREVE",
+          "hd_video_url": "https://www.youtube.com/embed/THDtE2tREVE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F1u2tADx5faWgKwyYTziXnfHNHFOBm1WkDMQVyRY.jpg",
+          "notes": [
+            {
+              "title": "Lecture 95 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/214322d1-9f45-411d-8370-2400d78fbc0f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 96,
+          "title": "Lecture 96 || Major Passes of India",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Q0TS8Xf5MVQ",
+          "hd_video_url": "https://www.youtube.com/embed/Q0TS8Xf5MVQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WNzZEL8A4hscN0bZtx8nnRSMqWzHREN6cLY9u2pn.jpg",
+          "notes": [
+            {
+              "title": "Lecture 96 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/02c6f6c9-4409-48e8-875c-391f733d1b36.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 97,
+          "title": "Lecture 97 || Mountains",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Zw9AN050uwE",
+          "hd_video_url": "https://www.youtube.com/embed/Zw9AN050uwE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RRpBxI8alAhS5oTLZkZ8PlBWAQwmqi6tgmHhgpJP.jpg",
+          "notes": [
+            {
+              "title": "Lecture 97 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0b0e0130-f0f0-4958-9b4d-f7adc150ec82.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 98,
+          "title": "Lecture 98 || Physical Division of India ( Part 1)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/8rOBHAe8RSw",
+          "hd_video_url": "https://www.youtube.com/embed/8rOBHAe8RSw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QJFp1i9vQDNcp2HpH7DLTILybMTYKQLIMcUqzHme.jpg",
+          "notes": [
+            {
+              "title": "Lecture 98 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/afecec12-2e5a-4c85-87c5-6ee973ee467c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 99,
+          "title": "Lecture 99 || Physical Division of India ( Part 2)",
+          "published_date": "14 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JCfvfVUlHvo",
+          "hd_video_url": "https://www.youtube.com/embed/JCfvfVUlHvo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/YUuxBppwnpGSXyP0Cs0Bush5vWyn7dypVLgXfWRq.jpg",
+          "notes": [
+            {
+              "title": "Lecture 99 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8f0af302-5b35-4ec8-98a6-7e4aa5b7f4ad.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 100,
+          "title": "Lecture 100 || Rocks & Plateau (Part 1)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/TraBYAJhCnc",
+          "hd_video_url": "https://www.youtube.com/embed/TraBYAJhCnc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/j4kn9LMDYu8AKJCuZBlmE0TbuXn0eNGhyBTVXVGl.jpg",
+          "notes": [
+            {
+              "title": "Lecture 100 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ea695190-7637-48b5-bd83-0c697b635317.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 101,
+          "title": "Lecture 101 || Rocks & Plateau (Part 2)",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/76Gmv0XV5wc",
+          "hd_video_url": "https://www.youtube.com/embed/76Gmv0XV5wc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WmwXv66xAKTTyW1w9FwPWvT0Wxpt0JiYwaMulKFl.jpg",
+          "notes": [
+            {
+              "title": "Lecture 101 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c294f8e7-2399-4efa-91e7-355f7ad40c12.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 102,
+          "title": "Lecture 102 || Islands of India",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/RgZxSqTElZo",
+          "hd_video_url": "https://www.youtube.com/embed/RgZxSqTElZo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/O8fIAIMgxsVGWEGy8lnvoFcYnXqZVJvPYm5nIBex.jpg",
+          "notes": [
+            {
+              "title": "Lecture 102 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8d0d56e7-a888-44fa-817d-9546bdbf26bf.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 103,
+          "title": "Lecture 103 ||Indian Monsoon (Part 1)",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Ra5E6A7KhT0",
+          "hd_video_url": "https://www.youtube.com/embed/Ra5E6A7KhT0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aHXNgI3TFxbg90sPdJkEIXoB82orvshFxcq1wSgG.jpg",
+          "notes": [
+            {
+              "title": "Lecture 103 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/581d8498-a374-4b9f-ba74-8edf3aa5a31c.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 104,
+          "title": "Lecture 104 || Indian Monsoon (Part 2)",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/nqNSd8nufHI",
+          "hd_video_url": "https://www.youtube.com/embed/nqNSd8nufHI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QSzNClsq43HEyiSnwqAFfey60svOOHRk6aGczHfk.jpg",
+          "notes": [
+            {
+              "title": "Lecture 104 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a937dd58-61c8-4f55-a2ad-5560df68d353.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 105,
+          "title": "Lecture 105 || Indian Monsoon (Part 3)",
+          "published_date": "21 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/UJxCnUwuYwE",
+          "hd_video_url": "https://www.youtube.com/embed/UJxCnUwuYwE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/mg87HOPaIaWPVrZZDuGIxhGwwbl8T1Pi4MSUcy1c.jpg",
+          "notes": [
+            {
+              "title": "Lecture 105 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fddc3154-f87a-4e6d-84e9-a606d9c209b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 106,
+          "title": "Lecture 106 || Concept and Nature of Social Science",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Rs_CsFOwWS0",
+          "hd_video_url": "https://www.youtube.com/embed/Rs_CsFOwWS0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/hjIa3B8QPuXcZNxTidtnfp3dTmtzzMh6iJ6VtxxE.png",
+          "notes": [
+            {
+              "title": "Lecture 106 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/073fa37f-b086-4d3e-bb99-af533991919b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 107,
+          "title": "Lecture 107 || Concept and Nature of Social Science (Part 2)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/_cbxso3loYM",
+          "hd_video_url": "https://www.youtube.com/embed/_cbxso3loYM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/V7IeGUKgepaEhGuxEnWw66EAN1DKSyPRdAc0UX8z.png",
+          "notes": [
+            {
+              "title": "Lecture 107 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/272f1497-c4d4-4d2b-9076-d8d13b3c7607.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 108,
+          "title": "Lecture 108 || N.E.P & N.C.F",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/DkgvstJ_ofg",
+          "hd_video_url": "https://www.youtube.com/embed/DkgvstJ_ofg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/nXbUQq4ItMckGwovrAdjFPn4qwg3npjydKqum014.png",
+          "notes": [
+            {
+              "title": "Lecture 108 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3336ca18-4955-44fc-8f66-6d4c581ab9dc.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 109,
+          "title": "Lecture 109 || Practice Class",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/7Kt6mweIFvM",
+          "hd_video_url": "https://www.youtube.com/embed/7Kt6mweIFvM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ORGdCc5wkxLxkUuKfb1o6CrvZDoZCqrD0F3IQZA0.png",
+          "notes": [
+            {
+              "title": "Lecture 109 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2841ecf1-079a-465d-a8d7-b4387bae24c8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 110,
+          "title": "Lecture 110 || Classroom Process, Activities & Communication (Part 1)",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/2OhBzEjutS0",
+          "hd_video_url": "https://www.youtube.com/embed/2OhBzEjutS0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2iEyejemgqwgjq0UC8gBDL0wMfDW05Rvx9CFQGoR.png",
+          "notes": [
+            {
+              "title": "Lecture 110 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ffcb3357-f1e9-44ef-b22c-393a0674232b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 111,
+          "title": "Lecture 111 || Classroom process, activities and communication (Part 2)",
+          "published_date": "28 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/nLQ7hrJuT70",
+          "hd_video_url": "https://www.youtube.com/embed/nLQ7hrJuT70",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/V7IVShGXgQMCLGiWHvoave3ZwgOQvdKfbwFkg967.png",
+          "notes": [
+            {
+              "title": "Lecture 111 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ff11096-81ab-473e-b9a8-bad4370ce2b4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 112,
+          "title": "Lecture 112 || Critical Thinking Meaning & Need",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/wxInWtcAZbo",
+          "hd_video_url": "https://www.youtube.com/embed/wxInWtcAZbo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DN1mfxbTXEPtJ9EhTXDViB3yIZ6xOmwwWVio2vjZ.png",
+          "notes": [
+            {
+              "title": "Lecture 112 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40d73058-8975-4d24-a362-1298666387eb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 113,
+          "title": "Lecture 113 || Critical Thinking Meaning & Need (Part 1)",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/pKbU53pdnEY",
+          "hd_video_url": "https://www.youtube.com/embed/pKbU53pdnEY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/UING1pOkMIW8Qrfmgmb0pT9Qb8UqQHVwOUCdR3sO.png",
+          "notes": [
+            {
+              "title": "Lecture 113 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0430d1a2-a052-4c86-bbc1-49b6fb305778.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 114,
+          "title": "Lecture 114 || Critical Thinking Meaning & Need (Part 2)",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Augx1oDhZLY",
+          "hd_video_url": "https://www.youtube.com/embed/Augx1oDhZLY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/2qYueh7S8dScMOwH2FFPMTTEFei8UdxxoRy4iC1X.png",
+          "notes": [
+            {
+              "title": "Lecture 114 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/69bf5d6c-beba-40c6-b40f-8dfb77b2b8a4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 115,
+          "title": "Lecture 115 || Bloom's Taxonomy (Part 1)",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/rhz4WrErNd4",
+          "hd_video_url": "https://www.youtube.com/embed/rhz4WrErNd4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/eglnezUzZxPyFU9mCSxOMG19dAxn6bSASANBd1ai.png",
+          "notes": [
+            {
+              "title": "Lecture 115 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bf12955b-ce2b-4087-86c6-c94312e88888.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 116,
+          "title": "Lecture 116 || Bloom's Taxonomy (Part 2)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/woY-u3I2RvA",
+          "hd_video_url": "https://www.youtube.com/embed/woY-u3I2RvA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oR3xinw3ZEPTRFL0BuaVTESfEzdjCAyeo5VplvmW.png",
+          "notes": [
+            {
+              "title": "Lecture 116 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2f370ee1-2e70-4cee-afa5-5cc2dca26275.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 117,
+          "title": "Lecture 117 || Practice Class",
+          "published_date": "05 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Rg9ZGo0sApE",
+          "hd_video_url": "https://www.youtube.com/embed/Rg9ZGo0sApE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dRYeVbfG7a22TxpP6mHxLqDTDwIT5X7s8NkD53wt.png",
+          "notes": [
+            {
+              "title": "Lecture 117 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/440ba5b4-bb42-48ae-aa4a-2f7b0860aa94.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 118,
+          "title": "Lecture 118 || Inquiry-Based Learning",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ulOK5ZcO-ss",
+          "hd_video_url": "https://www.youtube.com/embed/ulOK5ZcO-ss",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/miCk8hJPigFUt7ai1fqRg0dghA2NGs4VxSGhzHDT.png",
+          "notes": [
+            {
+              "title": "Lecture 118 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89b803fc-7628-4083-8125-30eb047baa84.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 119,
+          "title": "Lecture 119 || Inquiry-Based Learning (Part 2)",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/amy4NX5dzag",
+          "hd_video_url": "https://www.youtube.com/embed/amy4NX5dzag",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/k92t76kttjbi9L6DsF2OJgWADTNBbVBHMjdWpfKV.png",
+          "notes": [
+            {
+              "title": "Lecture 119 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/790bd5b4-b8b3-44f9-af07-cf84915ad2d6.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 120,
+          "title": "Lecture 120 || Inquiry / Empirical Evidence",
+          "published_date": "09 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/K_Q5pKBOSUs",
+          "hd_video_url": "https://www.youtube.com/embed/K_Q5pKBOSUs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9VEWHUgHkAmYpFJv9iKxKgVhcIrClxAyTgn6Iyiq.png",
+          "notes": [
+            {
+              "title": "Lecture 120 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/664fb5f2-e1df-4b44-b96d-8eaff4a798d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 121,
+          "title": "Lecture 121 || Problem of Teaching Social Studies & Social Science",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Tc9q5cg2Afc",
+          "hd_video_url": "https://www.youtube.com/embed/Tc9q5cg2Afc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tXDRmeSitbZ59JgESgsurcMwKB4JL4qGeksPnht3.png",
+          "notes": [
+            {
+              "title": "Lecture 121 || Problem of Teaching Social Studies & Social Science",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/40b67bc6-e6ab-4f46-893d-a2dc5ccd4029.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 122,
+          "title": "Lecture 122 || Source: Primary and Secondary",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/aNVV_35ldKk",
+          "hd_video_url": "https://www.youtube.com/embed/aNVV_35ldKk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/QAz8xb15sqt7jNzUUJEK6gCUvicMTfaU0gef57jd.png",
+          "notes": [
+            {
+              "title": "Lecture 122 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e6758d57-7fbc-4da5-97ac-c0873d87edea.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 123,
+          "title": "Lecture 123 || Project Work",
+          "published_date": "12 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/sXsj0KwFnFk",
+          "hd_video_url": "https://www.youtube.com/embed/sXsj0KwFnFk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/BT3wkO8nIEL9FpWo8cjZSkNKrEh17NXY39Q147ZB.png",
+          "notes": [
+            {
+              "title": "Lecture 123 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/13850728-8999-436f-a466-c359039be26a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 124,
+          "title": "Lecture 124 || Project Work (Part 2)",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/f__C15s2r2A",
+          "hd_video_url": "https://www.youtube.com/embed/f__C15s2r2A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/llvNa4Y7vzVoXLAMNu5tq21ckj1pwYxqHCcUa1Db.png",
+          "notes": [
+            {
+              "title": "Lecture 124 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/fd855503-59ff-4ac8-966e-95b97c954067.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 125,
+          "title": "Lecture 125 || Doubt Session",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Ods1j39pTYA",
+          "hd_video_url": "https://www.youtube.com/embed/Ods1j39pTYA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/i0BoBG3bbDKc7GCMstw545LnHlxbomfQy7lgATKn.png",
+          "notes": [
+            {
+              "title": "Lecture 125 || Social Studies by Himanshu Sir",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c50161e6-a378-47ee-b4b5-56aa983d715a.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+};

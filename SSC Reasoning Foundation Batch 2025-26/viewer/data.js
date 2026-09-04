@@ -1,0 +1,1025 @@
+window.batchData = {
+  "subjects": [
+    {
+      "subject_name": "Reasoning by Yogendra Sir",
+      "subject_id": 6536,
+      "video_count": 73,
+      "note_count": 71,
+      "videos": [
+        {
+          "serial": 1,
+          "title": "Lecture - 01 || Introduction of Reasoning",
+          "published_date": "01 May 2025",
+          "video_url": "https://www.youtube.com/embed/mnN5kOUk6LA",
+          "hd_video_url": "https://www.youtube.com/embed/mnN5kOUk6LA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/l2gEJikmL6jmlkgvIiKjqzEdS1aNh5Jc5ZXmwSfA.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 01 || Introduction of Reasoning",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/790854e5-1597-4072-8b65-586085e4abc2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 2,
+          "title": "Lecture - 02 || Venn Diagram (Part-01)",
+          "published_date": "02 May 2025",
+          "video_url": "https://www.youtube.com/embed/7e3nuNGu4FI",
+          "hd_video_url": "https://www.youtube.com/embed/7e3nuNGu4FI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/c1AUp4RnLTFMfCdlpNW21GbbwxfRRE2Ialwqr2C4.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 02 || Venn Diagram (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/7c8e3d7e-f705-4599-a1e6-e5fe64a80b2a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 3,
+          "title": "Lecture - 03 || Venn Diagram (Part 2)",
+          "published_date": "05 May 2025",
+          "video_url": "https://www.youtube.com/embed/-e7G609MaUc",
+          "hd_video_url": "https://www.youtube.com/embed/-e7G609MaUc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/BhdxCHCHhOMlcPIVO8lyp5P7lwvXh8FDqTzY3qkX.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 03 || Venn Diagram (Part 2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e58e172-1ac5-4d8b-aef8-58cab68f2df1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 4,
+          "title": "Lecture - 04 || Venn Diagram (Part 3)",
+          "published_date": "06 May 2025",
+          "video_url": "https://www.youtube.com/embed/tz-kYWhVg3I",
+          "hd_video_url": "https://www.youtube.com/embed/tz-kYWhVg3I",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/gidKxtFY4KcZ4fMNIeCYSP7g0a61nvDhMtm8v9cD.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 04 || Venn Diagram (Part 3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/14694d35-daa4-4d0c-9f3f-771a82fab65b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 5,
+          "title": "Lecture - 05 || Dice (Part 1)",
+          "published_date": "07 May 2025",
+          "video_url": "https://www.youtube.com/embed/mwrlQZqyScQ",
+          "hd_video_url": "https://www.youtube.com/embed/mwrlQZqyScQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ey3Zw09gIlaTr1bpdgQZGtmybbUp5g1v6WHDKogm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 05 || Dice (Part 1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/24707425-b55c-458f-8374-a99b6eab1342.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 6,
+          "title": "Lecture - 06 || Dice (Part 2)",
+          "published_date": "08 May 2025",
+          "video_url": "https://www.youtube.com/embed/RHQZy1LcuPA",
+          "hd_video_url": "https://www.youtube.com/embed/RHQZy1LcuPA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HB43aX0seICnKjTQoHf1n4P7wzNdX0cDwY9nR1DU.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 06 || Dice (Part 2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/607855c8-78c8-4341-8dbe-6d8500395df8.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 7,
+          "title": "Lecture - 07 || Counting of Figure (Part-01)",
+          "published_date": "09 May 2025",
+          "video_url": "https://www.youtube.com/embed/eyU0IdQr7sI",
+          "hd_video_url": "https://www.youtube.com/embed/eyU0IdQr7sI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RgGumkVMdkfgGc9nsWJWckRo7hDcxao5Br40H87C.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 07 || Counting of Figure (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/6c30b296-38eb-41ae-a708-24ffbf7de0c5.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 8,
+          "title": "Lecture - 08 || Counting of Figure (Part-02)",
+          "published_date": "12 May 2025",
+          "video_url": "https://www.youtube.com/embed/YKjUl_oXHJE",
+          "hd_video_url": "https://www.youtube.com/embed/YKjUl_oXHJE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/HbxDE43RKA1dtGYBmIIhIB9xLa57BKZZiiYyLma7.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 08 || Counting of Figure (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0bab4205-d5f6-4766-bf72-492e5a7c173a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 9,
+          "title": "Lecture - 09 || Counting of Figure (Part-03)",
+          "published_date": "13 May 2025",
+          "video_url": "https://www.youtube.com/embed/Q-xxZdybfGs",
+          "hd_video_url": "https://www.youtube.com/embed/Q-xxZdybfGs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VARJlJPrM2dXCEcvVyScKUT7j3dNbPPSHRcqjZCc.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 09 || Counting of Figure (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70e343db-5092-4467-b617-001a9f1d7c1d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 10,
+          "title": "Lecture - 10 || Counting of Figure (Part-04)",
+          "published_date": "14 May 2025",
+          "video_url": "https://www.youtube.com/embed/U39p7cxMb1o",
+          "hd_video_url": "https://www.youtube.com/embed/U39p7cxMb1o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/g69AOWyC4xxw0Sf6mKdWDZG8Xb7r1WyKXuHAerrm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 10 || Counting of Figure (Part-04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/491c8999-e9fc-4d2c-a21f-dff07c435c81.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 11,
+          "title": "Lecture - 11 || Mirror and Water Image (Part-01)",
+          "published_date": "15 May 2025",
+          "video_url": "https://www.youtube.com/embed/DCtW7coXpNo",
+          "hd_video_url": "https://www.youtube.com/embed/DCtW7coXpNo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/FqJXCvXVeKZVa2rAzsOoT9sHWMGuYFXcyKQztCnA.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 11 || Mirror and Water Image (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f59efba-93a5-4ff0-a0f7-339b2cdd0430.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 12,
+          "title": "Lecture - 12 || Mirror and Water Image (Part-02)",
+          "published_date": "16 May 2025",
+          "video_url": "https://www.youtube.com/embed/DwW31A6Zb1w",
+          "hd_video_url": "https://www.youtube.com/embed/DwW31A6Zb1w",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/jYmUwjyybUHbsO0wcICCf9RQh2xGTvCVbJ4TfZj6.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 12 || Mirror and Water Image (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/372417d8-791e-4815-8b5a-9b6ce4421f56.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 13,
+          "title": "Lecture - 13 || Calendar || (Part-01)",
+          "published_date": "19 May 2025",
+          "video_url": "https://www.youtube.com/embed/krG5QL-FMC8",
+          "hd_video_url": "https://www.youtube.com/embed/krG5QL-FMC8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/fSYiTqS4slPFI9L1RYUrheoR6PbDmQY9oESr36gK.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 13 || Calendar || (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/1699dcc6-22e7-4b57-943f-04b551673316.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 14,
+          "title": "Lecture - 14 || Calendar || (Part-02)",
+          "published_date": "20 May 2025",
+          "video_url": "https://www.youtube.com/embed/-uTThI8zHoI",
+          "hd_video_url": "https://www.youtube.com/embed/-uTThI8zHoI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/oO98HrD70phSurpb7jCILgX3hSWROMh1EJAghRkF.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 14 || Calendar || (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/22dbd617-fbdb-4290-b4a6-a77dfcbd4804.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 15,
+          "title": "Lecture - 15 || Calendar || (Part-03)",
+          "published_date": "21 May 2025",
+          "video_url": "https://www.youtube.com/embed/KgzRATyL86Q",
+          "hd_video_url": "https://www.youtube.com/embed/KgzRATyL86Q",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/as75OYZY3Q5kJ8l3YjNNev34bSSIYbyPcPuOy2zV.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 15 || Calendar || (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4ec7e77c-1870-4d91-a8ef-6fe5c3cb1298.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 16,
+          "title": "Lecture - 16 || Calendar || (Part-04)",
+          "published_date": "22 May 2025",
+          "video_url": "https://www.youtube.com/embed/22iaiicLMtw",
+          "hd_video_url": "https://www.youtube.com/embed/22iaiicLMtw",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/Sfvxo6lZoQX5wEkPGovsHq5XWvCOq7Otw9MJZFDZ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 16 || Calendar || (Part-04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a0ccabda-d86b-43f3-8247-776a8c1fe1d7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 17,
+          "title": "Lecture - 17 || Non Verbal Series || (Part-01)",
+          "published_date": "26 May 2025",
+          "video_url": "https://www.youtube.com/embed/BBdj8P7LgYI",
+          "hd_video_url": "https://www.youtube.com/embed/BBdj8P7LgYI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/vOmumLk4AsyJQvwhjMRdPJxnC331UEtC8DDqJN4u.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 17 || Non Verbal Series || (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/2a3feea1-2f86-4a54-add6-8cb5ba73b61d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 18,
+          "title": "Lecture - 18 || Clock || (Part-01)",
+          "published_date": "30 May 2025",
+          "video_url": "https://www.youtube.com/embed/rUNGd4LrRlo",
+          "hd_video_url": "https://www.youtube.com/embed/rUNGd4LrRlo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/ynA17gdWWYEBNfRCYAFTMCoBt06ZT9pzqcmxPXYC.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 18 || Clock || (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b21f083d-f3e8-4d45-90ef-882bee648b4d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 19,
+          "title": "Lecture - 19 || Clock || (Part-02)",
+          "published_date": "05 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/lTSRPaW9Mi8",
+          "hd_video_url": "https://www.youtube.com/embed/lTSRPaW9Mi8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/zYy22as7nj4CtVOXLMSYZZ3JFjeFOWXYexE4L9Gh.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 19 || Clock || (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c576a34e-9aaa-4574-8988-2682c7d1540d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 20,
+          "title": "Lecture - 20 || Clock || (Part-03)",
+          "published_date": "06 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/9B066-1VVck",
+          "hd_video_url": "https://www.youtube.com/embed/9B066-1VVck",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bjXRgw64bVICh4n4niFODVrKitf1ubSVGA6YYuqE.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 20 || Clock || (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d4d299d5-ee00-4ab0-bc63-354664e295de.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 21,
+          "title": "Lecture - 21 || Alphabet Test || (Part-01)",
+          "published_date": "09 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/GHcwMRQMX8c",
+          "hd_video_url": "https://www.youtube.com/embed/GHcwMRQMX8c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/42wDgD9rMaOmroTZmVm6HQ1xgEV1QlErnqQJ88DD.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 21 || Alphabet Test || (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8e6c4f72-2172-4ca8-b58f-c3c3a6306cd4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 22,
+          "title": "Lecture - 22 || Alphabet Test || (Part-02)",
+          "published_date": "10 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/vWENkzucB5M",
+          "hd_video_url": "https://www.youtube.com/embed/vWENkzucB5M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Fpvt6UyDXr0T6eJyBsw6YzwLqr35pwB3FVjtMrPq.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 22 || Alphabet Test || (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/508a6df0-fbf4-4968-91d2-80f61498a49b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 23,
+          "title": "Lecture - 23 || Alphabet Test || (Part-03)",
+          "published_date": "11 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/HeCJ0qj-fz0",
+          "hd_video_url": "https://www.youtube.com/embed/HeCJ0qj-fz0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DnmAVuukJxYtUsUCQwnaU7RH8fJb54X4k0D8BgbP.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 23 || Alphabet Test || (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/95a63409-62ff-4ce9-a0ef-40c26d1c42c9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 24,
+          "title": "Lecture - 24 || Alphabet Test || (Part-04)",
+          "published_date": "12 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/JyoVk-QvI0M",
+          "hd_video_url": "https://www.youtube.com/embed/JyoVk-QvI0M",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/JwXHIwpQRc6AgOw2ca6DzMqo0nbOICu4iyymrJCu.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 24 || Alphabet Test || (Part-04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/70322322-0342-4ab3-94d1-15827f09ba05.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 25,
+          "title": "Lecture - 25 || Logical Arrangement of Words (Part-01)",
+          "published_date": "13 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/Qjr3R4NHSp8",
+          "hd_video_url": "https://www.youtube.com/embed/Qjr3R4NHSp8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/rQKo1GYBcXwv388qG6rejbY9L7iWmY41rpt7BLNl.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 25 || Logical Arrangement of Words (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/27e3cd4d-a301-4e73-ae25-474c4734fe42.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 26,
+          "title": "Lecture - 26 || Logical Arrangement of Words (Part-02)",
+          "published_date": "16 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/H4-E60qMWkQ",
+          "hd_video_url": "https://www.youtube.com/embed/H4-E60qMWkQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/IfPGAgyu6u50vAC3AKzgvm4guRSNuOTT5f4mvYMm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 26 || Logical Arrangement of Words (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9933f575-689c-464e-9d4b-1a8757df48e4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 27,
+          "title": "Lecture - 27 || Coding Decoding (Part-01)",
+          "published_date": "17 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/BV0hi7BFRvg",
+          "hd_video_url": "https://www.youtube.com/embed/BV0hi7BFRvg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/dKN5CYYvi2VmiDsXuVd7kRyJE8PWZSiSL8Dv3dX7.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 27 || Coding Decoding (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/811e0c89-db45-457c-b608-dc03f025829f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 28,
+          "title": "Lecture - 28 || Coding Decoding (Part-02)",
+          "published_date": "18 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/FEpWq5VT48s",
+          "hd_video_url": "https://www.youtube.com/embed/FEpWq5VT48s",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/6dfJ931qBHfb7oFovZW86EFCoeKqr64XcquAUg9i.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 28 || Coding Decoding (Part-02)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/90ec5641-6896-4597-ba23-c85fec4cfa1b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 29,
+          "title": "Lecture - 29 || Coding Decoding (Part-03)",
+          "published_date": "19 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/bbKjUHFjvHQ",
+          "hd_video_url": "https://www.youtube.com/embed/bbKjUHFjvHQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/CiYhclXcxxpl6uYKywTznL115dcTzNuQNfGmF7dz.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 29 || Coding Decoding (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/bc9d2a6d-a2fe-4c14-ae93-74081101acb9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 30,
+          "title": "Lecture - 30 || Paper Cutting Folding and Figure Completion",
+          "published_date": "20 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/1wfSo8OetY8",
+          "hd_video_url": "https://www.youtube.com/embed/1wfSo8OetY8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N6K5PTXoXjztNZmmej5dfFB1aNUzvfQQhJMj18om.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 30 || Paper Cutting Folding and Figure Completion",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/46a43d98-cfb8-4079-88eb-74721ab3e474.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 31,
+          "title": "Lecture - 31 || Letter series (Part-01)",
+          "published_date": "23 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/hO9gQPEbRYY",
+          "hd_video_url": "https://www.youtube.com/embed/hO9gQPEbRYY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ftEgwpenRUpMwPgrw4XhcVTc6gOELFhqCvlWvKxK.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 31 || Letter series (Part-01)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/aa3f9b62-c528-4131-a9eb-57a6828d6fc7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 32,
+          "title": "Lecture - 32 || Letter series (Part-02)",
+          "published_date": "24 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/b_7BfC51Qco",
+          "hd_video_url": "https://www.youtube.com/embed/b_7BfC51Qco",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/u9uzYRnA0Gev7jNWuDnKN5p2SNHxlg2hZqtDRRgW.jpg",
+          "notes": []
+        },
+        {
+          "serial": 33,
+          "title": "Lecture - 33 || Letter series (Part-03)",
+          "published_date": "25 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/0gVDoadRg3A",
+          "hd_video_url": "https://www.youtube.com/embed/0gVDoadRg3A",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/DrHWQpazLKNTirB7wQLQfo48ps3vJuyuIGdBXXKE.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 33 || Letter series (Part-03)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/93db20c4-9386-4ed1-afe1-5a5addee2f21.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 34,
+          "title": "Lecture - 34 || Letter series (Part-04)",
+          "published_date": "26 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/BkIbkuibaBY",
+          "hd_video_url": "https://www.youtube.com/embed/BkIbkuibaBY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/o0CuTN1p2B8kMdesAAiNx5eQV9vUNEVgNzwwMFXY.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 34 || Letter series (Part-04)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f697ac57-63a0-4256-8e9b-406a74c99afa.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 35,
+          "title": "Lecture - 35 || Classification (Part-1)",
+          "published_date": "27 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/ETluPLL_ti4",
+          "hd_video_url": "https://www.youtube.com/embed/ETluPLL_ti4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/RKtYYIwnDc88BAFhqkThS2dDmvF5vlO0HgdeKfCx.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 35 || Classification (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/947a13dc-9501-4fbd-b745-957a1133f4d9.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 36,
+          "title": "Lecture - 36 || Classification (Part-2)",
+          "published_date": "30 Jun 2025",
+          "video_url": "https://www.youtube.com/embed/47a6gWomkbQ",
+          "hd_video_url": "https://www.youtube.com/embed/47a6gWomkbQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VxJtxF3Vyuvp0bWKlOsDPruBWS8f2d2iC7e80gI7.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 36 || Classification (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/8645ef15-8377-4559-8e54-a8df7d7f7d89.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 37,
+          "title": "Lecture - 37 || Classification (Part-3)",
+          "published_date": "01 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/6wTCi-C3np8",
+          "hd_video_url": "https://www.youtube.com/embed/6wTCi-C3np8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9pPtpcAPjvgbmPxZb4LbHHcNFxUkTvlI3L5CisFT.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 37 || Classification (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d21e1d4c-2a3f-4f6d-b059-1b0b0ae6af3d.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 38,
+          "title": "Lecture - 38 || Classification (Part-4)",
+          "published_date": "02 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/406Tpu0VT5c",
+          "hd_video_url": "https://www.youtube.com/embed/406Tpu0VT5c",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/GtgN7VGB1NDx7EUyKgsyeMO0YYGjYZsPo3TCEoQM.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 38 || Classification (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f68187cb-6817-40d7-9133-5d06cb800b70.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 39,
+          "title": "Lecture - 39 || Analogy (Part-1)",
+          "published_date": "03 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WDS4U3ThARY",
+          "hd_video_url": "https://www.youtube.com/embed/WDS4U3ThARY",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/bi2dQo4b9WKK483RUjuoABuvbKvPO1diLgw8I6iO.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 39 || Analogy (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/67467dd5-773d-4cf4-a38d-12a1cf4c6b69.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 40,
+          "title": "Lecture - 40 || Analogy (Part-2)",
+          "published_date": "04 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/VcU9ZYzlQHk",
+          "hd_video_url": "https://www.youtube.com/embed/VcU9ZYzlQHk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8vJo0Hg2jyLildraWoPCTwmaAGAlr8YoIjH61OyL.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 40 || Analogy (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f89d2f3e-aa24-4704-98b1-85232ffc09cd.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 41,
+          "title": "Lecture - 41 || Analogy (Part-3)",
+          "published_date": "07 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/8wxrqNDAV4o",
+          "hd_video_url": "https://www.youtube.com/embed/8wxrqNDAV4o",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/NWtXMxjABGgHPlAkW1CFkCzrHHHsSy7VSxJHWNmZ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 41 || Analogy (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ee4d149d-ebae-4de0-a420-040607343bc7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 42,
+          "title": "Lecture - 42 || Analogy (Part-4)",
+          "published_date": "08 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/w7kMAqAz6HM",
+          "hd_video_url": "https://www.youtube.com/embed/w7kMAqAz6HM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/8sRk8BqKZjxeMM5VSEvoJcjWaelq4wJQOmcKHIAh.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 42 || Analogy (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e79a7c7c-33e1-4e55-9009-ff09ecbb52fe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 43,
+          "title": "Lecture - 43 || Analogy (Part-5)",
+          "published_date": "09 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/7qVQW83gFQg",
+          "hd_video_url": "https://www.youtube.com/embed/7qVQW83gFQg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ft3yVD8tvVUefFP2daoP68ZjGTicUQxYNpm727qa.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 43 || Analogy (Part-5)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a570eb01-2144-4a8a-988d-c3bd8427d94e.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 44,
+          "title": "Lecture - 44 || Analogy (Part-6)",
+          "published_date": "10 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/y_DdNKRmZDc",
+          "hd_video_url": "https://www.youtube.com/embed/y_DdNKRmZDc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/XUXcGaevYH4YLvfzhngBuAIlLyxjIKZY3149tkJm.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 44 || Analogy (Part-6)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/89734f51-5e01-4560-8ca2-5905d9773f3a.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 45,
+          "title": "Lecture - 45 || Analogy (Part-7)",
+          "published_date": "11 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ZFp7S5-6RTk",
+          "hd_video_url": "https://www.youtube.com/embed/ZFp7S5-6RTk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/kYW83BkkcOfxBZhdN6YsXhvwqUSvvTR5JuoG62eY.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 45 || Analogy (Part-7)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e9525318-fac1-4456-8547-d47812b06d49.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 46,
+          "title": "Lecture - 46 || Number Series (Part-1)",
+          "published_date": "14 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Cv5Qu3rlvnU",
+          "hd_video_url": "https://www.youtube.com/embed/Cv5Qu3rlvnU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/VFjbuGqzFnAf0LG5NR4dwEihEOjwisNkf2X2bgsC.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 46 || Number Series (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e7e0e063-dc9c-4fd9-a946-f6c3f69a5c06.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 47,
+          "title": "Lecture - 47 || Number Series (Part-2)",
+          "published_date": "15 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5aXFw0k1Lf8",
+          "hd_video_url": "https://www.youtube.com/embed/5aXFw0k1Lf8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/OOupgEXQRsBAa8IozxE5A9aEqaaZBbU9fGqkRAWg.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 47 || Number Series (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5f088231-6c86-4f30-b27a-3bf2b8c09de2.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 48,
+          "title": "Lecture - 48 || Number Series (Part-3)",
+          "published_date": "16 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/ITVIeFsTTcM",
+          "hd_video_url": "https://www.youtube.com/embed/ITVIeFsTTcM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/fOgYsdDVhkpbUwfYCfR203DxqYqERilJrpVhgsG1.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 48 || Number Series (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5e7d662f-08c7-428a-81bd-af69ec001ebb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 49,
+          "title": "Lecture - 49 || Number Series (Part-4)",
+          "published_date": "17 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/COdK-kQ12Rg",
+          "hd_video_url": "https://www.youtube.com/embed/COdK-kQ12Rg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/14femTlHsHpiPdkgv2BttPQ0z5FzmO7Y0ezrY0M3.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 49 || Number Series (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/15ba175d-7b4e-4572-927b-ba528e2277f4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 50,
+          "title": "Lecture - 50 || Number Series (Part-5)",
+          "published_date": "18 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/Cb1SBXxdAGA",
+          "hd_video_url": "https://www.youtube.com/embed/Cb1SBXxdAGA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/oyMmjUrBRzteN4rsPbSKv3iymJ98dciry9KJhBTP.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 50 || Number Series (Part-5)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/693a28fb-b872-4e15-a9b4-fc5e75eb837b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 51,
+          "title": "Lecture - 51 || Number Series (Part-6)",
+          "published_date": "21 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/dLigAtikqCQ",
+          "hd_video_url": "https://www.youtube.com/embed/dLigAtikqCQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/N2Q7FXYCVFvkGMgJmwh9P1QlnftzKrw8Hr8aIA8p.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 51 || Number Series (Part-6)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9cec1a78-6ac1-4083-8af3-cc56c787a0ed.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 52,
+          "title": "Lecture - 52 || Syllogism (Part-1)",
+          "published_date": "22 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/XD6wBANvru0",
+          "hd_video_url": "https://www.youtube.com/embed/XD6wBANvru0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/7Af86umMyAF5cEsL8t0vvMHHbfRZsUVeOC03uTBi.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 52 || Syllogism (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/38de973f-f6e5-49c8-aa4a-f648bca1e3ab.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 53,
+          "title": "Lecture - 53 || Syllogism (Part-2)",
+          "published_date": "23 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/WYRu1UZ49VU",
+          "hd_video_url": "https://www.youtube.com/embed/WYRu1UZ49VU",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ky2zXbWeTs6H46c8JTvToMBamvSVcqYHyK5JBkwl.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 53 || Syllogism (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e95a87ad-47d7-456a-916e-971984de71a1.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 54,
+          "title": "Lecture - 54 || Syllogism (Part-3)",
+          "published_date": "24 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/tZ7wtDyqCn0",
+          "hd_video_url": "https://www.youtube.com/embed/tZ7wtDyqCn0",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ty392QCCA0nGZuEMXTSKMUK2umXvAuO0soDAs7AA.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 54 || Syllogism (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/53075beb-5021-4956-bed8-82ddbf8828fe.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 55,
+          "title": "Lecture - 55 || Syllogism (Part-4)",
+          "published_date": "25 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/K81HNGFmMtg",
+          "hd_video_url": "https://www.youtube.com/embed/K81HNGFmMtg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/Vz3EVuWfT0Tx6VDhGhAe4IdFYQn1WytHYIZCEmY4.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 55 || Syllogism (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/af743bc9-ea87-4acf-97f3-1993cebe71c4.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 56,
+          "title": "Lecture - 56 || Syllogism (Part-5)",
+          "published_date": "28 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/5eiAn8MohA8",
+          "hd_video_url": "https://www.youtube.com/embed/5eiAn8MohA8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ob2WbaRZWJgVHkJFAWwWcm8Tci5Rq1bWNX0wuMPV.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 56 || Syllogism (Part-5)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/60b53900-5824-4ca8-83c3-43ded194bdbb.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 57,
+          "title": "Lecture - 57 || Syllogism (Part-6)",
+          "published_date": "29 Jul 2025",
+          "video_url": "https://www.youtube.com/embed/fruSADx9pYM",
+          "hd_video_url": "https://www.youtube.com/embed/fruSADx9pYM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/yc677ZKgzUvYlu6ZBmax4uA3nneLQxQOrZGLsq0q.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 57 || Syllogism (Part-6)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/3ff18bfa-c0f6-447b-851b-5a5bef24b913.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 58,
+          "title": "Lecture - 58 || Syllogism (Part-7)",
+          "published_date": "04 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/4KMCWCYrtxg",
+          "hd_video_url": "https://www.youtube.com/embed/4KMCWCYrtxg",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/9QnGv5ELC1tdcFwhOhsji6tMrHFhIn4pjQYsqfMJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 58 || Syllogism (Part-7)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/183cc0cf-841e-4916-a4ae-80ccc5da1b2b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 59,
+          "title": "Lecture - 59 || Blood Relation (Part-1)",
+          "published_date": "05 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/eyv31P5Qpwo",
+          "hd_video_url": "https://www.youtube.com/embed/eyv31P5Qpwo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/ZeflgIHDrpYXWFOUZBJ7GJ24gwqLg4ESfeLDdy2p.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 59 || Blood Relation (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/d310aa1e-7043-4383-826a-7a625a605f4b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 60,
+          "title": "Lecture - 60 || Blood Relation (Part-2)",
+          "published_date": "06 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/eWK-drwmRmQ",
+          "hd_video_url": "https://www.youtube.com/embed/eWK-drwmRmQ",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/aTxnP40AumVt2eb8sIGmYwjosZauQvFWv1u8ldpF.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 60 || Blood Relation (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a7cb93a7-a954-409b-b718-12586507b5d3.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 61,
+          "title": "Lecture - 61 || Blood Relation (Part-3)",
+          "published_date": "07 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/-GWzLazl5m8",
+          "hd_video_url": "https://www.youtube.com/embed/-GWzLazl5m8",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KC8IZFF9YKNs2FRlw4JuUGWSUdew0q6FpPzyMcSN.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 61 || Blood Relation (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9a87682c-e82e-45fa-9ced-615a1343fa79.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 62,
+          "title": "Lecture - 62 || Blood Relation (Part-4)",
+          "published_date": "08 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/H4NYIwb_0NE",
+          "hd_video_url": "https://www.youtube.com/embed/H4NYIwb_0NE",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/cfGSYebVEGTpqPhzag1m2EKKbKZxRuFX5hk6VA9m.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 62 || Blood Relation (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b34305d0-72a9-41a8-8ed7-355f258f6371.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 63,
+          "title": "Lecture - 63 || Direction (Part-1)",
+          "published_date": "11 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/G8V7BxkF-2E",
+          "hd_video_url": "https://www.youtube.com/embed/G8V7BxkF-2E",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/r2mkZZpAb2GRQsLXHBn1U7zrE57oKMgQXuebetXR.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 63 || Direction (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/48e77e92-3d90-418b-89cb-2cf29d71fd96.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 64,
+          "title": "Lecture - 64 || Direction (Part-2)",
+          "published_date": "12 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/mRGY5R-mMzI",
+          "hd_video_url": "https://www.youtube.com/embed/mRGY5R-mMzI",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/U4RcGCxSWQoLygQp7IEVUOi9Jy8EzbnpUciJzyHv.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 64 || Direction (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/dc850dc3-b304-42a8-8be4-233eef716143.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 65,
+          "title": "Lecture - 65 || Direction (Part-3)",
+          "published_date": "13 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/iuBXNSDy7S4",
+          "hd_video_url": "https://www.youtube.com/embed/iuBXNSDy7S4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/1w8zHczLIqTW295QIYIb92Se9yE1ZUcMBoP6ZcDC.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 65 || Direction (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/ed991c4c-5e1f-4dc0-b103-14fdcb08b458.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 66,
+          "title": "Lecture - 66 || Direction (Part-4)",
+          "published_date": "14 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/cE6I-ROx2co",
+          "hd_video_url": "https://www.youtube.com/embed/cE6I-ROx2co",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/b55kHJKwR8Es1UIGbhV2cxhbh3yS67onDqmWpLIf.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 66 || Direction (Part-4)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f943c61c-47a4-4f48-9179-71d92035429b.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 67,
+          "title": "Lecture - 67 || Direction (Part-5)",
+          "published_date": "18 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/9xqMwQ4XhYA",
+          "hd_video_url": "https://www.youtube.com/embed/9xqMwQ4XhYA",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/F7uXlv7GfNo1vtH3ehtFdTbpeSxTZX1dxCrBiyNC.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 67 || Direction (Part-5)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/f3224d60-44e8-47e2-8e59-a8d0f788e7f7.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 68,
+          "title": "Lecture - 68 || Inequalities (Part-1)",
+          "published_date": "19 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/W6Lv_v25ARo",
+          "hd_video_url": "https://www.youtube.com/embed/W6Lv_v25ARo",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/tH5kxJ2cA7Clp7XUONXsVEMPWsxuqExOFutBEnPF.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 68 || Inequalities  (Part-1)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4aff5c43-1b20-4654-af31-2b0958dae1a0.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 69,
+          "title": "Lecture - 69 || Inequalities (Part-2)",
+          "published_date": "21 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/LoG9mnAuFp4",
+          "hd_video_url": "https://www.youtube.com/embed/LoG9mnAuFp4",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/c05jcBZCtiV7qD7eoUkUzEss8gwCYNwQO8rUqmEy.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 69 || Inequalities (Part-2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/20c2b6c1-de68-45cc-98bf-1e768212b969.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 70,
+          "title": "Lecture - 70 || Inequalities (Part-3)",
+          "published_date": "22 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/qvZ878wFbzk",
+          "hd_video_url": "https://www.youtube.com/embed/qvZ878wFbzk",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/WHkgWmApqEPwcY40Bo14KDdQ3BgUZRWJ0Bnh9fZJ.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 70 || Inequalities (Part-3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/552b9a3c-fc84-45a0-b32f-f6b316cdb978.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 71,
+          "title": "Lecture - 71 || Mathematical Operation (Part 1)",
+          "published_date": "25 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/gBMlTEumQbM",
+          "hd_video_url": "https://www.youtube.com/embed/gBMlTEumQbM",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/FsxCdFAHh2ERj6hcJnBlhwMGkg3wZYyvEpr6f2bK.jpg",
+          "notes": []
+        },
+        {
+          "serial": 72,
+          "title": "Lecture - 72 || Mathematical Operation (Part 2)",
+          "published_date": "26 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/yv7i316Lllc",
+          "hd_video_url": "https://www.youtube.com/embed/yv7i316Lllc",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/KBnB32uc15LINLs8VIIyRZ7vo5VYX2aKnhDQkIgW.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 72 || Mathematical Operation (Part 2)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/612c61ca-9147-4e5c-acdd-cdf8713cac5f.pdf"
+            }
+          ]
+        },
+        {
+          "serial": 73,
+          "title": "Lecture - 73 || Mathematical Operation (Part 3)",
+          "published_date": "27 Aug 2025",
+          "video_url": "https://www.youtube.com/embed/1eeDnsAdxTs",
+          "hd_video_url": "https://www.youtube.com/embed/1eeDnsAdxTs",
+          "thumbnail": "https://kgs.nyc3.digitaloceanspaces.com/video-thumbs/thumb/uploads/SE7Qr2GxKxF7rqrO5aztpormQ46FuYr5cyVpHE25.jpg",
+          "notes": [
+            {
+              "title": "Lecture - 73 || Mathematical Operation (Part 3)",
+              "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5484c83d-9992-4f9c-bc08-8bf498df11d9.pdf"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+};
